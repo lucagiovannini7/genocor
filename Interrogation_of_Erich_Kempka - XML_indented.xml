@@ -1,0 +1,610 @@
+<TEI xml:id="insert_dracor_id" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Interrogation of Erich Kempka</title>
+        <title type="sub">Nuremberg Tribunal</title>
+        <title type="sub">July 3rd, 1946</title>
+        <title type="sub">Part 9 of 10</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>ENTER SOURCE NAME HERE</name>
+          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibp>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="bergold">
+            <persName>Bergold</persName>
+          </person>
+          <person xml:id="biddle">
+            <persName>Biddle</persName>
+          </person>
+          <person xml:id="lawrence">
+            <persName>Judicial President Lawrence</persName>
+          </person>
+          <person xml:id="dodd">
+            <persName>Dodd</persName>
+          </person>
+          <person xml:id="kempka">
+            <persName>Kempka</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2023-05-23">DESCRIBE CHANGE</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="2023">
+        <desc/>
+      </event>
+      <event type="premiere" when="2023">
+        <desc/>
+      </event>
+      <event type="written" when="2023">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+      <castList>
+        <head>cast</head>
+      </castList>
+    </front>
+    <body>
+      <sp who="#bergold">
+        <speaker>Bergold:<stage>(counsel for the defendant Bormann)<stage>:</speaker>
+        <p> Gentlemen of the Tribunal, I shall call the witness Kempka.</p>
+      </sp>
+      <div type="scene">
+        <head>Swearing In</head>
+        <stage>ERICH KEMPKA, a witness, took the stand and testified as follows:</stage>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Will you state your full name, please.</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> My name is Erich Kempka.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Will you repeat this oath after me: "I swear by God, the Almighty and Omniscient, that I will speak the pure truth and will withhold and add nothing."</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I swear by God, the Almighty and Omniscient, that I will speak the pure truth and will withhold and add nothing.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> You may sit down.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Direct Examination BY DR. BERGOLD:</head>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Witness, in what capacity were you employed near Hitler during the war?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> During the war I worked for Adolf Hitler as his personal driver.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Did you meet Martin Bormann in that capacity?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, I met Martin - Reichsleiter Martin Bormann in that capacity at that time.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Witness, on what day did you see the defendant Martin Bormann for the last time?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I saw the Reichsleiter, the former Reichsleiter Martin Bormann on the night of 1st and 2nd May, 1945, near the Friedrichstrasse railway station at the Weidendamm Bridge. Reichsleiter Bormann - former Reichsleiter Bormann asked me what the general situation was near the Feiedrichstrasse Station, and I told him that at the station it was hardly possible -</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> (interrupts) You are going too fast. He asked you what?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> He asked me what the situation was and whether one could get through at the Friedrichstrasse Station. I told him that was practically impossible, since the defensive fighting there was too heavy. Then he went on to ask whether it might be possible to do so with armoured vehicles. I told him that that could only be proved by trying to do so.</p>
+          <p>Then, a few tanks and SPW cars came along, and small groups began to cling to them. Then the armoured vehicles pushed their way through the anti-tank trap and afterwards the leading tank, beside which Martin Bormann was walking along about at the middle of the tank on the left-hand side, suddenly received a direct hit, I imagine from a bazooka fired from a window, and was blown up. A flash of fire suddenly shot up on the very side where Bormann was walking, and I saw -</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> You are going too fast. You are still going much too fast. The last thing I heard you say was that Bormann was walking in the middle of the column. Is that right?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, at the middle of the tank, on the left- hand side, Martin -</p>
+          <p>Then, after it had got forty to fifty metres through the anti-tank trap, this tank received a direct hit, I imagine from a bazooka fired from a window. The tank was blown to pieces right there where Martin - Reichsleiter Bormann was walking.</p>
+          <p>I myself was flung to one side by the explosion and by having a person thrown against me who had been walking ahead - I think it was Standartenfuehrer Dr. Stumpfecker - and I became unconscious. When I came to myself, for a time I could not see anything; I was blinded by the flash. Then I crawled back again to the tank trap, and since then I have not seen Martin Bormann.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Witness, did you see Martin Bormann collapse in the flash of fire when it occurred?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, indeed, I still saw a movement which was a sort of collapsing. You might call it a flying away.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Was this explosion so strong that according to your observation Martin Bormann must have been killed?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, I assume for certain that the strength of the explosion was such that it killed him.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> How was Martin Bormann dressed at that time?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Martin Bormann was wearing a leather coat, an SS leader's cap, and the insignia of an SS Obergruppenfuehrer.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Do you therefore believe that if he had been found wounded on that occasion he would have been immediately identified by these clothes as being one of the leading men of the movement?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, indeed.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> You said that another man was walking either beside or ahead of Martin Bormann, namely a Herr Naumann of the Propaganda Ministry?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, it was the former State Secretary, Dr. Naumann.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Was he approximately at the, same distance from the explosion?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, he was about one or two metres ahead of Martin Bormann.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Have you seen anything of this State Secretary Naumann subsequently?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I have not seen him again either. The same applies to Standartenfuehrer Dr. Stumpfecker.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> At that time you crawled back, did you not?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Did not anyone follow you?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes. Always, when you passed behind that anti-tank trap, you would run into defensive fire, and a few would remain lying on the spot and the rest always went back, but those who were with that tank I have never seen again.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> Gentlemen of the Tribunal, I have no further questions for this witness.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> I have no questions, Mr. President.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Do the defence counsel want to ask him any questions?</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> How many tanks were there in this column?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> That I cannot say at the moment - possibly two or three. There may have been four, but there were more SPW cars, armoured personnel carriers.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> How many were there of them?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> More and more came up, and then some of them drove away again. They tried to break through at that point. Possibly one or two tried. The others withdrew after the tank was blown up.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Where did the column start from?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> That I would not know. They came quite suddenly - there they were. I assume that they were tanks which had withdrawn into the middle of the town and were also trying to break out in a southerly direction.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> When you say they were there suddenly, where do you mean they were? Where did they pick you up?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I was not picked up. I left the Reich Chancellery</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Well, where did they join you? Where did you first see them?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> At the Weidendamm Bridge, behind the Friedrichstrasse Station. They came up there during the night.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Where was it that Bormann first asked you whether it would be possible to get through?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> That was at the tank block behind the Friedrichstrasse Station at the Weidendamm Bridge.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Do you mean that you met him in the street?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes. Martin Bormann was not present when we left the Reich Chancellery; he did not appear at the bridge until between 2 and 3 in the morning.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> You met him there just by chance, do you mean?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I only met him by chance, yes.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Was there anybody with him?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> State Secretary Dr. Naumann from the Ministry of Propaganda was with him, as well as Dr. Stumpfecker who had been the last doctor with the Fuehrer.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> How far were they from the Reich Chancellery?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> From the Reich Chancellery to the Friedrichstrasse Station is approximately a quarter of an hour's walk under normal circumstances.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And then you saw some tanks and some other armoured vehicles coming along, is that right?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, yes, indeed.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> German tanks and German armoured vehicles?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, German armoured vehicles.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Did you have any conversation with the drivers of them?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I did not talk to the drivers. I think State Secretary - former State Secretary Dr. Naumann did.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And then you did not get into the tanks or the armoured vehicles?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, we. did not get in - neither State Secretary Dr. Naumann nor Reichsleiter Bormann.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> You just walked along?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I just walked along, yes.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And where were you with reference to Bormann?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I was behind the tank, about - on the left-hand side behind the tank.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> How far from Bormann?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> It was perhaps three or four metres.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And then some missile struck the tank, is that right?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I believe the tank was hit by a bazooka fired from a window.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And then you saw a flash and you became unconscious?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, I suddenly saw a flash of fire and in the fraction of a second I also saw Reichsleiter Bormann and State Secretary Naumann both make a movement as if collapsing and flying away. I myself was thrown aside with them at that same moment and subsequently lost consciousness.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> And then you crept away?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> When I came to myself I could not see anything and then I crawled away, and crawled until I knocked my head against a tank block.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Where did you go to that night?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Then I waited there for a while and then I said farewell to my drivers, some of whom were still there, and then I stayed in the ruins of Berlin, and then the following day I left Berlin.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Where were you captured?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I was captured at Berchtesgaden.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Questioning by the Tribunal</head>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> How near were you to the tank when it exploded?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I estimate three to four metres.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> And how near was Bormann to the tank when it exploded?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I assume that he was holding on to it with one hand.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> Well, you say you assume it. Did you see him or did you not see him?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I did not see him on the tank itself. I had done the same thing in order to keep up with the tank and had held on to the tank behind.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> Did you see Bormann trying to get on the tank just before the explosion?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I did not see that. I did not see any effort on Bormann's part which indicated that he wanted to climb on to the tank.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> How long before the explosion were you looking at Bormann?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> All this happened in a very brief period. When I was still talking to Bormann the tanks arrived and we went through the tank trap right away and after thirty or forty metres the tank was hit.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> What do you call a brief period?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Well, during the conversation, that was perhaps only a few minutes.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> And how long between the conversation and the explosion?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I cannot tell you the exact time, but surely it was not a quarter of an hour, or perhaps rather not half an hour.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> Had you been in the Chancellery just before this?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I left the Reich Chancellery in the evening about nine o'clock.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> Have you ever told this story to anyone else?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I have been interrogated several times about this and have already made the same statement.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> And who took your interrogation, some officers?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes.</p>
+        </sp>
+        <sp who="#biddle">
+          <speaker>Biddle:</speaker>
+          <p> Of what army, what nation?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I have been interrogated by various officers of the American Army, the first time at Berchtesgaden, the second time at Freising and the third time at Oberursel.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> As a result of the Tribunal's inquiry there are one or two questions that occur to me that I think perhaps should be brought out which I would like to ask the witness, if I may.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> Certainly.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Cross-Examination BY MR. DODD:</head>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> You were with Bormann, were you, at 9 o'clock in the bunker in the Reich Chancellery, on that night?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, indeed. I saw him for the last time about 9 o'clock in the evening. When I said farewell to Dr. Goebbels, I also saw Martin Bormann down in the cellar and then I saw him again during the night about two or three o'clock in the morning.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> Well, maybe you said so but I did not get it if you did. Where did you see him at two or three in the morning prior to the time that you started to walk with him along with the tank?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Before that I saw him at the Friedrichstrasse Station between two or three in the morning and before that I saw him for the last time at 21 hours in the Reich Chancellery.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> Well, I know you did. But did not you and Bormann have any conversation about how you would get out of Berlin when you left the Reich Chancellery bunker at about nine o'clock that night?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I took my orders from former Brigadefuehrer Milunke. I was not receiving direct orders from Reichsleiter Bormann any more.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> I did not ask you if you got an order from him. I asked if you and Bormann had not, and whoever else was there had not, discussed how you would get out of Berlin. It was nine o'clock at night and the situation was getting pretty desperate. Did you not talk about how you would get out that night? There were not many of you there.</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, there were about four to five hundred people in all still in the Reich Chancellery and those four or five hundred people had been divided into separate groups, and these groups left the Chancellery one by one.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> I know there may have been that many in the Chancellery. I am talking about that bunker that you were in. You testified about this before, did you not? You told people that you knew that Hitler was dead as well as Bormann. And you must have been in the bunker if you knew that.</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Yes, I have already testified to that effect.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> Well, what I want to find out is whether or not you and Bormann and whoever was left in that bunker talked about leaving Berlin that night before you left the bunker?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I did not speak about it any more to Reichsleiter Bormann at that time. We only had marching orders, which instructed us, if we were successful, to report at Fehrbellin to a combat group which we were to join.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> You are the only man who has been able to testify that Hitler is dead and the only one who has been able to testify that Bormann is dead; is that so, so far as you know?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I can state that Hitler is dead, and that he died on the 30th of April in the afternoon between two and three o'clock.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> I know, but you did not see him die either, did you?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> No, I did not see him die.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> And you told the interrogators that you believe you carried his body out of the bunker and set it on fire. Are you not the man who has said that?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> I carried Adolf Hitler's wife out and I saw Adolf Hitler himself wrapped in a blanket.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> Did you actually see Hitler?</p>
+        </sp>
+        <sp who="#kempka">
+          <speaker>Kempka:</speaker>
+          <p> Not himself any more. The blanket in which he was wrapped was rather short and I only saw his legs hanging out.</p>
+        </sp>
+        <sp who="#dodd">
+          <speaker>Dodd:</speaker>
+          <p> I have no further questions, Mr. President.</p>
+        </sp>
+        <sp who="#bergold">
+          <speaker>Bergold:</speaker>
+          <p> I have no further questions either.</p>
+        </sp>
+        <sp who="#lawrence">
+          <speaker>Judicial President Lawrence:</speaker>
+          <p> The witness can retire.</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
