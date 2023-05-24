@@ -1,3 +1,4 @@
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xml:id="insert_dracor_id" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -24,25 +25,25 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-        </bibp>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bergold">
+          <person xml:id="bergold" sex="MALE">
             <persName>Bergold</persName>
           </person>
-          <person xml:id="biddle">
+          <person xml:id="biddle" sex="MALE">
             <persName>Biddle</persName>
           </person>
-          <person xml:id="lawrence">
+          <person xml:id="lawrence" sex="MALE">
             <persName>Judicial President Lawrence</persName>
           </person>
-          <person xml:id="dodd">
+          <person xml:id="dodd" sex="MALE">
             <persName>Dodd</persName>
           </person>
-          <person xml:id="kempka">
+          <person xml:id="kempka" sex="MALE">
             <persName>Kempka</persName>
           </person>
         </listPerson>
@@ -78,7 +79,8 @@
     </front>
     <body>
       <sp who="#bergold">
-        <speaker>Bergold:<stage>(counsel for the defendant Bormann)<stage>:</speaker>
+        <speaker>Bergold:</speaker>
+        <stage>(counsel for the defendant Bormann)</stage>:
         <p> Gentlemen of the Tribunal, I shall call the witness Kempka.</p>
       </sp>
       <div type="scene">
