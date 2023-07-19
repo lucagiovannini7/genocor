@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mladic 121004IT</title>
-        <subtitle>Thursday, October 2012</subtitle>
+        <title type="main">Mladic 121004IT</title>
+        <title type="sub">Thursday, October 2012</title>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -64,12 +64,6 @@
   <standOff>
     <listEvent>
       <event type="print" when="2012">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
         <desc/>
       </event>
     </listEvent>

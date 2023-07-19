@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mladic 121002IT</title>
-        <subtitle>Tuesday, October 2012</subtitle>
+        <title type="main">Mladic 121002IT</title>
+        <title type="sub">Tuesday, October 2012</title>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
