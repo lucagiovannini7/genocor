@@ -85,6 +85,7 @@
   </standOff>
   <text>
     <body>
+      <div>
       <stage>[Open session] </stage>
       <stage>[The accused not present] --- Upon commencing at 9.34 a.m. </stage>
       <sp who="#judge-orie">
@@ -170,8 +171,11 @@
       <stage>[Trial Chamber confers] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> Mr. Lukic, the Chamber reached the following conclusions. On the basis of the submissions made, until now, the Chamber cannot establish that there's any medical reason that Mr. Mladic is unable to attend court. That's one. Second, please convey to Mr. Mladic that he has an opportunity to attend court after I've -- we'll make a short break. And that if he doesn't take that opportunity, that the Chamber will continue to hear the case, and that if Mr. Mladic refuses to enter court, that he can follow the proceedings from elsewhere, but we're not going to interrupt the testimony of the next witness for Mr. Mladic at a later stage to enter. So if he decides not to enter the courtroom, then he'll -- he will only  be allowed to enter the courtroom again once we start with the testimony of the next witness. The Chamber considers that it's the duty of the Defence, at least to be present in court, I'm not giving you any instructions as what to do or what not to do. Whatever you decide, the Chamber will continue to hear the case and would consider it an obligation. But, again, we're not hear at this moment to judge upon your obligations, but we consider it the obligation of the Defence to be present in court to look after the interests of the accused in the way they consider proper. Therefore, we'll take a break of two minutes. You'll have an opportunity to inform Mr. Mladic about this all, and then we're back in court and we'll continue either in the presence of Mr. Mladic or in his absence. We take a break. --- Break taken at 9.50 a.m. </p>
+        <p> Mr. Lukic, the Chamber reached the following conclusions. On the basis of the submissions made, until now, the Chamber cannot establish that there's any medical reason that Mr. Mladic is unable to attend court. That's one. Second, please convey to Mr. Mladic that he has an opportunity to attend court after I've -- we'll make a short break. And that if he doesn't take that opportunity, that the Chamber will continue to hear the case, and that if Mr. Mladic refuses to enter court, that he can follow the proceedings from elsewhere, but we're not going to interrupt the testimony of the next witness for Mr. Mladic at a later stage to enter. So if he decides not to enter the courtroom, then he'll -- he will only  be allowed to enter the courtroom again once we start with the testimony of the next witness. The Chamber considers that it's the duty of the Defence, at least to be present in court, I'm not giving you any instructions as what to do or what not to do. Whatever you decide, the Chamber will continue to hear the case and would consider it an obligation. But, again, we're not hear at this moment to judge upon your obligations, but we consider it the obligation of the Defence to be present in court to look after the interests of the accused in the way they consider proper. Therefore, we'll take a break of two minutes. You'll have an opportunity to inform Mr. Mladic about this all, and then we're back in court and we'll continue either in the presence of Mr. Mladic or in his absence. We take a break.</p>
       </sp>
+      <stage>--- Break taken at 9.50 a.m. </stage>
+      </div>
+      <div>
       <stage>[The accused entered court] --- On resuming at 10.00 a.m. </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
@@ -298,6 +302,8 @@
         <p> Thank you. </p>
       </sp>
       <stage>[Trial Chamber confers] </stage>
+      </div>
+      <div>
       <stage>[The witness entered court] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
@@ -306,7 +312,8 @@
       <sp who="#taci">
         <speaker>THE WITNESS:</speaker>
         <stage>[Interpretation]</stage>
-        <p> I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth. </p>      </sp>
+        <p> I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth. </p>      
+      </sp>
       <stage>WITNESS SAFET TACI </stage>
       <stage>[Witness answered through interpreter]</stage> 
       <stage> Examination by Mr. Traldi: </stage>
@@ -761,6 +768,8 @@
         <speaker>JUDGE ORIE:</speaker>
         <p> P161 is admitted into evidence. Mr. Stojanovic, in view of the -- a bit extraordinary course of proceedings this morning, the Chamber is considering to have only two, and perhaps slightly longer breaks. Are you ready to start your cross-examination which would then go until -- at least the first portion, until 11.00? Mr. Taci, you'll now be cross-examined by Mr. Stojanovic. Mr. Stojanovic is counsel for Mr. Mladic. You'll find him to your left. </p>
       </sp>
+      </div>
+      <div>
       <stage>Cross-examination by Mr. Stojanovic: </stage>
       <sp who="#stojanovic">
         <speaker>Q.</speaker>
@@ -1734,8 +1743,11 @@
       </sp>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> Two questions only. Yes. Questioned by the Court: </p>
+        <p> Two questions only. Yes.</p> 
       </sp>
+      </div>
+      <div>
+      <stage>Questioned by the Court: </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Then, Mr. Taci, I have two questions for you. You repeatedly said that you had no knowledge after you had returned to your place. Now, in the proffer of testimony I read the following: "He heard some announcements on Radio Prijedor saying that the population in Kozarac should surrender, that the Serbs were a peaceful  people, that they should live together, and that the power should be turned over to the Serbs." That line suggests that you were able to listen to the radio. Because, earlier, when asked about rendering any arms, you said, Well, we had no contact whatsoever, we couldn't know. Here in your proffer of evidence you say that you were listening to Prijedor Radio. Could you explain. </p>
@@ -1788,6 +1800,8 @@
         <speaker>JUDGE ORIE:</speaker>
         <p> Thank you for those answers. Mr. Traldi, if it's a matter of a couple of minutes, then we'll ... and then we take a break after that.</p> 
       </sp>
+      </div>
+      <div>
       <stage>Re-examination by Mr. Traldi:</stage> 
       <sp who="#traldi">
         <speaker>MR. TRALDI:</speaker>
@@ -1833,8 +1847,11 @@
       <stage>[The witness withdrew] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> We will take a break, and we resume at 10 minutes past 1.00. --- Recess taken at 12.41 p.m. --- On resuming at 1.12 p.m. </p>
+        <p> We will take a break, and we resume at 10 minutes past 1.00.</p>
       </sp>
+      </div>
+      <div>
+      <stage>--- Recess taken at 12.41 p.m. --- On resuming at 1.12 p.m.</stage> 
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Before I invite the Prosecution to call its next witness, which will be taken by whom? </p>
@@ -1924,6 +1941,8 @@
         <speaker>JUDGE ORIE:</speaker>
         <p> Yes. Thank you, Ms. Bibles. </p>
       </sp>
+      </div>
+      <div>
       <stage>[The witness entered court] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
@@ -2896,6 +2915,7 @@
         <p> We adjourn for the day, and we resume tomorrow, Tuesday, the 4th of September, at 9.30 in the morning, in this same courtroom, I.</p> 
          <stage>--- Whereupon the hearing adjourned at 2.15 p.m., to be resumed on Tuesday, the 4th day of September, 2012, at 9.30 a.m.</stage>
       </sp>
+     </div>
     </body>
   </text>
 </TEI>
