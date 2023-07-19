@@ -1,4 +1,4 @@
-<TEI xml:id="insert_dracor_id" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="geno000003" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -88,6 +88,7 @@
   </standOff>
   <text>
     <body>
+      <div>
       <stage>[Open session] </stage>
       <stage>[The accused entered court] --- Upon commencing at 9.32 a.m. </stage>
       <sp who="#judge-orie">
@@ -143,8 +144,10 @@
         <speaker>MR. IVETIC:</speaker>
         <p> I am, Your Honour. </p>
       </sp>
+      </div>
+      <div>
       <stage>WITNESS EDWARD VULLIAMY [Resumed]</stage>
-       <stage> Cross-examination by Mr. Ivetic: [Continued]</stage>
+      <stage> Cross-examination by Mr. Ivetic: [Continued]</stage>
       <sp who="#ivetic">
         <speaker>Q.</speaker>
         <p>   Good morning, Mr. Vulliamy. </p>
@@ -1726,8 +1729,10 @@
       <stage>[The witness withdrew] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> We take a break. And we resume at five minutes past midday. --- Recess taken at 11.46 a.m. --- On resuming at 12.13 p.m. </p>
+        <p> We take a break. And we resume at five minutes past midday. </p>
+        <stage>--- Recess taken at 11.46 a.m. --- On resuming at 12.13 p.m.</stage>
       </sp>
+      </div>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Could the witness be escorted into the courtroom. </p>
@@ -2135,6 +2140,7 @@
         <speaker>MR. IVETIC:</speaker>
         <p> Thank you, Your Honour.</p> 
       </sp>
+      <div>
       <stage>Further Cross-examination by Mr. Ivetic: </stage>
       <sp who="#ivetic">
         <speaker>Q.</speaker>
@@ -2270,8 +2276,11 @@
       </sp>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> So most likely we will be able to conclude the examination-in-chief today so that cross-examination can start tomorrow. We take a break and we resume at ten minutes past 1.00. --- Recess taken at 12.49 p.m. --- On resuming at 1.14 p.m. </p>
+        <p> So most likely we will be able to conclude the examination-in-chief today so that cross-examination can start tomorrow. We take a break and we resume at ten minutes past 1.00.</p>
+        <stage>--- Recess taken at 12.49 p.m. --- On resuming at 1.14 p.m.</stage>
       </sp>
+      </div>
+      <div>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Is the Prosecution ready to call its next witness? </p>
@@ -3302,8 +3311,10 @@
       </sp>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> We adjourn for the day, and we resume tomorrow, Friday, the 21st of September, at 9.30 in the morning, in this same courtroom, I. --- Whereupon the hearing adjourned at 2.16 p.m., to be reconvened on Friday, the 21st day of September, 2012, at 9.30 a.m.     </p>
+        <p> We adjourn for the day, and we resume tomorrow, Friday, the 21st of September, at 9.30 in the morning, in this same courtroom, I. </p>
+        <stage>--- Whereupon the hearing adjourned at 2.16 p.m., to be reconvened on Friday, the 21st day of September, 2012, at 9.30 a.m.</stage>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

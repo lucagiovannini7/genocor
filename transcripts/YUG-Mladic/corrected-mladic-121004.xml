@@ -1,4 +1,4 @@
-<TEI xml:id="insert_dracor_id" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="genocor000005" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,6 +79,7 @@
   </standOff>
   <text>
     <body>
+      <div>
       <stage>[Open session] </stage>
       <stage>[The accused entered court] --- Upon commencing at 9.33 a.m. </stage>
       <sp who="#judge-orie">
@@ -183,10 +184,7 @@
         <speaker>THE WITNESS:</speaker>
         <p> And nothing but the truth. </p>
       </sp>
-      <sp who="#abdel-razek">
-        <speaker>WITNESS:</speaker>
-        <p> HUSEIN ALY ABDEL-RAZEK. </p>
-      </sp>
+      <stage>WITNESS: HUSEIN ALY ABDEL-RAZEK. </stage>
       <stage>[Witness answered through interpreter] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
@@ -204,6 +202,8 @@
         <speaker>MR. VANDERPUYE:</speaker>
         <p> Thank you, Mr. President. Good morning to you, Your Honours. Good morning to counsel. Good morning to you General Mladic.</p>
       </sp>
+      </div>
+      <div>
       <stage>Examination by Mr. Vanderpuye:</stage> 
       <sp who="#vanderpuye">
         <speaker>Q.</speaker>
@@ -699,8 +699,9 @@
       <stage>[The witness stands down] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> We'll take a break and resume at 10 minutes to 11.00. --- Recess taken at 10.30 a.m. --- On resuming at 11.00 a.m.  </p>
+        <p> We'll take a break and resume at 10 minutes to 11.00.</p>
       </sp>
+      <stage>--- Recess taken at 10.30 a.m. --- On resuming at 11.00 a.m.  </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Could the witness be escorted into the courtroom. The Chamber has understood that the witness is, for medical reasons, unable to be with us any longer than until 12.30, and then we wonder how we would use the time which then remains today because the witness will only be able to return tomorrow. Mr. Groome. </p>
@@ -1559,6 +1560,8 @@
         <speaker>JUDGE ORIE:</speaker>
         <p> That is appreciated, Mr. Petrusic. You may proceed.  </p>
       </sp>
+      </div>
+      <div>
       <stage>Cross-examination by Mr. Petrusic:</stage>
       <sp who="#petrusic">
         <speaker>Q.</speaker>
@@ -1861,8 +1864,10 @@
       </sp>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> The witness -- it was preferred that the witness not start today, and that's reality by now. We adjourn for the day and we will resume tomorrow, Friday, the 5th of October, at 9.30 in this same Courtroom I. --- Whereupon the hearing adjourned at 12.32 p.m., to be reconvened on Friday the 5th day of October, 2012, at 9.30 a.m.                  </p>
+        <p> The witness -- it was preferred that the witness not start today, and that's reality by now. We adjourn for the day and we will resume tomorrow, Friday, the 5th of October, at 9.30 in this same Courtroom I. </p>
       </sp>
+      <stage>--- Whereupon the hearing adjourned at 12.32 p.m., to be reconvened on Friday the 5th day of October, 2012, at 9.30 a.m.</stage>
+    </div>
     </body>
   </text>
 </TEI>

@@ -1,9 +1,9 @@
-<TEI xml:id="insert_dracor_id" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="geno000001" xml:lang="insert_lang_code" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Mladic 120903IT</title>
-        <subtitle>Monday, September 2012</subtitle>
+        <title type="main">Mladic 120903IT</title>
+        <title type="sub">Monday, September 2012</title>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -1002,8 +1002,9 @@
       <stage>[The witness stands down] </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
-        <p> We'll take a break, and we'll resume at 11.30. --- Recess taken at 11.01 a.m. --- On resuming at 11.39 a.m. </p>
+        <p> We'll take a break, and we'll resume at 11.30.</p>
       </sp>
+      <stage>--- Recess taken at 11.01 a.m. --- On resuming at 11.39 a.m. </stage>
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Could the witness be escorted into the courtroom. Mr. Lukic, it's -- the request that Mr. Ivetic cross-examines the witness coming second after this witness is granted. </p>
@@ -1849,9 +1850,9 @@
         <speaker>JUDGE ORIE:</speaker>
         <p> We will take a break, and we resume at 10 minutes past 1.00.</p>
       </sp>
+      <stage>--- Recess taken at 12.41 p.m. --- On resuming at 1.12 p.m.</stage> 
       </div>
       <div>
-      <stage>--- Recess taken at 12.41 p.m. --- On resuming at 1.12 p.m.</stage> 
       <sp who="#judge-orie">
         <speaker>JUDGE ORIE:</speaker>
         <p> Before I invite the Prosecution to call its next witness, which will be taken by whom? </p>
