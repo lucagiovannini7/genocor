@@ -1,0 +1,1765 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-01-64-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	SYLVESTRE GACUMBITSI
+
+
+13 OCTOBER 2003
+ 0845H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Andrésia Vaz, Presiding
+	Sergey A. Egorov
+	
+For the Registry:
+	Mr. Constant K. Hometowu
+	Mr. Ramadhani Juma
+	
+For the Prosecution:
+	Mr. Richard Karegyesa
+	Ms. Andra Mobberley
+	Mr. Khalid Ramadan
+
+For the Accused Sylvestre Gacumbitsi:
+	Mr. Kouengoua
+	Ms. Anne Ngatio Mbattang
+
+Court Reporters:
+Ms. Judith Kapatamoyo 
+Ms. Donna M. Lewis 
+Ms. Karen Holm-Porter 
+Ms. Sithembiso Moyo 
+Mr. Mark Porter
+	
+	
+	
+
+
+I N D E X
+
+WITNESSES
+
+For the Defence:
+WITNESS XW9
+Examination-in-chief by Mr. Kouengoua............................................................................................6
+(Commenced in closed session)
+Cross-examination by Ms. Mobberley.............................................................................................14
+
+WITNESS XW10
+Examination-in-chief by Ms. Mbattang.............................................................................................22
+(Commenced in closed session)
+Cross-examination by Mr. Karegyesa.............................................................................................29
+
+WITNESS XW11
+Examination-in-chief by Mr. Kouengoua..........................................................................................33
+(Commenced in closed session)
+Cross-examination Ms. Mobberley................................................................................................40
+
+WITNESS XW1
+Examination-in-chief by Mr. Kouengoua ..........................................................................................50
+(Commenced in closed session)
+Cross-examination by Mr. Karegyesa .............................................................................................57
+
+
+
+
+P R O C E E D I N G S
+MADAM PRESIDENT:
+This court is in session. Pursuant to Rule 15bis, in view of the fact that Judge Reddy had to leave Tanzania for family reasons.  
+
+Good morning ladies and gentlemen, I would now like to ask the registry to read the cause list.
+MR. HOMETOWU:
+Thank you, Madam President.
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Andrésia Vaz, presiding, and Judge Sergey A. Egorov, is now sitting in open session today, Monday, the 13th of October 2003, for the continuation of a trial in the matter of the Prosecutor versus Sylvestre Gacumbitsi, Case No. ICTR-01-64-T.
+
+Thank you.
+MADAM PRESIDENT:
+Thank you, Registry.  I would now like to ask the parties to introduce themselves and we shall begin with the Office of the Prosecutor today.
+MR. KAREGYESA:
+Good morning, Madam President and Your Honour, Judge.  The Prosecutor is represented by 
+Ms. Mobberley, Mr. Ramadan and myself.
+MADAM PRESIDENT:
+Counsel Kouengoua?
+MR. KOUENGOUA:
+Thank you, Madam President, good day, Your Honour.  I would like to greet the Office of the Prosecutor, the Registry, the Interpreters and the Court Reporters.  Today the Defence shall be represented by Ms. Anne Ngatio Mbattang, our assistant, Tharcisse Gatarama, and myself,
+Mr. Kouengoua.
+MADAM PRESIDENT:
+We thank you.  If there's no motion to be made by either party, then I shall ask Counsel Kouengoua to call his witness, based on the list of witnesses that I received.  I believe that XW9 shall be appearing today; is that correct?
+MR. KOUENGOUA:
+Yes, Madam President and Your Honours.  The Defence since Monday had thought that ZHZ would be feeling better and could come to testify, but the information I received only a few moments ago, states that this information is still -- that his health is still not very good, and so we have decided to call Witness XW9 to replace Witness ZHZ who was on the list that was filed last Friday.
+So this morning Witness XW9 shall be called to testify as our first witness of the day.
+MADAM PRESIDENT:
+We thank you, Counsel.  Please bring the witness in.  Mr. Prosecutor, would you like to make a motion?
+MR. KAREGYESA:
+Your Honours, I have a request consequent to your order that we proceed with two Judges under Rule 15bis.  So maybe they could hold on until I have made my request before bringing in the witness.  
+
+Your Honours the Prosecutor requests, consequent to your order made under Rule 15bis, that the Registry be ordered to make appropriate arrangements to have the testimony of the witnesses that maybe heard in the absence of Judge Reddy to be recorded on video, and placed under seal for the benefit of Judge Reddy who is absent from these proceedings.  
+
+Your Honours, this request is predicated on the fact that the image of a protected witness is never recorded on video in normal circumstances where all the Judges are present.  It's my understanding Your Honours, that Rule 15bis presupposes that an absent Judge will have the opportunity not only to read the transcripts of proceedings he or she may have missed, but also the opportunity of viewing the video tapes of such proceedings to assist the Judge in assessing the demeanour or credibility of said witness.  
+
+I am reliably informed, Your Honours, that the practice in our sister Tribunal, ICTY, The Hague, is that images of a protected witness, are recorded, and the tapes placed under seal.  This issue recently came up and was very contentious in the recent appeal, in the Butare case, when it was discovered that contrary to the practice of the Hague, images of protected witnesses at the ICTR are not video taped.  I raise this matter, Your Honours, because it has ramifications in the event of an appeal.  
+
+Simply put, Your Honours, we pray that for any witness who testifies in the absence of a third Judge, the image of that witness be recorded on video and placed under seal for the benefit of the Judge, who is absent in the proceedings.  Most obliged, Your Honours.
+MADAM PRESIDENT:
+We thank you, Mr. Prosecutor.  Counsel Kouengoua, do you have a few comments that you would like to make with respect to the motion that has just been made by the Office of the Prosecutor?
+MR. KOUENGOUA:
+Thank you, Madam President.  The motion that has just been filed by the Prosecutor is pursuant to Rule 15bis of the Rules of Procedure and Evidence.  The Prosecutor has moved that the Trial Chamber order that the testimony of the witness be recorded on video because one of the Judges is not present.  The question that the Defence would like to raise is whether pursuant to Rule 15Bis there are any provisions that state first of all, that there can be a video recording of a protected witness.  If there is no provision to that effect, then an exception should certainly not be allowed.  If Rule 15 which our colleague mentions, the provision that should be taken by the Trial Chamber with respect to dealing with the absence of a Judge, and not with respect to a witness, be the witness for the Prosecution or Defence witness.   I do not see how one can ask that a protected witness be -- testimony be recorded and that should be done pursuant to Rule 15bis. 
+
+Madam President, the Defence has not yet found anything that would state that one can make a video recording of a protected witness.  And in the absence of such a possibility being raised, it is not possible to make an exception.  We need to use the principle as the foundation and further to that exception, not raising the exception and then apply this to the principle.  
+
+The protection deals with a witness not with a Judge or Judges.  Protective measures deal with a Judge.  And to our knowledge, we know of no legal provision stating that one can make a video recording of a protected witness, and, therefore, Madam President, unless this information that's coming is brought to our attention, we are of a view that the Trial Chamber can not possibly grant the Prosecutor's motion.
+MADAM PRESIDENT:
+Counsel Kouengoua, we thank you.
+MR. KAREGYESA:
+Madam President:
+MR. HOMETOWU:
+May it please you, Madame President.  The demand made by the Prosecutor raises a lot of technical issues, and Registry is at the moment unable to give an appropriate response.  We would, however, suggest that we would invite the Chief of Communications to come and throw more light on the issue since it involves the protection of witnesses.  Thank you.
+MR. KAREGYESA:
+Your Honours, before I was interrupted by registry on technical matters, I wanted to make a simple rejoinder to Defence Counsel's submission.
+
+Your Honours, it's common sense that these proceedings are reported both on audio and video.  In short, that is the Rule.  The exception is that the images of protected witness aren't recorded, for the simple reason that:  One, all three Judges are present, and can observe the demeanour of the witness in the box.  Absence of a Judge, Your Honours, common sense dictates that that exception be lifted for the benefit of the Judge who is absent, otherwise this would be a paper trial, Your Honours, that we submit the transcripts are not sufficient.  The Judge or Judges have to have the benefit of observing the demeanour of a witness as that witness testifies.  And with current technology, you don't need a rocket scientist.  It's simple to have a camera turned on the witness with the express condition under Rule 75 that that tape be placed under seal, like the proceedings in closed session are placed under seal and all identifying information concerning a protected witness.  Most obliged 
+Your Honours.
+MR. KOUENGOUA:
+Madam President, with your leave.
+MADAM PRESIDENT:
+We thank the Office of the Prosecutor.
+Yes, Counsel Kouengoua, we should not deal on this matter at length.
+MR. KOUENGOUA:
+No, I will be very fast, Madame President.  When I spoke, I said that with respect  -- in the Rules of Procedure and Evidence, I do not see what provision could possibly allow for a video recording of a protected witness.  But actually there's case law to that effect and in the first part of the trial, at least two Prosecution witnesses who were heard in the presence of only two Judges and it was never -- no request was ever made that the images be recorded, and I think that we should follow set practices set before this Tribunal by the Prosecutor himself, and I do not see why it should be change this way of proceeding.
+MADAM PRESIDENT:
+Thank you, Counsel Kouengoua.
+
+The Trial Chamber is of the view that Rule 15bis doesn't obligate the Trial Chamber to make a recording of the testimony of the protected witness on a videocassette, to allow the absent Judge to view the tapes.  However, this could be useful for the absent Judge, and in view of the reservations stated by the registry, we would rather wait for the registry to clarify whether it were possible from a technical perspective because I would admit that I had asked this question to the Registry, and I was told that Judge Reddy could not be here, not only this week but possibly even next week, and the registry had informed me that at this present stage it was not possible.  However, the registry, did advise me that they were going to speak to the technicians and see what was possible, because if the parties are willing that we continue to sit with two Judges, if Judge Reddy does not return by next week, in that case we could only sit under certain conditions in view of the provisions of Rule 15bis.  Therefore, we shall continue and we shall see what is the best  -- would be the best position to be adopted.  
+
+I would like to thank you, and I would now like to ask that the witness be brought in.  And this morning the witness is XW9.
+
+MADAM PRESIDENT:
+Good morning, Witness.
+THE WITNESS:
+Good morning, Madam President.
+MADAM PRESIDENT:
+You are a protected witness.  Your pseudonym is XW9.  You are therefore Witness XW9.  You are going to make a solemn declaration.  The registry will help you to do that and you will then be examined-in-chief by the Defence and cross-examined by the Prosecution.  The Defence then might wish to re-examine you and the Judges might have questions to put to you directly.  
+
+Registry, please proceed with the solemn declaration.
+MR. JUMA:
+Please, stand up and raise your right hand and repeat the following words after me.
+(Declaration made by Witness XW9 in Kinyarwanda)
+MADAM PRESIDENT:
+Thank you, Witness.  Thank you, Registry.  Counsel Kouengoua, you have the floor. 
+MR. KOUENGOUA:
+Thank you, Madam.  As this is a protected witness, I should like his -- my cross-examination to be in two phases.  In closed session to begin with and then in open session.   Thank you Madam President.
+MADAM PRESIDENT:
+Very well, let us go into closed session for the first part of the examination-in-chief of this witness.
+
+(At this point in the proceedings, a portion of the transcript [pages 6 to 7] was extracted and sealed under separate cover as the session was heard in camera)
+(Pages 1 to 5 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+0920H
+MADAM PRESIDENT:
+Counsel Kouengoua, we are now in open session, you may proceed.
+MR. KOUENGOUA:
+Thank you, Madam.
+BY MR. KOUENGOUA:
+Q.	Witness XW9, we are now in open session.  If I ask any question or should anyone ask any question which incurs the risk of revealing your identity, please point that out to Madam President or to anyone else if you give any -- or if you are called upon to give any information that might reveal your identity because we are now in open session.
+
+Witness XW9, you have just stated that you knew the defendant, Sylvestre Gacumbitsi?
+A.	That is correct, that is correct.
+Q.	How did you know him?
+A.	I knew him because he was the bourgmestre of our commune, I was therefore one of the people he administered.
+Q.	When did you learn of the murder of President Habyarimana?
+A.	I learnt of the president's death in the morning of Thursday.  It was about 5 o'clock in the morning that's when I heard the news.
+Q.	How did you hear of it?
+A.	I had a radio.  I switched it on at about 5 o'clock, I heard very sad music and a few minutes later an announcement was read on the radio and they said that the aircraft carrying the President of Rwanda and the President of Burundi had been shot down.
+Q.	And where were you at that time?
+A.	I was at home.
+Q.	In a closed session you said you worked somewhere, did you that day go to your place of work?
+A.	As of the day the president's plane was shot down there was an announcement forbidding groups of more than two people from gathering, so I stayed home.
+Q.	You said that you stayed home; did your neighbours also stay home?
+A.	Yes, all my neighbours stayed in their respective residences.
+Q.	In your locality were there Hutu and Tutsi families?
+A.	Yes.
+Q.	Did those two groups incur problems after the death of the president had been announced?
+A.	The families that had difficulties were the Tutsi families who were attacked by bandits looking for money and other goods to loot.
+Q.	Apart from the Tutsi were there any other people attacked by those bandits?
+A.	Yes, there was -- there were.
+Q.	Were you attacked by those bandits?
+A.	Yes, I was attacked by the bandits, and when they attacked me, they tied me up.
+Q.	They tied you up and then what did they do?
+A.	They tied me up, they asked me for money, so I gave them money and then they untied me and then they went off with the money I had given them.
+Q.	What were you tied up with?
+A.	They had ropes, the sort of rope one uses to tie up goats.  So they used that rope to tie me up.
+Q.	On what date were you attacked?
+A.	It was the 11th.
+Q.	You just said that you gave the money -- you gave the money, so how much was it?
+MADAM PRESIDENT:
+I am sorry, could you give us the exact date please, which month, which year?
+BY MR. KOUENGOUA: 
+Q.	Witness XW9, you have just said you were tied up and then in reply to the question when were you tied, you, you said the 11th.  Now, Madam President would like to know what month and what year, which month?
+A.	It was in the month of April 1994.
+Q.	And I was asking you how much money you gave those bandits?
+A.	I gave them 72,000 francs, 72,000.
+Q.	You gave them the money before they tied you up or after they tied you up?
+A.	I gave them the money when they had already tied me up.  In fact I was giving them the money for them to release me from my bonds, untie me.
+Q.	And where was this money, in your pocket or where was the money?
+A.	Yes, the money was in my pocket, in my jacket pocket which was somewhere in the house.
+Q.	You mean to tell the Trial Chamber that you went with your hands tied to get the money?
+A.	It was my wife who went to get the money and gave it to them and then they untied me.
+Q.	When they tied you up, attacked you and then you gave them the money they released you, after that did you leave your house?
+A.	Subsequently I left my house and went to hide in a ravine between two collines, hills with my wife and children.
+Q.	Did you go back to your place of work?
+A.	No, there was no more work.  Markets were not held any more.  There was no more mass being celebrated after the death of the president.
+Q.	And what did you do after hiding?
+A.	We stayed in a hiding place until the 28th when we observed that everybody was running away, everybody was fleeing and we did as much.
+Q.	At your place of work you said it was (By order of the Court, this name has been struck from the record) what did you say?  Give the name of the cooperative.  Perhaps the interpreter could help us refresh our memories in English, I mean in French it sounded as (by order of the Court this name has been struck from the record) 
+MR. KOUENGOUA:
+Don't answer that question, Witness sorry, don't answer the question.
+BY MR KOUENGOUA:
+Q.	Witness XW9, when you hid what happened afterwards?
+A.	What happened is that we fled on the 28th; we saw people take -- hitting the road; we also left our hiding place to escape.
+Q.	During the month of April l994, after the death of the president of the republic, did you have opportunity to encounter the bourgmestre?
+A.	I did see him.  On the 11th I went to Nyamugali.  I went to see the manager to ask him for money and that is when I saw him.
+Q.	You say you went where?
+A.	I went to my place of work to seek money.
+MR. KOUENGOUA:
+Nyamugali is No. 168 on the list of proper nouns that we have filed.
+BY MR. KOUENGOUA:
+Q.	And under what circumstances did you encounter him?
+A.	I saw him when he was going to Nyamugali trading centre at the market place.
+Q.	Did you know what he was going to do there at that time?
+A.	Bandits had attacked a girl by the name of Margaret, bandits had cut her up and the bourgmestre had been sent to do something, to stop those bandits.
+Q.	And how did you know that?
+A.	I had gone to get money because I hadn't yet been paid my salary of March.  Until the 6th we still hadn't been paid our wages and then there was the death of the president.  So I thought that if I went to my place of work I might find the manager who could give me money.  I waited and after a while I saw the bourgmestre passing in front of me towards the market.
+Q.	And who informed you that a girl called Margaret had been cut up?
+A.	I heard this from the lips of a security guard working with me.  I was godfather of his son.  That family had welcomed me, had prepared food.  We ate together and I went on waiting until I went home without having obtained any money because the person who was supposed to pay me hadn't turned up.
+Q.	And what is the name of your friend, the security guard?
+THE ENGLISH INTERPRETER:
+Madam President, information from the Kinyarwanda booth, I don't know whether we can interpret this.
+MADAM PRESIDENT:
+Counsel Kouengoua, you should be careful with your questions because these are questions that could reveal the witness's identity.
+MR. KOUENGOUA:
+Thank you, Madam President.   
+BY MR. KOUENGOUA:
+Q.	Witness XW9, for how long did you stay with your colleague?
+A.	I left his residence at about 4 p.m.  There was a small crowd gathering.  I did not join them but I went home.
+Q.	And when you left that place where did you go?
+A.	I went home, in May (By order of the Court, this name has been struck from the record)
+MR. KOUENGOUA:
+Madam President, could that be stricken from the record, please.
+MADAM PRESIDENT:
+Please strike from the record the name, the proper noun just spoken by the witness.
+BY MR. KOUENGOUA:
+Q.	Did you find your wife and your five children at home?
+A.	Yes, they were still at home.
+Q.	And subsequently what occurred?  
+A.	Subsequently the bandits --
+THE ENGLISH INTERPRETER:
+The witness has just cited the name of a neighbour.  Can the interpreter give you that name?
+
+The witness was saying that the bandits attacked his house after having attacked the house of a neighbour and he gave that neighbour's name.
+BY MR. KOUENGOUA:
+Q.	And what time was it?
+A.	I can't remember the exact time.
+Q.	Was it at night or in the daytime?
+A.	It was in the daytime.
+Q.	And how did the attack occur?
+A.	Five people who were highway bandits came wearing dry banana leaves around their waists and around their heads also and those bandits carried machetes.
+Q.	And what did they do?
+A.	They passed by my neighbour's house - 
+THE ENGLISH INTERPRETER:
+The witness states the name of that neighbour again.  She wasn't home; they therefore set her house on fire.
+BY MR. KOUENGOUA:
+Q.	And did they have any weapons?
+A.	Yes, they were carrying pangas that is to say, machetes, and club or cudgels.
+Q.	And were these attackers same attackers as those involved in the attack you mentioned earlier?
+A.	Yes, it was the same.
+Q.	And what happened subsequently?
+A.	They burnt down the house.  They did not meet the owner.  So they subsequently went to the home of another neighbour. 
+THE ENGLISH INTERPRETER:
+Whose names he mentions. 
+THE WITNESS:
+He was a man and they asked money of him, they didn't find the money so they killed him and his children.
+BY MR. KOUENGOUA:
+Q.	And after that attack were there any other attacks in your area prior to your flight?
+A.	No, there weren't any other attacks.
+Q.	You said earlier on to the Chamber that you subsequently fled into Tanzania, did you flee with your wife and five children?
+A.	Yes, we fled on the 28th.  When we came to the falls, at the border crossing into Tanzania, in view of the fact that there was a large number of people, vehicles and cattle and a huge crowd that was crossing the border, very slowly, at about 3 p.m., the Inkontanyi arrived.  They intercepted those who had not reached the border crossing but those who had reached that point could cross into Tanzania.  I was amongst those who had to go back with my wife and five children.  Between my house and that point we could walk for about two hours, a distance of about two hours trek but it took us three days.  We had to hide along the way.  We often saw Inkotanyi either killing people or doing other things.  So we were obliged to hide in the woods or in sorghum fields.  It was raining and that is why it took us three days.  We got to our home on the 5th, at 2 p.m.  I saw three soldiers and an Inkotanyi arriving.  They came to my house and met me there.  They arrested me, they tied me up.  They tied me up, yes.  I saw an Inkotanyi tearing off a kitenge cloth with which he covered himself, and I saw that he had a bag containing little hoes, and he used part of this material to tie my hands with it, and he tied my hands behind me.  And they took me to a certain Mugarura where we met many other people who were also tied up.  They kept us there up to 5 a.m.  At 5 a.m. they led us in single file right to Bicumbi in the Nyabitari secteur.  At Nyabitali.  I collapsed and a soldier shot at me but none of the bullets hit me.  They continued leading the others who were with me and they killed them a little later, 20 metres from where I was, and I saw them killing them while I was lying on the ground and after killing them, those soldiers boarded the vehicle and left.  It was roughly 6 a.m. in the morning.  After their departure I got up and I looked for somebody who could untie me, and I was lucky to find my elder brother and he was the one who cut the bonds.  And I felt relieved.  I can even show you on my body the scars left by the ropes, the bonds.  Ten years later you can still see them.
+Q.	Witness XW9, for how long were you tied up?
+A.	I was tied up at 4 p.m.  The people who had attacked us and started killing us, they had started attacking and killing us at 5 a.m.
+Q.	You have just said that the people who attacked you were Inkotanyi, is that right?
+A.	Yes.
+Q.	How did you know that they were Inkotanyi?
+A.	I recognised them because they were wearing a uniform that was different from that of the soldiers of Habyarimana that I knew very well.
+Q.	And when your brother helped you by untying you, did you see your wife and five children again?
+A.	My xxxx was murdered on that same day of the x xx xxx.  She was murdered together with xx xxxx xxxxxxxx and all my neighbours.  The killers did not choose their victims.  They tied up the men and then they led the children and women away.
+Q.	Witness XW9, how old was your last child?
+A.	The xxxxxxxx of my  xxxxxxxx was  xxx xxxx xxx months old.
+Q.	And you said that the murderer of  xxxx xxxx and  xxxx xxxxxxxx -- that the murder of xxxx xxxx and xxxx xxxxxxxx took place on what date?
+A.	That was on the 5th.  On the 5th we were tied up -- we were tied up on 4th and it was the following day that is the 5th, very early in the morning at 5 a.m. that they were killed.
+Q.	When you say the 5th, it was the 5th of what month?
+A.	It was the 5th of xxx 1994.
+Q.	Did you eventually flee from Rwanda?  Did you succeed in fleeing from Rwanda?
+A.	As I said I managed to escape, with all the wounds on my hands.  They had already blocked all the frontier posts.  They had taken the bridge on the 28th.  So we looked for a border crossing point and we saw them killing people from our hideouts.  We were hiding in millet field and in other areas.  Subsequently among those who had already crossed into Tanzania, one of them came back and he told us that there was a means of crossing, so he showed us a border crossing and we managed to cross the border at that point into Tanzania.
+Q.	During your crossing did you learn that Gacumbitsi ordered people to stop those fleeing to cross into Tanzania?
+A.	He stopped nobody.  He prevented nobody from crossing the boarder.  The customs post was open.  People were crossing, vehicles were crossing, even cattle were crossing the border.  Unfortunately my group was -- the Inkotanyi arrived prior to our crossing.   Our group was not lucky.
+Q.	You said that your group was attacked twice in April and in May; did you hear that arms had been distributed in your area?
+A.	I heard nothing of the sort.
+Q.	Did you hear or observe that orders had been given for women to be raped in your area?
+A.	I could move about in three secteurs of our commune and we were united.  Nothing of the sort happened and only those bandits who were against us were not united, the rest of the population was united.
+Q.	Witness XW9, was your wife raped?
+A.	No, she was murdered by the Inkotanyi, they did not rape her.  Their sole objective was to exterminate the inhabitants of that area in order to settle other people they had brought in.
+Q.	Witness XW9, did you get married again after that date?
+A.	Yes, in the Benako camp I married another woman.  We are still married and we have three -- four children.  Rather we had four children, three of those four children died and I now have only one child left. 
+Q.	And what is the ethnic group of that woman?
+A.	She is also Tutsi.
+Q.	Did you change your ethnic group?  What is your ethnic group?
+A.	I am from  -- of mixed parentage.  My mother is Tutsi and my father is Hutu.  So I am somewhere in the middle.  As a Rwandan unless they reject me, I have no problem with that.
+Q.	Are you ready to go back to Rwanda?
+A.	I cannot go back to Rwanda whereas those who killed my wife and children have taken over my property and shared it out amongst themselves.  I am weak, I am alone.  If they were to find me, it is obvious that they will kill me.  No, I can't go back.
+Q.	For how long have you been living in exile, XW9?
+A.	Since I fled in 1994, I have never gone back to my country.
+Q.	And you think that if your first child with your wife was still living, how old would he be today?
+A.	It was a girl, she was born in 1982.
+Q.	Thank you Witness XW9?
+MR. KOUENGOUA:
+Madam President, Your Honours, I have no further questions for this Witness.
+MADAM PRESIDENT:
+Thank you, Counsel.  Counsel for the Prosecution you have the floor.  You may proceed to 
+cross-examination
+CROSS-EXAMINATION
+BY MS. MOBBERLEY:
+Q.	Witness, in April 1994, your identity card identified you as a Hutu, didn't it?
+A.	That is correct.
+Q.	It also identified your children as Hutu, didn't it?
+A.	That is correct.
+Q.	Witness on the 11th of April 1994, you didn't speak directly to Sylvestre Gacumbitsi, did you?
+A.	No.
+Q.	On the 11th of April 1994 Sylvestre Gacumbitsi didn't speak to you, didn't he?
+A.	No, he did not speak to me.
+Q.	Witness, what is an Inkotanyi?
+A.	The Inkotanyi are the people who attacked our country Rwanda, whether they were known under the name Inkontanyi, they called themselves Inkotanyi zamarere RPF.
+Q.	Witness, you said that in April1994, you -- 
+THE ENGLISH INTERPRETER:
+Microphone for Counsel, please.
+MS. MOBBERLEY:
+Thank you.
+BY MS. MOBBERLEY: 
+Q.	Witness, you said that in April of 1994, you saw three soldiers and an Inkotanyi conduct an attack, do you recall saying that?
+A.	Yes, I said so.
+Q.	You identified him, as an Inkotanyi because he was Tutsi, didn't you?
+A.	They themselves had given themselves a name, Inkotanyi, those people attacking Rwanda.  They themselves called themselves, Inkotanyi  Zamarere (phonetic).
+Q.	Witness, I am talking to you about the people you saw conduct an attack.  You identified the
+ non-soldier as an Inkotanyi because he was Tutsi, didn't you?
+MR. KOUENGOUA:
+Madam President.
+MADAM PRESIDENT:
+Yes, Counsel.
+MR. KOUENGOUA:
+The witness said that it was Inkotanyi who attacked; he did not say that there were three soldiers and an Inkontanyi.  He said that it was the Inkotanyi who attacked.
+MADAM PRESIDENT:
+If I understood properly, the witness did confirm when the Counsel for Prosecution put the question to him as to whether he did recall it was just an Inkotanyi who attacked, the witness did confirm that.  
+Did you confirm this, Witness, that there were three soldiers and an Inkontanyi?
+THE WITNESS:
+There were three soldiers but we all called them Inkotanyi.  Their uniform was different from that of Habyarimana's soldiers.  They were wearing hats and white boots in plastic, whereas Habyarimana's soldiers wore ordinary boots and berets that is how we could make the distinction between them and Habyarimana's soldiers.
+MADAM PRESIDENT:
+Thank you, Witness.  Proceed with your cross-examination counsel for Prosecution. 
+BY MS. MOBBERLEY:
+Q.	So you are now saying that there were only three soldiers who conducted the attack rather than four people?
+A.	Those who came to my home were three in number.
+Q.	Witness, you have just confirmed for me that you said three soldiers and one Inkotanyi, are you now changing your evidence?
+A.	They were all Inkotanyi, at least as far as I can understand.
+Q.	Witness, just answer yes or no.  Previously you told me that you confirmed the attack was conducted by three soldiers and an Inkotanyi, now you are saying it was only conducted by three soldiers, which is the truth?
+A.	It was a mistake on my part, there was someone who was carrying a spear and was not wearing a military uniform.  At the time when one of the soldiers pointed his gun at me to my nose, it was that person who was not wearing a uniform, who tied me up with a piece of kitenge cloth.  And after that they took me away.  That is actually the right information.  I crave your indulgence for making that mistake.
+Q.	You said there were four people, one who wasn't in a uniform whom you identified as an Inkotanyi, now how did you identify that person as an Inkotanyi?
+A.	I knew that person.  He was my neighbour, I even knew his name.
+Q.	What was his name?  
+THE ENGLISH INTERPRETER:
+Madam President, counsel is asking of the witness the name of that person, can the interpreter interpret that question?
+MR. KOUENGOUA:
+Madam President, with all due respect, I don't want us to keep going back to the problem of Inkotanyi, with rather to which the Chamber has already given some guidelines.  The witness is being asked to say things that don't exist.  We are moving forward, we have lost two days and we would like to press on and complete the examination.  If there are no further questions, let us leave the witness to go.  There are three more to appear and it is possible, I understand that tomorrow is a public holiday the -- of the month and I used only 35 minutes for this witness, Madam President.  I used only 55 minutes Madam President. 
+MADAM PRESIDENT:
+Thank you, Counsel for the Prosecution.  The witness has already answered your question. 
+MS. MOBBERLEY:
+Your Honour, the witness avoided the question when I asked, can you remember that, when he avoided it?  He changed the story and said there were only three soldiers.  So I pursued the change in his story.  I put the question to him, you knew he was Inkontanyi, didn't you, because he was Tutsi and that's the point at which we got the second version of his evidence and he has now returned again to the first version.  So that's why I am pursuing the issue, Madam President.
+MADAM PRESIDENT:
+Yes, but the witness has told you why he used the word Inkotanyi and then you have put the question to him again as to why he said that one of these persons was an Inkotanyi and that is why I am you telling you that that question has been answered.  Perhaps you should rephrase your question in order to lead the witness to clarify what you would like him to clarify 
+MS. MOBBERLEY:
+Thank you Madam President.
+BY MS. MOBBERLEY: 
+Q.	Witness, your neighbour was a Tutsi, wasn't he?
+A.	Yes.
+Q.	And that's why you called him an Inkotanyi, isn't it?
+A.	That is correct.
+Q.	Witness, it's correct that the MDR power movement was opposed to the implementation of the Arusha Accords, wasn't it?
+MR. KOUENGOUA:
+Madam President -- 
+MS. MOBBERLEY:
+Your Honour, if counsel objects, he will reveal the foundation that was laid in closed session.  This question will not compromise the witness.
+(Pages 8 to 17 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1015H
+MADAM PRESIDENT:
+You may continue, Counsel for the Prosecution.
+MS. MOBBERLEY:
+Thank you, Madam President.
+BY MS. MOBBERLEY:
+Q.	Witness, the MDR power movement was opposed to the implementation of the Arusha Accords; wasn't it?
+A.	I was a member but I followed the others.  I did not understand the goals of that party.
+Q.	You knew though, didn't you, that it was an anti-Tutsi organisation?
+A.	I knew that the party was against the MRND party, but I did not know that it was opposed to the Tutsi.
+Q.	It is correct, isn't it, that the MDR was an extremist faction, that is the MDR power?
+A.	In our commune there was no discrimination.  There were political parties and we would join those political parties.  We wanted the government to change and we wanted other leaders to be put into place for -- in the interest of the nation.
+Q.	And it is correct that MDR power was opposed to Twagiramungu, the prime minister designate?
+MR. KOUENGOUA:
+Madam President, with your leave.
+MADAM PRESIDENT:
+	Yes, Counsel.
+MR. KOUENGOUA:
+I think that the Prosecutor is pushing the witness in a direction that is not his.  He doesn't even know who the prime minister was.  Twagiramungu -- I mean, how could you put such a question to the witness and ask him whether he was against the prime minister.  Does he know who was the chairman of his party?  We can't continue like this, Madam President, if we want to know if this person knew Twagiramungu, we should ask him, but we can't say that he was against Twagiramungu when he hasn't even told the Trial Chamber who Twagiramungu is, and he is not an expert.  He said that he is an ordinary member in his cellule.  
+
+I think that we need to review the line of questioning that is being put to the witness.                  Madam President, please, I mean, we need to follow the examination-in-chief.  I don't believe that at any point he raised a political matter, please.
+MADAM PRESIDENT:
+We thank you, Counsel. 
+
+Madam Prosecutor, could you please rephrase your question and avoid saying what you think of the question.  You must refrain from saying that the witness knows that.  Ask him what he knows about Twagiramungu's position, and the MDR's position with respect -- in his capacity as prime minister.
+MS. MOBBERLEY:
+Madam President, I'm leading this witness because I am cross examining him.  And it is my understanding that that is the purpose of cross examination.  I'm, therefore, not certain how I would rephrase the question unless I were to ask him an open-ended question, and that is not my understanding of the purpose of cross-examination.  So I'm at a loss as to know how to rephrase, if I'm not allowed to ask leading questions in cross-examination. 
+MADAM PRESIDENT:
+You shouldn't ask him leading questions.  He puts question and then -- you put questions to him and he answers, but there were no questions put to him about his political opinions.  It is true that people were -- questions were put to him about the MDR power, but you are currently clarifying those matters, and so, is it really necessary?
+MS. MOBBERLEY:
+I think that is a different issue, Your Honour, if you consider that the line of questioning has gone as far as appropriate in cross-examination.  And certainly if that is your ruling, then in this case, given the witness that is before you, I won't continue with the line of questioning.  But the issue of leading the questions in cross-examination needs to be clarified, and I do request clarification.  Defence counsel, on a number of occasions have, in my submission, wrongly objected to cross-examination based on leading questions.  And quite clearly cross-examination is entirely founded on the basis that questions are leading.  
+
+It is on that issue that I would require direction because I would intend to lead each and every witness in cross-examination.  It is up to the witness to confirm or deny any propositions that are put, but certainly the process of cross-examination is, in my submission, entirely one that entails leading witnesses, asking leading questions.  It is only in direct-examination and re-examination that closed questions -- rather, that open questions are the only type of appropriate questions for witnesses. 
+MADAM PRESIDENT:
+Madam Prosecutor, I believe we are wasting time.  We've asked you to rephrase your question, an objection has been raised by the Defence, and this objection was upheld by the Trial Chamber.  Therefore, please proceed and do not make us lose time on this matter.  I have no direction to give to you on this matter.  We have just asked you to avoid asking questions that are too leading because the witness did not speak of Twagiramungu, you were the one who mentioned Twagiramungu.  You should first ask him what he thinks of Twagiramungu -- who Twagiramungu is and then what he thinks of Twagiramungu.
+MS. MOBBERLEY:
+Thank you, Madam President.  I have nothing further for the witness.
+
+MADAM PRESIDENT:
+We thank you, Madam Prosecutor.  
+
+Counsel Kouengoua, do you have any questions in re-examination for this witness?
+MR. KOUENGOUA:
+I have no further questions for this witness, Madam President.
+MADAM PRESIDENT:
+Very well.  Witness, we have completed your examination.  We thank you for having come to testify, and we wish you a safe return home.
+THE WITNESS:
+I thank you, Madam President.
+	(Witness excused)
+MADAM PRESIDENT:
+Counsel Kouengoua, who's your next witness; is that XW10?
+MR. KOUENGOUA:
+Yes, we would like to have Witness XW10 come and testify, Madam President.
+MADAM PRESIDENT:
+Good day, Witness.
+THE WITNESS:
+Good morning, Madam President.
+MADAM PRESIDENT:
+You are a protected witness and, therefore, we shall use a pseudonym when speaking to you.  And the pseudonym we shall use is XW10, XW10.  You are going to make a solemn declaration with the assistance of the registry.  And then Defence counsel will lead you in examination-in-chief, and you shall be cross-examined by the Prosecutor, and the Judges perhaps, may put some questions to you.  You may also be re-examined by the Defence. 
+MR. JUMA:
+Mr. Witness, could you please stand up and raise your right hand and repeat the following words after me.
+	(Declaration made by Witness XW10 in Kinyarwanda)
+MADAM PRESIDENT:
+I would like to thank the witness and the registry.  
+
+Counsel Mbattang, I believe that you will be leading this witness.  You may now proceed.
+MS. MBATTANG:
+Good morning, Madam President, good morning, Your Honour.  I wish a good morning to the Office of the Prosecutor and the court reporters; I say good morning to the registry and the interpreters.  Good morning, Witness XW10.  
+Madam President, I would like to ask that this examination take place in two phases.  I would like the first part of the examination-in-chief to be conducted in closed session, because they may lead to the witness's identity being revealed.  And after that, I shall move into open session.  Thank you.
+MADAM PRESIDENT:
+We shall sit in closed session for the protection of the witness, and we regret to inform the public of this.
+
+Counsel Mbattang, if you can wait one moment while the public gallery is cleared. 
+(At this point in the proceedings, a portion of the transcript [pages 22 to 24] was extracted and sealed under separate cover, as the session was heard in camera)
+	(Page 18 to 21 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MADAM PRESIDENT:
+We are now in open session.  Counsel, please proceed.
+BY MS. MBATTANG:	
+Q.	Witness XW10, you have just identified your bourgmestre in this room, since when did you know him?
+A.	I knew him since 1971. 
+Q.	And how?
+A.	I knew him because he was a xxxxxxx and xx xxxxxx at the xxxx xxxxxx.
+Q.	And what xxxxxx did you xxxxx xxxxxxxx?
+MADAM PRESIDENT:
+Counsel, I would like to ask you to be careful with your questions.
+MS. MBATTANG:
+I'm sorry, Madam President.
+BY MS. MBATTANG:
+Q.	Don't answer this question, Witness XW10, this might lead to your identity being revealed.  In 1994 was bourgmestre Gacumbitsi still teaching?
+A.	No, he wasn't.
+Q.	What had he become?
+A.	He was the bourgmestre.
+Q.	When did he become bourgmestre?  When did he become bourgmestre?
+A.	He became a bourgmestre in 1983.
+Q.	Witness XW10, what was your relationship with Mr. Gacumbitsi like?
+A.	When Gacumbitsi was still a teacher we were on good terms and we had no problems.  We had no problems, there was no problem between us.
+Q.	Witness XW10, you said a moment ago that once you settled in Rusumo commune, you never left it; what was the relationship that Bourgmestre Gacumbitsi had with his people?
+A.	Gacumbitsi had a good relationship with the people he administered because he did not show any discrimination to the population.
+Q.	In April 1994 did Bourgmestre Gacumbitsi change his behaviour with respect to the Tutsi?
+A.	No, he did not change his conduct; it remained unchanged.
+Q.	Witness XW10, can you tell the Trial Chamber whether Gacumbitsi had Tutsi friends?
+A.	Yes, I think he had Tutsi friends.
+Q.	Could you tell the Trial Chamber how many, without stating their names?
+MR. KAREGYESA:
+Your Honours -- Witness, can you please hold on.
+
+Your Honours, if my memory serves me correctly, you had ruled on the irrelevance and, therefore, inadmissibility of character evidence.  You have given counsel sufficient latitude in this regard.  And it would do good to judicial economy if we just moved on because the Accused's character is not in issue in these proceedings.
+MADAM PRESIDENT:
+We had, indeed, made that comment to the Defence.  And we would remind you, Counsel, that you should not expand on questions of the witness -- in respect of the witness's character but the facts, the events, the acts which he is accused.
+MS. MBATTANG:
+Madam, I am not asking details as to how he behaved with his population, but, Madam, in the matter that concerns us, you know well that it was stated that the Defendant present here incited the population against the Tutsi.  The question I have asked, Madam Chairman -- Madam President, is to know whether the Accused had Tutsi friends.  I didn't ask what his conduct was in respect to those Tutsis, it is quite clear, Madam President.
+MADAM PRESIDENT:
+We merely wanted to draw your attention to the issue at this stage, Counsel.  You may proceed -- Counsel for the Prosecution, you have another objection?
+MR. KAREGYESA:
+Permit me, Your Honours, to add that in the opening address the Prosecutor stated that, indeed, the Accused had Tutsi friends.  Now if Counsel could get to the point and establish if this witness has any knowledge of incitement, if that is where she is heading, Your Honours.
+MADAM PRESIDENT:
+Please proceed, Counsel Mbattang. 
+MS. MBATTANG:
+Thank you, Madam President.
+BY MS. MBATTANG:
+Q.	Witness XW10, where were you on the 6th of April 1994?
+A.	I was in Nyamugali secteur xxxxxx cellule, xxxx x.
+Q.	When and how did you learn of President Habyarimana's demise?
+A.	I learned of his death on the morning of the 7th of April.
+Q.	Witness XW10, can you tell the Trial Chamber whether Bourgmestre Gacumbitsi came to your secteur after President Habyarimana's death?
+A.	I never saw him in our secteur.
+Q.	Witness XW10, did any refugees come to your commune before President Habyarimana's death?
+A.	I lived at some distance from the communal office, but I learned that refugees had come to the commune, but in our locality, our area, no refugees had yet come.
+Q.	Witness XW10, did refugees come to your commune after President Habyarimana's death?
+A.	Well, I do believe refugees did come to our commune.
+Q.	Can you tell the Trial Chamber to which ethnic group the refugees belonged?
+A.	The people said that they were Hutu refugees.
+Q.	From whence did those refugees come?
+A.	The refugees came from Rukara.
+THE ENGLISH INTERPRETER:
+Rukara is spelt, R-U-K-A-R-A; Rukara, R-U-K-A-R-A.
+BY MS. MBATTANG:
+Q.	Witness XW10, were there many Tutsis in your locality?
+A.	In Zone B where I lived there were a small number of Tutsis.
+Q.	What became of them after the events of the 6th of April 1994?
+A.	The Tutsi went on living there.
+Q.	Did you observe that they were persecuted?
+A.	No, they were not persecuted.  I was moreover among them.
+Q.	Witness XW10, why did you leave Rwanda in view of the fact that you were not persecuted?
+A.	Yes, I left Rwanda because I told you that my colleagues had been killed in the commune of my birth so I decided to leave the commune where I resided before similar events occurred where I was living.
+Q.	Witness XW10, is it the first time you left Rwanda -- was it the first time?
+A.	No, it was not the first time.  In 1959 I fled into Zaire where I stayed for two years in '63, in 1963 I went to Burundi where I spent eight years.  And in 1994, I came to Tanzania where I have been living until today.
+Q.	Before the day on which you fled, did you hear that the Tutsi were being particularly targeted by the attackers, I mean?
+A.	I only know two Tutsi from Nyamugali secteur who were attacked by bandits who wanted to kill them and take their possessions, their property.
+Q.	Witness XW10, you previously stated that you left Rwanda in 1994, if you left in 1994 because preceding events had driven you to it and because colleagues of yours from your home area where you were born had been killed, can you tell the Trial Chamber whether in 1994 your neighbours were aware of your departure for Tanzania?
+A.	Before fleeing to Tanzania, I left my neighbours where I was residing, I said goodbye to them, I took leave of them.  And, moreover, I could leave my property in the care of one of my neighbours.
+Q.	On what date did you leave your home?
+A.	On the 13th of April.
+Q.	Witness XW10, did you have any difficulty -- did you encounter any difficulties in crossing the Akagera river?
+A.	No, I did not encounter any difficulties in crossing the river, because the people I met there took me across without any difficulties and I arrived safe and sound in Tanzania.
+Q.	Witness XW10, the people you met at the Akagera river, were they Hutu or Tutsi?
+A.	They were people who worked at that crossing point and they were Hutu.
+Q.	Witness XW10, at the time of your easy passage across, did you hear that the bourgmestre Gacumbitsi had given orders that no one should cross the river into Tanzania?
+A.	I never heard that Gacumbitsi had given such orders; moreover, many people were able to cross at that crossing point.
+Q.	Witness XW10, how do you know that the bourgmestre helped a certain Ndabikunze to cross?
+MR. KAREGYESA:
+Objection, Your Honour.  
+MADAM PRESIDENT:
+Yes, Counsel, that is a leading question you have mentioned the person. 
+MS. MBATTANG:
+Very well, Madam, I shall reformulate my question.
+BY MS. MBATTANG:
+Q.	Witness XW10, did you learn -- did you hear that the Accused had helped some of his Tutsi friends to cross the Akagera river to seek refuge in Tanzania?
+A.	Yes, I heard that said.
+Q.	And how did you know that?
+A.	People were saying that his driver, who was his friend, who was a Tutsi, had crossed the border into Tanzania, thanks to Gacumbitsi's help.
+Q.	Witness XW10, you said before that you have been a xxxxxxx since xxxx, if my memory serves me right.  Did you hear or learn that the Accused had distributed weapons in your area?
+A.	As regard to distribution of weapons, I have no information on that topic because I was a teacher.
+Q.	Witness XW10, as a teacher did you hear mention of any incitements by the bourgmestre to assaults, sexual assaults, to rape Tutsi women and girls in your area?
+A.	No, I did not hear anything of that sort.
+Q.	Were any Tutsi women raped in your locality?
+A.	No.
+Q.	Witness XW10, at the time you crossed the Akagera river into Tanzania, did you notice that it was either only Tutsi or Hutu that were crossing?
+A.	Inasmuch as - well, I crossed, I'm a Tutsi, but perhaps later others who crossed were Hutu.
+Q.	Witness XW10, once in Tanzania did you meet Hutu who had crossed the river to seek refuge in Tanzania?
+A.	At that time as I crossed on the 14th and there -- no Hutu had crossed yet to seek refuge in Tanzania.
+Q.	Witness XW10, are you prepared to return to Rwanda?
+A.	No, I don't know whether it is necessary for me to give you my reasons for that choice.  I had many difficulties in Rwanda.  I told you that I have lived in so many countries, Congo, Burundi, now I'm in xxxxxxxx.  You understand for yourself that my safety at the present time is a problem.
+
+MS. MBATTANG:
+Madam President, Your Lordship, I have no further questions for this witness.
+MADAM PRESIDENT:
+Thank you, Counsel.  We will now briefly adjourn and resume in 15 minutes.  Thank you.
+	(Court recessed from 1105H to 1155H)
+MADAM PRESIDENT:
+This Court is in session.  We regret for the delay, but we had to hold an important meeting with the parties.
+
+Yes, Counsel.
+MR. KOUENGOUA:
+Madam President, Your Honour, in view that we have just been given information that tomorrow is a holiday, we had scheduled to have here three witnesses today.  I was wondering if the Trial Chamber could possibly request that a fourth witness be brought in today so that we can catch up, because with these problems, time has been wasted.  If we could possibly hear four witnesses, Madam President, instead of hearing three, perhaps an order can be given to the witness support section for them to go and collect a fourth witness.  I believe that this will allow us to gain a few minutes or hours.
+MADAM PRESIDENT:
+Very well.  If you feel you can examine four witnesses then we will call in a fourth witness for this afternoon.  Thank you.
+MR. KOUENGOUA:
+Thank you, Madam President.
+MADAM PRESIDENT:
+Mr. Prosecutor?
+
+Is there a problem with the booth -- or we heard the Rwandan?  Can you try again?
+THE ENGLISH INTERPRETER:
+Madam President, I believe that the problem has been resolved.
+MADAM PRESIDENT:
+You may proceed, Counsel.
+CROSS-EXAMINATION
+BY MR. KAREGYESA:
+Q.	Witness, can you please move closer to the microphone?  Witness, is it true that you fled Rwanda for Tanzania on the 13th of April 1994?
+A.	No.
+Q.	Witness, were you interviewed by Defence investigators who recorded a statement?
+A.	Yes.
+Q.	And do you recall telling the investigators -- or the investigator who interviewed you that you fled Rwanda for Tanzania on the 13th of April 1994?
+A.	I remember that that is what I stated.
+MR. KAREGYESA:
+I have no further questions for this witness, Your Honours.
+MADAM PRESIDENT:
+Judge Egorov. 
+JUDGE EGOROV:
+Mr. Witness, should I take it that you hadn't seen Gacumbitsi during the period from the 7th of April until 13th of April 1994?
+THE WITNESS:
+That is correct, I did not see him.
+JUDGE EGOROV:
+In this case, could you explain to me how -- or in which way Mr. Gacumbitsi helped his driver to cross the river and to flee to Tanzania?
+THE WITNESS:
+I have told you that this was told to me, I was not an eyewitness to this.
+JUDGE EGOROV:
+You hadn't seen Gacumbitsi help his driver?
+THE WITNESS:
+No, I did not, I heard of it.
+JUDGE EGOROV:
+Thank you, very much.
+MADAM PRESIDENT:
+Witness, if Mr. Gacumbitsi had come to your secteur would you necessarily have seen him or at least heard of him coming there?
+THE WITNESS:
+If he had come to our secteur -- because if he had come to B area of our secteur, the Nyamugali secteur is very big, it is composed of two zones, one zone with five cellules, and the B zone that also has five cellules.  If he had come to the B zone, then I would most likely have seen him.
+MADAM PRESIDENT:
+We thank you, Witness.  
+
+Counsel Mbattang, do you have any additional questions for the witness?
+MS. MBATTANG:
+No, Madam President.
+
+MADAM PRESIDENT:
+We thank you, Witness.  We have now come to the end of your testimony.  We thank you for coming here to testify, and we wish you a safe journey home.
+THE WITNESS:
+Thank you.  There is a question that I would like to raise, with your permission.
+MADAM PRESIDENT:
+Yes, raise your question.
+THE WITNESS:
+Thank you for inviting me.  I have come, you have asked me if I could return to Rwanda and I told you that I cannot return there for several security reasons.  The Tanzania government has just announced that it no longer wishes to shelter Rwandan refugees.  I feel that you are the only ones that can represent me.  And I request that you contact the UNHCR so that I can -- so that a third country can be located in which I may find asylum. 
+MADAM PRESIDENT:
+Witness, I think that the Judges do not have any jurisdiction over these matters, but you can write and we will see what could possibly be done.
+THE WITNESS:
+Thank you, very much.  I truly thank you.
+	(Witness excused)
+MADAM PRESIDENT:
+Counsel Kouengoua, who will be your next witness?
+MR. KOUENGOUA:
+XW11, Madam President.
+MADAM PRESIDENT:
+Very well.  Can Witness XW11 be brought into the courtroom. 
+
+Good day, Witness. 
+THE WITNESS:
+Good day.
+MADAM PRESIDENT:
+You are a protected witness, and therefore, we shall use a pseudonym when referring to you.  And we will refer to you under the pseudonym XW11.  You shall now be given -- administered a solemn declaration.  The Defence will question you and then the Prosecution shall cross-examine you.  The Judges may have questions to put to you, and Defence may have additional questions for you in     re-examination. 
+
+Please minister -- registry, if you could please administer the oath to the witness.
+MR. JUMA:
+Mr. Witness, if you could please stand up, raise your right hand and repeat the following words after me. 
+	(Declaration made by Witness XW11 in Kinyarwanda)
+MADAM PRESIDENT:
+We thank the witness and the registry.  
+
+Counsel Kouengoua, you may proceed with your cross -- with your examination of the witness.
+MR. KOUENGOUA:
+Madam President, as this is a protected witness, I move that the first part of the examination be conducted in closed session.
+MADAM PRESIDENT:
+We shall now move into closed session.  We regret to inform the public of this, but these are necessary measures to ensure the protection of the witness.
+(At this point in the proceedings, a portion of the transcript [pages 33 to 34] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 25 to 32 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1215H
+MADAM PRESIDENT:
+Counsel, we are now in open session.  Please proceed with your examination.
+MR. KOUENGOUA:
+Thank you, Madam President.
+BY MR. KOUENGOUA:
+Q.	Witness XW11, you have just stated that you heard the news of the death of the president whilst in Tanzania; is that correct?
+A.	That's correct.
+Q.	And how long had you been in Tanzania?
+A.	I left Bugesera on the 5th and I heard the news very soon after the president had died.
+Q.	Witness XW11, when you say the 5th, could you tell us what month you are referring to?
+A.	On the 5th, the 5th of April, the 5th of April 1994.
+Q.	You have just stated that you had left xxxxxxxx on the 5th of April 1994.  Where did you go?
+A.	I left on that date to go and visit relatives who lived in Tanzania.  When I reached Rukara, where one of my brothers was located, I remained there.
+Q.	Where is Rukara?  Is that in Tanzania?
+A.	No.  Rukara is in Rwanda.
+Q.	In what préfecture?
+A.	I don't know in what préfecture Rukara is located.  I don't know how to read or write, so I don't know.
+Q.	You said that you went to stay with relatives; is that correct?
+A.	Yes.  One of my relatives lived there.
+Q.	Was your relative there?
+A.	No.  When I reached this person's house, he was no longer there.  He had moved to Tanzania.
+Q.	And what did you do then?
+A.	I arrived there around 4 p.m.
+Q.	And what happened then?
+A.	I asked the neighbours if I could stay with them.
+Q.	And after that?
+A.	The next day, on the morning of the 6th?
+Q.	Yes, what did you do on the 6th?
+A.	I continued on my way.
+Q.	And then?
+A.	I went to Rusumo.
+Q.	And then?
+A.	Then I crossed the border and I went to Tanzania.
+Q.	Were you alone or were you with other persons?
+A.	I was with one other person who accompanied me and who was to show me the way to Tanzania.
+Q.	Were you able to find out the name of this person?
+A.	No, I don't remember his name because I had only spent one night in that locality.
+Q.	And when you reached Tanzania, did you find your relative who had moved there?
+A.	Yes, I saw him.  He did not live far from Akagera.
+Q.	You said that he didn't live far from where?
+A.	The Akagera. 
+MR. KOUENGOUA:
+Akagera is item No. 3 on our list. 
+BY MR. KOUENGOUA:
+Q.	And when you found this person, did you settle in his house?
+A.	Yes.  When I reached his house, I spent the night there.  His house was very small and he had many children, but as I had come to visit him, I did spend the night there.
+Q.	And what did you do after that?
+A.	On the morning of the 7th?
+Q.	Yes, what happened on the morning of the 7th?
+A.	A person named xxxxxxxxx, a young man who worked at the river, at the crossing point.
+MR. KOUENGOUA:
+xxxxxxxxx, that would be item 163 on the list of proper nouns that was disclosed.
+BY MR. KOUENGOUA:
+Q.	Witness X11, you have referred to a person named xxxxxxxxx who worked at the river.  What did he do?
+A.	I found him at the crossing point the next day.  I'm still talking about the morning of the 7th.
+Q.	Yes.  And then what happened?
+A.	I asked him to find me a canoe so that I could also do the same work he was doing, as I used to do the same professional activity at home.
+Q.	And was he able to find a canoe for you?
+A.	Yes.
+Q.	And what did you do with the canoe?
+A.	I spoke to the owner of the canoe.
+Q.	And?  Yes?
+A.	We agreed to share the income, the daily revenue, generated from the canoe.
+Q.	And?
+A.	And so I started to work paddling the canoe on that same day, on the 7th.
+Q.	What is the name of the place where you worked with the canoe?
+A.	There were several crossing points.  The one I am referring to is between xxxxxxxx and xxxxx, between those xxx hills.  The place was called xxxxxx.
+Q.	Could this name be spelled for the record?
+A.	Yes.  xxxxxxxx is spelled xxxxxxxxxxxxxxx.  xxxxx is spelled xxxxxxxxx.  xxxxxx is spelled 
+xxxxxxxxxxx, xxxxxx.
+Q.	How long did you work in xxxxxxxx?
+A.	I worked there for about one month.
+Q.	And during this month, did you happen to meet a person named Gacumbitsi?
+A.	Yes, I met him later.
+Q.	And when did you meet him?
+A.	He was one of the persons that crossed the river in my canoe, and subsequently I came across him in a refugee camp.
+Q.	Do you remember on what date he crossed in your canoe?
+A.	No, I don't remember the date, but it was in the middle of May.  It was around the 27th or 28th of May.
+Q.	Before he crossed the river, did you know Gacumbitsi?
+A.	No, I didn't know him at all.  I had never met him before.
+Q.	And who told you that his name was Gacumbitsi on that day?
+A.	Well, I heard who he was because there were many persons at the crossing point who were waiting to cross, and those who knew him said that it was Gacumbitsi, and when I saw him again, he had totally changed in his clothing and one couldn't recognise that he could have been an authority.
+Q.	Did Gacumbitsi arrive on foot or in a vehicle on that day?
+A.	He couldn't have come in a vehicle because he came on foot, crossing through a swamp, a papyrus marsh.
+Q.	Did people pay to cross -- did you charge for people to cross the river or was it free?
+A.	Some would pay; others wouldn't.  If someone came and told me that they didn't have any money, then I couldn't just leave them, and I would bring them to the other side anyways.
+Q.	And amongst the persons that you took across the river, were there Hutus, Tutsis or Twa, or did you select -- did you choose people before you took them across?
+A.	There was no segregation.  It was difficult for me to know who was Hutu or Tutsi.  I would take anyone across.
+Q.	And during your stay in this location, did you hear that certain persons had been prohibited from crossing?
+A.	As of that date, I never heard that this or that person had been prohibited from crossing.  I never heard of that and I never saw it.
+Q.	Where are your relatives now?
+A.	They are no longer with us.
+Q.	Sorry?
+A.	They are no longer alive.
+Q.	Are they still alive or have they been killed?
+A.	Yes.
+Q.	Witness XW11, who killed your relatives?
+A.	I don't know because when we returned to Rwanda, people would come and ask that we leave our houses to participate in night patrols.
+Q.	And in what year did you return to Rwanda?
+A.	In 1996.
+Q.	And on what date did you depart anew from Rwanda?
+A.	I left again in 1998.
+MS. MOBBERLEY:
+Counsel is leading the witness.
+MADAM PRESIDENT:
+Pray proceed, Counsel.
+MR. KOUENGOUA:
+Thank you, Madam President.
+BY MR. KOUENGOUA:
+Q.	Witness XW11, you have said that in the middle of the month of May, you helped Gacumbitsi across.  Did you see him again?
+A.	I did not see him again because I stayed by the river and he went on his way.  I don't know where he went.
+Q.	Have you until today seen him again?
+A.	I never saw him again except much later, when I myself went to the refugee camp.
+Q.	Which refugee camp?
+A.	Before 1996, I was in Ngara camp, and as of 1998, I was in Mbuga camp, from whence we were transferred to Kibungo camp, and that is where I saw him again.
+Q.	If you were to see Gacumbitsi again, could you recognise him?
+A.	Yes, even at midnight I could recognise him.
+Q.	Can you stand up -- would you stand up, please, and tell the Trial Chamber whether he is present within these walls?
+A.	I have seen him.  I have seen him.  He is a tall gentleman, wearing glasses.
+Q.	Witness XW11, what is -- to which ethnic group do you belong?
+A.	I don't know.
+Q.	Why?
+A.	You're asking me why.  I can't tell you my ethnic -- the ethnic group to which I belong.
+THE ENGLISH INTERPRETER:
+Counsel's question was not audible to the English booth.  The answer was "Hutu", but I think he'd have to repeat again.  We've missed counsel's question.  "What would I have to do in Rwanda" is the answer.
+MS. MOBBERLEY:
+Your Honours, the English booth is intervening and they have said that they didn't receive the last two questions in English.  So if counsel can put the last two questions again, please.
+THE ENGLISH INTERPRETER:
+And he should wait until the others have finished speaking.
+MS. MOBBERLEY:
+The interpreter is requesting that he wait until the interpretation is finished until he asks his next question. 
+THE ENGLISH INTERPRETER:
+Thank you. 
+MR. KOUENGOUA:
+Thank you, Interpreter.  The last question but one was to which ethnic group the witness belongs.  And the second question was why he cannot return to Rwanda.
+MADAM PRESIDENT:
+Witness, please turn on your microphone. 
+MR. KOUENGOUA:
+I was saying, Madam, in respect of the booth's comment, I have repeated the last question but one and the last question, and the witness answered both questions, unless he didn't.
+MADAM PRESIDENT:
+If you're satisfied with the two questions, but we also would like to remind you that you pause after asking a question and wait until the answer is complete. 
+BY MR. KOUENGOUA:
+Q.	Witness XW11, do you have any relatives in Rwanda remaining?
+A.	None of my relatives is remaining there.
+MS. MOBBERLEY:
+Your Honour, we didn't get the last answer in English.  The question was:  "Why can't you return to Rwanda?"  And we didn't receive the answer.
+MADAM PRESIDENT:
+Witness, could you please repeat your answer to the last question?
+THE WITNESS:
+Yes.  The answer I could give is that the people who xxxxxx all the members of xx  xxxxxx are still in Rwanda, so I cannot return there. 
+MR. KOUENGOUA:
+Do forgive me. 
+BY MR. KOUENGOUA:
+Q.	Witness XW11, to which ethnic group did your father belong?
+A.	You are speaking of my father.  I don't know.  I don't know to which ethnic group he belonged.
+Q.	Were you present at xxxx xxxxxxxx xxxxx?
+A.	Yes, I was present.  He was taken away at night to take part in the xxxxx xxxxxx, but I never saw him again.  It was in the evening.
+Q.	And that was what year?
+A.	We returned to Rwanda in 1996, and when we were reinstalled in Rwanda, he was taken away.
+MS. MOBBERLEY:
+Your Honours, I object to this line of questioning.  It's irrelevant to the matters that are before you.  The matter is beyond the temporal jurisdiction of the Chamber, and it doesn't hit on any of the matters raised by the Prosecution in their case.
+MADAM PRESIDENT:
+Counsel, is it of any use to speak of events that occurred in 1996?  Is this material to the defence of your client? 
+MR. KOUENGOUA:
+Madam President, when I asked the question, I didn't know his parents had died in 1996.  It's only now that I know the answer.  I thought perhaps they'd been killed in April 1994.  That was all I wanted to establish.  It had nothing to do with my client; it was for my own personal information also. 
+
+Madam President, it is 12:45.  I have finished my examination-in-chief of the present witness.  Thank you.
+MADAM PRESIDENT:
+Thank you, Counsel. 
+
+Counsel for the Prosecution, you may proceed with cross-examination of the witness.
+MS. MOBBERLEY:
+Thank you, Madam President.
+MADAM PRESIDENT:
+It's Madam Counsel.  Forgive me.
+CROSS-EXAMINATION
+BY MS. MOBBERLEY:
+Q.	Good afternoon, Witness.
+A.	Good afternoon.
+Q.	Witness, you've said in your evidence today that on May the 26th or 27th, Gacumbitsi crossed the Akagera River in your canoe.  That's correct, isn't it?
+A.	I said that we helped him to cross, yes; we got him across.
+Q.	What you said in evidence today, Witness, is that it was your canoe that he crossed in wasn't it?
+A.	Yes.
+Q.	Witness, do you remember meeting Defence investigators on the 13th of June 2003?
+A.	You're speaking of the investigators?  We met.
+Q.	Do you remember that you made a statement to those investigators?
+A.	Here, or there where I was? 
+Q.	I'm talking about the statement you made on the 13th of June 2003. 
+A.	Yes, I remember.
+Q.	And after you'd made your statement and the investigators had typed it, they interpreted it back to you, didn't they?
+A.	Yes, indeed, someone did read what I had stated back to me.
+Q.	After you'd confirmed your statement, you put your thumbprint on the bottom of the statement, didn't you, Witness?
+A.	Yes, I did put my thumbprint on the document.
+Q.	In that statement you said it was xxxxxxxxx who ferried Gacumbitsi across the river, didn't you, Witness?
+A.	xxxxxxxxx was with me because there were three of us who were ferrying people across.  We had three canoes.
+Q.	And xxxxxxxxx was in his own canoe, wasn't he?
+A.	Yes, xxxxxxxxx had his own canoe.  I had mine.  But there were three of us and we worked together as a -- we formed a team.
+Q.	So, Witness, why did you tell Defence investigators on the 13th of June 2003 that it was xxxxxxxxx who ferried Gacumbitsi across the river, and today you're saying Gacumbitsi was in your canoe?  Explain that to us. 
+A.	Yes, I will furnish explanations in that regard. 
+Q.	Go ahead, please. 
+A.	The explanation is that there were three canoes.  Our canoes were so small they couldn't carry more than three people -- not more than five people.
+Q.	Is that the only explanation you have to give, Witness?
+A.	No, I have other explanations.
+Q.	We want to hear them.  Please give them to us now. 
+A.	Well, you see, there were lots of people, so the three canoes.  Some people got in one of the three canoes and xxxxxxxxx ferried some people across.  I did as much.  And since then, we have never met again and we never saw them again.
+Q.	Witness, I'm trying to give you an opportunity to explain something to the Judges.  Today you've told us that Gacumbitsi was in your canoe, but in your statement made in June you said he was in Munyaneza's canoe.  Explain why there's a difference between what you're saying today and what you said in your statement. 
+MR. KOUENGOUA:
+Madam President.  Madam President, Counsel for the Prosecution has just asked the following question of the witness: You told the investigators that he crossed in xxxxxxxxx's canoe.  Now today you say it was your canoe -- unless the French booth did not interpret.  She spoke of xxxxxxxxx's canoe.  Now, I think you have the witness's explanation to the investigators.  He did not mention the word "canoe"; xxxxxxxxx's canoe is mentioned nowhere, unless we are not working from the same document.
+MADAM PRESIDENT:
+Counsel for the Prosecution, we want to hear the witness's answer. Witness, please answer the question.
+THE WITNESS:
+xxxxxxxxx's canoe that you're referring to.  I had my own canoe and xxxxxxxxx had his canoe, but that canoe in fact belonged to me because I was the one who was managing those canoes.  
+BY MS. MOBBERLEY:
+Q.	Thank you, Witness.  Now, in that same statement -- just let me clarify one matter with you first.  You've said that xxxxxxxxx had his own canoe but, in fact, it belonged to you.  Can you confirm that that is just what you've said to the Court?
+A.	You can have two canoes but ask someone else to help you to ferry people across, so in that case I would say it was I who ferried him across because the canoe belonged to me.
+Q.	You've also just said, Witness, that xxxxxxxxx's canoe belonged to you, haven't you?
+A.	Yes.
+Q.	Now, in your statement of the 13th of June, you said that you took the canoe of your colleague, xxxxxxxxx.  Was it from xxxxxxxxx that you got your canoe? 
+A.	No, I didn't say I took xxxxxxxxx's canoe.  The canoe belonged to me.  So to say that I took xxxxxxxxx's canoe is incorrect.  That would not be true.
+MR. KOUENGOUA:
+Madam President, please.
+MADAM PRESIDENT:
+Yes. 
+MR. KOUENGOUA:
+I'm afraid there must be slight confusion in regard to this item.
+MADAM PRESIDENT:
+Thank you, Counsel.  Thank you, Counsel. 
+MR. KOUENGOUA:
+He's mentioned something about 163, 162.
+MADAM PRESIDENT:
+Yes, yes, yes.  Please, Counsel, leave counsel for the Prosecution to clear up this item.  I'm sure we'll get there. 
+
+BY MS. MOBBERLEY:
+Q.	Witness, how much did your canoe cost you, the canoe that you say you bought from xxxxxxxxx?
+A.	It wasn't a question of purchasing.  He'd, in fact, entrusted the canoes to me to use them.  I didn't buy them.
+Q.	But he was going to profit-share with you; is that right?
+A.	Yes.
+Q.	Now, do you remember in your statement of 13th June 2003 you said, and I quote: "I took the ferry of my colleague because he made it in order to sell it."  Do you remember saying that?
+A.	No, I never said anything like that.
+Q.	So you didn't tell investigators that you took the ferry of your colleague because he made it in order to sell it?  Is that what you're saying?
+A.	I never stated that.
+Q.	Are you able to assist us to tell us how that might have appeared in a statement that was interpreted to you and which you signed with a thumbprint?
+A.	Well, you are saying that someone was selling his canoe and gave it to me, but I never said anything like that.
+Q.	So you're confirming that although this statement -- this sentence is included in your statement, you never told that to Defence investigators?
+A.	I never stated that.  I told you that the canoe was given to me by someone to use and share the profits, but he did not give it to me to sell it. 
+Q.	Witness, you've told us that you stayed with a relative in Tanzania from the 7th -- or, rather, you have told us you went to see a relative in Tanzania and you were there on the 7th of April 1994; is that correct?
+A.	On the 7th of April?  No, I arrived in Tanzania on the 6th of April 1994.  It wasn't the 7th.
+Q.	Now, between the 7th of April 1994 and the time that you fled Rwanda, where did you spend the nights?  Where did you sleep at night?  Was it with this relative in Tanzania?
+A.	You're speaking of the 5th of April.  I left my home on the 5th of April.  I arrived in Rukara, I spent the night there, and I left Rukara on the 6th.  On the 6th, I crossed the border.
+Q.	And on the 7th, you were with your relative, weren't you, Witness?
+A.	Yes.
+Q.	And that relative was in Tanzania; that's correct, isn't it?
+A.	Yes, I was living in Tanzania.
+Q.	Now, while you were living in Tanzania, it's correct that you worked in xxxxxxxx, isn't it?
+A.	Yes.  My brother lived in xxxxxxxx, but there was also a crossing point and, in fact, xx xxxxxxx xxxx was on the xxxxx of the xxxxxx.
+Q.	Witness, is xxxxxxxx in Tanzania or in Rwanda?
+A.	xxxxxxxx is in Tanzania.
+Q.	Now, how long did you work in xxxxxxxx?
+A.	I worked there for a month because subsequently my means were limited so I went to a refugee camp.
+Q.	So that means you left xxxxxxxxx on about the 7th of May doesn't it, Witness?
+A.	The 7th of May?  No, much later than that.
+Q.	Well, how much later do you think it was?
+A.	I left that place on about the 6th or the 7th to go to a refugee camp. 
+Q.	You're talking of the 6th or the 7th of May, aren't you, Witness?
+A.	It was, rather, the 6th or the 7th of June.  It's about then I left the crossing point to go into a refugee camp.
+Q.	So, Witness, now you're telling us that rather than one month, in fact, you were working at the river for two months.  Is that what you're saying now?
+A.	No, no, two months did not pass. 
+MR. KOUENGOUA:
+Madam President, please.
+MADAM PRESIDENT:
+Yes. 
+MR. KOUENGOUA:
+I think that Counsel for the Prosecution's line of questioning cannot be followed by the witness.  He had said a bit later and then he was told it was two months and he said it was the 6th and, "How can you say you only did one month?"  How can he -- he must get lost with that sort of questioning.  That line of questioning is not appropriate.  I think my colleague is trying to get the witness to say things he didn't say.
+MADAM PRESIDENT:
+Counsel, if I have followed, the witness said that he stayed a month.  He said that he'd worked for a month and then he left, but now he's mentioned June.  From April to June is two months.  That is the question counsel for the Prosecution is requesting.  I don't see where the problem lies. 
+MR. KOUENGOUA:
+The witness first said, "I went" -- counsel said, "You left on the 5th."  He said, "No, much later."  And she said, "Well, then, you worked for one month."  He said, "No" -- he said "yes" that time.  But then, "You left the 7th of May?"  "No, I left in June."  And then counsel says, "Well, that's two months."  So each time he says a bit later, he's given a date that he did not give.  That is what is embarrassing.  Thank you, Madam.
+MADAM PRESIDENT:
+You are repeating yourself.  I have already noted that the counsel -- that the witness gave two dates, and we have to clarify that.  Did he stay one month or two months?  
+
+Pray proceed, counsel for the Prosecution. 
+BY MS. MOBBERLEY:
+Q.	Witness, in your evidence in-chief and in your cross-examination you told us that you started working at xxxxxxxx on the 7th of April 1994 and you worked there for one month.  And now you're telling us that you worked there until June.  In fact, you said the 6th or the 7th of June.  Now, that's two months, isn't it, Witness?  Which is correct: Were you there for one month or were you there for two months?
+A.	I told you that I worked for a month as a canoeist.
+MADAM PRESIDENT:
+Witness, did you leave immediately after or did you stay on for some time?
+THE WITNESS:
+No, I didn't leave immediately because it wasn't far from my residence and I stayed at home and took the decision subsequently to go to a refugee camp.
+MADAM PRESIDENT:
+Madam Counsel, have you got much longer?  Otherwise, we could take our lunch break.  But unless you think you can wind up rapidly, in which case we could go on for a couple of minutes. 
+MS. MOBBERLEY:
+Your Honours, I only have one or two questions left for the witness.
+MADAM PRESIDENT:
+In that case, pray proceed. 
+BY MS. MOBBERLEY:
+Q.	Witness, you said you were managing the canoes.  Now, did you ever read the licence for the business that you were operating?
+A.	It wasn't necessary to have a business licence, as is the case with somebody who uses a plane, for example.  It was therefore not necessary to have a licence to do that work. 
+Q.	Sorry, Witness, could you repeat your answer?  I don't think I heard it correctly. 
+A.	Yes, I can repeat.  If someone entrusts me with a task of carrying a load for him, can you then say it is yours?  No. 
+Q.	So what you're saying, Witness, is that you never saw a licence for the business you were operating.  That's correct, isn't it?
+A.	I had the permission to be responsible for those canoes, but they did not belong to me.
+Q.	And every night when you spent the night in Tanzania, you moored your canoe on the Tanzanian side of the river, didn't you?
+A.	Yes.  The canoes spent the night on the other side of the river in Tanzania because that is where I myself was spending the night.
+Q.	And it's correct, isn't it, Witness, that there were Tanzanian ferry operators transporting passengers across the Akagera river in April 1994, isn't it?
+A.	No, there were no Tanzanians at that place, but there were refugees who had set up there.
+Q.	Witness, listen to the question.  It's correct that in April 1994, Tanzanians also ferried passengers across the Akagera river?
+A.	I never saw any Tanzanians ferrying people, but there were Rwandans; rather, it was Rwandans who did that work.
+Q.	So you're telling us that no Tanzanian would have the initiative to run a ferry across a major trading river; is that correct, Witness?
+A.	Well, there might have been Tanzanians doing that at another crossing point, but where I was operating, at that crossing point, I never saw any Tanzanians.
+MS. MOBBERLEY:
+I have nothing further, Your Honour.
+MADAM PRESIDENT:
+Thank you, Madam Counsel. 
+
+Witness, just a short question.  Can you tell us specifically whether Bourgmestre Gacumbitsi was in your canoe?  Was he with you in the same canoe? 
+THE WITNESS:
+I said there were three canoes, small canoes, who couldn't carry three people.  There was the canoe operator, the canoeist, and they could take a second person or maybe a child.  So there were three canoes under my responsibility, and the three canoes xxxxxxxxxxx Gacumbitsi, xxxxxxx Gacumbitsi and the members of his family.  I paid the people who paddled other canoes but as a coefficient of the amount of money we received.
+MADAM PRESIDENT:
+You have not answered my question.  Was Sylvestre Gacumbitsi in person in the same canoe as you? 
+THE WITNESS:
+Sylvestre Gacumbitsi?  I tell you, there were three canoes.
+MADAM PRESIDENT:
+And, Witness, I have understood that there were three canoes.  Were you in one of the three canoes with Bourgmestre Sylvestre Gacumbitsi?  That is the question I am asking you.  Please answer specifically.
+THE WITNESS:
+Between him and me, it was I who was responsible for the three canoes.  I crossed his son.  I ferried his son.  But he himself was in another canoe paddled by xxxxxxxxx, but xxxxxxxxx was working under my responsibility and I paid him according to the work done.
+MADAM PRESIDENT:
+Thank you. Very well, now that is clear. 
+
+Counsel Kouengoua, do you wish to re-examine the witness? 
+MR. KOUENGOUA:
+I have no further questions to put to the witness.
+MADAM PRESIDENT:
+In that case, thank you, Counsel. 
+
+Witness, you have finished your testimony before this Trial Chamber, before the Tribunal.  We thank you and we wish you a safe return. 
+
+Registry, could you please escort the witness from the box? 
+(Witness excused)
+MADAM PRESIDENT:
+Counsel Kouengoua, how many witnesses do you have for this afternoon?
+ MR. KOUENGOUA:
+Madam President, we did propose a while back that we could -- because tomorrow is a holiday -- perhaps we could hear one witness this afternoon, to try to catch up with lost time.  I don't know how things are going to happen, will we finish this evening?  And if we don't finish this evening, what will happen tomorrow because it is a holiday?  But for this evening -- this afternoon, we have planned only one witness.
+MADAM PRESIDENT:
+Thank you.  
+
+Counsel for the Prosecution, any comments? 
+MR. KAREGYESA:
+Your Honours, just to be on the safe side, the Prosecution proposes that two witnesses be brought this afternoon because there is a possibility that we may get through both of them.
+MADAM PRESIDENT:
+Thank you, Counsel for the Prosecution. 
+
+Counsel Kouengoua, are you in a position to prepare two witnesses for this afternoon?  It would help us because if we finish the fourth witness early enough, we can start with the fifth one. 
+MR. KOUENGOUA:
+The next witness I've called according to my schedule was to testify over two hours, if the cross doesn't take more than 30 minutes.  No, I don't think two witnesses is possible, even if I am brief with my examination-in-chief.  I think one witness is quite sufficient for this afternoon.
+MADAM PRESIDENT:
+If you think you can't examine the witness in less than two hours, well, we have at least two and a half hours this afternoon.  We could at least begin with the fifth witness because, as you know, we are not sitting tomorrow.  So it might be a bit difficult to get through all the witnesses we have to hear and the expert witnesses that are due to testify.  See if you can't prepare your fifth witness.  We never know, it would allow us at least to gain some time.  That's what I wanted to tell you, in case we finish early with the fourth witness. 
+
+Thank you, all of you.  We will resume at 3:10 p.m., 3:10 p.m.; 3:10 this afternoon.  The hearing stands adjourned.
+	(Court recessed at 1327H)
+(Pages 35 to 48 by Karen Holm-Porter)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1510H)
+MADAM PRESIDENT:
+We are resuming our session.  Counsel Kouengoua, who is your next witness? 
+MR. KOUENGOUA:
+XW1 is the next witness.
+
+Sorry, Interpreter, I hadn't turned on my microphone.  The witness is XW1, Madam President.
+MADAM PRESIDENT:
+Bring in the witness, please.
+
+Good afternoon, Witness. 
+THE WITNESS:
+Good afternoon, Madam President.
+MADAM PRESIDENT:
+You will be known under the pseudonym XW1.  As far as this session is concerned, you will be XW1.  You will be examined by the Defence counsel and cross-examined by the counsel for the Prosecutor.  The Judges will probably have some questions to put to you and if need be, the Defence counsel will re-examine you.  But before we go on, you shall take an oath.  
+
+Could Registry administer the oath, please? 
+	(Declaration made by Witness XW1 in Kinyarwanda)
+MADAM PRESIDENT:
+Thank you, Witness and Registrar.
+
+Counsel Kouengoua, you have the floor. 
+MR. KOUENGOUA:
+Thank you, Madam President, Your Honour.  I would like to start with the closed session, Madam President, since we are dealing with a protected witness.
+MADAM PRESIDENT:
+We shall go into closed session to enable the Defence counsel to put to the witness questions that could lead to the revelation of his identity, because Witness XW1 is a protected witness. 
+
+(At this point in the proceedings, a portion of the transcript [pages 50 to 52] was extracted and sealed under separate cover as the session was heard in camera)
+(Page 49 by Sithembiso Moyo)
+
+
+
+1527H 
+MADAM PRESIDENT:
+Counsel, we are now in open session, please continue your examination-in-chief. 
+MR. KOUENGOUA:
+Thank you, Madam President.
+BY MR. KOUENGOUA:
+Q.	Witness XW1, we are now in open session. If I or any other person puts a question to you that is likely to reveal your identity, please refrain from answering it and point it out to Madam President and or 
+His Honour.  Thank you.  
+
+When did you hear of the death of President Habyarimana? 
+A.	I heard about the President's death on the 7th at 5 a.m. in the morning. 
+Q.	Where were you? 
+A.	I was in the area where I was born. 
+Q.	And how did you come to know about the President's death? 
+A.	I heard the news over the radio, and in the morning, I turned on my radio, I heard sad music and it was announced that the President's plane had been shot down the day before. 
+Q.	And what was your reaction? 
+A.	It was very painful news because we were dealing with the head of state, but this did not prevent me from going about my usually activities, I did not have a choice. 
+Q.	You said it was the head of state, the news was sad, but it did not prevent you from going about your activities.  What were your activities? 
+A.	I was working in a firm known as XXXX, and I worked from morning, at dawn right to the evening.  So it was necessary for me to go to work because if I hadn't done so, the xxxx I was in charge of would have been damaged, so I had to go to work on that day.
+MR. KOUENGOUA:
+ISAR is No. 75 on the list, please. 
+BY MR. KOUENGOUA:
+Q.	Were there any disturbances in your area on the night of the 6th, 7th of April? 
+A.	No.  During that night nothing particular happened; and nothing unusual happened in our area.
+Q.	And on the 8th of April, did anything happen? 
+A.	On the 8th, a man called Kazungu -- Kazungu was an artist, he was arrested and people came to represent him in the Bisoso(phonetic) conseiller.  There was another man known as Pierré from the Kankunga secteur.  He went to the communal office to inform them that his security was not provided.  The following day on the 9th, Kazungu therefore spent the night in the conseiller's house for reasons of safety and that is why -- these are the events that occurred in my area as regards security. 
+Q.	Kazungu is No. 115.  Why was Kazungu arrested? 
+A.	Kazungu had settled in that area very recently and he was arrested because he was suspected of being a spy of the RPF.
+Q.	And when he was arrested, what happened? 
+A.	When he was arrested, he was led to the Sebijojo, conseiller's house, and since his security was not provided for, a man known as Pierré from Kankunga secteur went to the communal office to inform the authorities that the security was not provided for.  When he got to the conseiller's house, he also observed that the situation was unsafe there, so he informed Bourgmestre Gacumbitsi.  When Gacumbitsi usually went to Kankunga he passed through Gisenyi secteur, and he said, "The children take the president's death as a pretext to jeopardise the security of other members of the population."  He said Kazungu was known in the area as an artist and as such, he should be allowed to move about freely and to go about his usual activities, and that is why Kazungu was released and he continued to go about his activities.  
+
+The conseiller continued to do his duties as a responsable of that area as well. 
+Q.	Was it the conseiller who had arrested Kazungu or someone else? 
+A.	Kazungu was arrested by members of the population in Gisenyi cellule, and he was brought before the conseiller who was the responsable of that secteur. 
+Q.	In your area, in April 1994, were there Tutsis? 
+A.	Yes, there were a good number of Tutsis living in that area. 
+Q.	Were the Tutsis in your area threatened? 
+A.	No, they were not threatened.  As I told you earlier, our area was safe, but in due course, the situation became unsafe as a result of the arrival of people from Rusumo commune where the situation was unsafe and this insecurity spread from Rusumo into the various secteurs of Rusumo. 
+Q.	Which neighbouring communes are you referring to, Witness XW1? 
+A.	The commune that was next to Rusumo was Rugira and Birenga. 
+Q.	Are you saying that the people who were threatening the members of the population came from those communes? 
+A.	What I am saying is that the people who were threatening members of the population hailed from the neighbouring communes to Rusumo. 
+Q.	Witness XW1, were you yourself threatened? 
+A.	Yes, I was threatened because I continued to do my work whereas we had been forbidden to do so, but I did not have much of a problem with regard to my security after the 10th -- until the 10th of April.
+Q.	And what did you do subsequently? 
+A.	I did not have a choice, I crossed the border to get into Tanzania.
+Q.	During that period when your life was threatened, were any Tutsi girls raped? 
+A.	No, nobody was raped, because xx xxxx was Tutsi, xx xxxxxx was Tutsi, my xxxxxx xx-xxx was Tutsi, and if such rapes had occurred, they would have also occurred to the people I have just mentioned. 
+Q.	Did you not hear that the bourgmestre had called on the Hutu population to rape Tutsi girls and women in your area? 
+A.	No.  Such acts did not occur. 
+Q.	You said earlier to the Chamber that a man known as Peter went to the communal office to lodge a complaint and he asked the bourgmestre to go to Kankobwa where Peter was living and went to the conseiller's house to release Kazungu; is that correct? 
+A.	The conseiller was passing through Kankobwa, since it is Peter who informed the bourgmestre that even in Gisenyi there were insecurity problems.
+Q.	And to your knowledge, between the 6th of April and throughout the month of April, how often did the bourgmestre of Rusumo visit your area? 
+A.	The bourgmestre came to our area from Kankobwa on the 9th of April, on the 9th. 
+Q.	Did he come at the request of Peter? 
+A.	Gacumbitsi was someone who often helped people because he loved his work.  So he came and intervened to assist Peter who had sought his assistance.  And when he came to our area, he asked us to be united, to protect each other's safety and that we shouldn't use the president's death as a pretext for jeopardising the security of members of the population. 
+Q.	You have testified that because you went to work instead of staying at home, you were threatened.  Did you stay in your locality after receiving these threats? 
+A.	I left my residence on the 10th of April 1994.  I crossed the border to go into Tanzania into a locality called Kashasha. 
+Q.	And did you cross with all of the family members that you mentioned earlier? 
+A.	When I crossed the border, these people had security problems and I therefore crossed over with my wife and the other members of our family remained behind.  Nevertheless, other family members crossed the border subsequently.  There were various crossing points which could be used to go to Tanzania.  I can give you an example, a person named Danny, another one named Jean and another person named Happynight and the last one would be Ndabalinze, xxxx and that would have been my xxxxxx x xx x xxx and his whole family.  So all of these people crossed over eventually into Tanzania. 
+Q.	Witness XW1, the names that you have just mentioned, are these first names or what language did you use, or perhaps they could be spelt out?  Were these first names or surnames, because you gave us quite a list of, I am not sure if the Kinyarwanda booth can interpret these names?  
+MADAM PRESIDENT:
+Counsel, if these are members of his family, how can he specify all these details in open session?
+MR. KOUENGOUA:
+Absolutely, we are in open session; that is right. 
+BY MR. KOUENGOUA:
+Q.	When you crossed the border to go to Tanzania, did you or members of your family hear that the bourgmestre or the responsable de secteur had given orders that people were not to be allowed to cross the border? 
+A.	No such orders were given, because as I have stated, my elder brother was minding the canoe and he was able to cross over.  I have given you the names of family members who were able to cross the border.  In Kashasha there were various crop farmers and they would come and sell their products in Rwanda. 
+MR. KOUENGOUA:
+If the Kinyarwanda would be so kind as to spell the location that was just mentioned. 
+THE KINYARWANDA INTERPRETER:
+Kashasha is spelt phonetically as K-A-S-H-A-S-H-A, Kashasha. 
+MR. KOUENGOUA:
+Thank you, Mr. Interpreter. 
+BY MR. KOUENGOUA:
+Q.	When you reached Kashasha on the 10th, did you hear that Gacumbitsi prohibited other members of the population from crossing over or from seeking refuge in Tanzania? 
+A.	No, as I have said, that never happened because many persons crossed the border after I did, and they did it the same way we used to cross the border before the war and so, no such order was ever given prohibiting persons from crossing the border. 
+Q.	Witness XW1, did you ever hear that there was a distribution or rather were there any -- was there ever any weapon distribution in your locality? 
+A.	There was no distribution of weapons in my locality.  If that were to be the case, then the conseiller de secteur -- but as he himself was a Tutsi, no one else to my knowledge would have been able to distribute them.  And there is another matter that arises; who would these weapons been distributed to because we had never been trained in weapons handling?
+Q.	Witness XW1, since you left Kashasha to Tanzania in April 1994, did you ever return to Rwanda? 
+A.	No, I have not returned to Rwanda since then. 
+Q.	Can you return now, and if not, why not? 
+A.	I cannot return to Rwanda for the following reasons:  I fled in 1994 and I returned in 1996.  I remained there until 1998.  We were prosecuted.  My elder brother who manned canoes was ultimately killed.  My paternal uncles and their children were killed.  As I am of mixed parentage and my face looks like that of my father, I was continuously threatened.  We had to separate, my wife and I separated.  I was injured on my right leg and my left arm.  We decided to flee and went to Tanzania.  
+
+The second reason that prevents me from returning deals with my safety.  In the camp where we are currently sheltered, there are former RPF soldiers and they pretend to be Congolese.  And ever since I met xxxxxxxxxx xxxxxxx who wanted me to come and testify about the events that took place in my locality, anyone who met with this investigator was put on a list that has been forwarded to Rwandan authorities, and therefore, I wonder what will happen to me or what would happen to me if I were to return to Rwanda, at a time when anyone who does not support the ideas of the government in power are considered to be enemies of that power. 
+Q.	Witness XW1, did you see your elder brother being murdered?
+A.	Yes, I was a witness to the murder of my elder brother. 
+MR. KOUENGOUA:
+Madam President, Your Honour, I have no further questions for this witness.  I thank you for your patience and attention.
+MADAM PRESIDENT:
+We thank you, Counsel.  
+
+Mr. Prosecutor, you may now proceed with the cross-examination of the witness.
+CROSS-EXAMINATION
+BY MR. KAREGYESA:
+Q.	Witness, good afternoon?
+A.	Good afternoon. 
+Q.	Witness, do you speak and read French? 
+A.	No. 
+Q.	In spite of your three years of post primary education, you do not read or speak French at all? 
+A.	Training in CERAI institution was provided in Kinyarwanda.  We had French lessons but the scope of those French lessons was quite limited. 
+Q.	And I believe in the eight years of primary education you also learnt French, isn't it? 
+A.	Yes, I studied French.  Throughout the countryside we studied French, but education was provided in Kinyarwanda, our mother tongue.
+Q.	So I would be correct, Witness, to suggest that you can read French and understand it? 
+A.	No, if I could read and understand French this would mean that I know the language.  There is no point in being able to read if you cannot understand.  So I cannot understand written text, a text written in French. 
+Q.	I believe, Witness, when you were interviewed by Defence investigators, you were interviewed in Kinyarwanda? 
+A.	Yes, that is correct, we spoke in Kinyarwanda. 
+Q.	And your interviewer is a Munyarwanda fluent in Kinyarwanda?
+A.	That is correct. 
+Q.	Witness, in 1992, prior to the advent of multipartism in Rwanda, is it correct that all Rwandans were members of the ruling MRND? 
+A.	Rwandans belonged to different political parties.  The MRND existed, but there was also the MDR party, the CDR, the PSD, PL and other parties whose names I don't remember.  Not all Rwandans -- therefore not all Rwandans were members of the MRND.
+Q.	Witness, you haven't answered my question.  My question was whether prior to 1992, when MRND was the sole party, all Rwandans were members of the MRND? 
+MR. KOUENGOUA:
+Objection, Madam President.
+MADAM PRESIDENT:
+What is your objection? 
+MR. KOUENGOUA:
+Madam President, the indictment deals with the period beginning with January 1st, 1994, and the Tribunal is not allowed to deal with matters that occurred before.  The witness is being asked to provide informed about events that took place before 1992.  That is a factual witness, 
+Madam President. 
+MADAM PRESIDENT:
+We would allow the question.  
+
+Please proceed, Mr. Prosecutor. 
+MR. KAREGYESA:
+Thank you, Madam President, Your Honour. 
+BY MR. KAREGYESA:
+Q.	Witness, can you please answer my question? 
+A.	In answer to the question as to whether all Rwandans were members of MRND, I cannot answer your question -- I can only speak -- if you ask me what party I belonged to, it would be impossible to know what party this or that person belonged to.  I can only speak for myself. 
+Q.	Witness, I am talking of a period prior to multipartism, this is prior to 1992 when other parties were legalised.  Do you understand that? 
+A.	I can understand you, which is why I answered that I did not pay attention or was not interested in other parties.  You know there are persons who have no political interest or affinities.  You can't ask me such a question because I cannot know what party all Rwandans belonged to. 
+Q.	Well, I put to you a proposition, Witness, that prior to 1992 all Rwandans belonged to the MRND; it is either yes or no? 
+A.	Well, as far as I am concerned, I wasn't a member of the MRND.  As I do not speak on behalf of all Rwandans's side, I could have told you that I was a member of the MRND.  Therefore, I am giving you an example; I was not a member of the MRND, and I believe that I am Rwandan.  I think that this question should not be put to me.  
+
+For example, I was not a member of any political party.  If you say that all Rwandans are members of the MRND, then you are including me in a fact that is not true.  I have told you that I was never a member of the MRND. 
+Q.	Witness, is it your evidence that prior to 1992 there were other parties in addition to the MRND; is that your evidence? 
+A.	As I have stated, the MRND party existed, but I was not a member of that party.  And yet I am Rwandan, why are you insisting that I be a member of MRND?
+Q.	Witness, I am not insisting.  Now it is true, isn't it, Witness, that in 1996 your wife returned to Rwanda and still resides there? 
+A.	We returned to Rwanda together in 1996 as things should be and we fled together again as things should be.  My wife is still alive. 
+Q.	And it is true, Witness, isn't it, that she is currently in Rwanda? 
+A.	If you would allow me, I can give you a detailed explanation and tell you in what circumstances she is in Rwanda, this is with your leave, of course.  If I am not allowed to proceed, I shall not proceed obviously. 
+Q.	The question is simple.  She is currently in Rwanda, isn't she?  
+A.	She has not returned to Rwanda because of reasons that are dependent on me.  She was forcibly returned to Rwanda and I was not with her when she was forced to return. 
+Q.	Now, Witness, subsequent to your return to Rwanda in 1996, were you ever arrested and charged with genocide? 
+A.	No, I was never arrested. 
+Q.	Now, I will take you to the events of April 1994 and specifically to the 9th -- let me say the 8th of April 1994.  Do you know who arrested Kazungu? 
+A.	Kazungu was arrested by a person living in his native cellule in Gisenyi préfecture or rather in Gisenyi cellule, in his native cellule Gisenyi.
+Q.	And did you witness the arrest?
+A.	I saw him when he came to our cellule as I am a native of a secteur in which the conseiller lived.  I therefore saw him when he was being brought in by those who had arrested him. 
+Q.	And it also would be true, Witness, those same people, the members of the population, on that occasion also arrested Sebijojo, the conseiller of your secteur? 
+A.	No, they weren't the ones who arrested him, those who arrested Sebijojo came from Mahama and the others came from Nyamugari.  These criminals, I cannot assimilate them with members of the population because ordinary citizens abide by the law as it was before the war.  So these criminals came from the places that I have mentioned. 
+Q.	Witness, you still haven't answered my question, namely, whether the same criminals who arrested Kazungu also arrested Sebijojo on that same day and occasion. 
+A.	Kazungu lived in Gisenyi cellule as I have stated.  Sebijojo lived in Kigufi cellule.  These two events occurred on different days.  Kazungu was arrested on the 8th and he was taken to the conseiller on that same date.  Gacumbitsi arrived where we were on the 9th.  Therefore, you will understand that these events took place on different dates. 
+Q.	Witness, I am fully aware that you purport that Gacumbitsi came to your secteur on the 9th, but you still haven't answered my question.  Was Sebijojo your conseiller also arrested by the same criminals who arrested Kazungu on the 8th of April 1994, it is either yes or no? 
+A.	The conseiller was never arrested.  What happened to him actually was that he was attacked at his residence because of the Kazungu matter.  Those who attacked the residence of the conseiller came on the 9th.  They came from Mahama cellule Nyamugari secteur.  We ran up and we interposed ourselves -- so we interposed ourselves against those people and they turned around and left.  
+
+As to Kazungu, the conseiller had security problems because he had given him shelter.  The other problem, that is the conseiller's, is very different from the problem of Kazungu.
+Q.	So it would be your evidence, Witness, that Conseiller Sebijojo was never arrested? 
+A.	Conseiller Sebijojo was never arrested.  Those who attacked him found him at his residence but they did not arrest him. 
+Q.	And, Witness, on which date was this purported attack on Sebijojo's residence? 
+A.	Sebijojo's residence was attacked on the 9th. 
+Q.	What time of day was this purported attack, Witness? 
+A.	After Gacumbitsi left between 2 p.m. and 5 p.m., so I believe that he left between 2 p.m. and 5 p.m. and the attack took place after he had left. 
+Q.	So it would be your evidence that Gacumbitsi's visit preceded the attack on Sebijojo's house? 
+A.	Yes, I said that Gacumbitsi arrived on the 9th.  Sebijojo had a security problem as a result of the fact that he had given shelter to Kazungu.  And it was with this piece of information that I began my testimony on the matter, and I have nothing to change in that regard. 
+Q.	And it would also be your evidence, Witness, that Kazungu was released subsequent to Gacumbitsi's intervention on the 9th of April 1994? 
+A.	Yes. 
+Q.	And it would be correct, Witness, to suggest that during the purported attack of Sebijojo's residence on that day, Kazungu had been released and was not present? 
+A.	I have explained on several occasions what happened and you insist on putting the question to me.  Kazungu was released after Gacumbitsi left. 
+Q.	It still doesn't answer my question, Witness, namely, whether Kazungu was present during the purported attack on Sebijojo's house. 
+A.	Are you doing this on purpose?  When Kazungu was taken to Sebijojo's house Sebijojo could not rescue him, could not be very assured because of Kazungu being there.  When Kazungu was released so that he could continue with his work, it was Bourgmestre Gacumbitsi or it was rather, thanks to the intervention of the bourgmestre; thanks to the intervention of Gacumbitsi.  This took place afterwards.  He was released or the events you are referring to took place after Gacumbitsi left.  You seem unwilling to accept the truth I am stating here because I am the one who was a witness to these events.
+	(Pages 53 to 61 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1615H
+BY MR. KAREGYESA:
+Q.	Witness, were you present at the secteur office when you purport Gacumbitsi came there on the 9th of April 1994?
+A.	Gisenyi secteur had no official office.  The administration functioned without any building, administrative building.  You can ask other people who know the area or you can investigate for yourself.  Gisenyi secteur had no sectoral office.  I was born there, I lived there and I know it better than anyone who hasn't lived there.
+Q.	Witness, were you present at Sebijojo's residence when you purport Gacumbitsi came on the 9th of April 1994?
+A.	Between xx  xxxxxxxxx and xxxxxxxx's xxxxxxxxx, the distance is about a xxxxxxx metres, and moreover, the problem of public safety concerned everybody in our cellule.  That is why I was there.
+Q.	So were you at your xxxxxxxxx a xxxxxxx metres away or were you at xxxxxxxx's residence, Witness? 
+A.	I'd already come home from work.  There was a problem that concerned the entire cellule.  A xxxxxxx metres is not a great distance and it was necessary for me to leave my residence and go there.
+Q.	Witness, what time did you normally leave work, prior to the 10th of April 1994? 
+A.	I worked from sunrise, and I finished at 11:00, because of the nature of my work.  I stayed at home in the meantime, and went back to work between 4 and 5 p.m.
+Q.	So your morning shift ended at 11:00 and your afternoon shift ended at approximately five o'clock; is that correct?
+A.	I didn't say that I finished at 5 or 6 p.m., no.  What I said is that at 7:00 -- no, at 5:00 or 6:00, I started working again after my rest.
+Q.	Now, can you tell Their Lordships at what time your afternoon shift ended? 
+A.	When one is independent, working for oneself, one works according to the hours one decides for oneself.  I myself organised my work.  I'd say such-and-such work; I'd do at such-and-such time.  Some people take 30 hours to do something; other people take an hour.  So I worked especially in the morning, and in the afternoon there was very little work compared to the morning.
+Q.	Witness, in your examination-in-chief a while ago, didn't you tell Their Lordships that you were employed by a certain organisation? 
+A.	Yes. 
+Q.	So it's incorrect to suggest that --
+A.	It was a manner of speaking.  I wasn't self-employed, independent, but I organised my work myself so the supervisor -- in such a way as the supervisor should be satisfied.  As long as my -- whatever programme I followed was not contrary to the interests of the job, I could determine my own working hours.
+Q.	Now, since you could determine your own working hours, Witness, can you tell Their Lordships what time you finished your afternoon shift on the 9th April 1994? 
+A.	I don't remember the time.  It was nine years ago, all the same.
+Q.	I agree with you that it was nine years ago, Witness, and you were able a while ago to remember that you finished your morning shift at 11 o'clock.  Why can't you remember the time you finished your afternoon shift, Witness? 
+A.	Well, please, I don't know if I can allow myself to object.  You insist on asking me what time I came home.  It's very possible that I could remember the time I came home in the morning without remembering what time I came home in the evening.  It could happen to you, too.  Either I remember the time I came home in the morning -- it's true I remember what time I came home in the morning but not what time I came home in the afternoon, but that is nothing impossible or out of the ordinary.
+Q.	Now, Witness, at what point in the day on the 9th of April 1994 did you visit xxxxxxxx's house?
+A.	As I have already told you, I left work at 11 o'clock; I passed at home to take lunch.  It's about 2 p.m. or 3 p.m. that I went to xxxxxxxx's.
+Q.	And how long did you spend at Sebijojo's house on that occasion, Witness?  
+A.	I left after Gacumbitsi had departed, and after we had chased away the people who had attacked xxxxxxxx's.  It was between 5 p.m. and 5:30.  I don't remember exactly what time.
+Q.	Now, do you recall going back to work in the afternoon or the evening of that day? 
+A.	Yes.  I returned to work by bicycle.  I wasn't working very far from my residence.
+Q.	At what time did you go to work, Witness?  If you left xxxxxxxx's at around 5:30, what time did you go back to work? 
+A.	The time I'm giving you is approximate.  I don't know if I went to work at 20 to 6, 5:40 p.m.  All I can say is I was working nearby.  From xxxxxxxx's house, you could see the place I was working.
+Q.	And how long did you spend at work on that evening, Witness? 
+A.	I left work, it was dark, but I can't tell you what time it was.
+Q.	Now, Witness, when you went to xxxxxxxx's residence, did you find Gacumbitsi there or is it Gacumbitsi who found you at xxxxxxxx's residence, on the 9th of April 1994?
+A.	After work, or at what time?  I accept that you ask me questions, but your questions must be clear if I am to answer them.
+Q.	You've told this Chamber that you went to xxxxxxxx's house, and my question is:  Did you find Gacumbitsi at xxxxxxxx's house or was it Gacumbitsi who found you at xxxxxxxx's house? 
+A.	When Gacumbitsi arrived, I was already there.  I say that he arrived between 2 p.m. and the evening, for example.  I can't give you the exact time when he arrived, but I arrived there at 3 p.m.  I can't tell you what time Gacumbitsi arrived.
+Q.	And approximately how long, Witness, did Gacumbitsi spend at xxxxxxxx's residence? 
+A.	He didn't stay long.  I told you what he said.  You must have observed that it was not a long speech.  He said what he had to say and then he left, leaving me at that place.
+Q.	Now, Witness, other than yourself, possibly the Accused, nobody else in this Chamber was there, so we are relying on you to tell Their Lordships, according to your estimation, how long did this visit of Gacumbitsi last.  Was it 30 minutes?  Was it an hour?  Was it more? 
+A.	I see that you're trying to drag me into impossible details.  I don't want to lie.  I gave my solemn oath that I would tell the truth.  You want me to give you an approximation; how then could I tell the truth?  I cannot therefore make -- indulge in that sort of guesswork.
+Q.	So, Witness, you are not in a position to estimate the duration of Gacumbitsi's stay, are you? 
+A.	I said that he stayed there very briefly, on the basis of what he said, the length of the speech he made.  If you want to know the exact duration of his presence, you can ask him, but I couldn't ask you for details any clearer than the ones I've already provided.
+Q.	Witness, I'm not asking you to be exact.  You've told Their Lordships that he was there very briefly.  Was it 15 minutes, was it 30 minutes, was it three-quarters of an hour, or was it an hour? 
+MR. KOUENGOUA:
+Madam President, the witness is being asked the same question for about 20 minutes, and he's giving the same answer.  Please, the council chamber knows the difficulties -- the Trial Chamber knows the difficulties we have at this moment. 
+MADAM PRESIDENT:
+Witness, can you tell us if Bourgmestre Gacumbitsi only stayed a few minutes, he said the sentences he spoke, and then he left?  Or did he stay longer?  Five, ten minutes?  Since you said that he stayed only briefly, tell us about how long he stayed. 
+THE WITNESS:
+Madam President, Gacumbitsi's speech was not a long one, as I've already stated.  After having said what he had to say to Kankobwa and spoken to the people of my cellule, the inhabitants of my cellule, he did not stay very long.  However, if you allow me to make an estimate, I think he didn't stay more than 45 minutes, but again, that is only an estimate.  I was not wearing a wristwatch.
+BY MR. KAREGYESA:
+Q.	Now, Witness, was Kaziungu released during this 45-minute period when Gacumbitsi was at Sebijojo's residence? 
+A.	After this speech, then came the implementation phase, if I can express myself thus.  Kaziungu was therefore released between that period, the 45 minutes, but it was not during the speech.  It was after.  Gacumbitsi did not organise any meeting.  The residents, inhabitants, there came to see that nothing should happen to the conseiller or to Kaziungu.  It was therefore after the speech that Kaziungu was released.
+Q.	And was the implementation of the bourgmestre's directive, namely the release of Kaziungu, done in the presence of the bourgmestre, or was it done after his departure? 
+A.	When one gives an order, well, to be released, he was released.  The order had to be implemented, instructions executed.  When he was released, he didn't flee, he stayed amongst the people, but his release was effective as of the moment that the order was given.
+Q.	Now, Witness, how long after Gacumbitsi's departure was the attack on Sebijojo's house? 
+A.	I had already indicated to you the time.  I said that as soon as Gacumbitsi left, Sebijojo's house was attacked; that is to say the attack was between 4 and 5 p.m., and we are still talking of estimates.
+Q.	And it's your evidence, Witness, that you participated in repulsing that attack, isn't it? 
+A.	Yes, because I was present.
+Q.	Witness, I put it to you that between 2 p.m. and 9 p.m. on the 9th of April 1994, Gacumbitsi was in Nyakarambi and never came to your secteur.
+MR. KOUENGOUA:
+Madam President, this is a commentary, not a question put to the witness. 
+MADAM PRESIDENT:
+Yes, it is a comment.  The witness didn't say that.
+MR. KAREGYESA:
+Your Honours, I am cross-examining this witness by putting a proposition arising from the Prosecution case which is clearly within my remit while I'm cross-examining this witness.  I am suggesting to him that Gacumbitsi was elsewhere on that occasion, and it's up to the witness to confirm or deny the proposition. 
+MR. KOUENGOUA:
+Madam President, I don't think that the examination-in-chief or the cross-examination is the appropriate place to suggest answers or questions to the witness and, moreover, that he should choose the answer he's going to give.  So he's not asking to confirm, he's asked to comment on the answer, whether it's true or not.  I don't think that's allowed by the Rules of Procedure and Evidence. 
+MR. KAREGYESA:
+Well, Your Honours, if I may advise that maybe counsel hasn't seen the latest version of Rule 90 concerning cross-examination and the adverse party putting its case to witnesses of the other party.  It was an amendment to the Rules of Procedure and Evidence, and in particular, Rule 90(G), which was adopted this year.  In short, Your Honours, I am putting the case of the Prosecutor to this witness and I expect him to either deny or confirm the proposition. 
+MADAM PRESIDENT:
+Wait, Counsel.  Maybe the witness himself can answer this question and then we can move forward.
+MR. KOUENGOUA:
+Absolutely not.  I never talked to Nyamugali in my examination-in-chief.  I don't think so.  At this hearing on this day, I didn't do it.  Perhaps you can interpret the law as you like but I never put it to the witness, and I don't think the Trial Chamber should admit the question but Article 90, if you're quoting, then it is important for -- to read Article 90.  The Article reads, Article 90, and tell me where it says that he's allowed to lead the witness in cross-examination or in examination-in-chief, but I, as an examiner in-chief of the witness, never mentioned Nyamugali, until I am proved to the contrary. 
+MADAM PRESIDENT:
+We don't find this reference to Nyamugali, Counsel for the Prosecution.  Would you like to re-put your question to the witness, reformulate the question?
+MR. KAREGYESA:
+Your Honours, I did not refer to Nyamugali, first of all.  I referred to Nyakarambi.  And my submission is that is the Prosecutor's case which I am putting to this witness and Rule 90(G)(ii) reads, and I quote, "In the cross-examination of a witness who is able to give evidence relevant to the case for the cross-examining party, counsel shall put to that witness the nature of the case of the party for whom that counsel appears which is in contradiction of the evidence given by the witness." 
+
+Simply put, Your Honours, the Prosecutor led evidence that at the times this witness is indicating, Gacumbitsi was in Nyakarambi.  Two:  At no point during Defence cross-examination of Prosecution witnesses did the Defence suggest that on the 9th of April 1994, Gacumbitsi was at Sebijojo's residence in Gisenyi secteur.  So I am now putting the Prosecutor's case to this witness, and it is simple.  It is either a yes or a no, and we would move on without much ado. 
+MADAM PRESIDENT:
+Witness, you've followed.  Can you answer yes or no, quite simply, and we'll leave it at that.
+THE WITNESS:
+Madam President, I made a solemn oath to tell the truth.  On the 9th of April the Accused passed there coming from Kankobwa, but what the Prosecutor is saying, he was never there.  I came here to tell the truth.  If I saw him on that date, no one else can deny the fact that I didn't see him, so I saw him.
+MADAM PRESIDENT:
+We will suspend for ten minutes.  I'm sorry, but I'm -- they've been waiting for me with these people that must leave the Tribunal before five o'clock.  Thank you for your understanding.  The hearing stands adjourned. 
+	(Court recessed at 1645H)
+(Pages 62 to 66 by Mark Porter)
+
+
+
+
+
+
+
+
+
+
+
+
+	(Court resumed at 1700H)
+MADAM PRESIDENT:
+We are resuming the hearing.  Counsel for the Prosecution you have the floor.
+BY MR. KAREGYESA:
+Q.	Now, Witness, when you were interviewed by a Defence investigator, did you tell them that there was an attack or did you tell him there was an attack on Sebijojo's house after Gacumbitsi departure?
+A.	I told the investigator very briefly how the events occurred because it was not necessary to relate everything to him in detail.  So I told him how the events occurred in Kankobwa because he had just asked me whether I was aware of the events in my area of residence, and I told him that I saw Gacumbitsi and what the security situation was at the time.  So I told him what I have related to you here, from the start.  I don't know whether it is necessary to repeat what I said.
+Q.	Witness, my question is very simple and can be answered with a yes or no.  Did you tell the Defence investigator that on the 9th of April l994, there was an attack on Sebijojo's house after the departure of Gacumbitsi, yes or no?  You either told him or you didn't.
+A.	I know I was asked to tell this Chamber the truth.  You may raise certain events and forget others.  I came here to tell the truth, I cannot change the statements I made here, because those are the statements I have.  So I told the investigator with regard to Gacumbitsi's passage in my area.  I told him what happened to Kazungu and the conseiller, that is to say, that the events unfolded as I presented them to you because I came here to tell the truth.  I did not come here to tell lies.  So I don't know why you continue to put that question to me.
+MADAM PRESIDENT:
+Witness, don't be surprised if questions are being put to you.  It is quite normal.  You are examined by the Defence Counsel and now the Prosecution is entitled to question you.  Even if he is asking you some questions which pose problems to you, it is part of his strategy to test your credibility.  For instance, it is normal that such questions should be put to you.  There's nothing abnormal in that.  So please try to answer the questions as simply as possible and everything will be well.
+MR. KAREGYESA:
+Thank you, Madam President.
+BY MR. KAREGYESA:
+Q.	So, Witness would you please answer the question, namely, whether you told the Defence investigator of the purported attack on Sebijojo's residence after the departure of Gacumbitsi on the 9th of April, 1994?
+A.	Do you want me to answer your question by a yes or no?  This is the truth that I know and which I came here to tell you.  I know that there is legislation governing examination of witnesses.  I haven't studied law, but the facts that I stated here occurred as I said, and I haven't changed anything in my statement.
+Q.	Witness, you still refuse to answer my question.  Maybe you didn't understand it.  Let me simplify it for you.  You were interviewed by a Defence investigator by the name of Marvellous Sunguha, is that correct, yes or no?
+A.	Yes.
+Q.	Do you recall the date?
+A.	That was on the 14th of June 2003.
+Q.	Did you meet him only on the 14th or had you met him on the 13th of June 2003?
+A.	We met the first time, and the second meeting took place on the 14th of June 2003.  That is to say that I did not meet him on the 13th and the 14th, I only met him on the 14th of June 2003.
+Q.	Witness, you mentioned the first time and the second time.  Is it your evidence that you met him twice on one day or that you had met him on a date before the 14th of June 2003?
+A.	I do not recall the date of the first meeting.  However, the second meeting which was on the 14th of June 2003, I do remember that second meeting.
+Q.	Very well.  Now were you interviewed on both these occasions, Witness, that is, on the date you do not recall, and on the 14th of June 2003?
+A.	I haven't quite understood the question.  Did you ask whether the question -- could you please repeat your question?
+Q.	Witness, the question is very simple.  Did the Defence investigator interview you on both these occasions, namely, the date you do not recall, and again, on the 14 of June 2003?
+A.	During the first meeting there was a short interview because I just arrived from my place of work, so we spoke for a short time.  It was only during this second meeting that we had a lengthy interview.
+Q.	And it's correct as you told this Chamber earlier on, that he interviewed you about Gacumbitsi and insecurity in your area in April 1994?
+A.	Yes, that is correct.
+Q.	And you will agree with me that an attack by assailants on the residence of a conseiller immediately after the departure of a bourgmestre is a serious security threat, isn't it?
+A.	The problem was posed in the manner in which I just described to you.
+Q.	So would it be your evidence, Witness, that you told the Defence investigator about this serious breach of security occurring immediately after the departure of the bourgmestre?
+A.	I told him that the situation, was as I described it and I spoke about the events that took place at the house of the conseiller with respect to Kazungu and the events that took place at Pierre's house.
+Q.	Witness, please answer the question.  Don't evade it.  Did you tell the Defence investigator on the 14th of June 2003 that there was an attack at the house of Sebijojo after the departure of Gacumbitsi?  Yes or no.  You either told him or you didn't?
+A.	I don't know, perhaps you are unwilling to understand my version of the truth.  I have clearly stated that during my interview with the Defence investigator, I told him how the events unfolded, and how the attackers came to that place but I did not clearly state exactly what was the order in which the events took place.  I did not give him the exact chronology.  Perhaps you are reading something on a piece of paper but what I have told you is the truth.  I don't think that the fact that you have repeated the question will change my point of view, but I believe that you are not accepting what I am telling you.  How do you want me to answer you?
+MADAM PRESIDENT:
+Witness, I have told you to answer specifically to the questions that are put to you.  Answer the questions in a concise and clear manner.  He has asked you this question on several occasions but you have still not answered the question.  Have you understood what he said?  You have spoken of events that took place at the residence of conseiller Sebijojo.  He has asked you if you told the investigator what you have told us.  Did you tell the investigator, yes or no?  It's very simple.  You must answer the question that is put to you.  Otherwise he is going to put the same question to you again because he doesn't have an answer.
+THE WITNESS:
+Madam President, I never refused to answer.  I told him that I spoke with Sunguha about the events that took place at the conseiller's and about the events that took place at Pierre's.  So how do you want me to answer?  Perhaps you could tell me how to answer him.  I am telling him the truth but he does not want to hear me.  Perhaps he has another goal, another aim.  But the truth is the one that I have told you.  I did not lie about anything.
+MR. KAREGYESA:
+Your Honours, the question remains unanswered.  The witness is introducing events at Pierre's house.  We are not interested in events at Pierre's house.  All we need to establish Your Honours is whether this witness told the Defence investigator that subsequent to Gacumbitsi's departure there was an attack on Sebijojo's residence.
+THE WITNESS:
+As I have told you, we spoke with the investigator and I spoke as I have told you.
+MADAM PRESIDENT:
+Witness --
+MR. KAREGYESA:
+I will move on, Your Honours.
+MADAM PRESIDENT:
+Pardon.
+MR. KAREGYESA:
+I will move on.
+MADAM PRESIDENT:
+Very well.
+BY MR. KAREGYESA:
+Q.	Witness, how long did your interview last with investigator Sunguha on the 14th July 2003?
+A.	The interview lasted approximately an hour.
+Q.	And it's correct, isn't it, Witness, that subsequent to your interview he read back your statement to you and you signed it?
+A.	Could you show me the written statement so that I could ensure that it is mine.
+MR. KAREGYESA:
+If Registry could please show the witness the statement.
+BY MR. KAREGYESA:
+Q.	So, Witness, at the left-hand side bottom corner of the statement just shown to you by registry, you wrote your name and signed the statement, isn't it?
+A.	Yes.
+Q.	Now, I would like to read to you a portion of your statement and subsequently ask you a few questions, and I quote:  "There was no security problem in our secteur until 9th April 1994.  On that date a certain Peter came to inform the bourgmestre that attackers had arrested Kazungu and conseiller Sebijojo and threatened to kill them under the pretext that they were RPA spies.  With that information Gacumbitsi went to the locations.  He informed the population that it is in their interest to protect themselves against troublemakers.  I would add that Kazungu and Sebijojo were released".
+
+Witness, you told this Chamber earlier on that Sebijojo was never arrested.  In light of what I have just read, do you maintain that Sebijojo was never arrested?
+A.	You see, the problem that is here is that when you cannot move from where you are, you cannot leave from where you are and you can only move when the security is re-established.  This is the same as being arrested because Sebijojo could not leave this place and Kazungu, and Kazungu could not leave until his problem was resolved.  It was in that light that I made that statement.
+Q.	So it is now your evidence that both Kazungu and Sebijojo were under arrest, am I correct?
+A.	Yes.
+Q.	And it was your evidence earlier on, Witness, that subsequent to Kazungu's arrest, he was taken to the conseiller, Sebijojo's residence where he was detained over night; am I correct?
+A.	Yes, that's correct.
+Q.	So why would attackers detain Kazungu at the conseiller's residence if both were under arrest?
+A.	Actually Sebijojo's arrest was actually more to the fact that he could not leave his house and go elsewhere.  Moreover, he was accused of being an Inkotanyi accomplice.  So the matter was resolved by the arrival of Gacumbitsi.
+Q.	Witness, I believe you went to work at dawn and finished around 11 o'clock, am I correct?
+A.	I never said that I returned at 11 o'clock at night.
+Q.	Well, I didn't suggest it was at night, Witness, but it's true that you went to work at dawn and finished your morning shift at 11 a.m.; isn't it?
+A.	Yes, I told you that I began my work at dawn and I would return at dusk.
+Q.	Now between dawn and 11:00 when you were at your place of work, did you have occasion to see Sebijojo at all?
+A.	You are referring to the time interval after I left my place of work, was that correct?
+Q.	Witness, I am talking of between dawn and 11 a.m.  During that period did you see Sebijojo?
+A.	I had been informed of a situation but I did not go to his residence during this specific portion of time.  I did not go there until I had left my place of work.
+Q.	And when is the first time you saw Sebijojo on that day the 9th of April l994?
+A.	I have told you that I went to Sebijojo's resident around 3 p.m.
+Q.	Witness, please answer the question as it's put to you.  When did you first see Sebijojo with your own eyes on that day?  At what time?
+A.	Mr. Prosecutor, I know that I have answered that question, and I have told you that I went to work and I returned, and I told you at what time I went to Sebijojo's residence and that is when I saw him.  So how am I supposed to answer your question?
+Q.	And, Witness, it's correct, isn't it, that between dawn and approximately 3 p.m. when you saw Sebijojo at his residence, you did not know his whereabouts?
+A.	I knew where he was.
+Q.	Witness, how did you know where he was when you first saw him at approximately 3 p.m.?
+A.	Are you asking me how I was informed of this?
+Q.	Witness, I am talking of knowledge not information.  I am suggesting to you that between dawn when you left home to go to work at 3 p.m. or approximately 3 p.m. when you first saw Sebijojo on that day you did not know his whereabouts.
+A.	I think that the manner in which you are putting the question to me is quite tricky.  I saw him on that date and time, but I knew him from well before that because he was my neighbour.
+Q.	Maybe let me simplify it for you, Witness.  It's correct, isn't it, that on the 9th of April 1994, the first time you set your eyes on Sebijojo was at approximately 3 p.m. when you went to his residence?
+A	I have answered that I knew Sebijojo well, this does not mean that I saw him for the first time on that day.  He was a conseiller, he was a neighbour, therefore, it was not the first occasion on which I saw him that day.
+MR. KAREGYESA:
+Your Honours, I believe, there maybe a translation interpretation error.  So permit me once again to clarify the question for the witness.  
+BY MR. KAREGYESA:
+Q.	Now, Witness, I am not suggesting that you didn't know him prior to this occasion.  I am just suggesting -- 
+MR. KOUENGOUA:
+Madam President, with your leave.
+MADAM PRESIDENT:
+Yes, Counsel.
+MR. KOUENGOUA:
+Defence has examined this witness for two hours, and we only used 40 minutes, and for the last hour and 35 minutes the Prosecutor has been putting the same questions to the witness.  It is now 
+5:35 p.m.  We have problems, Madam President.  I think we need to take this into consideration.  Time has become way too dear before this Trial Chamber, and we need this time beyond examination and cross-examination.  Time is dear for this Trial Chamber and for all the parties.  The clock is on this side and I would like the Prosecutor also to be able to see this clock before he proceeds any further.  
+
+I thank you, Madam President for this.
+MADAM PRESIDENT:
+Yes, sir.  But you will also remember, Counsel, that we have had to intervene on several occasions to ask the witness to answer the questions.  The problem is that the same question has to be put to the witness on several occasions before he answers and that is where the problem comes from.
+MR. KAREGYESA:
+I am most obliged, Your Honours.
+BY MR. KAREGYESA:
+Q.	Now, Witness, let me go over my proposition again. I am not suggesting for a moment that you didn't know Sebijojo, no.  All I am saying is that on the 9th of April 1994, between dawn when you got up to go to work and when you first set your eyes on him that day at 0300 p.m., you didn't have any personal knowledge of his whereabouts because you hadn't seen him that morning?
+A.	I will answer that question.  I told you that on that day I went to his residence at 3 hours, hours of 3.  I had gone to work in the morning and at 11:00, I had returned from my place of work.  I don't know, perhaps you can guide me so that I can answer your question.  So that I can provide you with a satisfactory answer.  What period are you referring to?  I have never refused to answer any of your questions.  I will therefore answer to the best of my ability to understand your question.
+Q.	Witness, on the 9th of April 1994, the first time you saw Sebijojo on that day was approximately at 
+3 p.m. when you went to his residence, yes or no?
+A.	Are you asking me if that was the very first time I saw him on that day, at that time?  I am not sure I understand your question.
+MADAM PRESIDENT:
+Witness, I think that this is the question that is being put to you.  On the 9th of April 1994, did you see Conseiller Sebijojo before 3 p.m.?
+THE WITNESS:
+No.
+MR. KAREGYESA:
+Thank you, Madam President.
+BY MR. KAREGYESA:
+Q.	So you are not aware therefore or you were not aware of his whereabouts before 3 p.m.?  You had no personal knowledge of his whereabouts before 3 p.m.?
+A.	Well, as to the circumstances in which these persons were arrested, my wife was the one who told me of the circumstances.  But as I was tired, I did not go there, I went back to work and upon my return I had my -- had a meal and then I rested and then I went to his house.  And so I expected to return to work at sunset.  And I don't think there's any contradiction in what I have already said about these matters.
+Q.	Witness, please listen to the question and answer it.  Prior to 3 p.m. you did not know the whereabouts of Conseiller Sebijojo; yes or no?
+A.	I knew that he was at his house.
+Q.	But you hadn't seen him until 3 p.m., witness, isn't it?
+A.	I told you that in the night of the 8th, I didn't feel fully fit.  It was my wife who informed me of the events.  The next morning I went to work and on my return I took my lunch and rested.  Since I still had some of my rest time left, I went to his residence, at the time I told you, that is when I found him at his residence.  So I thought he hadn't left his residence given the circumstances.
+Q.	So at best, Witness, you only assumed he had been home prior to 3 p.m. when you saw him.  At best you only assumed that Sebijojo was at home prior to 3 p.m. when you saw him.  You actually didn't know but you only assumed?
+A.	No, it isn't that I thought it was so.  I told you before that my wife did inform me what had happened.  I was certain that he was at his residence.
+
+And you know there's really no secrets between a husband and wife.
+Q.	Would you be surprised to learn that between 9 a.m. and 2 p.m. on the 9th of April 1994, Sebijojo was attending a meeting at the commune?
+A.	No, he didn't go to any meeting, and I didn't think anybody could lie to me on that subject, and all the vehicles pass my place of work.  In fact the truth is that he never left his residence.  No, no one can suggest to me that he went anywhere.  I was working in a place overlooking the road and there was a communiqué asking everyone to stay at home following the death of the president.  So he couldn't go anywhere, he was at his residence.
+Q.	But you didn't stay at home, Witness, despite the communiqué, you went to work; didn't you?
+A.	Yes, I went to my place of work because I went by foot, or I could go by bicycle but as far as he is concerned, in view of that distance between his residence and the commune office which is considerable, he could not go by foot.  Moreover, he could not leave his residence because of the problem of that gentleman who was at his residence.
+Q.	But it's true, Witness that the first time you saw him on that day was at 3 p.m.; isn't it?
+A.	How do you want me to answer your question Counsel for the Prosecution?  You are not satisfied with the answer I have given to your question.  What do you expect me to do?
+(Pages 67 to 74 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1743H
+BY MR. KAREGYESA:
+Q.	Witness, I will take you back to your witness statement made to investigator Sungura (phonetic), on the 14th of June 2003.  Now, from the portion I read to you, Witness, it is correct, isn't it, that there is no mention of an attack on Sebijojo's residence subsequent to Gacumbitsi's departure; is there?
+A.	As to the extract you read there is a mention of the attack against Gasumba and Sebijojo, that means that the people who brought Gasumba brought them to Sebijojo's resident so that the attack was against two people.  In fact, as I told you the conseiller was also suspected of being an Inkotanyi, accomplice.  And it is under those circumstances that I say the attack was against both people.  
+
+So, I'm telling the truth and briefly and equally here are names that I gave you in my testimony that are not in the written statement.  So it should not be a pretext for asking me the same question on a single point.  If you want to repeat your question, I will give you the same answer.
+Q.	Witness, could you please answer the question, it is a very simple one.  No where in your statement is there mention of an attack on Sebijojo's residence subsequent to the departure of Gacumbitsi; is there?
+A.	When I was making my statement, I did not state the chronology of events.  What I'm saying here, I repeat, is the truth.  I did not come here to lie, to obtain any profits.  I tell you that the truth shines through and that the reconciliation of Rwandans should be achieved.
+MADAM PRESIDENT:
+Thank you, Mr. Prosecutor.  Counsel for the Defence, have you any further questions?  Do you wish to re-exam the witness?
+MR. KOUENGOUA:
+No, Madam.
+MADAM PRESIDENT:
+Witness, you have reached the end of your testimony.  We thank you for testifying and we wish you a safe return. 
+THE WITNESS:
+I also thank you for hearing me.
+MADAM PRESIDENT:
+Kindly escort the witness from the box.
+(Witness excused)
+MADAM PRESIDENT:
+Counsel Kouengoua, tomorrow is a public holiday.  We shall resume on Wednesday at 8:45 as usual.  Who is your next witness?
+MR. KOUENGOUA:
+Thank you, Madam President, when I came here today I didn't know that tomorrow was a public holiday.  However, before the cross-examination of the witness, I told the Trial Chamber before I had some information to impart.  I thought that in view of the difficulties we face, I wonder whether it would not be possible in order to avoid 15 bis to hear as many witnesses as possible here in Arusha before the time limit of five days that is what I wanted to discuss.
+MADAM PRESIDENT:
+But it all depends on you.  Here I see that you have five witnesses remaining plus the witness who is ill, it all depends on the party.  We can very well hear all of these witnesses.  It all depends on how long you take to exam and the cross -- and how long it takes to cross-examine. 
+MR. KOUENGOUA:
+That is why I am raising the problem here so that all parties can agree on that.  It is not my sole responsibility.  You saw the last witness, I took 40 minutes but the other party took two hours.  I don't know if we are going to go on like that.  But if we work by consensus, if we could escape from the grip of 15 bis, then let us do so.   
+
+Now, if -- does counsel -- if counsel for the Prosecution agrees with me, are they prepared to, I don't know.  But I don't know what the other trial, Cyangugu or whatever, the maximum of witnesses in the minimum time, we can avoid the cut off date of 15bis, but I think that the expert witnesses don't need protection as is the case for the other witnesses.  So perhaps we could hear the maximum of witnesses of fact.  I think that we could progress without worrying our heads about 15 bis.  That is a suggestion that I want to make if all of the parties agree.  Now, if the case were to be the contrary, it would be up to you, Madam, to intervene, but that is my modest contribution I wish to raise that question today.
+MADAM PRESIDENT:
+Thank you, Counsel.
+MR. KAREGYESA:
+Your Honours, the Prosecutor has shown the capacity to go through four Defence witnesses in a day.  So if we were to utilise the five days permissible under 15 bis, we would be able to go through all remaining factual witnesses if they were here and present in Arusha.  We have no problem with that, Your Honours. 
+MADAM PRESIDENT:
+Fine, we note that all of the parties are in agreement for everything to be gone through before the end of the week as far as we, the Bench, are concerned.  We also feel that we should try to finish with the witnesses that are present in Arusha.  That is fine.  Thank you, very much.  We thank you.  And we will now adjourn until Wednesday 8:45 a.m.  Thank you. 
+	(Court adjourned at 1753H)
+(Pages 75 to 76 by Donna M. Lewis)
+
+
+
+
+C E R T I F I C A T E
+
+We, Judith Kapatamoyo, Donna M. Lewis, Karen Holm-Porter, Sithembiso Moyo, and Mark Porter, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________		Judith Kapatamoyo
+
+___________________________		Donna M. Lewis
+
+___________________________		Karen Holm-Porter
+
+___________________________		Sithembiso Moyo
+
+___________________________		Mark Porter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	GACUMBITSI	13 OCTOBER 2003
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 17
+
+	GACUMBITSI	13 OCTOBER 2003
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 30
+
+	GACUMBITSI	13 OCTOBER 2003 
+
+KAREN HOLM-PORTER - ICTR - TRIAL CHAMBER III - page 48
+
+	GACUMBITSI	13 OCTOBER 2003
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 61
+
+	GACUMBITSI	13 OCTOBER 2003 
+
+MARK PORTER - ICTR - TRIAL CHAMBER III - page 64
+
+	GACUMBITSI	13 OCTOBER 2003
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 74
+
+	GACUMBITSI	13 OCTOBER 2003
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 76
+
+	GACUMBITSI		13 OCTOBER 2003
+
+ICTR - TRIAL CHAMBER III
+

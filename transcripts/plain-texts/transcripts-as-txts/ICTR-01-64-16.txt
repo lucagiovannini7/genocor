@@ -1,0 +1,928 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-01-64-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	SYLVESTRE GACUMBITSI
+
+
+6 OCTOBER 2003
+0845H
+CONTINUED TRIAL
+
+Before the Judges:
+	Andrésia Vaz, Presiding
+	Jai Ram Reddy
+	Sergey A. Egorov
+
+For the Registry:
+	Mr. Constant K. Hometowu
+	Mr. Carlos Javier Ortega
+	Mr. Ramadhani Juma
+
+For the Prosecution:
+	Mr. Richard Karegyesa
+	Ms. Andra Mobberley
+	Mr. Khalid Ramadam
+
+For the Accused Sylvestre Gacumbitsi:
+	Mr. Kouengoua
+	Ms. Anne Ngatio Mbattang
+
+Court Reporters:
+	Ms. Trish Greig
+	Ms. Judith Baverstock
+	Mr. Rex Lear
+	Mr. Petrus Chijarira
+	Ms. Gifty C. Harding
+	Ms. Regina Limula
+	
+	
+	
+	
+
+
+I N D E X
+
+WITNESSES
+For the Defence:
+WITNESS UA3
+Examination-in-chief by Ms. Mbattang ............................................................................................16
+(commenced in closed session)
+Cross-examination  by Mr. Karegyesa ............................................................................................32
+(commenced in closed session)
+
+WITNESS ZEZ
+Examination-in-chief by Ms. Mbattang.............................................................................................47
+(commenced in closed session)
+Cross-examination by Ms. Mobberley .............................................................................................58
+Re-examination by Ms. Mbattang ..................................................................................................65
+
+
+P R O C E E D I N G S
+MADAM PRESIDENT:
+The hearing will now begin.  Would the registry please read the roll.
+MR. HOMETOWU:
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Andresia Vaz, presiding, Judge Jai Ram Reddy and Judge Sergey Egorov, is now sitting in open session today, Monday, 6th October 2003, for the continuation of the Trial in the matter of the Prosecutor versus Sylvestre Gacumbitsi, case No. ICTR-2001-64-T.
+
+Thank you.
+MADAM PRESIDENT:
+We thank the registry.  We should like to invite the parties to present themselves, beginning with the Prosecution. 
+MR. KAREGYESA:
+Good morning, Madam President, Your Honours.  Maybe, before I proceed, if the audio booth could fix this problem, because we have sound coming over the loudspeakers in this Chamber.  It is interrupting proceedings.
+THE ENGLISH INTERPRETER:
+Madam President, a technician is coming to solve the problem. 
+MR. KAREGYESA:
+I believe it has been rectified.  Apparently not.
+MADAM PRESIDENT:
+May we continue?  Is it rectified? 
+
+Pray continue, Counsel for the Prosecution. 
+MR. KAREGYESA:
+Good morning, Madam President, Your Honours.  The Prosecutor is represented by 
+Ms. Andra Mobberley and myself.
+MADAM PRESIDENT:
+We thank the Prosecution.
+
+Counsel Kouengoua.
+MR. KOUENGOUA:
+Madam President, Your Honours, good morning.  I beg good morning to the Prosecution, court management and the interpreters.  Gacumbitsi's Defence is ensured this morning by Mrs. Mbattang; myself, my name is Kouengoua; and we are assisted by Mr. Gatarama, Tharcisse.  
+
+Thank you, Madam President, but I have an impression that the technical problem is not rectified as far as the Defence is concerned.  There seems to be a lot of noise in our earphones.
+MADAM PRESIDENT:
+There still seems to be some extraneous noise.  Perhaps a technician could solve that problem. 
+
+We are resuming this case this morning after having heard the case for the Prosecution last August.  We held a status conference on Thursday, and today we will pursue with the presentation of the Defence's case. 
+
+We shall wait a bit to see if the technician can solve that little problem.
+
+I think we shall adjourn for five minutes to allow the technicians to solve the problem.  Thank you.
+(Court recessed from 0855H to 0908H)
+MADAM PRESIDENT:
+We shall resume the hearing.  We have lost nearly half an hour because of this technical problem.  I hope that next time everything will be checked before the hearing begins so that we don't have to adjourn for such problems. 
+
+Maître Kouengoua, you have the floor, sir. 
+MR. KOUENGOUA:
+Madam President, Your Lordships, in June 2001 the Prosecutor fabricated and submitted to this Tribunal an indictment against Sylvestre Gacumbitsi, who stands accused before you today. 
+
+That indictment, vague and imprecise, comprises five counts:  genocide, complicity in genocide, crimes against humanity (extermination), crimes against humanity (killing) and crimes against humanity (rape).  Those five counts were described in an incomprehensible amalgamation, where rumour and reality are interwoven as well as journalistic or police-type imagination.  That whole indictment is the reason for which Gacumbitsi is imprisoned under the false pretext that he would have planned or executed the genocide, exterminated, killed or incited people to kill, incited the population or part of the population of which he was the bourgmestre. 
+
+Before the very real difficulties faced by the defendant in understanding why he has been deprived of his liberty, he sought the Trial Chamber for the indictment against him to be amended so that he should know the dates and the places where the crimes he has been gratuitously accused of were committed by him in destroying his own population -- allegedly destroying his own population. 
+
+In June 2002 the Prosecution, while recognising the lack of precision in the indictment, had stated that it was current practice and that the Tribunal would have the opportunity to choose between the offences proposed, and that in any case the Accused couldn't be accused of two self-cancelling crimes.  
+
+In the concise statement of the facts relative to counts 1 and 2 of the indictment, the Prosecutor stated that between the 1st of January and the 31st of December 1994, Rwandan citizens were individually identified according to the following ethnic or racial classification, Tutsi, Hutu or Twa, whereas the expert witness, Alison Des Forges, said that that classification dated from the '30s.
+
+In the same indictment we are told that between the 1st of January and the 31st of December 1994 there took place in Rwanda armed conflict of a non-international character, whereas it is notorious and acknowledged that after the 1st of October 1990, parts of the Ugandan national army attacked and occupied part of Rwandan national territory.
+
+In the indictment mention is made of the death of President Juvénal Habyarimana as a natural death, whereas it is notorious that he was assassinated along with other public figures.
+
+The same indictment has said the Accused, in his capacity as a militant of the MRND party and his status as bourgmestre, had authority over the gendarmes and the civil militia in Rusumo commune, whereas there never were any gendarmes in Rusumo, much less any militia. 
+
+Madam President, Your Lordships, the lack of precision by the Prosecutor in his indictment is not fortuitous, it is due to the fact that the latter, instead of investigating, finding the evidence that might guide the Prosecution, has preferred, and I quote -- has preferred journalism.  And we were shown a video cassette here by Fergal Keane.  How can it be that having all the necessary financial and human resources at their disposal, they could not better pin down the evidence concerning the person accused?  
+
+The Prosecution, instead of pursuing a serious case, has preferred to (not interpreted) someone who cannot be convicted of what he has been accused.  Thus we heard the vague statement of Witness TAP, who came to reveal for the first time before the Trial Chamber on the 6th of August 2003 the grave and the very serious acts that the Prosecutor had not had the chance to hear before.
+
+The witness, violating Rules of Procedure, wanted us to believe things that were never stated during the preliminary investigation and were not in the indictment.
+
+Similarly for Witness TBH, who, having killed and having been convicted for 15 years prison, came to boast of his crimes.  Witnesses such as TBK and TBI, although they also acknowledged having killed, looted and committed arson, were however not prosecuted. 
+
+This temerity on the part of the Prosecution could only lead to accuse the defendant, who is a man who described the commune as a vast abandoned plantation.  How could someone who didn't have a telephone communicate with the central authorities?  Juridically, what is the motive for the crimes of which Gacumbitsi Sylvestre is accused?  And, if there is no motive, who could profit from the crimes which Gacumbitsi allegedly committed?
+
+People from central government allegedly came to Rusumo to plan the killing during or before April 1994.  Why not have listened to the Prosecution witnesses, who did say that the disorder that occurred in Rusumo was caused by assailants who had come from elsewhere?
+
+If, as most of the Prosecution witnesses claim, that everything was calm before the 13th of April, it is because the defendant used all his powers to preserve order in his commune.  But he is not accused of having violated the rules of any monarchy or any republic, he is appearing before an international tribunal entrusted with enforcing international humanitarian law. 
+
+Madam President, Your Honours, at this stage we should know where we stand exactly, because to condemn or convict a man who is innocent would be a violation precisely of international human rights. 
+
+There was a journalist who was brought here who does not investigate, does not look for evidence, but who was told by soldiers of the RPF who is supposed to have been the cause of the death of the corpses he sees before him.  This journalist, sent to Rwanda by the BBC, was guided by 
+Lieutenant Frank of the RPF.  This is who we saw in the video.  Frank Dolay (phonetic), he is the man we saw on the video that was shown to us on the 28th and 29th of July last.  And that is how the journalist filmed the corpses shown to him by the RPF.
+
+How did the journalists, all these journalists, including Fergal Keane, wind up at the Benaco camp in Tanzania?  How can a journalist, who did not have the opportunity to discuss with the inhabitants of the commune, know the names and the places of the bourgmestre in exile?
+
+The thesis we are developing here is not a creation of the Defence, because in 1992 the RPF, at the time of the preparation of the Arusha Accord, had asked for Sylvestre Gacumbitsi to be replaced as bourgmestre of Rusumo commune, as emerges from the report of the National Evaluation Commission dated 3rd May 1993, page 55, paragraph 4, where it is written the following:  "The steps taken to replace the bourgmestre might be inspired by strategic considerations.  The commission finds nothing that would cause his departure". 
+
+In spite of those contradictions, the Prosecutor on the 28th of July 2003 before your august Bench defended a thesis that he had known to have been patched together.  That is how they thought they could modify the indictment, by stating in the preliminary opening statement that the police and traditional authorities had been killed or had fled, and the net result of that destruction was that they were not able to undertake the necessary technical investigations that are often conducted in a routine fashion by national jurisdictions in times of peace.  Nonetheless, the Prosecutor was convinced that he was able to gather on the ashes of that conflict evidence, credible evidence that he will present to you in order to prove his case beyond any reasonable doubt. 
+
+Now, in that respect, it has escaped the Prosecutor that it is the old saying that it is better to have a thousand assassins at large than one innocent person in prison. 
+
+Your Honours, to sustain the accusation of genocide, complicity, extermination, murder and rape against Gacumbitsi is an impossible mission, much as the myth of Sisyphus.
+
+To date, Gacumbitsi -- I quote the Prosecutor on the 20th:  "Gacumbitsi is not an ordinary criminal, he is a good paterfamilias, and it is said that he lived in relative harmony with his neighbours with whom he was in the habit of having a drink or exchanging cows.  His distinctive trait is the zeal and rage with which he dealt with his Tutsi victims in executing the genocide".  No, Your Honours, our client cannot be both one and the other at the same time, if it is said that he was a good paterfamilias.  
+
+When he was born in 1943 it was a poor family in which he was born.  His father died in 1953 and his mother, who was a peasant farmer, managed to feed and raise five orphans.  He began primary school very near his home, but went on to follow the elder children to further his primary studies at Nyarubuye, which is about 30 kilometres from his home.
+
+At the end of the fifth year of primary schooling in 1957 he passed a national exam with 86 per cent, which then made it possible for him to go into the sixth year at Rwaza, and the priest and the director of primary studies spoke to his mother in order to encourage him to go on with his studies. 
+
+If he was to look for the people who helped him today, he would return to Nyarubuye and the priests who worked there, because otherwise he never would have continued his schooling to the level which he achieved. 
+
+In 1958 he took another exam to enter the teacher training school at Byumba where, in 1963, he obtained his teacher's diploma, and in October 1963 he started teaching at Kirehe school. 
+
+In 1970-71 he went on a pedagogic course in Butare.  He was a teaching inspector, and then in 1975 he was president of the people's bank in Rusumo. 
+
+And then, to his great surprise, he was given the task of bourgmestre of one of the poorest communes in Rwanda, where he undertook to finish the work of his predecesor who had died. 
+
+By turning his sister (sic) with Mayence Bingen in Germany, faced with the lack of school structure, he participated in the creation of two private secondary schools.  He initiated projects for water piping in the commune. 
+
+In 1994 he resigned from his position as president of the people's bank to better serve his commune.  He built health centres, offices, tribunals, et cetera.  
+
+This very religious man will never say he is the best.  Gacumbitsi Sylvestre was the type of bourgmestre that the communes in Rwanda dreamed about and other nations seek today. 
+
+He was a mayor who for 11 years never thought of giving himself a car or accumulating property.  One of the first acts of the young mayor was to install Tutsis who came from Uganda in 1982 in his commune in 1983.  The only business he undertook was a brick factory with a Tutsi associate, Bitegeko Enfant.  His friend, his childhood friend and chauffeur was also a Tutsi.  The people who rented from him were also Tutsi, but to better blacken the name of this generous man, it has been claimed that he killed his best friend who was also a Tutsi.
+
+Honourable Judges, with my team here we are defending a married man with six children whose only fault today is having been honest, generous, of service, and having devoted his time and his love to serving others.
+
+Yesterday, as today, he had to leave his family and his goods and flee to Tanzania because his first crime was to have arrested evildoers and lock them in a communal jail on the 11th of April 1994.  His second error or fault was to have a physical appearance that makes him look like a Tutsi or belonging to the Tutsi ethnic group, and that appearance led to him being accused of being an accomplice and was threatened with death. 
+
+The Prosecution, in speaking of murder in its opening statement, does not make it possible to recognise the count in the indictment which is of killing.  The words used by the Prosecution are those used by Patrick Fergal Keane, the journalist in his book 'Season of Blood'.  And all the witnesses produced by the Prosecution, apart from envious people such as his childhood friends, who dreamed instead of studying to become civil servants and bourgmestres, became jealous.  And all those pseudo-witnesses refused to tell the Chamber what was the ethnic group of Madam Gacumbitsi, whereas they claimed that they were intimate friends of the family. 
+
+Simeoné, Rugegema, Kanyagote and their children have been cited as victims of the killing, whereas none of those names appear in the indictment which is the only basis for prosecution. 
+
+Gacumbitsi does not know whether today he is defending himself on the basis of the indictment or on the basis of the new allegations made during the hearings.  I do not think that for those pseudo-witnesses who claimed to recognise the defendant at the hearing, when the Accused is the only person in the Trial Chamber to have one or two guards sitting next to him.  The witnesses that come here know beforehand where the Accused -- where the defendant is sitting. 
+
+Madam President, Your Lordships, in spite of the incessant movement of witnesses that we have contacted and the intimidation to which many have bowed, Gacumbitsi's Defence intends to produce before you men and women from Rwanda, Hutu and Tutsi, living there or elsewhere in the world who, by knowing this bourgmestre, this man with a heart who loved his country and his commune in particular, will come and tell us what happened in April 1994. 
+
+They will show you that Sylvestre Gacumbitsi was and will be one of the best mayors, one of the best bourgmestres, beyond irrational considerations belonging to socio-political religious considerations.  They will come to testify that Sylvestre Gacumbitsi did not participate in any killing, that he did not give any order for anyone to kill someone.  Moreover, he never incited anyone to loot, to burn or to rape. 
+
+This information will allow the Trial Chamber -- and we are convinced of this -- to say that the International Criminal Tribunal for Rwanda is not a jurisdiction for those who have won against those who have lost, but it is universal justice, and these men and women will allow the Trial Chamber to say before the whole world that if it is true that a rotten tooth will make the whole mouth smell, it is also true that only the rotten tooth should be extracted, and that the time when we should judge things as dealing with the wolf and the lamb, this is no longer the case, because he did not commit any fault.
+
+The Defence intends to produce a document that will establish, that will show that the bodies produced by the Prosecutor in the video in the hearing on the 28th and 29th of July 2003 were not the result of things done by the Accused, but rather this was a scene that was produced by the RPF and filmed by the producer and editor, the journalist Patrick Fergal Keane, who received prizes in 1994 and 1995 on the pain and suffering of Rwandans.
+
+Madam President, Your Honours, what the witnesses will come to tell you will confirm what you already know about Sylvestre Gacumbitsi, and that Alison Des Forges summarised as follows on the 27th of August 2003:  "I never heard Gacumbitsi's name being mentioned as a member of the Akazu, and I would be surprised if he were a member of the Akazu". 
+
+Madam President, Your Honours, at the end of this long opening statement, but it was necessary for it to be long, the Trial Chamber will see that the innocence of Sylvestre Gacumbitsi will be proved beyond a reasonable doubt and will shine throughout the world.
+
+I wish to thank you for your attention, Madam President, Your Honours.
+MADAM PRESIDENT:
+We would like to thank Counsel Kouengoua for his opening statement. 
+
+If the parties do not have any motions to file before the Trial Chamber, we would then like to ask you, Counsel, to bring in your first witness, and if I'm not mistaken this is Witness UA3. 
+MR. KOUENGOUA:
+Thank you, Madam President.  If the registry could be so kind as to bring the said witness in. 
+
+Mr. Registry, if you please.
+MADAM PRESIDENT:
+Good morning, witness. 
+THE WITNESS:
+Good morning.
+MADAM PRESIDENT:
+You are a protected witness, so your pseudonym is UA3.  If I correctly understood, you will be speaking in French? 
+THE WITNESS:
+I'm sorry, I would prefer to speak in Kinyarwanda, which is my mother tongue, to avoid any mistakes of terminology or of concepts.
+MADAM PRESIDENT:
+Very well.  The registry will now assist you in making the solemn declaration.
+(Declaration made by Witness UA3 in Kinyarwanda)
+MADAM PRESIDENT:
+Thank you, Witness; thank you, registry. 
+Witness, you are going to be examined by the Defence.  You will be cross-examined by the Prosecution.  The Defence might then re-examine, and the Judges might also be asking you questions.  Thank you.  
+
+Counsel Kouengoua, you have the floor. 
+MR. KOUENGOUA:
+Madam President, Your Lordships, before going into the heart of the matter, following my opening statement -- 
+
+I am hearing the Kinyarwanda instead of English or French.
+MADAM PRESIDENT:
+Yes, I can hear the French now, but indeed there seems to be a technical problem between the Kinyarwanda and French currently overlapping on the same channel.
+
+Counsel Kouengoua, can you now hear the French translation? 
+MR. KOUENGOUA:
+Yes, I can hear the French booth.
+MADAM PRESIDENT:
+Can the court reporter hear the French booth?
+THE ENGLISH INTERPRETER:
+Yes, nods the court reporter.
+MADAM PRESIDENT:
+I think that this technical matter has been resolved.
+
+Now there is now an overlap in the French.  The Kinyarwanda is now coming out on the French channel.  If a technician could be so kind as to come and assist. 
+
+Registry, could you please check with the technician to resolve this matter, as there seems to be an interference between the channels. 
+
+Can you hear me? 
+MR. KOUENGOUA:
+(Not interpreted)
+MADAM PRESIDENT:
+I don't think it is a question of the room, because there were hearings that were held here previously.
+
+Can the technicians tell us if we can continue in this room or if it would be better to move to another room in order to resolve this matter?
+
+Yes, we can hear you coming through.  Yes, we can hear you.
+
+Can we now know whether the matter has been resolved?  I can still hear the Kinyarwanda coming through the French channel.
+THE FRENCH INTERPRETER:
+Can you hear the French coming through on your channel?
+THE ENGLISH INTERPRETER:
+Yes, nods the Presiding Judge.
+THE FRENCH INTERPRETER:
+Right, we are just testing the other microphone.  Can you hear the French? 
+MADAM PRESIDENT:
+Yes.  Thank you.  I can hear the French. 
+THE ENGLISH INTERPRETER:
+Madam President, there is a technical problem that cannot be resolved in two or three minutes.  It will take some time to resolve the matter.
+MADAM PRESIDENT:
+Very well.  In that case it is better to adjourn, and we will try and possibly go and sit in another courtroom. 
+
+Very well.  Let us now go and sit in Trial Chamber III.  We shall adjourn our hearing and resume in 15 minutes in Trial Chamber III.  We regret the inconvenience, but these technical problems remain.  Thank you very much.
+(Court recessed from 0952H to 1017H)
+MADAM PRESIDENT:
+The Court is in session.  Perhaps we should not observe the morning break, because otherwise we have lost a great deal of time.
+
+Counsel Kouengoua, you have the floor.  Please proceed. 
+MR. KOUENGOUA:
+Madam President, Your Honours, before we go into the heart of the subject, there are two motions that I would like to file.  The first motion that I would like to present -- sorry, is there a technical problem again? 
+
+As I was saying, Madam President, I was saying that the Defence had two motions they wished to present.  The first motion, of course, deals with the documents that the Defence has disclosed, and more specifically, I am referring to the witness statements made by Defence witnesses. 
+
+In view of the lack of time available to us, and in view of the fact that we wish to respect the deadlines, there are many mistakes that appear in these statements and we cannot correct them in time, and when it comes to today's hearing I thought it best to mention them before so that everyone could be aware of this. 
+
+For example, if you look at the date of the witness statement of the witness that is going to appear now, if we look at the document that you received, it says the 23rd of April 2003 for the date of the statement.  That is not possible, because I was telling you on that date that the investigator was still on mission. 
+MR. KAREGYESA:
+Your Honours, I wish to object.  Any corrections to witness statements ought to be made by the witness and not counsel from the Bar. 
+JUDGE EGOROV:
+I am sorry, Mr. Counsel, do you mean the mistakes of grammatical character or factual mistakes? 
+MR. KOUENGOUA:
+I am referring to grammatical errors, Your Honour.  Your Honour, Madam President, I am referring to grammatical errors, and I am referring to the date actually in this case.  I think that anyone can make a mistake when it comes to writing down a date, and I don't believe that blame can be ascribed to anyone.
+MADAM PRESIDENT:
+When it comes to grammatical errors, that is not serious, but when it comes to dates, these are corrections that you should bring to light when you question the witness. 
+MR. KOUENGOUA:
+Yes, thank you very much.  And as grammatical errors are accepted, then I shall move on to my second motion. 
+
+The Defence wishes, pursuant to the order issued by the Trial Chamber with respect to witness protection, that the Defence witness appearing today should testify in closed session, that all of his testimony should be made in closed session.
+
+I respectfully submit that if I had to explain the reasons I should do so, but in two stages.  I would like to explain my reasons for this in closed session, because what I shall say will lead to the witness's identity being revealed. 
+
+Thank you.
+MADAM PRESIDENT:
+Mr. Prosecutor, do you wish to make any comments about what the Defence has just said? 
+MR. KAREGYESA:
+I believe, Your Honours, that my first objection was sustained; and to the second motion, since no reasons have been advanced, I have no basis for an objection, so if I have to say anything it will be after counsel advances the reasons why he proposes that this witness be deposed entirely in a closed session.
+MADAM PRESIDENT:
+Thank you, Mr. Prosecutor.
+
+Very well, we shall therefore move into closed session to hear the reasons that Mr. Kouengoua would like to advance.   I regret for the public.
+(At this point in the proceedings, a portion of the transcript [pages 13 to 44] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 1 to 12 by Trish Greig)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500H
+MADAM PRESIDENT:
+Good afternoon, Witness.
+THE WITNESS:
+Good afternoon, Madam President.
+MADAM PRESIDENT:  
+You are a protected witness.  We shall call you under the pseudonym ZEZ.  You shall, first of all, be examined by the Defence and after that the Prosecutor will cross-examine you.  There will perhaps be a re-examination by the Defence and it is possible that Judges will also put some questions to you.  For now, you will take an oath and the registrar will assist you with the taking of the oath.
+THE WITNESS:
+Before taking oath, I believe amongst the questions that will be put to me there will be questions not calling for an answer and such questions could lead to the discovering of my identity, for which reason I request that my testimony should be given in closed session.
+MADAM PRESIDENT:
+You are a defence witness, so it is up to the Defence to request that you be heard in closed session, either in total or in part.  And, of course, the questions to be put to you by the Prosecutor and the Defence will be in closed session in that case.  Do you want the entire testimony to be heard in closed session or what?  What risks revealing your identity will not be heard in open session.
+THE WITNESS:
+That's right, Madam President.
+(Declaration made by Witness ZEZ in Kinyarwanda)
+MADAM PRESIDENT:
+Thank you, Witness.  We also thank the registry for assisting you with the taking of the oath.  Now, Counsel for the Defence, you may start.
+MS. MBATTANG:
+Good afternoon, Madam President, Your Honours.  Good afternoon all members of the Court. 
+
+Madam President, I will request that a part of this hearing be in closed session and the other part in open session.  As for the closed session, it is for the protection of the witness, because the questions I will put to him in closed session could lead to the revelation of his identity and expose him to certain risks. 
+MS. MOBBERLEY:
+And I have no objection, Your Honour.
+MADAM PRESIDENT:
+We shall, therefore, go into closed session for part of the questioning or the examination of Witness ZEZ.
+(At this point in the proceedings, a portion of the transcript [pages 47 to 48] was extracted and sealed under separate cover as the session was heard in camera)
+(Pages 45 to 46 by Rex Lear)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MADAM PRESIDENT:
+      Counsel, we are now in open session.  You may proceed.
+BY MS. MBATTANG:
+Q.	Witness ZEZ, you told us a few moments ago that you knew Mr. Gacumbitsi since 1964.  Now, the man that you have known for such a long time, is he present in the courtroom?
+A.	Yes, I can see him on this side.
+THE ENGLISH INTERPRETER:
+There was an overlap and the English booth did not hear the beginning of the question.
+BY MS. MBATTANG:
+Q.	Could you describe the man that you knew?
+A.	I would describe him as a tall man, a bit heavy.  He has marks on his face similar to scars like mine.
+Q.	Witness ZEZ, are these scars characteristic of persons from the same region?
+A.	Before modern times came to our country, before we went to doctors for treatment, when a child was born in our village, when a child was born, and if the child had problems with his eyesight then the type -- that is the type of medical treatment that we would have recourse to.  They would put certain instruments that had been heated on the child to try and resolve the illness.  This was the case for me, for Gacumbitsi and for many others.  It was a form of traditional medicine used in our region and, of course, this happened a long time ago.
+Q.	Witness ZEZ, can you tell us in what year Gacumbitsi became bourgmestre of the commune of xxxxxx.  I'm referring to the man you have known since 1964.
+A.	It was in 1983.
+Q.	Witness ZEZ, can you tell the Court what relationship -- what was the relationship like between Gacumbitsi and the people he administered?
+A.	The people that Gacumbitsi administered had a good relationship with him.  I can give you an example, that the person that was appointed to the post of bourgmestre felt that he would be able to accomplish the mission assigned to him, with the exception of the person who selected.  Even the people before he came to post had also hoped, had always aspired for him to be a high-ranking official and this was because they had noticed his good behaviour.  This was a person who had an excellent relationship with the population.
+Q.	Witness ZEZ, can you tell the Trial Chamber between 1983 and 1990, could you tell us if the bourgmestre, Gacumbitsi, was respected as a bourgmestre?
+A.	Can you repeat your question?  I'm not sure I understood it.
+Q.	Witness ZEZ, can you tell the Trial Chamber if, up until 1990, if Gacumbitsi's authority was respected in the commune?
+A.	Up until 1990 I would say that all of the people respected him.
+Q.	Can you tell us if after that date Gacumbitsi was as respected as before and, if not, why?
+A.	Yes.  I would begin with the year 1991.  At the time it was the advent of the multiparty system and some members of the opposition started to show some disdain towards him.
+Q.	Witness ZEZ, at this same time there were many criminal acts or killings happening in your region?
+A.	You know, whenever there is a community of persons there are cases of incidents of that type because human beings are not saints, and this is why tribunals exist, and you could notice here and there that criminal acts were being conducted.  But people try to apply the law in order to deal with these acts of criminality. As to killings, I was not a witness to any killings at the time.
+Q.	Witness ZEZ, when and where did you hear of the murder of President Juvénal Habyarimana?
+A.	On the day the president was murdered I had spent the night at my place of work, and as to the circumstances in which I heard the news, I would say that it was around 5 a.m. and, as I had spent the night outside, soldiers based in that place -- well, actually, the soldiers had been assigned to that position because the country was at war.  So I heard the news through a soldier who said 20 of these acts were committed. 
+THE ENGLISH INTERPRETER: 
+The interpreter corrects that, "These acts were committed in vain and it wasn't clear as to why he had said those words."
+THE WITNESS:
+Later, when I turned my radio on, I heard music, I heard sad music.  Later I heard a communiqué providing details about the events that had taken place, and those are the circumstances in which I heard of the death of the president.
+BY MS. MBATTANG:
+Q.	What was the date?
+A.	I told you I heard the news around 5 a.m., that was the 7th of April.
+Q.	Witness ZEZ, you said a moment ago that you worked day and night for a week.  During the day of the 7th of April 1994 did you see Gacumbitsi go by your place of work?
+A.	Myself and my colleagues, when we arrived in the morning, we spent the day on that location and we asked ourselves what was going to happen to our country.  And it's clear that most of the time we were in offices, but as much as I can recall I would say that I did not see him.
+Q.	Witness ZEZ, a few moments ago you told us that you worked in xxxxxxxx and you told us that you heard of the news of the president's death from a soldier who was stationed in a camp not far from your place of employment.  Can you tell the Trial Chamber if the Accused -- if Mr. Gacumbitsi went to this camp?
+A.	I don't really remember whether he went to the camp.  Often, if an authority were coming, they could come to try and speak to the person in charge of the military personnel.  And the people that I saw were simple ordinary soldiers, so I really don't know.
+Q.	Witness ZEZ, how did these soldiers react when they heard of the death of President Habyarimana?
+A.	There were some soldiers around me and I saw other soldiers moving about.  But I did not know where they were going, what their schedule was, because they would not have confided professional secrets in me.
+(Pages 49 to 51 by R. Lear)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1530H
+BY MS. MBATTANG:
+Q.	Witness ZEZ, after the news -- after you had heard of the news of the president's murder, did security still prevail in your region?
+A.	Security prevailed.  People were calm.  Aside from the fact that on the days that followed, in three days that -- in the first three days that followed incidents took place in xxxxxxxxx and those were the only events I recall.  I believe a man known under the name as Kiki was killed -- attacked.  He was a businessman.  Some persons who were natives of xxxxxxxxx attacked him. He tried to defend himself.  News of the incident spread, and then commune authorities became aware of this.  Later, Gacumbitsi arrested the persons who were responsible for the attack, and they were imprisoned at their communal prison. And in the meantime, there were troubles caused by others who said they were defending the Tutsis, protecting the Tutsi.  After some time, those persons were released, but all I know is that he had sought to pacify the region by putting an end to these disturbances.
+MS. MBATTANG:
+Madam President, Kiki is numbered 105. 
+BY MS. MBATTANG:
+Q.	Witness ZEZ, can you tell us if before the incidents that you have just listed us any refugees came to your region?
+A.	Are you referring to the events that might have taken place after the incident with Kiki?  Well, I would say that at one point I went to commune office, I think that it was around the 12th.  And in the I.G.A office of the xxxxxx commune office I heard people shouting, and I asked what was happening, and I was told that they were refugees who had come from , xxxxxx and xxxxxx.  In any case, they had come from that direction, some even might have come from xxxxxxxxx, but in any case, I was told that they were refugees in the building of the I.G.A.
+Q.	Witness ZEZ, once the refugees arrived, did the same situation of security continue?
+A.	Yes, safety security prevailed -- reigned, except that there was the problem that I referred to and this continued for a great of - within a great deal time -- for some time.  People said that Gacumbitsi, as his name says, people said that he had taken in Inyenzi accomplices.  In the meantime, we continued to live with this problem and with the situation as it was.
+Q.	Witness ZEZ, what happened to the persons whose names you mentioned earlier that 
+Bourgmestre Gacumbitsi imprisoned in the Rusumo jail after these events?
+A.	Well, at one point they were released because the fact that they had been imprisoned had created tensions.  If he released them it was because he had noticed that someone who had committed bad - or, had participated bad deeds was arrested.
+Q.	Witness ZEZ, did you experience the release of these detainees?
+A.	It's possible that the first time I saw them was on the 11th or the 12th.  I don't know the exact date.  It was on one of those days.  I saw them when I reached where the prison, the jail was located.  It was in my habit to come to the commune office when I wanted to speak to the brigadier of the commune at the time when I returned, as I still had problems with the brigadier who has confiscated by bicycle.  I am sorry I am not sure if you asked me the circumstances in which they were released, in any case, I do not know the circumstances in which they were released.  I believe it might be strayed away from the question.  I am sorry, but I think that there is some confusion. I'm not sure I remember the question.  I heard that they were released but I do not know under what circumstances they were released.
+Q.	Witness ZEZ, do you know anything about the murder of Mr. Kanyagote?
+A.	I came from Nyakarambi and because of this business with my bicycle, and so I went on Kavuzo road, and my workweek was completed and I was going home.  I was taking the small road from Rugando.  People were gathered there, on that place.  I put the question to one of those persons and as I knew that Kanyogote was from my region, they said, "Your neighbour has just been killed.  Your relative has just been killed there."  And as I was sad because of the news, I mean, this is someone with whom I have lived, someone I had gone to school with.  I did not have the courage to continue and so I went on my way.
+Q.	Can you tell us what day of the week it was or around what day of the week you found Kanyogote's body?
+MS. MOBBERLEY:
+Objection, Your Honours, the witness didn't say he found Kanyobote's body.
+MS. MBATTANG:
+The witness did not say that he saw Kanyogote's body.  He just said that people told him about the death of Kanyagote.  
+
+Yes, Madam President, can the witness say -- can the witness tell the Court if he was told where Kanyogote was killed?
+THE WITNESS: 
+	They didn't tell me that, I mean, it's true I passed there, it's true I didn't get very near the corpse, but I went that way.  The way -- it was my way home.  He had been killed somewhere, knocked down from the Catholic centre, somewhat below the Catholic centre there.
+MS. MBATTANG:
+Rugando is spelt R-U-G-A-N-D-O.  It is not on the list of proper nouns as that we gave 
+Your Lordships.
+BY MS. MBATTANG:
+Q.	Witness ZEZ, apart from Kanyagote -- the case of Kanyogote you learned of, did you learn of any other deaths in your area?
+A.	It's not a question of my area or my region; I was only passing through there.  However, concerning other people that might have been killed, you know that when one inhabits a region one endeavours as far as possible to know what's happening there.  At that time, in Rugando, a woman and her daughter were killed.  That woman's name was Hélen Mukaruhijesha.  She was killed where Kanyogote had been -- was killed, as well as her daughter.  Her daughter was also killed there. 
+THE ENGLISH INTERPRETER:
+Counsel for the Defence, no microphone.
+MS. MBATTANG:
+Mukaruhijesha, M-U-K-A-R-U-H-I-J-E-S-H-A.
+BY MS. MBATTANG:
+Q.	Witness ZEZ, can you tell us whether that person -- those people were killed near Gacumbitsi's domicile?
+A.	Sorry.  It was about 900 metres or a kilometre away from Gacumbitsi's residence.  As I told you, I passed there and I saw it.  But as regards the woman and her daughter, they were killed in Rugando far from there, near Nyarubuye.
+Q.	Witness ZEZ, during all that time did you hear Gacumbitsi inciting people to kill Tutsis and rape the Tutsi women?
+A.	No, I never heard Gacumbitsi say that sort of thing and I did not see it.
+Q.	Witness ZEZ, I should like to retrace our steps somewhat.  Did you hear who had killed Kanyogote?
+A.	Regarding how I was informed of that incident at Kavuzo, there was a group of young street children who committed all those acts.  When I reached the place, the group had left but I was told of the members of that group as well as their leaders.
+Q.	Witness ZEZ, this Kanyagote of whose murder you were informed, can you tell us what his Christian name was, his first name?
+A.	His name was Alphonse, Alphonse Kanyogote.
+Q.	Witness ZEZ, you've described Gacumbitsi's family, which means that you know his relationship -- his relations.  Can you tell us what was the relationship between Kanyagote, Alphonse and 
+Mr. Gacumbitsi?
+A.	Could you repeat the question please, Counsel?  I did not fully grasp it.
+Q.	Witness ZEZ, you have described Gacumbitsi's family, you've state - you've even given us the number of his children.  What I should like you to tell the Trial Chamber is whether you know what relationship there was, if you know of it, the relationship between Kanyagote, Alphonse and Gacumbitsi, Sylvestre, the Defendant?
+A.	The relationship between the two people in question was that they had exchanged cows.
+Q.	Witness ZEZ, is it that in your tradition, does the exchange of cows have any meaning?
+A.	In our culture, exchanging cows or giving cows signifies strong friendship between the person that gives and the person that receives.  Moreover, besides, in our culture a cow has great value.  You can't just meet someone and say, "I will give you a cow."  It is because you share everything and you have a liking for each other.
+Q.	Witness ZEZ, can you tell the Tribunal, the Trial Chamber if there was any distribution of arms in your area?
+A.	I never witnessed that.
+Q.	Have you heard mention of it, Witness ZEZ?
+A.	No, I heard nothing on that subject.
+Q.	Witness ZEZ, can you tell us when the RPF arrived in your area?
+A.	The RPF arrived in our area on the 28th of April 1994.
+Q.	Can you tell the Trial Chamber what the RPF did when they arrived in your area?
+A.	In as much as my area lies on the border with Tanzania, the RPF immediately occupied Rusumo Customs Post at the border between the two countries.  As to what they did, among the people who had sought refuge before, but I wasn't one of them, but there were members of my families because the members of my family tried to run away well before but I stayed at home, so -- the -- as luck would have it, the members of my family occupied -- the RPF occupied the border post when my family had already crossed.  And when we met again, they told me what happened.  They could see it from the other side of the border in Tanzania.  The RPF closed the border and those they had prevented from crossing were killed.
+Q.	Witness ZEZ, the RPF killed all those who wanted to cross without drawing any distinction as to ethnic group?
+MS. MOBBERLEY:
+This requires speculation on the part of the witness, and I also wonder what relevance this line of questioning has given that the witness is now talking of events that occurred on or after the 20th of April 1994.
+MADAM PRESIDENT:
+Counsel, would you please reformulate your question?
+BY MS. MBATTANG:
+Q.	Witness ZEZ, can you tell the Tribunal what the RPF did, the acts they committed after arriving in Rusumo commune?
+A.	I told you that the RPF took the border post, and my family was there on the spot.  And after the border had been closed, the RPF pushed back the people and fired on them, and this was told me by people who saw the situation.  And, moreover, other people informed me, in particular, a man with whom I was detained and who escaped from that incident and he told me about it.
+Q.	The follow up to my question was to know whether the RPF fired indiscriminately on the Hutu and the Tutsi.
+MS. MOBBERLEY:
+Your Honours, the witness has said he wasn't there, and, so I repeat my objection.  This would be pure speculation. 
+
+THE WITNESS: 
+	According to the information given to me, there was no discrimination.  They fired without taking ethnic pertinence into account.
+BY MS. MBATTANG:
+Q.	Witness, to your knowledge, did the Accused Gacumbitsi give any orders to prevent the people from crossing the Akagera River?
+A.	Do you mean those who crossed the border before the RPF took the border post or afterwards?
+Q.	Before the arrival -- before the arrival of the RPF.
+A.	He wouldn't have given instructions because some of my neighbours were able to cross the border.  Some are still alive, but others have died a natural death, but people crossed the border.
+Q.	Witness ZEZ, when did you leave Rwanda?
+A.	After the 28th of April, the date I just mentioned, I stayed in Rwanda for a month and I crossed the border on the 28th of May because I could see that the situation was worsening.  Many people had been killed, and I told myself I might also be killed and I decided to go into exile.
+Q.	Witness ZEZ, have you returned to Rwanda since you sought refuge in Tanzania in May 1994?
+A.	I and others, towards the end of 1996, were forced to go -- to return, and I was among those who were forced to return.
+Q.	Are you still in Rwanda?
+A.	No, I am no longer in Rwanda.
+Q.	Why did you leave Rwanda again and when?
+A.	When I arrived in my home country, I encountered many difficulties.  I was even detained for two years and eight months.  Subsequently, I had the luck to find someone who was just and he released me after the investigations he undertook in my home area, because everyone he questioned had denied that I was a criminal.  That is why I was released and when I returned home to my home, I saw that my situation was not safe and I decided once more to go into exile.
+Q.	Witness ZEZ, are you ready to return to Rwanda?
+A.	I think the moment has not yet come because the reasons for which I went into exile for the second time remain.
+MS. MBATTANG:
+Madam President, I have finished my examination-in-chief of Witness ZEZ.
+MADAM PRESIDENT:
+Thank you, Counsel.
+
+Judge Egorov would like to ask you a question -- put a question to the witness.
+JUDGE EGOROV: 
+	Mr. Witness, in your original statement, paragraph 6, page 2, you say that the Tutsi, Faustin Ndakbikunze was Gacumbitsi's friend and driver.  "They had a good relationship and I heard in April 1994, at the time of events, it was Gacumbitsi who saved the lives of his driver and his friend."
+
+Could you please give us some details besides some circumstances under which Gacumbitsi saved his driver's life? 
+THE WITNESS: 
+	It is true that Ndakbikunze was Gacumbitsi's driver, and was a close neighbour.  I must tell you that Gacumbitsi must have played a role in Ndakbikunze's escape because he was a driver.  He was his neighbour and, moreover, his driver.  And when the situation started to deteriorate, he continued driving him around.  They were always together.
+JUDGE EGOROV:
+Thank you.  Would you tell me, how often did meet Gacumbitsi -- you personally met Gacumbitsi in April 1994?
+THE WITNESS: 
+	I saw him several times.  When I didn't find him at the commune office, I would find him at his residence because I passed Gacumbitsi's residence, and from the road you could call someone who was at home and he could hear you from the road.
+JUDGE EGOROV:
+Thank you.
+MADAM PRESIDENT: 
+	Thank you, Judge Egorov.
+
+Witness, did you answer the question as to who killed Kanyagote?
+THE WITNESS: 
+	I sketched an answer saying that he was killed by the bandits, a group of bandits from Kavuzo, and this was what I was told.  Gasangwa and Nsabimana had killed.  But when I arrived on the spot where he had been killed they had just left the place, but those two were mentioned to me as being leaders of that group of bandits comprising several young people.
+MADAM PRESIDENT: 
+	In answering Judge Egorov, you said that Gacumbitsi played a role in his driver's escape, flight.  Is that just conjecture on your part or did hear of anything specific?
+THE WITNESS: 
+	It is what I believe, but I am not sure that he accompanied him.  On the basis of the fact that he was his neighbour and that he could have prevented him from leaving, he had the means of harming him but he did not do so.  It is on the basis of those deductions that I have drawn my conclusion.
+	(Pages 52 to 57 by Petrus Chijarira)
+
+
+
+	1615H
+MADAM PRESIDENT:
+Thank you.  Last question: you told us that the lady, Mukaruhijesha and her daughter, Hélen, and her daughter, were killed at the same place and then you told that they were killed at another place, a place different from where Kanyagote -- not the same other place as where Kanyagote was killed.  What you mean (sic) another place you meant the mother and the daughter or a place -- a different place from the -- do you mean that the daughter was killed from a different place from her mother or that the mother and daughter were killed in a different place in that -- where Kanyagote was killed?
+THE WITNESS:
+I said in my explanation that Kanyagote was killed below the Catholic centre, and Madam Mukibisha and her daughter were killed well below where Kanyagote was killed, but it is from the same road which comes from Nyarubuye.
+MADAM PRESIDENT:
+Thank you, Witness.  
+
+Madam Mobberley, you have the floor for the cross-examination of the witness. 
+MS. MOBBERLEY:
+Thank you, Madam President. 
+CROSS-EXAMINATION
+BY MS. MOBBERLEY:
+Q.	Good afternoon, Witness.
+A.	Good afternoon.
+Q.	You have described Mr. Gacumbitsi as a tall heavy man with scarring on his face characteristic of the Kibongo region.  It's true, isn't it, that Gacumbitsi had a certain charisma about him?
+A.	The last time I saw him was in 1994, but I would tell you that I knew him when I was still young.  I was 14 at the time, and since then, I considered him as a relative, full of compassion.  He was a teacher and he taught children.  Even adults called him a parent.  They did not fear him, therefore.  Someone who inspires fear in people cause other reactions.  The fact that he was considered as a parent perhaps explains that he was someone who was gifted and who was kind.
+Q.	And these gifts were recognised, you've told us, by people who aspired for him to have a high-ranking position.  That's correct, isn't it?
+A.	Yes, people had such wishes in his regard.  That is what I said.
+Q.	Mr. Gacumbitsi was a born leader, wasn't he?
+THE ENGLISH INTERPRETER:
+Sorry, could you repeat the question, please, because of some -- you know, they didn't get the question?
+
+MADAM PRESIDENT:
+	(Not interpreted)
+BY MS. MOBBERLEY:
+Q.	The question, Witness, was: Gacumbitsi was a born leader, wasn't he?
+A.	We only spoke as human beings.  Only God chooses leaders.
+Q.	So --
+A.	We believe in fate.
+Q.	So, Witness, when you saw Gacumbitsi in 1994 you knew him, didn't he -- didn't you, despite the fact that you hadn't seen him since you were a young child?
+A.	Could you please repeat your question, Prosecutor?
+Q.	I'm happy to repeat my question.  Witness, please listen carefully.  When you saw Sylvestre Gacumbitsi in April 1994 you were able to recognise him, weren't you, even though you hadn't seen him since you were a small child?
+MS. MBATTANG:
+Objection, Madam President.  The witness has never said here that he only met Gacumbitsi in 1994.  He indeed told us that he first met Mr. Gacumbitsi in 1964 when he was still in primary school.
+MADAM PRESIDENT:
+I believe we did not cover the period from 1964 to 1994.  Perhaps you ought to reformulate your question as to whether the witness met him during that period.
+BY MS. MOBBERLEY:
+Q.	Witness, it's correct, isn't it, that Sylvestre Gacumbitsi was sponsored into his position as bourgmestre by people in positions of power?
+MS. MBATTANG:
+Objection, Madam President.  The witness never said how Sylvestre Gacumbitsi attained his position.  We did not talk about that, Madam President.  Let us stop speculating, particularly on the side of the Prosecutor.  I say so with due respect.
+MADAM PRESIDENT:
+The objection is upheld.  Could Counsel Mobberley reformulate her question or move on to the next question?
+BY MS. MOBBERLEY:
+Q.	Witness, you said you were in the habit of speaking to the brigadier of the communal police.  Now, what was the name of that brigadier?
+A.	That brigadier was known under the name of Rukira.  I don't remember the other names.  Furthermore, as you know, when somebody has an official title, people often refer to him by that title.  I called him brigadier, everyone called him brigadier with due respect for his official functions.  Besides that title I knew of the name Rukira.  That is all.
+Q.	Despite the fact you didn't know his name, he was a communal police officer, wasn't he?
+A.	That is correct.
+Q.	It was standard, wasn't it, for communal police officers to carry firearms?
+MS. MBATTANG:
+Madam President, Witness ZEZ -- Madam President, please.
+MADAM PRESIDENT:
+	You are speaking to the Chamber, not to the witness.
+MS. MBATTANG:
+I'm speaking to the Chamber, Madam President. 
+
+I believe, Madam President, that we have not talked about whether the police officer was armed or not.  We did not discuss that in examination-in-chief.
+MADAM PRESIDENT:
+It is unfortunate but he has said that the brigadier was a police officer, so they could put the question to him whether he was armed.  There is no difficulty with that question.  So proceed, Prosecutor.
+MS. MOBBERLEY:
+I believe the witness has answered yes to that question.  Is that correct, Interpreters? 
+THE ENGLISH INTERPRETER:
+No, the witness has not yet answered the question.
+MADAM PRESIDENT:
+Witness, please answer the question put to you by Mrs. Mobberley.  If you didn't understand it you may ask that it should be put to you again.
+THE WITNESS:
+	Thank you.  I would like her to put the question once more.
+BY MS. MOBBERLEY:
+Q.	Witness, the question was: it's -- it was standard, wasn't it, for communal police officers to carry firearms?
+A.	Customarily, in peacetime the carrying of firearms was not compulsory.  But in times of insecurity, when a criminal was probably armed and had to be arrested, the police officers had to carry firearms.  What I usually saw was batons that police officers carried.
+Q.	It's correct, isn't it, Witness, that communal -- the communal jail was guarded?
+A.	When, Counsel Mobberley? 
+Q.	Witness, in your experience as a guard yourself, would you find it unusual to learn that a jail wasn't guarded at any time?
+MS. MBATTANG:
+I object, Madam President, because this is speculation.
+MS. MOBBERLEY:
+Madam President, I politely request that directions be given to Defence counsel on the nature and the scope of cross-examination.  It's extremely difficult to proceed.  The witness was asked whether in his experience, in his experience he would consider it unusual for a jail to be unguarded.  It's perfectly proper for this question to be put.
+MADAM PRESIDENT:
+Witness, answer the question.
+THE WITNESS:
+Normally, to my knowledge, a jail -- and I know what I'm talking about -- a jail is not strictly guarded.  At times you can find detainees outside speaking with police officers and, at an appointed time, the detainees are led back into the cell.  I would therefore not say that jails have to be guarded at every time.
+BY MS. MOBBERLEY:
+Q.	And those police officers standing outside the jail, they would be armed, wouldn't they?
+A.	I said at the beginning that arms were only taken out of the warehouse when the situation was unsafe.  In peacetime it wasn't necessary for police constables to be armed at every time.
+Q.	It's correct, isn't it, Witness, that it's common sense that jails would be guarded if there were prisoners inside?
+MS. MBATTANG:
+Madam President, with all due respect, I believe the witness has already answered that question.  And as I said this morning, we are here to look for the truth.  We should not harass the people who come to tell the truth and mislead them into saying things that they don't want to say, or which we are not in a position to say.  All the questions put by my learned colleague are only speculations designed to bring the witness to say what she wants.
+MADAM PRESIDENT:
+Counsel should also understand that these questions are put by the Prosecutor to test the credibility of the witness.  In this -- in the case in point, I believe the question was asked, you are right, and the witness answered that question.  So, if the Prosecutor needs further clarification she should proceed from thereon.  
+
+The witness did say that the -- you would see detainees discussing with police guards outside the prison premises and later on going back into their cells.  
+
+So, please, Prosecutor, could you proceed from there, move further on if you want further clarifications from this witness.
+MS. MOBBERLEY:
+Thank you, Madam President. 
+BY MS. MOBBERLEY:
+Q.	Witness, as an employee of the canton court, did you report the death of Kanyagote to the authorities?
+A.	When I saw Kanyagote I was going home.  I was returning home from somewhere.  There were other persons who were responsables of cellules and secteurs and it was their duty to notify the authorities of that death.  All the inhabitants of the area were aware of that death.  I passed the site at which he had died.  I was coming out of a cellule that was different from the one in which he died.
+Q.	So your answer is no, Witness?
+A.	My answer is that I was only passing through that area and I didn't report it because it was not my responsibility to do so.  That region had its leaders whose responsibility it was to notify the authorities of that death.  And more so, I was only passing through that area.
+JUDGE REDDY:
+Ms. Mobberley, can I just ask him a question or two?  
+
+You said just a second ago that you saw Kanyagote, in answer to the Prosecutor. 
+THE WITNESS:
+No, I didn't say so.  What I said was that I did not even dare look at his corpse because of the sadness that we felt.  He was a friend.  His body was covered -- was surrounded by onlookers.
+JUDGE REDDY:
+Well, if he was a friend, why didn't you want to see a dead friend, to see what sort of injuries he'd received, how he had died? 
+THE WITNESS:
+He was a friend.  If I had heard that he had been in agony I would perhaps have done something to save his life.  But he was already -- since he was already dead, I understood that there was nothing I could do for him.
+JUDGE REDDY:
+And how far from the Accused's house did you say you -- his body was? 
+THE WITNESS:
+I said that there were roughly between 900 metres and a kilometre from his house to where he was.
+JUDGE REDDY:
+And was his body the only body in that place or were there other dead bodies? 
+THE WITNESS:
+That was the only body.  I heard of no other death.  The only death I heard of was that of Kanyagote.
+JUDGE REDDY:
+And how many people had gathered around that body when you got there? 
+THE WITNESS:
+There were roughly 14 people around the body.
+JUDGE REDDY:
+And who told you how he had died? 
+THE WITNESS:
+Do you want me to tell you the name of the person who told me of his death shortly before I arrived on the scene?  His name was Maguru.  He was a man named Maguru.  He was the person who explained to me that Kanyagote had just been killed on the spot I mentioned.
+JUDGE REDDY:
+And did you talk to the people at the scene as to how he had died?  The 14 people that were there, did you talk to them as to how he had died? 
+THE WITNESS:
+I told you that I did not even have the courage to draw near the scene.  I had just heard that Kanyagote was dead.  I was on my bike and I continued my journey.  I didn't stop.
+JUDGE REDDY:
+Thank you.
+MS. MOBBERLEY:
+Thank you, sir. 
+BY MS. MOBBERLEY:
+Q.	Witness, it's correct, isn't it, that the place that Kanyagote was killed at was called Kugiturusu, 
+	K-U-G-I-T-U-R-U-S-U?
+A.	Actually, I was coming from Kugiturusu.  It was below the Catholic centre, and I had gone beyond this place, Kugiturusu.  So the body was not exactly at that location.
+Q.	Now, Witness, you've told us that you rode past the place where your friend was lying dead.  It's correct, isn't it, that you were frightened because of his murder?
+A.	Yes, that's correct.  I said I heard the news of his death, but I never spoke of the circumstances surrounding his death.
+Q.	Why is it that you didn't report to the responsable in your cellule that Kanyagote had been killed in another cellule?
+A.	That has nothing to do with it.  There are -- you are speaking of two responsables de cellule of two different cellules.  Why should I report it to the person who was not responsable, who was not in charge of the cellule in question? 
+Q.	Well, that's the question I've asked you, why didn't you?  What was your reason?  This was your friend who had been murdered. 
+MS. MBATTANG:
+Madam President.  Madam President, if you please.  
+
+I think that the witness has answered by saying that his friend Kanyagote died in another cellule, and he lived in another cellule and he doesn't see why he should have told his responsable de cellule that Kanyagote had been killed in another cellule, a cellule that was none of his business.  And he has already answered this question, Madam President. 
+MS. MOBBERLEY:
+Your Honour, the witness answered the question -- sorry.
+MADAM PRESIDENT:
+Perhaps Madam Prosecutor is seeking additional clarification.  I said that I think you are seeking additional clarification from the witness.
+MS. MOBBERLEY:
+Yes, Madam President.  The question that I asked was answered by the witness with another question, and I'm asking for his reasons. 
+BY MS. MOBBERLEY:
+Q.	Witness, I'm going to repeat the question.  
+
+Why didn't you report to the responsable in your cellule that your friend, Kanyagote, who you said was your neighbour, was killed, indeed, murdered in another cellule?  What was your reason?
+A.	The event took place in Kavuzo cellule and many of the persons who lived in this cellule were witnesses to these events.  There were enough of these persons that one of them would have gone to talk about the events.  I felt that as I came from another cellule I did not have any responsibility in doing so, and there was no reason for me to go and repeat those events.  And I told you that I was sad, and I did not have the courage to go close to the body, especially as I knew there was nothing I could do for him.  It was too late.
+Q.	Couldn't you have taken his body to his family?
+A.	That wasn't possible at the time because his family was no longer alive because of the killings, people were dying en masse and authorities at the time were useless, they were pointless.  There was no point in going to tell them about a murder.  And often, we would go back to our own houses because we feared for our own lives because of all of the violence that reigned.
+Q.	And it's correct, isn't it, Witness, that this place that your friend's body lay was only 100 metres from Gacumbitsi's home, not 900 to a 1,000 as you have estimated?
+MS. MBATTANG:
+Madam President, I am sorry.  The witness said in examination-in-chief that it was 100 metres -- the witness never said it was 100 metres from Gacumbitsi's, but rather, between 900 metres and one kilometre.
+MADAM PRESIDENT:
+Yes, but she can seek clarifications and the witness can correct her.  You can't stand up continuously.  The witness is here to answer questions. 
+JUDGE REDDY:
+And more importantly, the Prosecution led evidence as part of their case that the killing took place just outside Gacumbitsi's house.  She is merely putting their case to him which they are obliged to do.  It's not just what he said in his evidence in chief, it's also the evidence that the Prosecution led, isn't it?  I've never heard objections like this before.  It's just impossible.
+MS. MBATTANG:
+I'm sorry. 
+THE WITNESS:
+	You have said that there is 100 metres between Gacumbitsi's house and the place where Kanyagote was killed.  I know the place very well.  I went there on several occasions.  I know the locality very well.  I did not speak of 300 or 400 metres, I said 900 metres or even 1,000 metres.  You can go and measure the distance and tell me what you have seen, and after measuring, you will then be able to contest what I have said because I know this locality very well.  I have been through that place on several occasions.
+BY MS. MOBBERLEY:
+Q.	Witness, it's correct, isn't it, that Gasangwa was the deputy responsable of Kavuzo cellule?
+A.	I know that Gasangwa was in charge of the choir at the church and directed the singing, but that is the only thing I would be able to say about Gasangwa.
+Q.	It's correct, isn't it, that Gasangwa was deputy to Gachondo Léonidas, G-A-C-H-O-N-D-O; Léonidas, L-E-O-N-I-D-A-S?
+A.	I don't know that.  I knew Gachondo was the responsable but I wouldn't know about Gasangwa.  I'm not aware that he held any specific position.
+Q.	It is correct, isn't it, Witness, that you didn't report Kanyagote's killing to the authorities because they were part and parcel of the killings?
+A.	No, there was nothing unusual.  We are here because there were killings at the time, and so I do not find that unusual in any way.  If we are here before this Trial Chamber it is because killings took place, the killings that we are discussing.
+MS. MOBBERLEY:
+I have nothing further for the witness. 
+MADAM PRESIDENT:
+Counsel Mbattang, do you have any additional questions for this witness?  Do you wish to lead a re-examination?
+MS. MBATTANG:
+	(Microphone switched off)
+RE-EXAMINATION
+BY MS. MBATTANG:
+Q.	Witness ZEZ, can you tell the Trial Chamber at what time, or approximately at what time you heard of the death of Alphonse Kanyagote?
+A.	Between 10:30 and 11:00 a.m.
+Q.	Witness ZEZ, would it have been a good idea -- or would it have been appropriate, rather, for persons of one cellule to go and report events to a responsable of another cellule?
+A.	No, that's not done anywhere because an authority cannot interfere in events taking place in another region in another administrative entity.  The responsables deal with matters, events that took place under their jurisdiction.  This is the way.  This is common practice.
+Q.	Were the responsables of your region involved in the killings?
+A.	No, he did not become involved.  Subsequently, other persons were detained.  He taught Sunday school and he -- to my knowledge, he never brought any false accusations against him.  He was a catechist, he never brought false accusations.
+Q.	Witness, my question was, was he ever involved in the killings?
+A.	No, I was never a witness of that.  I never heard that.  I know that on several occasions he tried to stop the acts, but at some point this insecurity increased.  And with the advent of the multiparty system, I told you that people who were in positions of authority were often ignored or treated with disdain.  And I remember that some persons felt disdain towards him.  There were criminals, for example, who were members of the MDR party.  We were in Rwanteru and we were able to see that these persons felt a great deal of disdain towards him.  And we noticed that they did not bother him.  At one point, he was even given responsibility for another party -- or, rather, he was actually made to wear a hat of another party. 
+MS. MBATTANG:
+Madam President, Your Honours, I have no further questions for this witness. 
+MADAM PRESIDENT:
+Thank you, Counsel.  I have a question for the witness -- we have no further questions for the witness.  
+
+We have now reached the end of your testimony.  We would like to thank you for coming to testify before this Tribunal.  We wish you a safe journey home.
+THE WITNESS:
+	There was something that I would like to add, with your permission.
+MADAM PRESIDENT:
+	(Not interpreted)
+THE ENGLISH INTERPRETER:
+The interpreter did not hear what the President said.
+THE WITNESS:
+	As a witness to the events that took place in my locality, I went there on several occasions.  I saw many things.  I was a witness of many events dealing with Mr. Gacumbitsi.  I have spoken to you of the events that took place at Nyamugali, and I have spoken to you about events dealing with the persons who had -- the persons he had taken in.  I would add that these persons, Kanyagote, Rugisha's wife, when these persons were killed, they were on their way trying to seek refuge at Gacumbitsi's house.  Therefore, I say that if Gacumbitsi had been a well-known killer, people would not have attempted to go and seek refuge at this house if this were the case.  And this is what I believe.  
+
+And other allegations were made that he did not like one specific ethnic group.  Actually, I noticed that he had many friends amongst this ethnicity, and actually he seemed to prefer those persons.  I know people who did not like him because of this.
+MADAM PRESIDENT:
+Thank you, very much.
+	(Pages 58 to 67 by Gifty C. Harding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1700H
+THE WITNESS:
+I have not seen him in a very long time.
+MADAM PRESIDENT:
+The Defence will make the necessary arrangements for you to be able to meet with Mr. Gacumbitsi outside the courtroom.
+THE WITNESS:
+Thank you.
+MADAM PRESIDENT:
+We have thus completed the testimony of the second Defence witness.  Did you have the third witness scheduled for this afternoon? 
+MS. MBATTANG: 
+No, Madam  President.
+MADAM PRSIDENT:
+Very well.  In that case we shall adjourn and resume at 8:45 with the third Defence witness.
+
+Yes, Mr. Prosecutor.
+MR. KAREGYESA:
+Your Honours, maybe before we adjourn, I just wish to draw the Chamber's attention to matters that merit consideration by Your Lordships, maybe over night, and they are interrelated and relate to the progress of this trial and judicial economy.
+
+The first, Your Honours, is that it appears the Defence is relying on the evidence of a good character of the Accused.  We submit, Your Honours, that the evidence of the good character of the accused prior to the crimes with which he is charged is irrelevant in this kind of prosecution.
+
+The second, Your Honours, is the Defence of tu quo que in which the Defence seeks to, as it were, justify the killings by saying that the RPF committed killings.
+
+I cite, Your Honours, the decision in the Prosecutor against Kupreskic and others, decision of the good character of the accused and the defence of tu quo que.  This is an ICTY decision dated 17th of February 1999.   This decision, Your Honours, suggests that one; evidence of the good character of the accused is irrelevant in prosecutions such as these.  And secondly, that the defence of tu quo que is not a defence.
+
+Now, I am not asking for a decision at this point, Your Honours, but I am raising it so that Your Honours may deliberate upon it and see if there is any way to reduce on the time wasted by leading defences that are irrelevant and inadmissible.
+
+You will see from the decision I have cited, the Defence in Kupreskic was only allowed one character witness.  Now, if the other 24 witnesses are going to come and testily about the good character of the accused, and about the atrocities committed by the RPF, we will waste a lot of time and we will not be able to conclude this defence case within the time that has been set aside.
+
+I am most obliged, Your Honours.
+MADAM PRESIDENT:
+We would like to thank the Prosecutor.   Are there no further matters, Counsel Kouengoua?
+MR. KOUENGOUA:
+Madam President, Your Honours, it is my duty to respond to the concerns raised by the Prosecutor, and I must admit that I am surprised and I have always said this.  Madam President, if the Defence wishes to assist the Tribunal in rendering justice, then they must do so -- if the Prosecutor wishes to do so, then they must do so in good time.  It is 5:00 p.m., we have decided to adjourn -- it is 5:05; the Prosecutor has not filed a motion, he has not raised an objection, and if he wishes to file a motion then he should do so.  But as the Defence has done everything, since the 28th of July, to respect the deadlines and to refrain from wasting time, that we should raise this at this stage, Madam President, I believe that on the contrary, we are to stop raising the issue of time, and this has been refused to me on two occasions, and I will never return to this.  Madam President, you said that we would sit from the 6th of October to the 31st October.  I have said again and again that we would like everything to be completed as far as the Defence case is concerned, but I do not believe that people should seek to give us lessons that we do not deserve.  If the Prosecutor wishes to draw the attention of the Trial Chamber to some matters, he should do so, but he cannot just stand up and make speeches as if we were all apprentices.  This is not proper behaviour.  You cannot render a decision if no motion is filed before you.
+
+I would like you to thank your for your attention to this matter.
+MADAM PRESIDENT:
+Thank you, Counsel, and we hope, indeed, that we shall be able to complete this session by hearing all Defence witnesses, and we shall do everything possible to do so, as I have already highlighted in the status conference.  Each person does their work, respecting the other.  Thank you very much.
+
+The session is adjourned.
+(Witness excused)
+(Court adjourned at 1712H)
+(Pages 68  to 69 by Regina Limula)
+
+
+C E R T I F I C A T E
+
+
+We, Trish Greig, Judith Baverstock, Rex Lear, Petrus Chijarira, Gifty C. Harding and Regina Limula, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________		Trish Greig
+
+
+___________________________		Judith Baverstock
+
+
+___________________________		Rex Lear
+
+
+___________________________		Petrus Chijarira
+
+
+___________________________		Gifty C. Harding
+
+
+	___________________________		Regina Limula
+
+
+
+
+
+	GACUMBITSI	6 OCTOBER 2003
+
+TRISH GREIG - ICTR - TRIAL CHAMBER III - page 12
+
+	GACUMBITSI	6 OCTOBER 2003 
+
+REX LEAR - ICTR - TRIAL CHAMBER III - page 51
+
+	GACUMBITSI	6 OCTOBER 2003 
+
+PETRUS CHIJARIRA - ICTR - TRIAL CHAMBER III - page 57
+
+	GACUMBITSI	6 OCTOBER 2003 
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 67
+
+	GACUMBITSI	6 OCTOBER 2003
+
+REGINA LIMULA - ICTR - TRIAL CHAMBER III - page 69
+
+	GACUMBITSI		6 OCTOBER 2003
+
+ICTR - TRIAL CHAMBER III
+
