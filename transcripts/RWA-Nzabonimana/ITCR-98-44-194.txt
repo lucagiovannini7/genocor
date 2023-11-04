@@ -1,0 +1,548 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+	
+
+MONDAY, 7 NOVEMBER 2005
+0854H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Ms. Dior Fall
+	Mr. Adama Niane
+	
+
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporters:
+	Ms. Karen Holm
+	Ms. Maureen Dunn
+
+
+I N D E X
+
+WITNESS
+For the Defence:
+WITNESS 920
+Examination-in-chief by Mr. Hooper	16
+Cross-examination by Ms. Fall	29
+EXHIBIT AND EXTRACTS
+Exhibit No. D. 152	17
+Extract	29
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, can you open the proceedings, please?  
+MR. FRY:
+Yes, Your Honour.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, presiding, Judge Hökborg and Judge Kam, is now sitting in open session, today, Monday, the 7th of November, 2005 for the continuation of trial in the matter of the Prosecutor versus Rwamakuba, case no. ICTR-98-44-C-T.  Thank you, Your Honour.  
+MR. PRESIDENT:
+Thank you, very much, Mr. Registrar.  
+
+Could we have appearances, please?  
+MS. FALL:
+Thank you, Mr. President.  Prosecution is represented by myself, Mr. Adama Niane, Mrs. Tamara Cummings-John and Mr. Lapika.
+MR. PRESIDENT:
+Thank you very much.  And for the Defence, please.  
+MR. HOOPER:
+Yes, good morning, Mr. President.  On behalf of André Rwamakuba, Andreas O'Shea, David Hooper, and Julie Oberti, our legal assistant.
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  Mr. Hooper, for the record, I have to note that the Accused is not present this morning.  What is the position with regard to his appearance?  
+MR. HOOPER:
+The usual reasons, Mr. President, if I can put it like that.  There's no change in his position.
+MR. PRESIDENT:
+Thank you very much.  We gather that there is a logistical problem that needs a few minutes to be addressed.  Is that correct, Mr. Hooper?  
+MR. HOOPER:
+Well, it's rather more technical than I thought.  The wrong witness has been brought this morning and the witness I have specified be here is not -- is not here, and I prepared the one witness.  Now, let me say this, in any event, that I'd asked for the witness to be here at eight, and I know it's difficult to always gather everyone at that time or witness here.  I know the difficulties that WVS have, and I'm not at all critical of WVS. They've been absolutely splendid in their assistance to the Defence, and I'm very grateful to them and I want to put that on record, and I'm sure it's not the first time I'm going to indicate that.  But I'm told the witness could be here at eight o'clock, and I was here before then, in order to just tidy up a few areas which I hadn't been able to tidy up over the weekend.  
+
+In any event, I have an opening and that opening will take me an hour, and that's a counsel's hour, so I would have thought that in that time the witness could be brought.  I don't know if there's any particular difficulty with the witness we'd asked to attend -- I won't name it in open court -- won't name her in open court, but Ms. Oberti can liaise with WVS in the meantime to try and secure, in the order that I wish, the attendance of Witness 920.  
+
+I don't know whether a confusion arose because, knowing the concerns of this Court, I've also asked for Witness D1 to attend as a back-up, and perhaps also as a comfort to the first witness, as well, who, I'm sure, must be sitting in that barren room back there, without so much as a magazine in it, in a state of nervousness.  But, if possible, could we please have Witness 920, as, in fact, has been indicated?  In the meantime, I can address the Court in terms of what I hope is not going to be an over-long opening in this case.  
+MR. PRESIDENT:
+Well, Mr. Hooper, what we propose to do, after consultation with the registrar, is that we allow you to open now and then we'll rise briefly at the end of your opening address.  
+MR. HOOPER:
+Very well.  Thank you.  First of all, I'm aware that the interpreters' booth doesn't have the benefit of a written opening from me, essentially because I don't work quite like that, but I will try and speak sufficiently slowly for you, the interpreters, to keep pace.  And if there is a problem, can you let me know?  I'm not going to wear an earphone, but Mr. O'Shea will alert me to any difficulty and put the brakes on me.  
+THE ENGLISH INTERPRETER:
+Thank you.  
+MR. HOOPER:
+This is, of course, a Defence opening address, speech or submission.  It's not a closing submission.  And so, as far as is possible, I will try to look forward at that which we anticipate is to come and not back at the spectacle that was the Prosecution case.  Looking back may be something of a distraction -- perhaps not too much of a distraction, we hope.  Should I pause?  
+JUDGE HÖKBORG:
+I can hear you. 
+MR. PRESIDENT:
+You can proceed. 
+MR. HOOPER:
+Thank you.  I was just saying, looking back over our shoulders at the Prosecution case is, I hope, not too much of a distraction, and perhaps looking back, all one sees is the wreck of a Prosecution case, just a mast or two sticking up above the water indicating where it sank.  I also hope that you, the Judges, will appreciate and perhaps understand and indeed not blame us, the Defence, for giving a long and careful consideration as to whether it was even necessary to call evidence at all.  That we have elected to do so, and will do so, is not, however, out of any respect for the Prosecution case.  It's not out of any respect for the Prosecution case that we call evidence before you, but, rather, we hope to assist you in discharging an onerous responsibility, an onerous burden, and in reaching a truth.  
+
+I would also like to emphasise at the outset that I see it as no part of my function as Defence Counsel, and nor should I, to instruct you, the Judges, as to how you view the facts of this case.  That is a matter entirely within your province and it's not one into which counsel should intrude, and nor do I.
+
+I make submissions -- submissions which I hope advance the case of the Accused André Rwamakuba, who faces, as we all know, crimes of the most serious nature possible and who has himself carried the burden and weight of those allegations for so long.  This is, of course, it might be said, Hamlet without the prince because the Accused is not here.  
+
+Regularly, Mr. President, you've invited him to be here and, regularly, those words have been conveyed to him.  You asked me again this morning why is it that he's not here, and he's given, through me, explanations which the Tribunal has heard fairly often.  But looking at an empty seat, not having seen him, one can well understand that you, Mr. President, and your Brother and Sister Judge are doubtless very curious as to the manner of man that he is.  
+
+He has been in court.  He was here on the 7th of April, for example -- 7th of April 1998, when he pleaded to the indictment, a longer and complex indictment with a whole multiplicity of offences on it.  And anyone who was there to see that plea will not forget it.  It was a very dramatic moment, as André Rwamakuba to each count literally sobbed out his plea of non culpable.  And that position hasn't changed, for all these years.  Absent though he is today, he maintains that he is completely innocent of these charges.  
+
+But what sort of man is he?  Well, what sort of man is he physically?  Well, there's certainly video material which you may have access to, taken, for example, at that initial appearance, and subsequent appearances that he's made, but there are also photographs and you'll also receive descriptions, even if you do not physically set eyes on him.  
+
+I have a photograph here which I was hoping to be able to display and, regretfully, forgot until the last minute that otherwise comfortable as this court is, it is a little downmarket in terms of some of the facilities that it can produce, and so I've got no display.  So I'm going to do the old-fashioned thing and just pass the photograph up, and it will have as much effect as showing it and displaying it in the normal way, and perhaps at a later time we can display it for all to see in a clearer way.  
+
+And this is a photograph that was taken in 1999, so all of six years ago, in the prison at the UNDF, and I'd ask you to look at that photograph.  And what does one see?  A man then of about 48 or so, 49, not the racial stereotype that was spoken of by Tutsi witnesses, the thick lips, the flattened nose, not, as one witness described, the man of forte corpulence, Witness GIN, in her statement, "stout".  You see there not a big man, nor a man described by another witness, GII, very significant in terms of the Gikomero -- early Gikomero and the Ndatemwa allegations who described the man he saw as stocky, a solid man, "thick" was his expression, in glasses, a man of slender build; and, you'll hear, a man who, in fact, never wore glasses, never wore glasses until about the year 2000 when, as men of 50 often find the case, their eyesight diminishes for reading, and he now has a pair of reading glasses to use from time to time for the small print.  And you'll hear evidence of all this.  
+
+What sort of background was he?  He's 55, born, as you've heard, in the tiny hamlet of Nduba, N-D-U-B-A, in Gikomero-rural.  The family had come there from eastern Congo five generations ago, in the 19th century.  His father's line is Muhunde, not Tutsi and not Hutu, as you'll hear.  And he has a grandmother who is a Tutsi, two brothers, four sisters.  Only two of the sisters survive today.  
+
+His father, Pascal Ntambare, in his eighties, was found hanging at his home by his neck shortly after the RPF had invested the area of Gikomero.  The circumstances of that death are uncertain.  But that was a man who had taken himself out of the strickening poverty of Rwanda, the poorest country in Africa, and had taken himself out to Congo, later Zaire, to work the Katanga copper mines to earn money, to put shoes on the feet of his children, to give education to them.  And that education was productive.  The advantages, coupled with obviously -- an obvious innate intelligence, benefited certainly all the three boys of the family.  One of them's in Switzerland working as an engineer.  Another worked for the United Nations based at the time in 1994 in Addis Ababa.  
+
+Maya Rwamakuba, André's sister, to whom he was close, married at the age of 18, Michel Ngirumpatse.  He was Tutsi, of a Tutsi family who had lived long on the hill.  It's difficult in those circumstances to imagine André Rwamakuba returning to that hill to speak anti-Tutsi sentiments, as has been alleged here, as you'll hear, because he was close to his brother-in-law, Michel.  And he supported the family; he supported the children of that family.  He paid for the children's school fees.  The children survived the genocide.  Michel did not.  He was butchered by Interahamwe.  
+
+The death of a father, the death of a loved brother-in-law, it may be no surprise, Mr. President, to learn that André Rwamakuba considers himself not an Accused but a victim of the genocide, a victim, a historical event that overwhelmed him and his life and chased him and his family into the second Rwandese diaspora, this time of Hutus now spread all over the world.  
+
+André Rwamakuba did exceptionally well.  He was in the Congo from the age of two until the age of 15.  All those formulative years were spent not in Rwanda -- subject to whatever prejudices there may have been welling about, if there were any -- not in Rwanda but in Congo.  And on his return from the Congo, aged 15, he then moved -- he was then educated at the secondary school at Nyanza, Christ le Roi, Christ the King, a boarding school of Hutus and Tutsis, and he boarded away from home, away from Gikomero, for five years.  He's a bright and intelligent man, and from an early age he wished to dedicate his life not to filling his pockets, but to serving his people.  
+
+From 1970 to '74 he was at the university at Louvain in Belgium.  After that, three years, from '75 to '78, the University of Butare in Rwanda, where in 1978 he became what was certified a doctor and thereafter worked in hospitals in Kibungu and Ruhengeri and Rwamagana, where he also taught nurses.  Never, ever did he teach in Butare.  Never, ever was he a doctor practising in Butare.  
+
+1981 to '82 he was back in Louvain, and at this point his career changes.  Instead of clinical medicine, he does a post-graduate degree in public and social hygiene.  He moves now into the area of public health, in an area and in a country that desperately needed that kind of service.  
+
+His talent is recognised, and in 1984 he's made head of the department of public health and hygiene in the Ministry of Public Health.  And from then on, there is an impressive, impressive list of achievement and dedication and service.  He becomes the national representative on the environment to the United Nations for his country.  But always working, trying to improve the services and the lives of his people that were dire.  
+
+He was the author in 1990 of a plan to resettle 500,000 Tutsi refugees within Rwanda, and he was travelling from time to time to the conferences, that you'd expect a man in that position to do, to the United States and the like, but working within public health.  
+
+In 1990, as you've heard, he joined in the new democratic Rwanda one of the new multiparties, the MDR.  Very shortly afterwards, a few months, he paid the penalty, because his department was an MRND department.  His contract was stopped.  He lost his job.  He worked at Kigali hospital, again back to clinical medicine.  Never again -- never, ever, I stress, at Butare.  And in 1992, through the intervention of a colleague who recognised, of course, the talent that was laying waste -- lying waste here, he was appointed, as you've heard, director of regional health for Kigali and Kigali-rural.  That's 1992, and that's his position at the time of the events in April.  And that was a job with a massive responsibility, the entire health structure of that densely-populated area in Kigali and surrounding and large area of Kigali-rural, discharging a level of responsibility and tasks that few of us have probably ever had to confront, and at a time when that was an area that was riven with dysentery, a raging HIV problem, cholera, and by mid-1993, was part of the country that had to absorb no less than one million displaced persons, displaced by the RPF attack of earlier that year.  Sixty thousand of them, or so, were living on the slopes of the Gikomero massif at Nyacyonga, living not under sheeting but literally under, if they could get it, plastic bags or banana leaves.  
+
+What of the family man?  He married Agnes, who you'll be hearing from as a witness, on the 18th of October 1980, so almost 25 years ago.  She's a social worker, or was.  They have three children, Marie-Ange, who's now 23.  She will be here to give you her account of a child's recollection, as it were, of those events.  She was then 12.  Alice, who was then 8, is now 19, and Claude, rather interestingly, also called Mahundi, who is now 17 and was then 6.  They left for Nairobi from Goma on the 3rd of May 1994 -- the 3rd of May -- just under a month after Habyarimana was killed.  
+
+Now, you may ask yourself in that context, between the 6th of April and the 3rd of May, where any reasonable father would choose to be.  Would he choose to be away from his family in the chaos and bloodshed that was Rwanda or would you, if you could, be with them when you could?  And, indeed, you'll hear that while attempting to discharge his responsibilities as Minister of Education in all that chaos, he still stuck close to them, first at Murambi, in Gitarama, where the government were moved on the 12th, and the Defence will say and produce evidence of, thereafter between the 20th of April and the family going to Nairobi in May, when they were settled in Gisenyi.  And that family, before the genocide and before these dreadful events, lived in Kigali at Nyamirambo, N-Y-A-M-I-R-A-M-B-O, one of the areas of Kigali in the south-west part of the city.  That's where they lived.  And André Rwamakuba with his position, working hard, absolutely cram-packed diary, a settled, comfortable life, skills that were needed.  
+
+What of André Rwamakuba the political man?  Well, the Defence would say that that man barely exists.  He has no significant political profile, barely at all before April, when he was then made the Minister of Primary and Secondary Education.  Some, you will hear, would describe him as politically naive.  But as a man who had always been active in his community, as you'll hear, joining many societies, very diverse, cultural, as well as others.  Together with his brother he helped found, as you've heard already, the school, the École technique libre.  One was built in Kigali and another was built on his hill in Nduba.  And how many of us have done anything as constructive as that?  This was a school for the terribly underprivileged of his area, and that was nearly all the children who fell into that category, both Tutsis and Hutu.  
+But with democracy, with the end, following Mr. Mitterrand's intervention in politics in Africa at Le Boule, as we know, multipartyism was de rigueur, and with that André Rwamakuba joined, at an early stage, the MDR party.  It cost him his job.  
+
+The MDR was a moderate centre party.  Within its constitution, unlike that, for example, of the MRND, you will find a clear statement of policy that was not in any way a party that was restricted to Hutus.  It was not anti-ethnic; it was a democratic party, open to all.  And a central tenet was that it would pay attention, as you can see in the constitution, to the grassroots, that sector of society so often overlooked in societies.  
+
+And what was its position as we approached 1994?  And let's just pause for a moment, and if I may, make this observation, which I'm sure is pretty apparent anyway.  The 6th of April, for all the drama of that day and its consequences, is still an arbitrary line that is drawn in a continuum of history within Rwanda.  And sometimes, perhaps, we have to imagine what it would be and what the position would be against a backdrop not of Habyarimana's death but of his life, if he hadn't been killed.  If he hadn't been killed, it is probable -- not provable but probable -- that the broad-based transitional government would have been put jarringly into place, and with that the history of Rwanda would have been different and none of us would be here today.  
+
+The MDR, with the prospect of its position in the broad-based transitional government, as ordained by the Arusha Accords, guaranteed, as we know, power sharing for the MDR, five seats on the cabinet -- or was it more?  I think five seats, including the position of prime minister, guaranteed.  But it's future was even better than that.  The MDR party held the middle ground of the Hutu vote.  And, you know, there's nothing wrong with being a Hutu and chasing a Hutu vote when 90 per cent of the country is Hutu.  But it wasn't closed to Tutsis.  It, in fact, actively tried to get Tutsis, get votes, in other words, into its ranks.  And we submit that looking past the broad-based transitional government, the MDR was in the position of looking at the uplands of power in Rwanda.  It was the party of the future.  
+
+Once there were free elections after the 18 months of the BBTG, there's a very high probability that the party holding the cards would have been the MDR.  It's important to bear that in mind, that the MDR had nothing to lose by power sharing, nothing to lose by embracing the Tutsi refugees outside Rwanda, everything to gain.  Unlike the dinosaurs of the MRND and their placement in the ministries and their placement in the gendarmerie and their placement in the military and their placement, bourgmestre after bourgmestre, their placement in préfet after préfet.  These were the persons for whom democracy sent a shoulder down the spine, not the MDR.  
+
+André Rwamakuba, you will hear, his best friend from university days at Louvain and through his life and through his marriage and within the MDR, was Boniface NgulinzIra.  For much of the time that we've been concerned with, as you know, he was the foreign minister and some, perhaps rightly, considered the architect of the Arusha Accords.  You'll hear they kept in close touch and André Rwamakuba was supportive of him and what he was doing, which was resolving the problem between the Tutsis who lived in the diaspora of Tutsis outside Rwanda and the country that they'd left or been forced to leave.  And in the MDR, much has been made, as we know, of a division in the party, and as you've heard already and will hear again, there was a division that led to the Kabusunzu conference in July of '93, as we've heard, and I'm not going to go into that again in detail, and it was a division that arose as a quite a reasonable product of the fact that Mr. Twagiramungu, president of the party, tried to anoint or crown himself with a degree of power that went right against the grain of the party.  It was hardly to be surprised at, is it, that the bulk of the party resisted that?  And those difficulties, those political ambitions that were thwarted, or otherwise, trickled on right through to the day that the president's plane was shot down, though there had been a political reconciliation, as you've heard, effected by the bishops.  
+
+But it's right to observe, as you'll hear, and indeed as has already been in evidence, that by March of 1994, the MDR was the only party in Rwanda that had named under Twagiramungu its accepted leader and prime minister -- no split there -- lined up behind Twagiramungu as prospective prime minister under the broad-based transitional government.  They had named their ministers and they had named even their deputies in the now power-sharing national assembly.  They were ready.  They weren't holding things up.  They were committed to Arusha.  And, indeed, as you've seen, the MDR had pledged at Kabusunzu its commitment to Arusha in the motion that called upon President Habyarimana to speed things up.  That was the party that André Rwamakuba adhered to and it was a party, as you know, not without risk, for it attracted attacks from those who saw its potential power and it feared it.  
+
+André Rwamakuba, the man, and racist or ethnic sentiment.  Well, you'll hear from those who knew him that he was in no way anti-Tutsi, in no way ethnist.  Of course, people hearing me say that would say, "Well, of course, you and those witnesses will say that, won't they?"  But I'm not here to prove that he was not an ethnist.  It's for the Prosecution to prove that he was, if it's relevant.  
+
+So we have some Prosecution witnesses who claim André Rwamakuba spoke regularly at rallies between the months of September '93 and March '94.  And it would appear that this man didn't attempt, in haranguing the masses, to approach the matter subtly.  He is quoted repeatedly as having said at these regular rallies on his own hill at Gikomero, quote, "The time has come to exterminate the Tutsis."  Unquote.  This just down the road from his brother-in-law and his sister and their children, as well as other -- undoubtedly, other Tutsis that the family must have known, and the rest of it.
+
+Well, the Defence have, we hope, already demonstrated in the course of their evidence the quite unsettling unreliability of those witnesses that the Prosecution called and obviously rely upon to prove this aspect of their case.  But I hope that we can go further, and I hope that we can prove that they and other witnesses have come here to lie -- no time for mincing words -- they came here to lie at this and before this high Court, and they did so in an utterly, we submit, barefaced way, in order to corrupt the process of justice here.  
+
+From Gikomero, in respect of the rallies, for example, just taking that aspect, we hope, if we have not demonstrated it already, that we will, through the truth of witnesses called by, and for, the Defence, to demonstrate that they were a small clique who have come here before this Tribunal, and they're not the only clique of witnesses in this case to have done so.  And as each clique presents itself and one has regard to it, the Defence will submit that the nature of the lies as such, that it is probable that they have been the product of an organised conspiracy to pervert the course of justice.  
+
+The evidence of André Rwamakuba participating in these rallies, in saying, "Exterminate the Tutsis," in the months September to March illustrates, we will say, and we hope can demonstrate, the truly shameful thread that runs right through the Prosecution case, right through nearly every witness, a rotten core in a rotten case.  For those rallies, we hope we can demonstrate, did not happen.  It's not a question of they got it wrong, they misunderstood the words, they put a gloss on it.  No such thing.  That's not where we stand.  
+
+The evidence you will hear is that André Rwamakuba was not in Rwanda between September and March.  It's as blunt as that.  And he wasn't down the road.  He was, as you already know has been indicated, in Belgium, studying at the Prince Leopold Institute for those six months.  We first expressed this account of alibi in 1999 in open court, and it's on the record.  And if I get a puzzled look from my friends and the Prosecution bench as I say that, then it's because they have forgotten it.  But we can dig out the transcript and you'll see that, as a result of a question from, I think, Judge Sekule, who was President at the hearing -- it may have been 2000 -- but certainly no later than that -- the Defence made square and bare that André Rwamakuba was in Belgium for those six months.  But perhaps it's as well the Prosecution forgot because, otherwise, they may not have been parading witnesses where we could prove the lie.  And this lie can be proved right in the opening witnesses of their case, and it's a story that gets repeated as we get through the case as each clique of witnesses comes to tell their rehearsed and various untruths.  
+
+We have, as you know, from the indication of alibi, countered by forceful statements, doctors and professors, independent witnesses in support of the fact that André Rwamakuba was in Rwanda, and his passport, of course.  We thought that we would not be taking up this Tribunal's time by the Prosecution disputing that account, but they've been to Belgium and they've seen the witnesses; they've been to Burkina Faso, they've seen the witness, and we're going to have to call them.  
+
+We can only assume that the Prosecution will suggest that as each of these men was not his brother's keeper, as each of these men was not, as it were, handcuffed to André Rwamakuba throughout his sojourn in Belgium, but André Rwamakuba, if the Prosecution witnesses are telling the truth, must have sneaked away at weekends, boarded a plane, flown to Kigali and returned later to Belgium.  That would be a preposterous suggestion, that a man of André Rwamakuba's financial means could have done such a thing, and if he did, that he would then go up to Gikomero -- and perhaps one day you'll go to Gikomero; I hope you will, Mr. President and your colleagues -- go up to Gikomero, the back of beyond, and harangue the peasantry in that manner.  We suggest that maybe it demonstrates the Prosecution, who is striving for conviction at all costs, are getting distracted from the true paths of justice.  We encourage them to re-find that path.  
+
+Of course, there's another significance -- if the Defence is right and André Rwamakuba was indeed in Belgium -- another significance to his presence there.  Not only was he in Belgium for six months, September to March, but a few days after his return, he attended an environmental conference for two weeks at Aswan in Egypt.  So he's barely home in Rwanda before he's sent off again to Egypt.  So for this substantial period of time, André Rwamakuba, the man, is not caught up or experiencing the increasingly unsettled events of his country.  He's not living it.  And they were unsettling days.  
+
+Just take two -- two features of those days in that poor, overcrowded, changing, fearful country.  In late October, as you know, President Ndadaye of Burundi is murdered, the first Hutu president, in a country that is 90 per cent Hutu.  The first Hutu president is elected.  Within days he's murdered by Tutsi army officers.  Can one think, as Rwanda is poised to put this broad-based transitional government into place, the effect of that, the shockwave of that?  And Mr. Kagame, brilliant strategist that he is, why did he launch the RPF on its massive January attack of 1993?  Why on earth, when the parties were sat at the tables here in Arusha and things were moving, did he attack his own country and send down the road a million refugees?  I give no answer.  But these were unsettling days, and no wonder the intentions of the RPF began to be questioned by the minority -- by the majority, rather, of the people whose country it was.  But the fact remains that when André Rwamakuba returned to his country, he could and did still return with every expectation that the broad-based transitional government would be put in place, that in 18 months elections would be held, and the party of which he was merely a member would achieve great success and had a great and resounding future ahead of it.  And he would return with not an inkling of the terrible events that were to unfold within days of his return from Egypt.  
+
+There's been word here of power, and that's been gone into at considerable length.  You will hear, and we submit, that that is, if anything, a street word, not on the streets of Antwerp, where André Rwamakuba was, but a street word in Kigali and Rwanda.  The Prosecution haven't demonstrated one use of it in print, for example, on the radio, for example, in transcripts, for example, other than that solitary use of it by Karemera in October at the speech, and you'll hear something about that and you'll hear, indeed, from a member of the MRND who heard that and, indeed, even confronted Karemera for his use of it afterwards.  It wasn't used within the party.  And it's a label, as so often happens, that becomes attached in hindsight, retrospectively.  Let's point to its actual use of it at the time.  Well, not me.  The Prosecution haven't demonstrated any contemporary use of it with that one solitary episode.  It certainly wasn't André Rwamakuba's position.  
+
+What of André Rwamakuba, the minister?  This man, with no political pedigree, was named on the 8th of April as Minister of Primary and Secondary Education.  He hadn't participated in any pre-announcement discussions.  The Prosecution haven't suggested he was any -- played any part in the formation of that government.  And, indeed, they'd be right.  You will hear that the first André Rwamakuba knew that he was to be a minister -- never, ever held any position before -- the first he knew about it was when it was announced on the radio on the 8th of April.  It's a bit like, if I can use this analogy, those days at school when the Wednesday afternoon football team list went up, or perhaps netball list, and you looked and found yourself in goal.  You didn't ask to be in goal; you were put in goal.  It was just like that.  
+
+You'll hear that it had come about essentially in this way:  that with the prospect of the broad-based transitional government, the legitimate change, as it were, before full democracy, all the parties had had to nominate persons to the positions allocated to them under the Arusha Accords.  André Rwamakuba's name came up in that context as one of ten names for three posts that was put up to Faustin Twagiramungu, later prime minister, immediately after the genocide of the government in Rwanda, and that he met Twagiramungu and they had a discussion, and it was left in Twagiramungu's hands.  And André Rwamakuba was not, in fact, put up for the job -- not that he was particularly disappointed by that, but he wasn't chosen.  But his name remained on the list.  And after the 6th of April, you will hear that with the problem of the dead and fled of the MDR, his name came to be one of those at top of the deck.  Nothing to do with Tutsi or anti-Tutsi sentiments at all.  As this government was put in place, one might say "put in the window", because we would submit that the levers of power were being pulled by hands that had held those levers for a very long time, and certainly not all members of that government participated in the privilege of handling those levers.  But he was elected, nominated.  Effectively, he made up the numbers. 
+ 
+And when, as you'll hear, on the 9th of April, an army colonel turns up at your front door after several days of shooting and killing outside it, and there's a knock on the door which you attend to, and he's there saying, "Good morning, Monsieur Minister.  Are you coming for the swearing in nomination?"  who here would say, "Not today, thank you," and close the door, when there's people lying in the street, dead?  
+
+And you'll hear that those were the circumstances in which André Rwamakuba left his home, with his wife and three children in the hallway, and went nervously and in trepidation, not knowing whether he was going to come back.  That was the traumatic start, as you'll hear, to his ministerial career, which didn't get any better.  But we're not concerned in this trial with André Rwamakuba, the minister.  There's been no evidence of his participation in government meetings, nor of any decision he made or participated in, and that's not surprising.  It's not a sin of omission by the Prosecution.  It's because we know that the charges here concern his direct participation in high crimes committed in Gikomero and in Butare.  We're talking here of blood on his hands, and that's what this case has been about.  
+
+As a consequence, the Defence will call no evidence relating to government for that reason.  This is a Court founded on a Statute that emphasises individual responsibility for crime and not joint, and so being a member of a cabinet is not an offence unless you're demonstrated to have committed a crime in that position.  
+
+We call evidence essentially only on Gikomero and on Butare, and in calling those witnesses, we know and hope, in any event, that the Chamber will appreciate the real difficulties that confront an Accused in this Tribunal.  Firstly, it's almost impossible to prove a negative.  For example, not in Gikomero, not in Butare, not on the airwaves saying nasty things, not possible to access Gikomero because of the situation.  These are all negatives.  And it's very rare that anyone can prove a negative -- very difficult -- particularly over spans of days or weeks or even months, as in this case.  
+
+But in calling our witnesses, of course, we are fortified by the knowledge that it's not for us, in any event, to prove anything in case.  We must not lose sight of that.  It remains from the beginning to the end a responsibility that falls only on the shoulders of the Prosecutor to prove anything, from beginning to end, and it's only fair that that's so.  After all, André Rwamakuba didn't ask to be put on an indictment here, didn't ask to be dragged from Namibia here, didn't ask to be sat in a cell for the last seven years.  So it's only fair that those who point the finger and make the accusation prove it, and prove it up to the hilt on the evidence of what they're pleased to call their case.  
+
+And secondly, there is a difficulty that confronts, of course, an accused, and that is bringing witnesses to come here.  We heard a lot of the difficulties of Prosecution witnesses.  In all truth, we don't give much weight to them in this Defence team, those suggestions that we heard.  But for Defence witnesses, we submit that they are subjected and subject to real fears, particularly those who come from Rwanda, because they live in an environment and a society that isn't sympathetic to those who come to give evidence that's perceived to be evidence helping a génocidaire.  It's viewed in that way.  The guilt is proclaimed first.  So the fears that the Defence witnesses that we call have are more tangible, we would argue, than those fears of the Prosecution witnesses, or at least as great.  
+
+For these Defence witnesses, we applaud them.  It takes considerable courage to come here.  And you'll hear that some were victims, and you'll hear that some participated themselves in acts of genocide.  You'll hear that many are Tutsis, not people given to giving a helping hand to someone accused here.  But they will all provide, we hope, and it's a matter for you to judge, compelling exculpatory evidence.  They will tell you that André Rwamakuba was neither at Gikomero, nor at Butare hospital.  And though we prove and seek to prove nothing, we hope that at the end of the day we will prove the lie and lies that have been told about him.  
+
+Finally, André Rwamakuba, the man who leaves Rwanda following the events and after briefly staying with family in Addis, Addis Ababa, the family, Mr. and Mrs. and the children, settled in Namibia, as different a place to Rwanda as one could imagine:  no longer green and fertile hills washed by an almost constant rain sometimes, but hard, harsh desert, but a beautiful country.  He became a doctor there, a clinical doctor and the Namibian authorities certified him as a doctor, and he practised clinical medicine in hospitals there.  
+
+He did not hide:  He registered with the Namibian authorities in his own name; he registered with the United Nations in his own name; he registered as a doctor in his own name; he was in the phone book in his own name.  
+
+After interest from the RPF government in 1995, he was arrested in Namibia, and this Tribunal was informed of that arrest.  He was detained in Namibia for six months, from the 6th of August 1995 to the 7th of February 1996, a long time ago, ten years, detained for six months on behalf -- the Defence have always maintained and logic compels us to accept, on behalf of the Tribunal, directly or indirectly.  And eventually, in January, Mr. Goldstone, then chief Prosecutor, wrote to the Namibian authorities, stating that the Tribunal, the ICTR, did not require or request André Rwamakuba's further detention.  He was then released, the Namibian authorities telling him that he went away a free man having, an unfortunate use of the word, been acquitted of all offences.  And André Rwamakuba goes back and works in his hospital in Namibia.  
+
+In 1997 he was met and interviewed by ICTR investigators, including one Mr. Sidibe, a Malian, who appears, as you know, on many of the subsequent statements that are taken against André Rwamakuba.  André Rwamakuba provided the Namibian government and the United Nations with a full record of his history, but despite requests over the years, we have never, ever been provided with what he provided and which must be in his file.  
+
+In 1998 he's arrested -- seven years ago -- and transferred to this Tribunal, where he's been held for seven years, and in that time he hasn't set eyes on wife or children.  And despite writing to the Registrar here, requesting some means of assistance in at least some form of occasional meeting, that's been the extraordinary state of affairs that that man's had to live under for the past seven years.  And in that time he's had, and I say, one visitor, who herself will be giving evidence before this Tribunal, who is a friend of his from way back in Belgium days.  
+
+He's then presented with the statements of the witnesses that you, Mr. President, have seen paraded before you as part of the Prosecution case.  And I say all this because it's against that background that André Rwamakuba chooses not to be here today.  He claims that the evidence here against him has been manipulated and falsified and that he will not, in those circumstances, participate by presence.  And the Defence submit, and it's a matter at the end of the day for you and your Brother Judges, that there may be grounds, a justified basis, for his view.  
+
+And finally, my last note is this.  Some Prosecution witnesses, when the Defence would submit they were confronted with a barefaced lie, resorted to saying, "You are denying the genocide."  Well, if we haven't made it plain before, we make it plain now:  We are not denying the genocide.  Thousands upon thousands of Rwandese, perhaps as many as 200,000 children were butchered, for no other reason than they were Tutsis.  We're not denying that.  What we deny, and through his pleas he denies, is that André Rwamakuba played a role or played a part in that horror.  He, the doctor, of all things.  
+
+We hope by the close of our case to have presented a closer and more honest history of events in Gikomero and in Butare, and to put an end to the lies told about him, sufficient to secure what, in our submission, on the evidence would be, in any event, a justifiable release of this man.  
+
+Thank you very much, Mr. President.  
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  
+MR. HOOPER:
+I would now like to call my first witness, but before I do so, I, (a), hope she's here, and (b), I need to take approximately 30 minutes to clarify some matters that have occurred to me since I saw her last week, and I haven't had the opportunity to do so yet.  
+MR. PRESIDENT:
+Madam Prosecutor, I see you looking at me rather expectantly. 
+MS. FALL:
+Yes, Mr. President.  With your permission, I should like to say a few words in response to the Defence's preliminary submission.  I shall be very brief.  I merely wish to plagiarise from Counsel Hooper. 
+MR. HOOPER:
+There is no reply to an opening, as far as I know.  
+MS. FALL:
+Mr. President, I think he did so when the Prosecution made its preliminary submission.  It's merely to say, and for the public's benefit, these are only allegations.  Now we are hearing the Defence's theory and we hope that his clique of witnesses -- I doubt whether his witnesses will be able to convince the Bench, Your Honours, that Rwamakuba is as pure as the driven snow.  
+MR. PRESIDENT:
+Thank you, Madam Prosecutor.  
+
+We will now rise for approximately 30 minutes. 
+MR. HOOPER:
+If the witness I asked to be here isn't here, I hope you will accommodate me with a little extra time in order that we can deal with another witness, but it means me really going through the evidence and extracting from it closed session material and the like.  It's not quite as straightforward as -- 
+MR. PRESIDENT:
+We will take it step by step, Mr. Hooper.  We will initially take a 30-minute break and then we will see where we are at. 
+MR. HOOPER:
+Yes, I will keep you closely informed.  Thank you.  
+(Court recessed from 1018H to 1100H) 
+MR. PRESIDENT:
+Yes, Mr. Hooper. 
+MR. HOOPER:
+And I call as my first witness, Witness 920.  And can she please be sworn?  
+THE ENGLISH INTERPRETER:
+Are we not going to use pseudonyms?  
+MR. HOOPER:
+The pseudonym is 920 -- not very attractive, I'm afraid, but that's the way it is. 
+THE ENGLISH INTERPRETER:
+Roger.  
+MR. HOOPER:
+Madam Witness, in fact, I suspect would be the normal address.  
+
+THE ENGLISH INTERPRETER:
+Thank you.  
+MR. PRESIDENT:
+Mr. Registrar, you may give the witness the oath. 
+(Declaration made by Witness 920, in Kinyarwanda)  
+MR. PRESIDENT:
+Good morning, Madam Witness.  Can you hear me?  
+THE WITNESS:
+I can hear you, Mr. President.  
+MR. PRESIDENT:
+You have just taken an oath to tell the truth during your testimony in this trial, and under the rules of our procedure, you will give your testimony by answering the questions put to you by the lawyers who are doing different roles in this case.  So, you'll, first of all, be questioned by the lawyer for the Accused André Rwamakuba, Mr. David Hooper, and you'll answer the questions that he puts to you.  Do you understand that?  
+THE WITNESS:
+Yes, I understand. 
+MR. PRESIDENT:
+Thank you.  Mr. Hooper, you may start.  
+WITNESS 920,
+first having been duly sworn,
+testified as follows:  
+EXAMINATION-IN-CHIEF 
+BY MR. HOOPER:
+Q.	Madam Witness, and it may assist you if you looked to your left.  You're looking at the microphone -- don't worry about the microphone.  The microphone will pick up what you say.  Well, you can look where you like; you don't have to look at me, of course.  But I've already introduced myself to you this morning in this wig, so you know who's under the wig here.  
+
+The first thing I'd like to do, Madam Witness, is take you to the piece of paper that's in front of you on the desk there, and which we went through just a moment ago before you came into court, and which contains in it your personal details.  And looking at that document and having had the opportunity of going through it with a Kinyarwanda-speaking person, are you happy that the contents of it are accurate, and if you are happy, would you be good enough, if provided with a pen, to sign at the bottom just beneath the affirmation which is in Kinyarwanda and which you've read?  Could you do that, please?  
+A.	I confirm that the contents of this document reflect the truth. 
+Q.	Thank you very much, indeed.  
+MR. HOOPER:
+And I think, Mr. President, you and your fellow Judges have a copy of that document, and you'll see on that document her married status; you'll see her ethnic origin, religion, her activity, both now and then, her address, both now and then, but she speaks only her own language, and she is a member of a political party.  Thank you very much.  And, in due course, that document will be given an exhibit number.  Now, at this stage -- 
+MR. PRESIDENT:
+Mr. Hooper, I think that should be admitted into evidence. 
+MR. HOOPER:
+Thank you very much.  
+MR. PRESIDENT:
+Mr. Registrar.  
+MR. FRY:
+The number, Your Honour, is D. 152. 
+MR. PRESIDENT:
+D. 150 -- 152.  D. 152. 
+MR. FRY:
+Yes, Your Honour. 
+(Exhibit No. D. 152 admitted, under seal)  
+BY MR. HOOPER:
+Q.	Now, Madam Witness, I hope you appreciate that we do things -- we do things like that so you don't have to give your name in public or details that might identify you.  May I also reassure you, because I saw you looking, when you came in, at the camera that's here, that the status of that camera is itself a private secret, you understand, so don't feel that your image is going to be shown anywhere.  
+
+And in order to protect your identification, I'm going to ask now that we go into closed session in order for me to ask you some personal details, and that will mean that only those in this courtroom will hear them and it will be kept secret and under lock and key, your answers, in those circumstances, and what I can indicate is that I haven't many questions, and I should think it will take me no longer than ten minutes, possibly not even that, but I think ten minutes.  
+MR. PRESIDENT:
+Well, that means that we -- I should just ask you this, although I know you're familiar with our requirements in this case, that we prefer to have all of the closed session matters dealt with at the same time.  So I presume that you have organised yourself in that way. 
+MR. HOOPER:
+I hope I have, and that's my objective.  In fact, I might be five minutes, may I say.  I see there are some members of the public in the gallery.  I can, I think, tell them five minutes. 
+MR. PRESIDENT:
+We are going to have to go into closed session.  For the benefit of the members of the public, this is a public trial, but many of the witnesses have had protective orders made which require that their identity be concealed.  So questions which relate to their personal issues which could identify them are dealt with in closed session, to the exclusion of the public.  We have just been advised that this process will take between five and ten minutes and we go into closed session now for that period.  
+
+	We go into closed session for a period of five to ten minutes.  
+MR. HOOPER:
+While that's being done, I hope I can ask -- I hope there's a copy of Exhibit P. 2, Prosecution Exhibit 2 for the witness.  I rather knocked that into your Court, Mr. Fry, I'm afraid. 
+MR. FRY:
+Your Honour, we have the original, but not a copy.  
+MR. HOOPER:
+I wonder if the Prosecution are in a position to provide a copy of P. 2 for witnesses to refer to, as it's their exhibit, and if they've got a spare or can get one, because it's going to be an obstacle, isn't it, if we don't have that.  Very well.  Very well, we'll press on, anyway.  
+
+And I also am going to refer in the course of the case to the sketch plan that was used -- has been used before, but let's see how we progress.  
+(At this point in the proceedings, a portion of the transcript [pages 19 to 21] was extracted and sealed under separate cover, as the session was heard in camera)  
+(Pages 1 to 18 by Karen Holm) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BY MR. HOOPER:
+Q.	I'm going to ask you, Madam Witness -- I won't call you by your name any more -- before         President Habyarimana's plane crashed in early April of 1994, what were relations like between those in the community who were Hutu and those who were Tutsi; were there any problems at all?
+A.	There were no problems between the inhabitants. 
+Q.	Did you ever hear of any meetings that had been held in your area that were anti-Tutsi at all?
+A.	No, no meetings were held. 
+Q.	After the plane crash, did things change, and in what way if they did?
+A.	After the plane crash on the 9th the communal police brigadier shot in the air but wounded nobody.  Subsequently, we began to be afraid and many people amongst the population started to sleep away from their houses beginning from that date. 
+Q.	Did you witness any harm done to any Tutsis in this period?
+A.	It was on the 13th that the houses belonging to Tutsis were destroyed, but nobody was killed.  The attackers merely destroyed the houses and to loot the food supplies of the people. 
+Q.	Before the 13th, did you -- were there any physical attacks on Tutsis at Ndatemwa?
+A.	Prior to the 13th soldiers beat two brothers.  That was on the 11th. 
+Q.	Was that something you saw with your own eyes?
+A.	Yes, I was witness to that. 
+Q.	Can you tell us the names of these two Tutsis, and the circumstances in which they were beaten?
+A.	One of them was called Rutembya and the other Rutembeza. 
+Q.	And that's -- I'll just spell it -- it's on the list, but it is R-U-T-E-M-B-Y-A, Rutembya, and Rutembeza is R-U-T-E-M-B-E-Z-A.  And did you know those two men, Madam Witness?
+A.	I knew them. 
+Q.	Do you know what they were doing when they were beaten?
+A.	From what I saw, they were doing nothing special; they were returning from a prior session. 
+Q.	Were they -- did they belong to any particular religion?
+A.	They were members of the Pentecostal church. 
+Q.	Can you remember what sort of time of day this beating took place?
+A.	The incident began at about midday, under the rain, and the attackers left and went away at about between 3 and 4 p.m. 
+Q.	Now, you said those two men were beaten by soldiers.  Did anybody else help the soldiers, or was it just the soldiers who did the beating?
+A.	From what I saw, no one else beat those youths. 
+Q.	And after they had received that beating, what condition were those two men in?
+A.	They were in a critical physical condition.  They could no longer move on their own.  They could no longer walk by themselves; they had to be transported to the dispensary. 
+Q.	And where was that dispensary?
+A.	At Kayanga. 
+Q.	And did you ever come to hear what befell those two men -- what happened to them?
+A.	Yes, I learned what happened to them after they arrived at Kayanga dispensary. 
+Q.	And what was that?
+A.	It was on the Monday when they were taken to the dispensary.  They spent Tuesday and Wednesday -- the Tuesday and the Wednesday at the dispensary, also the Thursday, but on the Friday the Interhamwe attacked Kayanga dispensary and those two youths were killed along with the carers -- the carer, who was their elder brother, and also the sister who had taken food to them.  They were all killed at that time. 
+Q.	Thank you.  Now that deals with events on the 11th.  Now, with all the difficulties in Rwanda at that time, did you notice if any refugees or displaced people were moving about at all and, if you did, can you tell us where they were coming from, where they were going, as far as you could see?
+A.	On the 11th there were no refugees or displaced persons.  After the beating of the youths on the 11th, we began to see that we were no longer in safety; we were no longer safe.  But otherwise there were no refugees or displaced persons that had come from elsewhere to our locality. 
+Q.	After the 11th, moving on to the next day, the 12th, did anything happen on that day?
+A.	On the 12th at about 4 p.m. we heard the communal ambulance, in which were three people.  The ambulance arrived and stopped at the centre.  After a few moments, it started off again. 
+Q.	And the three people who were with the ambulance, do you know who they were and, if you do, can you name them, please?
+A.	Yes, I know those three persons' names.  The first was named Ephrem Nyirigera; the second was Michel Nyarwaya, whereas the third was Nzamba, who was the ambulance driver. 
+Q.	Nzamba, is that N-Z-A-M-B-A?  I think that's N-Z-A-M-B-A.  I'm going to call it that anyway at the moment.  Do you know, is he about, Nzamba?  What's happened to him since then, do you know?
+A.	No, I don't have any news of Nzamba, but I don't see him these days.  I believe -- I think he might be dead. 
+Q.	Now, Michel Nyarwaya, did he have any position in the community?
+A.	No.  I don't see him these days; he might be dead. 
+Q.	But back in April 1994, what was his job?
+A.	Do you mean Nyarwaya?  He was the communal policeman. 
+Q.	And the other man you named was Ephrem.  Do you see him about these days?  Do you know what happened to him?
+A.	No, I don't see Ephrem nowadays, either. 
+Q.	Now, the communal ambulance comes to the centre.  Did it stop in any particular place?
+A.	The ambulance stopped above Muhire's house.  If you look at the photograph carefully, you will see Muhire's house. 
+Q.	We'd better give you the opportunity, Madam Witness, to look at that document again.  You've got it in front of you.  And can you indicate -- look at the photographs -- and see if you can find Muhire's house where the ambulance stopped?
+A.	Here.  
+THE ENGLISH INTERPRETER:  
+	The witness is pointing to the house and is specifying that the houses in the middle had not yet been built.
+BY MR. HOOPER:  
+Q.	And if you can pass the booklet up to me, if I can have the booklet.  Thank you.  And you pointed to the -- 
+A.	(No interpretation) 
+Q.	You pointed to the photograph in P. 2 at page 14, the same photograph, and the house is the one that is in the distance and is coloured brown.  And I'm going to ask you to look at another photograph on the next page, photo 3.  And, looking at that, can you indicate on that photograph Muhire's home?
+A.	Yes, I see Muhire's house clearly.
+THE ENGLISH INTERPRETER:   
+	The witness had specified that Muhire's house is brown in colour.
+BY MR. HOOPER:
+Q.	And can you hold the photograph up so we can see? 
+
+And where did the ambulance stop in relation to that?
+A.	The ambulance stopped here (indicates) between Muhire's house and the house next to -- that follows Muhire's house.  The ambulance stopped --
+Q.	So it didn't stay long.  And what kind -- and it was the communal ambulance.  Can you describe that vehicle to us?  What was the communal ambulance; what did it look like, that you can remember?
+A.	It was a blue ambulance, like a public transport vehicle. 
+Q.	Now, over these days leading up to when things got really bad in Ndatemwa, during those days, were you aware, or do you know if any meetings were held at Muhire's home?  Were you aware if any meetings were held there?
+A.	No, I was not aware of any. 
+Q.	If any meetings had been held there during the day, would that be something that you'd know about, or might it be something that you wouldn't learn about?
+A.	If such meetings were held during the day, but I couldn't know of any because no one invited me to any such meetings.  But since I participate in the Gacaca, had such meetings been held, we would have learnt of them through the Gacaca sessions. 
+Q.	And during these days, aside from -- well, let's -- you've dealt with the 12th.  Did anything happen -- what happened on the 13th, the next day?
+A.	On the 13th, when we got up in the morning, there was apparently no problem, but at about 11 a.m. we heard the rumbling of a vehicle coming from Rutongo.  The vehicle stopped -- also stopped at the Ndatemwa centre.  It was a Daihatsu-type vehicle, and on the Daihatsu was a communal policeman, and other refugees who lived in Rutongo who had arrived in 1990.  They were refugees from Ruhengeri.  They arrived at the centre, and that person in the ambulance whose name was Nyirigera, had machetes at the waist.  He spoke to the people who had come to have a drink at the centre, and other people who were wandering around, because no one was undertaking their usual occupations, because we were told that at Gishaka -- at Gishaka and Gasogi people were being killed and that's how Nyirigera spoke to the people at the centre and told them to come with him and he would give them food to eat.  And then he told them he would give them victuals, and the victuals were in Tutsi houses.  
+
+And so he came with the refugees and when the refugees entered the houses they threatened people with their machetes and the grenades that he had, and some members of the population left with him, and destroyed three houses.  And they also destroyed another house that was below the road -- three houses above the road and a fourth house below the road.  I'm speaking of Ndatemwa centre; I'm not speaking of in the countryside.  They entered those houses and began to loot them, and that's why I immediately sought refuge with a local inhabitant who does not live at Ndatemwa centre.
+
+After the looting and pillage of the Ndatemwa centre, they went to other residences.  I believe they went towards three houses and looted those houses also.  And when I arrived at Rucikoma's, they threw a grenade.  There was a military post there at that locality, and the soldiers there shot -- fired in the air and that's why the assailants fled.  They were afraid and left that place.  And that was -- by then, night was falling 
+Q.	And these events, the arrival of the vehicle with the people on it, the invitation to follow the man and get food from Tutsis and the looting, was that something you witnessed yourself, or something you heard from others?
+A.	I was a direct eyewitness, because I went through the centre when I was on my way to seek refuge with the inhabitant I referred to and where I spent the night, moreover. 
+Q.	Now, I'm not going to ask you to give the name of the person you hid with, but if anyone wants to know that name, you're in a position to tell them, or to write it down; is that right?
+A.	I can write the name of that local inhabitant on a piece of paper, if so required.  
+Q.	Well, I'm not going to ask you to do that, but, roughly speaking, how far from your home was that address where you stayed, approximately?
+A.	It was my neighbour, in fact.  I think that between the centre and his house -- I mean the place where the people had stopped, I think it's about 300 yards -- 300 metres from where that person lives and the place where the vehicle stopped. 
+Q.	Yes, right.  And you spent the night there, you tell us -- the night, that is, of the 13th; is that right?
+A.	Quite. 
+Q.	And what happened, if anything, the next day?
+A.	The next day, that is, the 14th of April, very early in the morning, at about 5.30 a.m. we arose and, as I had left with my husband, he wanted to go and check the situation at Ndatemwa centre.  Three minutes after his departure, when he was approaching the entrance, we saw the soldiers, the Inkotanyi soldiers who were coming.  There was also RGF forces posted at Gasabo, and there was firing, so we left that place.  Each one fled as he could, some towards Lac Muhazi and others towards Kayanga.  We were in fact scattered.  No one fled in anyone else's company. 
+Q.	And the Inkotanyi soldiers, did you see them with your own eyes?
+A.	Yes, I saw them. 
+Q.	And where did you flee to?
+A.	I fled towards Lac Muhazi, and three days later we were evacuated to Rutari, where we stayed -- lived until when we returned home. 
+Q.	And when did you return home?
+A.	I returned home on the 23rd of July 1994. 
+Q.	Now, I want to ask you about a man called André Rwamakuba.  Have you ever heard of that man?
+A.	Yes, he was mentioned a long time ago.  When there were political party meetings he was mentioned, but I never physically saw him. 
+Q.	Do you know anything about him?
+A.	No, but it was said that he was a member of the MDR party. 
+Q.	Did you ever hear that it was said that he said bad things about Tutsis?
+A.	No, I never heard anything like that. 
+Q.	I'm going to hand up a photograph, which is of this man, and I'm going to ask you to look at it and, having looked at it -- and I know it's not the first time you've seen the photograph, but I'm going to, for the record, ask you to look at it again, and I want -- it's the photograph shown this morning, which the Judges have seen and the Prosecution has seen and, when it reaches you, I'd like to ask you if you've ever seen that man at all.  
+A.	No, I never saw this person in my life. 
+Q.	Now, did you ever -- have you ever heard of an André Rwamakuba coming to Ndatemwa and, in particular, in the days leading up to the 13th of April?  Did you ever hear of such a thing?
+A.	No, I never heard anyone say that Rwamakuba came to Ndatemwa, and I was present there.  I was at the centre and always there at that time.  If he had come, I would have known of it. 
+Q.	Now, by the 9th of April, so some days before we -- the days we were talking about a moment ago, he was made a minister in the government.  Now, have you ever heard then or in the 11 years since of a minister in the government coming to Ndatemwa at this time?
+A.	No, I never heard anybody say that a minister had come to Ndatemwa centre.  Moreover, I think that the entire population of Ndatemwa don't know him.  I've never heard anyone from Ndatemwa saying that they knew André Rwamakuba. 
+Q.	Do you think he could have come to Ndatemwa in those days and that you, either then or in the 11 years since then, didn't hear about it?
+A.	It is not possible.  The people could not move.  Even the vehicles that came to Ndatemwa centre were communal vehicles carrying policemen.  After President Habyarimana's plane crashed no vehicles came from Kigali to Ndatemwa. 
+Q.	Did you ever see a white motor vehicle -- a white saloon car in Ndatemwa at this time?  About the 10th, 11th or 12th, did you ever see that kind of vehicle?
+A.	No, I never saw that vehicle.  I'm telling you that no one was driving around.  Cars couldn't move around.  We had been instructed, ordered, to stay home. 
+Q.	You mentioned a moment ago that no vehicles came from Kigali or outside the commune.  And is that right; are you sure about that?
+A.	Yes, I do confirm that the only vehicles that came to the centre were those two vehicles I mentioned to you; that is, the ambulance and the Daihatsu car whose owner I did not know.  It was a blue Daihatsu. 
+Q.	Did you ever hear of any distribution of weapons, such as machetes, in Ndatemwa?  Have you ever heard that being alleged?
+A.	Are you referring to the period in question?
+Q.	Yes, the period in question.
+A.	I never heard of any distribution of weapons whatsoever, but during the Gacaca sessions, when weapons used during the war are mentioned, people refer to weapons that each and every one took from their own house.  We were told that there were no new machetes that were distributed in the Ndatemwa centre.  I myself noticed this -- I noticed that there were no new machetes at the centre.  
+Q.	Finally, I just want to pass up a list of names to you, which has been distributed.  And I'm only going to refer to these people, you see, by number and not by name.  I'm not going to name these people in court -- in public court; all right?  And I want to ask you about number 2 -- number 2 -- and his name begins with an "N".  
+A.	Yes, I can see the number 2. 
+Q.	And his name begins with an "N"?  Now, did you notice him about at all during those two or three days before the looting started?
+A.	Since he lives near the Ndatemwa centre, I did not talk to him, but he lives pretty close to the Ndatemwa centre.  I did not see him there, however. 
+Q.	Thank you.  Now, if I can take you to number 3 whose name begins with an "R", and whether you noticed him about during those two or three days before the 14th.
+A.	No, I did not see him.  However, that person used to have a pub at the centre.  The activities of that pub or bar -- that is, the commercial activities -- stopped during that period. 
+Q.	And, finally, number 6 whose name begins with a "G", did you --
+A.	He used to do the same kind of business as the person we mentioned before.  As a matter of fact, they were business partners in the business, and they used to conduct their business in the house I have mentioned.  
+Q.	Did you notice him about in those days prior to the 14th of April?
+A.	Since we had known beforehand that the Tutsis were being hunted down, all the Tutsis made sure they did not reveal themselves in daylight, and on the 13th no one died.  The attackers came to our place rather late.  Actually, we had been warned beforehand, and thanks to that warning we were able to go into hiding and, therefore, to avoid the massacres. 
+Q.	Now, in Gacaca proceedings, or even in general conversations that may have taken place over the last 11 years, have you ever heard any of those three that we've just talked about -- three men -- make any allegation of the presence of André Rwamakuba, or the distribution of machetes in Ndatemwa?
+A.	No, we never heard of that.  However, we did hear over the radio, and the radio said something to the effect that Rwamakuba killed people at Ndatemwa.  This came as a surprise to us, because we knew that nobody was killed at Ndatemwa, with the exception of the two young men who were beaten up and who subsequently died.  But, as I said before, those two young men were beaten up at Ndatemwa and they died at a Kayanga dispensary; they did not die at Ndatemwa. 
+Q.	And when you heard over the radio an allegation that Rwamakuba had killed at Ndatemwa -- an allegation that surprised you -- can you remember approximately when you heard that said on the radio?  When was that?
+A.	I cannot recall the date. 
+Q.	Was it at the time in '94, or was it after that?
+A.	No, that information was disseminated or broadcast over the radio recently during the course of this year, probably in July.  I'm not quite certain about the month, but it is during this year that it was mentioned over the radio that that happened in reference to the events that occurred in 1994.  But, prior to that news or information, we did not hear such information. 
+Q.	And when you say, "We didn't hear such information," who generally do you mean by "we"?
+A.	I'm referring to myself and to my neighbours, the inhabitants of our area.  We take part at Gacaca sessions, and when information is gathered we draw up a list of the victims that died in our locality and, so far, the information that is broadcast over the radio has never been corroborated.  This has never been mentioned when information is being gathered within the framework of the Gacaca court sessions in my cellule.
+Q.	Right.  Thank you very much.  Have you ever been outside Rwanda before coming here to Arusha last week?
+A.	No. 
+MR. HOOPER:  
+	Right.  Now, Madam Witness, if you could just wait there, there may be a few questions for you from my colleague, who appears on the other side of the room here.  I invite you to listen attentively to her questions and reply to her with the courtesy that you've generously shown me this morning.  Thank you very much.
+MR. PRESIDENT:
+Mr. Hooper, do you intend to have the photograph marked for identification? 
+MR. HOOPER:
+Thank you very much.  I'll copy it and we can put the copy in the record.  We'll scan it or do something -- if that's acceptable.  I hope -- it's the only one I've got like that at the moment, so thank you for the -- perhaps I can exhibit it a bit later.
+
+In fact, I've rather sat down prematurely, haven't I.  Essentially, with the Court's leave, we will photocopy the necessary photographs, including those in P.  2, and submit the Defence exhibits relating to this witness -- the ones that she's come into contact with -- as soon as we've prepared that, which will be tomorrow.  I hope that's, though inconvenient, acceptable.
+MR. PRESIDENT:
+Madam Witness, under the rules of our Court, you now have to answer the questions from the Prosecutor, who will now ask you some questions, and you'll have to respond to them.  Do you understand me?
+THE WITNESS:
+Yes, I do.
+MR. PRESIDENT:
+The Prosecutor, Ms. Fall, will now ask you a few questions.  
+MS. FALL:
+Thank you, Mr. President.  I am therefore going to begin my cross-examination.  I think, by the time we break up, I have some 50 minutes if we have to stop at 12.30 p.m.
+CROSS-EXAMINATION
+BY MS. FALL:
+Q.	Good morning -- good afternoon, Madam Witness.  Well, I am from the Prosecutor's office and I'm going to put some questions to you relating to the examination-in-chief that has just been led by Counsel Hooper, and I'd like to thank you beforehand for answering the questions put to you by me.
+
+I am not going to request that we go into closed session, but if I'm not interrupted by the Defence, I'll put my questions to you and when I find myself in the disobliging situation where I may put questions to you that may reveal your identity, I may request for a closed session.  But I hope that we will not do that, and if I put a question to you that may reveal -- whose answer may reveal a person's identity, please do not answer the question.
+
+Madam Witness, I am going to begin exactly where the Defence began by asking you if you can tell us where you used to reside at (By order of the Court, this name has been extracted and filed under seal) in greater detail; in other words, were you at the centre itself, or did you live a little bit out of the centre, and you can say that in general terms. 
+MR. HOOPER:
+I'm sorry to be on my feet so promptly, but there are difficulties of identification.  The witness has indicated on the photograph, and we've all seen where that is, and that's a familiar area and it answers the question, surely.
+MS. FALL:
+In this case I will request that we move into closed session so that I can be more pointed in my questions.
+MR. PRESIDENT:
+Ms. Fall, we would expect that you would group all of your closed session questions in one group so that we will not have to move in and out of closed session during your cross-examination.  How much time do you think you will require in closed session? 
+MS. FALL:
+(Microphone not activated)
+THE ENGLISH INTERPRETER:  
+	Microphone, please.
+MS. FALL:
+I will need five to ten minutes, Mr. President.
+MR. PRESIDENT:
+Okay, thank you very much.  I think we should strike out the name that you put in your question, the name of the location where the witness lives.   We'll just put that under redacted, Mr Registrar, and we will go into closed session now.  For the benefit of the public, this is a public hearing, but there are rules which give protection to the witnesses by concealing their identity.  For that purpose we will go into closed session.  
+
+I think that the closed session will take up the rest of the time we have allocated to this trial, so we will resume in open session tomorrow morning.  We will go into closed session now.
+(At this point in the proceedings, a portion of the transcript [pages 31 to 34] was extracted and sealed under separate cover, as the session was heard in camera) 
+(Pages 22 to 30 by Maureen Dunn)
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Karen Holm and Maureen Dunn, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+
+
+	___________________________	Karen Holm
+
+
+
+	_____________________________	Maureen Dunn
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	MONDAY, 7 NOVEMBER 2005
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page i
+
+	RWAMAKUBA	MONDAY, 7 NOVEMBER 2005
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 16
+
+	RWAMAKUBA		MONDAY, 7 NOVEMBER 2005
+
+MAUREEN DUNN - ICTR - TRIAL CHAMBER III - page 30
+
+	RWAMAKUBA		MONDAY, 7 NOVEMBER 2005
+
+ICTR - TRIAL CHAMBER III
+

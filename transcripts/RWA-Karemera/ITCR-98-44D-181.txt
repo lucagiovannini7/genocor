@@ -1,0 +1,1088 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+THURSDAY, 15 MAY 2008
+0900H
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Ms. Alayne Frankson-Wallace
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	Mr. Moussa Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+
+For the Accused Joseph Nzirorera:
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Lisa D. Smith
+	Ms. Claudette Ask
+	Mr. Joe Reynosa
+	Ms. Sherri Knox
+	
+
+		
+		
+
+
+I N D E X
+
+WITNESSES
+
+For the Defence:
+JEAN-PAUL AKAYESU
+Redirect Examination by Ms. Diagne	5
+
+JEAN-BAPTISTE BUTERA
+Examination-in-chief by Mr. Sow	16
+Cross-Examination by Ms. Frankson-Wallace	32
+
+
+
+
+EXHIBITS
+Exhibit P. 316	2
+Exhibit D. K80	19
+Exhibit P. 317	51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please?
+MR. HOMETOWU: 
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron presiding, Judge Gberdao Gustave Kam, and Judge Vagn Joensen, is now sitting in open session today, Thursday, the 15th of May 2008, for the continuation of the trial in the matter of the Prosecutor vs. Karemera et al., Case No. ICTR-98-44-T.  
+
+Thank you. 
+MR. PRESIDENT: 
+The appearances are the same.  
+
+Good morning, Mr. Witness.  
+THE WITNESS: 
+Good morning, Mr. President.  
+MR. PRESIDENT: 
+Well, your evidence will continue and most likely be completed during the course of this morning.  I remind you that you remain under the same oath to tell the truth that you took when your evidence began.  
+
+And Ms. Diagne will now put questions to you.  
+MR. WEBSTER: 
+Before Ms. Diagne begins, Your Honour, could I admit two documents in evidence?  I can do that at the conclusion of her redirect, if the Court prefers. 
+
+The first document is the portion of the Trial Chamber III judgement.  I have it in English and French.  It's not the entire judgement.  It's the -- it refers to paragraph 12 of the indictment.  And that's the portion of the judgement that I used in my cross-examination.  I have it in English and in French; and also the verdict.  So it's materials that were included in the bundle that was distributed to the parties.  If I could have a number for that?  I believe it's P. 315, but if the registry could confirm.  
+MR. MJUI:
+The document will be P. 316.
+MR. WEBSTER:
+P. 316. 
+MR. PRESIDENT: 
+Admitted. 
+ (Exhibit No. P. 316 admitted) 
+MR. WEBSTER: 
+I have copies here for the registry if they need another copy.  I'd also like to admit the portion of the witness's direct and cross-examination on the 12th of March and the 13th of March, when he was addressing the meeting of the 18th of April 1994.  Those were also included in the bundle.  I have them in English and in French.  And I would seek to have those admitted as well.  That's P. 317A and B. 
+MS. DIAGNE-MBAYE: 
+Excuse me.  Mr. President, with reference to the statements of the witness during his testimony during his trial, I would like to have admitted the document in its entirety, because, as we saw yesterday, the portions had to be pasted together for them to have a meaning, for the Trial Chamber to be able to come to any conclusion as to its contents.  So, with reference to that part, I would request, rather, that the document in its entirety be admitted into evidence. 
+MR. WEBSTER: 
+Actually, what I was suggesting was the entire text that I included in the bundle, which is almost 
+50 pages, I think.  And I would assume that that has enough context so that everything can be appreciated in context. 
+
+I'm not sure what Ms. Diagne is referring to.  If she's referring to the entire direct examination and the entire cross-examination of the witness, I'd have no opposition to that, but I don't think it's necessary.  If she wishes to take time to look at what I've actually proposed and come back to it later, we can do that.  But I would assure the Court and the parties that the entire portion of the transcript that I've included in the bundle should provide adequate context for everything the witness said in regard to the meeting of the 18th of April.  
+MS. DIAGNE-MBAYE: 
+Mr. President, I believe that in order to gain time, what should be retained from what he has just said is that he had no objection to the document being admitted in its entirety into evidence, and I believe we should take him to his word.  
+MR. PRESIDENT: 
+Mr. Webster, although we are concerned about the vast bulk of enforced reading material which we are subjecting ourselves to, we accept that it might be reasonable to enter-- put in the whole document.  
+MR. WEBSTER: 
+Your Honour, when Ms. Diagne refers to the whole document, I'm still not quite sure what she means.  An entire -- 
+MR. PRESIDENT: 
+Okay.  Mr. Webster?  
+MR. WEBSTER: 
+Yes.  
+MR. PRESIDENT: 
+We don't need to discuss that right now. 
+MR. WEBSTER: 
+Okay. 
+MR. PRESIDENT: 
+Perhaps we can come to it after the break?  
+MR. WEBSTER: 
+That's fine. 
+MR. PRESIDENT: 
+And maybe by that time you would have clarified the situation. 
+MS. DIAGNE-MBAYE: 
+Mr. President, I believe that it was obvious that we're talking about the sole and unique document of which he wanted to have admitted a part.  He's saying he does not know which document we're referring to, but we shall broach the issue after the break, as you suggest.  I do find it difficult to understand some of his submissions. 
+
+Mr. President, I would also like to take five minutes of your time, once again, in order to place an issue before you.  This is an issue of crucial importance to my team.  This does not, Mr. President, concern the witness present, but -- and his presence does not disturb us with reference to my submission. 
+
+Mr. President, I wanted to say that, in compliance with your wishes, I have now taken the habit of contacting the registry with a view to solving the issues arising in the conduct of our duty.  And I would like, furthermore, to take this opportunity to thank Mr. Hometowu, who, as always, has really done his level best in order to find a solution to a problem we are up against.  And I would like to outline this to you without further delay.  As you know, Mr. President, we are now in the midst of our Defence case, and we need to disclose continuously, and around the individual of Mr. Édouard Karemera, especially.  
+
+Now, for the last six months, a rule has come into being, saying that when we are in Arusha, we cannot communicate by telephone with our client.  I believe that Counsel Sow did raise this issue, and we agreed that we would talk to the registry in order to find a solution.  Mr. President, I would like to say that the UNDF is still saying that when we are in Arusha, and however urgently we need to communicate with our client, the only possibility we have is to actually go to the detention facility ourselves, and there is no question that we might enter into communication with our client by telephone.  Mr. Hometowu sent a number of messsages and we are still, to date, faced with the same answer. 
+
+Now, Mr. President, what I'd like to say, in a crystal clear manner, is that we do not have the possibility of communicating with our client here in Arusha when we are here.  If there is an emergency, we cannot telephone from our office and get hold of him by telephone at the UNDF.  The last answer that came my way yesterday said that, "Yes, well, you understand we do not have more than 50 telephone lines or telephone booths."  And the only possibility is for us to take a car and go out to the UNDF, out in the boonies, to the UNDF. 
+
+So, Mr. President, this is an obstruction to the exercise of our professional duties.  And we have attempted to resolve this problem via amicable means, and I have also asked to be told what the rule is that imposes such a ridiculous attitude.  And I was not able to -- nobody was able to give me the rule in question.  
+
+And I would like to say, Mr. President, that we are actually living an obstruction in the exercise of our duties.  We are going to have to prepare ourselves for the next session and we have, up to now, remained quiet on the subject of these difficulties.  But I must say that now enough is enough, and myself and my learned friend would like to draw your attention to what is going on now.  And I wanted to do this, Mr. President, before the Trial Chamber during the hearing.  And I thank you.  And I impatiently await your response on the issue, i.e. that a solution might be found to this crucial issue we are up against.  
+MR. PRESIDENT: 
+Thank you.  Ms. Diagne, we will have to -- or, we have decided to ask the registrar to make enquiries and report back to the Chamber on this matter.  We expect we will get a response pretty soon.  
+MS. DIAGNE-MBAYE: 
+Mr. President, I know this is the extreme courtesy on the part of Mr. Hometowu that he did not tell you that, during the entire session, he has been conducting his own investigation and he has been collecting obstinate answers on the part of UNDF.  Maybe other terms should be the basis of such an investigation, because, of course, I am not privy to the secrets of the guards.  
+
+But I say that he really has been doing his level best.  And I do not know how many emails he has sent to the commander and to his second-in-command in order to find answers.  And to my mind, the investigation has already been led.  But if you deem that things still need to be verified, then I accept that, Mr. President.  But, it is, after all, Mr. Édouard Karemera's Defence case, and I am going to go off to Senegal.  And there is a letter penned by your predecessor who says whenever lawyers call, they should be unlimited in duration.  However, all of that is refused today, so we are going to leave.  We are going to be up against the obstructions that are levelled against us in a totally arbitrary manner by the detention facility, and especially those who are in charge there.  So I would like to call your attention to the fact that there are going to be problems.  
+
+And in view of the fact that I've already raised this issue with you, Mr. President, I believe that everybody should take their responsibilities, because I do not believe that it is at all acceptable that obstruction should be raised in the conduct of our duties.  Because, as I said, this is a very crucial point, because we are, after all, in the midst of Édouard Karemera's Defence case.  
+
+Mr. Issa?  I would like your assistance, please, to give to Mr. President the letter penned by Mr. Möse, which ordered that I be able to communicate with my client. 
+MR. PRESIDENT: 
+Ms. Diagne, we implied, by what we said, that we didn't think that this was an appropriate forum to conduct an investigation into your complaint.  We have just told you that we have decided to ask the registry to enquire and report to us.  And I also indicated that we expected to get a report very quickly.  You saw us consult with Mr. Hometowu, to whom you spoke -- about whom you spoke, before taking that decision.  So we will be taking this matter seriously, and you could expect a proper response from us, but we don't think it's the appropriate to conduct that investigation in this forum.  
+MS. DIAGNE-MBAYE: 
+That is not what I was doing, Mr. President.  But in view of the fact that I have not had an exchange with you, I wasn't asking you to lead an investigation here, and I know that this is not the proper forum.  But this is the only place that I can actually address to you, because I can't visit your office or elsewhere, so I was addressing you.  But I know that this is not the correct forum for us to lead the investigation, and I am taking note of what you have said.  And with your leave, we shall continue with the witness.  
+MR. PRESIDENT: 
+Thank you.  Well, we have taken note of your complaint, and we will be acting upon it.  
+MS. DIAGNE-MBAYE: 
+I thank you, once again, Mr. President. 
+JEAN-PAUL AKAYESU
+REDIRECT EXAMINATION
+BY MS. DIAGNE-MBAYE:
+Q.	Good morning, Mr. Akayesu.  
+A.	Good morning, Counsel. 
+Q.	Mr. Akayesu, yesterday we parted company on a rather disagreeable note for you.  And I would like, on behalf of this side of the court, to express our disapproval and apologies for the indescribable attitude of Mr. Prosecutor towards you.  And I would like to reiterate our respect for you, because I confirm what I think of you, subsequent to your testimony, that you are a great gentleman and that you can wipe away your tears, because what has been said here does not even deserve for us to dwell on it.  
+I shall also say to you, Mr. Akayesu, that when addressing the confidentiality of a discussion that I had with you, when I came to visit you in Koulikoro in Mali, you addressed this issue with the Trial Chamber yesterday.  And I would just like to put it to you that we recount the events in a better manner, i.e., as to the way that I contacted you.  I did not have the intention of shocking you.  However, the subject matter is so delicate, and we have come to such a crucial juncture for the Defence case, that I might have seemed, to you, rather brutal.  
+
+So, in view of the fact that you raised this issue with the Trial Chamber yesterday, I shall suggest to you, rather, what I said to you on the first occasion I met you.  And it will be up to you to either confirm or deny this to the Trial Chamber.  
+
+I did, indeed, look at you straight in the eye, and I said to you, "Good morning -- or, good afternoon, Mr. Akayesu.  I am Dior Diagne. I am lead counsel for Mr. Édouard Karemera, and I have come to put one question to you.  To the best of your knowledge, was Mr. Édouard Karemera present, or in attendance, during the meeting of the 18th of April?" 
+
+That is the suggestion that I put to you as to the manner in which I put the question to you.  And I would like you to either confirm or deny this fact to the Trial Chamber.  
+A.	Counsel, I can confirm that what you just said is entirely what happened yesterday.  I apologise.  I should maybe have said this with your permission.  However, this came to light spontaneously, and I felt that I needed to tell the Trial Chamber this fact.  Otherwise, believe you me, that is, indeed, what you sent to me.  So, I can confirm what you said, Counsel. 
+Q.	I thank you, Witness.  
+
+Mr. Akayesu, it seems that yesterday it was held against you that you did not spontaneously mention the fact, or you might have forgotten to mention the fact or the presence of ministers, such as 
+Dr. Straton, whose family name I cannot recall; the minister Jérôme Bicamumpaka, and another minister, called Jean De Dieu -- if my memory serves me correctly -- Habineza. 
+
+And I would like you to tell the Trial Chamber whether these ministers of the interim government, who had just been appointed, were of the same notoriety as the individuals such as Joseph Nzirorera, Édouard Karemera or Mathieu Ngirumpatse. 
+A.	I thank you, Counsel.  Now, of course, as regards each new minister, one had to really glean information as to who he was, where he comes from.  
+
+If you take the example of the doctor, Dr. Straton, I was told that he was specialised in -- I forget the term.  But when - yes, he's an anesthetist.  I believe that he was an anesthetist, who had, I believe, practiced in a university hospital.  And he had never appeared on the political scene.  He cannot be compared, as you say, to Édouard Karemera, who lived in the capital; or, one cannot compare him to Mathieu or to Joseph Nzirorera, because Straton is somebody who hails from an area that is not so well-known as Kigali, and he does not have the same notoriety.  And when such a person comes to the fore, one attempts to glean information as to who he is. 
+
+Now, we also made mention of Jérôme, because Jérôme was from the same political party.  But what I do not want to do is to tell the Trial Chamber that I knew him.  I did not know him.  I had heard speak of him.  But I would not go so far as to say that I knew him.  And this was the problem even yesterday.  And even when I was at the UNDF, I was told that he was a tradesman somewhere in Kigali.  And I heard -- or, learned this fact in Arusha.  
+
+So, to say that he was as well-known as the three accused, well, no.  And the same applies to 
+Jean De Dieu Habineza.  I do not know whether I said this yesterday or not, but when I was arrested in Zambia, I was arrested with Jean De Dieu Habineza, who was a minister.  He was released; I remained.  And I thought to myself, "Well, who is he?"  And I was told that he allegedly worked in the Banque commerciale du Rwanda, the Rwanda's Commercial Bank, or something like that.  And, as you say, Counsel, he was not of the same notoriety of the individuals whom you have made mention of, and I can confirm that fact.  
+Q.	I thank you.  You were also told that Ruzindana Nyamabuye (phonetic) bourgmestre -- if my memory serves me correctly -- had called to testify the minister, Minister Karemera -- and I appreciated what you had to say, because the first issue at hand was that he said that Minister Karemera, and you pointed out the fact that he was not a minister.  However, did you know that he also went so far as to say to the investigators that Mr. Karemera was the minister for education, that is to say, on the occasion of the meeting of April 18?  Did you come to know that fact, i.e., that that is what he stated?  
+A.	No, I did not know that fact.  And I do not imagine that, because he was referred to as Witness R, as far as I was concerned, and I cannot imagine this bourgmestre, that is to say, Witness R, saying that Édouard Karemera, on the 18th of April, was the minister for primary education.  
+
+This is -- well, I believe that in his mind, something else was happening.  If he -- does he want to have this admitted as a fact or a truth?  This just surprises me, Counsel.  
+Q.	Witness -- Mr. Akayesu, do you know that the statements put before you yesterday, that is to say, the statements of *********************, are totally at odds with those of the Witness FH in our trial, and Witness R in your trial for -- with regard to the two individuals who took part in the very same meeting?  
+A.	Counsel -- I haven't quite followed what you just said, Counsel.  Could you be a little more clear on the subject?  
+Q.	Yes, Witness, I will.  
+Yesterday, I was saying to you that -- were put before you, the statements of both ******************* and the statement of Witness FH.  And I was just explaining to you that Witness FH, in this very trial, is Witness R, for Romeo, in your trial.  Do you see to whom we are referring? 
+A.	Yes. 
+Q.	And my question to you is:  With regard to what was said yesterday, those same two witnesses who testified gave versions that were totally at odds with each other with reference to the very same meeting of the 18th of April.
+THE ENGLISH INTERPRETER:
+Mr. President, the pause is not being observed.  The interpreters cannot follow. 
+MR. PRESIDENT: 
+Did you get that?  The interpreters request a pause between question and answer so they can complete their translation. 
+MR. WEBSTER: 
+I'm also raising an objection to the form of the question, Your Honour.  Ms. Diagne seems to be conducting a cross-examination rather than a redirect.  Her last series of questions, she has been providing information to the witness, and she has been providing it incorrectly.  So I'd ask her to rephrase her questions with the mode of interrogation of redirect, and that, if she's referring to prior testimony, to provide a reference so that we can examine it.  
+MS. DIAGNE-MBAYE: 
+Mr. President, you will notice that during my examination-in-chief yesterday, I did not go into all the details which had been given by the Prosecutor; for, multiplied by two, in his cross-examination, the time I took in examination-in-chief. 
+
+Only this morning, Mr. President, he, once again, wanted to enter into evidence dodgey documents.  And when we objected yesterday, we were explained that we had the latitude of establishing facts 
+first -- later during our re-examination.  Those details, given to the witness by the Prosecution, were dubious, so now I'm dealing with them in my re-examination.  So I am seeking your leave to proceed.  
+MR. PRESIDENT: 
+Ms. Diagne, I did not understand that there was an objection to the subject matter of your enquiry.  I thought that there was a request for a reference to the documents that you're going to refer to so they could be verified.  And there was a suggestion that your -- the content of your question contained inaccurate information.  But I don't think there's an objection to the subject matter of the enquiry.  
+MS. DIAGNE-MBAYE: 
+Thank you, Mr. President, but I did not hear "documents" being sought from me.  In any case, I'm just recalling what the Prosecutor said.  The Prosecutor, himself, says he made those comments in respect of the witnesses who had come here.  And I will comply with your instructions, Mr. President.  And now I seek your leave to proceed with my redirect.  
+MR. PRESIDENT: 
+You may proceed.  
+MS. DIAGNE-MBAYE: 
+Thank you.  
+BY MS. DIAGNE-MBAYE:
+Q.	Mr. Akayesu, yesterday mention was also made of certain things.  Now, I'd like to ask you:  Do you know that ************** was the person who personally summoned people -- or, convened people to the meeting; but do you know that the same person, **********, told this very Trial Chamber that there were no members of clergy at the meeting held in the morning of the 18th of April?  I made him repeat his answer and he stood by his answer that there were no members of the clergy at the meeting held in the morning. 
+
+I'm telling you this because yesterday the Prosecutor showed you a statement -- or, rather, your statement from the same ********************, and in that statement, it's clearly mentioned that there were members of the clergy at that meeting on the morning of the 18th.  
+MR. WEBSTER: 
+Your Honour, once again, I'm making an objection to the form of the question.  Ms. Diagne is putting propositions to the witness in a very lengthy manner, and actually providing him with the information she's asking him to confirm, which is not a proper way to conduct a redirect.  
+MR. PRESIDENT: 
+Mr. Webster, I, myself, don't quite follow this.  If she's dealing with something you put in cross-examination and she wants to ask about it, how else would she ask about it?  
+MR. WEBSTER: 
+She is summarising the witness's -- and here I'm referring to ************ -- testimony from a previous court session and asking the witness to confirm that, "Isn't that what ************ said?"  How would the witness know that?  And she's giving him all the information that she's asking him to confirm.  That's not redirect.  
+MS. DIAGNE-MBAYE: 
+Mr. President, it's not ************ testimony in another case.  It's his testimony in our case.  And yesterday what I did not do in my examination-in-chief is something the Prosecutor did in his cross-examination by showing the witness ************ statements, or comments, or testimony. So all I'm saying is asking him -- asking the witness to tell the Trial Chamber whether he knows about those things, and also clarify, before this Trial Chamber somehow, **************** position.  
+MR. PRESIDENT: 
+Yeah.  Ms. Diagne, we think that this would be a proper line of re-examination.  But the question is:  Is it necessary?  Because, didn't the Prosecutor, himself, show that there was a difference between *************** testimony and the prior statement he had made?  
+
+Is there an additional point that you wanted to make?  
+MS. DIAGNE-MBAYE: 
+Mr. President, generally, we do not know what the Trial Chamber has noticed in the proceedings, or otherwise.  So when you tell me what you have told me, I'll proceed, because that is really our aim, to move forward and to show the contradictory nature of **************** testimony.  I'll move on, Mr. President.  
+BY MS. DIAGNE-MBAYE:
+Q.	Mr. Akayesu.  Mr. Akayesu?  
+A.	Yes, Counsel.  
+Q.	Today, do you consider that you're in a desperate situation and that your life is meaningless?  Do you think you don't have a clear conscience today?  
+A.	Counsel, I would like to tell you that, first and foremost, I am a Christian.  I am a believer.  When I came to Arusha, I came to know the -- some security officers who used to greet me.  And I remember that I told some of those security guards that I'm at ease; my conscience is clear because I have not harmed anyone.  And that is what makes me love.  And people say, "You're still the same."  I have nothing to blame myself for, nothing at all. 
+
+I did good things, but evil has pursued me.  So I think no one can allow himself to speculate things in that regard, because I am at ease.  Counsel, you have not read what someone said, that from the outset, no one is -- is free from potential imprisonment.  That means that everyone is a potential candidate for imprisonment.  And as a believer, I have faith in my soul.  I have a clear conscience in my faith, and that is what is making me love.  
+
+I would not like to speculate about things, but what is happening around me, everything that is happening around me is something that cannot be believed by everyone.  I don't want to compel anyone to believe me.  But I'm loving, and I'm loving in peace with my own conscience, because I know what happened.  I know what I did.  If I did something bad, I would know about it.  If I did something good, then I know about it.  
+Q.	Thank you, Mr. Witness.  
+
+Mr. Witness, I'm asking you this question in my redirect, because that is what the Prosecutor told you yesterday.  And I was really annoyingly astonished by the poverty of his argument, and I was seduced by the beauty of your words when you said, "Even in death prospects exist."  I wonder whether he understood those beautiful words, that beautiful sentence.  
+
+And, Mr. Witness, on my part, I would like the last -- that to be the last word, because I know you're the first person to be convicted by this Tribunal.  I know that was in 1998 and that was ten years ago.  And I know that since then, we have had a succession of developments, and I know that prospect is the future, Mr. Witness.  
+MR. WEBSTER: 
+Your Honour, is this a question or is this a speech that Defence counsel is giving at this point?  
+MS. DIAGNE-MBAYE: 
+Mr. President, if what the Prosecutor said yesterday was a question, then what I am saying now is a question.  What the Prosecutor told Mr. Akayesu for five minutes, if that was a speech, then I too am delivering a speech.  Or, this is not allowed?  The fact remains, Mr. President, that I'm in the proper path and scope of the cross-examination.  And I think that re-examination was established in -- established in order to elicit clarification in respect of obscure words pronounced during the cross-examination phase.  
+
+Yesterday, no one interrupted the Prosecutor when he made -- he launched his long tirade against the witness.  Therefore, Mr. President, I would like to allow the witness to be able to specify matters -- or, rather, give answers which he -- answers which he did not give to the Prosecutor's question because of the tearful state in which he was.  Therefore, after the Prosecutor's cross-examination, I think we should not prevent him from answering what was raised.  And, therefore, that is why, Mr. President, I seek your leave to proceed.  
+THE WITNESS: 
+I'm not in a desperate situation.  I'm not a desperate case.  I'm living.  One can live in misery, but I'm still living.  Between myself and someone who came to make lies -- accusations which are lies, who has a bad conscience?  Me or him?  I think it's him, the person who lied in his accusations.  He's the one who does not have a clean conscience.  Unfortunately, in trials you do not have machines or ways of certainly ascertaining that what such and such person said is the truth or otherwise, other than the person himself.  That is why it's the conscience which stirs someone.  As long as your conscience doesn't -- as long as you have a clean conscience, clear conscience, then you're at ease.  And that's my case. 
+BY MS. DIAGNE-MBAYE:
+Q.	Thank you, Mr. Witness.  
+
+When the Prosecutor interrupted me, I was in the process of telling you that I was on my last word.  And I'm begging you to dry your tears, because for quite some time now, we have started to know how witnesses making accusations against you were trained to come here and lie and make accusations against you.  That is why you don't have to cry.  
+
+And my very, very last question to you, Mr. Witness, is:  Mr. Witness, do you think that -- 
+MR. WEBSTER: 
+Your Honour, I'm asking the Court to intervene and to direct the Defence counsel to ask questions, as opposed to making speeches.  
+BY MS. DIAGNE-MBAYE:
+Q.	Mr. Witness?  Mr. Witness?  Mr. Akayesu?  
+A.	Yes, I can hear you, Counsel.  
+Q.	Could you please look at me, sir?  
+A.	Yes, I can see you on the screen here.  
+Q.	Mr. Akayesu, in your opinion, do you think that the history of this Tribunal will one day be rewritten, particularly, regarding your case?
+MR. PRESIDENT: 
+I don't think that's a proper question to ask this witness to comment on in this trial.  
+MS. DIAGNE-MBAYE: 
+Mr. President, when the Prosecutor said yesterday that the witness had sunk, he was desperate, he had no prospect, and he had come here to assist other desperate people who would join him, I was extremely and sincerely shocked.  Those comments were made by the Prosecutor.  Those comments were not asked to be withdrawn, Mr. President.  
+MR. PRESIDENT: 
+Ms. Diagne, let's deal with the case first.  Do you have any further questions of the witness?  
+MS. DIAGNE-MBAYE: 
+Mr. President, I had said that that was the very last question.  If you do not allow me to receive an answer, I would be very frustrated, because Mr. Akayesu is in tears.  And I repeat that I -- you are the one controlling the proceedings, Mr. President.  And, therefore, if you deem that it's not necessary to hear the answer, which is dear to me, then I'd like to thank you and thank the witness and sit down, if that's your decision.  
+MR. PRESIDENT: 
+The Chamber considers that there are certain issues concerning the management of the trial, which we would like to discuss, but we think it's a matter which we should do in closed circuit and should not be exposed to the public in general.  So we'll go into a closed session now for about 15 minutes.  
+(At this point in the proceedings, a portion of the transcript [pages 13 to 14] was extracted and sealed under separate cover, as the session was heard in camera).
+	(Pages 1 to 12 by Lisa Smith)
+
+
+
+
+
+MR. PRESIDENT: 
+Mr. Witness, your testimony before the trial has come to an end.  And, as we do to every witness appearing before us, we thank you for assisting the work of the Tribunal.  Now you are excused. 
+MS. DIAGNE-MBAYE: 
+Mr. President, I just wanted to request your authorisation that this witness be able to greet his former co-detainees, with whom he lived for many years before being transferred to Mali.  
+MR. PRESIDENT: 
+Permission is granted.  And we ask the registrar to make the arrangements.
+THE WITNESS: 
+I thank you, Mr. President.
+(Witness entered courtroom) 
+MR. PRESIDENT: 
+Good morning, Mr. Witness.  
+THE WITNESS: 
+Good morning, Mr. President.  
+MR. PRESIDENT: 
+Mr. Witness, you are about to give your testimony.  There is a preliminary requirement that you should take an oath, or make a declaration, to tell the truth, and the registrar will now administer that to you. 
+(Declaration made by Witness Jean-Baptiste Butera in French) 
+MR. PRESIDENT: 
+Thank you.  You will give your testimony by responding to questions put to you by the lawyers designated for that purpose.  And you'll respond, first of all, to lawyers representing Édouard Karemera.  
+MR. SOW: 
+Good morning, Mr. President.  Good morning, Your Honours.  
+
+Mr. President, before I commence, I would like to inform you that the witness would like to testify openly.  So, I would request that the Trial Chamber put the relevant questions to him.  
+MR. PRESIDENT: 
+Mr. Witness, you are aware that the Trial Chamber made an order for your protection, and that an element of that was that your identity should not be revealed during your testimony.  Counsel has suggested that you have -- that your position has now changed and you think that such an order is not necessary.  
+
+Could you explain your position, please?  
+THE WITNESS: 
+I can reconfirm that fact to you, Mr. President.  
+
+MR. PRESIDENT: 
+In those circumstances, we revoke the application of the protection order in relation to this witness.  
+MR. SOW: 
+I thank you, Mr. President.  
+
+Mr. Issa, I would like to request your assistance in order to circulate the identity sheet, which you will then give to the witness in order for him to check whether the information contained therein is correct, and if so, that he then append his signature and date the document.
+
+In view of the fact you're testifying openly, Mr. Witness, I'm going to put a few questions to you as to your identity in order to enable the public gallery to know who you are.  
+
+I would also like to inform the Prosecutor that my examination-in-chief will last, at the most, an hour and a quarter in order for him to be able to make his arrangements, because we are not in the habit of ambushing the opposition.  
+JEAN-BAPTISTE BUTERA,
+first having duly been sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF 
+BY MR. SOW:
+Q.	Mr. Witness, could you please provide us with your first name, your family name, and your date and place of birth, please?  
+A.	Yes, Counsel.  My name is Jean-Baptiste Butera.  I was born in Rwinkavu in Kayonza commune in Rwanda.  And, for the time being, I am residing in Belgium.  
+Q.	I thank you, Mr. Witness.  I would like to apologise to you, because earlier I did not greet you.  However, it's never too late to make amends.  And I would like to say, "Good morning," Witness.  
+A.	Good morning, Counsel. 
+Q.	Could you please tell us the names of your father? 
+A.	My father, who is unfortunately deceased, is called Ildephonse Rwesingimibi.  
+THE ENGLISH INTERPRETER:
+Mr. President, the interpreter believes that the spellings would be necessary.
+BY MR. SOW:
+Q.	Mr. Witness, I would also --
+MR. PRESIDENT: 
+Please, Mr. Sow, we have requested that the spellings of the names are provided by the witness.  
+THE ENGLISH INTERPRETER:
+And, Mr. President, also the place of birth, please, which was unclear.  Thank you. 
+MR. PRESIDENT: 
+And the place of birth.  Maybe the distribution of the information sheet, if you have copies, would assist.  If there are no extra copies, the witness can just spell the names.  
+MR. SOW: 
+Mr. President, I believe that you are reading my thoughts, because I was just about to ask the witness to spell out the names.  However, I do have some further sheets, and I would like to request that Mr. Issa come and take them from me and circulate them.  
+BY MR. SOW:
+Q.	Mr. Witness, there are certain measures that I should point out to you.  Every time you give a name, a proper name in Kinyarwanda, please spell it to us in order for the correct transcription to be provided.  Mr. Issa will be able to give you a blank sheet of paper so that before spelling the names, you can write them down on a piece of paper.  
+
+As for the second measure, in view of the fact we're both speaking the French language, every time I put a question to you, please observe a pause before answering in order to allow the interpreters to interpret properly.  And you also, when you answer, I will observe a pause in order to allow the interpreters to do likewise.  I would also request that you speak at a levelly pace in order for everything that you have to say to be correctly recorded.  
+
+Did you understand me, Witness? 
+A.	Yes, I have understood you, Counsel.  
+Q.	Mr. Witness, could you please spell your name -- in fact, I shall spell it.  Butera, B-U-T-E-R-A.  
+
+Could you please spell your father's name?  
+A.	His name was Mr. Rwesingimbi, R-W-E-S-I-N-G-I-M-B-I.  
+MR. PRESIDENT: 
+Mr. Sow, it is not necessary to spell the names that are written on the sheet, because the reporters have access to them.  
+THE ENGLISH INTERPRETER:
+Microphone please, Counsel. 
+MR. SOW: 
+Yes, you are right in so saying, Mr. President.  
+BY MR. SOW:
+Q.	Mr. Butera, did you lose any members of your family during the events of 1994?  
+A.	Yes, Mr. Sow, I did, indeed, lose members of my family during that tragic period of Rwandan history.  
+(Pages 15 to 17 by Lisa Smith)
+
+
+	1020H
+BY MR. SOW:  
+Q.	Do you still have relatives in Rwanda? 
+A.	My mother is still alive there.  
+Q.	Mr. Butera, please drink some water, if you like.  
+A.	Yes, thank you.  I already have drunk some water.  
+Q.	May I continue? 
+A.	Yes.  I thank you.  
+Q.	Mr. Butera, are you afraid for your security or that of the members of your family? 
+A.	Yes, I am afraid for my safety because I have certain deponents in my country with reference to the current regime in Kigali, and I am currently active on the side of the Rwandan opposition outside of the country.  So, yes, that is why, of course, I am afraid for my safety, were I to go to Kigali. 
+Q.	With reference to your educational background, can you tell us, please, what was the highest diploma you obtained? 
+A.	Well, all diplomas are important, whatever level they may be at, because even when one has a secondary school diploma, one can gain access to a university.  But, in response to your question, Counsel, I am a doctor by trade.  I was trained in Russia, Moscow.  And I am also a psychiatrist trained at Louvain University.  I am also a psychotherapist trained in the Louvain University in -- at the level of research.  So I practice psychiatry and psychotherapy. 
+Q.	And when did you start practicing as a doctor? 
+A.	Well, when I received my doctor's degree in 1980. 
+Q.	And as a doctor, have you always practiced? 
+A.	Yes, I practiced as a psychiatrist, so I was a doctor in Rwanda at the psychiatric hospital in Ndera from 1982 until 1992.  And, subsequently, I was the director of the National Programme for the Struggle Against AIDS for the AIDS control programme from 1992 until 1994.  And, currently, I am practicing in Belgium. 
+Q.	Where were you on the 6th of April 1994? 
+A.	Well, Counsel, as you said, I think you are going a little bit hastily.  But, in answer to your question, on the 6th of April, in the morning, I was in the Rwandan television premises where, in the company of my co-worker, Karake Claver, who, unfortunately, is deceased -- he died on the morning of the 8th.  So, I was working with him on a film in order to sensitise people to the issue of AIDS.  And when we finished that morning, we went to have a drink and have something to eat in Remera.  
+
+Now, in the afternoon I was left to my own devices, so I told my co-worker that our day was over, that we had done some good work, and my driver dropped me off at home and dropped my co-worker off at his house.  I rested.  And I asked my driver, as soon as he had dropped my friend off, to go and pick up my wife.  So I took my afternoon sleep until 8 o'clock, 8:30, and I was awoken by the missiles that were shot at the plane, because I lived opposite the airport, and you could see everything from there.  So that is my day of the 6th of April, Counsel. 
+Q.	Mr. Witness, I will request that you look at the sheet whilst you gather yourself.  
+MR. SOW:
+And I will request, Mr. President, that we now take our mid-morning recess.  
+BY MR. SOW:
+Q.	And once you have finished looking at the sheet, then I will be able to request for it to be admitted into evidence.  
+MR. PRESIDENT:
+Yes, we will take the mid-morning recess now. 
+	(Court recessed from 1035H to 1100H)
+MR. PRESIDENT:
+You may continue, Mr. Sow.  
+MR. SOW:
+Thank you, Mr. President.  
+BY MR. SOW:
+Q.	Mr. Witness, have you looked at the personal identification sheet?  Have you put today's date on it and signed it? 
+A.	Yes, I have dated it and signed it.  
+MR. SOW:
+Mr. Issa, could you please get the identification sheet from the witness?
+
+Mr. President, I would like to apply for the admission into evidence of this identification sheet as
+	Exhibit D. K80.
+MR. MJUI:
+It's Exhibit D. K80, Mr. President.  Your Honour, I confirm that the document will be D. K80.  Thank you.  
+MR. PRESIDENT:
+Thank you.  Admitted.
+	(Exhibit No. D. K80 admitted)
+MR. SOW:
+Thank you, Mr. President.  
+BY MR. SOW:
+Q.	Mr. Witness, when we adjourned we were talking about the night of the 6th of April when you heard the sound of the president's aeroplane falling.  I would like to ask you -- you said that you were at home at that time.  After the plane crash, what happened?  What did you hear the minutes after the crash? 
+A.	Counsel, what I wanted to say is that I was home at that time.  I had -- I was taking a nap, a late nap.  And then, all of a sudden, I heard a series of explosions; the first explosion, followed by a second explosion.  And I heard one of my two watchmen say that there's an aeroplane which has caught fire.  
+
+	So, I got out of my room, and I went to the veranda.  I had a story house, so I saw a ball of flame.  And, since I lived opposite the Kanombe Airport and opposite the residence of the late President Habyarimana's residence, I saw the ball of flame.  And there was consternation for some time.  And a short time later, we started hearing gunshots.  
+
+And I lived in Remera at that time so, in the sky, we would see bullets and shells flying over, you know, from and to Kanombe and Kacyiru.  That is what I saw.  My wife was preparing food for visitors, who were supposed to come the following day.  So I told her that we should remain indoors, go to bed, and we should just listen to the radio. 
+Q.	Following that serious incident, were there people who came to seek refuge at your place? 
+A.	No, not in the same evening.  But some people came on the following day, that is, on the 7th.  As I said, I was living on a raised area opposite Kanombe.  We heard gunshots and explosions.  So, even from our side, some people had started fleeing from Remera near the Amahoro stadium.  Those people were fleeing from fighting, because fighting had already started.  And there were people who abandoned their homes and started coming downwards, and they came to my house and my neighbour's house.  So that was during the 7th.  And by the 8th, at my home and my neighbour's home, there were about 70 people.  
+Q.	Those who were at your home, were they members of all ethnic groups, Tutsis and Hutus? 
+A.	As I said, you know, these were people I knew.  They were both Hutus and Tutsis.  There were even Europeans who came there. 
+Q.	Thank you.  Doctor, could you please tell us, when did you leave your home? 
+A.	I left my home in the afternoon of the 8th, because fighting was getting closer to my house.  And, just like people I was accommodating, it was my turn to flee my home because the situation was getting very dangerous.  So I went to Kibungo, which is my native area, since I thought there was no way for me to go to Kigali.  So I took the road to Kibungo, although it was a bit farther away. 
+Q.	Prior to April 1994, to which party did you belong? 
+A.	Prior to April 1994, I was the chairman of the Rwandan environmentalist party, PECO, P-E-C-O, a party which I had founded, together with other friends interested in ecology or in the environment.  I had formed the party with doctors, agricultural officers, lawyers.  And we founded our party in 1991, and our party was registered in October 1991. 
+Q.	What were the objectives of the environmental party? 
+A.	First and foremost, our objective was to deal with environmental and ecological issues with the specific purpose of providing better health to the population.  In other words, you need a good environment for better health for the people. 
+Q.	Was recruitment to your party carried out on an ethnic basis? 
+A.	No, not at all.  In fact, the idea, which was -- the idea was to found a party, and we founded a party together with friends who were Tutsis and Hutus who had common interests.  We started with friends, and then anyone who wished to join us was welcome. 
+Q.	Dr. Butera, can you tell us whether your party was independent from other political parties? 
+A.	Yes.  When we established the party, our specific objective was to have total independence, particularly since the time of its inception.  We did not think that one day we could have a majority in parliament because we knew that there were bigger parties with long experience.  But when we founded our party, we said that we have to have seats in parliament so that we could put forward our environmental programme and people's health programme.  So our party was totally independent from other political parties. 
+Q.	Dr. Butera, we heard rumours, not, say, gossip, that you are just a child of MRND, your party is a child of MRND.  
+A.	Those rumours were a part of political strategy of intimidation on the part of certain parties, which I do not wish to name here.  But you know very well that in a democracy, in the margins, there are things which are, indeed, odd parties, like PECO and other parties, to be called babies or children.  That was a strategy aimed at hampering our recruitment drive for members. 
+Q.	Dr. Butera, have you ever been convicted? 
+A.	No, never in my life, and I hope never to be. 
+Q.	Are you the object of any criminal proceedings? 
+A.	None whatsoever. 
+Q.	What is your status in your current country of residence? 
+A.	I am a resident in Belgium, and I am of Belgian nationality. 
+Q.	In the past, Doctor, were you not the object of harassment, of threats or of serious accusations levelled against your person? 
+A.	Yes, I was the object of slander or libel by individuals or associations which had their objectives and which wanted, at all costs, to harm intellectuals, especially, and also those people who might be able to gain employment, because the object of this slander was to stop me from getting employment.  But I had to take things seriously, and I lodged a complaint, and there is still a dossier outstanding with the appeals court against the newspaper which slandered me. 
+Q.	Dr. Butera, could you tell us in a very succinct manner the accusations levelled against your person and the answers which you yourself had to provide? 
+A.	Well, let us say that the accusations are without any basis whatsoever.  These are documents that were prepared beforehand, put into the hands of journalists, who then published without verifying the truth of these accusations.  And I could go so far as to say that one of the articles that was published by a daily said in the title, "A Doctor Who Liked Weapons."  And, of course, you can see what this means for a doctor working in a hospital.  
+
+	And this accusation was based on the fact that in the year 1992 or 1993, as chairman of the party, I had made a request for a loan for -- I had made a request for the loan of weapons, in order to protect my person, from the ministry of defence.  And the minister, Mr. James Gasana, had given me the loan of these weapons.  He had signed the document.  And I was supposed to then give this paper back to him once the situation became peaceful.  And this piece of paper, which was duly signed, gave over to me a small calibre pistol.  But, apparently, these archives from the ministry of defence fell into the hands of those people who could only do harm to people, even people they did not know.  
+
+And this is how I, in the morning, saw a title in a newspaper, "A Doctor Who Loved Weapons."  And, of course, you can imagine the rest.  But this is just to say that this was really -- that this came out of something completely banal.  And it shows that the security services of a given country, which provides the protection of certain personalities, well, then, when they cannot fulfill this duty, then it is the right of each and every individual to request the loan of a weapon.  Because it was a loan, after all. 
+Q.	I thank you, Doctor.  Doctor, can you tell the Trial Chamber whether you know Édouard Karemera? 
+A.	Yes, Counsel, I do, indeed, know Édouard Karemera. 
+Q.	And how long have you known him for? 
+A.	I've known him since I returned from my period of study, when I took up my position in my country.  He was a person who was well known to the services of the state.  He held an office of importance within a ministry. 
+Q.	Was Mr. Édouard Karemera for you a political ally or a political adversary? 
+A.	I would say that before the year 1991 -- because you know that before the advent of multiparty politics in Rwanda, we were all a member of the MRND party.  And at that moment in time, everyone was a member, all ethnic origins.  However, when multiparty politics came into existence, there 
+	were -- different political parties came into being.  And the first I can tell you about which was recognised initially was the PDC by Mr. Nzira, and the MDR and the other political parties followed.  
+
+However, I also wanted to underline the fact that all those people were members of the MRND beforehand.  However, from the moment in time where each and every one of them had taken the decision to found their own party or become a member of another party, there was no longer any question of giving people any presence.  And I was his political adversary, as he was mine. 
+Q.	Dr. Butera, can you tell us the role occupied by Édouard Karemera in the institution of multiparty politics? 
+A.	Mr. Édouard Karemera, well, I can tell you that in Rwanda he had the nickname of Rukusanya, which is -- to translate, this is somebody who knows how to gather the ideas of individuals and bring something good and serious and palpable out of it, and that's why he had that nickname.  
+
+So I remember that when the president of the republic decided to open the way to multiparty politics, he, I believe it was on the 1st of July, 1987 -- yes, I remember that date well because I had just come back from following my specialist study programme -- and after the speech by the president, he had told Mr. Karemera that he was going to be chairing the synthesis committee that was to prepare the way for multiparty politics.  
+
+Now, Mr. Karemera, with other members who had been chosen, did a remarkable job, which, of course, enabled us to move towards the era of multiparty politics.  And I can really salute him as to the wonderful work he did.  
+
+Now, the members of the committee, there were also people from the legal profession -- there were doctors.  There were farmers, if you like.  And there was a farmer from Gitarama, I remember, who was there.  There were people from all ethnic origins.  There were bishops.  And the work which came out of that committee was really quite remarkable.  Karemera was really the person who opened up the way to the work of this committee. 
+Q.	Now, Dr. Butera, this individual we referred to as Rukosanya is accused of extermination of Tutsis before this Court.  And I would like to ask you whether you have heard, at least on one occasion, Mr. Édouard Karemera supporting the idea of Tutsi extermination, whether it be during rallies, whether it be over the radio, or even within a document you might have read.
+A.	Never.  I have never heard this, even if I did not take part in their political rallies.  However, in the speeches aired over the national radio, I never heard Édouard Karemera utter such words, even from other people who took the floor during these rallies. 
+Q.	Witness, is it possible that one day somebody, during a discussion with you, might have said to you, "Well, you know, Édouard Karemera really is somebody who is championing the cause of the extermination of the Tutsis"? 
+A.	Well, Counsel, I'm sorry to be snickering somewhat.  But in a situation and a catastrophe that we lived through in our country, well, it is sometimes difficult to imagine that people can actually ask questions of such a type.  
+
+I gave you the example of my co-worker and friend who -- with whom I was at the radio on the 6th.  And I told you that he was a member of my party.  He was a Tutsi.  And he was killed on the 8th.  Do you believe that there are people who can actually sit down and say such things?
+Q.	Mr. Witness, please, gather yourself.  I know that these are hard moments to live through.  But in order to shed light on things, I am afraid I have to put these questions to you.  I'm sorry.
+A.	Yes, Counsel, I do understand.  But this is just to say that I never heard people speak of this, because even with reference to those people with whom Karemera worked -- because I also tried to recruit from amongst those people I knew well -- well, there were lots of people who were Tutsis in his party.  Within his committee, I can also give the name of the late Maharangiri, Augustin, who was one of my friends and who was a member of another party, but he did work with him in the synthesis committee.  And I can give you many other names, people in Kigali today, people who were a member of his party.  
+
+His party was accommodated in the premises of a respectable individual, a Tutsi, a businessman who had a house not far away, close to the ministry, and he was a member of the same party.  So, to say that he could have uttered words of this ilk, words of a savage nature, well, never, never. 
+Q.	I thank you, Doctor.  Your political party, the PECO, did your political party enter into an alliance with the MRND in the 1990s? 
+A.	No.  As I told you, before the year 1991, the single party in existence was the MRND, and everyone was a member.  However, with the advent of multiparty politics in the year 1991, with the reformed version of the MRND party, yes, there was a degree of consultation between the two, which I can explain in a succinct manner in the following way: 
+
+In December of the year 1991, an invitation from the president of the republic was sent to nine officially recognised parties, who held a meeting at the Hotel Rebero in Kigali in order to set up the first multiparty politics government, that is to say, the transitional government, whilst waiting for the integration of the Rwandan Patriotic Front within the government itself.  And it was during this meeting that of the nine political parties there was a disagreement with reference to two principal issues, which meant that four of the parties had to leave the meeting chaired by the president of the republic -- I'm sorry to use this term -- saying that the president did not want there to be a multiparty political government set up.  
+
+Now, the discussion was with reference to the appointment of the prime minister.  So the president was to appoint a prime minister who was to come from a political party, not the MRND, but from another political party.  And I would say that, with reference to the size of the party, it was the second party in size.  
+
+Now, the request of the president was that six candidates be put forward, from which he was going to choose a prime minister.  Now, the four parties said, "No, we shall give you one sole candidate."  And the other parties, notably my party, because I was representing my party during the meeting with other colleagues, and we said, "No, it is the prime minister's prerogative to appoint a prime minister, but on the basis of the candidates put forward to him.  Otherwise, there would be no use in suggesting one sole candidate, when all that the president would then do would be to validate the candidate for the position of prime minister."  
+
+So there were five parties who said, "We are in favour of the president appointing a candidate on the basis of a number of different candidates."  And then there were the four parties who said, "No, we are going to put forward a sole candidate."  
+
+So the other thing that gave rise to a stalemate was also the communiqué that had been released by the Rwandan Armed Forces.  And there were parties that were saying that the army command needed to come back on what it had said in this communiqué.  So the discussion then went on to say that, "No, we are not going to request that the army command come back on decisions or statements made the day before, in view of the fact that we were at war."  And it was with those two issues that the (unintelligible) occurred, that the stalemate occurred.  
+
+And, so, four of the political parties left.  And the next day, there was a position declared by the MRND and those parties who had chosen to leave, and so there was also -- and that is when the term "the baby of the party" was coined.  
+
+Now, what happened, if I can say this, is that, in the locker rooms of politics, there were candidates who had the consensus or the agreement of different parties.  But in advancing one sole candidate, one wanted to put to one side this candidate who was very valid and whom everyone wanted to see as the prime minister, the first prime minister to a multiparty government.  
+
+Now, once the other parties left, unfortunately, this individual was not able to be appointed, and, unfortunately, a few months later he was murdered by the forces currently in Kigali.  
+
+So -- I'm sorry. 
+Q.	Who was this individual who was assassinated? 
+A.	Mr. Emmanuel G-A-P-Y-S -- P-Y -- correction -- I-S-I, Gapyisi, first name Emmanuel.  So it was with reference to a number of political parties that people said that he would be the best candidate, not from the MRND, that is, who would be the best candidate to take on the responsibility of prime minister in that period.  Unfortunately, he was assassinated sometime later.  Unfortunately, it's always the best who leave in such a manner.  
+
+So, subsequently, it was after this rupture that there were parties on one side: there was the MRND, the PECO, the Parerwa, the PDI, and they came together in order to form the first government.  And this is how I personally took part in the development of the governmental programme with the late Nsanzimana, Sylvestre Nsanzimana, prime minister.  N-S-A-N-Z-I-M-A-N-A.  
+So, as soon as the governmental programme was wrapped up, I was surprised, in view of the fact that those five parties who had remained at the meeting were the ones due to take part in the government, and on the next morning, I seem to remember that it was on the 30th of December, if my memory serves me correctly, and the president called me, and his service members came to pick me up at the hospital where I was working in order to explain to me the decision he had taken.  
+
+So I was with him in his office, and he explained to me as follows, and I believe that this is of prime importance:  He said, "Doctor, what you did, you took part in the development of the -- or design of the governmental programme, but, unfortunately, I have decided that your party -- or I have decided that three new parties are going to take part in this new government," none of which mine, and I had done my best for health to be one of those."  
+
+And I said to him, "I do not understand, Mr. President.  There seems to have been some form of game."  And he explained to me as follows:  He said, "Doctor, I took this decision because if you gain access to the government, the five parties, that is, with the MRND, there is a risk that we might be up against the prospect of a civil war within our country."  And he said, "If this civil war breaks out in this country, we're going to lose the war with the RPF."  And, he said, "So my decision has been taken, and the MRND and PDC will be the ones who form the government, whilst waiting for the integration of the four further political parties who had left the meeting."  
+
+So I said to him, "Well, President, I understand you are the person in charge, but I say that this is a manipulation in democratic terms."  And he was in agreement with me.  He said to me, "However, we are in times of war, and I have taken my responsibility.  Because if the population rises up against each other, we are going to lose the war."  
+
+So the next day the government was appointed and 16 ministers were appointed, 16 MRND ministers and one PDC minister.  But two weeks later, of course, with the clamouring of the opposition, well, they called upon the militant wing to demonstrate.  And this was the first demonstration which gave rise to a bit of damage at the time.  There were cars damaged.  There were -- 
+
+So, as I was saying, had we been able to collaborate with the MRND, it was because of what I have just explained to you, Counsel.  
+Q.	Thank you, Mr. Witness.  Doctor, this framework of consultation or dialogue was known as ARD.  Do you confirm this? 
+A.	Yes, I confirm that. 
+Q.	Was there a document reflecting the agreement? 
+A.	Yes. 
+MR. SOW:
+Mr. Issa, could you help me give the document, which reflects the agreement on consultation and collaboration between the parties, D. NZ64.
+BY MR. SOW:
+Q.	Mr. Witness, please look at this document and tell us whether this is the document which is the agreement between PECO, MRND, CDR, PADER and PARERWA.  PECO is spelled P-E-C-O.  
+A.	This is the document, apart from the fact that I don't see my signature on it.  However, in the decisions of the leaders of the parties, I was included.  Our executive secretary was to complete this document.  I do recognise this document. 
+Q.	For how long did the alliance last? 
+A.	It did not last for a long time. 
+Q.	What do you mean? 
+A.	I mean, there was 1992 and then 1993 when you had also the Arusha Accords, which were signed in August here.  So it must have lasted for maybe one year.  But with the Arusha Accords, since the parties were competing against one another, they were parties which were not in agreement with some provisions.  But they were parties which were to mutually carry out dialogue with one another and consult one another on some matters. 
+Q.	Doctor, it has been said that the relationship between the MRND and opposition parties was not easy and that there was a fierce struggle for power.  Now, from your knowledge, could you please explain to us what brought about this situation? 
+A.	The cause is simple.  The opposition parties, which included myself, wanted, in a way, the MRND to release its monopoly on the leadership of the country.  But the conduct of countries differed from one party to another.  But it was not because of this that party leaders could not talk to one another.  We had meetings.  We met regularly.  I can give you the example of the meeting which we held in March, I believe,  of 1993 under the auspices of bishops.  So we used to meet.  
+
+But, as I had told you initially, in democracy there are strategies of certain parties which do everything possible to see to it that other parties are hindered in the search and recruitment of members and resources, because without resources parties have a hard time.  This is something I am speaking from experience.  MRND had more means and resources.  This is something that is known.  
+
+But then there are other parties who could nibble, or could take some members from MRND, and this is something which is normal tension in a democracy.  And that is why -- and this is something we will see -- some members of those parties at the level of the leadership were former ministers.  They were former secretaries of state, general secretaries.  So they were people who had held high positions in government, so there was this tension particularly arising from the fact that people wanted -- parties wanted to take power and a position of leadership and replace MRND.  
+This was aggressiveness in a democratic situation.  But, for me, aggression did not really serve anything if you had long-term goals.  But there were parties which were aggressive politically in the use of their language.  There were parties calling other parties "babies of MRND" and so on and so forth.  And there were some parties -- I'm trying to look for the right word -- but there was a fierce struggle in the quest for members and in order for the parties to win the elections.  
+Q.	Thank you, Doctor.  
+A.	With the advent of the multiparty political system, RPF did not make an effort to become a legal political party.  Yet there was an amnesty law.  There were the Arusha Peace Accords.  And in spite of all this, the RPF persisted in staying on the path of war.  
+Q.	From what you know in your capacity as a politician, can you explain to us this attitude adopted by the RPF?  
+A.	I think that RPF members would be in a better position to explain or answer that question, but I will try to give some explanation.  
+
+I think this is not something we should hide.  I even told this to some senior politicians.  I said that if elections were held, no one could defeat the late President Habyarimana.  This is something I said openly.  And I think that the people who murdered President Habyarimana wanted, at all cost, to prevent him from standing as a candidate for elections.  
+
+RPF knew that if it entered into the democratic arena at that time, it's true they could have won some seats in parliament -- or our party thought we could have two MPs.  RPF, maybe because of history (unintelligible), could have five.  But MRND could have had fifteen.  I think that after four years of war, RPF had no interest at all to enter into the democratic arena.
+
+Furthermore -- this is something we discussed in our parties -- why did not -- did the RPF not want to enter into the democratic arena?  Why did they not want to join the broad-based political -- broad-based government, transitional government?  And the answer is four years of war was very expensive and that the people that sponsored the war wanted to be reimbursed.  This is something we talked about in our discussions.  
+
+Now, how would -- could RPF reimburse this debt if they had only four MPs out of 40 or 50?  How would they have funded the people who had sponsored the war?  For me, this was an explanation.  And so they said, "No, democracy does not suit us, since we have to pay debts, and we want power using force of arms" whereas we in the country, we were fighting politically with ideas, with our manifestos and programmes.  But this was not the position of the RPF.  And I'm sorry to say this:  We were naive when dealing with the situation, and we know where all that took the country to.  
+Q.	However, Doctor, the RPF was allied to a number of parties and therefore could have hoped to have many members of parliament or win elections, if I were to refer to the alliance between the RPF, MDR, PSD and PL in Brussels.  Do you remember that? 
+A.	Yes, I remember that.  Here I think that they had signed a cooperation agreement because it was stipulated that opposition parties within the country would organise themselves and do grassroots work, whereas you had the RPF which had the military force.  
+
+But, in reality, between them there was the question of who was going to win the elections.  I think you had 22 months of transitional government.  But after the 22 months they were a party which should have won the election.  So during the transitional period the RPF did not believe that MDR would give up its members or its posts.  No.  So that means that they too were in consultation and dialogue.  But, unfortunately, some people were lulled into a false sense of security by the RPF, which was more sly than the others, and, unfortunately, this dragged down the country to the point of catastrophe.  
+
+During a certain period in 1994, we spoke with RPF members.  There was even a time when we were at the house of an ambassador of the big country, and I was discussing with some RPF leaders.  But, unfortunately, there were hidden agendas.  There was a hidden agenda which was implemented later.  And that is where, unfortunately, we were not vigilant in view of the situation.  But you had well-defined context.  And if you look at this document, any party could have withdrawn from the agreement because party interests prevail over everything else.  But then you had common interests between the parties.  The same thing applied to MDR and RPF.  The basic purpose was to weaken President Habyarimana's party. 
+Q.	Thank you, Doctor.  Doctor, please tell me, subsequent to the alliance in Brussels, there were splits, however, within MDR, PL and PSD.  And those splits, did they jeopardise the possibility by RPF to accede to power easily and therefore enforce its objective of seizing power by force? 
+A.	That was part of the strategy.  That is the strategy of an armed political party which wanted to create chaos, infiltrate parties and do everything possible to see to it that the internal opposition and those parties in government could be weakened so as to allow the RPF to attain its objectives, its final objectives.  
+
+So RPF had its objectives, and by weakening the parties within the country, they would attain the objectives.  What people forget is that, be it with Nsengiyaremye's government or be it with the late Agathe Uwilingiyimana's government -- may God rest her soul in peace -- be it with those governments, those parties were members of the same government, so there was no opposition.  If you want to talk about opposition, you should talk about PECO and other parties which are not in government.  So those parties were with MRND in the government.  
+
+But, at the same time, they had disagreement on some points, for example, the conduct of war.  MRND was saying that we are being attacked, but some members of other parties didn't want to say anything, or simply they were being manipulated by the RPF.  So that created serious problems. 
+Q.	Doctor, you talked about infiltrators within political parties.  Could you give us some information to show that RPF was undermining political parties, including the MRND? 
+A.	Maybe I will not be specific in that regard, because I don't want to venture into an area of which I'm not very sure, but there were infiltrations.  There were manipulations.  
+
+But what I can say is that when I look at an influential MRND member who was very popular in Ruhengeri, when I take his example, he had many votes in the elections.  But all of a sudden, when the war ended, when RPF seized power, that gentleman joined the high ranks of the government.  And that flabbergasts some people and raised questions.  And that gentleman is now the governor of one of the northern provinces.  
+
+So, even within MRND, there were people who were infiltrators or, let's say, who had been contacted by the RPF and who probably worked for them. 
+Q.	Can you give us the gentleman's name, please? 
+A.	You want me to mention his name?  Is it necessary to mention his name?  Yes, I can give you the example of Boniface Rucagu, R-U-C-A-G-U.  He was a member of parliament who was respected by everyone.  And he used to get many, many votes in elections.  People in Ruhengeri know this.  But what surprised people is that all of a sudden he found himself in government.  And he's not an accused person here.  That's one thing.  
+
+I'd also like to give an example of a dignitary in PSD.  I'm sorry for having to say this, but that person was the chief of internal security, or chief of internal intelligence services.  Currently, he is a senator in the present government in Kigali.  In the Nsengiyaremye government he was appointed chief of intelligence up to May 1994.  
+
+How then can one explain that that gentleman on the following day could be with people against whom he was supposed to fight or at least hold?  Because checking infiltration was part of his work, at least to eliminate anything that could have harmed the state security.  And just to be on the -- to join the other side, well, all I can say is that that was a reward.  He was rewarded for the work he had done for the RPF.  
+
+So what I'm saying is that parties were infiltrated and there were people who were being manipulated.  Fortunately, in our party, I think that there were attempts made to infiltrate the party, but I can't mention anything about that.  But on the RPF, its reasoning led it to adopt the strategy of infiltration and sabotage of the other parties.  That was part of its strategy. 
+Q.	Could you please give us the name of the intelligence chief? 
+A.	His name was Iyamuremye, I-Y-A-M-U-R-E-M-Y-E.  I would also add that at one point with him we had an argument over the radio regarding the situation regarding people who were planting bombs in bars and in taxis.  I said that that was the work of someone in charge of intelligence.  In other words, he should have helped the gendarmerie arrest the criminals who were killing people.  But for his part that was a negative point for the country as well because they did not do anything.  Bombs were being planted, people were being killed.  He was in charge of intelligence; yet he became a senator and a minister -- and now he is a senator.  Thank you, Counsel.  
+Q.	I thank you, Witness.  Doctor, I'm going to put a last question to you.  
+MR. SOW:
+Mr. President, I will then have finished.
+BY MR. SOW:
+Q.	Mr. Witness, with the hindsight gained from your testimony of today, would you allow yourself to think that the RPF, indeed, planned the war well with all the unfortunate consequences that befell the Rwandan population? 
+A.	I can confirm that fact without an iota of a doubt because it is certainly the party which prepared everything that happened in our country:  The war, the horrendous massacre of unarmed victims, that is people, children, the aged.  I really wonder whether things needed to go that far in order for the RPF regime to attain what it has today.  So I believe that it was they who did indeed prepare what happened in our country.  There is no doubt about that. Because sometimes I say to people that it is sometimes ridiculous to take one's adversary for an idiot.  Planning massacres and then killing oneself before the massacres, well, that's a silly thing.  
+
+So I think it's better if people do not deem the Accused before us as those individuals who did not think, whereas those who planned on the other side and they are sitting in comfy chairs and sitting on power, and that is on the basis of preparation, and there's nothing to the contrary.  
+
+So, in order to finish my answer to your question, I would quite simply like to say that whatever may be, sooner or later he who killed my brothers and my friends and the others will be brought to justice, whether he be Hutu or Tutsis, but he who did this, he has to pay.  But you shouldn't accuse innocent people for nothing.  
+
+	And I thank you, Mr. President.  Thank you.  
+Q.	I'm sorry, Witness.  I am totally sympathetic with you, but I know that you are a believer.  And he who believes, believes in God, who is the judge supreme in the matter.
+
+MR. SOW:
+And, Mr. President, I believe that I have once again respected my commitment, and I have now finished.  
+MR. PRESIDENT:
+Thank you, Mr. Sow.  And we note with pleasure.  
+
+Any other Defence counsel wish to examine this witness?  I take it that means no.  
+
+Mr. Witness, you now have to respond to questions put to you by the Prosecutor, who will now begin cross-examination of you.  
+MS. FRANKSON-WALLACE:
+Mr. President, I have a bundle of documents which I'm going to distribute out of an abundance of caution.  I don't anticipate using them really, but just to conform with the standing practice.
+CROSS-EXAMINATION
+BY MS. FRANKSON-WALLACE:
+Q.	Good afternoon, Dr. Butera.
+A.	Good afternoon, Madam Prosecutor. 
+Q.	May I offer you my own sympathies for the persons close to you that you lost in the events in 1994.
+A.	Thank you, Madam Prosecutor. 
+Q.	I think from whatever anger we view the events, we can all agree that it was tragic what took place in Rwanda in 1994.  You were brought to tears when you recalled the loss of your party member, who you said was a Tutsi and he was killed.  
+A.	Yes, Madam Prosecutor, I was. 
+Q.	Can we agree, Dr. Butera, that, although there were massacres of both Tutsis and Hutus, that the Tutsis particularly were targeted? 
+A.	I would answer in the following manner, Madam Prosecutor: I know that there are Tutsis who were killed by Hutus because they were Tutsis.  Yes, I can confirm that.  And I also say that during that period there were Hutus who were killed by Tutsis because they were Hutus, and that is obvious.  
+
+So, when you say that there were people who were killed, yes, there was the family of my godfather where ten people were killed within that Tutsi family because they were Tutsis.  And he was the one who taught us at primary school.  So this just goes to show that I sympathise with what you say, but that is the reality that we are talking about here. 
+Q.	And, the same thing, Dr. Butera, I believe you would also agree that Tutsi persons, persons bearing Tutsi ID cards or who were thought to be Tutsi, encountered particular difficulties when they tried to cross roadblocks.  
+A.	That is true, yes.  But I shall tell you why.  Because we even had to make cards for people so that they could get through.  But this was because the murderer of the Rwandan president was assimulated to a Tutsi, that is to say, the Tutsis who were fighting people, who were shooting at people, Tutsis who had set up camps for displaced persons where one million people were living.  
+And this image of the Tutsis was what gave rise to -- well, you can see my -- the way I look.  I also had difficulty getting through the roadblocks sometimes.  
+
+Now, in a neighbouring country to this, a few months ago, we saw what happened when the president was alleged to have cheated in an election.  People were massacred in churches because one accused the other of having cheated.  So you can imagine what happens when one president -- two presidents are killed, whereas the image that they gave was that it was the Tutsis who killed them.  
+
+So I believe that if the Tribunal could actually really seek out the true guilty party in the assassination of the Rwandan president, this would help everybody to shed light on what really happened. 
+Q.	I'm going to move to the part of your evidence where you spoke about Édouard Karemera and the fact that you had never heard him make any anti-Tutsi statement.  You weren't always in the company of Édouard Karemera, were you? 
+A.	No. 
+Q.	And you wouldn't suggest to this Honorable Trial Chamber that you have heard everything that Mr. Karemera has ever said.  
+A.	Well, Mr. Karemera, whatever he said as the head of a political party, was transmitted over the radio.  And I heard the radio.  And, well, what he might have said in his living room at home with his wife, well, I don't know.  I don't know what he would have said to his wife. 
+Q.	Did you hear the radio on the 21st of April 1994? 
+A.	21st of April?  No, I don't remember. 
+Q.	Are you saying you may have been listening to the radio, or you weren't listening to the radio on the 21st of April?  I just need to be sure what your answer is.  
+A.	Well, Madam, this was 14 years ago now, and, well, you're telling me that it was the 21st, that is to say, within the three weeks of war where I was running around with people who were moving from my house to other people's houses in order to protect themselves.  I also wasn't listening to the radio.  That's normal.  
+Q.	So you wouldn't have heard a discussion between Édouard Karemera, Shingiro Mbonyumutwa, Stanislas Mbonampeka, Hyacinthe Rafiki hosted by a Radio Rwanda journalist, Jean-Baptiste Bamwanga?
+A.	I might have listened to it, but I do not remember passages mentioning killing Tutsis.  However, if you do have an excerpt from it, I would be happy to listen to it. 
+Q.	Very well.  I'm going to read something to you.
+
+MS. FRANKSON-WALLACE:
+For the benefit of the Trial Chamber, Mr. President, it's the document marked I. P14.  It is not in the bundle.  It was used with the previous witness.  
+BY MS. FRANKSON-WALLACE:
+Q.	Jean-Baptiste Bamwanga, in speaking to Mr. Karemera, said -- this is at page 14 -- "We wanted only to know the position of their leaders on the political level since most of the Rwandans have joined political parties and that politicians are the main mirror."  
+
+And this is Mr. Karemera's response, starting in the middle of the first paragraph under Karemera's name:  "As I said during the interview we had at the end of last week or at the beginning of this week, if those Inyenzi, those Inkotanyi, were alone, the war wouldn't have lasted so long.  They have supporters."  
+
+And he goes on:  "What I'm asking to all Rwandans, and that is the leader's answer, that is the leader's answer you were asking for, is that the whole population must back up the army in order to annihilate those RPF threats.  All the population must act together and fight for democracy and the republic that have been acquired thanks to the popular revolution, a revolution that has been made by the majority.  The majority I'm talking about isn't that one they attribute to CDR, but all those that love Rwanda."  
+
+And then he says, "The weapon to be used by the population to back up the army is simple.  They have to organise patrols, set up roadblocks here and there in their cells, in their secteurs.  They see that the enemy can't do anything, and it is their right because Rwandans are not the attackers."  And he goes on.  "Nobody will stop us to say that a cow gives birth to a cow, a goat gives birth to a goat, that UNAR gives birth to UNAR."  
+
+And he says in the last paragraph on page 15, "To organise oneself means looking for the adequate way of patrolling and watching on roadblocks in turn.  By so doing, the enemy won't be able to go through."
+
+Now, I say, Mr. Witness, that that is a clear and unequivocal statement to the population, to set up roadblocks to massacre Tutsi civilians, they being equated to accomplices of the RPF.  What do you say to that? 
+A.	Madam Prosecutor, I followed what you read closely.  But with the exception of your final interpretation I do not see anywhere within what he said that Tutsis were to be killed, if I understood correctly.  And were I to put myself in the place of the population, this is not a call to people to kill others because what it is saying is that the RPF is moving forward in the country and these are soldiers which are gaining access everywhere.  And I seem to think that you are forgetting that there were soldiers gaining access to the country and they were fighting.  So, yes, I did follow what you said, but I don't find that anywhere.  
+Q.	Tutsi women and children and old people that were massacred at the roadblocks, are you suggesting that they were RPF soldiers, Mr. Witness? 
+A.	No, Madam Prosecutor.  I believe that I stated clearly since the outset that there were criminals, that there were Hutu criminals.  This cannot be denied.  Those criminals who killed my friend, Claver, or the one who went to kill the members of the family of my godfather, those are criminal Hutus.  But there are Tutsis who went to live with Hutu families and who were protected by them.  So the example that I gave to you, the comparison between what -- you're not listening to me, I think.  
+
+If within any population -- you know, you heard me say that I'm working as a psychiatrist.  I always have in front of me people who have normal behavior or who have aggressive behaviour.  It only needs one to tell others after having had a beer, "Come on, let's do this."  So what I'm saying is that there are Hutu criminals; that they need to be sought after, but it is not through a speech given through Karemera.  And I was there too.  He was saying we are at war and that any soldier has to be stopped.  That's what was in it.  
+
+But there were a lot of bandits within Kigali.  They were transporting all sorts of things.  And this is to say that most of the people who committed these crimes, well, it's not this kind of individual in charge who has said that people should go and kill others, and this is not what I heard in his message.  But it is true that members of my family were killed by Hutu criminals.  That I do know. 
+Q.	Did you hear this message on the 21st of April, or is today the first time you are hearing what I have read to you? 
+A.	No, I can tell you that I might have heard it or not.  But even were I to have heard it -- and you have just read it back to me -- I would have interpreted in the manner that I have just told you. 
+Q.	It is my suggestion, Mr. Witness -- I'm sorry, Dr. Butera -- to the extent that you cannot claim to have heard everything that Mr. Karemera said or seen everything that he has written, you are really not in a position to assist this Trial Chamber very much in terms of whether or not he made any anti-Tutsi statement.
+A.	Madam Prosecutor, if I can just tell you that I disagree with that.  Well, I did know Karemera as a politician, and we met during meetings and we discussed a lot of things and we talked about the MDR or PL with Mugenzii.  We talked.  But you just said that a speech like this is calling upon people to kill children and the aged.  That is not correct.  That is an interpretation, Madam Prosecutor.  I am telling you that people were indeed killed.  I recognise that fact.  But the people who killed them, well, it's not because some individual said, "Go and kill them."  
+
+And I had a specific example where at a roadblock I was nearly killed myself.  I was going to find a member of my party whose motorbike had been stolen, and when I wanted to get him through the roadblock, my car came under a grenade attack.  Six people died, 18 were wounded.  So that was a Hutu.  He was a Hutu.  And his motorbike had been stolen.  That has nothing to do with Karemera's speech.  And there were people, also, who wore the president's badge, and these are not the ones that we are grieving with.  
+
+So, Madam Prosecutor, I believe that there are interpretations.  I can understand your manner of interpreting.  But it does not correspond with reality, the reality that I lived through and what I saw. 
+Q.	On another note, Dr. Butera, you made reference to certain persons who you are suggesting were infiltrators on the basis that they occupied certain positions before and now appear to have aligned themselves with the current regime in Rwanda.  You recall that.  Is it possible that these persons, in the way of politicians, have simply aligned themselves out of a matter of convenience and their self-interest, rather than as you are interpreting their conduct, that they were infiltrators? 
+A.	It's difficult to answer your question because the people I was mentioning, not the infiltrators, that is to say, people who were manipulated, that the RPF was able to bring into their ranks, well, they might have had other interests or other challenges, but I don't know about those.
+Q.      Thank you, Dr. Butera.  I have no further questions for you.
+A.	I thank you, Madam Prosecutor.  
+MR. PRESIDENT:
+Thank you, Madam Prosecutor.  
+
+Is there any redirect? 
+MR. SOW:
+No, Mr. President. 
+MR. PRESIDENT:
+Thank you very much, Dr. Butera.  This brings your testimony before the Tribunal to an end.  And we would like to thank you for coming to assist the Tribunal in its work.  You are now excused.
+THE WITNESS:
+I thank you, Mr. President.  I might like to request a small favour from you. 
+MR. SOW:
+Well, Witness, I was going to do that for you.  
+THE WITNESS:
+Yes, I'd just like to say hello to them.  
+MR. SOW:
+Mr. President, I would like to request that you grant the witness authorisation to meet the Accused, please.  I thank you.  
+MR. PRESIDENT:
+Yes, permission is granted, and we ask the registrar to make the necessary arrangements.
+THE WITNESS:
+Thank you, Mr. President.  
+MR. PRESIDENT:
+Well, it's now almost time for lunch.  We have one more witness.  How long is that witness likely to last? 
+MR. SOW:
+Well, Mr. President, I believe that before the end of the day, or the hearing, we shall have finished with the witness.  It is Counsel Diagne who is in charge of examining this witness.  I know that he won't take very long.  I don't know as far as the Prosecutor is concerned, but I believe that before the end of this afternoon we will have finished with this witness.  
+MS. FRANKSON-WALLACE:
+Mr. President, since my learned friend invited my intervention, this is a witness that was only recently added to the Karemera witness list, the 14th of April to be precise.  
+
+In the information that we have translated for me, it says that he will talk about the political/military structure that permitted the realisation of the events in Rwanda from his personal experience.  He will talk about the behavior of the members of the RPF during the events.  He will say that members of the RPF committed massacres in a systematic and targeted method, from personal experience.  He will say how in the exercise of his profession he could observe the methods in which the members of the RPF operated.  
+
+We do not have any information on the witness that would tend to support any opinion that he is proposing to give on the political/military structure.  We do not know if this is a witness who is in some way an expert, who is being floated under the radar ostensibly to give his personal experience.  In terms of his profession, he is certainly not aligned to either politics or the military.  We do not have sufficient information and we may be in a position, Mr. President, at the close of the examination-in-chief where we will seek the exercise of the Court's discretion to allow us time. 
+
+I know Your Honours want to finish within the time standards that we've provided and I think we have done reasonably well so far, but we may have come upon a slight hurdle.
+	(Pages 19 to 37 by Claudette Ask)
+
+
+
+
+
+1230H 
+MR. SOW: 
+Mr. President, I'd like to reassure the Trial Chamber and my learned friend that this is somebody who is going to come and speak about their experience, something they lived through.  And this is not an expert.  Had it been an expert, we would have respected the rules, and we would have disclosed a report.  No.  This is somebody who lived there during the events, and they are going to talk about what they lived through. 
+MS. FRANKSON-WALLACE: 
+It might have been helpful if we'd had prior information as to how long that person lived there, what area they lived in, among other things.  Then, in the way we've done with other witnesses, we could have conducted, at the very least, minimal investigations, so we have something with which to confront him.  At this stage, our file is empty. 
+MR. PRESIDENT: 
+Yes.  We think we should take it step by step.  We will hear the witness in-chief, and at the end of his examination-in-chief, we will consider the situation, if there is a need to do so. 
+
+We will take our luncheon adjournment now.
+(Court recessed from 1231H to 1431H) 
+MR. PRESIDENT: 
+Good afternoon, everyone. 
+
+Good afternoon, Mr. Witness. 
+THE WITNESS:
+Good afternoon, Mr. President. 
+MR. PRESIDENT: 
+Are you in good shape now?  
+THE WITNESS:
+No.  I had an incident at the hotel less than an hour ago.  My luggage disappeared from my hotel room and was found in another room.  So I don't think that I'm psychologically in the proper state of mind to testify now. 
+MS. DIAGNE-MBAYE: 
+Mr. President, Karemera's Defence team would also like to address the Court on this subject. 
+MR. PRESIDENT: 
+Yes, we can hear you. 
+MS. DIAGNE-MBAYE: 
+Thank you, Mr. President. 
+
+I would like to say something about the psychological state of mind of Karemera's Defence team.  I was not present in this courtroom in the second part of the cross-examination of the previous witness, and in view of the fact that this witness in front of you arrived here yesterday in the evening, so that we could not be without witnesses yet to come here, and we are to leave here and go and prepare him prior to resumption this afternoon, hardly after the plane left, and hardly after arriving in this courtroom, just when we left him, and he informed us that a few minutes earlier he had lost all his personal belongings; in other words, he went to his room.  He opened the window and was taking in the panoramic view of Arusha, when someone passed behind him very swiftly and took all his belongings.  And the hotel security and the WVSS security, which was instantly informed, together were able to locate the luggage in a room in a floor above, and the suitcase was opened.  
+
+Mr. Sow and I counterchecked with them to see whether something was missing in the luggage.  
+The first check revealed that nothing was missing, but the bag was opened, and we don't know what someone was looking for.  And this is really -- what really bothers us is that -- the fact that he himself is a physician, a surgeon who can control himself, all of a sudden went in a state of mind which is not very good.  
+
+So, Mr. President, your Trial Chamber cannot hear his testimony in his present condition.  
+So, Mr. President, I thought it necessary to give you an account of the incident as it happened in front of the person concerned.  And I would also like to tell you that, once again, Mr. President, we call upon you to do something.  
+
+I'm not speculating, but I think that the person who did what he did was present when my investigator and I were in the presence of the witness, because it all happened very swiftly. 
+
+And then there is the issue of the security of the witness, which arises today, and I think our security is also seriously endangered.  And today I came firsthand face to face with this reality, and I thought that it was necessary for me to explain this to you. 
+
+Now, Mr. President, I think that we are, in a way, responsible for witnesses we call here before you in order for them to testify.  And it's obvious that this witness cannot testify.  This is quite obvious, in my mind.  
+
+But I also have another concern, Mr. President, and that is, allowing him to leave in the same condition back to the hotel, honestly, I'm not at ease.  Therefore, Mr. President, I would like to request you to take immediate and strong measures so that he can go back under the best security conditions.  I think I owe it to him, the Tribunal owes this to him, because he has come to the Tribunal to contribute to the administration of justice. And, therefore, Mr. President, I think that this should be looked into immediately.  And, in particular, he should not be left on his own. 
+
+Thank you, Mr. President. 
+MR. PRESIDENT: 
+Yes.  Mr. Witness, we have understood what you have said and what Counsel Diagne has said.  
+We would like to enquire whether, if you had some time and adequate facilities, you would be able to testify later today or tomorrow. 
+THE WITNESS:
+Currently, I'm in a very nervous state, and I'm sure you understand that, Mr. President.  I have to contact Mrs. Diagne.  And maybe after a yoga relaxation session.  One hour. 
+MR. PRESIDENT:
+Why do you think Ms. Diagne would have the professional expertise to advise on that issue?  
+THE WITNESS:
+Counsel Diagne is, of course, not a doctor, and as a doctor, I'm a bad judge towards myself.  I can treat others.  I know that I've been destabilised, because for about three-quarters of an hour, we went to look for the baggage, which we found in another room.  And, therefore, I am still nervous, and I don't think I can be able to testify without feeling the pressure on me. 
+MS. DIAGNE-MBAYE: 
+Mr. President?  
+MR. PRESIDENT: 
+Can I enquire, didn't the Chamber make a protection order in your favour?  Aren't you a protected witness?  
+THE WITNESS:
+Personally, I don't know what a protected witness is.  I'm a doctor.  I'm not a lawyer or a specialist in law.  I'm a human being.  I've come here to testify.  I'm a doctor who worked in Rwanda, so I've come to testify to my experience in Rwanda. 
+MS. DIAGNE-MBAYE: 
+Mr. President, did the protection order prevent him from suffering what he has gone through earlier on?  And tomorrow -- today we don't know how he is going to spend the night, but tomorrow, do we know whether he will be in a right state to testify?  Do we have answers to all these questions regarding witness protection?  
+
+I would like to tell you that he told me that he did not see the necessity for him to be a protected witness.  Earlier on, he told me that.  But, protective measures or not, nothing prevented him from going through -- from experiencing something very, very strange. 
+
+MR. PRESIDENT: 
+We had no intention of casting blame or making enquiries about that.  It's a question of concern for the integrity of our proceedings.  
+
+You see, Mr. Witness, we take the issue of witness security very seriously.  And whenever an application is made for protection of witnesses, we introduce procedures aimed at providing security for witnesses.  And if my recollection is correct, we had made such a protection order in your case.  
+And one of the elements of that protection -- of those protection orders would be for the -- your -- your accommodation in safe houses under our security, and also provisions for the -- retaining your identity undisclosed to the public.  
+
+So there are various measures that we introduce to provide security for our witnesses.  So it was just of interest to us how -- what would have allowed a protected witness to have suffered the fate that you suffered, because, normally, we would expect that you'd be accommodated in safe accommodations with UN-provided security.  So that was what my question, really, was aimed at, to see whether or not there was a problem with the security provisions which we made. 
+
+But what I understand is that you chose not to -- not to accept the security arrangements which would normally be provided for a witness.  But that was the purpose of my enquiry. 
+MR. WEBSTER: 
+Your Honour, I wanted to clarify something for the Chamber.  Actually, this was an aspect of the submission I made yesterday in regard to the last witness, or Witness KTW, Mr. Akayesu, because my understanding is that this witness and Mr. Akayesu were not covered by the protective order; that they were added on the 14th of April, after the protective order had been issued, and there was no 
+follow-up motion by the Defence to secure protective measures for them.  So, even though we've been referring to them by pseudonym, because that's the way that Madam Diagne refers to them, there was actually no order in place for either of these two witnesses.  That's my understanding. 
+
+But I'm also a bit out of the loop because I don't know how WVSS was making arrangements for him, 
+or what transpired earlier today.  But in terms of his current status, even though he was introduced into the courtroom without disclosing his identity, there actually is no protective order for him, nor was there one for Mr. Akayesu. 
+MR. PRESIDENT: 
+Ms. Diagne, is that actually the case?  
+MS. DIAGNE-MBAYE: 
+Yes, Mr. President, that is the case.  However, we have to refer to your order of 17th April 2008, in which there is an annex with the names of two witnesses -- two -- names of two witnesses, KTW, Mr. Akayesu, and this witness who is here, TZL, who -- whose names were -- were included on the list of witnesses who will testify during this session.  This is how they organised his arrival here.  
+
+In the decision on protection measures of witnesses, the two witnesses in question are not in that order.  They appeared for the first time in the annex appended to the decision of the 17th of April 2008.  Therefore, they are not covered by the measures taken in the order related to protective measures of the witnesses, but their names are on the most recent order dated 17th of April 2008. 
+
+That is the actual situation, Mr. President. 
+MR. PRESIDENT: 
+Is this a person who would wish to be the beneficiary of a protection order?  
+MS. DIAGNE-MBAYE: 
+When, Mr. President, is your question focused on?  Because there is the period prior to the 15th and the period after the 15th of May.  And then the 15th of May was also divided before the lunch -- divided between the period before the lunch break, that is, prior to 1:00 p.m., and the period after 1:00 p.m.; 
+that is when the incident occurred. 
+
+He's conducted himself as if he benefited from protective measures, because, although the situation is vague, we've always referred to him by pseudonym in exchanges between the parties.  We have never placed him in a situation in which his identity could be revealed. 
+MR. PRESIDENT: 
+Yes, but my question was this:  If it is -- if this is a person who ought to be the beneficiary of a protection order, then an application has to be made.  If you say that there is no order in relation to him at the moment and there ought to be one, the method of addressing that is by making an application.  Because we would not make informal arrangements for somebody who is not the beneficiary of a protection order, unless there was some special reason for doing so.  I was acting under the assumption that he had been the beneficiary of such an order.  
+
+But that being the case, Mr. Webster, I suppose that, on humanitarian grounds, we are going to have to grant some time, some sort.  Is there a method of using this to our advantage and dealing with any issues that may ensure that there is no subsequent delay in terms of cross-examination of the witness?  
+MR. WEBSTER: 
+Well, there are issues that we'd like to -- perhaps, it will be more appropriate to do so in the absence of the witness, and then have him -- there are matters that we would wish to address, but not in the presence of the witness, Your Honour. 
+MR. PRESIDENT: 
+Could you give us a clue as to the subject matter of these?  Has it to do with the witness's testimony?  
+MR. WEBSTER: 
+Yes, it does.  It's his status, as a factual witness or an expert witness, in terms of what we expect to hear from him; that may be an issue that we can discuss to some profit while he is still here physically in Arusha without his presence in the courtroom, because Madam Diagne should be able to provide the responses that would assist us. 
+MR. PRESIDENT: 
+Okay. 
+MS. DIAGNE-MBAYE: 
+Mr. President, I think that we should stop giving the Prosecutor the latitude to describe the 
+Witness every time a witness comes here., because these witnesses are coming here to narrate their personal experience, what they'd seen, what they heard.  So when he talks about expert witnesses, what is he talking about?  Because he received the summary of this witness, as well as a 
+will-say statement.  This witness experienced personally the events there.  So he is not going to give opinion.  He is going to testify to facts. So how can the Prosecutor want to discuss such an issue?  
+MR. WEBSTER: 
+This is the very discussion that I wanted to have in the absence of the witness. 
+MR. PRESIDENT: 
+Yes.  Ms. Diagne, what actually is your application with regard to when this witness should testify?  
+MS. DIAGNE-MBAYE: 
+Well, first of all, I think he should benefit from protection orders; secondly, not -- for the Trial Chamber to hear him, that he be in a condition to do so.  He's just explained that psychologically he is not in a position to do so, which I had been able to observe.  Also, de visu.  We were there when his nerves -- when he became upset.  So we should like to specifically ask for increased surveillance protection.  
+
+I heard you mention a safe house, but the witness considered that he had been in a safe house.  
+And without making any misplaced comments, I don't know what would be better, or in which part of Arusha witnesses would feel more or -- more secure.  But what has occurred leaves us quite perplexed, when I think we were being observed when we sat and talked.  And I would ask the Trial Chamber to follow up on this very closely, because we do not feel safe and secure. 
+MR. PRESIDENT: 
+Ms. Diagne, my question is this:  We could give time to the witness and then hear him today or tomorrow.  As you are aware, the Chamber is otherwise occupied next week.  We have other commitments.  So we have a choice as to giving him time to recover and hear his testimony later today or tomorrow, or there will have to be a longer postponement to next trial session. 
+
+It was unclear to me what was your request.  It might have been simply for time so he could have gathered himself together and testified later today or tomorrow.  And that is what I was seeking clarification. 
+MS. DIAGNE-MBAYE: 
+I'm sorry.  You were not as clear.  Before I thought we were still discussing security matters.  Now that I realise that your concern is to know when the witness can testify, well, I think we should merely postpone his testimony 'til a future session.   
+
+I'm also very concerned to know what the Trial Chamber will decide in the meantime in his regard.  Thank you. 
+MR. PRESIDENT: 
+Well, the issue -- 
+MS. DIAGNE-MBAYE: 
+With regard to his security.  
+MR. PRESIDENT: 
+Well, that would depend on the circumstances.  Is he going to be requesting assistance to leave Arusha today?  Is he going to be staying here longer?  
+
+It seems to me that if we were to make an order for his protection, that the most reasonable way to do it would be to allow the usual security arrangements to be applied.  If he was -- a protection order was made for him, then he would be fully protected by the security services that we have.  And so it was really in connection with that that I was also of interest to know what was the proposed position for this witness.  Because we could make a protection order now, in which case, the WVSS would take care of his security issues completely, if that is something which would be requested of the Tribunal. 
+MS. DIAGNE-MBAYE: 
+Yes, Mr. President, I agree with that solution, as you have suggested, that he be entirely in the hands of WVSS for his security.  He does not need to stay in Arusha any longer.  He is a surgeon.  He has his practice, which he had to leave to come and testify. 
+
+But when such matters arise, one is always a bit destabilising.  We don't know why.  I would not like to have it on my conscience.  Therefore, I agree that -- with you that a protection order be made and that he be escorted back to -- taken back to his country under escort. 
+MR. PRESIDENT: 
+Mr. Witness, have you been following the discussion?  
+THE WITNESS:
+Yes. 
+MR. PRESIDENT: 
+You are aware that if we do make the protection order, it would require you to be accommodated in one of the safe houses that the UN provides?  I understand the accommodation is quite adequate, and it also comes with some security attached to it.  Would you request that arrangements of that nature be made on your behalf?  
+THE WITNESS:
+I'm really upset with what's happened.  I don't feel responsible for it.  But if that is the only solution, well, of course, I'll go along with it. 
+MR. PRESIDENT: 
+Yes.  The -- what I've said already constitutes an order, which was putting you under the protection of the Tribunal.  And appropriate arrangements will now be put into place to guarantee your security. 
+
+We will postpone your testimony until a future trial session, and Counsel Diagne will, most likely, advise you of the next scheduled appearance.  We will be having another trial session in this case commencing at the beginning of July.  But, in the meantime, I think I can excuse you now.  And after you leave, we'll have further discussion concerning the disclosures issues connected with your evidence. 
+
+Ms. Diagne, is that adequate?  
+MS. DIAGNE-MBAYE: 
+Yes, Mr. President, and I thank you for that. 
+THE ENGLISH INTERPRETER:  
+Witness asks if I - if he might say something.  
+MR. PRESIDENT: 
+You may. 
+THE WITNESS:
+Thank you, Mr. President.  As a citizen, I am ready to give my testimony, but under optimal conditions.  Thank you, Mr. President. 
+MR. PRESIDENT: 
+Thank you.  Well, we are also interested to ensure your testimony is given under good circumstances as well.  So we have, in fact, decided on our own initiative that the postponement would be appropriate.  So you may leave now.
+THE WITNESS:
+Thank you. 
+(Witness exited courtroom) 
+MR. PRESIDENT: 
+Yes, Mr. Webster?  
+MR. WEBSTER: 
+Yes, Your Honours.  I guess that this is the last opportunity that we'll have to discuss things that are germane to how we proceed with the trial, since, presumably, we won't be meeting tomorrow, and then our next scheduled appearance is sometime, I guess, the 30th of June.  So I have specific concerns with regard to this witness, but they actually go beyond this witness. 
+
+What I was alluding to earlier is that the witness summary that we have, and as my colleague submitted earlier this afternoon, is wholly inadequate.  We don't know if this is a factual witness or an expert witness, quite frankly.  We noticed that he was born in the Belgian Congo.  He was born on the 
+African continent, but he appears to be a European.  He came here from Europe.  We don't know if he was living in Rwanda during the period 1990 to 1994 and what the factual basis is, or the direct personal experiential basis is, for the evidence that he was scheduled to give.  This Chamber already made an order for all Defence teams not only to provide adequate summaries, but to indicate where the witnesses were living in 1994, and that was not provided to us for this witness. 
+
+So, had he testified, that would certainly put us on notice of the substance of his evidence.  But since Ms. Diagne indicated that she met with him yesterday and earlier this morning, she should know where he lived in 1994 and what the factual basis is or the experiential basis is for the evidence that she plans to elicit from him.  So she can give us that information now by making it orally on the record, or this Chamber can give her a deadline by which that information should be shared with us. 
+
+If this witness does not have the experiential basis to give evidence, then he need not come back, and we can dispense with his testimony entirely.  And if he does, then we should know that now so that we can prepare adequately for his appearance in June.  So that's basically our concern. 
+
+Ms. Diagne has met with the witness.  She should know those basic pieces of information.  She should be able to share them with us right now.  Since the witness was scheduled to testify, we had anticipated that he'd be testifying right now, so, presumably, all of that information is available, and we'd like to have it.  That would provide a basis for this Chamber to decide whether it should hear -- whether his testimony could be helpful at all.  
+
+The Chamber will recall that we've had one or two witnesses that have testified at this session, one of which we didn't even cross-examine because his evidence was so far removed from the indictment and from direct personal experience.  And to avoid a repetition of that, the Chamber could seek the clarifications that we're asking for from the Defence teams. 
+
+But beyond this witness, we had a status conference a few days ago.  We made clear our position at that time, that in order to use the next six weeks profitably, we need to know who the next witnesses are and what they are saying, and we still don't have that information.  And when we depart today, we will have no means of seeking the assistance of the Court to expedite the receipt of that information.  
+
+So I would like to take this opportunity, once again, to ask the Trial Chamber to require the Defence to provide that information to us via a certain deadline, and that the deadline be reasonably set so that we can use next week, starting Monday, since we'll not be in court, to do the work that will allow us to be prepared for the Defence case when we resume on the 30th of June.  So that's, essentially, the application. 
+
+Beyond that, there is a housekeeping matter that I can address now, since I have the floor already, with regard to the exhibit -- or, the document that I wanted to -- the transcripts, rather, that I wanted to enter into evidence earlier this morning in relation to Jean-Paul Akayesu.  And I have not discussed the matter any further with the Defence, but my suggestion at this stage is simply that the transcripts, as I have prepared them and disclosed them to the parties and the Chamber in the bundle, be admitted in evidence. 
+
+I have them both in English and in French.  They were labelled appropriately in the materials that were distributed before the witness commenced his cross-examination.  I'm not sure if this is satisfactory to Ms. Diagne or not, but if there are other transcripts or other documents in relation to Akayesu's previous testimony, she can offer them in evidence, and they can be marked as exhibits -- as Defence exhibits.  But there should be no objection to the material that I would like to tender.  I'd like them to be accepted by the Chamber, or the Chamber can rule on their admission. 
+
+These are the transcripts of the portion of Akayesu's testimony on the 12th and 13th of March 1998, where he discusses the meeting of the 18th of April 1994, which was the crux of my examination of him.  I took great pains to make sure that everything was placed in context and that we had, in both the direct examine and cross-examine, a full recitation of what Mr. Akayesu was saying.  If this is not satisfactory to the Defence, then they can locate the portion of the transcripts that he would also like to have admitted in evidence and offer them separately. 
+
+So my application is for these transcripts to be accepted in evidence and for the Chamber to make some fundamental decisions about how we proceed with the witness that was just here in the courtroom and for the witnesses that will be called starting the 30th of June. 
+MS. DIAGNE-MBAYE: 
+Mr. President, just on the point of the tendered documents, because you did make a ruling this morning, the matter was settled.  And when you -- they go out the door, they come back in through the window.  We had this discussion this morning, and you made a ruling.  
+
+You asked them expressly to enter the totality of the documents.  I don't know why a few hours later he comes back and raises the same problem.  I don't understand.  But if you can help me understand, I'm ready to hear.  But I understood that the matter had already been ruled upon. 
+MR. WEBSTER: 
+It's not my understanding that there was a ruling this morning.  I had offered to look into what the Defence characterised as the entire document, and we have not had that discussion. 
+
+But going back to what I have requested be received in evidence, it's, essentially, 50 pages, which I can hold up and show to the Court.  We already have a voluminous trial record.  The English transcripts alone for Mr. Akayesu's testimony fill an entire binder.  If we were to admit the transcripts, both in English and in French, we are literally talking about six or seven hundred pages, and it's unnecessary.  
+
+My interest is that the parties and the Chamber, at the appropriate time, come back to that portion of Mr. Akayesu's testimony for March of 1998 that is relevant, and I've identified those portions, and I've shared them with the parties by disclosing them.  
+
+If there are other aspects of his testimony which the Defence deems to be relevant, they should organise themselves to get those transcripts and make them available to the Chamber, and I will not oppose their admission in evidence.  But for our purposes, and for the purposes of the trial, my suggestion is that we admit these 50 pages that I've already identified and shared with everyone, 
+and that I used when I was cross-examining the witness. 
+
+So that's my application, and the Chamber can simply rule on it at this time. 
+MS. DIAGNE-MBAYE: 
+Mr. President, whether it be 600 pages or 1,000, you were not concerned about that this morning, and you made a ruling, and I think it is a wise one, inasmuch as it is not up to the Prosecutor to indicate which are the pertinent parts of a document or not.  And it really is unfortunate that he used these words, like saying that that witness did not testify, or could not change points that he had put in the indictment.  Perhaps he wants to be invited to write the judgement, and then we can all go home.  Because he knows the parts -- which parts of the indictment have been correctly dealt with and not dealt with.  He knows what is pertinent in a document or not, especially when you've already made a clear ruling, like that of this morning, instructing him to -- and to the totality of the transcripts in respect of Mr. Akayesu, whether it's 600 pages or 1,000
+
+.  Thank you.
+(Pages 38 to 48 by Joe Reynosa)
+
+
+1530H 
+MR. PRESIDENT:
+We think that there are three points that we should address.  Firstly, with regard to the issue of the information to be communicated about the witnesses who are going to testify, we think that we are -- we recall that we have already addressed this issue and explained that the witness summaries that have been provided by the Defence did not contain all of the information which we thought would be appropriate.  And we gave an indication of some of the headings of information which these summaries should contain, and we would simply remind that this order is currently binding on the parties and invite assurance that the order is complied with.  I think compliance with that order should deal satisfactorily with the issue of providing the information which would be necessary to facilitate cross-examination of the witnesses.  
+
+With regard to the request for information concerning the forthcoming trial sessions, I should indicate that our deliberations have been completed and the drafting process of our order has commenced, and it will include a requirement for the order of witness appearance to be communicated shortly. 
+
+And lastly, we recall that what Maître Diagne said was correct, that we did, in fact, make an order this morning.  But we have decided to reconsider it.  We think that in the circumstances, we should order that the exhibit tendered by the Prosecutor should be admitted in evidence, the Accused to have the liberty to make the supplemental application if it is considered necessary.  
+
+I must add -- I can't resist adding, however, that we do have a concern with the volume of materials tendered in evidence, because it's going to come back to haunt us as we're going to have to read everything tendered in evidence before the decision is completely given.  So we have an interest in controlling the volume of material which is tendered before the Court.  
+MS. FRANKSON-WALLACE: 
+With your indulgence, Mr. President, before the ink dries on the first part of your order, I believe we're all aware of the order that was made in relation to the information that should be disclosed to the Prosecution.  The Prosecution, I humbly submit, has tried its endeavour best in this session to double up and work to very tight time constraints.  It has caused personal sacrifice for us, but we have done it in the interest of moving the process along.  All that I am seeking from the Trial Chamber at this stage, given that we have five weeks, if you would consider giving a indication to the Defence, very gently, as to some time limit within which the information is to be provided so that we can use the downtime profitably.  That is all I'm seeking, if the Trial Chamber considers it appropriate.  The order has been made, but the order has not been obeyed.  I think we are well aware of that.  So perhaps a little nudge from the Trial Chamber in regards to time would be helpful. 
+
+MR. PRESIDENT:
+I thought I had said "shortly."  Do you want me to give a date?  You see, the actual date is going to depend on the date we actually publish judgement -- decision, but we expect the information should exist already and that it would be communicated in a very reasonable delay.  
+MS. FRANKSON-WALLACE: 
+Very well, Mr. President.  I am sure that the Defence has heard you.  
+MS. DIAGNE-MBAYE: 
+Mr. President, with the courtesy -- considering the courtesy you require us to comply with, I should merely like to point out that when I hear of personal sacrifices on the other side, we also -- we have only had four months since December.  We have just heard eight -- nine witnesses under conditions of threats and all the rest of it.  So it's merely to submit, very courteously, as you do ask of us, that we have -- we are -- we don't need to be taught anything, and we do always try -- do our utmost to comply with your instructions, but too much is too much.  We try to comply with your instructions, and we hear about personal sacrifices made to -- well, that is really too much and -- because at this -- my heart is bitter over this to overflowing, and I think, really, they should take a mirror and look at themselves.  And I say this with utmost courtesy, Mr. President.  
+MR. WEBSTER: 
+For the last housekeeping matter -- 
+MR. PRESIDENT:
+Mr. -- 
+MR. WEBSTER:
+This has nothing to do with Madam Dior.  I'm totally ignoring Madam Dior.  I could just have the Chamber confirm that the transcripts of the 12th and 13th of March can be admitted in evidence as 
+P. 317.  And Mr. Issa can pick up copies from me for the purpose. 
+MR. PRESIDENT:
+Admitted.
+ (Exhibit No. P. 317 admitted) 
+MS. DIAGNE-MBAYE: 
+Excuse me, Mr. President.  If I also correctly understood your ruling with regard to the point just mentioned by the Prosecutor regarding the admissibility of those documents, it's now up to Karemera Defence to seek out the transcripts, and the points are pertinent, even if it's 1,000 pages or 2,000 pages, when you say it's up to the Defence to also move that the parts that are relevant, pertinent, should be admitted.  Have I correctly understood you, Mr. President?  
+MR. PRESIDENT:
+Well, we did not anticipate that there would be the necessary -- we did not anticipate that it is necessary for any additional material to be tendered.  That's why, having reviewed the matter, we thought it was appropriate to make the order that we did.  But in light of the submission that you made, where you thought that there might be something additional which was required, we thought we will give you permission to draw it to your -- our attention in due course so we could make allowances for the additional material.  We want to make it quite clear that we don't want to have unnecessary material, because our reading list and what we have to do to do our work is already quite voluminous.  So we don't want unnecessary material that's not really relevant and pertinent to our decision-making purposes.  So we were just giving you an opportunity, if there was relevant material which was not included, that you could seek to have it included in due course.  That was the simple purpose of the order that we made.  
+MR. SOW: 
+Mr. President, with your leave, I would like to remind the Court that the Trial Chamber had promised us that it would deliberate within the context of WCL's testimony on documents which were to be tendered into evidence which we used.  Unless I'm mistaken or unless I've omitted something, we have not yet received the Trial Chamber's decision in this regard.  
+
+I will also like to draw your attention to the fact that all Defence teams, as well as the Prosecution, 
+we -- we are -- we've -- we are still at 80 and our team has tendered into evidence the least number of documents.  So if we are to respect the balance and if we were to move towards 300, then I think that we still have a lot -- a lot of room left, Mr. President.  That's why before we adjourn I'd like to remind you that we still have documents pending.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Mr. Sow, the decision is receiving attention.  We had, in fact, hoped that we would have been ready to give the decision orally, but it looks as though we won't be ready until next week.  But it will come out by -- during the course of next week, the issue with regard to the pending -- the pending exhibits.  
+
+I hope that the remarks I had made before, which prompted your response, was not heard as a criticism, because I had no desire to criticise your team for making unnecessary filings, but I was -- just made the remarks in response to the specific comment by Maître Diagne where I wanted to assure her that I was not inviting her to file a thousand pages.  
+MR. SOW: 
+Mr. President, I can reassure you that, as I normally say, we will not overwhelm you with needless documents.  You can be sure of that.  And up to now we have produced a reasonable amount of documents.  And, as I always say, we do everything possible in order to save judicial time, and I think the Trial Chamber is well aware of this.  Thank you, Mr. President.  
+MR. PRESIDENT:
+I think this brings us to the end of this trial session.  We have -- apart from this last witness, we have completed the scheduled work.  And we probably would have completed our schedule completely if it had not been for this unexpected event that occurred today.  
+So I would like to thank all of you for your cooperation and the way in which your work has progressed during this session.  Also the very efficient CMS and related agencies of the court management section.  We say thank you all.  And we take our adjournment now until the next trial session at the 
+beginning -- at the end of June.  
+MS. DIAGNE-MBAYE: 
+Mr. President, before adjourning, what about the issue pertaining to communication with my client, I mean, which was raised before we adjourned towards the end of the morning session?  
+MR. PRESIDENT:
+Ms. Diagne, enquiries had commenced and they are in progress.  However, because the trial session is ending now, the particular concern which you raised is no longer urgent, and we will ensure that it is formally addressed very shortly and then you'll get an answer to the concerns that you had expressed.  
+MS. DIAGNE-MBAYE: 
+Mr. President, I have another proposal to make.  My concern is very urgent because during the following break, I'm certainly going to see my client, and the problem will be raised again and I will not have the Trial Chamber to which to complain.  So while awaiting the result -- the outcome of the enquiry, could you issue an order to facilitate communication?  Because we need a fair trial.  You can order that the communication between our team and our client during our defence case phase should be facilitated while awaiting the outcome of the enquiry.  
+MR. PRESIDENT:
+Yes, but the phrase "communication" is very vague.  What we -- we understand that the problem is very limited.  It's limited to making telephone calls when you are in Arusha.  So that's a very specific issue which is not pertinent urgently.  You have access to visit.  You have access to telephone calls when you are not in Arusha.  So we understand that the issue that's in dispute is a limited issue which we needed to understand a bit more about before we could express any ruling on it, because I understand it's a matter which affects not only you, but all of the Defence teams who are undergoing trial.  So it's a matter which -- which we needed to get more information before expressing any ruling upon it.  That's why we don't have a ruling now.  
+MS. DIAGNE-MBAYE: 
+Thank you, Mr. President.  Apart from the fact that I am saying that it's highly probable that I'll come to Arusha, and when I'm here in Arusha the problem will arise, this morning when I said when we're in our respective countries and when we call one another and in spite of a clear decision which I wanted to raise, you said that with regard to calls from lawyers of clients, the calls are unlimited.  This is written clearly.  This is a decision I wanted to show you this morning, and this -- it was signed by the president at that time, president of the Tribunal.  It's not that I'm not complying with your decisions.  It's -- I will comply with your decisions, but I will leave here with my same concerns and same difficulties regarding working on our case.  And I hope that the enquiry will move forward and that you will receive the results as soon as possible so that you can find appropriate solutions to the problems.  Thank you, 
+Mr. President.  
+MR. PRESIDENT:
+Thank you all.  
+
+We now take our adjournment.  
+(Court adjourned at 1550H) 
+(Pages 49 to 53 by Sherri Knox)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Lisa D. Smith, Claudette Ask, Joe Reynosa, Sherri Knox, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Lisa D. Smith
+
+
+___________________________	 Claudette Ask
+
+
+___________________________	 Joe Reynosa
+
+
+___________________________	Sherri Knox
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 15 MAY 2008
+
+LISA D. SMITH - ICTR - TRIAL CHAMBER III - page 17
+
+	KAREMERA ET AL		THURSDAY, 15 MAY 2008
+
+CLAUDETTE ASK - ICTR - TRIAL CHAMBER III - page 37
+
+	KAREMERA ET AL	THURSDAY, 15 MAY 2008
+
+JOE REYNOSA - ICTR - TRIAL CHAMBER III - page 48
+
+	KAREMERA ET AL	THURSDAY, 15 MAY 2008
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 53
+
+	KAREMERA ET AL	 2008
+
+ICTR - TRIAL CHAMBER III
+

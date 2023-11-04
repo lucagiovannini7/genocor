@@ -1,0 +1,739 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	CALLIXTE NZABONIMANA
+
+
+MONDAY, 9 NOVEMBER 2009
+0931H 
+TRIAL 
+
+
+Before the Judges:
+	Solomy Bossa, Presiding
+	Mparany Rajohnson
+	Bakhtiar Tuzmukhamedov
+
+For the Registry:
+	Mr. Nouhou Madani Diallo
+	Mr. Ivan Nyongo
+	
+For the Prosecution:
+	Mr. Paul Ng'arua 
+	Ms. Memory Maposa 
+	Mr. Simba Mawere
+	
+For the Accused Callixte Nzabonimana:
+	Mr. Vincent Courcelle-Labrousse
+	Mr. Philippe Larochelle
+
+Court Reporters:
+	Ms. Janice Dickman
+	Ms. Melissa Hook
+	Ms. Kelly Surina
+	Ms. Verona Kerekes
+	Mr. Sheriffo Jammeh
+
+
+P R O C E E D I N G S 
+MADAM PRESIDENT:
+Good morning, everyone.  
+
+Could registry introduce the matter before the Trial Chamber this morning. 
+MR. DIALLO:
+Thank you, Madam President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Solomy Bossa, presiding, Judge Bakhtiar Tuzmukhamedov and Judge Mparany Rajohnson is sitting today, Monday, 9 November 2009, for commencement of trial in the matter of the Prosecution versus Callixte Nzabonimana, Case No. ICTR-98-44-T.  
+
+Thank you, Madam President.  
+MADAM PRESIDENT:
+Thank you, Registry Officer.  
+
+Did you state your name, Registry -- Registrar, for the record. 
+MR. DIALLO:
+Sorry, Madam President.  My name is Nouhou Diallo, the coordinator for Trial Chamber I, acting today for the registry.  
+
+Thank you.  
+MADAM PRESIDENT:
+Thank you.  
+
+Could we now have the parties -- counsel for the parties introduce themselves, starting with the Prosecution. 
+MR. NG'ARUA: 
+Good morning, Madam President, Your Honours.  The Prosecutor sends his regards and greetings to the Bench.  And I also send my greetings to my colleagues across the aisle, the registry, and the court officials. 
+
+Madam President, my name is Paul Ng'arua, senior trial attorney, and I'll be leading the Trial Chamber in this case.  I'm assisted by appeals counsel Memory Maposa, case manager Marie Ka and Mr. Simba Mawere.  I also have with me my interns and researchers.  
+
+As the Court pleases.  
+MADAM PRESIDENT:
+Thank you, Counsel.  Could we have the names of the interns? 
+MR. NG'ARUA: 
+Thank you.  Mr. Jonathan Flynn, Miss Ida Okoth, Mr. Roy Kiarie, and our researcher is Diana Karanja.  
+
+As the Court pleases. 
+MADAM PRESIDENT:
+And if you could pass to the court reporters the names of those people so that they can be correctly recorded.  Thank you. 
+MR. NG'ARUA: 
+Will do.
+MADAM PRESIDENT:
+Thank you.  
+
+Could we have the appearances for the Defence. 
+MR. COURCELLE-LABROUSSE:
+Good morning, Madam President, Your Honours, I'm Vincent Courcelle-Labrousse, from the Paris bar.  I'm one of the lawyers for Callixte Nzabonimana. 
+MR. LAROCHELLE: 
+Madam President, Your Honours, I'm Philippe Larochelle, I'm co-counsel for Callixte Nzabonimana, and I'm a lawyer with the Quebec bar in Montreal.  
+MR. BATARD:  
+Madam President, Your Honours, my name is Fernand Batard, I'm an officer of the -- retired officer of the French gendarmerie and I'm here as an investigator for Callixte Nzabonimana. 
+MADAM PRESIDENT:
+Well, thank you, Defence.  Normally the introductions for the other members of the team are done by lead counsel or co-counsel.  But thank you very much, Mr. Officer.
+
+We notice, Counsel for the Accused, that the Accused is not present in court.  Is that the position?  
+MR. COURCELLE-LABROUSSE:
+Indeed, Madam President, Your Honours, Mr. Nzabonimana is not present in court this morning.  
+MADAM PRESIDENT:
+Could we have the reasons why he's not present, please, briefly, Counsel. 
+MR. COURCELLE-LABROUSSE:
+Mr. Nzabonimana believes that he cannot be present here today under the circumstances in which his case is opening.  This is the general reason for his absence.  The practical reason is, also, that given the late receipt, extremely late receipt of several documents disclosed by the Prosecutor, in particular those in Kinyarwanda, Mr. Nzabonimana cannot be at his trial because he is translating documents which he didn't have the leisure of having earlier, and we did not either, for unknown reasons.  
+
+So within that framework and given the situation in which we are finding ourselves today, Mr. Nzabonimana cannot be present.  He apologises to the Court and, please believe me, this is not a refusal of the acceptance of your competence to proceed with this trial.  But it's also, at the same time, a form of protest, mainly against the practice by the Prosecutor, which is the main reason for this unfair situation that is prevailing.
+
+Secondly, it is a practical necessity which arises from the conduct of the Prosecutor.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Does the Prosecution wish to respond?  
+MR. NG'ARUA: 
+Madam President, Your Honours, we are -- we are surprised that Mr. Nzabonimana's reason for failure to come to court today is not as a result of failure of the registry to inform him that he should be here.  It's also not a failure of health or other conditions.  But he's now blaming it on the Prosecutor for certain Kinyarwanda documents having been disclosed late by the Prosecutor.
+
+Madam President, I do recall that this is not new.  In the last pre-trial conference that we had, I think it was on the 15th of October, the Defence indicated to Your Honours that they may -- that Mr. Callixte Nzabonimana may not attend trial for the same reason.  Subsequent to that motions were filed by the Defence with respect to disclosure of certain Kinyarwanda records that were disclosed to them.  Those records pertained to Witness CNAC, I believe, there were pro justitias and witness statements that had been filed in the national jurisdiction in Rwanda in the case against him.
+
+So the Prosecutor disclosed those documents as soon as he could get them.  And we also responded to the request of the -- of the Defence to stay trial on the same ground.  And the Court came out with a ruling that there were no issues of disclosure that could warrant the postponement of trial for late disclosure.  So, My Lords, I'm taken aback and surprised that now he has found it fit to blame it on the Prosecutor.
+
+Now, My Lords, my suggestion is that this is a matter that borders on the provisions of Rule 82 bis whereby, in my view, the Accused has made an initial appearance and is now refusing and obstructing the commencement of Court.  My Lords, my view is that this is a matter that has been properly addressed by the Court and, as such, the Court is aware of the issues and the Court has decided that those issues cannot cause a postponement.
+
+So in my view, Mr. Nzabonimana's action is to enforce that unilateral decision that this case should be postponed, and not because the documents that were disclosed to him are of any real significance to the fair trial issues before Court.
+
+Now, those documents, let's be just very clear about them, there are 67 documents.  And most of them, except the first 13, are witness statements of witnesses in Rwanda who mention his name or circumstances surrounding his case there, his genocide case there.
+
+So the only issue that we thought related to anything close to disclosable material were the first 13 documents, which, again, do not fall under Rule 66(A)(ii), but were Rule 66(B) material, in our view.
+
+So what are those documents?  Because it would have been more cogent, probably, to look at the contents of those documents.  Those are arrest warrants issued against CNAC.  Those are general statements of interrogation by the prosecutor in Rwanda with respect to -- that he conducted with CNAC.  Those documents talk about everything else.  They talk about death of other persons, the involvement of the prime minister, Mr. Jean Kambanda.  They talk about everything else except Mr. Callixte Nzabonimana.  Except one document, which is one page long, in which he is questioned about certain killings or certain participation of Mr. Callixte Nzabonimana.
+
+So, really, if it's a question of saying that he's now spending so much time translating those documents, one is taken aback.  And this should be interpreted, in my view, in my submission, as obstructing the commencement of trial.
+
+My Lords, that is all I have to say for now because all these matters have been considered by the Court.  Indeed, they have been argued and decisions have been reached.  And we know that the parties have also requested for reconsideration and also for certification.  So these are matters that have been dealt with by the Court.  And his conduct, therefore, should be deemed as obstructing the commencement of trial.  
+
+As the Court pleases.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Defence Counsel.  
+MR. LAROCHELLE: 
+With your leave, Your Honour, I would like to briefly respond to the Prosecutor.  
+
+We are ready this morning to make an oral motion requiring relief in view of the Prosecutor's complete failure to respect its disclosure obligations.  I can state there are new development -- there were new developments after Your Honours rendered their decision on the request for postponement, and there were new developments since Friday.  We received, less than 24 hours ago, the signed -- the famous signed questionnaires which we have been requested -- which we have been requiring for months and which contain now further information.  
+
+Now we know precisely what the Prosecutor has failed to obtain, in some cases since 2003, which are prior statements of this -- of the witnesses he intends to call this very morning.  And I can make all these submissions right now, if you wish, or I can wait for later.  But I can tell you that we don't agree with the Prosecutor's very narrow view that he takes on his -- generally on his disclosure duties, and precisely this morning as to the fact that only CNAC is the matter at hand here.  
+
+We are receiving also Gacaca documents, not only only from the Prosecutor, but also from our investigators which are in Rwanda, despite all the obstructions of the Rwandan state.  And that's what he's currently translating also.  
+
+So these are the matters which I intend to address later when we make formally this motion for seeking remedy against -- in view of the Prosecutor's failure to abide by his disclosure duties under the Rules of Procedure and Evidence.  And I intend to make this motion under Rule 5 of the Rules of Procedure and Evidence which allow me to do that.  
+
+Thank you, Your Honour.  
+MADAM PRESIDENT:
+Counsel, we are addressing the reasons for the absence of the Accused.  You can make the motion as and when you are ready, but we want to restrict ourselves to this particular issue before the Trial Chamber.  Thank you.
+
+The Trial Chamber has listened carefully to the submissions of both Counsel and it is of the view that regardless of the circumstances outlined by both Counsel, the Accused should be here to attend his trial.
+
+Registry, before we proceed we would like confirmation from you that the Accused was notified of this trial date.  Was that the case?  
+MR. DIALLO:
+Yes, Madam President, he was notified.  Thank you.  
+MADAM PRESIDENT:
+Thank you.  We are also -- we have also taken into account the responsible registry.  These are serious proceedings and everybody should consider them as such.  Under Rule 82 bis, we note that the Accused has already made his initial appearance.  We also -- under Rule 62 we have also been -- we have also received confirmation that the Accused was notified to be present.  How -- and the Accused is also represented by counsel.  
+
+However, in the interest of justice, we direct the registry to make a formal written notification to the Accused to be present at the opening of his trial.  And for this reason we will adjourn these proceedings to 4 o'clock this afternoon to enable the registry to transmit this directive to the Accused.  And the registry can confirm to us whether this is sufficient time for it to do so.  And if the Accused is not present here at 4 o'clock today to start his trial, then he will be deemed to have waived his rights to be present at this trial.
+
+Registry, I would like to receive confirmation from you that time is sufficient to enable you to dispatch this written notification to the Accused. 
+MR. DIALLO:
+Yes, Madam President, time is sufficient to inform him of the directive this morning.  I take instruction to let him know he should be here at 4 p.m. 
+
+Thank you.  
+MADAM PRESIDENT:
+Thank you, Registry.  
+
+Accordingly, these proceedings are adjourned to 4 o'clock this afternoon to begin the trial of the Accused.  The matter is now adjourned. 
+(Court recessed at 0953H)
+(Pages 1 to 6 by Janice Dickman) 
+
+
+
+
+
+
+
+
+(Court resumed at 1602H)  
+MADAM PRESIDENT:
+The hearing of the case is resumed.
+
+Registry, could we have a report.  
+MR. DIALLO:
+Good afternoon, Madam President.  
+
+I just want to say that just after the Court adjourned, we sent a message to UNDF, a written message, a letter by email, and so I called the commanding officer.  But just before I came here now I received the advice that the Accused Nzabonimana has decided to maintain his position to not be in court today.
+
+Thank you, Madam President. 
+MADAM PRESIDENT:
+Thank you, Registry.
+
+Defence Counsel, do you have anything to say on this matter?  
+MR. COURCELLE-LABROUSSE:
+No, Madam President.  I've duly noted that my client maintains his position. 
+MADAM PRESIDENT:
+And you have been duly instructed to represent him; you still have those instructions?  
+MR. COURCELLE-LABROUSSE:
+Yes, Madam President. 
+MADAM PRESIDENT:
+Okay.  Then this is the ruling of the Trial Chamber on this matter:  It appears that the Accused has decided to absent himself from his trial without reasonable cause despite two notifications that he should be present for his trial today.  
+
+As the Accused made his initial appearance under Rule 62, and the registrar has duly notified him that he's required to be present for his trial today and the interests of the Accused are represented by his lead counsel and co-counsel, who are both present in court and who confirm have instructions to represent him, the Accused has deemed to have waived his rights and his trial will proceed in his absence.  Our decision is represented by Rule 62 bis of the Rules of this Tribunal.  
+
+We would now like to proceed with the trial in accordance with Rule 84 of the Rules.  But before we invite the Prosecution to make an opening statement, if any, we would like to read the following 
+oral ruling relating to a motion which was filed by the Defence on the 2nd of November concerning reconsideration and/or stay of proceedings with regard to various decisions that had been rendered by the Trial Chamber in the previous week.
+
+This is the oral motion, the oral decision.  I should mention that this is part of the decision -- this will be the oral decision on the motion by Nzabonimana, the Accused, for stay of proceedings, reconsideration and/or certification of the decision rendered on 29th October 2009 and reconsideration and/or certification of the decision rendered on 30th October 2009.  The Trial Chamber has considered the Defence motion filed on 2nd November 2009.  It has also considered the Prosecution response filed on the 4th of November 2009 and the Defence's reply filed on the 5th of November 2009.  
+
+As already stated, the Trial Chamber will render an oral decision today and file a written decision with the Trial Chamber's full reasoning by the end of the week.  
+
+In its motion the Defence makes three requests.  The first is that the Trial Chamber stay proceedings until the French government cooperates with the Tribunal, and the Trial Chamber asks the President to report France's non-cooperation to the Security Council.  A second Defence request is that the Trial Chamber reconsider certification -- reconsider or certify it to appeal its decision dated 30th October 2009 requesting postponement of the start of the trial.  The third Defence request is that the Trial Chamber reconsider or certify to appeal its decision dated 29th October 2009 regarding the prior judicial records of Prosecution witnesses.  
+
+Regarding the first request, that is, that the Trial Chamber stay proceedings until the 
+French government cooperates with the Tribunal, the Trial Chamber held in its decision, this is 30th October 2009, that postponement of the start of trial is not justified on the basis of 
+France's non-cooperation.  
+
+The Chamber has considered subsequent communication from the French authorities in response to its decision and it is its considered opinion that they do not compel the Trial Chamber to rule otherwise.  The Trial Chamber will however bring this issue to the attention of the President of the Tribunal.
+
+The Trial Chamber considers that it has the inherent power to reconsider its own decisions where a new fact has been discovered, new circumstances have arisen or where a party is able to show that an injustice was occasioned by a Trial Chamber's decision.  
+
+With regard to the Trial Chamber's decision of 30th October 2009 on the start of the trial date, the Trial Chamber has reviewed carefully the additional material submitted by the Defence and considers it does not warrant reconsideration of the Trial Chamber's decision.  Further, the Trial Chamber has taken into account Rule 73(B) and finds that the Defence has not justified its request for certification to appeal its 30th October decision on the start of the trial date within the meaning of Rule 73(B).
+
+In its submission to this motion, the Defence also refers to a new fact, which is the 
+Prosecution disclosure of 23rd October of what appears to be prior statements of Witness CNAC, among other documents.  With regard to the Trial Chamber's decision of 29th October 2009 on the prior judicial records of Prosecution witnesses, the Trial Chamber therefore considers that a new fact has come to the Trial Chamber's attention which it was not aware of at the time it made its decision of 29th October 2009.  
+
+However, this new fact effects only one section of that decision and therefore the Trial Chamber will only reconsider that particular section of the decision.  The Trial Chamber notes that some of the documents disclosed on 23rd October 2009 include prior statements of Prosecution Witness CNAC which appear to fall under Rule 66(A)(ii).  This Rule 66(A)(ii) requires disclosure no later than 60 days before the start of the trial.  The Trial Chamber considers an appropriate remedy to be the postponement of the testimony of Prosecution Witness CNAC until the last weeks of the 
+Prosecution case.
+
+The Trial Chamber will address the disclosure issues as and when they arise on a case-by-case basis.
+
+Now, regarding the request for certification to appeal the same decision of 29th October 2009, the 
+Trial Chamber considers that in the event of further disclosure problems the Trial Chamber can guarantee the fair trial rights of the Accused while resorting to available remedies such as delaying the testimony or even the cross-examination of a witness, among others.  
+
+Thus the Trial Chamber finds that the Defence has not justified its request for certification to appeal this decision of 29th October 2009.  The Trial Chamber therefore only grants the motion only to the extent mentioned in its decision and denies it in all other respects.
+
+Now before we go on to -- Registry, there's a problem with the system.  There are a lot of echoes.  I don't know where the problem is.  Can this matter be looked into?  We'll proceed in the meantime while this matter is being rectified.
+
+Before we proceed to hear the opening statement from the Prosecution, we'd like to mention a few issues which we think might lead to the smooth conduct of this trial.  We may be mistaken, but we have not seen an order -- a formal order of appearances of witnesses by the Prosecution.  We are relying on what was stated in the pre-trial brief.  Could we have a new order of appearance filed by the Prosecution, preferably before we -- we continue with the trial tomorrow morning.
+
+We would also like to say that in order to prevent disruption of the trial schedule, the Trial Chamber directs the Prosecution to ensure that it has at least two witnesses in reserve prepared to testify at all times in the event that the testimony of one or several witnesses is or may be postponed, as is the case with Witness CNAC.
+
+And, finally, with regard to the Prosecution's motion for reconsideration or certification to appeal the Trial Chamber's decision of 29th October on prior judicial records, the deadline for filing a reply is set at three days following the response of the Defence.  
+
+And as a general matter in this case, unless indicated otherwise by the Trial Chamber, the parties will have five days to respond to any motion and three days to respond to any reply.  
+
+Could we now have the opening statement from the Prosecution, if at all, in accordance with Rule 84. 
+MR. NG'ARUA:
+Thank you, Madam President, Your Honours.  
+
+The appearance for the Prosecutor is as before.  And I will proceed now to make a brief opening statement in this case.
+
+My Lords, this Court sits today as a result of the conscience of humanity, a conscience which found expression in resolution number 955 of the United Nations Security Council.  
+
+Resolution 955 was passed on 8th November 1994 for two reasons:  First, there was a perceived threat to international peace and security as a result of the killings and massacres and sufferings of 
+human beings that occurred in Rwanda.  Secondly, the world community was determined to 
+fight impunity and to bring to account those responsible for acts of genocide and other crimes against humanity.  
+
+The accused person before Your Honours is here today to answer for the part he played in the 
+1994 Tutsi genocide in which over 1 million people were killed.  You may hear justifications, excuses put forward by the Accused for why the Tutsis were murdered.  You may hear the Accused rationalising the killing of Tutsis or talk of mass hysteria that gripped the Hutu population after hearing of the death of President Juvénal Habyarimana on the 6th of April 1994.  
+
+My Lords, I will argue before this Court that the Accused was responsible for the well-orchestrated, widespread and systematic mass murder in Gitarama préfecture in 1994; that the death of 
+President Habyarimana was a spark, one which ignited the explosive climate that existed in Rwanda and culminated in what is now referred to as the 1994 genocide.
+
+On 9th April 1994 the interim government was sworn into office.  The accused person was sworn in as minister for youth, a post which he held before the formation of the interim government.  Prior to 1994, the Accused held the office of minister for planning in the MRND government of 15th January 1998 to 4th February 1991, in the first so-called multiparty government formed on 31st December 1991 and in the second multiparty government formed on 16th April 1992.  
+
+The Prosecutor will adduce evidence to show that the Accused was a very powerful and well-respected person in Gitarama community, because at the time he was appointed minister for planning, Gitarama préfecture was essentially abandoned by the central power.  When he was appointed the Accused used his prominent position to promote the development of the préfecture and this endeared him greatly among the residents of Gitarama.  
+
+The interim government, which was comprised of ethnic Hutus, passionately joined in the conspiracy to kill Tutsis and moderate Hutus.  They quickly facilitated the efficient, if not ruthless, implementation of a criminal enterprise to kill innocent Tutsis.  To this end the interim government did not hesitate to use state apparatus at its disposal.  
+
+Callixte Nzabonimana indoctrinated and mobilised the Hutu population, in Gitarama in particular, to begin an annihilation of the whole of the Tutsi population, events that resulted in the Rwandan genocide of 1994. 
+(Pages 7 to 11 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1630H
+MR. NG'ARUA (continued):
+The ethnic Tutsi segment of Rwanda society was labelled as  accomplices of the RPF and were held responsible for the death of President Habyarimana.  The accused person was vigorously involved in this process.
+
+So extensive were the killings that the abuse of -- and the abuse of the state machinery by the Accused that no one, even in the remote communes of Gitarama, was spared from this genocidal frenzy.
+
+In the days following President Habyarimana's death, Tutsi men, women, and children were attacked in their homesteads and relentlessly pursued with almost demonic relish.
+
+To the most sacred of havens, the churches.  Churches that had previously sheltered thousands of Tutsis during the pogroms of 1959 to 1973 became infamous in 1994 as sites of mass murder and brutal executions.  
+
+So shocking were the outrages committed in Rwanda broadcast across the globe by satellite TV and so shaken was the conscience of mankind that the international community quickly responded by establishing this Tribunal to bring to justice those responsible for these gross violations of 
+international law.  
+
+Permit me to note, Your Honours, that the genocide which left over 1 million dead in over 100 days almost also witnessed the mass displacement of over 4 million people, either internally or to neighbouring countries.
+
+Entire communities, therefore, were either wiped out, displaced, or both.  In number this represented over half of the 1994 national population of ethnic Tutsis totalling approximately 8 million people.
+
+Police and judicial authorities had been either threatened, killed, compromised, or were rendered ineffective by the accused person's criminal actions to commit genocide.
+
+The net result of this mayhem were conditions which do not lend themselves to the meticulous 
+forensic enquiry often found in domestic jurisdictions during times of peace.   
+
+It is in this context, Your Honours, that we now appear before you to bring to trial the accused person, Callixte Nzabonimana, for the crimes in the alleged indictment.  The Prosecution is confident that from the ashes of this conflict, they have been able to assemble credible evidence to prove their case beyond a reasonable doubt.
+
+The Accused.  Who was Callixte Nzabonimana in 1994 Rwanda?  Callixte Nzabonimana was born in 1953 in Nyabikenke commune, Gitarama préfecture.
+
+Callixte Nzabonimana was a member of the ruling MRND party at both national and préfectoral level.  And at various times between 1989 and 1994, he held positions of minister of planning and later minister for youth and associative movements within the government of Rwanda.   
+
+He remained in the cabinet until July of 1994 when the interim government fled into exile.  In 1994, as chairman of MRND party in Gitarama préfecture and serving minister of youths and associative movements, Callixte Nzabonimana was a person of great prominence and consequently was able to win considerable influence within his local community in Gitarama préfecture.
+
+As such, at the time alleged in the indictment, civilians, law enforcement agents, members of the Interahamwe militia in Gitarama préfecture followed his orders.
+
+He exercised de jure and de facto authority and as such wielded a substantial power and influence over local population in Gitarama préfecture and all over Rwanda generally.  
+
+He exercised authority, influence, over the civil service, the military, gendarmes, préfectures, bourgmestres, conseillers de secteurs, members of the MRND political parties, and extremist 
+Hutu power factions in other political parties.  
+
+He had power over civil defence militia including the notorious Interahamwe militia.  He had the power to order such groups and persons to commit or refrain from committing unlawful acts.  And he could discipline them or rebuke them for unlawful acts.
+
+The Prosecutor will show, without reasonable doubt, that Mr. Callixte Nzabonimana incurred 
+individual criminal liability for criminal acts in which he took part.   
+
+The broken promise.  On those days between 8th April and 31st July 1994, Callixte Nzabonimana took affirmative action to encourage the killings as well as to conceal, mischaracterise, and rationalise the killing of Tutsis.
+
+But before assuming office as minister for youths, Callixte Nzabonimana took a solemn oath to ensure the rights and security of all Rwandans without discrimination.  As a member of the government, the Accused had a legal duty to prevent or punish the perpetrators of genocide and other transgressions of international law.  Instead of preventing the genocide, the Accused conspired with others to kill Tutsis resulting in individual criminal liability.
+
+The charges.  Today, Your Honours, the accused person stands charged with five counts:  The count of genocide, conspiracy to commit genocide, direct and public incitement to commit genocide, the extermination as a crime against humanity, murder as a crime against humanity.
+
+What was Callixte Nzabonimana's participation in the genocide?  The Prosecutor will urge the Court that, notwithstanding the theory of liability, the Trial Chamber is entitled to find the Accused guilty if it determines that he participated in a crime through any form of participation enumerated under 6(1) or incurred the intent, object, and purpose of the Statute; namely, to bring to justice all persons responsible for genocide and other serious transgressions of international law.
+
+The Prosecutor will establish criminal culpability of the Accused under 6(1) and demonstrate that, A, the Accused participated in the commission of crimes; that is, his conduct contributed to the commission of crimes; and B, that the Accused participated or contributed to the commission of crimes with the requisite knowledge or intent.
+
+Now let's turn to the conspiracy to commit genocide.  In this trial, Your Honours, you will hear evidence of a conspiracy to kill Tutsis in which the Accused agreed with his supporters to destroy 
+Tutsi population including innocent children.  You will hear testimony of how children too young to walk were murdered under his instructions and orders.
+
+The path of hell.  The Prosecutor will also show that at various times in 1994 Callixte Nzabonimana had the power of life and death in his hands and that he chose to abuse that power to commit genocide and other serious crimes against humanity.  
+
+The Prosecutor will show that, from 8th of April, wherever Minister Callixte Nzabonimana went in Gitarama, his campaigns were soon followed by bloodletting and the displacement of Tutsi population.
+
+He blazed out Gitarama from the valleys to the hilltops, a path that can only be categorically described as the path of hell.  Throughout the genocide, Callixte Nzabonimana encouraged the killers and participated in the massacres of hundreds of Tutsis in the Nyabikenke commune office, 
+Ntarabana parish, in the Gitovu secteur among other places.
+
+Callixte Nzabonimana conducted many public meetings in which he instructed official bourgmestres, gendarmes, Hutu civilians, Interahamwe, communal policemen to kill Tutsi civilians seeking places of refuge such as commune offices and churches.
+
+The Nyabikenke communal office in Ntarabana parish in Gitovu secteur are a few examples of his malicious actions.  As a result of his actions, massacres became widespread in Gitarama.   
+
+Your Honours, you will hear chilling testimonies how merciless Callixte Nzabonimana watched as a group of Tutsi refugees at Nyabikenke secteur were lined up in a single file, some naked, others wailing, as they were frogmarched on his orders to River Nyabarongo to be killed.   
+
+All the while, Callixte Nzabonimana was distributing weapons at the same place to other killers.  Some of the Tutsi refugees were able to escape and will give their testimony here.
+
+During the genocide, the Accused often told Hutus to first kill their Tutsi neighbours before feasting on their cattle and that they should solve the problem of the Tutsi before sharing out their property.
+
+Your Honours, you will hear bone-chilling testimony that Callixte Nzabonimana served beer to the attackers at his home in Kavumu secteur, Nyabikenke commune to show his solidarity and support for the killers.  
+
+Again, on or about the 11th of April 1994 at the Mbuye market, Gitarama commune, the Interahamwe, the Hutu civilians, killed a Tutsi man called André Kamanzi by striking him with a machete and throwing him in River Nyabarongo in the presence and with the support of Callixte Nzabonimana.  
+
+You will hear the story of how Callixte Nzabonimana, who can only best be described as the 
+"Butcher of Gitarama", came across Interahamwe who were assaulting two Tutsis.  And what did he do?  He told the Interahamwe that they were doing a good job.  He gave them money and regretted that he did not have enough and encouraged them to continue to work and further ordered them to find and kill a Tutsi soldier called Protogene.
+
+Following this, the two Tutsis were killed.  On 18th April 1994 in Rutobwe commune, Gitarama, Callixte Nzabonimana stormed a local jail and ordered the release of the perpetrators of the killings and told the public not to obey the bourgmestre who was against the killings.  These actions paved the way for eruption and intensification of massacres in Rutobwe commune.
+
+Again, on the 18th of April 1994 at Murambi training centre, Callixte Nzabonimana, together with other members of the interim government, ordered the killing of bourgmestres and other local officials opposed to the killings.
+
+Soon after meeting the bourgmestres at Mugina commune, Callixte Ndagijimana and two conseillers from Nyamabuye commune, namely, Bernard Twagiramukiza, conseiller for Ruli, and Martin Gasigwa, conseiller for Musiba, were killed by persons including Hutu civilians and Interahamwe.  
+
+You will hear testimony that on 22nd April 1994 in Gitarama, Callixte Nzabonimana, acting in concert with the bourgmestre of Ntongwe commune, Charles Kagabo, and the Interahamwe leader, 
+Joseph Setiba, planned a massive killing of Tutsi refugees at Mugina church and other buildings in the complex.  Many Tutsis were killed by Interahamwe and Hutu civilians following this.
+
+In June 1994 you will hear, Your Honours, that Callixte Nzabonimana told the Interahamwe, communal policemen, Hutu civilians in Nyabikenke commune to kill six Tutsi children, the eldest of whom was 15 years and the youngest was about two and a half years old.  The children were killed by Interahamwe, communal police, and some Hutu civilians.
+
+Your Honours, this is by no means the end of the tale of horrors meted out on innocent Tutsis by Callixte Nzabonimana.  You will hear more gory testimony of the inhumanity displayed by 
+Mr. Callixte Nzabonimana.  The Prosecutor will adduce evidence to leave no doubt in your 
+reasonable minds that Callixte Nzabonimana committed the atrocious crimes he is charged with.
+
+Of course, the Accused may instruct his attorneys to express several offenses including that the Prosecutor is hiding exculpatory information or that he has not had sufficient time to prepare his defence.   
+
+The Prosecutor will show that the Prosecutor has discharged his duty and has ensured, to the best of his ability, that no exculpatory information has been held back from the Defence of Callixte Nzabonimana.  
+
+We are confident that Callixte Nzabonimana will have a fair chance to exculpate himself before this Court, if he can, from the serious indictments against him today.   
+
+You will hear evidence of victims and survivors, innocent men and women, who lost entire families at the hands of Callixte Nzabonimana, men and women who lost everything it meant to be human, men and women traumatised for life and whose erstwhile crime was to be born Tutsi.
+
+The accused person is now before Your Honours to face his crimes.  I hope that justice will flow from this Court to placate all those who -- all those in the world that have been touched by this crime.  
+
+I pray that justice of peace of mind is restored to all of us who have had to live through the details of this genocide and that this world will never again produce another Callixte Nzabonimana after this trial.
+
+Your Honours, with these few remarks, the Prosecutor is ready to present his evidence.  I thank you, My Lords, for your attention.
+MADAM PRESIDENT:
+Thank you, Mr. Prosecutor.
+
+Could we know from the Defence whether it elects to make its opening statement now or at the time of the opening -- or at the time of the presentation of evidence for the Defence in accordance with 
+Rule 84.  
+MR. COURCELLE-LABROUSSE: 
+Madam President, Your Honours, the Defence for Callixte Nzabonimana would wish, most of all, to respond immediately to the presentation of the opening statement made by the Prosecutor.  
+
+You are being told that you will hear witnesses come to say -- testify that Callixte Nzabonimana is a monster, that Callixte Nzabonimana allegedly did this or that.
+
+The Prosecutor of the Tribunal is proposing a trial without any history or background.  And why is this?  Because his evidence begins on the 7th of April 1994.  And after having argued that Nzabonimana was the chairman of the MRND party in his préfecture and that he had occupied ministerial posts, this is about all you're being told in respect of this man's career before that fateful day of the 7th of April 1994. 
+
+And I would say that this is the beginning of the difficulty of the exercise because the Prosecutor is putting it to you -- in the manner in which he drafted and severally amended his indictment, he is telling you about -- he's breaking the history in the initial indictment.  
+
+Callixte Nzabonimana was also accused of facts, prior to 1994, of meetings -- and there were many of them, and you have worked a lot on them.  And I have realised that he has set this aside -- the Prosecutor has set this aside because in reality, Callixte Nzabonimana never, ever, before or after, illustrated in Rwanda -- illustrated himself in Rwanda as being a political man or a politician who was seen in some extremist factions of some other Rwandan political parties.   
+
+So if I'm to go along with the theory of the Prosecutor and the presentation which has just been made, this man became a monster suddenly on the 7th of April 1994, or because of the assassination of President Habyarimana on the 7th of April, he suddenly became a serial killer in his commune of origin and, more generally, in Gitarama commune.
+
+I would like to come back to this man because he is the one that you are to try, and I want to go back to his prior history so that we can see what exactly was happening because the Prosecutor of the International Criminal Tribunal for Rwanda is working in such an intellectually dishonest manner, this Prosecutor who enjoys the mandate of the international community and who is calling upon history; whereas, he has even failed to abide by the mandate assigned to him by the international community.
+
+And he begins his work by judging severely, very severely, the historians who have taken a step back from these beautiful images that you have just been presented with.  Nzabonimana was a minister.  He was a technocrat.  
+
+And the reason for this is very simple.  This man went through his education, after secondary school education, in Europe where he remained for ten years.  He's a scientist, and he followed his studies at the university of Dijon in France, and then he went into a college which was a scientific college of geology in Nancy.  
+
+He was not very well known in Rwanda.  He worked for several years in the private sector in France in large companies which have changed names because they have been merged or they have been absorbed, especially the company known as Technique and then COGEMA, which is today known as AREVA.  It's one of the leading lights in nuclear science and activities.
+
+So this is a man who was trained elsewhere.  He worked and lived in another culture.  He worked in the private sector.  And because of the choices that he made, as many intellectuals from Africa often have to do, to go back to his own country, his native country, to help in development.
+
+He was the son of a man from the north of the country.  And maybe because he had a good education, he had a professional experience which was useful for the country, he became a secretary at the presidency or the office of the president.  And after a few years, he was appointed minister for planning.
+
+He exercised his functions so well in this job that he was replaced.  Someone was made to take his place.  But, however, he was retained, and then he became minister for youth and the associative movements, in other words, the last ministry in the order of protocol of the Rwandan government, the ministry with the smallest budget, which you can well imagine, in this country which was already quite so poor.
+
+So this is by way of somewhat giving you some information which would enable us right away to go into the substance of the matter and not merely remain at the level of generalities.
+
+Callixte Nzabonimana was, indeed, a native of Gitarama préfecture.  And all those who have been interested in studying the history of Rwanda are aware that it was in this préfecture that the revolution of 1959 began.
+
+It was from this préfecture that came all the leaders of the MRND parliament Hutu of 1959.  And the regional powers of these individuals was annihilated or rendered nil when Habyarimana succeeded in the coup d'etat of 1973.
+
+And the paradox of this man, Callixte Nzabonimana, is that when the multiparty era began in Rwanda, almost all the préfectures referred back to the MRND -- the MDR party, but Callixte Nzabonimana remained with the president's party.  He didn't leave, like most of the people from that préfecture.
+
+And had the Prosecutor done objective investigations, he would have, naturally, changed his opening remarks because Nzabonimana, while he remained in the MRND, the party of the president, he could not remain in his native commune from where the 1959 revolution, in effect, began.
+
+So we are going -- yes, we are going to try to demonstrate how our task is being rendered difficult because we have to work with these conditions.  We have the duty to demonstrate and show that the evidence to be adduced by the Prosecutor, the Prosecutor who was referring to history, will not rely on facts but only on witnesses.
+
+I don't deny that some of them have certainly horribly and enormously suffered.  That might well be the case.  But they are today involved in a scenario which goes well beyond the framework of this session, this hearing, which goes beyond the political scope, and is trying to put an end, once and for all, to the whole former political hierarchy, be it in exile in Europe or elsewhere.  
+
+And in situations which render them unable to do anything, the Tribunal should not try to obtain a conviction of all the leaders, all the politicians, the Hutu members of the interim government, which saw the light of day on the 9th of April 1994.
+
+On the 7th of April -- and in this respect, I would like to raise the examples given to you by the Prosecutor earlier on.  On the 7th of April 1994, Nzabonimana sought refuge at the embassy of France together with other ministers and other civil servants as well as journalists.
+
+The paradox is that the government of Rwanda is the one involving in this trial because it brought the report -- it drew a report, and the effect is the French have a report which shows that officials of that government went to the French embassy in order to receive protection from the French government.  
+(Pages 12 to 20 by Kelly Surina)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+MR. COURCELLE-LABROUSSE (continued):
+The first example the Prosecuton gave you earlier on, supposedly, Nzabonimana, Callixte, took part in the drowning at River Nyabarongo of Tutsis.  These are events which occurred at the time when Nzabonimana was a refugee at the French embassy.  
+
+This is the first manipulation on the part of the Prosecutor in avoiding to carry out real investigations.  The Prosecutor could have carried out investigations because there is writing on the 1994 events and it is clearly -- it has been clearly written scientifically that -- and factually that government ministers were at the French embassy and that there was a meeting with the officials of the French embassy -- there was a meeting aiming to set up a government.  
+
+But the Prosecutor has not looked into this.  Instead, they're going to call witnesses who are going to tell you when Nzabonimana was at the embassy, it was at the same time looking at people -- 
+or -- who were being killed at a river.  
+
+The Prosecutor -- I will give you another example.  The Prosecutor's talked about the meeting of the 18th April 1994.  Yet another paragraph in the possession of the Prosecutor is that with regard to the October events on 18th, 1994, his information is based on the statement of 
+CNO (sic) -- Witness CNO, who's no longer a Prosecution witness.  
+
+The Prosecution has never taken a position on this witness.  Yet he wants to give you an example of an allegation set out by that witness basing -- relying on a witness who's no longer on his list for the past one and a half years.  Yet the Prosecutor still wants to tell you the Prosecutor (sic) actually caused the rivers of blood to flow in the Gitarama préfecture.  
+
+Another example is when the Prosecutor tells you about Nzabonimana as having taken part with one Setiba in Muginga commune in acts of violence.  Yet this element is no longer in the indictment.  The Prosecutor has withdrawn it from the indictment.  
+
+Mr. Ng'arua, you have withdrawn that specific accusation.  Yet you maintain it as an example of something that you are going to prove before this Court.  In other words, you're going to show it before this Court.  
+
+This, in a nutshell, is the quality of evidence and proceedings that is being proposed to you by the Prosecutor in his case.  You -- relying on Prosecution witnesses who are to appear this week 
+and -- but some recall those witnesses have been met prior to coming here, but yet on Friday we 
+were -- on Sunday we were told that we could not ask them any questions regarding the trial, even when we met them before that time.  
+
+This is a technique of this international Prosecutor, which is being totally discredited today because the Prosecutor is failing to fulfil his mission.  They're not diligent in their investigations on the -- compared to police investigators in normal countries who countercheck their information, who countercheck to see that -- whether their witnesses have not testified in other cases.  They countercheck assertions and allegations made by such witnesses for weeks before calling them before a court where they would present evidence in the right manner for weeks and weeks.  
+
+But true investigators do present their evidence on a solid basis and not on the basis of information which has not been counterchecked, and just -- by just calling witnesses to be Prosecution witnesses without any solid evidential -- evidentiary grounds. 
+
+The road for us is going to be extremely long.  Not because the allegations and charges set out by the Prosecution are the truth, but they are multiple.  They are disorderly, so much so that we are compelled to actually carry out investigations on the Prosecution witnesses.  Therefore, this trial is going to be very difficult for us and it will take a long time.  
+
+From the outset, I would like to tell you that our responsibility is a very serious responsibility because before this Tribunal, if you try Callixte Nzabonimana on the basis of his guilt in 
+one or two acts, we, as Defence lawyers in such a case, have to commit ourselves by assuming our responsibility encountering that case because our client depends on us to such an extent that the latest information disclosed to us -- disclosed to us by the Prosecutor, including the oral decision you have just rendered, all form a technical and permanent issue in this case.  
+
+And this presents a difficulty on us when we have to conduct, eventually, cross-examination of the witnesses who will be called here this week, and my learned friend and colleague, Mr. Larochelle, is going to explain to you why.  
+MR. LAROCHELLE:
+Madam President, Your Honours, this will be slightly more technical, but you referred earlier to the order of presentation of Prosecution witnesses.  An order was mentioned on 15th October 2009, according to which CNAM would be -- would be the first witness, to be followed by CN -- 
+MR. NG'ARUA:
+My Lords -- 
+MR. LAROCHELLE:
+-- AP.  
+MR. NG'ARUA:
+-- I have an objection.  I have an objection because at this stage you instructed us to give an opening statement.  Now, do I take it now that the opening statement by my learned friend is over and now that we're dealing -- we are now dealing with a motion?  
+
+I think the appropriate thing to do -- the appropriate thing Mr. Larochelle should do is to introduce the motion properly, and not in the disorderly manner in which we are proceeding, by saying exactly what is the issue and then go ahead to talk about the motion that he's dealing with now.  But to pretend that it is an extension of the opening statement, I think that is procedurally wrong, and he's misleading the Court. 
+
+I, therefore, request that he be directed to either proceed with the opening statement -- the part that has been left by his learned senior -- or abandon what he is doing now and introduce it in a formal manner that is understandable.  Because after the opening remarks, then the 
+Prosecutor's turn comes up and we're entitled to call witnesses.  And if they have a difficulty with us calling our first witness, then they must bring forth a well-reasoned motion to do -- for the witness not to be called, but not in this deceptive way in which they're proceeding.  
+
+As the Court pleases.  
+MADAM PRESIDENT:
+Defence Counsel, we would like some clarification.  What do you seek to do?  Just explain what you seek to do before we can decide what to do next.  
+MR. LAROCHELLE:
+Yes, Your Honour.  Indeed, the opening statement is finished, so I will just indicate at this point that before we call the first witness, we will have representations to make.  
+MADAM PRESIDENT:
+Is this a motion, an observation?  What exactly is it?  
+MR. LAROCHELLE:
+Well, if I may briefly explain it, as I said, we received an order of witnesses on 15th October.  We received, by way of a letter from the Prosecutor on 6th November, a different order of witnesses, and during the session that was meant for us to interview the Prosecution witnesses yesterday night, we received a new sequential order for the witnesses.  And the importance here is to submit that the order since yesterday night is to be for this week CNAP, CNBU, CNAZ, CNAM, and CNAF.  
+
+So the first leg of my submissions, if I may, concern the fact that the order has changed.  Your Honours are well aware of the multiple difficulties we keep raising regarding prior statements, judicial curriculum and multiple material which we are seeking in order to effectively conduct the cross-examinations of the Prosecutor witnesses.  Last minute changes like that will just make it impossible for us.  
+
+We are trying to do as best as we can with the resources that we have to obtain translations, to obtain material, to direct the people that are on the field in Rwanda to make sure that we obtain this material in a way that we will be effectively able to cross-examine these witnesses.  But we respectfully submit -- and this is only the first leg of our submissions -- that 
+changes-of-witnesses order like that makes our life impossible.  
+
+And the second leg of those submissions, Your Honour, is -- we filed earlier this afternoon a motion which, probably, Your Honours, did not have time to consider, but we are seeking -- in a nutshell, we are seeking relief for what we allege to be eight instances of non-compliances by the Prosecutor with the rules of this Tribunal.  
+
+The remedy that we seek concerning the witnesses is that we want all -- and systematically all their cross-examination to be reported to a further session of this Tribunal.  We -- I don't want to dwell on that matter.  We explained in -- these remarks can be made for every witness.  But what I want to submit, with regards to the first witness which the Prosecutor intends to call, is that we have received yesterday afternoon the field questionnaires by some of the Prosecutor witnesses, those which Your Honours ordered earlier, that they provide such questionnaires.  And this is an example of difficulties which will arise each and every time a new witness is called.  
+
+And that witness reveals that, indeed, he has testified in some Gacaca proceedings in 2003, six years ago, Your Honours.  The statement of that witness dates from 1998.  We do not have those proceedings -- despite having in our possession hundreds of pages -- those, unfortunately, with our means -- with the means at our disposal and the time that we have, we were not able to obtain them.  
+
+Therefore, we will request, and that's -- we announce in advance that this is our position.  That we will request for each of these witnesses for who the existence of 66(A)(ii) material is established, that their cross-examination be postponed to the next session of this trial.  Those are my remarks at this stage, Your Honour.  And I thank you to let me -- the floor -- to give me the floor. 
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Before Counsel for the Prosecution responds, the Bench has difficulty about the order of appearance of witnesses as earlier indicated and we'd like to have the latest order of appearance of Prosecution witnesses, if you may.
+MR. NG'ARUA:  
+Madam President, Your Honours, the order of appearances, as my learned friend has indicated, the first witness will be CNAP, followed CNBU, followed by CNAM and CNAF.  But we need to -- we need to clarify something here.  My learned friend has dealt at length about the order of call of these witnesses.  And it strikes me, really, that the Defence is seeking every means to delay the completion of this trial because of the following reasons:  
+
+One, out of a basket of five witnesses, if we indicate, for instance, that CNAP will be called next and WVSS comes here and says, "She has developed a toothache", shall we now postpone trial when CNBU is available?  I think it is unreasonable.  
+
+When I conducted the Bizimungu trial, in which I'm sure that my learned colleague was then one of the legal assistants in that trial, it was held in that trial as a standing procedure that within a small collection of witnesses, say five, it matters not what order of call will be given by the opposing party, be it the Prosecutor or the Defence, because of the technical issues of delay that may occasion a serious delay because a person says that he is not ready to cross-examine any of the witnesses.  
+
+Now, that is one aside, and I would implore Your Lordships to behold with the Prosecutor that this is a very small basket of witnesses.  I'm not talking about the entire range of witnesses, but those five.  
+
+Now, in any event, this order, CNAP followed by CNBU, is the order that we intend to proceed with and we are sure that the Defence counsel has prepared all five witnesses.  And if they have not, then we have a very serious problem of due diligence here 
+
+Now, the other matter that he has raised was with respect to your instructions some few weeks back that they be allowed to meet with Prosecution witnesses.  All the Prosecution witnesses were brought here on Sunday.  They were at the waiting room and in the custody of WVSS and were called one after the other.  And when they were asked by Defence counsel that he wanted to ask them questions, they declined.  It is their right to do so.  They declined.  They said, "Look, I'm not interested to talk to you.  I will talk to you tomorrow in court."  However, in compliance with your instructions, they had all signed a declaration which we duly gave to the Defence counsel informing them of what proceedings had taken place before national jurisdictions in Rwanda.  
+
+Now, I find the Defence argument a bit confusing because are they saying that it is the Prosecutor's duty to hunt for these documents in Rwanda, contrary to the jurisprudence of this Tribunal?  We are under no obligation to hunt for these documents in Rwanda.  Indeed -- 
+
+I think the Judge is trying to draw the attention of the registrar.  
+MADAM PRESIDENT:
+Sorry to interrupt you, Counsel.  
+MR. NG'ARUA:
+That's all right. 
+MADAM PRESIDENT:
+Counsel, could you switch off your microphone, please 
+
+Yes.  Counsel, you may continue your submissions.  Sorry, you were interrupted.  
+MR. NG'ARUA:
+My Lords, we were saying that with respect to these so-called "new discoveries" that the Defence is talking about, the Rutaganda judgement clearly says that it is not the duty of the Prosecutor to go hunting for such documents which are not in his possession.  And, as such, the Prosecutor is not obliged to obtain judicial material relating to witnesses from Rwanda.  It was also upheld in the Kajelijeli appeals judgment at paragraph 263.  So it is really -- and the Defence knows this.  It is really not an issue here.  
+
+And, finally, we have to balance the interests of justice and also the rights of the witness.  It does not make any sense whatsoever, as far as I'm concerned here, to call a witness here; they testify; and then postpone their testimony or their cross-examination to the next session on the grounds that they have a Gacaca record somewhere which the Defence and the Prosecutor does not know the details of, and until they find out what it is, then that witness will be cross-examined.  I think that is putting the cart before the horse.  They should first of all put it to the witness.  
+
+And now we know that the Defence is relying on an alibi defence that Mr. Callixte Nzabonimana was not there when you say he was.  That is the end of the of matter.  Of course, the Defence may want to conduct their defence in a different manner, but I submit that we shall object to the witness being sent back to Rwanda after giving their examination-in-chief, to come back at a later date for some unknown reason to be cross-examined by the Defence, particularly more so when we know that the Defence of Mr. Callixte Nzabonimana is that he was not there.  It is manifestly unfair for these witnesses.  These witnesses sacrifice a lot.  They leave all their concerns, all their jobs, their families to be here and to subject them to this sort of torture, it does not assist the course of justice.  
+My submission, therefore, is that the Defence must cross-examine the witness and if they can justify, after whatever period it is before the close of the Defence case, that there is a need to recall a witness for a particular item, then they can do so.  But they cannot time and again throw a spanner in the works as they started this morning and in the previous pre-trial conference.  It is unacceptable for them to postpone cross-examination on a ground of some unknown material that they wish to put forth to the witness.  
+
+So, My Lords, I implore you to allow the witness to be called -- CNAP, is out here and willing to come -- and that you direct the Defence counsel to proceed with cross-examination.  And then if they come across any other information that may justify the recall of the witness, then that should be put in a formal motion and brought to your attention.  
+
+My Lords, you will notice that we have disclosed all the documents to the Defence counsel.  We have binders in front of you with all the statements.  So they are well aware of the statement of CNAP.  They know exactly what it is all about.  So I do not see a difficulty in them being able to proceed with their cross-examination with the information they already have.  And if they have none, there is nothing wrong about saying that "we do not have questions in cross-examination."  
+
+As the Court pleases.  
+MADAM PRESIDENT:
+Thank you, Prosecution. 
+
+Defence, do you have anything to say?  Briefly, please, in no more than two minutes. 
+MR. LAROCHELLE:
+It will be very brief, Your Honour.  
+
+First, it is wrong to say that we don't know what the material is.  Now that we received 
+12 hours ago -- 24 hours ago the famous questionnaires which we were requesting for many weeks, we know precisely what the material is.  And the experience has revealed that when they testify before their communities, these people give much different stories than they are here in this bubble in Arusha where they don't feel they are subject to the scrutiny of their communities.  So this is why it is important, before we embark on cross-examinations, to be in possession, to have the chance to have it translated and to be allowed to confront them with all the prior 
+judicial material which they have generated in the course of their judicial history.  
+
+And if I may finish on that, Your Honour.  There is a law in Rwanda -- the law in Gacaca states that every citizen of Rwanda has the duty to participate in Gacaca works, which means that we can safely assume that all of these witnesses, if they are making allegations now, which very often concerns Nzabonimana and other people from their communities, have generated material in Rwanda which is highly important for the Defence to get before we embark on cross-examinations.  And that is why we request their cross-examinations to be postponed to a further session.  
+
+I thank you, Your Honour.  
+MADAM PRESIDENT:
+We have listened carefully to both counsel, and this is the short ruling of the Chamber on this matter.  
+
+First of all, the Chamber needs to point out to the Prosecution that the Bench and all the parties in this case need to know who will be the witnesses week by week and that we should have this information in advance.  So for this week, we would like to know the witnesses, and we would like to know the witnesses for next week tomorrow so that everybody can prepare.  
+(Pages 21 to 28 by Verona Kerekes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1730H 
+MADAM PRESIDENT (continued): 
+The second issue we want to point out is that, adjustment to the order of presentation of witnesses should not be made without clearance from the Chamber in accordance with Rule 73 bis (E).  So we will expect the Prosecution or the Defence, if it is the one which is concerned, to approach the Chamber with a proposal which must be weighed and then decided upon.  
+
+For this week, given that the witnesses were on the list and that the Defence has had notice that they will be presenting their testimonies this week, the three witnesses, CNAP, CNBU and 
+CNA -- is it F -- M, will be allowed to present their evidence.  
+
+With regards to Gacaca records, the Chamber cannot make a blanket ruling regarding all the witnesses who may or may not have Gacaca records.  The Chamber expects the Defence to make a case, 
+case by case, for a witness's testimony to be postponed or for cross-examination to be postponed.  This has to be demonstrated and, therefore, we cannot make a ruling without concrete situation before us.  And that the Defence should bear in mind.  Should the concrete situation arise, you can approach the Chamber and the Chamber will make the appropriate decisions depending on whether you have made the necessary demonstration.  
+
+Now, we noticed from the time that we've already exceeded our time for today, but it's unfortunate that we can't proceed with any witness today.  We hope to start hearing all the witnesses beginning tomorrow.  
+
+We would only like to remind the parties that we expect them to adhere to the timelines which they presented to us in their estimates.  Three hours, approximately, for the examination-in-chief of a witness and, approximately, the same amount of time for cross-examination by the Defence.  This is not to restrict anybody or to prevent anyone from ventilating those issues which we consider important, but we hope that the parties will bear in mind that we have to have time limits within which to lead witnesses and that we can do that efficiently and quickly.  
+
+We thank you very much everyone, and this proceeding stands adjourned -- maybe before we adjourn, we should point out that we shall be sitting from 9:00 to 5:30 everyday except Friday, and except for two days next week when one of us has a commitment.  Otherwise, we expect this trial to run from day-to-day.  
+
+With those few remarks, this matter is adjourned for further hearing to tomorrow at 9 o'clock in the morning.
+Yes, Counsel.
+MR. COURCELLE-LABROUSSE:
+Madam President, what are the days next week, if it is possible to know now?  
+MADAM PRESIDENT:
+Monday and Tuesday next week.
+MR. COURCELLE-LABROUSSE:
+Monday and Tuesday we sit?
+MADAM PRESIDENT:
+Yes.
+(Court adjourned at 1739H)  
+(Pages 29 to 30 by Sheriffo Jammeh) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Janice Dickman, Melissa Hook, Kelly Surina, Verona Kerekes and Sheriffo Jammeh, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in no wise interested in the result of said cause.
+
+
+
+____________________________	Janice Dickman
+
+
+____________________________	Melissa Hook
+
+
+____________________________	Kelly Surina
+
+
+____________________________	Verona Kerekes
+
+
+____________________________	Sheriffo Jammeh
+
+
+
+
+
+
+
+
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+JANICE DICKMAN - ICTR - TRIAL CHAMBER III - page 6
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 11
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page 20
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+VERONA KEREKES - ICTR - TRIAL CHAMBER III - page 28
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+SHERIFFO JAMMEH - ICTR - TRIAL CHAMBER III - page 30
+
+	NZABONIMANA	MONDAY, 9 NOVEMBER 2009
+
+ICTR - TRIAL CHAMBER III
+

@@ -1,0 +1,1265 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	
+
+WEDNESDAY, 25 AUGUST 2010
+1029H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Roger Kouambo-Tchinda
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Maria Wilson
+	Mr. Takeh Sendze
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+Court Reporters:
+	Ms. Sherri Knox
+	Ms. Melissa Hook
+	Mr. Joe Reynosa
+	Ms. Tanya West
+	Ms. Deirdre O'Mahony
+	
+			
+
+
+I N D E X
+
+WITNESS
+
+For the Defence:
+GUSTAVE MBONYUMUTWA
+Examination-in-chief by Mr. Weyl	6
+Cross-examination by Mr. Webster	37
+
+EXHIBITS
+Exhibit No. D. NG95	7
+Exhibit No. D. NG96	29
+Exhibit No. D. NG97	31
+Exhibit No. P. 518	41
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. KOUAMBO-TCHINDA: 
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session today, Wednesday, 25th of August 2010, for the continuation of the trial in the matter of the 
+Prosecutor versus Édouard Karemera and Mathieu Ngirumpatse, Case No. ICTR-98-44-T.  
+
+Thank you, Your Honours.  
+MR. PRESIDENT:
+Thank you.  
+
+Well, I suppose I should take appearances and find out how everybody likes our new environment.  
+MR. WEBSTER: 
+Good morning to everyone.  It feels a bit like déjà vu, since I believe this is where we started out.  The Prosecutor is represented by myself, Don Webster, along with Takeh Sendze and Maria Wilson.  We should also reflect the presence of our case manager, Jean-Baptiste Nsanzimfura.  Good morning to everyone.
+MR. PRESIDENT:
+Thank you.  
+
+Ms. Diagne.  
+MS. DIAGNE-MBAYE: 
+Good morning, Mr. President, Your Honours.  Dior Diagne, lead counsel for Édouard Karemera, assisted by Mr. Bernard Munyanziza, investigator.  Thank you. 
+MR. PRESIDENT:
+Thank you.  
+MR. WEYL: 
+Mr. President, Your Honours, good morning.  Frédéric Weyl, co-counsel for Mathieu Ngirumpatse.  With me, Mathieu Ngirumpatse; Chantel Hounkpatin, lead counsel; Marina Yetongnon, legal assistant; one of our investigators, Mr. Ntirugiribambe.  I need to get used to it, Mr. President.  And there is also 
+Élise Taulet.  
+There two things that I need to get used to.  The first one is that we have changed the courtroom, and I thank the Court for ordering this relocation.  It was extremely uncomfortable there.  And to start these proceedings on a good note, to the extent that the source of the incident was closer to the Prosecutor -- Prosecution bench, we did not see any attempt -- attack against the Defence.  
+
+Secondly, not only have we moved and relocated geographically but also in the configuration, to be closer to you and closer to the witness, we have taken the first bench.  For me, that creates a problem.  Unfortunately, I have -- I do not have eyes behind me, and that's why I did not see Dior Diagne or her feet. 
+MR. PRESIDENT:
+Thank you very much, Mr. Weyl.  
+
+Well, so we are all comfortably established.  I think I should just state for the record that we did receive the communications that Mr. Édouard Karemera has again refused to come to Court this morning and that his lawyer will represent him.  
+
+So we received the notice to this effect, Ms. Diagne, and I presume that's accurate. 
+MS. DIAGNE-MBAYE: 
+Yes, Mr. President.  Except to add that he expressed the wish to receive your decision, the one you rendered the last time and which we were expecting for today so that things can be clearer in his mind.  
+
+And then, Mr. President, let me take this opportunity to propose -- to make a legal -- to raise a legal issue.  I discussed with Mr. Weyl, who accepted to share his experience with me.  Yesterday you did say that in the decision that will be rendered reference is made to the authorisation of the certification for appeal.  My colleague, Mr. Weyl, has told me that in spite of that, in March 2008 when he wanted to appeal before the Appeals Court -- the Appeals Chamber, this was not accepted because his team did not -- his team did not request for a certification of appeal even though the Trial Chamber granted it.  So I want to make that request that Édouard Karemera's Defence team is applying for a certification so that our appeal can be accepted before the Appeals Chamber.  
+MR. PRESIDENT:
+This is the first indication we had that you intended to appeal, but we'll accept your application and deal with it accordingly.  
+MS. DIAGNE-MBAYE: 
+I agree, Mr. President.  I was stating that, for me, the fact that you had embodied in your document the fact that the certification for appeal is granted, for me, that should be enough.  But I'm saying this so that it will be on the record that Karemera's Defence team is making an application for certification for appeal. 
+MR. PRESIDENT:
+Ms. Diagne, this requires an amendment to the document that we had prepared, because we had included in it -- or we were including in it the fact that Ngirumpatse had applied for certification, and we are granting his application.  So you're quite correct that unless we adjust our order, you would not have had the right to appeal.  So now you make the application, we'll have to take account of it and address it in that manner.  
+MS. DIAGNE-MBAYE: 
+Thank you.  And I also like to place on record that I'm within the time limit.  So I thank you for your decision to review the decision that you are write -- you are drafting.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Webster.
+MR. WEBSTER: 
+Yes.  Good morning to everyone.  I understand that the first witness will be coming into the courtroom shortly, and the Prosecution would like to make a request that this Chamber make an enquiry of the witnesses as a standing matter, it's a standing request that for every witness that has been accorded protective measures, that the Court make a preliminary enquiry of the objective basis for their wish for protection.  
+
+I'd prefer that it come from the Court and not from the Prosecution.  I notice that of the 35 witnesses that Ngirumpatse intends to hear, some of them have written books where they identify themselves and their complaints against the RPF.  I think at least two witnesses fall into that category.  And when the Court made its decision, it really made a blanket accommodation for all of the witnesses that would be called.  
+
+So just as a matter of procedure, as we did during the Prosecution case and with many of Nzirorera's Defence witnesses, if we could simply make a two- or three-question enquiry to know the objective basis for the wish of each witness to testify only with a pseudonym.  Thank you.  
+MR. WEYL: 
+Mr. President, I did not quite understand Mr. Webster's request, but what I would like to tell the Chamber is that the witness who is being called today said that he want -- he intends to waive the protection and renounces to the -- and that he intends to testify under his name.  The witness could then enter the courtroom with the protection -- with the witness protection, and then when proceedings start, he can waive that right.  But beyond that, I'm not too sure if I understood Mr. Webster's request.  Maybe the Chamber can clarify this for me.  
+
+MR. PRESIDENT:
+What you have said supports Mr. Webster's request, so I think it's clear now.  
+
+What would be beneficial to the Chamber would be early notification of the witnesses who desire a change in their protective status.  It would assist us in our preparation for receiving their testimony.  
+
+Could you now call the first witness, please.  
+MR. WEYL: 
+Mr. President, the first witness is Witness BGB.  And when he confirms to the Chamber that he intends to waive the protective measures, then we can refer to him by his real name.  Let me inform the Chamber that we have reverted to the initial order of BGB, as we envisaged on Monday, because he should be on the plane tomorrow evening and there should be no problem taking his entire testimony.  We prefer to hear him today.  And Mr. Webster said he had no objection to that.  
+MR. PRESIDENT:
+Mr. Weyl, I have to reiterate that the Chamber controls the way in which these things operate.  The lawyers can't just at the last minute make changes of their own without any notification to us.  Just yesterday afternoon when we enquired about the order of the witnesses, we were told that a different witness would be the first witness.  And we require you to provide notice to the Bench of the order in which the witnesses are to appear.  
+MR. WEYL: 
+Mr. President, we thought we had notified the Chamber in this regard.  We thought we had sent an email to the Chamber yester-night, and for that we apologise to the Chamber.  
+MR. PRESIDENT:
+And, in any event, once the order has been approved, you can't change it without our permission.  
+(Witness entered courtroom)
+MR. WEYL: 
+Mr. President, we request the Chamber to grant us the authorisation to hear Witness BGB who -- as the first witness, who is now in the witness -- on the witness stand.  
+MR. PRESIDENT:
+Permission is granted.  
+MR. WEYL: 
+Thank you, Mr. President.  
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Bonjour.  Good morning.  
+
+MR. PRESIDENT:
+It's better if you spoke in only one language as we have simultaneous translation facilities, and it would be easier for the translators to know which language you are going to be giving your testimony in.  Which language would you like to testify in?  
+THE WITNESS:
+In French. 
+MR. PRESIDENT:
+That's fair enough.  
+
+Now, the Chamber had initially made a protection order in your case allowing you to testify under circumstances where your identity would be concealed from the public.  We understand that you do not wish to benefit from our protective order and that you wish to testify in your name with your testimony and your identity being fully available to the public.  Is that the position?  
+THE WITNESS:
+Yes, that is correct.  
+MR. PRESIDENT:
+Do you understand the significance of that, of your decision?  
+THE WITNESS:
+Yes.  
+MR. PRESIDENT:
+The Chamber accepts your statement, and we rescind the protective order made in your favour.  You now will be testifying without any protection of your identity from the public.  
+
+Mr. Registrar, could you adjust the curtains so that the witness can be seen.  
+
+Now, Mr. Witness, as a preliminary to giving testimony, you have to take an oath to tell the truth, and the registrar will now assist you to do that. 
+(Declaration made by Gustave Mbonyumutwa in French) 
+MR. PRESIDENT:
+Witness, you will now give your testimony by responding to the questions put to you by counsel, and you'll respond, first of all, to counsel representing Mathieu Ngirumpatse. 
+THE ENGLISH INTERPRETER:
+Microphone, please.
+MR. WEYL: 
+Thank you, Mr. President.  
+
+
+GUSTAVE MBONYUMUTWA, 
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. WEYL:
+Q.	Good morning, Witness.  
+A.	Good morning. 
+Q.	As the President has told you, you are going to answer questions that I'm going to put to you and then possibly you may have to answer questions to be put to you by the Defence of Édouard Karemera and then you answer questions put to you by the Prosecutor.  
+
+Let me remind you that you have to give your answers to the Chamber and also remind you that you stated that you are going to testify in French.  Both of us are French speakers, and we have some people in this courtroom who speak English, so there is simultaneous interpretation.  So the questions that we're going to put to you and the answers that you are going to give, in between the two there should be a pause so that the interpreters can translate what we are saying into English for the English speakers.  So we need that pause.  And since your answers are translated, you need to speak sufficiently slowly for purposes of interpretation.  If you speak too fast, we will have to stop you.  
+
+Finally, if you mention a name for purposes of the transcript, you will have to spell it.  Let me give you an example, a very stupid example.  Kigali, for example, you spell it K-I-G-A-L-I.  At least the first time you mention a name.  Do you understand?  
+A.	Yes.  
+Q.	And let me tell you that since our discussion is going to be recorded, a sign by the -- a sign by the head cannot be recorded, so you need to give a verbal answer.  
+A.	Very well. 
+Q.	Thank you, Witness.  
+
+First of all, I would like you to go over your identity, to ask you your name.  
+A.	Mbonyumutwa, Gustave. 
+Q.	Are you able to spell Mbonyumutwa?  Slowly, please.
+THE ENGLISH INTERPRETER:
+If the witness can go over it.  He started before we got to that stage.
+BY MR. WEYL:
+Q.	For purposes of specifying your identity, I would like you to look at the identity sheet that the registrar 
+	is -- registry clerk is going to give to you.  Go through it very quickly, check the information there, and if it is correct, you sign and date it so that we save a bit of time, instead of you taking each item separately.  
+MR. WEYL: 
+Can the registry clerk give the identity sheet to Mr. Mbonyumutwa. 
+THE WITNESS:
+I have it already. 
+BY MR. WEYL:
+Q.	Thank you.  So can you go through it carefully, and unless it has some errors which you should point out to the Court, then sign and date it.  
+A.	It is done.  
+MR. WEYL: 
+Registry clerk, please take the signed identity sheet and show it to the parties and the Court.  
+
+Mr. President, I respectfully request that this personal identity sheet be accepted into the records. 
+MR. PRESIDENT:
+Admitted.  
+
+Mr. Registrar.  
+MR. MJUI:
+Document will be D. NG95, nine-five.  Thank you.  
+MR. WEBSTER: 
+If I could request that we make it under seal.  The witness has already identified himself by name, and I think it will become apparent later why this particular exhibit needs to be under seal.  
+MR. PRESIDENT:
+Mr. Webster, we don't have your reason yet, so we can defer taking a decision on that.  
+MR. WEYL: 
+Mr. President, I thank Mr. Webster for his concern regarding the identity.  That may be revealed without any problem, but for purposes of respecting the private life of the witness, it is not necessarily -- it is not necessary that all the information, including his address, be put in the public domain.  Maybe that will reassure him.  And I thank Mr. Webster for his suggestion and that -- that the suggestion that it be put under seal may be the wise one.  And if the Chamber is inclined to take that decision, I would like to thank you. 
+MR. PRESIDENT:
+We need to have a reason to do it.  The witness is not protected.  Now, if there is a reason, we will take that decision when it becomes apparent what it is.  
+MR. WEYL: 
+Thank you, Mr. President.  
+(Exhibit No. D. NG95 admitted, under seal) 
+BY MR. WEYL:
+Q.	Witness, have you ever testified in Arusha before? 
+A.	No, never.  
+Q.	Have you ever been contacted by the Office of the Prosecutor of the Arusha Tribunal, either for purposes of investigations or for you to testify? 
+A.	Yes. 
+Q.	Are you able to give some clarifications regarding the nature and the date of this contact? 
+A.	I have no clear recollection of the year.  It must have been 2000 or 2003.  I was contacted by 
+	Mr. Don Webster, together with one of his investigators or assistants, who asked to meet me to ask me some questions regarding events that I witnessed.  We met in Belgium, Brussels, and we had a discussion lasting about an hour or two in relation to those facts. 
+Q.	On that occasion he did not take any written statements? 
+A.	No. 
+Q.	Thank you, Witness.  Witness, on your identity sheet you were born in 1977; is that correct? 
+A.	Yes, it is. 
+Q.	You were born at Shyogwe, S-H-Y-O-W (sic) -- 
+THE ENGLISH INTERPRETER:
+We didn't hear the rest of the spell.  
+THE WITNESS:
+That is correct.  That's where I was born. 
+BY MR. WEYL:
+Q.	Are you able to tell the Court if you spent your childhood there or if you spent your childhood elsewhere?  And then in that case, tell the Court where you spent your childhood in Rwanda.  
+A.	Indeed, I did not spend my childhood in my place of birth.  I lived mainly in Kigali, and that was my early childhood.  I believe up till 1980 we were in Kigali, and then in 1980 we went to Gisenyi.  And then end of 1983, early 1984 we relocated in Belgium where we lived for three years until 1987, and then we came back to Rwanda.  First, we lived in the Nyamirambo area -- neighbourhood for one year and then we moved on to Kicukiro, so from 1988 to 1994.  
+Q.	Thank you, Witness.  Are you able to tell the Court -- tell the Court about your educational background.  
+A.	I did my primary schooling in these various areas, Gisenyi and Belgium.  And then when we came back to Rwanda, I completed my primary education, and then I went on to the Belgian school of Kigali until 1994 when we fled to Belgium, then I continued with the secondary education.  So I did my secondary and tertiary education in Belgium. 
+Q.	Thank you.  
+MR. WEYL:
+I'm sorry, but my -- I'm having a problem of contacting my microphone and that's why I'm having difficulties.  
+BY MR. WEYL:
+Q.	Are you able to tell the Court about your occupation? 
+A.	Today I work in a bank.  I'm in charge of a computer support service.  
+Q.	What is your level of education?  What were the last degrees you obtained from the university? 
+A.	I obtained -- I graduated in computer studies.  It was a bachelor's degree.  That is the last level I attained. 
+Q.	Witness, please tell the -- tell us, and answer freely, tell us if you belong to any ethnic group.  
+A.	Yes. 
+Q.	Are you able to clarify or tell the Court which ethnic group that is and what led you to the belief that you belonged to that ethnic group? 
+A.	I belong to the Hutu ethnic group and that -- because my father belonged to that ethnicity.  It's as simple as that. 
+Q.	So for you does ethnicity have any importance? 
+A.	No.  In a general manner, it has no importance.  But in a more specific manner, there are certain considerations that one needs to take into account, if you can clarify your question.  
+Q.	I wanted to know if, for you, ethnicity dictates your conduct or dictated your conduct when you were in Rwanda? 
+A.	No, not at all.  
+Q.	And did that ethnicity dictate the choice of -- your choice of friends? 
+A.	No, not at all. 
+Q.	Witness, do you know when the multiparty -- do you know when the multiparty system was introduced in Rwanda? 
+A.	I believe it was in July 1991.  
+Q.	At that time you were 14 years old; is that correct? 
+A.	Yes, that is correct.  
+Q.	In spite of the fact that you were young, were you interested in politics when the multiparty political system was set up? 
+A.	Yes, I was interested.  
+Q.	Do you follow political activities? 
+A.	Yes.  I followed political activities. 
+Q.	Were you involved in any political activity?  To be more specific, what I mean when I talk about political activity is, for instance, were you a member of any political party? 
+A.	No.  I did not join any political party as such.  
+Q.	However, do you have sympathy towards any political party? 
+A.	Yes.  I was sympathetic to a political party. 
+Q.	Can you then tell the Trial Chamber which political party? 
+A.	MDR. 
+Q.	Did you know about the establishment of youth wings in the main political parties? 
+A.	Yes, I was aware of that. 
+Q.	Were you a member of any of those youth wings? 
+A.	Not a member as such.  I was not a member of any of them. 
+Q.	Did you have any sympathy for any youth movement? 
+A.	Yes. 
+Q.	What organisation was that? 
+A.	The youth wing of the MDR known as the JDR. 
+Q.	During -- or, rather, from 1991 to 1994, did you participate or attend political meetings? 
+A.	No. 
+Q.	Did you attend public rallies? 
+A.	Yes, I attended rallies.  
+Q.	I assume that those were MDR rallies, weren't they? 
+A.	Yes. 
+Q.	Did you attend meetings or rallies of other political parties? 
+A.	No, I don't think so.  
+Q.	Mr. Witness, in your family did you have other members of your family who were involved in political activities? 
+A.	Yes. 
+Q.	Can you elucidate on that by telling the Court which members of your family and which political parties, maybe which positions they held? 
+A.	Well, there was my father, who was a member of the MDR political bureau at the level of the -- of the region.  That is all.  Only my father was involved in politics.  
+Q.	Unless you think that this could jeopardise the person's safety, in which case I'll ask you to write down the person's name on a piece of paper -- and it seems that we'll adopt this policy.  Can you please write down on a piece of paper your father's name.  
+MR. WEYL:
+Maybe that's not needed, because I have just noticed that the name is on the personal identification sheet of the witness.  So, Mr. President, I'm sorry about that.  
+BY MR. WEYL:
+Q.	Well, Witness, you're saying that your father was a member of the MDR political bureau? 
+A.	Yes, that is correct. 
+Q.	Witness, you told us that during the period in question, that is, up to 1994, starting from 1991, you were studying at the Belgian school? 
+A.	That is correct. 
+Q.	To be more specific, the Belgian school was in Kigali, right? 
+A.	Yes.  It was the Belgian school in Kigali.  
+Q.	Can you tell us, who were some of your close friends?  Can you give us their names?  
+A.	I had several colleagues or schoolmates.  I have to tell you that since I have not spoken to them about this testimony, I don't know whether I should give you the names or whether I should write them down.  
+Q.	Out of an abundance of caution, maybe you should write them down, at least those which seem to be relevant in respect of the current proceedings.  
+A.	Very well.  
+Q.	Mr. Witness, maybe you can limit yourself to the important names.  And can you give the piece of paper to the registry officer so that he can pass them on to the Honourable Judges.  
+MR. PRESIDENT:
+If they're going to be used in the proceedings, maybe a number should be attached to each name.  
+
+Mr. Witness, when the paper comes back to you, you should number them from one down.  
+THE WITNESS:
+Very well.  I would also like to add a name.  
+BY MR. WEYL:
+Q.	Mr. Witness, amongst your colleagues you have in particular written down the name of 
+	Delphine Ngirumpatse; is that correct? 
+A.	Yes, that is correct. 
+Q.	Were you close to Delphine Ngirumpatse? 
+A.	Yes, one can say that. 
+Q.	Did you meet her frequently? 
+A.	Yes, at school practically every day, as well as outside the school periods. 
+Q.	Were there other children from the Ngirumpatse family who were attending the same school? 
+A.	Yes.  When I was there, Delphine's older sister was at that school as well. 
+Q.	Ngirumpatse's family children, to your knowledge, were they involved in politics? 
+A.	No, not at all. 
+Q.	Ngirumpatse's children, were they trying to convert people to be members of MRND? 
+A.	No, not at all.  
+Q.	Were they involved in trying to convert other people to join the MRND youth wing? 
+A.	No, not at all.  
+Q.	Did you have political discussions with them? 
+A.	With Ngirumpatse's children?  
+Q.	Yes.  
+A.	Yes, from time to time we discussed -- we used to have discussions. 
+Q.	Were those discussions characterised by extremists or ethnicists comments? 
+A.	No, not at all.  None of them made such comments. 
+Q.	Were ethnicism and extremism admitted by your schoolmates? 
+A.	You're talking about my schoolmates?  
+Q.	Yes, Mr. Witness.  
+A.	No, none, not at all. 
+Q.	During that period, do you remember hearing speeches delivered by Mathieu Ngirumpatse? 
+A.	No, I don't remember that. 
+Q.	Did your friends at the Belgian school told you that they had heard Mathieu Ngirumpatse's speeches? 
+A.	No.  
+Q.	Do you think that if he had made ethnicist speeches, such speeches would have triggered a reaction on the part of your schoolmates? 
+A.	Yes, I think so.  
+MR. WEBSTER: 
+(Microphones overlapping)...to the question as it calls for speculation. 
+MR. WEYL: 
+Mr. President, what bothers me here is the objection came after the answer.  This means that if the answer had been different, maybe there would not have been an objection.  This is the first reason why his objection should be rejected.  
+
+I think I can reword my question differently, but it will still lead to the same answer.  I don't know whether the Trial Chamber thinks that I should reword or rephrase my question.  
+MR. PRESIDENT:
+Mr. Weyl, the question did call for a speculative answer.  It was really not a proper question.  
+MR. WEYL: 
+In any case, I think the answer is sufficient, Mr. President.  
+BY MR. WEYL:
+Q.	Mr. Witness, during that period -- I would like to remind you that we are basically talking about the period from 1991 to 1994 -- were you involved in cultural or sporting activities? 
+A.	Yes, I was involved in sports as well as in cultural activities. 
+Q.	Maybe you can develop on that.  What was the nature of your activities in sports? 
+A.	I often played basketball, be it at school or outside school.  I was a member of a basketball team in the neighbourhood.  I was amongst the founding members of that team and amongst the coordinators, if I can use that word. 
+Q.	When you talk about neighbourhood, what neighbourhood are you referring to? 
+A.	The neighbourhood in which we lived, that is, Kicukiro. 
+Q.	Thank you, Mr. Witness.  Could you please spell Kicukiro?  We did not do it earlier.  
+
+Maybe it's not necessary because I see the court reporter saying -- indicating that that's not necessary.  
+
+Can you tell us, what was the composition of your Kicukiro basketball team?  
+A.	What was the composition?  What do you mean?  
+Q.	What I mean is was it made up by people who were exclusively Hutus or were the majority Hutus?  
+A.	No.  It was not made up of only Hutus or only Tutsis, if that was your question.  
+Q.	Yes, that was the question.  So you are telling me that your team or the club had not been founded on the basis of discriminatory practices in that you had in that team friends and teammates who were both Hutus and Tutsis; is that correct? 
+A.	Yes, that is correct.  Not only in respect of ethnicity, but even in respect of political leanings.  There was a group -- that was a group of young people who just wanted to play basketball, and everything else was irrelevant.  
+Q.	Now, amongst your friends who said that they were Tutsis, do you know what happened to them?  Did they remain in Kigali throughout that period?  Did they have political affinities? 
+A.	Yes.  I know that there were some who supported the RPF.  We even discussed that from time to time on the basketball field.  According to information I have, it is said that some of them joined RPF.  And according to information, there are some of them who are no longer there.  And I don't have information on some of - some of them. 
+Q.	Thank you.  Did any amongst them at any point in time express any reaction to Mathieu Ngirumpatse's speeches? 
+A.	No, never.  
+Q.	None of them told you that he or she had heard Mathieu Ngirumpatse deliver extremist or ethnicist speeches? 
+A.	No, never. 
+Q.	Thank you, Mr. Witness.  Now, I would like to ask you -- I know you've already told us, but maybe you could be more specific -- what was your specific area of residence in Kicukiro? 
+A.	In Kicukiro specifically, on the main road leading from SONATUBES -- SONATUBES to the 
+	École technique officielle, that is, the official technical school.  
+MR. WEYL: 
+Maybe to enlighten the Trial Chamber, with the assistance of Mr. Issa, you could draw up a sketch which shows the various places you have mentioned, that is, the SONATUBES as well as the school or college, and making provisions for identifying other important places in that area. 
+(Pages 1 to 13 by Sherri Knox)
+
+
+
+
+
+
+
+1130H 
+THE WITNESS:
+I've shown SONABUTES, ETO and our house. 
+BY MR. WEYL:
+Q.	Have you -- you have put down your name, for example, next to your house? 
+A.	No, I have put down the word "maison", that is house, to show that is our house. 
+Q.	Okay.  So please write down the word "house" as well as "SONATUBES" and "ETO".
+A.	I've done that. 
+Q.	Thank you, Mr. Witness.
+
+Earlier on you told us that you were close to Delphine Ngirumpatse.
+A.	Yes, that is correct. 
+Q.	Do you know where Delphine Ngirumpatse lived? 
+A.	Yes. 
+Q.	Did she live at her parents' place? 
+A.	Yes. 
+Q.	I assume that in view of your age, she was also approximately your age, wasn't she? 
+A.	She was one or two years older than me. 
+Q.	But she was still living with her parents, wasn't she? 
+A.	Yes, she was. 
+Q.	When you receive the piece of paper again could you show us where Delphine's house was, if you're able to do that?  
+
+Witness, you stated that you attended the Belgian school in Kigali.  To go to the Belgian school did you go in the direction of SONATUBES, is that correct? 
+A.	Yes. 
+Q.	And if I recall what you said a while ago, you eventually on a daily basis, or several times a day, you had to go past Mathieu Ngirumpatse's house either on your way to school or on your way back from school, is that correct? 
+A.	Yes, I would even say that sometimes four times a day, since we used to come home at noon. 
+Q.	Did you ever have to go to Mathieu Ngirumpatse's house? 
+A.	Yes. 
+Q.	Was this a frequent occurrence? 
+A.	Yes, regularly. 
+Q.	Tell the Court in what circumstances you'd go to Mathieu Ngirumpatse's house. 
+A.	Often on my way back from school with Delphine in their car -- the car that came to fetch her.  So we sometimes would stop in her house and then we'll continue on foot.  Sometimes we would just go and visit her, Delphine or her sisters, or his -- or her brothers -- or her brother.  We were friends.  We lived in the same neighbourhood, so we visited them often. 
+Q.	During this whole period, whether you were passing by Mathieu Ngirumpatse's house or whether you're going to Mathieu Ngirumpatse's house, did you ever observe the presence of military guard? 
+A.	No. 
+Q.	And did you observe a guard that I may refer to as paramilitary? 
+A.	No. 
+Q.	Was there a guard? 
+A.	No.  When Mathieu Ngirumpatse was a minister he has a ministerial escort.  Beyond that, I never saw anything that looked like a guard. 
+Q.	And did you ever see any civilian there carrying a weapon? 
+A.	No. 
+Q.	Thank you.  When -- whenever you went to Mathieu Ngirumpatse's house, did you have the opportunity to meet him, have a chat with him? 
+A.	Yes. 
+Q.	At that time did you know what his occupation was?  Let's begin with 1991.  
+A.	Not very well.  Not very well at the time.  I knew that he was a member of the MRND party, and obviously I knew that he was the minister of justice.  Beyond that, I have no additional information. 
+Q.	When you met him did you have an opportunity to hear any extremists or ethnicists statements from him? 
+A.	No, none.  Comments on what?  
+Q.	Ethnic comments.  
+A.	No. 
+Q.	His conduct.  His conduct in relation to -- a conduct that would reveal the attitudes of -- or that would reveal his ethnicity.  
+A.	No. 
+Q.	You stated that your father had political responsibilities.  Did you sometimes pick up about Mathieu Ngirumpatse in your house?  Were there occasions where your father had to speak about Mathieu Ngirumpatse? 
+A.	I have -- I don't have clear recollections of that.  And I cannot recall any specific comments made about Mr. Mathieu Ngirumpatse and his politics that we may have discussed at all. 
+Q.	Did he make negative statements during those meetings? 
+MR. PRESIDENT: 
+Mr. Weyl, didn't he just say he doesn't recall anything his father said?  Now, if you put a question to 
+him -- like that to him, isn't that a leading question?  
+MR. WEYL: 
+Mr. President, you may have observed that the witness in -- is kind of looking for answers from his memory.  And he's answering my questions freely without -- 
+MR. PRESIDENT: 
+(Inaudible)...answers as commenting on your question.  
+MR. WEYL: 
+Mr. President, to the extent that he -- or since he stated that he has no recollection, I was helping him.  Maybe specific references -- 
+MR. PRESIDENT: 
+My question is you're suggesting to him what his answer should be.  He just said he has no recollection.  And then you're putting to him a specific thing that he should remember.  That's what a leading question is.  And it's not permitted when you're examining in-chief. 
+MR. WEYL: 
+Mr. President, it was not my feeling that I was putting a leading question.  I just wanted to follow up and go to the -- to follow up on the previous question.  
+
+But I'll move on, Mr. President. 
+BY MR. WEYL:
+Q.	Witness, did you have any opportunity to meet politicians in Mathieu's house? 
+A.	Still within that period?  
+Q.	Yes.  
+A.	No, I have no recollection of that. 
+Q.	Witness, a while ago you told the Court that you knew that there were youth movements that were established within the various political parties.  At that time did you know what was referred to as the Interahamwe? 
+A.	Yes. 
+Q.	And are you able to tell the Chamber what the -- who the Interahamwes were during that period when the multiparty system was established? 
+A.	Yes.  Well, the major parties also had their youth wings.  An Interahamwe was the Kinyarwanda name for the youth wing of the MRND, just like the MDR, JDR had youth wings with their own names, I think the name was Inkuba, if my memory serves me right.  There was also the youth wing of PSD as well as the youth wing of the FPR and other parties.  So the Interahamwe was the appellation for the 
+	youth wing of the MRND. 
+Q.	Based on your recollection, did they have any identifying signs? 
+A.	They wore colours of the party, just as the other youth wings wore colours of their respective parties. 
+Q.	Did you have the opportunity to meet young people wearing these distinctive signs in Mathieu Ngirumpatse's house? 
+A.	No, no.  I do not remember meeting any. 
+Q.	Between 1991-1994 did you hear about training -- military training sessions that the Interahamwe may have gone through? 
+A.	Military training, no.  The military training sessions that I'm aware of was for recruits of the 
+	Rwandan armed forces and also training for the RPF army.  But I'm not aware -- and I never heard about any military training for the other youth groups. 
+Q.	Thank you.  From what you were able to see in Mathieu Ngirumpatse's house, did you have the impression that it was a den of extremists? 
+A.	No. 
+Q.	Was there some political activity there? 
+A.	What do you mean?  
+Q.	Did you get the impression that Ngirumpatse's house was an annex to his office or annexed to a political party? 
+A.	No, not at all. 
+Q.	The climate that prevailed in Mathieu Ngirumpatse's house, was it a climate of conspiracy? 
+A.	No, from what I was able to see, no. 
+MR. WEBSTER:
+I haven't been objecting, but I believe there's a pattern that is developing here that I find objectionable, and I'd ask Mr. Weyl to reformulate his questions as he moves forward. 
+BY MR. WEYL:
+Q.	Witness, are you able to tell the Court what kind of climate prevailed in 
+	Mr. Mathieu Ngirumpatse's house whenever you were present there? 
+A.	It was a completely normal environment, a friendly family.  Delphine and her sisters were always friendly towards us, the mother as well, those we met there as well.  We always greeted the parents.  It was a very calm place whenever we went there. 
+THE ENGLISH INTERPRETER:
+Counsel's microphone, please. 
+BY MR. WEYL:
+Q.	Did you ever have to observe Mathieu Ngirumpatse engage in cultural activities? 
+A.	Yes. 
+Q.	Are you able to explain that to the Chamber? 
+A.	Yes, I had the opportunity to see Mr. Ngirumpatse leading the choir of St Michael's church.  And also in his house, from time to time when I went there he would be practising on the piano or the synthesiser.  Yes.  
+Q.	And did you ever have to attend a performance by the choir that Mr. Mathieu Ngirumpatse led? 
+A.	Yes, it was at Sunday -- at the Sunday Mass.  I attended some church services during which he led with the choir. 
+Q.	To the best of your knowledge, from what you were able to hear or see, was this choir made up on an ethnic basis? 
+A.	No. 
+Q.	Witness, the name Eden Garden, does it ring a bell to you? 
+A.	Yes. 
+Q.	And tell the Court what Eden Garden was. 
+A.	For me at the time Eden Garden was an upscale place in town for the youth of the capital, where we used to have our drink, take a snack.  There was also a nightclub, or rather a day club on account of our age.  We used to go regularly with school friends or friends from the neighbourhood. 
+Q.	Do you know who the manager of that place was? 
+A.	Yes, I knew that it belonged to Mr. and Mrs. Ngirumpatse, and I believe it was Mr. Ngirumpatse's wife who managed that place. 
+Q.	And from what you were able to see whenever you went there, was it a place of -- for 
+	political meetings? 
+A.	Not at all, no. 
+Q.	Was it a place -- a meeting place for the young activists of the MRND? 
+A.	No, not at all. 
+Q.	Was it a hideout or a place for extremists? 
+A.	No, not at all. 
+Q.	Are you able to tell the Court what the climate was at that place? 
+A.	It was a very nice environment with more than a traditional decoration.  The service was excellent.  You'd meet people you knew.  It was a positive environment. 
+Q.	Did you see an environment of conspiracy? 
+A.	No, not at all. 
+Q.	Thank you, Witness.
+
+Now, I want to focus your attention on the day of 6 April 1994.  I believe that was -- there was 
+specific memories.  And I'd like to ask you if you recall where you were in the afternoon of 6 April 1994. 
+A.	Yes, I remember.  I had gone to play basketball at the Kigali -- at the Circle de Kigali.  And I was with one of my friends.  We spent the whole afternoon there.  And we went back home late evening, early part of the night. 
+Q.	Are you able to tell the Court this friend's name? 
+A.	Yes, his name is Frédéric Mugwaneza, M-U-G-W-A-N-E-Z-A. 
+Q.	You went to play basketball with him in Kigali and then you went back home, or you took another direction? 
+A.	No, we went home.  Like on most occasions that we went to play basketball, we got a lift.  And the car that took us dropped us off at SONATUBES junction and then we had to walk a few metres to 
+	Frédéric Mugwaneza's house.  We separated there and I continued along my way all the way to my house. 
+Q.	And are you able to indicate on a sketch the location of Frédéric's house?
+
+Tell the Court, around what time did you go home? 
+A.	I believe it was around 1800 hours, 1830 hours. 
+Q.	Thank you.  Tell us then what you did from 1830 hours, and let me remind you this was from the 
+	6th of April 1994.  
+A.	I got home.  The whole family was there.  My uncle had come to say -- to greet us.  I believe I must have eaten something.  
+
+And then in the course of the evening we heard some explosions.  On the spur of the moment -- we didn't make any conclusions.  It was later that we heard that the presidential plane had crashed on its final approach to the airport.  At that point my uncle left to go home and be close to his family.  We remained there.  And personally I still believed it was a rumour and I was tired so I went to bed.  That's it. 
+Q.	How then did you get the full confirmation that the explosion you heard was linked to the crash of the presidential plane? 
+A.	It was General Déogratias Nsabimana's daughter, who was in the same class as my elder sister, who called her to say that the plane that was bringing the father home had crashed. 
+Q.	What were your activities in the course of the day of 7th April? 
+A.	On the 7th of April there were gunshots all over the place.  We got information confirming the crash.  There were killings -- targeted killings of politicians, which was happening all over Kigali.  So we got scared on account of my father's political activities and we had -- we were trying to glean some information.  It was mainly my elder sister, Maryse, who was trying to get the information in the course of the morning.
+
+Early afternoon, our fear, our concerns became worse.  There were still gunshots and we were wondering what we were going to do, where we're going to take refuge, because it began to dawn on us that staying at home was not safe at all.  And I recall that my parents met to discuss where we were going to seek refuge.  We had a choice between two places, either to go to the ETO, the 
+École technique officielle, and then there was a UNAMIR mission, Blue Helmets, or to go to Mathieu Ngirumpatse who lived right opposite the gendarmerie of the neighbourhood.  
+
+So we either had to go to the international assistance or to the gendarmerie.  And my father opted to go to the UNAMIR, whereas my mother preferred us to go to the gendarmerie near 
+Mathieu Ngirumpatse's house.  So this was discussed and obviously we, the children, preferred to go to them because we -- we knew them.  Finally, our father agreed with us and that is how my mother phoned up Mathieu Ngirumpatse's house and asked if we could come and take refuge in their house and benefit from the presence of the gendarmerie.  
+
+She agreed and a while later they sent us a vehicle.  We left without eating because there was panic.  We climbed aboard the vehicle and went to their house.  And I believe we got there around 1300, 
+1400 hours. 
+Q.	When you got to Mathieu Ngirumpatse's house, was there only Mathieu Ngirumpatse's family? 
+A.	No, not only Mathieu Ngirumpatse's family.  There was also -- there were other persons who had the same reflex as we did and had come there to take refuge.  I cannot give the exact figure of people who were there.  There were probably four, five families and then we mixed up with the people who were already there. 
+Q.	From your recollection of those who were present, did they belong to any particular ethnic group, one or the other ethnic group? 
+A.	No.  From my recollection I -- I recognise somebody who was the uncle of -- the uncle of somebody --
+THE ENGLISH INTERPRETER:
+The witness mentioned that we cannot -- we did not hear.  
+THE WITNESS:
+	But beyond that I'll say no.
+BY MR. WEYL:
+Q.	You made reference to Wycliff Jean.  Does he not have any other name? 
+A.	I think I must have misspoken.  I think it was Wycliff. 
+Q.	What is his name? 
+A.	Of Wycliff?  
+Q.	His surname.  
+A.	I don't know it. 
+Q.	I think you are -- I think you are disturbed by the environment.  You did say he was Frédéric's uncle.  What then -- what -- 
+MR. WEBSTER:
+First of all, I didn't hear the witness give a last name.  I didn't hear him refer to whose uncle he was.  So if counsel could simply elicit information from the witness, rather than trying to remind him.
+BY MR. WEYL: 
+Q.	It appears to me that I said he was Frédéric Mugwaneza's uncle.  
+
+Did Frédéric Mugwaneza have any other uncle whose name is known to you? 
+A.	Yes, yes, he had another uncle who was called Robert. 
+Q.	Robert what? 
+A.	Robert Kajuga. 
+Q.	Thank you, Witness.
+So what was the relationship between Robert Wycliff?
+A.	They must have been brothers. 
+Q.	Thank you, Witness.  I think it is your situation in the witness box that is creating these difficulties.
+
+So you are saying that Wycliff was in Mathieu Ngirumpatse's house.  Do you recall his ethnicity? 
+A.	Yes, he's referred to as a Tutsi. 
+Q.	And to your knowledge did he -- was he a member of any political party? 
+A.	I believe he was a member of the PL. 
+Q.	In Mathieu Ngirumpatse's house were their people who belonged to various political trends? 
+A.	Well, there was my father and other persons who were not members of the MRND. 
+Q.	In the Ngirumpatse's family house did you feel safe? 
+A.	Well, in any case, we felt safer there than we felt in our own house. 
+Q.	And in Mathieu Ngirumpatse's house was there any military or police presence at the time? 
+A.	In the house itself, no.  But the presence of the gendarmerie behind extended to the front part of Mathieu Ngirumpatse's house such that there were gendarmes a few metres away. 
+Q.	What were your fears at that time? 
+A.	At that time we feared being the targets of political killing led by the RPF groups on account of 
+	my father's political activities.  That was our main concern at the time. 
+Q.	What happened later, that is in the afternoon of the 7th of April, at Mathieu Ngirumpatse's house or around the house?  
+A.	There was an unforgettable event.  There was a phone call made to Ngirumpatse's house from 
+	Justin Mugenzi.  Justin Mugenzi said that Frédéric Mugwaneza's family had just been massacred and that only Frédéric survived and that Frédéric called Justin Mugenzi in order for Mugenzi to go and assist him.  Justin Mugenzi decided to call Ngirumpatse and ask Ngirumpatse to send assistance because he too was not safe.  So he called and informed us -- informed us of the deaths of family members as well as the survival of Frédéric. 
+Q.	Was anything done? 
+A.	Yes.  I think that our parents consulted one another and they requested gendarmes to send some men and go and get Frédéric Mugwaneza.  They went there, got them -- came back and said they didn't find anyone there and that there had been a massacre and that there were no survivors.  
+
+So Rose, Ngirumpatse's wife, decided personally to go there because they considered that if Frédéric was alive, someone had to try and find him.  
+
+She came -- she came back later and said that either -- either Frédéric was hiding or he had left.  But we received a call from Mugenzi saying that Frédéric was still there.  So we deduced that Frédéric would only leave from his hiding place if someone close to him went to see him.  
+So I decided to go against the advice of my parents, particularly the advice of my mother.  Two gendarmes accompanied me.  We walked from Ngirumpatse's house to Mugwaneza's house.  There was firing everywhere.  The gendarmes in fact wanted to turn around, but I insisted that we go on.  
+
+We got to the house.  The main door had been broken down.  The gate had been broken open, so we went into the garden.  I saw the bodies of family members, which were in the garden.  There was an empty -- however, when we were going there we didn't know whether we would find Frédéric's -- but he was not amongst the bodies.  So I started calling out.  I started calling out his name:  "Frédéric, Frédéric."  I went around the house.  
+
+And at one point when we were passing near the garage he answered.  He asked:  "Is that you, Gustave?"  I said:  "Yes, it's me.  We have to leave."  I told him that we were at Ngirumpatse's house and that there were gendarmes there who could protect us.  Frédéric said that he was afraid and that he did not want to leave.  I insisted that we had to leave because if he remained there it would be dangerous, so we had a few minutes discussion.  
+
+At one point he told me:  "Look, if I come with you and I get killed, then it will be your fault."  I said:  "Look, let's go."  So he came down from the ceiling and he couldn't find the key, but finally he found the key.  He came down and we greeted one another.  He started crying.  He showed me all his family members who were dead.  I remember the words he told me.  He told me:  "Do you see what they've done?"  I said:  "Who did this?"  He said:  "Soldiers came here and did this."  I said:  "What happened?"  He said:  "They came here."  
+
+And after that we started walking.  I tried to have a conversation with him to try to distract him.  I asked him what had happened.  He told me that soldiers had gone there and they had really wanted to get inside but the father refused -- Frédéric refused, but they broke open the door and got into the house and that they lined up the whole family, apart from the father, in the garden.  They were trying to get money from the father.  The father -- the father said that he didn't have money.  And then the soldiers told him:  "Look, you have to hand over the RPF soldiers who are hiding here."  This is what Frédéric said.  But the father said he was not hiding any RPF soldier.  Frédéric could hear what they were saying where he was.
+
+So one of the soldiers shot the people who were lined up next to Frédéric.  Two bullets slightly hit him.  Everyone was killed with the exception of his grandfather.  So when those soldiers started shooting, Frédéric's father tried to flee, but they shot him in the back.  And then the soldiers left.  Frédéric told me that he remained on the ground for some minutes near her -- his mother.  And that -- and that after that he got up and went into the house and called Justin Mugenzi in order to request assistance.  
+So we got to Ngirumpatse's house a short time later.  Delphine's mother, that is Ngirumpatse's wife, came to meet us and we got into the house. 
+Q.	Were there guards or watchmen at Frédéric's house, if you know? 
+A.	Yes, like in most houses with the means to -- who can afford, there was night watchmen.  The same thing applied at Frédéric Mugwaneza's house.  But the watchmen was amongst the people who were killed.  So there were nine people, including the watchmen and a gardener -- were all killed. 
+Q.	From what Frédéric told you, is -- were they killed because of their ethnicity or because of the fact that the soldiers wanted money? 
+A.	Frédéric told me what his father had told the soldiers who had asked him for money and later asked him to -- him to hand over RPF soldiers.  
+
+On our way Frédéric was crying and he told me that all that happened to them because of his father who used to go to the CND often.  CND, I think everybody here knows what CND was at that time.  He said that he did not understand why people were killed.  He didn't understand why his mother was killed, why the watchmen and the gardener were killed.  He didn't understand all of that because they were northerners, so they could not have been accused of being RPF accomplices.  So he really didn't understand why they had been killed. 
+Q.	So you went back with Frédéric, that is to Ngirumpatse's house.  Can you tell us what happened after that? 
+A.	In that afternoon or even in the subsequent days?  
+Q.	That afternoon and even in the subsequent days.  
+A.	Yes.  We got there.  Frédéric once again started crying, maybe because he was in a safer environment.  My mother and Ngirumpatse's wife advised me to be next to him at all times, because -- so that -- someone so depressed can do anything, so I was with Frédéric at all times.  We spent the afternoon in the house.  We didn't know what was going to happen.
+
+But before that, Mrs. Ngirumpatse asked Frédéric to call his brother who was in Belgium to inform him of what had happened.  So we were all in the living room.  Frédéric took the phone.  And for us that was a very -- the most difficult time.  So he started talking to his brother.  And even before greeting his brother, he said:  "Look, they've killed our parents."  And there was absolute silence and we could hear the -- Frédéric's brother on the other side saying:  "Look, what happened?  What is happening?"  Frédéric was still crying while trying to explain what had happened.  
+
+So this is what had happened.  We didn't know what to do.  We went back to our rooms.  That was in the afternoon.  
+
+At night we spent the night there.  There was gunfire outside.  We felt that the gunshots were coming from an area which was quite near the house.  We didn't know what was going to happen.  We were with Frédéric.  We imagined the worst would happen.  
+
+On the following morning we spent the whole day there.  Yes, the whole morning and the whole afternoon.  That was the 8th of April.
+
+And on the following day -- 
+Q.	Maybe, Mr. Witness, you can tell us up to what date you stayed at Mr. Ngirumpatse's house. 
+A.	We were there up to the 10th.  I think that we spent two nights there. 
+Q.	So you left Mathieu Ngirumpatse's house on the 10th of April? 
+A.	Yes, if my memory serves me well.  
+MR. WEYL: 
+Mr. President, I notice that although it's not 12:30 yet, I take into account the fact that we started late and maybe I would like to move on to another line of questioning.  
+
+So maybe instead of taking that other line of questioning, maybe we could take our lunch break now.  I think I'm three quarters -- I'm done three quarters.  If it's suitable for all, then -- if it's convenient for all, then maybe we can take our lunch break five minutes -- take into account also that we started about one hour late.  So this would mean that we have -- this examination-in-chief has taken about two hours.  But I want consistency when I move on to the next line of questioning.
+
+Thank you, Mr. President.  Rather than ask a question and stop in the middle of a subject, particularly since I have a -- have a housekeeping issue to raise before the Court, I would like to -- but before that I'd like to -- I'd like to ask the witness to show us on the sketch where was the gendarmerie station located.  
+MR. WEBSTER:
+Your Honour, I'd actually support that application because there is a matter I'd like to address with the Court that doesn't require the witness's presence, so the time would not be wasted. 
+MR. PRESIDENT: 
+We can excuse the witness now.
+
+Mr. Witness, during this or any other adjournment while you're on the witness stand you're not to discuss the case or your testimony with anybody.
+
+You're excused now.  You return at 2 o'clock. 
+THE WITNESS:
+Thank you.
+	(Witness exited courtroom)
+MR. PRESIDENT:
+Yes, Mr. Webster. 
+MR. WEBSTER:
+Mr. Weyl said he had a housekeeping matter to -- to deal with.  I think we should do that first because what I would like to say I would prefer to do in closed session. 
+MR. PRESIDENT: 
+Yes, Mr. Weyl.  
+MR. WEYL: 
+Mr. President, the housekeeping matter is -- we wanted, first, the gendarmerie position to be shown and then request the Tribunal to admit this document into evidence as D. NG96. 
+MR. WEBSTER:
+I did see the witness draw something on the paper that was before him, so I think he's already done it.  And I have no objection to the exhibit being admitted. 
+MR. PRESIDENT: 
+Mr. Registrar, could you pass it up to us, please?  Could you pass it up?  
+
+Yes, it's not drawn yet. 
+MR. WEBSTER:
+We can easily deal with that when we resume, but if we could have a closed session, just two or 
+	three minutes, please. 
+MR. PRESIDENT: 
+We have decided to excerpt the Prosecutor's request to go into closed session.  It will be the last session before we take our lunch break at 12:30.  
+
+Mr. Kouambo, please go into closed session now. 
+(At this point in the proceedings, a portion of the transcript [pages 26 to 27] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 14 to 25 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT: 
+We'd like to direct that the exhibit identifying this witness be put under seal.
+
+We take our luncheon adjournment now.
+(Court recessed at 1235H)
+(Page 28 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1415H) 
+MR. PRESIDENT:
+ Good afternoon.  
+
+Mr. Weyl, you may continue. 
+MR. WEYL:
+Thank you, Mr. President. 
+BY MR. WEYL:
+Q.	Good afternoon, Mr. Witness.  
+A.	Thank you.  Same to you. 
+Q.	Mr. Witness, this morning when we broke off you were about to wrap up on something relating to the diagram which you had drawn and I wanted you to point out the position of the gendarmerie which was near Mr. Mathieu Ngirumpatse's house.  Can you complete that diagram, Mr. Witness? 
+A.	Yes. 
+Q.	Please kindly date and sign that diagram to enable us to produce it into evidence before the Tribunal as D. NG90 exhibit.  
+MR. MJUI:
+The document will be D. NG96.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Admitted.
+(Exhibit No. D. NG96 admitted) 
+MR. WEYL:
+Thank you, Mr. President.  I thank Mr. Issa for correcting my number. 
+BY MR. WEYL:
+Q.	Mr. Witness, this morning we were talking about the 10th of April 1994 and you were talking about the end of your stay at Mathieu Ngirumpatse's home.  Please tell us the circumstances in which you left Mathieu Ngirumpatse's house.  
+A.	(Microphone not activated)
+THE ENGLISH INTERPRETER:
+Please switch on your microphone.  Thank you. 
+THE WITNESS:
+At some point during the day we learnt that Ngirumpatse's family was going to be taken to town and would therefore no longer be at their home.  My parents, therefore, decided not to continue to stay at that home.  When they came to fetch Mr. Ngirumpatse's family, we joined the convoy from their residence to town.  At that time I did not know where we were headed, but we simply boarded the vehicles and got ready to leave. 
+BY MR. WEYL:
+Q.	When you say "they came and fetched", who are you referring to when you say "they came to fetch"? 
+A.	The vehicle that was used was one that belonged to the military. 
+Q.	Are you, therefore, saying that a military vehicle came to lead a convoy from Mathieu Ngirumpatse's house; is that correct? 
+A.	Yes, that is correct. 
+Q.	Do you remember the vehicle boarded by the Ngirumpatse family at the time they left their residence? 
+A.	Yes. 
+Q.	What type of vehicle was it? 
+A.	It was their Pajero vehicle belonging to the family. 
+Q.	Could you be more specific as to that vehicle?  Can you describe it, that Pajero? 
+A.	Yes.  It was a four-wheel drive Pajero Mitsubishi, dark blue in colour, which was usually used by the family to go about and around.  That is the vehicle they used when they left their residence. 
+MR. WEYL:
+Mr. Registrar, place before the witness one of the documents which we handed over this morning containing the picture of a vehicle. 
+BY MR. WEYL:
+Q.	Mr. Witness, when you say that the Ngirumpatse family left their home in a Pajero vehicle, did that vehicle resemble the one on the picture? 
+A.	Yes, absolutely. 
+Q.	According to you, could that vehicle have been mistaken for a black Mercedes? 
+MR. WEBSTER:
+By whom?  
+BY MR. WEYL:
+Q.	Would you confuse that vehicle?  Would you take that vehicle to be a black Mercedes? 
+A.	What type of black Mercedes?  
+Q.	As far as you know, did the Ngirumpatse family own a Mercedes car, black in colour? 
+A.	Yes, they had a dark Mercedes car. 
+Q.	Did the Ngirumpatse family leave that residence with the -- or, in the black -- or, rather, with the black Mercedes? 
+A.	No.  They left in the Pajero. 
+Q.	Were you able to see the dark Mercedes at Mathieu Ngirumpatse's family residence at the time you left that residence? 
+A.	Yes. 
+Q.	According to you, did they leave that black Mercedes at that residence? 
+A.	Yes. 
+MR. WEYL:
+Mr. President, I would like to produce the photograph for admission into evidence as Exhibit D. NG97. 
+MR. PRESIDENT:
+Admitted.
+(Exhibit No. D. NG97 admitted) 
+BY MR. WEYL:
+Q.	You left Mathieu Ngirumpatse's residence in that convoy.  How did you proceed?  What itinerary did you follow? 
+A.	First of all, we stopped at Frédéric's house, Frédéric Mugwaneza, to enable him to collect an identity card.  At that time the idea was to get evacuation for him through the Belgians.  He was accompanied by Madam Ngirumpatse.  Then he returned to our vehicle while Madam Ngirumpatse went back to their own vehicle.  We then drove towards town and went to Hôtel des Diplomates. 
+Q.	Was Frédéric with you at the Hôtel des Diplomates? 
+A.	Yes.  We got to the hotel together, and he was with us at that time. 
+Q.	Did he stay with you at the Hôtel des Diplomates? 
+A.	Yes. 
+Q.	Until your departure from the Hôtel des Diplomates or -- 
+A.	No.  He left before we left the Hôtel des Diplomates. 
+Q.	Do you know who he left with and in what direction he went? 
+A.	Yes.  The next day -- after spending one night at the Hôtel des Diplomates with Frédéric, the next day Madam Ngirumpatse had taken steps to contact the Belgians and informed them of Frédéric's presence with us.  Two soldiers came and took him and evacuated him. 
+Q.	A group of soldiers of what nationality? 
+A.	They were Belgian soldiers. 
+Q.	Did you have any idea why Mrs. Ngirumpatse called on the Belgian soldiers to evacuate Frédéric? 
+A.	Yes.  There was an ongoing evacuation operation for foreign nationals, so those who were of Belgian nationality or whose parents were Belgian were entitled to be evacuated.  Frédéric was with us, so we informed them of his presence and sought to have him evacuated as the others. 
+Q.	Now, if I were to understand you properly, Frédéric was a Belgian national.  All his parents were Belgian nationals; is that correct? 
+A.	Yes.  Frédéric is a half-caste.  His father is Rwandan and the mother is Rwandan. 
+Q.	Thank you, Mr. Witness.  When did you leave Hôtel des Diplomates -- 
+MR. WEBSTER:
+We heard -- 
+BY MR. WEYL:
+Q.	-- if you left? 
+
+MR. WEBSTER: 
+(Microphones overlapping)...Rwandan in the English, I think.  Maybe we can have the interpreters clarify that.  
+THE ENGLISH INTERPRETER:
+Correction from the interpreters:  The mother was Belgian.  Thank you. 
+MR. WEYL:
+It must have been an interpreter's mistake because that was not what was said in the French. 
+THE ENGLISH INTERPRETER:
+Interpreter apologises. 
+BY MR. WEYL:
+Q.	Please, Witness, could you repeat what was Frédéric's mother's nationality? 
+A.	She was Belgian. 
+Q.	Thank you, Mr. Witness.  Can you tell us when you left the Hôtel des Diplomates? 
+A.	It was the day after Frédéric left.  Well, probably on the 12th.  That is the day after the day after.  In the morning, very early in the morning, I had woken up very early in the morning and learnt that those who were at the Hôtel des Diplomates, some of them being members of government, were to be evacuated to the capital.  And I, therefore, alerted my family and told them that we should leave at that time.  So we joined the convoy at around noon and moved on towards Gitarama in a convoy. 
+Q.	On that occasion, did you again see Ngirumpatse's family? 
+A.	Are you talking about the time of our departure?  
+Q.	Yes, Mr. Witness. 
+A.	No, I did not see them. 
+Q.	Are you able to explain where you went after you left the Hôtel des Diplomates? 
+A.	We left the plateau and we took the main road from the roundabout towards Nyabugogo, and there there were a number of roadblocks that we managed to cross.  We continued.  We were stopped for a long time at a roadblock near Nyabarongo.  Then we had left Kigali.  Then we took the road to go to Gitarama, more specifically to Murambi. 
+Q.	Along your way, between Hôtel des Diplomates and the end of your trip at Murambi, did you see the Ngirumpatse family? 
+A.	Between the two points, no.  But we saw them when we got to Murambi. 
+Q.	And did you see in which vehicle they arrived in Murambi? 
+A.	Yes.  I think it was in the Pajero. 
+Q.	The Pajero that was shown to you and which you had recognised as the one resembling the one in the photograph? 
+A.	Yes, that was the one. 
+Q.	And this was on your arrival at Murambi.  What time of the day was this, approximately? 
+A.	Late afternoon.  It was still day, but just late afternoon. 
+Q.	Was Mathieu Ngirumpatse in that vehicle? 
+A.	Yes.  I think so, yes. 
+Q.	Did you remain in Murambi for a long time when you arrived late afternoon on the 12th? 
+A.	No.  We did not stay there.  My grandparents live at one kilometer -- one and a half kilometres from that location, so we decided to take refuge in my grandparents' house instead of staying in Murambi. 
+Q.	Were you safe in your grandparents' house? 
+A.	Yes.  At least one had the impression of being safe. 
+Q.	Did you, at one point or the other, have to cross a roadblock in order to get out of your grandparents' house? 
+A.	Yes.  We stayed with my grandparents for one and a half months, and during that entire period, we used to move around.  We tried to move around the minimum possible, and I was in charge going to fetch water with the car.  So twice a day I have to go back and forth; I have to shuttle between the house and a well.  Sometimes I have to go to town; even sometimes I went to Murambi.  And there was a roadblock between -- located between the main road and the one leading to Murambi.  So there was a roadblock that one had to go through. 
+Q.	This roadblock, was it manned by soldiers or civilians? 
+A.	The roadblock was manned by soldiers. 
+Q.	So there were times you had to be checked on this roadblock? 
+A.	Yes.  On each occasion. 
+Q.	Did they check your identity card? 
+A.	Yes. 
+Q.	How did they conduct this check? 
+A.	They asked for identity card, which we presented.  Then you opened the boot of the car. 
+Q.	What ethnicity was indicated on your identity card? 
+A.	It was indicated as Hutu. 
+Q.	Did you always go through these roadblocks without a problem, or did you have problems on some occasions? 
+A.	Yeah.  From time to time it happened.  And in particular on that roadblock, I experienced difficult moments. 
+Q.	Tell the Court what these problems were.  
+A.	Very often it was a problem of money, because, well, we are in a car, we were young, and those manning the roadblock would ask us for money and we didn't have any, so they would let us go.  But on that day on that roadblock, one of the two soldiers was drunk.  When we got there he was overexcited and he started asking us questions in a more insistent manner than usual, and my brother was driving the car, showed his identity card and brought out a passport as well.  
+
+There was a second soldier who was asking him for his identity card; whereas, the other one, who was about two, three metres away, was observing from a distance.  The soldier who was checking the identity saw the passport and he took it.  And while going through it, he realised that there were a number of visas from Europe and the United States.  So he started asking him why he had that passport.  My brother tried to explain the trips he made.  And the other soldier came saying that, "If they have a passport, then they must have money.  So they must give us money."  And that those with passports -- and that the passport is an RPF passport.  "So they either give us money or we kill them." 
+
+We had gone through that roadblock several times, so I couldn't understand what was happening.  My brother, very calmly, tried to explain that there was nothing suspicious about him, particularly since we were one and a half kilometres, two kilometres from my grandparents' house, grandparents who were well known in that region.  But these people insisted, and I realised that it was very serious when he raised his weapon and pointed it at my brother's forehead.  There we got out of the vehicle, and I was wondering what was going to happen if he fired. 
+
+I don't have a notion of time anyway, but we heard a noise like a crate of beer.  It was somebody going through the roadblock with a crate of beer, and this soldier turned around and ran after the person.  Now, the other soldier who had my brother's documents said, "Well, he is a bit drunk today, so I will give you your documents and you go."  So he gave us the documents, and that's how we left. 
+Q.	Thank you, Witness.  I virtually come to the end of my examination-in-chief. 
+
+Based on your own experience, would you say that Mathieu Ngirumpatse and his family saved lives? 
+A.	Yes. 
+Q.	Was this based on ethnic considerations? 
+A.	No.  From my experience, no. 
+Q.	Was it based on considerations of political affinity? 
+A.	No. 
+Q.	Do you know of any other persons whose lives were saved by the Ngirumpatse family? 
+A.	Yes. 
+Q.	Do you have any example in particular that you can tell the Chamber about? 
+A.	Yes.  There is another friend who was in school with us.  We lived in the same neighbourhood, played basketball.  He is called Corneille Nyungura.  Should I spell that?  
+Q.	Yes, please.  
+A.	N-Y-U-N-G-U-R-A.  
+
+So there was Corneille who also lived in Kicukiro whose family was massacred in the same circumstances as those of Frédéric.  He was the only person to survive. 
+
+Later on we met in August and he recounted his tribulations to us; how he left Kigali on foot and that he was saved when he got to Goma thanks to the Ngirumpatse family who recognised him, took him out of the group of refugees and tried to put him into contact with some German friends to enable him to get a passport and a visa to leave the region.
+(Pages 29 to 35 by Joe Reynosa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1445H 
+BY MR. WEYL:
+Q.	Maybe you should tell the Chamber who this Corneille is.  
+A.	In what way?  
+Q.	Is he currently known by that name? 
+A.	Yes.  Because -- be -- apart from just being Corneille, he's a singer who has had a certain level of success in Europe and Canada, particularly in -- French language.  And he is currently living in Canada. 
+Q.	Did you have the opportunity to discuss with Corneille -- or, rather, during your discussions, did Corneille tell you those who may have killed his family? 
+A.	Yes.  
+Q.	What did Corneille tell you? 
+A.	We met in August in Kinshasa.  And he told us his whole story from beginning to the end, at least up until that time.  And regarding who he thought were the murderers of his family, he said he thought it was RPF troops. 
+Q.	Why does he think that those who killed his family were RPF troops? 
+A.	Yes.  Indeed he gave us one reason.  He said these were people who were speaking Swahili only and who were carrying Kalashnikovs. 
+Q.	And according to him, why would RPF troops attack his family? 
+A.	Because his father was one of the leaders of the PSD who -- who were against the RPF. 
+Q.	Thank you, Witness.  Based on what you saw -- heard, directly and indirectly, do you think that Mathieu Ngirumpatse may have participated in a plan to exterminate the Tutsi? 
+A.	Based on my experience, I will say no, because the facts that I witnessed -- I witnessed point to the opposite conclusion.  First of all, the fact that he welcomed us allowed me to go and assist Frédéric, and that later on made it possible for us to evacuate him.  I think that is enough reason not to believe their proposition. 
+Q.	Thank you very much, Witness.  
+MR. WEYL: 
+Mr. President, I've come to the end of my examination-in-chief. 
+MR. PRESIDENT: 
+Thank you, Mr. Weyl. 
+
+Ms. Diagne, do you have any questions to put to this witness?  
+MS. DIAGNE-MBAYE: 
+No, Mr. President.  No, Mr. President. 
+MR. WEYL: 
+Mr. President, I wish that the registrar give us an indication of the time covered by the examination-in-chief. 
+MR. KOUAMBO-TCHINDA:
+Two hours, 15 minutes, Your Honours. 
+MR. PRESIDENT: 
+Mr. Witness, you are now going to have to answer questions from the Prosecutor, who has the opportunity to cross-examine you.  He will do that now. 
+MR. WEBSTER: 
+If I could begin by first asking the registry to assist me.  I have some documents that I'd like to be distributed, one to each of the two Defence teams and the others to the Judges.  I do have a copy for the registry, but I'll hold on to it.  And if I need to hand something up to the witness, I will find it and the right passage and give it up piecemeal.
+CROSS-EXAMINATION 
+BY MR. WEBSTER:
+Q.	Good afternoon, Mr. Witness.  
+A.	Good afternoon. 
+Q.	It may not be necessary, but let me introduce myself.  Once again, my name is Don Webster, and I'm one of the attorneys representing the Prosecutor.  But we've met before, and I believe you've already testified as much.  That's correct, isn't it? 
+A.	Yes.  That is correct. 
+Q.	And by the -- the records I have of the missions that were undertaken by the Prosecution teams in this case and the Government II case, that would have been back in October of 2003.  You said you weren't sure of the date, but does that sound reasonable to you?  October 2003? 
+A.	Yes.  That is so. 
+Q.	And your meeting with the Prosecution team at that time was at your father's request; isn't that so? 
+A.	I have no recollection of that. 
+Q.	Well, when you were asked to meet with this Prosecution team, wasn't it your father that spoke to you and made that suggestion? 
+A.	You contacted me.  Now, if it was my father who told you to contact me, I wouldn't know. 
+Q.	Well, the information that I have at -- at my disposal is that your father called you and had a conversation with you and then handed the phone over to attorneys with the OTP that had been speaking to him in the premises of the Belgian federal magistrate.  Does that sound correct to you?  Or if it doesn't and you don't remember, you can just repeat that and we'll move on.  But the information that I have is that it was your father that contacted you; had a conversation with you; and then passed the phone over to other persons that you may not have known at the time.  
+A.	Quite honestly, I do not recall this detail.  All I remember is that indeed I was contacted by one of your investigators.  Now, the form that the -- the phone call took, I cannot remember. 
+Q.	In any case, after being contacted, the very next day you met with two or three lawyers from the Office of the Prosecutor of the ICTR at the Sheraton Hotel; right? 
+A.	That is correct. 
+Q.	Did you know at that time that the OTP attorneys had also been invited to speak with your sister? 
+A.	Yes.  I think so.  Yes. 
+Q.	Did you ever discuss your conversations with those attorneys from the OTP with your sister after your conversation with the OTP team? 
+A.	At what time?  
+Q.	Well, Mr. Witness, what I'm -- what I'm trying to elicit from you is whether you knew back in 2003 or if you know today that the OTP attorneys had also spoken to your sister.  
+A.	Yes, I knew. 
+Q.	And were you aware back then that that same team of lawyers also spoke to your friend, Frédéric? 
+A.	No.  I don't think I knew that. 
+Q.	And before my question to you of just a moment ago, did you know that the OTP had contacted Frédéric and spoken to him at great length about the same things that you discussed today before this courtroom? 
+A.	No.  I don't think I knew it.  
+Q.	So Frédéric never discussed those conversations or his contacts with this Tribunal with you.  Is that your testimony? 
+A.	Yes.  That is so. 
+Q.	All right.  I do have a series of questions that I've prepared.  But before I go to what I had actually prepared -- I'm -- I was intrigued by the last series of questions that you answered from Mr. Weyl when you mentioned Corneille and your conversations with Corneille.  It's your suggestion that Corneille suffered the same fate as Frédéric?  In other words, he was the lone surviving member of a family that had been killed by soldiers?  
+A.	That was not my suggestion.  I did not suggest that he suffered in the same manner.  I said that the killing of the families was done under the same circumstances and that he was the only survivor. 
+Q.	In other words -- or you can correct me if I'm wrong.  Are you suggesting that Corneille's family was also killed on the 7th of April? 
+A.	No; not on that point. 
+Q.	You don't know when his family was killed? 
+A.	Yes, I do.  Yes, I do.  Corneille told us. 
+Q.	Well, tell us.  What day? 
+A.	15th of April. 
+Q.	So it wasn't under similar circumstances to Frédéric's family who were killed the morning after the president's plane was shot down as part of a series of political assassinations; right? 
+A.	Once again, the circumstances I referred to dealt with the fact that Corneille and Frédéric were the only survivors of their families.  The other similar factors may exist as well as factors that may not be similar.  And I did not refer to any of those. 
+Q.	And your suspicions of the RPF killing Corneille's family is based on what Corneille said to you, or these are deductions that you yourself are making? 
+A.	As I have already stated, it is Corneille himself. 
+Q.	And your testimony is that Corneille told you that when he had fled to Goma in the Congo, or across the border in Zaire, that was when the Ngirumpatse family assisted him; right? 
+A.	Yes, during that period.  Yes. 
+Q.	So this must have been when the Ngirumpatse them -- family themselves were fleeing Rwanda sometime after the middle of July 1994.  
+A.	Yes.  That is correct. 
+Q.	And I think we can both agree that Corneille is somewhat of a celebrity in Rwandan circles or in the francophone -- the young, sort of, francophone world.  Maybe you can clarify it for us if I haven't been very descriptive there.  
+A.	That is correct. 
+Q.	Well, based on your description, it sounds like he would be a great witness for Mr. Ngirumpatse.  
+A.	If you say so. 
+Q.	Well, perhaps we'll have an opportunity to hear from him.  I'm not sure.  But nonetheless, we have your second or third-hand account of what supposedly happened to him; right?  
+A.	What happened to who?  
+Q.	To Corneille.  
+A.	Yes.  
+Q.	Now, back in April of 1994, you and Fred were only around 17 years old.  
+A.	That is correct. 
+Q.	Your sister was a few years older than the two of you.  
+A.	Well, Frédéric was one year older than me as a matter of fact, and Maryse was three years older than I. 
+Q.	Would it be fair to say that back then in -- in 1994 that you were not very familiar with the political controversies of that period? 
+A.	What do you mean by "very familiar with"?  
+Q.	Well, what I'd like to suggest to you is that as a 17-year-old back in 1994 -- I question your familiarity with the political complexities that were reigning in Rwanda at that time.  And having said that, you can now respond and tell us if you think that you were conversant with the political struggles of the day or if you were not.  
+A.	Yes.  Well, I was clearly aware of the issues.  Yes.  As a young adolescent, a young 17-year-old man, I could only have had some measure of understanding because we were concerned by several other issues.  And yet we listened to the radio and we discussed these issues among ourselves.  And we also listened to the news.  And even at home we had discussions on these topics.  
+
+So what I can say is that I was fairly aware of things.  I listened to the news as an ordinary 17-year-old of that time would have done. 
+Q.	But would it be fair to say that back then -- I'm not talking about today -- but back in 1994 your information about Rwandan politics was basically coming from your father? 
+A.	That would not be correct. 
+MR. WEBSTER: 
+If I could have a document placed before the witness.  It's page 40 in my bundle.  
+
+Let me explain the bundle a bit to everyone before we get started.  If you look at the lower right-hand corner, there are handwritten page numbers, and I'll make an attempt to refer to those numbers when I'm directing anyone to the proper page.  There are a number of documents, but the entire bundle is numbered consecutively in the lower right-hand corner.  And where I'd like everyone to look is at page 40 in that lower right-hand, handwritten -- the handwritten inscriptions.  
+
+And if the registry could pass this up to the witness. 
+BY MR. WEBSTER:
+Q.	Mr. Witness, I don't want you to -- I want your comments in regard to this sheet of paper to be very narrow.  And it contains some information that I'm trying to avoid saying out loud before the Chamber.  
+
+But if you look at where I have a number 1 -- and there's a name, and you see the name and the relationship that you have to that -- the person named there, and you also see three letters.  And I'd like to let you know that sometimes I'll refer to that person by using those three letters.  So if you hear a question with those three letters, you'll know who I'm talking about.  
+
+And then when you look at number 2, there's another name and there's a mention of some other information and then so on and so forth.  If you look at the footnote on that page, there's some information about number 2.  All of that information in the footnote is accurate.  Wouldn't you agree?  
+A.	It appears to be correct. 
+MR. WEBSTER: 
+Your Honour, I'd like to have that admitted under seal as the next Prosecution exhibit, which I believe is P. 518?  Is that right?  
+MR. MJUI: 
+Yes.  It will be P. 518.  Thank you. 
+MR. PRESIDENT: 
+Admitted. 
+MR. WEBSTER: 
+So I'll put my question -- 
+
+MR. PRESIDENT: 
+Sorry.  Under seal; right?  
+MR. WEBSTER: 
+Yes, under seal. 
+MR. PRESIDENT: 
+Admitted under seal.
+(Exhibit No. P. 518 admitted, under seal) 
+THE WITNESS:
+Just one point.  The S in the fourth name should actually be a Z. 
+BY MR. WEBSTER:
+Q.	Okay.  Thank you very much.  You can make the correction on the form, and we'll have it in evidence.  
+
+So I'll put my question to you again in another way.  Wasn't your political thinking significantly influenced by discussions you would have with members of your family?  
+A.	Obviously, yes. 
+Q.	You had no independent relationship with Mathieu Ngirumpatse back in 1994.  Whatever relationship you had with Mathieu Ngirumpatse was really through your friendship with his children or your relationship -- or -- or the -- the relationship that Ngirumpatse may have had with your father; isn't that so? 
+A.	Yes to the first part of your question and also to the second part.  But we also had friendly relationships between the mother, that is, Ngirumpatse's wife, and my mother.  So those are the three thrusts on which those relationships were built. 
+Q.	Thank you.  But my interest is really what you know, you personally know, about Mathieu Ngirumpatse, him by himself and not his wife and not his children.  You never discussed politics with Mathieu Ngirumpatse; right? 
+A.	No. 
+Q.	All you know about his politics is what other people told you.  
+A.	When you say "others" or "people", who are you referring to?  
+Q.	Well, the question was placed very broadly.  But I think -- and what I'm suggesting to you is that your information about Ngirumpatse is essentially derived from what your father said about him in your presence.  
+A.	No. 
+Q.	So how did you know about his politics?  You never spoke to him about politics.  
+A.	As I said earlier, we listened to the news.  Ngirumpatse was a public political figure.  We followed the news on political activities on the one hand, and we also studied or discussed politics extensively at school.  We knew who the politicians were.  We knew what their activities were in school.  And we were also interested in sports.  
+And all of these things were discussed in those fora and elsewhere, including at home.  So we were familiar with news about the MRND and about Mr. Ngirumpatse. 
+Q.	Well, back in 1994 did you know that your father and Ngirumpatse belonged to rival political parties? 
+A.	Yes, I knew. 
+Q.	But you also knew that they had similar political views; right? 
+A.	Could you be more specific?  
+Q.	You knew that they were bo -- they belonged to different and rival political parties at a time when Rwanda was racked by a lot of political division.  But where your father was concerned and Mathieu Ngirumpatse concern -- was concerned, they had similar political viewpoints.  That's what I'm suggesting to you, that you knew that back in 1994.  And you can respond to that suggestion.  
+A.	Once again, please, can you be specific as to the point you are referring to. 
+Q.	Well, I don't know if this is helpful to you or not.  It jumps ahead a bit.  But let me suggest to you that your father was a member of the majority wing of the MDR, which was referred to as the Hutu Power wing of the MDR, and that was the wing of the party that was very close to the MRND.  So that by April of 1994 your father and Mathieu Ngirumpatse could -- it could be suggested that they shared a common political viewpoint.  Would you agree or disagree with that statement? 
+A.	So you are speaking in relation to the positions and stances taken by political parties in relation to the RPF.  Is that what you're referring to?  
+(Pages 36 to 42 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1515H 
+BY MR. WEBSTER:
+Q.	That's a fundamental aspect of it.  We are not going to spend too much time on this.  You can answer the question.  I am not going to ask the question again.  This is your last opportunity to answer it fully.  
+A.	Well, in relation to the stance that was taken on the RPF, I do know that my father had the same opinion as that of Mathieu Ngirumpatse. 
+Q.	And if I put the same question to you with regard to Édouard Karemera, would your -- how would you respond?  In other words, your understanding of Édouard Karemera's politics and your understanding of your father's politics in April of 1994. 
+A.	Yes.  In 1994, yes, I would say that, indeed, Mr. Ngirumpatse and Mr. Karemera had the -- similar views, or the same position. 
+Q.	And in relation to your father? 
+A.	Yes.  That was the same position I referred to two minutes ago. 
+Q.	What about Justin Mugenzi?  Do you know what political party he belonged to? 
+A.	Yes, I do. 
+Q.	Which one? 
+A.	He belonged to the PL. 
+Q.	Which was another rival party to the MDR and the MRND; right? 
+A.	That is correct. 
+Q.	But in early April 1994, Mugenzi and your father and Ngirumpatse were pretty much on the same wavelength politically speaking.  Would you agree? 
+A.	More or less, yes.  One could say that. 
+Q.	And with respect to Fred's family, his father who was killed, do you know what political affiliation he had? 
+A.	Are you talking about Frédéric's father or Frédéric himself?  
+Q.	I'm talking about Frédéric's father.  
+A.	I think that he was a PL supporter as well. 
+Q.	But we can agree that Fred's father and Mr. Mugenzi were not on the same wavelength politically speaking, even though they were members of the same party. 
+A.	That would mean that I knew what Frédéric Mugwaneza's father's political leaning was. 
+Q.	Essentially that's my question to you:  What did you know about the political leanings of Frédéric's father back in 1994.  I'm not talking about today, but back in April of 1994, what did you understand to be the political leanings of Frédéric's father? 
+A.	What I know -- I knew at the time is that Frédéric's father was a militant of the PL party, that is, the Parti libéral. 
+Q.	You didn't know or did not fully appreciate that there was a split in the PL party back in April of 1994? 
+A.	Yes.  I was aware that there were factions within the political parties, yes. 
+Q.	But you didn't know that Frédéric's father was in one faction and that Mugenzi was in the other? 
+A.	As I have already told you, I did not know that Frédéric's father belongs to another party other than the Parti libéral.  There were several political personalities who openly displayed their leanings, but as far as Frédéric's father is concerned, I did not know. 
+Q.	So on the morning of the 7th of April when you were concerned about what happened to Frédéric, you didn't fully appreciate that his father belonged to one faction of the PL and that Ngirumpatse, Karemera, Mugenzi and your father supported the other faction.  You didn't fully appreciate that back on the 
+	7th of April 1994.  
+A.	I did not know that as clearly as I knew for the others.  I don't know if that answers your question. 
+Q.	What I'm suggesting to you is that you didn't know it at all as far as Frédéric's father is concerned.  You didn't know that Frédéric's father was perceived as an enemy of the MRND and of the factions of the PL and MDR that was supported by Mugenzi and your father. 
+A.	Are you asking me whether I knew all that?  
+Q.	I'm suggesting to you that you didn't know it, so now is your opportunity to tell me -- to explain that you did, if that's the case.  
+A.	No.  I did not know. 
+Q.	So you couldn't have appreciated how divided Frédéric's family was, with his father supporting 
+	one aspect -- one wing of the PL and his uncle being a member of the Interahamwe; right? 
+MR. WEYL:
+Mr. President, once again, as we said this morning, there is some measure of speculation in that question. 
+MR. WEBSTER:
+I can rephrase the question, although it shouldn't be necessary. 
+BY MR. WEBSTER:
+Q.	Did you appreciate that Frédéric's family was divided, that his father supported one political view and that his uncle Robert Kajuga supported a rival political view? 
+A.	I agree with the second part of your question, namely, that uncle -- Frédéric's uncle effectively belonged to a rival political party to that of Frédéric's father.  I, however, do not agree with your first suggestion that the family was divided. 
+Q.	Well, you describe Wycliff, another one of Frédéric's uncle's, being present at the Ngirumpatse home on the morning of the 7th of April.  He didn't get there coming from Frédéric's home, did he, as far as you knew? 
+A.	That is correct, I effectively do not know. 
+Q.	And he wasn't killed on the morning of the 7th of April, like the other members of Frédéric's family? 
+A.	Obviously. 
+Q.	Now, would it be fair to say that you had very little knowledge about what was actually transpiring in the country in Rwanda during the period April to July 1994 where the massive killings of Tutsi are concerned?  
+
+Do you -- let me explain my question to you a bit.  If you put yourself in the frame of mind of July 1994 before you left Rwanda, is it fair to say that you had very little awareness of the massive killing that had taken place over the prior three months, putting yourself in the frame of mind of July -- mid-July 1994 before you left the country? 
+A.	The -- the question is somehow vague, because I need to understand what you mean by having a limited amount of information. 
+Q.	Well, let me break it down a bit.  We know today that 75 percent of Rwanda's Tutsi population was killed between the 6th of April and mid-July 1994; that there was a massive genocide; people were systematically killed in their homes and roadblocks and churches, so that from the perspective of today it's obvious to you and to everyone that there was genocide in Rwanda back in 1994.  And what I'm asking you is, if you put yourself back in the frame of mind that you had back in July 1994, before you left Rwanda, did you understand at that time that there had been massive and systematic killings of Tutsi?  
+A.	You have made several suggestions in your question.  One of them being obviously what I would know in terms of the genocide, and then you put a suggestion as to my knowledge of the killings.  And so I don't know how to answer your question.  What I can tell you, however, is that in the first part -- or in -- we left Rwanda in 1994 in June, and at that time clearly I was not in possession of all the information that you have mentioned in your question.  Clearly, I was not aware of all those things. 
+Q.	Haven't you made statements in the past -- and I'm thinking of statements you made in 
+	October of 2003 -- that you were shocked to learn about the killings when you arrived in Belgium? Because when you were in Rwanda, you had no idea that there had been massive and systematic killings of Tutsi while you were present on the territory of Rwanda. 
+A.	Are you asking me to confirm what I stated?  Is that your question?  
+Q.	I'm asking you to confirm what I've stated, which is that before you arrived in Belgium you had no idea of the scale and the extent of the killings in Rwanda. 
+A.	Yes.  Indeed, when I arrived in Belgium, I was not fully aware of the scope of the killings.  I gathered more and more information and became increasingly knowledgeable. In September 1994 when I arrived in Belgium, I was not as knowledgeable about the facts as I am today. 
+Q.	Haven't you said in the past that when you were in Gitarama staying at your grandparent's home, you had no idea that people were being killed on the roadblocks in the surrounding area? 
+A.	No, I don't think I said that.  
+MR. WEBSTER:  
+I see Mr. Weyl on his feet. 
+MR. WEYL:
+Yes, Mr. President.  I am confused to be on my feet regarding something that has nothing to do with the evidence, but it has everything to do with the time, because Mr. Ngirumpatse has an appointment with the doctors at 3:30 p.m.  And that's why I am on my feet. 
+MR. WEBSTER:
+Well, I can -- I can pause here, and we can pick up this tomorrow morning.  And in my parting comments to you, Mr. Witness, I'd simply request that overnight you think about the issue that I've been broaching in my last series of questions, which is what you understood was transpiring as you lived through it during the period of April to July of 1994.  And we'll return to this topic tomorrow morning. 
+MR. PRESIDENT: 
+We'll take the adjournment now.  
+
+I must inform you, Mr. Witness, that it's usual for us to adjourn at 3:30 in the afternoons, which is a concession to Mr. Ngirumpatse's position at the moment.  
+
+As I mentioned to you at lunchtime, during this or any adjournment while you are a witness, you are not to discuss the case or your testimony with anybody. 
+
+Yes.  In terms of which courtroom we resume tomorrow, we think we'll ask the registrar to inspect and advise us in the morning, I suppose, after consulting with the parties.  So tomorrow morning he will inform us as to where we will resume. 
+
+We take the adjournment now. 
+(Court adjourned at 1534H) 
+(Pages 43 to 46 by Deirdre O'Mahony)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Sherri Knox, Melissa Hook, Joe Reynosa, Tanya West and Deirdre O'Mahony, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Sherri Knox
+
+
+___________________________	 Melissa Hook
+
+
+____________________________ 	Joe Reynosa
+
+
+____________________________	Tanya West
+
+
+	____________________________	Deirdre O'Mahony
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 25 AUGUST 2010
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 13
+
+	KAREMERA ET AL	WEDNESDAY, 25 AUGUST 2010
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 28
+
+	KAREMERA ET AL	WEDNESDAY, 25 AUGUST 2010
+
+JOE REYNOSA - ICTR - TRIAL CHAMBER III - page 35
+
+	KAREMERA ET AL	WEDNESDAY, 25 AUGUST 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 42
+
+	KAREMERA ET AL	WEDNESDAY, 25 AUGUST 2010
+
+DEIRDRE O'MAHONY - ICTR - TRIAL CHAMBER III - page 46
+
+	KAREMERA ET AL		WEDNESDAY, 25 AUGUST 2010
+
+ICTR - TRIAL CHAMBER III
+

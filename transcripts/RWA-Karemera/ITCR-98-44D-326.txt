@@ -1,0 +1,1058 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+FRIDAY, 25 JUNE 2010
+0857H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Sunkarie Ballah-Conteh
+	Mr. Takeh Sendze
+	Ms. Maria Wilson
+		
+For the Accused Édouard Karemera:
+	Mr. Moussa Félix Sow
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frederic Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Eleanor Bastian
+	Ms. Kirstin McLean
+	Mr. Haruna Farage
+	Ms. Sithembiso Moyo
+	Mr. Sheriffo Jammeh
+	Ms. Judith Kapatamoyo
+
+
+I N D E X
+
+WITNESS
+
+For the Defence
+THÉONESTE BAGOSORA
+Examination-in-chief by Mr. Nimy	11
+
+
+EXHIBITS
+Exhibit No. P. 500...	10
+Exhibit No. P. 501.	10
+Exhibit No. P. 502	10
+Exhibit No. P. 254D	10
+Exhibit No. IP. 63 (marked for identification)	10
+Exhibit No. IP. 64 (marked for identification)	10
+Exhibit No. IP. 65 (marked for identification)	10
+Exhibit No. D. NZ831	12
+Exhibit No. D. NZ832A and D. NZ832B	17
+Exhibit No. D. NZ833	19
+Exhibit No. D. NZ834A and D. NZ834B	24
+Exhibit No. D. NZ835A and D. NZ835B	30
+Exhibit No. D. NZ836	35
+Exhibit No. D. NZ837A and D. NZ837B	37
+Exhibit No. D. NZ838	40
+
+
+
+
+	
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, please, open the proceedings. 
+MR. HOMETOWU: 
+
+Thank you, Mr. President.
+
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session, today, Friday the 25th June 2010, for the resumption of the trial in the matter of the 
+Prosecutor versus Karemera et al, Case No. ICTR-98-44-T.  
+
+Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+
+The appearances are the same. 
+MR. WEBSTER:
+With one modification, Your Honours.  Good morning, to everyone.  The record should reflect that we are assisted by another intern for this session.  His name is Mr. Nick Katz and he's sitting right behind me.  So we can welcome him to the trial.  
+
+Thank you.  
+MR. PRESIDENT:
+Welcome, Mr. Katz.  We hope you have an enjoyable tour of duty with the OTP and our trial team.  
+MR. ROBINSON:
+Yes, Mr. President, my full team is back here.  So I am here, Peter Robinson, lead counsel for 
+Joseph Nzirorera; my co-counsel, Patrick Nimy; legal assistant Léopold Nsengyumva; my investigators, Daniel Ntawumenumunsi and Dick Prudence Munyeshuli.  I have three interns here; Jessica Asfour, from the USA, Jose Ordonez, from Canada, Kevin Griffith, from the USA.  Also, Mr. President, the counsel for our witness, Raphaël Constant, is present and is before you.  And I'd also like to note that I am also appearing here in my capacity as accused person before the Tribunal.  Thank you.
+MR. PRESIDENT:
+In which case is that, Mr. Robinson? 
+MR. ROBINSON:
+That's in the case of the Pros -- the Chamber versus Peter Robinson which I --  
+MR. PRESIDENT:
+Is that a case -- (Microphones overlapping)
+
+Is that a case which has been filed?
+MR. ROBINSON:
+Well --
+MR. PRESIDENT: 
+Anyway, let's not get into that now --
+MR. ROBINSON:
+Okay.  
+MR. PRESIDENT:  
+-- because I think that's a really provocative remark at this stage.  So we -- we have decided we will not hear anything with regard to the contempt issue at this time and that matter has been deferred.  
+
+We think that in light of Mr. Constant's appearance, particularly with the background to his arrival here and the shortened duration of this week, that it would be preferable to commence our business with the hearing of Witness Bagosora.  
+
+I understand that Mr. Constant is available until next week, Thursday, and it will be in the interest of the case if the testimony could be completed before his departure.  
+MR. ROBINSON:
+Well, Mr. President, I agree it would be in the interests of the case, but the problem is that I have, at this stage, a conflict of interest that prevents me from discharging my duties to my client.  And I would like to make an oral motion so that maybe we could try to resolve the obstacles that seem to be before us and proceed with Colonel Bagosora's testimony.  May I be heard on that?  
+MR. PRESIDENT:
+Mr. Robinson, we are not -- we are not sure what this conflict of interest is.  We have already ruled that in our view, the Erlinder issue does not impact on the ability of counsel to represent their clients in our trial.  
+
+Now, you have, in fact, filed a written motion requesting us to address this issue by appointing counsel to advise Mr. Nzirorera.  And that matter is under consideration, if not completed, the deliberations on it as yet.  
+MR. ROBINSON:
+Yes, Mr. President.  And in light of that, I have another motion at this time.  And that is a motion that you reconsider your decision initiating contempt proceedings against me -- or, in the alternative, that we suspend these proceedings until the trial of that contempt can be completed and I can then either represent Mr. Nzirorera free from the conflict of interest that that contempt initiation has cause -- has generated, or I can be dismissed and Mr. Nzirorera can have an attorney who can represent him without any conflict of interest.  
+
+But as we stand right now, me standing before you as an accused person and, also, to be defending Mr. Nzirorera at the same time, as I pointed out, it gives me a conflict of interest.  My interest -- my own interest is to walk on eggs and not rock the boat and to make sure that I don't do anything that annoys or upsets the Chamber.  At the same time, I'm supposed to be vigorously defending my client and putting forth his interest.  
+
+And I assumed that conflict of interest all week in all the decisions that I've had to make to prepare for this hearing:  What witnesses to bring?  And it's in his interest to bring witnesses that can -- as many as possible -- who can testify.  But it's in my interest not to bring those witnesses if I'm going to be penalised as for the fact that I brought witnesses who can't testify to -- who to lead the witness, Bagosora.  
+
+It's in my interest not to lead that witness to -- not to cause any problems for the Chamber, to exacerbate my own situation.  But, perhaps, it's in Mr. Nzirorera's interest that I be the one to lead that witness. 
+
+And it's many other decisions like that that constantly are being made in the course of a trial that has created a conflict of interest between myself and my client as a result of the Chamber's initiating contempt proceedings.  
+
+So my request is:  You have my affidavit, you know all of the circumstances now, that you reconsider the decision initiating contempt proceedings and you vacate that decision.  Alternatively, if you believe that those proceedings should go forward, then, I think, that Mr. Nzirorera's trial should be suspended and those proceedings should go forward.  And when they're concluded we can come back to Mr. Nzirorera's proceedings.  
+
+This is exactly what happened at the ICTY in the Seselj case.  Seselj was charged with contempt in the middle of his trial and on the motion of the Prosecution.  Those proceedings were suspended.  And the Trial Chamber gave its decision on the 10th -- the 11th of February 2009, decision on the Prosecution motion for adjournment.  And it found that the interests of justice were that the trial should be suspended pending the resolution of the contempt case.  And that's what I'm asking you to do here; either reconsider the initiation of contempt or suspend the trial.  Thank you.  
+MR. PRESIDENT:
+Mr. Robinson, we consider your statement that there's a contempt case against you as being factually inaccurate.  That's the first point.  
+
+The second point:  The issue that has affected the Court's decision to ask you to show cause why contempt proceedings should be started -- because that's where we are, not beyond that -- resulted from what appeared to be a refusal to present evidence that would benefit the accused person that you are already committed to represent.  
+
+And the Chamber has felt that the apparent reason that you gave did not justify the decision that you took, and that's what we asked you to provide information about.  Since then, the Chamber has taken note of a decision in the ICTY which reveals that you have been taking parallel assignments at the ICTY, parallel to the representation of Mr. Nzirorera.  And we think in considering this, your conflict of interest, that we ought to ask you to make a declaration of the details of the parallel assignments you've undertaken and explain to what extent those assignments have affected your willingness and ability to represent Nzirorera, because we think that is a matter which ought to be considered when we're addressing the issue of conflict of interest.  So --
+MR. ROBINSON:
+I'm happy to do that, Mr. President.  I've had assignments at the ICTY continuously since 2002.  So, if that's of now -- now of concern to you, I'm happy to address that.  
+
+But, Mr. President, if we look at the transcript of 8th June, you indicated the Chamber is initiating contempt proceedings and you ordered me to appear with legal counsel.  So, now you're telling me that you didn't initiate contempt proceedings and there's no contempt proceedings pending, which I'm happy to learn that, but I think it's inconsistent with what appears on the record and what I heard you say on the 8th June. 
+
+So, if, in fact, there are no contempt proceedings against me I'm happy about that and I think that we can go forward.  So, are we both on the same wavelength on that?  Because -- 
+MR. PRESIDENT:
+Well, we're not promising that saying contempt proceedings will be not started.  We were concerned at the setting, that a scenario seemed to have been created -- that made it impossible for the case to proceed.  Mr. Nimy was not present to do any work to assist Nzirorera, and you didn't want to do anything to assist Mr. Nzirorera.  And we scheduled a sitting for this morning, and it was important that your team was present so Mr. Nzirorera had adequate representation.  
+
+This is a very important trial, and we have to guarantee that the Accused before us have legal counsel and they're able to represent themselves properly.  And when the lawyers are signed -- and who have been signed at the basis of international tax payers -- appear not to be interested in proceeding with the case, we have to do something about it. 
+MR. ROBINSON:  
+I assure you - 
+MR. PRESIDENT: 
+     And we have asked you to provide an explanation.
+MR. ROBINSON:  
+I assure you, Mr. President, that Mr. Nzirorera was in full agreement with my proceeding as I did on 7th and 8th June.  The problem has only arisen when you initiated contempt proceedings and created a conflict of interest between us.  But, in any event, if there are no contempt proceedings, then they're now okay.  We can proceed.  There are not contempt proceedings.  
+
+But you now have my declaration, if you're thinking of initiating contempt proceedings, I think you can decide.  We don't have to have the matter lingering.  And when you make that decision, then we can -- we can know exactly where we stand.  But, as it stands now, if there are no proceedings against me, as far as I'm concerned, we can proceed.  
+MR. WEYL:
+Mr. President -- Mr. President, Your Honours, allow me, first of all, to extend my respects to the Trial Chamber on behalf of the Defence team of Mathieu Ngirumpatse, who is here present.  The team is complete today.  
+
+Allow me, also, Mr. President, to say a few words in respect of the problems that have been raised this morning before your Chamber, since the Defence for Ngirumpatse is necessarily interested in what is being discussed, in a joint trial.  
+
+Mr. President, I came this morning to tell you, first of all, about the relief that I believe I share before (sic) this news that we couldn't have hoped for three weeks ago, which is that of the release of Peter Erlinder.  Three weeks ago, in this courtroom, we were oppressed by the impression that Peter Erlinder may be in detention for a long time.  Today, we have reasons to be happy, in that he spent only three weeks in detention in Kigali.  
+
+But beyond that happiness, Mr. President, I must say that as far as we are concerned, all problems that we submitted to the Trial Chamber three weeks ago remain unchanged.  We filed a motion for a consideration of your decision of the 7th of June, Mr. President, that is, a motion for reconsideration of (inaudible), the decisions that you took on the basis of that initial decision against -- which opened -- which initiated against Peter Robinson, what we understood to be a case of contempt.  
+
+A few moments ago, I thought I understood that my learned friend, Mr. Robinson, misunderstood something and that the Trial Chamber was not contemplating a contempt case.  But, soon thereafter, you told us that things are still open and that, ultimately, we have to discharge our assignment pending the possibility -- or, under the -- the possibility of a case that can be opened any moment.  
+
+Mr. President, I need to make some additional explanation to your Trial Chamber.  For three weeks now, beyond -- apart from the release of our learned friend, Erlinder, there is a new thing that happened, which is the note verbale that was sent by the Registrar to the Rwandan authorities.  That note verbale shows that probably on that 7th of June 2010, when we were raising all those problems, we were not mistaken in doing so and that the concerns of the Defence were legitimate.  But, today, in spite of the Registrar's note verbale those concerns of the Defence remain.  
+
+I cannot -- I am unable to go to Kigali.  I cannot go to Kigali.  I don't have any medical reasons that I can present to a judge in Kigali for him to release me.  And we are in the same situation as it was three weeks ago, which leads us to ask the Tribunal to ensure that the Rwandan authorities cooperate -- 
+MR. PRESIDENT:
+Mr. Weyl -- Mr. Weyl, Mr. Erlinder did not travel to Rwanda on an ICTR mission.  You are aware that when counsel go to Rwanda on an ICTR mission, the Tribunal takes advance steps concerning their travel to and protection in Rwanda with the Rwandan government.  We have an existing document, a memorandum of understanding, which provides functional immunity to counsel appending Rwanda.  We have maintained that we guarantee this and you, yourself, have benefited from these arrangements very frequently over the last seven years.  Nobody who has ever travelled to Rwanda on a mission has had the issue of their functional immunity ignored.  And we have been now in this process for 16 years.  
+
+So I can state this:  That this is not an issue which affects the conduct of ICTR lawyers who travel to Rwanda on ICTR missions.  And if you think that the Chamber, the Tribunal, has been doing nothing, that's quite a mistake.  But I don't think that's a function that I need to explain in detail in a Trial Chamber.  But I can say from this position, that there is no risk that lawyers on ICTR mission will not have their functional immunity respected. 
+MR. WEYL.
+Mr. President, I thank you for that explanation which would reassure me totally if immediately following the note verbale, sent by the Registrar, did not immediately indicate that it had no consideration for that note verbale.  A note verbale was sent and the -- but the Rwandan government, through the spokesperson of the minister for foreign affairs, said about it that the note verbale was without grounds.  
+Mr. President, I do understand the guarantees that you are offering to us, but I'm not sure that Mr. Ngoga is providing with those same guarantees when he tells the Trial Chamber -- or, rather, the Tribunal and the Registrar thereof that, "I have no respect for your note verbale".  The Trial Chamber may tell me that it will guarantee my immunity, I am not reassured.  I am not sure that I can go to Rwanda freely.  That is what I was seeking to say at the end of the hearing of the 8th June, when I stood up but the Trial Chamber did not acknowledge that I had stood up to take the floor and that it did not understand that I wanted to say something about those fears that we have.  
+
+The Trial Chamber may consider that there are objective reasons for us to be reassured.  The Trial Chamber cannot be in our position and it cannot have our conscience to be able to ensure that we do our practice freely, with a free conscience.  And I do repeat that, if tomorrow we have to put the questions that we put to witnesses, if we have to confine, to limit what we write, and that a certain statement may be interpreted and that a question exposes a witness and that a brief is used to accuse us, and then we are not indefensible, and we would like to hope that the Tribunal should understand this.  
+
+We're hoping that the Trial Chamber should -- the Tribunal should understand us when we say this:  We are not obstructing justice.  We are not putting forth any hindrances.  All we're trying to say is -- to make sure that the Tribunal should understand that if we have to serve the course of justice, we should be able to do so freely.  And when -- Mr. President, when you say -- 
+MR. PRESIDENT:
+Mr. Weyl, I think I should interrupt you again.  
+
+And this trial has been going on for a very long time.  And as far as I'm aware, each of the accused persons has put their defence very forcefully over the last seven years.  We are now at the stage where one accused person has already completed his case.  Mr. Nzirorera is in the final stage of his case.  In fact, his evidence-in-chief has been completed and his cross-examination is about 75 to 80 per cent completed.  What is there that can be said, now, that has not been said before?  So this issue, that of fear of presenting your defence, is a matter where I question the good faith of those statements.  
+MR. WEYL:
+Mr. President, I will end by just making one statement.  Mr. President, I will end by pointing out one thing:  The Trial Chamber has received our motion for reconsideration, and we included therein a number of indications, and the Trial Chamber will rule.  But what I would like to say is that we have reasons to be afraid of the Rwandan authorities, because this battle that we have been waging in order to continue to seek the truth, well, we would like to -- we seem to be taken, by the Trial Chamber, as obstacles to the administration of justice.  And if I have to be afraid of Rwanda, that is one thing.  But if, today, I have to organise my defence with a fear that I may be understood or be taken for an obstacle or for somebody who is acting in contempt, I think that's another thing, and I cannot carry out my mission with a fear that I may be charged with contempt -- with the constant threat that I may be served a warning.  
+
+And when you tell my learned friend, Robinson, that no proceedings for contempt have been initiated, now, but that there's a possibility of initiating them, right now, therefore, we're in a situation where we are working under constraints.  I believe that the Trial Chamber -- 
+MR. PRESIDENT:
+Mr. Weyl, I think that you have to be careful about crossing the level of permitted -- of -- of behaviour.  You can't be uncivil or impertinent to the Court.  Every court has to maintain discipline of its proceedings.  And if lawyers appearing before the Court cross certain standards of conduct, it is normal for the Court to take steps to address these issues.  So to characterise an enquiry as to whether conduct constitutes contempt of court, to characterise that as holding a threat over counsel, is nonsensical.  
+
+Every court has to maintain discipline.  And if a court considers that there's an issue which may impact upon the proper administration of justice, it is entitled to address these issues.  And what we have done in the first instance is to ask counsel to show cause; to give an explanation.  And that's something which we're entitled to do.  If his explanation is satisfactory, well, then it's satisfactory.  But that's where we are now.  
+MR. WEYL:
+Thank you, Mr. President.  I would simply like to end by saying that I hope I'm not mistaken when I heed my conscience.  And if I am mistaken, if I am in error, then I'm sure that this is an error that I share with all the organisations and persons who have expressed their concerns.  And, so, this error of mine is shared.  
+
+Thank you, Mr. President.  
+(Pages1 to 8 by Eleanor Bastian)
+
+
+
+
+
+
+
+
+
+0930H 
+MR. SOW:
+Mr. President, I would like to tell you that I'm present in the courtroom, after Ms. Dior Diagne, who is the lead counsel.  I am Mr. Félix Sow, who is the co-counsel for Mr. Édouard Karemera.  And I thank you. 
+MR. PRESIDENT:
+Thank you, Mr. Sow.  
+
+Could we call the witness Bagosora, please. 
+MR. WEBSTER:
+Your Honour, as the witness is being brought in, if I could just take a few minutes to deal with some housekeeping issues.  
+
+During my initial portion of my examination of Mr. Nzirorera I used several documents, and I would like to have them on record now so we don't lose track of them.  I discussed this with Mr. Robinson, and anything controversial I will simply request be marked for identification.  And I did show everything to the Defence attorneys yesterday, so this should be a completely uncontroversial application.  And I did get the next numbers from Mr. Issa.
+(Witness entered courtroom)
+MR. WEBSTER:
+So if I could just mention on the record what exhibits are at issue and the numbers I propose, I would like to do that now.  
+
+The first is an Isibo document, it's C12 in my bundle, which should be marked as P. 500.  This was the communiqué from UNAMIR on, I believe, the 8th of January.  
+
+Next is document C14 in my bundle, which is a communiqué from the CDR from the 23rd of January 1994.  And this would be P. 501.  
+
+The third document is C9 in my bundle, it's a letter from Landouald Ndasingwa of the 7th February 1994, which would be P. 502.  
+
+The next document is C8 in my bundle.  This was previously admitted as Prosecution Exhibit 254.  We didn't have the French translation at that time, and I'd like to admit the French translation now, which would be identified as P. 254D.  
+
+The next document is controversial, we'll simply give it an IP number.  It's a letter from a Mr. Epiphane Hanyuriwama to André Guichaoua from the 13th of November 2002, and it would be identified as IP. 63.  
+
+The next document is D4 in my bundle which is a portion of the manuscript which was -- that was seized from Mr. Ndindiliyimana.  That would be IP. 64.  It's D4 in the bundle.  
+
+And then the last document was another seizure from Ndindiliyimana which was entered in his own trial and identified in his trial as P. 245.  And we would identify it, for our purposes, as IP. 65. 
+
+And I'll give all of these to Mr. Issa; they've already been premarked.  There should be nothing controversial about any of this.  
+MR. PRESIDENT:
+Thank you, admitted.
+(Exhibit No. P. 500 admitted)
+(Exhibit No. P. 501 admitted)
+(Exhibit No. P. 502 admitted)
+(Exhibit No. P. 254D admitted)
+(Exhibit No. IP. 63 marked for identification)
+(Exhibit No. IP. 64 marked for identification)
+(Exhibit No. IP. 65 marked for identification)
+MR. PRESIDENT:
+Mr. Issa.  
+MR. MJUI:  
+Thank you, and the numbering is correct, thank you.  
+MR. PRESIDENT:
+Thank you.  
+
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Mr. President.  
+MR. PRESIDENT:
+Well, you appear in our Chamber again, and it appears that on this time you will be able to give your testimony.  We have present, Mr. Constant, who is here in court now.  And I presume that everything is in order for you to give your testimony.  Am I correct?  
+THE WITNESS:
+That is correct, Mr. President. 
+MR. PRESIDENT:
+In that case I will ask the registrar to assist you to take an oath to tell the truth, so that your testimony can commence.  
+(Declaration made by Théoneste Bagosora in French) 
+MR. PRESIDENT:
+Thank you.  You will give your testimony now by responding to questions put to you by counsel designated for that purpose.  And you will respond, first of all, to counsel representing Joseph Nzirorera, who will now begin his examination.  
+MR. NIMY:
+Thank you, Mr. President, Your Honours.  
+THÉONESTE BAGOSORA,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF 
+BY MR. NIMY:
+Q.	Good morning, Colonel.  
+A.	Good morning.  
+Q.	I hope that you are in very good shape, and that you are serene before this Trial Chamber.  
+A.	I hope so.  
+Q.	In any case, you can be sure that I'm very calm.  
+
+Colonel, I assume that before you you have a document which contains information pertaining to your doc -- to your identity.  Do you have that document?  
+A.	No, not yet.  
+Q.	Colonel, I would like to point out that both of us are speaking in French, so when I ask you a question, before answering my question, could you kindly observe a pause so as to allow the interpreters to translate the various comments.  I shall do the same thing before putting a question to you following your answers.  Am I clear?  
+A.	Very clear.  
+Q.	Colonel, have you looked at the personal identification sheet?  
+A.	Yes, I have done so.  
+Q.	Do you agree with the information therein?  
+A.	Yes.  
+Q.	I would like to request you to put today's date on that document and sign it.  
+A.	There's a slight spelling mistake with regard to my mother's name.  The last name is Ntibayazi N-D -- N-T-I -- instead of Y, it should be an I.  Therefore it is N-T-I, Ntibayazi. 
+Q.	Colonel, could you please correct that mistake on the document and put your initials next to the correction.  
+A.	I have done so.  
+Q.	Today is the 25th of June 2010.  
+MR. NIMY:
+Mr. President, we would like to enter this document into evidence.  I would like to ask Mr. Issa to remind us what exhibit number this document should take.  
+MR. MJUI:  
+The document will be D. NZ831, eight-three-one.  Thank you.  
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NZ831 admitted) 
+BY MR. NIMY:
+Q.	Colonel, I would like to request you to assist the Trial Chamber to understand your profile.  In that regard I shall ask you a number of questions.  
+
+In the month of August 1982 to December -- 
+THE ENGLISH INTERPRETER:
+Mr. President, could counsel remember -- repeat the years?  
+MR. PRESIDENT:
+Mr. Nimy, the interpreters have requested you to repeat the question; they have not quite got it.  So could you put the question again?  
+BY MR. NIMY:
+Q.	From August 1962 to December 1963, you were an officer cadet; is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of January 1964 you were a second lieutenant; is that correct?  
+A.	Yes, that is correct.  
+Q.	In that regard you were a platoon leader in Kibuye, in Nyanza, and in the Butare company; you underwent a training course where you were given a paracommando certificate, carried out by the Belgian army; you were a platoon leader in Ruhengeri; you were a company commander in Bugesera as well.  Is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of April 1967 you were a lieutenant.  
+A.	Yes, that is correct.  
+Q.	You were a company commander in Butare, and then you became a company commander in Cyangugu; is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of April 1970 you became a captain.  
+A.	Yes, that is correct.  
+Q.	You were the commander of the 1st company at Kanombe, after which you became a company commander in Kigali, and then you became a camp commander for the Kigali camp, after which you became a company commander of the military police, or MP -- you became the commander of the police military and -- at Camp Kigali.  Is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of October 1973 you became the company commander at Muhima camp; is that correct? 
+A.	Yes, that is correct.  
+Q.	On the 1st of October 1977 you became a major in the Rwandan armed forces; is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of October -- 
+MR. NIMY:
+Thank you, Mr. Issa.  
+BY MR. NIMY:
+Q.	On the 1st of October 1981 you became a lieutenant colonel.  
+A.	Yes, that is correct.  
+Q.	And you underwent a training course at the inter-army higher military institute in Paris, France; is that correct?  
+A.	Yes, that is correct.  
+Q.	After that you became the head of the department of documentation -- of documentation at the ministry of defence; is that correct?  
+A.	Yes, that is correct. 
+Q.	Later you attended a training course at the institute of higher studies in national defence; is that correct?  
+A.	Yes, that is correct. 
+Q.	You were, on that occasion, decorated as the officier de l'ordre national des Mille Collines; is that correct? 
+A.	Yes, that is correct. 
+Q.	You became a commander at the military academy -- 
+A.	Actually, I was the second in command at the École supérieure militaire. 
+
+Q.	In 1984 you became the head of the documentation service at the ministry of defence; is that correct?  
+A.	That is correct.  
+Q.	In 1992 -- or, rather, from June 1988 to June 1992 you were the commander of Kanombe camp; is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 1st of October 1989 you became a colonel; is that correct?  
+A.	Yes, that is correct.  
+Q.	From June 1992 to July 1994 you were the directeur du cabinet at the ministry of defence; is that correct? 
+A.	Yes, that is correct. 
+Q.	At the end of August to the beginning of September 1992 you attended the first conference of the permanent consultative committee of the United Nations for conflict resolution in central Africa, held in Cameroon.  And on that occasion you were the head of the Rwandan delegation; is that correct?  
+A.	Yes, that is correct. 
+Q.	From the 7th to the 14th of March 1993 you attended the second conference of the permanent consultative committee for the United Nations for conflict resolution in central Africa held in Bujumbura, Burundi, and even on that occasion you were the head of the Rwandan delegation; is that correct?  
+A.	Yes, that is correct.  
+Q.	From the end of August to the beginning of September 1993 you participated in the third conference of the permanent consultative committee of the United Nations for conflict resolution in central Africa held in Libreville in Gabon, and there, once again, you were the head of the Rwandan delegation; is that correct?  
+A.	Yes, that is correct.  
+Q.	On the 23rd of September 1993 you retired; is that correct?  
+A.	That is correct. 
+Q.	Colonel, is it true that you played an important role in the events which occurred in Rwanda, particularly from the 6th of April to the 8th of April 1994?  
+A.	Yes, in my capacity as the directeur du cabinet of the ministry of defence, and in the absence of the minister of defence who was on official mission in Cameroon, I played an important role in the events that occurred in Rwanda after the attack against President Habyarimana, up to the evening of the 8th of April when the leaders of political parties set up an interim -- or, rather, presented or submitted an interim government to the military crisis committee.  
+Q.	How -- can you explain, Colonel, your role during that period?  
+A.	I played that role as part of my duties as the directeur du cabinet of the ministry of defence, and pursuant to the directive governing the defence ministry in respect of the duties of a minister.  When the minister is absent there is a clause stipulating that the directeur de cabinet shall replace him in respect of expediting current matters and other matters which are set out in that directive. 
+Q.	I would like in that regard to refer you to document number 3 in our batch of documents.  
+MR. WEBSTER:
+Excuse me for interrupting.  I noticed, with the collection of documents that Mr. Nimy provided us, at least a dozen do have English translations which we didn't get from him, but the Prosecution was able to find the English and has made a copy for Mr. Issa so he can make copies for everyone else -- or, for those who need them in English.  And document 3 is among those.  
+BY MR. NIMY:
+Q.	Colonel, do you have that document in front of you?  
+A.	Yes, I have it.  
+Q.	I shall read out to you (sic) the first two articles of this document.  
+A.	"In the absence or inability on the part of the minister of defence to discharge his duties, the directeur de cabinet shall assume his responsibilities at the ministry of defence by expediting routine matters.  By 'routine matters' we mean all administrative duties and the management of the ministry in respect of the matters which fall under the minister of defence, which cannot be delegated to the chief of staff of the armed forces, subject to the following:  
+
+"A.  Administration of personnel.  He shall be explicitly authorised by the minister of defence in respect of all transfers of officers, promotion of officers, recruitment, punishment and disciplinary measures, dismissal, transfer, making available, suspension, or sending to retirement soldiers, nomination of officers for studies and training courses abroad."  
+THE ENGLISH INTERPRETER:
+Could, Mr. President, the witness -- 
+THE WITNESS:
+"Also when it comes to issues pertaining to the director of the ministry of defence and any service at the general staff, as well as -- and then there shall be issues pertaining to intelligence and security, with the exception of authorisation of -- regarding acquisitions and holding of firearms already accepted.  Any new authorisation of acquisition of firearms have to be explicitly approved by the minister himself.  
+
+"C.  Organisation and operations.  The submission of any draft law or regulations relating to the defence or the Rwandan armed forces for the attention of the country's president or the prime minister shall be explicitly authorised by the minister of defence.  Military operations or peacekeeping missions shall be under the sole responsibility of the concerned chief of staff.  Any operational order or any director of operations coming from the office of the minister has to be issued in writing following a meeting between the directeur de cabinet, the directors of the ministry of defence, the advisers of the minister, and the chief of staff concerned.  The strengthening of a force, be it in the army or national gendarmerie, or any other force, shall be decided in a meeting of the ministers of defence, as well as the chiefs of staff.  Any suppression, merger, or creation of any unit shall be decided by the minister of defence.  
+
+"D.  Logistics.  Any decision on -- regarding expenditure above 100,000 Rwandan francs has to be approved jointly by the directeur de cabinet and the director of the financial department, and justifying documents have to accompany their signatures.  Any transfer of equipment of the Rwandan army to the national gendarmerie, or vice versa, shall be authorised by the minister of Defence."  
+BY MR. NIMY:
+Q.	Colonel, could you also read out point 3?  
+A.	"The director of cabinet expedites routine matters submitted to him by the department or services concerned, namely:  The department of administrative and legal affairs; the administrative of -- the administration of personnel; the department of the external security of the state, security, and operations; the department of ex-servicemen, social affairs, and reservists; the department of financial services, that is budget; logistics, the ministry cooperation division, military cooperation; the public relations division, that is the media; the ceremonial matters and public relations; the information and documentation division, military security; and the information of the minister and management of the signals centre of the ministry of defence; the studies and programmes division, that is, studies, planning, and the military training."  
+Q.	Colonel, can you kindly read item number 5 relating to miscellaneous matters?  
+A.	"The directeur de cabinet may convene and chair meetings of chiefs of staff or of directors of the ministry of defence.  Such meetings must be the subject of minutes approved by all the parties.  The director concerned by the items on the agenda shall attend the meeting.  Any meeting of unit commanders and other military leaders must be authorised expressly by the minister of defence.  In the management of routine matters, the directeur de cabinet may delegate the signing of certain documents that fall within his competence to directors."  
+Q.	Very well, Colonel.  Did you play your role during that period in accordance with the directives, that is, the legal directives that you have just read out to the Trial Chamber?  
+A.	Not exactly.  Not exactly, because I had -- there were interferences on the part of officers who were in charge of services like military headquarters and other units. 
+Q.	To be more specific, Colonel, how did your initiatives emanate, therefore, during that period?  
+A.	All the initiatives that I undertook emanated, essentially, or came from officers who were members of the military crisis committee, and from the representative of the UN Secretary General, Mr. Booh-Booh.  
+Q.	In order to be clearer, Colonel, is this what explains the fact that you were at the forefront of matters during that period? 
+A.	I had to be at the forefront of things during that period for several reasons, but essentially because the president of the republic, who was the head of the armed forces, had just been murdered.  He was murdered while the minister of defence was not in the country; he was on mission in Cameroon.  Whereas, at the same time, the army chief of staff, Mr. Nsabimana, also was a victim of the downing of the presidential plane, along with the president.  And, at the same time, the G2 and G3 of the army were absent from the country.  So there was a vacuum in the command chain, and therefore I was faced with this fait accompli.  
+Q.	Colonel, if those events that you have just described hadn't occurred, what would have been your role insofar as the events regarding the Arusha process were unfolding?  
+A.	I couldn't plan or foresee -- or, see ahead, or foresee that President Habyarimana was going to be murdered by General Paul Kagame, the front man of the Anglophone countries, and that the ministry of defence was going to be absent on that same date, and that the Rwandan army chief of staff was also going to be a victim of the attack in which the president died.  I couldn't have been able to tell well ahead that the G2 and the G3 of the Rwandan army would be absent at the same time from the country.  In other words, if those assassinations or absences hadn't taken place, I would never have played the role that I had to assume then.  
+Q.	Colonel, you told me a short while ago that the directives governing the functioning of the national defence, and mostly your duties, were not complied with as they should have been.  Now, we'll revisit that matter.  
+MR. NIMY:
+But, for now, I would like to request the President to admit document number 3 into evidence, the document containing all those directives with all the details involved.  This would be Exhibit D. NZ832.  
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NZ832A and D. NZ832B admitted) 
+MR. NIMY:
+I am obliged, Mr. President.  
+BY MR. NIMY:
+Q.	Now, Colonel, the president of the republic has been murdered, the chief -- the general chief of staff also, and now we are dealing with the fateful evening of the 6th of April 1994.  And there is a meeting that is held, that is a meeting of the officers of the army; is that correct?  
+A.	Yes, that is correct.  
+Q.	Who initiated that meeting?  
+A.	It was General Ndindiliyimana, the chief of staff of the Rwandan gendarmerie, who took the decision, along with Colonel Murasampongo, as acting chief of staff.  And it was General Ndindiliyimana who invited all the participants at the meeting.  And all of this was done without my knowledge.  And this was done in blatant violation of the directives of the ministry of defence that we have just read out.  
+
+He invited the officers of the army staff -- of the army and of the gendarmerie, having invited the officers of the ministers -- of cabinet, he invited the commander of the UNAMIR and his assistant, he invited Mr. Rusatira who was the commander of ESM.  He did not have powers.  He did not have the authorisation to convene that meeting or to decide on the holding of that meeting.  And I'm saying that he did this with complicity of Colonel Murasampongo, because without the consent of Colonel Murasampongo he would not have been able to hold a meeting of the army staff of the army, whereas he was from the gendarmerie.  
+
+And I should point out that there is a meeting -- is it a meeting that he chaired, or co-chaired with me?  I would say yes.  But I would like to say this:  I do not have any powers to convene such a meeting, either, because in order to convene it I needed the explicit authorisation of the minister of defence in order to convene persons from outside the minister's cabinet.  I was only authorised to hold meetings with the chief of staff and the directors in the minister's cabinet, and that's all.  I will revisit the modus operandi by which I co-chaired the meeting, but this is where I had an intervention -- an interference from the command chain, and that as the representative of the ministry, I couldn't have done this.  So I was faced with a fait accompli.  
+Q.	Yes, indeed, let's talk about that, Colonel.  How did you get to that meeting?  
+A.	On the 6th of April, after the attack on the -- President Habyarimana, at around 8:40 p.m., I was communicating with the commander of the Presidential Guard with my Motorola walkie-talkie, and I was intercepted by General Ndindiliyimana, and he called me and informed me that at the military headquarters there were many officers.  And he asked me to go to the headquarters, if it was possible for me to do so.  
+
+I went there, but I would like to point out here that they did not inform me about the meeting that they had decided to hold.  He did not invite me to that meeting, since he did not inform me about it.  I realised that there was a meeting that was taking place when I got there, and when I got to the ministry of defence, where I found them holding a meeting with the persons he had invited.  But I got there in time to begin that meeting.  And he allowed me, out of courtesy, to co-chair it.  
+(Pages 9 to 18 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1015H 	
+MR. NIMY:
+      Mr. Issa, can you kindly give to the colonel, document number 5 of my bundle of documents.  
+BY MR. NIMY:
+Q.	Colonel, do you have the document before you? 
+A.	Yes. 
+Q.	Can you refer to page 28 of that document? 
+A.	Yes, I am on it. 
+Q.	Can you read the third paragraph thereof? 
+A.	Yes.  "A Motorola type radio set that was lying before him was receiving messages.  I recognised the voice of the directeur de cabinet, who was representing the minister of Defence, Mr. Bizimana, Augustin, who was on mission.  I seized the opportunity to ask him if he could go to the military headquarters where several officers of the various ranks were present.  Upon his arrival, he confirmed to us that the president's plane had, indeed, been shot down and that all the occupants thereof had died. 
+Q.	Colonel, the portion that you have just read out, does it, indeed, describe the testimony that Ndindiliyimana, himself, gave in respect of that event? 
+A.	Yes, this is Ndindiliyimana's testimony that I'm reading out. And I have already told you that, indeed, he intercepted me while I was talking on that Motorola walkie-talkie radio.  
+MR. NIMY: 
+Mr. President, I would request that you admit into evidence this document, that is, document number 5, which is Mr. Augustin Ndindiliyimana's testimony. 
+MR. PRESIDENT:
+Admitted. 
+MR. NIMY: 
+The Exhibit Number would be DN. 733. (sic)
+MR. MJUI
+ 	It is 800.
+(Exhibit No. D. NZ833 admitted)  
+MR. NIMY: 
+Yes, my apologies.  The exhibit number is, indeed, 833.  My apologies, Mr. Issa.  There are so many things happening that we keep reverting to the past.  
+BY MR. NIMY:
+Q.	Well, Colonel, did you, yourself not have a preconceived plan in respect of all these events that had just taken place on the 6th of April? 
+A.	You are talking of a preconceived plan.  This recalls to me a term that the Prosecutor likes to use, a 
+	coup d'état.  You are talking about a preconceived plan, a coup d'état.  These expressions -- this is an expression that the Prosecutor likes to use.  But I did not have any preconceived plan, for the reason that, as you see -- you can see, in order to stage a coup d'état, I wouldn't have waited to be called or convened by General Ndindiliyimana to do that.  General Ndindiliyimana -- it is good to say this -- he was an officer from the south.  And we are going to see that the officers from the south had held a meeting at the prime minister's residence on the 1st of April; that is, in the night of the 1st to the 
+	2nd of April 1993 -- 1994, a meeting that was referred to a coup attempt against President Habyarimana.  There was no proof that he was present at the meeting, but he was aware of it and, politically, in order to stage a coup d'état, he is not the one who would have called me to stage this coup d'état.  He is not the person who would have called me.  
+
+Secondly, when I went to the meeting at the military headquarters, I had, first of all, to pass through the ministry of defence; that is, I had to pass through my officers.  And there are witnesses who testified to this, Filip Reyntjens; there are others who have testified to this in my trial.  I had to pass through the ministry of defence in my office to ascertain whether, in fact, there was no coup d'état against the regime; that is, against the Habyarimana regime.  
+
+I thought of a coup d'état, because already there was some noise making the rounds on the 
+	1st of April 1994 concerning a coup d'état.  And, according to these rumours, the officers from the south and the prime minister had attempted to stage a coup d'état against President Habyarimana.  And the attempt against Habyarimana, itself, had to invite -- or, made me feel concerned and I thought it was a beginning of a coup d'état as staged by the opposition parties against Habyarimana.  So, personally, I didn't know about this and I didn't know of any preconceived plan nor did I have one. 
+Q.	But, Colonel, now let's stick to what you are saying concerning opponents to the Habyarimana regime, or the opposition to the Habyarimana regime.  Now, can you tell the Trial Chamber why you thought of the idea of a coup d'état that might have been staged by those opposing the Habyarimana regime? 
+A.	The socio-political situation in Rwanda had been very tense for some three months.  The political parties, such as the MDR, the PL, had broken up into factions, some of which were supporting the RPF, while others were against it.  Prime Minister Agathe Uwiliyingimana was a member of the minority faction of the MDR, that was pro-RPF.  That was the faction referred to as the Twagiramungu faction.  
+
+Now, for some three months, before then, there had been no cabinet meeting because of that stalemate.  The ministers of the Uwiliyingimana government -- while there were 10 of them -- wrote a letter of protest to her, forbidding her from continuing to make statements on behalf -- on behalf of them since she was not given the powers to do so.  Now, in the night of the 1st to the 2nd of April, you know of the meeting that Prime Minister Uwiliyingimana held with the officers from the south of Rwanda, and this is true, because there is evidence establishing that.  
+
+Now, that meeting -- that meeting was radio broadcast by the RTLM radio from the 
+	3rd to the 5th of April characterising the meeting as a coup attempt against President Habyarimana.  
+	Prime Minister Uwiliyingimana did not denounce it, even though she had the means to do so.  The minister of information and the director of Radio Rwanda were both from her party; that is, from the MDR party.  Now, from all of this, could there have been a coup attempt against Habyarimana?  I think it stood to reason that I could assume that there was a coup attempt.  
+MR. NIMY: 
+Mr. President, it is 10:30 a.m., I wonder if we can take the recess -- brief recess now before I carry on when we resume.  
+MR. PRESIDENT:
+Mr. Nimy, do you accept the truth in your watch for the official time.  The clock is saying 10:26.  
+MR. NIMY: 
+My watch has the Greenwich standard time, and I think that is also the time of the Tribunal.  So my watch says it is 10:30.  
+MR. PRESIDENT: 
+We are looking at the clock in the courtroom.  You have three minutes more.  
+MR. NIMY: 
+Very well, Mr. President.  
+
+Mr. Issa, can you hand over to the colonel, three documents in relation to what he has just said.  First of all, document number 7 of my bundle of documents.  
+BY MR. NIMY:
+Q.	Do you have that document before you, Colonel? 
+A.	Yes, I have document number 7 before me. 
+Q.	These are the excerpts of the broadcast of the RTLM broadcast with the speaker, as you can see, being Valérie Bemeriki.  Do you have that document? 
+A.	Yes, I have it. 
+Q.	Can you look at the second paragraph of that document and read it out up to where I will ask you to stop.  The second paragraph begins with: "That is not all". 
+A.	"That is not all.  You realised that those statements made lately over Radio Rwanda contained many contradictions and that in reality she is conniving with the Inkotanyi, with the RPF, so that all power should go to the RPF.  We have learned that the RPF is doing everything to divide our country, to trigger trouble and to kill persons.  It is not only the civilian population that is concerned.  The RPF is also seeking to divide the armed forces in order to overthrow Habyarimana's power.  It is within this context, that this RPF organisation as well as a few of those supporting it, certain political parties supporting it and the MDR of Rukokoma have sought to meet in the night of the 1st to the 
+	2nd of April 1994, in the residence of Prime Minister Agathe Uwiliyingimana, the high-ranking officers of the armed forces who hailed from one single region; that is, the south, in order to consider together the ways and means of overthrowing and even to murder His Excellency, the President of the Republic, 
+	Juvénal Habyarimana.  That meeting was held at the residence of 
+	Prime Minister Agathe Uwiliyingimana in the night of the 1st to the 2nd of April 1994." 
+Q.	Very well.  
+MR. NIMY: 
+Mr. President, I think that now all our watches and clocks are in harmony. 
+MR. PRESIDENT:
+We take the morning recess now.  
+(Court recessed at 1033H)
+(Pages 19 to 22 by Haruna Farage) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1113H) 
+BY MR. NIMY:
+Q.	Colonel, we are going to resume what we were doing.  
+
+Before the brief recess I was making a comment in respect of an excerpt of an RTLM broadcast concerning the supporters of Prime Minister Agathe Uwilingiyimana, vis-à-vis President Habyarimana, but I believe that the document -- we still had two paragraphs that you had to read.  Do you still have the document before you? 
+A.	Yes.  
+Q.	I believe you stopped at the first paragraph, that is, in the night of 1st to 2nd April 1994; is that correct? 
+A.	On page 11 -- I think I stopped after the first paragraph.  
+Q.	That, indeed, is true.  
+
+So the first paragraph ends with, "That meeting was held at the residence of 
+Prime Minister Agathe Uwilingiyimana on the night of the 1st to the 2nd of April 1994."  Is that correct? 
+A.	Yes, that is correct.  
+Q.	Colonel, I would like you to carry on with the reading of at least the two following paragraphs.  
+A.	"For his security -- or for its security, it is clear that the population did not have to trust this lady, because as the proverb goes, the person who sows for tomorrow will harvest dreams.  We are of the opinion that she will not do anything to bring out Rwanda from the present stalemate.  You, yourselves, will realise that she continues to divide people.  She is beginning to organise meetings of soldiers who hail from the same area in order to divide the national army in a bid to overthrow Habyarimana's regime or to kill him in the event that her plan fails.  This is not a lie.  This is not a fabricated story.  This is authentic and it is known.  This took place at the residence of the prime minister.  
+
+"But people have to stand up against this lady.  We realise, by the way, that she is incapable of having a cabinet meeting.  She has been asked to organise one on several occasions.  We think that 
+political parties which designated her should meet, once again, as requested by the 
+president of the republic -- by his excellency, the president of the republic, on the 25th and the
+27th of February, because the resolutions contained in that document were not complied with.  
+On the contrary, she keeps contradicting herself."  
+Q.	Very well, Colonel.
+MR. NIMY:
+Mr. President, I would like to request that you admit this RTLM document into evidence as 
+Exhibit D. NZ834.  
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NZ834A and D. N834B admitted) 
+MR. WEBSTER:
+Your Honour, I have no objection to the admission.  I simply want to indicate that the record -- this is one of the documents that we have an English translation for, an official English translation, which I have given to Mr. Issa this morning along with these 10 or 12 other documents.  So I wonder if there is an English so that we issue -- admit both.  
+MR. PRESIDENT:
+Are you proposing that the English translation be admitted with this document now?  Has Mr. Issa identified it?  
+MR. MJUI:
+Yes, Your Honour.  The French will be A and the English will be B.  Thank you.  
+MR. WEBSTER:
+And the same for document number 3 that was admitted earlier, which is the letter from James Gasana.
+THE ENGLISH INTERPRETER:
+Mr. President, sir, if there are translations of those documents, can the interpreters be availed of copies thereof.  
+MR. NIMY:
+Mr. President, I don't have any objection to that.  Of course, I am trusting the Prosecutor that the English translation does reflect what we have in the French documents.  
+
+And, Mr. Issa, can you please give to the witness, that is, the colonel, document number 8 of my 
+bundle of documents.  
+BY MR. NIMY:
+Q.	Colonel, a short while ago while you were answering one of my questions, you mentioned the 
+	prime minister, Agathe Uwilingiyimana's behaviour insofar as the convening of cabinet meetings was concerned; is that correct? 
+A.	Yes, that is correct.  
+Q.	Can you read out to the Trial Chamber.  Well, it is not very long but it is worth it.  Can you read out the document that I have just given you?  
+A.	Should I read the entire letter?  
+Q.	This is a document that was signed by members of her government.  This is a document that is dated 28th March 1994.  
+MR. WEBSTER:
+I don't wish to interrupt, but this is a document that is already in evidence.  It is P. 289.  It may not be necessary for Mr. -- for Colonel Bagosora to read the entire letter.  It is two full -- at least two full pages.  So I simply offer that as a suggestion, maybe you can summarise it since it is already in evidence.  
+
+THE ENGLISH INTERPRETER:
+And, Mr. President, sir, if the letter has been translated, can the interpreters be availed of a copy thereof.  
+MR. NIMY:
+Mr. President, if the Trial Chamber does not find any problem with this, I would like the document to be read out in order to refresh the memory -- or everyone's memory as to its tenor.  
+MR. PRESIDENT:
+If that is on record, we don't need it for that purpose, Mr. Nimy.  You don't need to read it for that purpose.  
+MR. NIMY:
+Very well.  
+BY MR. NIMY:
+Q.	Colonel, do you have that document with you?  
+A.	Yes, I do.  
+Q.	Have you had a look at it? 
+A.	Yes, I have.  
+Q.	And what do you say to it? 
+A.	Insofar as my testimony is concerned, I could read the last paragraph of the first page of the document.  And I could read another paragraph on page 2, that is, on the second page.  
+Q.	Yes, please, proceed, Colonel.  
+A.	"What is striking about all of this is that you continue to make statements in the name of the government without having been given the power to do so -- without having been mandated to do so."  
+
+And now I will read the third paragraph at the bottom and probably the paragraph that follows.  
+
+"The undersigned persons are insisting, once again, for ministerial council to be held without delay in order to come out with -- what is the position of the government party, vis-à-vis this new stalemate regarding the establishment of the new broad-based institutions.  It is only by associating the 
+council of ministers in the decision-making process in such complex and delicate matters that an acceptable solution to be communicated to the RPF can be found by a consensus and which should characterise the deliberations of a government that is worth its salt."  
+Q.	Very well, Colonel.  What observations do you have to make about that as part of your evidence?  
+A.	I have told you that the three months preceding the assassination of President Habyarimana -- well, during those three months no cabinet meeting was held.  There was one that was held in February, but no other one was held after, whereas the situation had become very tense, whereas that was when the government had to meet in order to examine the security problem and problems concerning the implementation of the Arusha Accords.  So there was a stalemate and that stalemate led right up to the murder of President Habyarimana.  And it is within this framework that you are going to see in my testimony.  It is within this context that Prime Minister Uwilingiyimana, that is, when General Dallaire introduced her as a person to replace the president, we opposed her designation.  We opposed the fact that Prime Minister Uwilingiyimana should head the armed forces.  We were going to raise this issue because when President Habyarimana was murdered, she did not convene a cabinet meeting.  She didn't ask anyone to help her bring together this meeting.  She didn't ask the armed forces to organise the meeting.  She, with Mr. Roméo Dallaire, preferred to go to the radio to make statements and this failed.  A statement over the radio, of course, which was inconsistent with the letter of ministers that had written to her asking her not to make any further statements without having been mandated to do so.  
+
+Once again, she was breaching the recommendations of members of her government who were asking her to hold consultative -- consultations without making any statements on behalf or in the name of the government.  
+Q.	Very well, Colonel.
+MR. NIMY:
+Mr. Issa, I would like that you give the colonel document number 9 of my bundle of documents.  
+BY MR. NIMY:
+Q.	Still with regard to the prime minister and her activities, which we will talk about later -- however, I think we have to clear all these aspects now.  
+
+Colonel, do you have a document number 9?  This is an excerpt of an article written by 
+Mr. Fillip Reyntjens in 1995.  It is written down.  It is also written number 16 published in 
+Cahiers Africains, and its title is 'Three days that changed history'.  Do you have that document? 
+A.	Yes, I have it.  
+Q.	Could you please go to page 34 of that document?  
+A.	I am there.  
+Q.	Could you please read out the second paragraph? 
+A.	"The 1st and/or the 4th of April officers and some civilians who were natives of the south and from Butare préfecture, in particular, met at the residence of the prime minister.  The officers were 
+	contacted by a gendarme lieutenant called Jean-Baptiste Nyiradokunda, a young lawyer working for the intelligence department of the ministry of defence.  Apart from the civilians, the following people attended the meeting:  Lieutenant Colonel Édouard Gasarabwe, Major Gershom Ngayaberura and about ten junior officers.  Other senior officers, notably, General Ndindiliyimana, Colonel Munyengago and Lieutenant Colonel Nteziryayo and Rungize, were also reportedly invited.  However, they could 
+	not -- it was said that they could not attend the meeting.  
+
+"Although the meeting was presented as a friendly contact around a drink, topics concerning regional interests were dealt with, particularly in the field of the economy and education.  However, the meeting turned distinctly political when the prime minister complained about regionalism of the northerners within the army and the national gendarmerie.  She talked about physical threats facing the opposition and she spoke out against political stumbling block which she attributed to President Habyarimana.  
+
+"When she suggested that Habyarimana had to be 'overthrown', the officers were reluctant and they rejected that idea.  One of the officers present or who was aware of what was said, subsequently denounced the preparation of a coup d'état against President Habyarimana."
+Q.	Very well, Colonel.
+MR. NIMY:
+Mr. President, I will request you to allow me to enter into evidence this document as Exhibit D. NZ834.  
+MR. MJUI:
+The correct number would be D. NZ835.  Thank you.  
+MR. WEBSTER:
+We have no objection to admitting the document.  The witness will just read from page 16 in the English translation which I provided earlier this morning.  And I notice in Mr. Nimy's bundle he has several other excerpts from the same document, and my suggestion is that we simply admit the substantive text, which is pages 1 to 53 of the English translation and the corresponding pages in the French and then we have one complete document and we wouldn't have to keep taking it piecemeal.  So that's the suggestion I would make.  We do have a complete English translation of the portion that deals with Rwanda.  This is a book that deals with both Rwanda and Burundi, and pages 1 to 53 is really of the -- the entire text of what I assume Mr. Nimy would find rather useful.  So that is my suggestion.  
+MR. PRESIDENT:
+Yes, Mr. Nimy, do you have any comments to that? 
+MR. NIMY:
+Mr. President, I am following my strategy with regard to our presentation of our case.  This passage mainly is of interest to us.  So I have to tender it into evidence right now.  Maybe in his cross-examination, the Prosecutor could make comment on this.  But we would like to have this portion to be entered into evidence right now, because this portion is dealing with very specific matters.  So we want to avoid any possible confusion in this regard.  
+MR. WEBSTER:
+In that case, Your Honour, we can proceed and I will simply offer it as an exhibit when we do our cross-examination, so if that makes it easier for Mr. Nimy.  
+MR. PRESIDENT:
+Mr. Nimy, what concerns us is this:  If this is the only excerpt that you intend to adduce in evidence, then we can proceed as you suggest, but we don't think it makes sense to proceed piecemeal admitting several excerpts if you can put the document.  We will not be confused.  This is not a jury trial.  We will not be confused if one document is put into evidence and we have to refer to specific sections.  So if you are going to admit into evidence several other excerpts of the same passage, then we prefer to make one admission.  But if this is the only excerpt that you intend to put into evidence, then we will proceed as you suggest.  
+MR. NIMY:
+Thank you, Mr. President.  Out of an abundance of caution, I would like, therefore, to reserve this document and I could come to it at the end and see whether I can enter all these portions into evidence as a whole or do it in a piecemeal fashion.  Now -- 
+MR. PRESIDENT:
+That is not what -- we were suggesting that you should not put into evidence now.  Don't you 
+know -- really, were you not going to put other documents -- other excerpts into evidence?  
+MR. NIMY:
+Yes, Mr. President. 
+MR. PRESIDENT:
+Then, if that is the position, it would facilitate the testimony if the document is put into evidence.  And then when you come to the relevant excerpts, then you refer to them in the document you will have admitted.  
+MR. NIMY:
+That is correct, Mr. President.  I would actually enter into evidence other portions as well, so I will refer to it in due course.  
+MR. PRESIDENT:
+Why can't you do it now?  Wouldn't it make it easier for your testimony?  
+MR. NIMY:
+This is what I said earlier on.  I had the feeling that there was miscommunication because what I requested was that this portion should be admitted into evidence, that is, number 9 of this batch, as Exhibit 835, the whole lot.  
+MR. PRESIDENT:
+You are putting from pages what to what?  You have enunciated that.  Now, what exactly are you putting? 
+MR. NIMY:
+Page 34, from the third paragraph to the first paragraph on page 35.  
+MR. PRESIDENT:
+Mr. Nimy, that is exactly the point that we had suggested that makes much sense.  We are going to have to review the testimony later on, and it is much more inconvenient for us to search from one exhibit, one page here and another page there in different exhibit entries.  And if you are going to put in several pages from the same document, it is far more convenient to the Bench if you put in the whole document together.  You can then refer to the specific pages in your testimony as you progress.  It will make it far more convenient and readable when we have to review your testimony.  So we will prefer you to do it that way.  
+MR. NIMY:
+Thank you, Mr. President.  
+BY MR. NIMY:
+Q.	Colonel -- 
+MR. PRESIDENT:
+There seems to be a problem where there is a difficulty in accepting directions from the Chamber.  
+Or are we not understanding each other properly?  Are you just defying the Chamber again? 
+MR. NIMY:
+Mr. President, I think that there is a misunderstanding because I requested that this document be entered into evidence in its entirety and along the way I shall make specific references to specific portions.  This is what I understand as being -- having been your concern.  
+MR. PRESIDENT:
+Yes, that is exactly what we are asking you to do.  So where is the problem?
+MR. NIMY:
+There is no problem.  So I am seeking to have this document to be entered into evidence in its entirety, as you have suggested.  What I am doing is to point out a specific portion and this is what I did when
+I said last paragraph -- from last paragraph on page 34, French version to the first paragraph on 
+page 35.  I shall do the same thing when dealing with this whole document written by Fillip Reyntjens, 
+in view of the fact that the entire document has been admitted into evidence.  
+MR. PRESIDENT:
+Thank you very much.  
+MR. WEBSTER:
+I do have the English text with me which I can give to Mr. Issa now, and this is pages 1 to 57 in a document that was previously disclosed, and the Prosecution will offer to make a copy of the French to facilitate matters and we can deal with that administratively on Monday morning.  Mr. Nimy's bundle only has extracts, but we can copy the entire French text and make it available to the Chamber.  
+MR. PRESIDENT:
+Mr. Nimy, is that very acceptable?  
+MR. NIMY:
+Mr. President, there is no problem, because, as I said, we are tendering this document in its entirety.  
+MR. WEBSTER:
+And just for the clarity of the record, the passage we just consulted in the English text is at page 16 in the English.  
+
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Issa, are we on the same page now?  
+MR. MJUI:
+Thank you, Your Honour.  The book -- the French will be D. NZ835A, and English will be D. NZ835B.  Thank you.  
+MR. PRESIDENT:
+Thank you.  Admitted. 
+(Exhibit No. D. NZ835A and D. NZ835B admitted)  
+MR. NIMY:
+Thank you, Mr. President.  
+
+Thank you, Mr. Issa.  
+(Pages 23 to 30 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145H   
+BY MR. NIMY:
+Q.	Colonel, we have looked at this document and we have -- in particular, this document which has just been tendered into evidence in respect of the prime minister, Agathe Uwilingiyimana, and other opponents of Habyarimana's regime, their plan to overthrow the government or kill the president.  Now, I would like to ask you:  What did you think was the best course of action when you were faced with this situation we've just referred to?  
+A.	Faced with that concern and the prospect of a coup d'état, as well as the political situation getting out of hand in the country, I, first and foremost, with my colleagues at a meeting, and I have to say that the meeting was held at the general staff of the army, so my colleagues and I refused, at the request of General Dallaire, we refused to make available Rwandan armed forces and place them under the authority of the prime minister. 
+
+After that, in the ensuing events, I asked General Dallaire to contact RPF in order to prevent 
+the -- prevent its troops from going out of the CND encampment.  
+
+I, also, through an intermediary of the Secretary-General of the United Nations - Secretary-General, 
+Mr. Booh-Booh, I called upon the international community to help us deal with this problem.  
+
+We also contacted embassies involved in the Arusha peace negotiations and overseeing the 
+Arusha Accords implementations.  So, in the aftermath of the events which we have just referred to, this is what I did.  
+Q.	Colonel, could you please remind the Trial Chamber, to all intents and purposes, of course, what date are you referring to? 
+A.	The evening of the 6th of April following the attack against President Habyarimana. 
+Q.	Very well.  After that, what did you do? 
+A.	I have already said that I went to the general staff of the army where I found out that a meeting had already started being presided over by General Ndindiliyimana.  
+
+I have already told you that he allowed me to co-chair that meeting.  At that time, I proposed that we include on the agenda of the meeting items concerning -- an item concerning the replacement of the chief of staff because the chief of staff had died, and also considering how to fill in the vacuum which was occasioned by the president's death.  So those were the two items on the agenda.  
+
+Now, with regard to the second item, things were very difficult so we decided to start with the first item, which was simpler, that is, getting -- replacing the deceased chief of staff of the army.  The officers at the meeting said that there were two candidates who were being put forward, Léonidas Rusatira, who was a colonel and the commander of the École supérieure militaire, and 
+Colonel Gatsinzi -- Marcel Gatsinzi, who was the commander of ESO, as well as the 
+southern operational secteur.  So we had to choose one of those two candidates.  I preferred 
+Colonel Marcel Gatsinzi's candidacy for the following reasons:  First and foremost, because of his experience.  He had been a G3 officer in the Rwandan army for about 15 years.  During the 
+Arusha Accord negotiations, he was the most senior officer amongst the commanding officer members who had been appointed by the Uwilingiyimana government to oversee the implementation of the Arusha Accords.
+
+Secondly, he was the commander of operations in the southern secteur.  
+
+Lastly, he had been trained -- he had been fully trained in military matters because he had attended the Belgium war school -- school of war in Brussels.  
+
+Yes, there was Rusatira.  He was the most senior officer with the most senior rank in the 
+Rwandan army at that time.  However, he had been trained as platoon commander and did not receive any training in higher echelons of military command.  Apart from his senior force number, he did not really have the qualifications required.  And I knew him as someone who was close to Kanyarengwe, who was the chairman of RPF, so I was suspicious of him.  I was suspicious of him.  
+
+In my testimony, we will say this, but at that time, I was not aware at all that he was the officer who was supposed to lead the moderate units referred to by General Dallaire in his book.  So, in other words, he was to lead the moderate elements in the army and the gendarmerie, supported by General Dallaire, following the attack of the -- against President Habyarimana, in the night of the 6th of April.  There was, indeed, a form of a coup d'état and we saw who was responsible for it, and how it went about and how it failed and the consequences of all these attempts and failure.  
+
+So, after setting out the criteria for the selection, members of the crisis committee, by consensus, decided that Gatsinzi should become the ad interim or acting chief of staff, and a telegram was transmitted to all units of the Rwandan armed forces to that effect.  
+
+In principle, the meeting ended there because Dallaire arrived at around 10:30 p.m. in the evening of the 6th of June.  So Dallaire arrived, we worked together with him up to three in the morning, and during the time we were with him, he even went to see the special representative of the UN Secretary General, Mr. Booh-Booh.  I went with him to see Booh-Booh at around midnight and we returned and continued up to 3 a.m.  And he was with me up to three in the morning at the general staff of the armed forces. 
+Q.	Colonel, so you chaired that meeting; you made proposals.  How can you explain your position in that particular meeting, at the first meeting at the general staff?  
+A.	I think that I have already talked about that.  In my capacity as the directeur de cabinet at the 
+ministry of defence, in the absence of the substantive minister, I stepped in, although there were some interferences; there were insubordinations, as I have already pointed out, and although I was a victim on the part of certain -- from close by -- certain officers, I still remained at the ministry during that period. 
+Q.	Colonel, you also said that during that first meeting, initially, you dealt with the issue of replacing 
+General Nsabimana.  And the second item you dealt with was about the power vacuum brought about by the assassination of President Habyarimana; is that correct? 
+A.	Yes, that is correct. 
+Q.	Did you think about involving the prime minister, Mrs. Agathe Uwilingiyimana, in that regard? 
+A.	At the request of General Dallaire, who asked us to in -- asked us to actually place the Rwandan armed forces under the authority of the prime minister, the officers who were with me and I were -- did not -- we had a sense of distrust amongst us towards the prime minister, Uwilingiyimana, following the meeting we referred to.  In other words, the meeting that she held with officers from the south, from 
+1st and 2nd of April.  There were rumours of a coup d'état.  Habyarimana had just been assassinated,  so people were suspicious of her and distrusted her.  
+
+I also had another thing which made me distrust General Dallaire.  General -- we were with 
+General Dallaire at a reception at Hôtel Meridien in Kigali on the 4th of April 1994, during the Senegalese national day.  We were sitting at the same table, and during our conversation, he asked me who was the possible successor to President Habyarimana.  And that was on the 4th of April.  And on the 6th of April, President Habyarimana was assassinated.  General Dallaire came to see me and told me that, "I think that you should place the forces under Mrs. Uwilingiyimana." 
+
+So, because of this distrust and suspicion, I, on behalf of my colleagues, I refused to place the 
+armed forces under the authority of the prime minister.  So this is basically an issue of trust.  But also legally, there was nothing at all that obliged the armed forces to be placed under the authority of the 
+prime minister.  Why?  Because when the country's president died, our constitution did not stipulate that the prime minister would replace the president.  So if you should look at the 10th June 1991 constitution, and if you look at the Arusha Accords which were not yet being implemented at the time, if you look at the June 1991 constitution, it talks about the speaker of CND, that is, the parliament, who would replace the president in the event of death or incapacity.  
+
+Now, with regard to the Arusha Accords, it was the speaker of the transitional national assembly who would replace the president.  The MRND was to present its candidate.  So that candidate could replace the deceased president.  So when you look at those two points, she had no reason to claim that she was going to replace the president in that aspect.
+
+And if you look at the existing rules and regulations in Rwanda at that time, particularly the law governing the Rwandan armed forces, you will see that the authority of the prime minister did not include command of the armed forces.  The president was the authority, who was the commander-in-chief of the armed forces.  And then there was the minister of defence and the 
+chief of staff, operational commanders, and even commanders who had authority over the 
+armed forces.  
+
+So, in any event, apart from the suspicion which I say is legitimate and given that there was a planned coup d'état, and then we had General Dallaire asking me who would be the successor of the president, you still have him talking about the successor, and even talking about it -- her going to the radio to make announcement even before a government had been set up.  So we should ask the prime minister not to make any statements without appropriate authority.  That was the situation at that time. 
+MR. NIMY:
+Mr. Issa, can you kindly give document number 4 of my bundle to the colonel.  
+BY MR. NIMY:
+Q.	Do you have the document in question before you? 
+A.	Yes. 
+Q.	Now can you look at Article 42?  
+A.	Yes. 
+Q.	Actually, this is the constitution of Rwanda.  I am talking about that document.  It is the constitution of the Republic of Rwanda of 10th June 1991, which was published in the official gazette and subsequently amended by the law of 3rd August 1993, equally published in the official gazette of 1993.  
+
+Now, look at Article 42 of that constitution.  And, please, can you read the entirety of it to the 
+Trial Chamber.  
+A.	"The president of the republic may resign.  His resignation shall be received or accepted by the 
+national assembly.  In the event that he is unavailable or that he is unable to express his will, the president of the republic shall be provisionally replaced by the president -- by the speaker of the national assembly.  In the event of his resignation or of his death or if he is unable to assume his duties or if he is disabled, and if this has been decided on by the constitutional court when so requested by the government, the president of the republic shall be replaced by the president of the national assembly up until when the new president of the republic would have been elected.  And this should take place within 90 days.  
+
+"In all the cases mentioned in the previous sub-paragraphs, the prime minister, the ministers and the secretaries of state shall be deemed to have resigned and shall ensure each in its own share the expedition of routine matters up until when a new government would have been formed." 
+Q.	Thank you, Colonel.  On the 6th of April 1994, President Habyarimana was -- or, had been assassinated and in this case, the prime minister, the ministers and the secretaries of state were deemed to have resigned.  Is that what you understood when you read out this provision of the constitution? 
+A.	That is correct. 
+Q.	Thank you.  
+MR. NIMY:
+Mr. President, I wonder if this document has already been entered into evidence in this trial.  Probably, the Prosecutor can help us here.  If this is not the case, may I request that the document be admitted into evidence?  
+MR. WEBSTER:
+We did (microphone not activated)...Your Honour, so it should be admitted now. 
+MR. NIMY:
+Mr. President, can you decide that the document be admitted into evidence as Exhibit DNZ. 836.  
+I hope I am not mistaken here.  
+MR. MJUI:
+Yes, you are correct.  Thank you.  
+MR. PRESIDENT:
+ Admitted.  
+(Exhibit No. D. NZ836 admitted) 
+MR. NIMY:
+I am obliged, Mr. President.  And before I proceed, I would like us to be certain about one thing.  When are we going to adjourn at 12 midday or at 12:30 p.m.?  
+MR. PRESIDENT:
+It is already past 12 midday and our normal time for adjournment is 12:30.  
+MR. NIMY:
+I am obliged, Mr. President.  
+
+Mr. Issa, can you kindly give the witness document number 18.  
+BY MR. NIMY:
+Q.	Witness, this is a book that was written by Mr. Dallaire, whose title is:  Shake Hands with the Devil: The Failure of Humanity in Rwanda.  I would like to refer you to page 291, where Mr. Dallaire arrived at the meeting that you, yourself, were attending.  Can you read the relevant portion of that excerpt?  
+A.	Well, in order to highlight what I am going to read, we are talking about the arrival of Dallaire in the meeting of the general staff or at the military -- army headquarters at around 10:30 p.m. on the 
+6th of April.  And when he arrived, he says in his book what he noticed when he arrived.  And so I am going to read part of paragraph 2.  I will be reading three pages of the third paragraph and then I will move on to the first paragraph of the following page.  
+
+And I am quoting Mr. Dallaire here:  
+
+"Colonel Bagosora was in the middle of a large conference table that was in the form of an iron horse.  The fact that he was in charge did not augur well."  
+
+I think I will move on to the last but one sentence at the bottom because I am not interested in the rest of the paragraph for now, and I quote: 
+
+"Bagosora's presence put it to the least hope that I had, that of this coup d'état.  And if there was a coup d'état, it was planned by the moderate elements of the army and of the gendarmerie." 
+Q.	Very well.  Now, the passage you have just written (sic), Colonel, does it indeed confirm the preparations for a coup d'état?  There are some elements of the army with Dallaire's blessing, according to you, (inaudible) to stage; is that correct?  
+MR. WEBSTER:
+I have no objection to this subject being brought to the witness, but I am objecting to the form of 
+that -- the last question.  So if Mr. Nimy can rephrase the question, it will be sufficient.  
+MR. NIMY:
+Very well.  
+BY MR. NIMY:
+Q.	Colonel, what does that passage that you have just read say to you? 
+A.	First of all, I would like to say that Mr. Dallaire is Defence witness, insofar as the coup d'état is concerned.  I am not one of the officers that had come to support the staging of a coup d'état.  And this is what I guess somewhat is written here.  But as we are going to see, subsequently, there was, indeed, a coup d'état.  
+
+General Dallaire, the UNAMIR commander, wrote this long after the events.  I don't know exactly when he wrote the book.  I don't have the dates on which the book was published, but he had all the time to sort out all the information.  And he says that he came to support the coup d'état that was to be staged by officers whom he characterised as moderate elements of the army and of the gendarmerie.  And I was present, for instance, when he saw me there.  He said their scheme ran the risk of failing.  And I believe that it partly failed.  And that is why I am being prosecuted.  Well, we will see this subsequently in my testimony. 
+
+MR. NIMY:
+Mr. President, I would like to offer this document 18 to be entered into evidence as Exhibit DNZ. 837. 
+MR. WEBSTER:
+We don't have any objection.  There's a corresponding English that I made available and numbered it.  So, Mr. Issa, you can admit the English at the same time.
+MR. MJUI:
+The French document will be D. NZ837A, and English will be B.  Thank you.  
+MR. WEBSTER:
+And just for clarity of the record, let me indicate that the English passage is where the witness read on 
+pages 222 to 223 in English.  
+MR. PRESIDENT:
+Thank you.  Admitted.  
+(Exhibit No. D. NZ837A and D. NZ837B admitted) 
+THE WITNESS:
+I am restoring a new passage in the same document with respect to Dallaire's question on the subject.  He asked me -- well, as to the question that he asked me relating to who was Habyarimana's successor.  This is on page 2 -- 285 of the same document.  That is in the middle of the 
+second paragraph, page 285.  
+MR. WEBSTER:
+And for the record, this would be page 219 in the English text.  
+BY MR. NIMY:
+Q.	Yes, proceed, Colonel.  We are on that page.  
+A.	And I quote Mr. Dallaire, I am quoting him here.  This is what he wrote in his book.  
+
+"In order to try to take him away from his anti-Tutsi speech, I asked him if the president had designated his possible successor.  It was with some legitimacy that I was showing my curiosity as to who would be the successor in the event that something happens to Habyarimana.  Given the events that occurred in the days ahead, my very innocent question had to" - "have the impact or the effect of a bomb in the ears of Bagosora."  
+Q.	Very well.   
+MR. NIMY:
+I would like to point out that in the document that we've just admitted into evidence, the passage was read from page 285 thereof up to 291, second paragraph, and page 292, second -- third paragraph -- third paragraph, rather 
+BY MR. NIMY:
+Q.	Colonel, you also talked about the representative of the special representative of the 
+UN Secretary-General.  How did you get in touch with him?  How did you get into contact with him if, indeed, there was any contact with him after the 6th of April of 1994? 
+A.	After the arrival of General Dallaire at the army headquarters at about 10:30 p.m. on the 6th of April, after I had refused to place the armed forces under the authority of the prime minister, and that the problem of the power vacuum following the assassination of President Habyarimana was still present, we thought that we needed advice from the special representative of the UN Secretary-General.  But I am not the one who was making the proposals.  
+
+General Ndindiliyimana proposed that the secretary -- the special representative of the 
+UN Secretary-General be consulted as to what we should do in the face of this power vacuum.  And it was General Dallaire who requested an audience with Mr. Booh-Booh, for a delegation of the 
+armed forces.  And it is the meeting that designated me, accompanied by 
+Lieutenant Colonel Rwabalinda, who was of the UNAMIR legion to go and see Mr. Booh-Booh.  And it was General Dallaire who took us in his armoured vehicle and drove us right to Mr. Booh-Booh's house. 
+Q.	You are saying -- and what did you have to say to Mr. Booh-Booh, Colonel? 
+A.	I went with a clear indication to give to him concerning the conduct of the Rwandan armed forces in the face of the critical situation that we were witnessing.  I told him that the Rwandan armed forces had no intention of staging a coup d'état, that there was not going to be a coup d'état.  And that the 
+Rwandan armed forces respected -- and were going to continue to respect or comply, abide by the implementation of the Arusha Accords.  
+MR. NIMY:
+Mr. Issa, can you please give document -- I do not think that the document in question is not in the bundle, but it will be distributed.  
+
+Mr. Issa, can you please take this document and it is an excerpt of Mr. Booh-Booh's book:  
+Dallaire's Boss Speaks Out.  That is the title of the book:  Revelations Under the Excesses of a UN General in Rwanda.  
+BY MR. NIMY:
+Q.	Colonel, do you have the document with you? 
+A.	Yes, I have it. 
+Q.	Please, look at page 146 in order for us to make things easy.  
+
+Are you -- have you located the page, Colonel? 
+A.	Yes, I am on it. 
+Q.	Please look at paragraph 3, thereof.  
+A.	Yes, I am on it. 
+Q.	Can you read it out, please?  
+A.	"Colonel Bagosora confirms to me the death of the head of state's death and informed me of the setting up of military committees that would run the country temporarily.  I asked him if this meant that there had been a coup d'état?  Colonel Bagosora firmly rejected any idea of coup d'état.  He added that the goal of the officers was to calm down and to reassure the population after the death of the president and to see the implementation of the Arusha Peace Accords."  
+Q.	Can you read the following page, that is, page 147?  
+A.	The entire page?  
+Q.	Let's say, can you start reading from the second paragraph.  
+A.	"I also suggested that the soldiers should consult the observer ambassadors or the ambassadors that were observers to the peace accords.  General Dallaire backed my stance and added that in all democratic countries, the soldiers had to obey to the civilian authorities and not vice versa, except that up until then he did not seem to want to obey my own orders." 
+Q.	Yes, proceed.  
+A.	"Colonel Bagosora accepted to meet the authorities, the MRND and the observers of the Accord.  Contrariwise, he stated firmly that never would the soldiers get into contact with the prime minister who had been rejected by the army, members of her own government and by the Rwandan people.  
+
+"Lieutenant Colonel Rwabalinda asked how they could proceed in order to maintain the 
+Arusha Peace Accord or to keep it alive whilst the members of parliament of the national assembly -- of the transitional national assembly had to take oath before the president of the republic who had just died."  
+Q.	Yes.  Can you move on to page 149?  
+A.	Yes, I am on it. 
+Q.	Can you read paragraph 2 thereof.  
+A.	"It is unthinkable that the commander of the force -- of the UNAMIR forces, General Dallaire, did not mobilise all the necessary means of UNAMIR to ensure the movement of the persons invited to that important meeting.  It would appear to me that he caused that meeting to fail very badly so that the benefit of his subsequent -- of his subsequent successor should not be attributed to the special representative who was the initiator of the meeting and who was acting as the head of mission."  
+Q.	Colonel, what is your understanding of what you have just read?  Can you please tell the Trial Chamber what you understand from it? 
+A.	I have already said that I went on behalf of the Rwandan armed forces to tell Mr. Booh-Booh that the Rwandan armed forces were not staging a coup d'état, and that they were abiding by the 
+Arusha Peace Accords.  
+
+In summary, the reply of the UN Secretary-General's representative, Mr. Booh-Booh, was that he also asked me to get into contact with Prime Minister Uwilingiyimana.  For the same reasons that I have already set out, I refused, because, legally, there was nothing that compelled the armed forces to get into contact with Prime Minister Uwilingiyimana that were suspecting of having been an accomplice in the assassination of President Habyarimana.  But what I did accept -- well, Mr. Booh-Booh gave me a message, a message to convey to the MRND leadership.  
+
+Mr. Booh-Booh said:  "Get in touch with the MRND and ask the MRND leadership to designate the representative of the deceased president -- a replacement for the -- of the deceased president."  
+
+Now, Mr. Booh-Booh called the ambassador of the US, asking him to organise a meeting of all the ambassadors that were sponsoring the Arusha Peace Accords so that they can consider and examine the political situation and the power vacuum that has -- that obtained the following day -- the death of President Habyarimana.  And to see how the Arusha Accords could be implemented.  
+
+Mr. Booh-Booh told us that he had just been granted audience by the US ambassador for the following day at nine o'clock at his residence, and that we were invited to attend that meeting.  
+
+The delegation -- I am talking about the delegation of the Rwandan armed forces here.  After that meeting, that is, after having promised to Mr. Booh-Booh that I was going to convey that message to the MRND party and that the following day we were going to meet at the residence of the 
+US Ambassador.  The following day at nine o'clock, General Dallaire drove us back to the general staff of the army where the other officers had remained. 
+Q.	Very well, Colonel.  
+MR. NIMY:
+Now, Mr. President, I would like to request that you rule that this document be entered into evidence as 
+Exhibit DNZ. 838.  
+MR. WEBSTER:
+I believe this document is in evidence already.  My recollection, which I have just confirmed, is that the entire book by Booh-Booh was admitted as P. 432.  We don't have the entire book in English translation, only an excerpt is available in English as P. 32A, but I think the entire French text is in evidence.  So if we indicate the pages that the witness is referring to, that should be sufficient.  
+MR. NIMY:
+I do agree, Mr. President.  The pages are, pages 146, 147 and 149. 
+MR. PRESIDENT:
+Now -- thank you, Mr. Nimy.  It's admitted.  We take note of the page references.  
+(Exhibit No. D. NZ838 admitted)
+MR. PRESIDENT: 
+So we are now past thirty minutes midday.  And how are you with your time management in terms of the management of this witness?  
+MR. NIMY:
+Mr. President, it would be risky on my part to say how much time I still have to use examining this witness, but I am a third done with my examination.  So, I still have two-thirds of the time I will need to examine this witness.  But I am not in a position to say exactly how much time.  I am not very good in calculus, Mr. President.  Never have I been.  
+MR. PRESIDENT:
+We have noted the percentages you have given that suggest that you are still (inaudible), as we anticipated you would be.  
+
+Mr. Webster, as we understand the opening practice, the witness would be entitled to confer with 
+Mr. Constant during the adjournment, but not with Mr. Nzirorera's legal team.  Do you accept that's the position?  
+MR. WEBSTER:
+Yes, we do, Mr. President.  
+MR. PRESIDENT:
+Thank you.
+
+Mr. Witness, we will take our adjournment now and resume on Monday morning.  Normally, at this stage we advise the witnesses that they are not to discuss the case or the testimony with anyone during the -- during this adjournment, and there is usually a specific prohibition against discussing the case with the lawyers who are conducting the examination.  But I think we shall clarify that you are entitled to confer with your own lawyer, Mr. Constant, during this adjournment, if you wish to do so. 
+
+We now take the adjournment until Monday morning.  
+(Court adjourned at 1240H) 
+(Pages 31 to 41 by Sheriffo Jammeh) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+I, Eleanor Bastian, Kirstin McLean, Haruna Farage, Sithembiso Moyo, Sheriffo Jammeh and Judith Kapatamoyo, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of my ability and understanding.
+
+
+I further certify that I am not of counsel nor related to any of the parties to this cause and that I am in nowise interested in the result of said cause.
+
+
+
+___________________________	Eleanor Bastian
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	Haruna Farage
+
+
+___________________________	Sithembiso Moyo
+
+
+___________________________	Sheriffo Jammeh
+
+
+___________________________	Judith Kapatamoyo
+
+
+
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 8
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 18
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+HARUNA FARAGE - ICTR - TRIAL CHAMBER III - page 22
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 30
+
+	KAREMERA ET AL	FRIDAY, 25 JUNE 2010
+
+SHERIFFO JAMMEH - ICTR - TRIAL CHAMBER III - page 41
+
+	KAREMERA ET AL		FRIDAY, 25 JUNE 2010
+
+ICTR - TRIAL CHAMBER III
+

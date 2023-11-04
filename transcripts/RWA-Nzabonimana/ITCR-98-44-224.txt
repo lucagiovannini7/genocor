@@ -1,0 +1,859 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+	
+
+ TUESDAY, 24 JANUARY 2006
+0906H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Ms. Dior Fall
+	
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporter:
+	Ms. Karen Holm
+
+
+
+
+
+
+
+
+I N D E X
+
+WITNESS
+For the Defence:
+WITNESS 3/13
+Examination-in-chief by Mr. Hooper	6
+Cross-examination by Ms. Fall	19
+Re-examination by Mr. Hooper	32
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please?  
+MR. FRY:
+Yes, Your Honour.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, presiding, Judge Hökborg and Judge Kam, is now sitting in open session, today, Tuesday, the 24th of January 2006, for the continuation of trial in the matter of the Prosecutor versus Rwamakuba, Case No. ICTR-98-44C-T.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+The appearances are the same.  Thank you.  
+
+Ms. Fall, before we commence the testimony, you may wish to address the matter that was raised yesterday afternoon.  Are you ready to make the submission now, or do you wish to do it later in the day?  
+MS. FALL:
+Thank you, Mr. President.  I think that the problem raised yesterday by Counsel Hooper regarding documents pertaining to André Rwamakuba's detention, if I am not mistaken -- and what I should like to say will not take long.  I merely wish to state that any submissions we make would be in writing, if Counsel Hooper maintains his application, to the extent that, if my memory serves me right, this has already been decided upon by the Trial Chamber following a motion raised by Counsel Hooper; and at that time in the Prosecution's response, all pertinent submissions had been made.  We had disclosed any documents we had, and in any case the Trial Chamber did rule.  If that is the matter we are referring to, should any new problem be raised with regard to that procedure, we shall be in a position later on to make a written response to the Trial Chamber. 
+MR. PRESIDENT:
+Mr. Hooper, any response?  
+MR. HOOPER:
+I don't -- well, I'm entirely in the Tribunal's hands, at present.  I've made an oral application which encompasses the argument that we want to make.  It's wholly different to any previous motion that's been before this Court, and it's quite specific in relation to access to that particular file or dossier. 
+ 
+MR. PRESIDENT:
+Thank you very much.  Well, we'll consider the submissions and I'll rule as soon as we can.  
+
+Are we ready to proceed now with the next witness?  
+MR. HOOPER:
+I've just one brief matter to raise, and that's in relation to the witness, in respect of whom there's to be a video link, we hope, this Thursday.  Mr. O'Shea is going to go to Kigali in order to deal with -- not just that Defence witness but other Defence witnesses too, we hope.  And in that regard we've already been in contact with WVSS, who have told us that this particular witness, Thursday's witness, is very concerned about revealing -- or not revealing -- her identity, and has requested that there be both image and voice distortion.  I understand that voice distortion is not possible.  Some might say they're distorted enough over these links, but in any event, image distortion is probably no more than a turning up or down of contrast on the screen.  
+
+But we've taken a view that a far better security for this witness is that her evidence will be in closed session.  And if we can give her that assurance, and give her that assurance today as a result of my request here this morning and a decision from the Judges, from you, the Judges, we can, I hope, reassure her that she has the best of all possible worlds in terms of identity and it being kept secret.  So we're asking now that that particular witness, I hope, excepting what I've said this morning as relayed to us by WVSS of her concern, is sufficient to justify an application from me that all her evidence should be in closed session because of that sensitivity in order to secure her evidence, and perhaps also she may very well have good cause to feel that her identification is otherwise at risk.  
+MR. PRESIDENT:
+Thank you.  
+
+Ms. Fall?  
+MS. FALL:
+Mr. President, I do realise that it is perhaps not very orthodox in relation to what is regular practice.  The witness -- to appear as a protected witness, I think there are measures taken.  To ensure her appearance via video link also ensures her safety and cannot reveal her identity.  We are not -- we don't wish to be exceptionally difficult, create difficulties.  We are very sensitive to all witnesses concerned for their personal safety, whether for the Prosecution or for the Defence.  It is not possible to distort the voice, nor is it possible not to show the witness's face.  And we do not want to create further difficulties, so we shall abide by the Bench's ruling.  
+MR. PRESIDENT:
+Yes.  We consider that this could be regarded as an exceptional case -- situation, and for the reasons advanced, that is, the securing the attendance of the witness to give testimony and protecting the witness's identification, we will make the order that her testimony can be given in closed session.  
+MR. HOOPER:
+Thank you very much.  The only other matter is this.  Mr. O'Shea has asked me to apply, in order to avoid any future difficulty -- as there might be one, apply for, as it were, the Tribunal's blessing on his being present with the witness in the video room when she's giving her evidence.  I understand he's already discussed this with the Prosecution and raised no objection himself to any representative of the Prosecution's being present at the same time, whether that be someone from the team here or perhaps just an appointed délégué from the team -- extensive teams in -- in Kigali.  But he'd ask to be present in order to observe her giving evidence and assist if there's any difficulties between -- assist the Bench if there be any difficulties, particular difficulties that can't be catered for at this end. 
+MR. PRESIDENT:
+He will assist?  
+MR. HOOPER:
+Well, I mean, with all the propriety that you'd expect from Mr. O'Shea.  He won't intervene at all.  But he'd be there as a reassurance to the witness who's obviously in a delicate position, and -- yes, oh, I see.  He thinks that -- no, he's not going to be asking the questions.  We've discussed this possibility, but it's not feasible, frankly.  So the questions and  all counsel interventions with the witness, once she's commenced her evidence, will be done from here.  I make that quite clear. 
+MR. PRESIDENT:
+And we would expect that if there are any documents that are to be handed to the witness or any communication with the witness in the Chamber, that that will be conducted exclusively by the registrar or the registrar's representative; that once the testimony commences, there has to be no communication of any sort between the witness and counsel.  
+MR. HOOPER:
+Yes.  That, indeed, would be the criteria or the practice that Mr. O'Shea will adopt.  And if there are any documents to provide the witness within the Chamber, that will not be done by him, but through an intermediary of the registry.  
+MR. PRESIDENT:
+Ms. Fall?  
+MR. HOOPER:
+He'd behave no differently than he would here.  
+MS. FALL:
+Mr. President, it is true that Counsel O'Shea asked me whether I intended to send anyone from the OTP to that conference -- video conference.  I don't think we should do so.  Enough -- all proper measures have been taken by those responsible and we have full confidence in the preparations.  However, with regard to this somewhat strange request by Counsel O'Shea to be present in the room where the video link takes place is not at all customary.  He has every latitude in preparing his witness, but the presence of someone from the Prosecution or anyone from the Defence cannot be acceptable, once the witness has begun testifying.  So we should do everything necessary for the documents to be there on time, for the preparation of the Defence witness.  We cannot accept that once the witness has begun to testify, that the representative of the Defence be present in the video-link room.  
+MR. PRESIDENT:
+Ms. Fall, I must confess that I've been a party to a decision in another case where permission was granted to both parties to have representatives in the room where the witness who was giving video testimony was located.  The purpose for that permission was to observe the integrity of the proceedings.  So the representatives of the parties did not have any active role to play, but they were able to satisfy themselves that everything was done in a proper fashion.  Now, if we were going to grant such permission here, we would want to grant it to both parties because we think it would not be reasonable to say that one side only should have access to that facility.  So if we were granting that permission, we would want to make an order which would permit both parties to send a representative, if they wished, to observe the integrity of the proceedings.  And the role would be that of observer, not of active participant.  
+MS. FALL:
+I understand full well your position, Mr. President, and I shouldn't like to push the argument any further.  The only problem we'd have is as to how organised the video conference link -- we've had very little time, as you know, and we haven't been able to organise the presence of one of our witnesses in Kigali.  So we cannot send anyone to represent OTP, to represent the Prosecutor, but in view of your discretionary powers, I state once again that we will abide by your ruling.  
+MR. PRESIDENT:
+Okay.  Mr. O'Shea, in the circumstances we will make the order, on the clear understanding that your role in the room will be purely that of an observer, not a participant.  Although the Prosecutor has indicated they have logistical difficulties in sending someone there, we will still make the order, giving them the liberty to do that if it becomes convenient at a later stage. 
+MR. O'SHEA:
+Yes. 
+MR. PRESIDENT:
+So the order would be for the parties to be represented at the conference for the purpose of observing the integrity of the proceedings. 
+MR. O'SHEA:
+Thank you, Your Honour.  Well, the Prosecution and Your Honours can trust me to do what's correct, whether or not the Prosecution is there.  
+MR. PRESIDENT:
+Can we proceed?  Are you ready with your witness?  
+
+MR. HOOPER:
+Yes.  Can we call the -- yes, the next witness is 3/13.  
+(Witness entered courtroom) 
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning.  
+MR. PRESIDENT:
+Do you speak English?  
+THE WITNESS:
+Yes, I do. 
+MR. PRESIDENT:
+You're going to give your testimony in English. 
+THE WITNESS:
+I think I can. 
+MR. PRESIDENT:
+No, no, you don't have to.  
+THE WITNESS:
+In English, no problem. 
+MR. PRESIDENT:
+That's what you want to do?  
+THE WITNESS:
+Yes, sir. 
+MR. PRESIDENT:
+Okay.  Thank you.  Well, the first thing that will happen is that you will be given an oath by the registrar, to tell the truth during your testimony. 
+THE WITNESS:
+Yes, sir.  
+(Declaration made by Witness 3/13 in English) 
+MR. PRESIDENT:
+Now, Mr. Witness, you give your testimony by responding to questions put to you by the lawyers who are designated for that purpose. 
+THE WITNESS:
+Yes, sir. 
+MR. PRESIDENT:
+You'll, first of all, have to reply to questions given by counsel for the Accused Rwamakuba; that's Mr. Hooper.  So he will commence your examination at this time.  
+Mr. Hooper?
+WITNESS 3/13,
+first having been duly sworn,
+testified as follows:  
+EXAMINATION-IN-CHIEF 
+BY MR. HOOPER:
+Q.	Mr. Witness, as you've said, you're willing to give your evidence in English; though, in fact, your own language is Kinyarwanda; is that right? 
+A.	Yes, right.  I use English. 
+Q.	If you need to be, you can be cross-examined in French, because you also speak French; is that right? 
+A.	Any language. 
+Q.	Your Swedish isn't so hot, I understand; is that right?  
+A.	Sorry?  
+Q.	Your Swedish is not so hot, not too good? 
+A.	Not so good.  I don't actually speak it. 
+Q.	All right.  All right.  Now, we're going to, in fact, at the start of your evidence, go into matters that would, most certainly, identify you.  And for that reason I'm going to ask the President -- Mr. President to grant us a closed session, to the irritation of those, I know, in the public gallery, but it will not last longer than 15 to 20 minutes, probably not that long.  
+MR. PRESIDENT:
+Yes, for the purpose of protecting the identity of the witness, we go into a closed session for approximately 15 minutes. 
+(At this point in the proceedings, a portion of the transcript [pages 7 to 13] was extracted and sealed under separate cover, as the session was heard in camera) 
+(Pages 1 to 6 by Karen Holm) 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+BY MR. HOOPER:
+Q.	So, Mr. Witness, we've been in closed session, and for the benefit of the transcript, can I summarise your position as this:  that you were living in the Remera area in 1994; that you witnessed shooting from the CND building; and it came closer to the Remera area where there was a FAR position, namely, a gendarmerie, not far from the stadium; and you stayed indoors on the night of the 7th; on the 8th, you left your home and that you saw the RPF soldiers, and you indicated, when you related that, on both sides, looking right and left; and returning to your home you noticed that there were more who had been in hiding; and you summoned your wife and family; and together you left and went to the stadium?  
+
+Now, the stadium, the Amahoro stadium, why did you -- first of all, can you agree that that's a fair summary of what's you've -- 
+A.	Yes, I do agree. 
+Q.	Okay.  Now, in getting -- why did you go to the Amahoro stadium? 
+A.	I knew that was the UN troops, the UNAMIR troops where they were, so -- and since *********************, they knew me, and I thought I was going to get security with them.  That's why. 
+Q.	So, together with your wife, children -- was your mother-in-law with you, too? 
+A.	Yes, we went also with her.
+Q.	Wife's brother? 
+A.	Sorry?  
+Q.	Your wife's brother, you mentioned? 
+A.	Yeah, everybody. 
+Q.	Everybody?
+A.	Yes, yes.
+Q.	Okay.  Now, once you're in the stadium itself, are you in a position to look out and see what happens in or around the Remera area or not? 
+A.	I was, I was.  I could see because I moved from inside. 
+Q.	How long did you stay at the stadium for? 
+A.	From 8th April to 23rd. 
+Q.	I'm not going to go into that -- this aspect in detail, but were you being looked for or sought?  Did you have any fears or apprehension while you were in the stadium yourself? 
+A.	Yeah, actually, I was being looked after by the Bangladesh troops because they had actually given me -- maybe I should say on 8th -- no, before the 7th, the stadium was just for Bangladesh troops, but when this fighting broke up, so many people, refugees, coming into the stadium, they divided the stadium into two parts.  Where there was main gate or the stadium now facing CND, that side there were UN, the Bangladesh troops, and then all the refugees were taken to the other side, facing the airport.  So me, I was put in the side of Bangladesh troops.  I was given a room there.
+Q.	And when you say "refugees," were these Hutus and Tutsis or a mixture or what? 
+A.	They were -- most of -- they were mixed. 
+Q.	Now, you stayed there until the 23rd.  What happened on the 23rd? 
+A.	I was taken out by Bangladesh troops when there were -- when their mission was actually finished. 
+Q.	What happened to your wife, your mother-in-law, and your children? 
+A.	I left them behind, because the way I was taken out from the stadium, there was no way they could take children and ladies. 
+Q.	Do you know what happened to them? 
+A.	I know my wife and my baby, they died.  Only the girl, the one -- my first born was -- survived, and we were actually with her.
+Q.	Do you know how they came -- were they killed in the stadium or what?  How do you -- 
+A.	I don't know, because I've never met them again.  I was only told by -- through people when I was in Zaire.  My in-law told them (sic) what had happened, but -- I mean that she managed to get the bodies and bury them, but how they died, even her, she doesn't know. 
+Q.	Did they remain with Bangladeshi troops? 
+A.	On the 23rd all the Bangladesh troops left.  They were replaced by Ghana -- Ghananian troops.  So my family, because Bangladesh were looking after them, they handed over my family to the Ghananian troops. 
+Q.	Do you know what the Ghanaian troops did with them? 
+A.	Sorry?  
+Q.	Do you know what happened to them with the Ghanaian troops?  Did they remain with the Ghanaian troops? 
+A.	My family?  
+Q.	Yes.  
+A.	Yeah.  For some time, yes.  
+Q.	And then what happened?  
+A.	I don't know -- until they died.  How they died, I don't know. 
+Q.	And is your mother-in-law still alive? 
+A.	Yes, she is. 
+Q.	And where does she live? 
+A.	She lives in -- at Muhima, Kigali. 
+Q.	Now, I want to ask you, against the background that you've explained, what your view is of this contention.  If it was suggested to you that it would be possible for someone from the government side, from the -- either the FAR or a minister or anyone, really, to pass through Remera after the 7th, what would you say to that? 
+A.	It was not possible. 
+Q.	And why do you say that? 
+A.	Because it was an area controlled by RPF.  
+Q.	And their area of control, we know MINUAR, Dallaire, and the troops were -- UNAMIR, I should say -- were in Amahoro stadium.  What about the rest of Remera, around the stadium, who controlled that area? 
+A.	From the hotel, Hotel Amahoro, going towards -- not towards town but opposite, going now from Hotel Amahoro to the stadium, behind the stadium, there is another stadium which was in an open air, bordering now the gendarmerie.  Next there was a market, a town centre, Remera.  I heard there was this IAMSEA, this school for statistics.  Next to IAMSEA there was a new market.  All that area, they were actually by -- controlled by RPF. 
+Q.	Do you know the Chez Lando area? 
+A.	Chez Lando, yes, I know. 
+Q.	Who controlled that? 
+A.	RPF.
+Q.	Do you know the crossroads where the road divides, one road goes on to Kanombe airport, and the other road goes left and north, northeast up towards Rubungo?  Do you know that area where that -- 
+A.	Yeah, I know it. 
+Q.	Who controlled that? 
+A.	That is before you reach airport?  
+Q.	Yes.  
+A.	Still RPF.  
+Q.	Do you know an area called Giporoso? 
+A.	Sorry?  
+Q.	Giporoso.  
+A.	Giporoso, that's the end of Remera.  That's a small town where now you go up the road -- point to Chez Lando, now uphill, it's Remera.  So I know. 
+Q.	Do you know who controlled that? 
+A.	Giporoso -- the part of Remera, of it, because Giporoso has part of -- that end of Remera, actually, which was still controlled by RPF. 
+Q.	Now, how safe was the stadium?  Was it ever shelled at all or received any military attention? 
+A.	It wasn't safe at all because RPF could come in the stadium.  They could pick people, get them out of the stadium, and some were killed.  They even attempted also to kill me.  So it wasn't safe. 
+Q.	So even though you were in the Amahoro stadium and even though it became or was effectively the headquarters of UNAMIR, you're saying that the RPF could still come into that stadium -- 
+A.	Yes, sir. 
+Q.	-- and select and take away people? 
+A.	Yes, sir. 
+Q.	Did you have that experience yourself --
+A.	Yes, sir.
+Q.	-- of them coming to look for you? 
+A.	Yes. 
+Q.	Did they find you? 
+A.	Fortunately, no. 
+Q.	Were you helped by anyone? 
+A.	By the Bangladesh troops. 
+Q.	I'm going to put some names to you and ask if you can help us as to what happened to them, to your knowledge.  These are on the word list.  Hategekimana, Raphael, have you heard of that man? 
+A.	Yeah, he was my friend.  He was -- shall I continue?  He was a hotel manager, Hotel Village Ihuriiro manager. 
+Q.	The hotel is Urugwiro (sic), U-R-U-G-W-I-R-O.  And where was that hotel? 
+A.	Where the ministries are at Kacyiru, just before you reach the ministries. 
+Q.	Again we visited that area.  Was the Hotel Intercontinental -- was that open in your day or not?  Or the Novotel, was the Novotel open in your day?  Do you know where it is now? 
+A.	See, what I hear, what is Intercontinental Hotel now used to be Hôtel des Diplomates. 
+Q.	Yes, I got the wrong hotel name.  I'm sorry.  The Novotel, do you know the Novotel? 
+A.	Novotel?  
+Q.	It's a new hotel.  
+A.	Maybe, unless you mention the name of that -- 
+Q.	No.
+A.	-- but Intercontinental, I was told it was -- 
+Q.	It's by the ministries, I think.  So we -- but it's that area, so that's where the --  
+A.	But you pass by Hotel Umubano Meridien, going to Kacyiru or Village Ihuriro, which was actually state house of that. 
+Q.	Now, what happened to Raphael Hategekimana? 
+A.	He was killed on probably 9th. 
+Q.	Where was he killed? 
+A.	In his house with his wife and children. 
+Q.	And which side was responsible for that death? 
+A.	RPF. 
+Q.	Habarushaka, do you -- is that a name that you are familiar with? 
+A.	Yeah.  Yeah, I know -- I know that name.  He was an ex-préfet of Kigali. 
+Q.	Do you know what happened to him? 
+A.	Yeah.  Him, he died also 9th at the stadium compound. 
+Q.	So what was he doing when he was killed? 
+A.	He was actually running -- coming into the stadium. 
+Q.	Again, do you know which side was responsible for that death? 
+A.	RPF. 
+Q.	Katobogama, is that a name that you are familiar with? 
+A.	Yeah, I know him.  I knew him. 
+Q.	And what was he? 
+A.	Sorry?  
+Q.	What was he?  What did he do? 
+A.	A businessman.  He had a bar-restaurant. 
+Q.	Do you know where he was?  Do you know the circumstances -- what happened to him and the circumstances? 
+A.	Actually, he was brought from his house which was not far from the bar, his bar, to the stadium, with his wife and children.  Then it was morning, on 9th.  Around 12 there, lunch time, the RPF took him out of the stadium, this entry facing the airport.  He was killed there.
+Q.	And where was his home where the RPF took him from? 
+A.	It's not far from the main road going to town, passing through Kicukiro, Sonatube.  So his bar was not far from Sonatube. 
+Q.	Do you know someone called Colonel Pontien Hakizemana? 
+A.	Yeah, very well. 
+Q.	Do you know what happened to him? 
+A.	He was killed on -- he was killed on 7th. 
+Q.	Do you know what he was doing when he was killed?  
+A.	He was in his house. 
+Q.	Was he killed alone? 
+A.	No, with his wife and children, everybody. 
+Q.	And do you know who was responsible for that? 
+A.	RPF. 
+Q.	Bariyanga -- Sylvestre, Bariyanga, is that a name you're familiar with? 
+A.	Yes. 
+Q.	What did he do? 
+A.	What did he do?  What do you mean?  
+Q.	What was he? 
+A.	He was an ex-préfet of Ruhengeri. 
+Q.	Do you know what happened to him? 
+A.	He also died on that date of 7th.  He was staying not far from Hakizemana, Colonel Hakizemana.  
+Q.	Mrs. Nubaha, is that a name you're familiar with? 
+A.	Yeah, she's actually Major Nubaha.  She's -- her name I don't remember exactly, but she was also a soldier, major.  And her husband was also Major Nubaha.  Nubaha is the name of the husband. 
+Q.	All right.  Sorry.  
+A.	But they were both soldiers, majors. 
+Q.	Do you know what happened to them? 
+A.	She was also killed and -- Bariyanga, Nubaha, Hakizemana, they were actually staying in the same area. 
+Q.	Was she killed alone?  
+A.	No.  With her children. 
+Q.	Was she fighting as a soldier or what? 
+A.	No.  She was in her house. 
+Q.	In the area, the Remera area, and the other areas there down -- that they controlled at that time, were there other killings by RPF at that time or what? 
+A.	In that area, there were a few cases I know, actually.  
+Q.	Yes, can you just wait there, please?  
+MR. PRESIDENT:
+Now, Mr. Witness, you will now have to answer questions put to you by the Prosecutor, who will now examine you. 
+THE WITNESS:
+Yes, sir. 
+CROSS-EXAMINATION 
+BY MS. FALL:
+Q.	Good morning, Witness.  
+THE ENGLISH INTERPRETER:
+Witness answers, "Good morning," in French.  
+MS. FALL:
+Mr. President, I'm very sorry.  I apologise to the public, but I would like us to go into closed session for perhaps ten minutes at the most because I'm going to put questions that might lead to revealing the witness's identity. 
+MR. PRESIDENT:
+We will now go into closed session for the reasons stated. 
+(At this point in the proceedings, a portion of the transcript [pages 20 to 21] was extracted and sealed under separate cover, as the session was heard in camera)  
+(Pages 14 to 19 by Karen Holm)
+
+
+
+
+
+
+
+MS. FALL:
+It has been pointed out to me that we're only a few moments from the break.  Could we perhaps then take the break?  
+MR. PRESIDENT:
+Yes, we take the mid-morning recess.  We will recess for about 15 minutes.  
+
+Mr. Witness, I was just explaining to you that we have a mid-morning recess for about 15 minutes or so. 
+THE WITNESS:
+Thank you. 
+MR. PRESIDENT:
+Ms. Fall, do you know how long you are likely to be?  
+MS. FALL:
+(No interpretation)
+MR. PRESIDENT:
+Merci. 
+MS. FALL:
+I hope to not take -- I shouldn't like to commit myself, as yesterday I made a promise that I failed to keep.  However, I should think it would be about an hour, an hour and a quarter at most. 
+MR. PRESIDENT:
+Thank you.  
+MR. HOOPER:
+I'm just going to raise the matter of the next witness.  The only person I've got available is No. 7/14, who should be here now.  Now, he's a "new witness" in the sense the Prosecution, I think, have only had notice of him for a month or so.  But the difficulty is that I -- maybe less -- but he's the only witness I've got here, and it may be that -- or my request is that I can proceed with him today in examination-in-chief.  He can be -- if the Prosecution feel ready for him, they can cross-examine him as well.  We won't reach him today, but tomorrow.  But otherwise, I'm in difficulties inasmuch as I've got no witness to take up your time, Mr. President, despite efforts, as you know.  And a way about that would be at least to use some of the time available by taking evidence in-chief.  Though I'd invite and exalt the Prosecution to consider cross-examining the witness as well, it's a matter for them.  But essentially I'd submit that there could be no disadvantage to the Prosecution if that was taken; in fact, every advantage that they'd have, as it were, a very detailed will-say, and they could go away, if that's their wish, and reflect and consider.  But I see my friend nodding her head negatively, but that's my application, and I feel it would be a proper and economic and just use of court time to allow examination-in-chief of the next witness to proceed. 
+MR. PRESIDENT:
+Mr. Hooper, what's your position with the other witnesses, the ensuing witnesses to follow?  Are you -- for example, the witnesses in respect of formal applications that have been made.  
+
+Mr. Witness, maybe you could start your break now.  You could leave the courtroom and resume when the Court resumes.  
+THE WITNESS:
+Thank you, sir.  
+(Witness exits courtroom) 
+MR. HOOPER:
+Well, as you know, I'm sending Mr. O'Shea rather as the good shepherd, I hope, out there to get some -- into the fold first, but I've just heard that -- from WVSS, through Mr. O'Shea, that a further two witnesses, (By order of the Court, this word has been extracted and filed under seal), have agreed to give evidence by video link.  
+
+We're in open session.  Sorry, can we redact the word, (By order of the Court, this word has been extracted and filed under seal)?  Two further witnesses --
+MR. PRESIDENT:
+Yes, the order is made.  
+MR. HOOPER:
+-- two further witnesses have agreed to give evidence, so we've got three now, and we've got dates for them.  So that would mean that when they're willing to do it.  I've provided both Prosecution and the Chamber with a pretty detailed -- well, certainly the Chamber -- with a detailed resume of what the position is in respect of each witness, and I'll update that now in the light of this information.  It will mean rejigging the order of witnesses to accommodate, if it's permitted, those video transmissions which have to be, of course, at a specific time and to fit in with, as far as possible, the convenience and availability of the witness, who are presumably choosing their moments in the best way that will not arouse interest or query at the place of work of those employees -- if I said (By order of the Court, this word has been extracted and filed under seal) again, can it be redacted?  
+
+And in respect of others -- 
+MR. PRESIDENT:
+The comment is redacted. 
+MR. HOOPER:
+Thank you.  In respect of those more professionally qualified, one has declined to give evidence by video, and we are pursuing all means to effect his and others' attendance.  So, in short, today, if you want to know the immediate position, which I suspect is probably the --  
+MR. PRESIDENT:
+No, it wasn't exactly because I think that we have an idea of the communications with our Trial Chamber coordinator.  What is of interest to us was the overall picture in terms of the availability to package all the testimony within the time that has been allocated for it.  And we don't think it's possible to do that without consultation with the Prosecutor to address these issues.  So basically what we were interested in, before calling on Ms. Fall to respond at this stage, was to make certain that the total package is discussed, so that you'll be able to complete your case within the time allocated for it.  
+
+Ms. Fall, do you understand?  Because what is of interest to us is that a reasonable arrangement is made which would permit the totality of the testimony within the time.  So whatever arrangements are made, we'd want that to be taken into account in your discussions.  But we are requesting that you save us the need to make orders.  If there can be an agreement between both of you, we would prefer that at this stage.  
+MS. FALL:
+(No interpretation)
+MR. PRESIDENT:
+So we take the recess now. 
+MS. FALL:
+Mr. President, could I nonetheless speak because I think Counsel Hooper has made a statement here, and I should like to react to it because I think that some things have been said that are not correct, that -- the opposite of the truth.  When I said we've had a month to look at 7/14's statement -- I contest that vigorously.  You will remember we had discussion of this and before the Trial Chamber, Mr. -- Counsel Hooper said it was a new witness that would be -- 
+MR. HOOPER:
+About two weeks.  I'm sorry.  
+MS. FALL:
+But you are often mistaken, Counsel Hooper, and you state something completely opposite to what you tell me before you come before the Trial Chamber, and I am indignant in the face of such conduct.  An agreement had been reached.  We had agreed that there was no problem that this witness would appear at the end of the trial to give us time to make investigations.  We have been highly conciliatory until now.  When we were asked to discuss with Counsel Hooper, the proposal made was that Counsel Hooper undertake examination-in-chief and leave us all the time we want to cross-examine.  And today he tells us that the Prosecutor could cross-examine tomorrow or the day after, whereas we're making investigations of this new witness, and these have not yet obtained results.  I think that in all good faith, if a ruling is -- we might have to ask for a ruling on this.  But we cannot forget the problems the Prosecutor has in face of Counsel Hooper's conduct, who has never submitted a proper list of witnesses, who has never disclosed in a regular fashion, and the rules of disclosure -- I think you have sufficiently stressed that, Mr. President, are -- must be evenhanded, and it is essential that we conclude by the 10th of February.  We are prepared to make all necessary efforts not to raise problems for the Trial Chamber, but we cannot accept to have new witnesses without having obtained the results of the investigations we have undertaken.  And that is our position, and we wanted to put -- it to be put clearly on record because Counsel Hooper's way of changing and varying his list and communicating statements when and where and how he wants to, it's -- we are prepared to do our best to accommodate the Trial Chamber, but we cannot accept that Counsel Hooper says, "Here's the witness; you haven't yet finished your investigations, but you can cross-examine tomorrow or the day after."  It is not at all up to him to tell the Prosecution how and when to undertake cross-examination.  
+MR. PRESIDENT:
+I think that reinforces that this is a good time to take our mid-morning recess.  
+(Court recessed from 1035H to 1107H) 
+MR. PRESIDENT:
+We can resume now.  
+MS. FALL:
+Thank you, Mr. President.  
+BY MS. FALL:
+Q.	Witness, do you remember making a statement to the Defence counsel? 
+A.	Yes. 
+Q.	Can you tell us when you made that statement, if you can remember the date? 
+A.	To the lawyer or to -- sorry.  Different from this statement I've just made now?  
+Q.	Yes, yes.  
+MR. HOOPER:
+Sorry, so the witness isn't misled, he's never made a statement to me.  He has made a statement to one of my -- to my investigator.  
+MS. FALL:
+I would like the witness to be able to answer the questions that I put to him.  Mr. Hooper, you are not required to answer in his stead.  
+BY MS. FALL:
+Q.	Witness, did you ever give a statement to anyone on the Defence side? 
+A.	Yes, I did, to an investigator, not the lawyer.  The lawyer, we just talked today. 
+Q.	Do you remember the exact date on which the statement was made? 
+A.	No, I don't remember the date. 
+Q.	I can tell you that it was given on the 28th of May 2003 and that all parties in this trial have this statement, unless I'm mistaken, and Mr. Hooper will correct me on that.  
+A.	Thank you.  I didn't remember the date.  
+Q.	Mr. Witness, you tell us that, on the 7th of April, you heard shooting coming from the -- or gunfire coming from the CND.  Is that the only thing you heard on that day, that is, as far as the CND is concerned? 
+A.	Yes. 
+Q.	So you observed nothing else, or you observed no other event; is that correct? 
+A.	We are talking of 7th, afternoon?  
+Q.	That's right.  
+A.	Yeah, from the wall of the CND, correct. 
+Q.	So, all you heard was the gunfire, is that it? 
+A.	No, I could also -- the RPF troops jumping from the wall of CND. 
+Q.	So, what you are telling us is that, from where you were, which was a bungalow, you were able to see members of the RPF leaping from the CND wall; is that right? 
+A.	I'm sorry, the meaning of "bungalow"?  I could see from my house.  If "bungalow" means "house", fine.  I could see them from my house. 
+Q.	I didn't use the word "bungalow" myself, but perhaps that is the translation that was provided.  But you are saying that from your house, which is a low house, you were able to see what was going on, whereas the CND -- whereas the CND is some kilometres from your house.  So you could see people leaping from the wall of the CND -- 
+A.	Yes. 
+Q.	-- from that distance? 
+A.	Yes. 
+Q.	So how many people did you see leap? 
+A.	I'm sorry, I did not count.  A few.  
+Q.	You also stated that, still from the place where you were, that is, from your home, you were able to see the RPF shooting at the Remera gendarmerie brigade, and you also said that other shooting was directed at Nyarugenge town.  So you could see the CND, the Nyarugenge town and around the St. Famille church.  Did you say that?
+A.	I could see the shooting going towards town, and from my house I could see the top of the town, which is St. Famille, and the town centre, Kigali town, Nyarugenge. 
+Q.	So does this mean that from the place where you were located you could see very clearly the bullets that were fired at Nyarugenge and St. Famille? 
+A.	I could see them going towards town, Nyarugenge. 
+Q.	Witness, I must say that you have extraordinarily sharp vision, and I should say that, even from the third floor of the Amahoro hotel, it is impossible to see clearly the town of Nyarugenge and St. Famille; all you see are the trees.  
+MR. HOOPER:
+I'm sorry, that's quite an inappropriate way of dealing with the matter.  Effectively, in that question, there's a statement of evidence.  It could be put another way.  But we've had no evidence of any view from there, and attempts, incidentally, to have the Judges view Kigali from various points were frustrated, as we know.  So it's quite inappropriate to suggest it in that way, in my submission.  
+You can ask the witness -- or the witness can be asked, I should say -- what view there is from the Amahoro hotel, for example, but that doesn't mean, necessarily, it's the same view as from his home, in any event.  But as a statement of fact, as it seemed to be put, we've had no evidence in respect of it.  
+MS. FALL:
+I put a suggestion to the witness.  If he can confirm it, that is, if it is possible from Amahoro Hotel to see clearly Nyarugenge.  I think the CND can be seen, but I would like to know whether the witness can clearly see Nyarugenge and St. Famille from the hotel. 
+THE WITNESS:
+Yes, Madam.  I think -- how can I put it?  The town Nyarugenge is higher than CND.  Then my house -- between my house and CND, there's just a valley.  There's no tall building blocking the view, which is different from Hotel Amahoro, even if it is a storey house, but is being blocked by Chez Lando.  Between Chez Lando and Hotel Amahoro, there's another building, storey, tall one, and some other houses between Hotel Amahoro, CND.  And, again -- yeah, I mean, the town Nyarugenge is higher than CND and my hotel to CND and the town, the side -- because we are talking of the hill -- stadium being on a hill.  So my house is on the side, facing the CND directly, and there are no houses blocking the view.  
+BY MS. FALL:	
+Q.	Witness, you said that between the Amahoro hotel and the view you said you had of the CND and the town, and there were several buildings, were these buildings not likely to impede the view that you had, this perfect view of the CND, the town and St. Famille? 
+A.	Yes.  Correct. 
+Q.	So, perhaps you perceived some things, but you may not have seen them as clearly as you wish to have this Trial Chamber understand.  
+A.	Which things?  
+Q.	I am referring to the bullets that were fired at Nyarugenge, these bullets that you saw going in the direction of Nyarugenge, for instance.  
+A.	Of course, seeing a bullet from a meter cannot be the same view as from a kilometer, two kilometres, something like that.  The view is not the same.  
+Q.	You told this Court that on the 7th of April, after the beginning of the gunfire and the reigning insecurity, you stayed at your home; is that right? 
+A.	Right. 
+Q.	And that you only went out the next morning; is that right? 
+A.	Right, correct. 
+Q.	But in the statement that you gave to the investigator, you gave a great deal of information about RPF positions as at the afternoon of the 7th of April, 7th of April 1994.  
+A.	The positions I gave was for 8th April.  That's what I saw physically on 8th. 
+Q.	Once more, Witness, I am referring to your statement, which all the parties have, and you say, from the afternoon of the 7th of April 1994, you begin, and you give detailed descriptions of the RPF positions, CND, Chez Lando, Amahoro -- 
+THE ENGLISH INTERPRETER:
+Would counsel slow down, please?  Would counsel slow down?  
+MS. FALL:
+Sorry, I'm going too fast.  
+BY MS. FALL:
+Q.	So you talk about the -- from the road, from the town to Sonatube; then you talk about Giporoso; you talk about the Remera-Zingiro-Kacyiru east, to the other side of the road; and you talk about a hotel that was occupied by the RPF, and that is how the RPF was evacuating its people to Mulindi, and so on and so forth -- statement -- Witness, did you make a statement to that effect?  And I am referring to things that you said you observed on the afternoon of the 7th of April 1994.  
+A.	I'm sorry, first of all, I don't have a copy of that report to make sure what you're saying is what is written, but what I remember saying that happened on 7th, afternoon, is that when RPF started shooting from CND, it actually started coming towards Remera.  
+
+Now, Chez Lando -- you know, when they were coming towards Remera, they did not come straight on one road; they had to spread through the valley between CND and the stadium, the valley, and then through the road which goes by Chez Lando.  I think that's what I said.  But when you start talking of Mulindi, I don't think I said such a thing.  
+Q.	Witness, I shall be guided by the Defence counsel who provided this statement, so if I did say anything that was not true or that did not appear in your statement, they will point that out.  So, this is exactly what you said.  The question that I wanted to put to you about this, is this: So, since you were in your home and you had not gone out till the morning of the 8th of April, how could you have known so perfectly the development, or deployment and advance, of the RPF soldiers? 
+A.	As I said, when they started shooting from the CND, I was seeing them and I saw them advancing towards Remera, where I was staying.  So the few places I mentioned, actually, they are between the stadium, which is in Remera, and CND.  That one I saw coming.  And we went in the houses when actually the fighting was already around the stadium, which was very near.  As I said, stadium and my house, we are talking of  ***************************, so this time now the sound of the bullets was so close. 
+Q.	And you could also very clearly see what was going on in Nyarutarama, King Faisal hospital, towards Mulindi, Rutare, Byumba, going through Kininya.  So, did you have such a very clear view of these places?  You seem surprised but, yes, that is in your statement.  
+A.	I'm sorry, maybe I should have a copy of that and then comment thereafter.  Because for me -- sorry.  Hello?  Oh, I had some change of sound.  
+My concern is between CND and Remera.  Beyond that, behind CND, that is not my statement. 
+MR. HOOPER:
+I've got a clean copy of his statement, if you wish to present one to him.  
+MS. FALL:
+Mr. Hooper, you are not contesting what is written in the statement, since you have it before you?  That way we can save some time. 
+MR. HOOPER:
+No, I'm contesting the way and the manner in which the Prosecution is putting this to the witness, but I'm reserving that for re-examination.  I'm merely saying at this point that if you wish to put the statement, as he's invited you to, to him, I've got a clean copy, unmarked copy, here which I've found.  
+MS. FALL:
+That will not be necessary, Mr. Hooper, because the witness has denied making any statement of that nature in respect of these places.  I think this has been taken down by the record.  
+BY MS. FALL:
+Q.	Witness, I shall move on now.  You say that afterwards, on the 8th of April, if I remember correctly, you went to the Amahoro stadium with your family because you wanted to feel safer; is that correct? 
+A.	Correct. 
+Q.	You say that you stayed there till the 23rd of April, and you informed us that you were being sought, they were looking for you; is that correct? 
+A.	Correct. 
+Q.	Who was looking for you? 
+A.	RPF. 
+Q.	The RPF was looking for you? 
+A.	Yes. 
+Q.	You also said that on the 8th of April, at about 11 o'clock, you got out to see what was going on around and you confirm, however, that the entire area had been overrun by the RPF.  You were being sought by the RPF and you were, however, not afraid to move about so freely in this area which was under RPF control, when the RPF was looking for you? 
+A.	Maybe you misunderstood me.  Let me put it clearer, that, actually, it is in the morning of 8th that I moved from my house to the road going around the stadium, to see what was happening.  There were not much movement.  Looking for me, it was afternoon when I was already inside the stadium.  But from my house to the road, I didn't have a problem.  
+Q.	So you stated that, on the 7th of April, the attack was launched on the gendarmerie brigade, Remera and the stadium, and that everything was practically under the control of the RPF.  So that prior statement was not true, because you say that there were no problems and you could move about freely? 
+A.	I think that -- it's RPF to answer to know why that morning of 8th they allowed me to go around, although me I was not seeing them, when they were in those houses I mentioned, Kimtalon and the church.  When I was moving from my house to the road, they could see me; I didn't see them.  Reaching the road, I saw left, right.  I also saw them and I'm sure they also saw him -- me, but they did not do anything to me.  I had time to go back to my house.  
+
+It's only after now I had moved into the stadium that they started now looking for me, and that was not on 8th, by the way.  They were looking for me -- because on 8th, on 9th, on 10th, I could move in, in the stadium, from the part of Bangladesh troops to the refugees, where they were hiding.  So it is by 11th that they started now looking for me, not on 8th, not until 11th.  
+Q.	Witness, I observe that there is a contradiction comparing what you have just stated and what you said before.  In saying when the RPF was looking for you, you confirmed that on the 8th you were able to move about freely because there were no problems, which leads one to suppose that the RPF had not -- from what you say, the RPF had not yet completely overrun the area.  But we shall proceed.  
+
+I shall not dwell on the people who were killed by the RPF or the French, and I will say we'll do everything in due time, so I shall not be dwelling on that.  I shall ask you about what you stated.  You said that during -- I might say that the period can be circumscribed as being from the 7th to the 12th of April 1994.  And I'll say that in Kigali you said nobody could go around, and in your statement you added that, "Unless one was a member of the RPF, one couldn't move around; to go to Gikomero, you couldn't go through those roads."  
+
+So can you tell us precisely what were the roads -- what were the roads that couldn't be used to go to Gikomero?  
+A.	For your information, myself, I don't know Gikomero, but I knew that -- what I knew about the road going to Gikomero is that one of Remera, there's -- near the stadium, there was a new market and people going to Gikomero could go through that.  Before, they used to use that road going to Gikomero.  Until now, the RPF took over from -- that area.  Me, what I can confirm, it is actually that road through Remera on the stadium area.  You know, Remera is quite large, so I'm confirming that road through Remera, near stadium and Hotel Amahoro.  
+Q.	Witness, you've just told us that you don't know very well the roads to Gikomero because you don't know that area well.  You've just told us that you knew that that road -- that Remera road, was not passable.  Even if I do concede that -- although it is debatable -- can you tell us whether it was possible to take other roads to Gikomero, even if you didn't know the region, the area, very well, as you say?  Even though you state that no other road could get you to Gikomero.  
+A.	As I see it, if I don't know Gikomero itself, how will I tell you other?  I knew about Remera.  
+Q.	Apart from Remera, do you know whether, yes or no, leaving from Kigali, whether other roads could get you to Gikomero? 
+A.	I could say from maybe going through the Deutsche Welle -- where the Deutsche Welle was, to get situated, because that could be possible.  It's a way that could go to Gikomero, but from where I had -- where Deutsche Welle was -- I just forget the name of that area where Deutsche Welle was, but it was also occupied by RPF, so you could not pass through there either, going to Gikomero. 
+Q.	You are saying, "I think", so you're not sure, and perhaps if you're not sure, it's because you've heard it said, but you did not yourself see that it was occupied by the RPF? 
+A.	Myself, I did not see Deutsche Welle.  I also saw that RPF had occupied that place. 
+Q.	Witness, do you know the place named Quinze?  
+THE ENGLISH INTERPRETER:
+Is that 15?
+THE WITNESS:
+I don't think so.
+BY MS. FALL:
+Q.	You know a place -- I think you mentioned it, Giporoso? 
+A.	Giporoso, yes, I knew. 
+Q.	Do you know if it was possible or not to get to Gikomero from Giporoso? 
+A.	No, I don't know. 
+Q.	If I were to tell you -- suggest to you that from Giporoso through Cannes, you could get to roads Nguenza (phonetic) and Rubungo, towards Kabuga, Rusororo -- these are roads.  We have maps in our possession and this can be checked.  
+A.	What is your answer -- what is your question?  
+Q.	I was asking whether you knew, apart from the road you said was closed, and I said I could concede that other roads that might get to Gikomero, through other roads a bit out of the way that could get around the places that were blocked by the RPF.  
+A.	I said clearly that, actually, I don't know Gikomero itself, so how do I know roads leading to Gikomero, apart from where I was living?  
+Q.	Witness, I don't think I will insist any further.  Not knowing Gikomero, not knowing the area and the roads to get there, I don't think you can come here and tell the Trial Chamber that it was impossible for someone to get to Gikomero because the roads were blocked.  This is a personal opinion that is not based on any concrete fact that you observed, and even worse, you don't know, and as you have admitted, the Gikomero -- before the Trial Chamber, the Gikomero area.  
+
+MS. FALL:
+Your Honour, I think I have finished with this witness. 
+MR. PRESIDENT:
+Thank you.  Now, the Defence counsel, Mr. Hooper, will ask you a few questions before your testimony is concluded.  
+RE-EXAMINATION
+BY MR. HOOPER:
+Q.	Now, you haven't mentioned or been asked or have said you know anything about the route that leads from the northwest of Kigali over and through Gatsata and up to Byumba.  You were asked by the Prosecution about Bumbogo, and you've given your answer there, and you've spoken about the area you know.  And your evidence, as one understands it -- would this be fair -- deals with the area you know and where you were living and not any other area that you don't know or where you weren't living?  Would that be right?  
+A.	Yeah, right, I am testifying for the area I know, where I was living, which is Remera. 
+Q.	And you've given us evidence that, from the 7th -- from the 8th, Remera was held by the RPF and had become something of a killing ground, too, for people? 
+A.	Yes. 
+Q.	You've named some people who were killed there.  
+A.	As from -- actually, as from, even 7th, 7th afternoon, when they had taken over from around stadium and the hotel area, the area where was this gendarmerie and everything, nobody could go through that road. 
+Q.	And so you've dealt with the Remera road, Chez Lando junction, and the road that leads to the airport at Kanombe and the road that leads to Gikomero through Remera.  That's been your area of evidence, is that right? 
+A.	Yes, that's right. 
+Q.	And those roads were cut? 
+A.	They were cut off, yes. 
+Q.	Now, you were asked about Deutsche Welle and you've said, "Well, I know -- I've heard about Deutsche Welle being occupied by the RPF, in any event."  We were in Kigali just a week ago, the Prosecution and the Judges, and we had the road to Deutsche Welle, the road, pointed out, and it was 30 yards from the CND building.  Do you know that road? 
+A.	No, no, I haven't gone there.  Sorry. 
+Q.	But it's right by the CND, where, of course, the RPF were, you've told us.  Well, we know they were, in battle strength.  
+
+Now, you've been asked about your statement and I'm going to ask you to look at it, so I'm passing up your statement.  It may be in a different printing format, but it's exactly the same statement, word for word, as we all have.  
+
+THE ENGLISH INTERPRETER:
+Any spare for the booths?  Sorry.  
+MR. HOOPER:
+Desolé, I'm afraid.  I didn't anticipate it would be put in.  
+THE ENGLISH INTERPRETER:
+No problem.  
+MR. HOOPER:
+And it's in French.  I hope the Tribunal have it, at least in electronic format.  I haven't got it, other than this copy, I'm afraid.  If I had felt necessary for more copies, we can run some off, but it would take us just a few minutes to do so, Mr. President.  We've got one more.  Can I pass at least one hard copy up to the Bench?  
+MR. PRESIDENT:
+That would be enough.  
+MR. HOOPER:
+Yes.  
+BY MR. HOOPER:
+Q.	Now, this is in French, so you might have to help me from time to time.  And it starts off with details.  I'm not going to read it all.  It starts off on the 6th of April -- have you found the bit where it deals with where you were working at the time of the plane crash, that sentence?  Don't read it.  You can see it.  
+A.	Sorry?  
+Q.	Can you see the bit right at, more or less, the beginning of the statement, "Le 6 avril", it starts? 
+A.	Oh, yes, yes. 
+Q.	 "La chute de l'avion"?  
+A.	Yes. 
+Q.	All right.  Then you describe how events unfold, and then you come to the 7th of April, where you say Radio Rwanda had announced -- demanded that everyone stays at home.  Do you see that? 
+A.	Yes. 
+Q.	Is that right, did that happen? 
+A.	Yes, they announced we should remain indoors. 
+Q.	And you say a little bit more about what you were listening to on the radio.  Then you say -- and this is the 7th of April -- "Towards 1 o'clock I saw the RPF soldiers jump over the CND wall enclosure."  And then you go on to say that they came in the direction of Remera; is that right? 
+A.	Yeah, right. 
+Q.	And is that correct, is that what you saw? 
+A.	RPF troops from CND coming towards Remera?  
+Q.	Yes.  
+A.	Yes, correct. 
+Q.	All right.  And then you say, "At this moment the RPF had attacked the brigade, the gendarmerie, who were next to Amahoro."  
+A.	Yes.  That afternoon of 7th, yes. 
+Q.	All right.  And you say, "Towards 3 p.m., the RPF had already occupied" --
+THE ENGLISH INTERPRETER:
+Already occupied what?  Sorry.  
+MR. HOOPER:
+"Cette brigade".  "That brigade", yes. 
+MR. PRESIDENT:
+Is the translation completely accurate?  
+MR. HOOPER:
+Sorry, quite right.  
+THE ENGLISH INTERPRETER:
+Counsel says "5 p.m."  Five p.m.  Sorry, there was a small slip there.  
+MR. HOOPER:
+Corrected by the President. 
+THE WITNESS:
+I don't see that.  "Five p.m.", where is it?  
+BY MR. HOOPER:
+Q.	At 1700 hours, on the 24-hour clock -- 
+A.	Yeah, I've seen, yes.  
+Q.	Was that correct? 
+A.	Correct. 
+Q.	Right.  Then you say in the next paragraph that, in the course of this day, from leaving the CND, the FPR not only fired on the brigade, the gendarmerie brigade, at Remera, but also were firing and -- "s'approché", is that to approach? 
+A.	Correct. 
+Q.	-- the GP, garde presidentielle, camp at Kimihurura.  Is that right, is that something you witnessed or not? 
+A.	Yeah, it is correct.  Maybe the way they put it, it's not -- but I did mention that they were also -- the CND and GP, garde presidentielle, they are neighbours, not far from -- so the first shooting actually was there, GP.  
+Q.	All right.  And then it goes on, "And other firing was aimed at Nyarugenge, the town centre."  
+A.	Correct. 
+Q.	And you say, "From my residence, elevated, I could see -- "From my elevated residence, I could see the CND, the parliament building."  And you add also that part of town known as Nyarugende, and around the church of St. Famille.  
+A.	"Nyarugende" is not correct. It is Nyarugenge, which is actually -- it was the name of the commune of the town. 
+Q.	All right.  
+A.	It was named after the top -- the town centre of Kigali, Nyarugenge. 
+Q.	Can you spell that, please, so that we've got it correct? 
+A.	Nyarugenge, you just move the last, that "D", remove "D" and put -- is it a "J" or -- 
+Q.	"G".  It's my pronunciation then, because I think it probably is -- 
+A.	No, remove "D", remove that "D". 
+Q.	I see, and put in a "G"? 
+A.	Yes, Nyarugenge. 
+Q.	"Genge", yes, we've got it.  So, N-Y-A-R-U-G-E-N-G-E.  You go on to say that -- and is that correct, from your raised residence, could you see CND, Nyarugenge and around St. Famille? 
+A.	Yes, the top of the town, yes, I could see. 
+Q.	And then you go from -- "Of this date, the 7th of April, we stayed in our house until the morning of the 8th of April"? 
+A.	Correct. 
+Q.	You then talk about many people fleeing to the safety of MINUAR, or thinking they were, at the Amahoro.  You say, "ignorant that this zone had been already occupied by the RPF from the afternoon of the 7th of April 1994."  You say that.  Is it correct? 
+A.	It is, yes. 
+Q.	And you then say that many of those who fled were killed by the RPF, and you refer to people you've named, including -- you told us about him -- Katabogama, a businessman from Gitarama who lived very near Sonatube at Kicukiro, K-I-C-U-K-I-R-O.  Sonatube, S-O-N-A-T-U-B-E.  Is that right, did he live at Sonatube? 
+A.	Yes, correct.  Not at, near. 
+Q.	Okay.  Then from -- you say from the 8th of April, the zone of Amahoro stadium at Remera was occupied by the RPF, who continued to kill people, or murder people, massacre people, who came there for the protection of MINUAR, is that correct? 
+A.	It is correct. 
+Q.	And you then name some victims that you've already referred us to.  And you then go on to say that, from the afternoon of the 7th of April, when the RPF had thrown the attack on the gendarmerie brigade at Remera, the attack had closed the road that went or led from the CND to Chez Lando and Amahoro towards Zindiro and towards Giporoso, and the division, the dividing of the route, Kimihurura, and those that went into the town at Sonatube.  Did you say that, and is it correct? 
+A.	Yes, it is correct. 
+Q.	And you say that the zone, Remera-Zindiro-Kacyiru east --  that's Zindiro, Z-I-N-D-I-R-O; Kacyiru, K-A-C-Y-I-R-U -- yes, is there something you want to add? 
+A.	Not "Zindiro"; Zingiro, with a "G". 
+Q.	With a "G", not a "D".  Zingiro.  So remove the "D", put in a "G".  Remera, Zingiro, Kacyiru-est.  Of the other side of the route, Nyarutarama, N-Y-A-R-U-T-A-R-A-M-A, Hospital roi Faisal, King Faisal Hospital.
+A.	Sorry, where is that?  
+Q.	Reading on, "The zone Remera-Zingiro-Kacyiru-est..  The other side of the road, Nyarutarama, King Faisal hospital, were occupied by the RPF."  Is that right; did you say that?  Is that right? 
+A.	Yes, it is. 
+Q.	And you say, "That was the route used by the RPF to evacuate their people to Mulindi, and Rutare in Byumba, going through Kinyinya."  And you said that, and it's correct, is it? 
+A.	Yes. 
+Q.	Is that something you knew at the time or is it something you learnt later or what was the position? 
+A.	This I learnt from people who were actually coming into the stadium.  People were telling us stories of how they reached, in a very difficult way, to the stadium.  Now those are the roads you are talking of now, Kacyiru.  I was not there, but people managed to reach the stadium.  They could tell us that it was already occupied by RPF.  
+
+Then that route going to Mulindi, that RPF actually were picking people from these areas, Kacyiru, Roi Faisal, taking their people to Mulindi, where they had their base. 
+Q.	All right.  Those are all my questions.  Thank you very much.  
+MR. PRESIDENT:
+Thank you.  Well, thank you, Mr. Witness.  This concludes your testimony.  We thank you for giving evidence before the Tribunal. 
+THE WITNESS:
+Thank you.  
+MR. PRESIDENT:
+You are now free to go. 
+THE WITNESS:
+Excuse me. 
+MR. PRESIDENT:
+Yes. 
+THE WITNESS:
+Can I make a request?  
+MR. PRESIDENT:
+Yes.  
+THE WITNESS:
+If I could actually see Dr. Rwamakuba, if possible.  
+MR. HOOPER:
+Yes.  Yes, he'd like to meet him. 
+MR. PRESIDENT:
+Yes, permission is granted.  Permission is granted. 
+THE WITNESS:
+Oh, thank you.  
+(Witness excused) 
+MR. PRESIDENT:
+Now, Mr. Hooper, I'm reviewing what transpired just before our break.  It seems that you and Ms. Fall are talking a bit at cross-purposes. 
+MR. HOOPER:
+Yes, that's right. 
+MR. PRESIDENT:
+Because Ms. Fall said that it was agreed that the testimony of the witness would be examined in-chief, that was already agreed. 
+MR. HOOPER:
+I hadn't understood it was. 
+MR. PRESIDENT:
+But that's what she said. 
+MR. HOOPER:
+Yes, I heard that. 
+MR. PRESIDENT:
+And she said that what was agreed was that the cross-examination would be taken towards the end of the Defence case. 
+MR. HOOPER:
+Yes. 
+MR. PRESIDENT:
+Now, what was of interest to me is the definition of "towards the end of the defence case", so we don't have a situation where we actually run out of time, because it would not be fair if the witness gave evidence in-chief and was not cross-examined at all.  So I am interested in ensuring that there is a clear understanding of what time would be allocated for the purpose of the cross-examination.  
+
+Now, Ms. Fall, could you work that out?  Ms. Fall, what seems to me -- Ms. Fall, it's really for your comment I am speaking.  
+MS. FALL:
+Mr. President, I was saying that we did have a problem because, if we were to refer to what was decided during the meeting we had, we agreed with the Defence that the new witnesses -- and we had listed them, they were four in number -- would only be taken towards the end of the trial so that the Prosecutor would be able to prepare.  That is what was decided.  I think there is a document attesting to this.  
+
+Mr. President, we are well aware of the Trial Chamber's situation and the objectives that need to be attained, that is, that we need to end on the 10th.  And as I said, I hope that you will see the efforts that the Prosecution has made to avoid that any difficulties arise.  We thought that if the Defence were to do its examination-in-chief first, then we would not raise any problems at this point, but it is unthinkable that, as Mr. Hooper suggested -- and that is why I got a bit excited -- it is impossible for us to do our cross-examination tomorrow or the day after.  We have not finished our investigations, I'm afraid, and if the cross-examination were to be scheduled for the week coming -- the week before the last one -- or perhaps the last week of the trial, we might be able to do that.  Because we have investigations to conduct.  We have requested documents, and since, as we have -- the Defence have noticed, responses from Rwanda take time, we are in some difficulty.  But we would like to have all the documents and disclose them, where necessary, so that we're hoping to be able to cross-examine the witnesses the week before last -- or the last week of the trial. 
+MR. PRESIDENT:
+Thank you, Ms. Fall.  What I would like to emphasise is that it's important to actually agree at the time when the cross-examination will take place to avoid the risk of being squeezed out of not cross-examining at all.  
+MS. FALL:
+Mr. President, I think the Prosecutor cannot be a victim in our objectiveness of a problem that could arise in regard to these witnesses.  Most respectfully, Mr. President, I am saying that if we are to have problems in regard to the cross-examination, then the examination-in-chief and the cross-examination should be moved towards the end of the trial.  
+
+If the Defence is unable to present these witnesses, to call these witnesses for one reason or another, it is up to the Trial Chamber to decide, but we cannot accept to suffer any prejudice in that we do not examine a new Defence witness because the witness was brought to us at the very last moment.  And we had a discussion in the presence of the Trial Chamber, where it was agreed that these witnesses would be called last.  That is why we agreed.  If I remember correctly, we said that the Prosecutor would not have any problem if the witnesses -- witness statements were disclosed to us towards the end of the week and if the witnesses were called towards the end of the trial, for our benefit.  I thought there was an agreement on that.  
+
+Mr. President, I respectfully submit that we will not suffer the consequences of the lack of organisation on the part of the Defence and a lack of clarity in regard to the number of witnesses and the appearance list of these witnesses.  We did not object to the new witnesses, we did not refuse to take them, but, Mr. President, there can be no question -- and I say this most respectfully and in the interest of fairness, we cannot take the risk to agree that the cross-examination might not take place, whereas Mr. Hooper will have done his examination-in-chief.  
+MR. PRESIDENT:
+Ms. Fall.  
+MS. FALL:
+So, if there is a risk -- 
+MR. PRESIDENT:
+Ms. Fall, I think you misunderstand me completely.  The phrase "towards the end of the Defence case" or the phrase "the last witness of the Defence case" is a vague phrase.  As far as I'm aware -- I think I have some knowledge of what was discussed, and what I was suggesting was yourself and Mr. Hooper tie up the arrangements more precisely so that we know when the witness's cross-examination will take place.  
+
+It had been suggested to you that the programme between counsel would terminate on the 7th of February, to allow a few days for contingencies.  Now, that would mean that you would have to decide, between both of you, is the cross-examination going to take place during next week, and if so, roughly on what day, or the following week, and if so, roughly on what day?  So it is possible for both of you to -- the question is then there is more than one new witness.  What is the order of the cross-examination of those new witnesses going to be?  
+
+Those are issues which do not really require the intervention of the Court in resolving, but it's important that they are resolved, to eliminate confusion at the last minute.  And so what I was trying to emphasise is that you meet, both of you meet, and clarify the timetable to minimise the possibility of a problem.  
+MS. FALL:
+Thank you, Mr. President, but if I go by the experience we've had, including experience today, agreements between Mr. Hooper and I tend to change when he's in the Trial Chamber.  Today's decision is an example.  He will not contradict me on this, I believe.  We can say that if we -- the order of appearance of witnesses is not for us to decide; it is the Defence that decides this.  So we would also like to know in what order the witnesses will appear in time.  So we could say that we could take them, these witnesses, in the week leading up to the 7th of February -- but I don't have a calendar.  However, I believe that in the absence of force majeur that Mr. Hooper might raise, we should be able to take the witnesses.  
+MR. HOOPER:
+Just before the -- just in case -- just for the record, on Friday I sat down with Ms. Fall, after court, as we undertook to do.  I showed her my own, as it were, private list of witnesses, with all the comments on it about their status and difficulties, and I urged on her the opportunity to be able to take evidence in-chief.  I didn't agree that these witnesses would be taken at the end, on Friday.  I pointed out that there was a probability or a certainty of a bouchon, as I put it, a difficulty in the future, and that we could avoid it by using some court time this week, if possible.  And I sat here and I've had to yet again put up with this extraordinary perverse recollection I get from time to time.  I even sent an e-mail, exhorting the Prosecution -- or inviting the Prosecution to consider their position.
+
+The witness list was served with this witness's name on it on the 5th of January, and we suspect, in fact, that the statement was served before then, but we're having to enquire about that.  And Mr. O'Shea thinks it was long before that.  But there may not have been service, and I'm not pushing that.  But I'm not going to sit here and keep letting these allegations from the Prosecution at us go.  I'm going to respond to them from now on again.  
+MR. PRESIDENT:
+Now, Mr. Hooper, it seemed to me that the outburst this morning was triggered by the fact that Ms. Fall felt -- Ms. Fall felt -- that she had already agreed for the examination-in-chief to be taken today.  You understand?  But she had not agreed for the cross-examination to follow immediately. 
+MR. HOOPER:
+If that's the case -- 
+MR. PRESIDENT:
+That's a very small matter.  And all of the discussion is unnecessary. 
+MR. HOOPER:
+She's never agreed -- 
+MR. PRESIDENT:
+No, no.  She said that in open court now, and as far as we're concerned, she's agreed for the examination-in-chief to take place.  What her concern is has to do with not being pressured to cross-examine immediately.  
+
+Now, what we were concerned about is this.  We don't know exactly how many witnesses are left, although we can get the information.  All that we were concerned about was that there was an understanding of -- a clear understanding of how the totality of the remaining testimony would fit in to the existing time.  
+Now, if you and Ms. Fall cannot agree, then we will make an order.  
+MR. HOOPER:
+I think what would be helpful if -- we will seek to agree by tomorrow -- 
+MR. PRESIDENT:
+Yes.
+MR. HOOPER:
+-- and with the assistance perhaps of Miss Denis, as well.  If she can attend our discussion, it would be very helpful. 
+MR. PRESIDENT:
+What we are thinking of is, we will take the adjournment now, and the witness will start in-chief tomorrow morning, and during -- during tomorrow we will try to make an order, if we can, that will deal with the order of witnesses -- order of examination of witnesses until the end of the trial.  
+MR. HOOPER:
+Very well.  Can I leave then our discussion -- and we can discuss matters with Ms. Denis until tomorrow because, in-chief, the next witness is only going to be about, at the most, an hour.  And I have nothing else.  
+MR. PRESIDENT:
+Well, the discussion could take place, but we would like to have the matter resolved during the course of tomorrow. 
+MR. HOOPER:
+Yes.  Thank you.  
+MR. PRESIDENT:
+Just as a matter of interest, the video testimony, video-link testimony, how long is that going to last?  
+MR. HOOPER:
+An hour, in-chief.  
+MR. PRESIDENT:
+Ms. Fall, have you got a rough estimate?  I presume the cross-examination will be roughly the same time.  We're dealing with a session which lasts about two hours, two and a half hours.  The whole session would last between two to two and a half hours if -- approximately.  The video link -- okay.  And we start at -- okay, we take the adjournment now.  
+MS. FALL:
+Mr. President, did you get my answer about -- the duration of my cross-examination?  
+MR. PRESIDENT:
+No, Ms. Fall, I thought that you were not going to answer me.  
+MS. FALL:
+Well, I haven't actually given my viewpoint on the matter, only the Defence was able to say something.  So, Mr. President, I was saying that I shall not go beyond the time that is set aside for the video link.  
+MR. PRESIDENT:
+Yes, we take the adjournment now until tomorrow morning.  
+(Court adjourned at 1221H) 
+(Pages 25 to 42 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+I, Karen Holm, Official Court Reporter for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of my ability and understanding.
+
+I further certify that I am not of counsel nor related to any of the parties to this cause and that I am in nowise interested in the result of said cause.
+
+
+	___________________________	Karen Holm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	TUESDAY, 24 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page i
+
+	RWAMAKUBA	TUESDAY, 24 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 6
+
+	RWAMAKUBA	TUESDAY, 24 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 19
+
+	RWAMAKUBA	TUESDAY, 24 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 35
+
+	RWAMAKUBA		TUESDAY, 24 JANUARY 2006
+
+ICTR - TRIAL CHAMBER III
+

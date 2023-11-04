@@ -1,0 +1,411 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44D-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	CALLIXTE NZABONIMANA
+
+MONDAY, 14 DECEMBER 2009
+0906H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Solomy Balungi Bossa, Presiding
+	Bakhtiyar Tuzmukhamedov
+	Mparany Rajohnson
+
+For the Registry:
+	Ms. Marianne Ben Salimo
+	Mr. Edward E. Matemanga
+
+For the Prosecution:
+	Mr. Paul Ng'arua
+	Ms. Memory Maposa
+	Mr. Simba Mawere
+
+For the Accused Callixte Nzabonimana:
+	Mr. Vincent Courcelle-Labrousse
+
+Court Reporters:
+	Ms. Melissa Hook
+	Ms. Lisa D. Smith
+	Ms. Claudette Ask
+	Ms. Kirstin McLean
+
+
+I N D E X
+
+WITNESSES
+
+For the Prosecution:
+WITNESS CNAB
+Examination-in-chief by Ms. Maposa (commenced in closed session)	10
+Cross-examination by Mr.  Courcelle-Labrousse (commenced in closed session)	18
+
+WITNESS CNAA
+Examination-in-chief by Mr. Ng'arua	.63
+
+EXHIBITS AND EXTRACT
+
+Exhibit No. P. 19	10
+Exhibit No. D. 2	.59
+Exhibit No. P. 20	.62
+Extract	.66
+
+
+P R O C E E D I N G S 
+MADAM PRESIDENT:
+Good morning everyone.  It is some time since we took appearances.  We would like to welcome back everyone to these proceedings.  
+
+Could we therefore have the appearances of the -- of the parties, please.  
+MR. NG'ARUA:
+Good morning, Madam President, Your Honours.  The Prosecutor is presented by myself, 
+Paul Ng'arua, senior trial attorney.  And I'm assisted by Memory Maposa, appeals counsel, 
+Simba Mawere, assistant trial attorney and Marie Ka, case manager.  
+
+Thank you, Madam President. 
+MADAM PRESIDENT:
+Thank you, Prosecution Counsel.
+
+Defence, please. 
+MR. COURCELLE-LABROUSSE:
+Good morning, Madam President, Your Honours.  The Defence is composed of myself this morning. 
+MADAM PRESIDENT:
+Thank you, Defence Counsel.
+
+Before the witness comes in, Prosecution Counsel, how many witnesses do you have?  
+MR. NG'ARUA:
+Madam President, we have three witnesses.  We have CNBA, and CNAA and CNAC.  
+
+Now, we know that we were supposed to call CNAJ, after CNBA.  But, however, I've just been speaking to WVSS and they have advised me that CNAJ is not in Arusha.  He's not on the ground.  They're trying to make efforts for him to come in by either today or tomorrow.  So we have no control over that one.  So we'll also be making a request for change of order of call of witness -- appearance order.  So that after CNBA, we may call CNAA.  
+
+As the Court pleases, that would be our application this morning. 
+MADAM PRESIDENT:
+Is our understanding correct, Counsel, that these are the remaining Prosecution witnesses?  
+MR. NG'ARUA:
+Yes.  Yes, indeed, those are the only remaining Prosecution witnesses.  So the remaining 
+Prosecution witnesses, just to recap, is CNBA, whom we'll be calling this morning, followed by CNAA, followed by CNAJ and CNAC.  We propose to call them in those -- that order.  As the Court pleases.
+MADAM PRESIDENT:
+Thank you.
+
+Defence Counsel, any comment?  That is on application made by the learned counsel for the Prosecution, Counsel. 
+MR. COURCELLE-LABROUSSE:
+Yes, Madam President, Your Honours.  I am not very happy with the situation.  
+
+Witness CNAJ had to have appeared 15 days ago, and apparently he had the same problem.  He had to take exams, such that we accepted a change in the order of witnesses.  
+
+Today we are finding ourselves in the same situation, this is Monday morning.  I would have find it more courteous by the -- on the part of the Prosecutor to warn me in advance because I prepared my week in a different way and I think it would not have been very difficult to know that his witness would not be here this morning.  I am very surprised.  This poses a problem for me.  I do not want to raise difficulties to cause problems.  But this change in the order of appearance makes it such that after CNBA I would have to be dealing with CNAA.  And this, as far as I am concerned, interrupts my order of preparation and I believe that the Trial Chamber must have noted on our various motions that we have difficulties with these two witnesses, the last two Prosecution witness who were CNAA and CNAC.  
+
+That is the situation.  So as far as I am concerned, I am not ready this afternoon to start with CNAA. 
+MADAM PRESIDENT:
+But, Counsel, you prepared for all these witnesses and you are the counsel in charge until the end of this session, is that the case, Counsel?  
+MR. COURCELLE-LABROUSSE:
+Your second proposition is exact, yes.  I would be the counsel in charge right to the end of the session.  
+
+But with regard to the first proposition since I have four witnesses to cross-examine on account of time management I prepared these witnesses in chronological order and by priority.  Therefore, I did not prepare all the witnesses for this week last week, even though I have done a lot of progress -- I've made a lot progress in my work. 
+MADAM PRESIDENT:
+Yes.  One -- two further questions, one for the Prosecution and one for the Defence.  
+Prosecution Counsel, why wasn't the Defence informed in a timely fashion?  And, Defence Counsel, is there any witness amongst the witnesses present for whom you are better prepared?  
+
+We could start with the Prosecution counsel. 
+MR. NG'ARUA:
+Yes, yes.  Madam President, when we made the request for variation of call of witnesses with respect to CNAJ, our prayer was that CNAJ was involved in exams that would last until the 10th of December and thereafter he would be brought by WVSS.  That was our understanding.  
+
+Last week, because of the deposition in which myself and my team were very involved in Kigali, we were not able to get from WVSS information as to whether they had brought CNAJ.  We thought they had, or they should have.  
+
+So it's only this morning really that I discovered from the WVSS officer that they have not brought CNAJ.  Probably, if all was perfect, they should have informed us as soon as the 10th probably that something may have been amiss.  
+
+However, judging from the correspondence that we've received from my learned friend with respect to CNAC and -- sorry to CNAA, all indications show that he has been preparing for CNAA.  He has sent us quite a number of emails and documents by email that he will use in the examination-in-chief of CNAA.  
+
+Now as an alternative, I don't want to underplay the difficulty my learned friend may be facing, but we propose that in the event that we lead CNAA in-chief, which we think would be just about an hour, then we can pause for a while at the discretion of the Court and at the request of my learned friend, so that he can then put his books in order.  I know how difficult it is for him to prepare alone, but I know he has his investigator here, a very competent investigator.  And with a small pause after the examination-in-chief of CNAA, I'm sure he'll be able to proceed with CNAA.  As the Court pleases, that is our proposal. 
+MADAM PRESIDENT:
+Defence Counsel.  
+MR. COURCELLE-LABROUSSE:
+Madam President, Your Honours, I would go by the decision of the Trial Chamber.  We can discuss the matter for 20 years.  I had requested that these two witnesses, CNAA and CNAC, be postponed.  So obviously I would be obligated to cross-examine them under the conditions. 
+MADAM PRESIDENT:
+Counsel, we want to understand your submission.  Are you saying that you're conceding to the application made by learned counsel for the Prosecution to start with CNBA and then to continue with CNAA, CNAJ and then CNAC in that order, given the circumstances in which we find ourselves?  
+MR. COURCELLE-LABROUSSE:
+Madam President, we are placed -- we have to deal with the situation as it is, so there's really no point in objecting. 
+MADAM PRESIDENT:
+Thank you, Defence Counsel, for your kind consideration.
+
+Now the Trial Chamber would like to -- to note the following before we start these proceedings.  We have four witnesses and we have three and a half days.  So as to move these proceedings forward, the Trial Chamber is prepared to cancel travel plans and sit the whole of Thursday, if it will assist us to move these proceedings forward.  We have four days and we believe that if we devote a day to each witness we could finish these proceedings.  
+
+If we are not able to finish these proceedings during this session, then we have to find the time next year to come back to this case.  And so far the earliest the Chamber considers we can do it is 
+February, 4th and 5th.  So we would like to get the reactions of -- yes, I've been reminded by the -- by my colleagues that the Judges would be willing to sit for Friday morning as well, if it will assist the 
+Trial Chamber to move these proceedings forward.  But we want to get your reactions on this.
+
+Prosecution?
+MR. NG'ARUA:
+Thank you, Madam President.  
+
+As for the proposal to sit on Friday, I can inform the Trial Chamber that our travel plans are not due until the 20th of December.  So as far as travel arrangements are concerned, we are not prejudiced at all.  
+
+Now in the event we are not able to finish, and your proposal is that we come back on 
+4th and 5th of February, again I do not see any difficulty on the part of the Prosecution.  So both proposals are acceptable to us, as the Court pleases. 
+MADAM PRESIDENT:
+Defence Counsel. 
+MR. COURCELLE-LABROUSSE:
+Madam President, Your Honours, as far as I am concerned, I had great difficulty in finding a flight to return to -- in going back to Europe -- 17 December, I have to return on the 17th of December in the evening.  And I also organised, also with great difficulty with my co-counsel, the distribution of work in order to be present according to the schedule that had been fixed by the Trial Chamber right up to Thursday -- Thursday, the 17th.  I have a flight at 7:30 p.m. from the Kilimanjaro airport on 
+Thursday evening.  I am very willing to work extra time on Thursday afternoon, but I must catch that flight.  That is my situation. 
+
+MADAM PRESIDENT:
+Yes, and the extension, Counsel, should we not finish?  
+MR. COURCELLE-LABROUSSE:
+No problem, Madam President.  
+
+Let me remind the Court that we even proposed -- you would remember that we asked that CNAA and CNAC be postponed and we even proposed since I saw that Defence evidence is scheduled to start on the 19th of March, according to the schedule, so we proposed that these witnesses be examined during that period -- from that period.  And that when we finish with them, we immediately start the 
+Defence case, knowing fully well that we said, considering the fact that this case was factual, we would not be filing any acquittal brief between the end of the Prosecution case and the beginning of the Defence case.  
+
+That is the solution we were proposing to the Court, particularly as an effort to address the issue concerning CNAA and CNAC.  We received many documents.  We have -- which have still not been translated and which we have not been able to use.  And this is the solution of good faith I believe from the Defence.  If you take two days in February and another two days to fit in CNAC at the beginning of the Defence case, it would not take more time from the Court, and I believe this is a fair remedy when we consider that the Prosecutor has sent us -- when we consider that the Prosecutor has sent us many documents beyond the deadlines which we have not been able to use.  
+
+So I just want to bring this matter to the attention of the Trial Chamber.  A matter which might have not been observed and this was contained in a motion which we filed. 
+MADAM PRESIDENT:
+Thank you, Defence Counsel.  So that we understand you correctly, you are saying you would not need a break between the end of the Prosecution case and the beginning of the Defence case; is that so, Counsel?  
+MR. COURCELLE-LABROUSSE:
+Madam President, I saw on the Tribunal's schedule online that our case had to start on the 
+29th of March and run for five weeks, if I understood it well.  Indeed, as I said, we would not be coming with an acquittal brief on a factual matter.  If this calendar starting on the 29th March is indeed the calendar which we shall be using, and if we can examine -- cross-examine and examine the witnesses CNAA and CNAC in February and then two days at the beginning of our Defence case, we can then finish with the two witnesses and move on to our Defence case immediately.  There's no difficulty for us as far as that is concerned. 
+MADAM PRESIDENT:
+Thank you, Defence Counsel.
+We have listened to the parties and we are grateful for Defence counsel for making everybody's life easy.  So we will proceed as earlier planned and continue this session up to Thursday lunch hour to enable the Defence counsel to travel, as he has scheduled his flight on that day.  
+
+Then we will come back here on 4th and 5th of February.  This is still tentative, but we hope that it will be worked out and continue with the Prosecution case.  
+
+If we cannot finish it during that period, then we'll devote the first two days of the next session, which is scheduled to begin around the 29th of March, until the completion of the Prosecution case.  And thereafter, we will proceed with the Defence case, since the Defence has indicated that it is not going to enter a motion for acquittal and it also doesn't need time to prepare for its case.
+
+Is that clear now, Counsel?  
+MR. NG'ARUA:
+Indeed, it is clear. 
+MADAM PRESIDENT:
+Defence Counsel?  
+MR. COURCELLE-LABROUSSE:
+I did not hear you from the very beginning because I -- my earphones were not working, but I heard the end of what you said, and I'm okay with that calendar.  
+
+Thank you very much, Madam President. 
+MADAM PRESIDENT:
+Counsel, for your benefit we will repeat what we said at the beginning.  We said that we have listened to the parties and we are grateful for Defence counsel for making everybody's life easy.  So we'll proceed as earlier planned and continue this session up to Thursday lunch hour to enable 
+Defence counsel to travel on his scheduled flight.
+
+We think that you heard the rest.
+
+And perhaps we need to add that, before we start, that even if we have agreed on this schedule, we should not relax and do as much as possible in this session -- do as much as we can.
+
+Can we now have the witness brought in, Registry, please.
+(Witness entered courtroom) 
+MADAM PRESIDENT:
+Registry, is the witness comfortable with his headphones?  
+Witness, can you hear the Trial Chamber?  
+THE WITNESS:
+I can hear you very well. 
+MADAM PRESIDENT:
+Good morning, Witness.  The Trial Chamber -- 
+THE WITNESS:
+Good morning, Madam President. 
+MADAM PRESIDENT:
+The Trial Chamber welcomes you to these proceedings.  And we would like you to be comfortable, so if you have any problem let us know.
+
+Before you begin your testimony, we would like to give you some information regarding the proceedings in this Tribunal.  The Prosecution, which is seated on your right hand, will lead you -- will ask you questions to elicit your evidence in-chief.  When they have finished asking you questions, the Defence will in turn ask you questions.  The Defence is seated on your left hand.  The Judges may at any time ask you questions to clarify any matter which they deem fit.  
+
+Give your narration in quick, short sentences, bearing in mind that the -- your testimony is being interpreted and recorded as well in three languages.  So the interpreters and the recorders need time to do their job.  So you have to break your narration and speak slowly but clearly.  Answer all questions put to you directly and briefly.  If a question is not clear to you, you can ask for it to be repeated.  And we believe that if you follow these simple instructions your testimony will be short and you will go home early and happy.
+
+Is that clear, Witness?  
+THE WITNESS:
+I understood you well and I thank you for those instructions. 
+MADAM PRESIDENT:
+Yes.  And one last matter which we had forgotten to inform you about.  You must answer all questions put to you, unless the Trial Chamber indicates that it is not a proper question.
+
+Thank you, Witness.  
+THE WITNESS:
+I also thank you. 
+MADAM PRESIDENT:
+Prosecution -- sorry for interrupting you.
+
+Prosecution Counsel, we are in open session and we'd like to know where you'd like to start please. 
+MS. MAPOSA:
+Good morning, Madam President, Your Honours.  The content of the testimony of this witness involves talking about people who are close to him, his relatives and those close to him.  So, Madam President, I'm applying for a closed session. 
+MADAM PRESIDENT:
+Witness, before we go into closed session, we would like to inform you that we have two sessions here.  One is open session, and the public is entitled to attend an open session like this one.  So when we are in open session, you have to careful not to mention names of people and places that may identify you.  But when we go in closed session, as we are shortly going to do, you will be free to speak about anyone, including those people and places which may identify you.
+
+Registry, could we go into closed session, please.
+(At this point in the proceedings, a portion of the transcript [pages 9 to 62] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 1 to 8 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. MATEMANGA: 
+We are now in open session.  
+MR. NG'ARUA:
+May I also request the assistance of registry.  We have a spelling list of proper nouns that may be referred to in this session. 
+MADAM PRESIDENT:
+Yes, Witness, we are now in open session.  Be careful not to mention names and places which may identify you, as the public may attend this session.  
+MR. NG'ARUA:
+Thank you, Witness -- thank you, Madam President, Your Honours.  
+WITNESS CNAA,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF 
+BY MR. NG'ARUA:
+Q.	Witness, before 1994, did you know a person by the name of Mr. Callixte Nzabonimana?  
+A.	I used to see him occasionally at meetings from time to time, but I can't say that I knew him or that he knew me.  
+Q.	Can you tell the Court one such meeting that you came to know who Mr. Callixte Nzabonimana was?  
+A.	Prior to 1994 rallies were organised by political parties.  And on one occasion a rally was organised in our locality and that is where I saw him.  
+Q.	Yes, and can you tell the Court approximately in which year it was that that rally was held?  
+A.	I think that was in 1993.  
+Q.	Yes, and in what connection was the rally about?  
+A.	This is a rally that was organised by the party, the MRND.  But militants of other political parties could also attend the rally.  
+Q.	And, Witness, can you enlighten the Court where and when -- where was the -- was this rally held?  
+A.	You have asked me not to give place names.  Can I give the names of certain locations?  The President had directed me to be careful in the names I gave.  The rally was held at the Gitarama stadium.  
+Q.	Yes.  And at that rally who -- how did you know that the speaker was Mr. Callixte Nzabonimana?  
+A.	I knew this because he was the MRND chairman in our préfecture, and there are occasions -- for instance, administrative meetings -- where I would see him.  
+Q.	Witness, tell the Court as to how was Mr. Callixte Nzabonimana regarded by yourself and other members of the public.  
+A.	Whether it's myself or other members of the population, we saw him as a high -- as an important personality because he was a minister of youths and associations.  And, furthermore, he was the chairman of the party at the préfecture level.  And so we saw him as an important figure of authority.  
+Q.	Thank you, Witness.  Witness, after the death of the president, 6th April 1994, what was Mr. Callixte Nzabonimana's power in Gitarama, in particular?  
+A.	After the death of the president I saw Callixte Nzabonimana again on the 18th of April during a meeting.  And talking about his power in Gitarama, I have told you that he was an important person because he represented the MRND party in the préfecture and he had supporters this way and that.  And, what is more, he was a minister and at the time most Rwandans were -- the youths, for the most part -- since he was in charge of the youths and associations, you can understand that he was an important person.  
+Q.	Yes.  In or about the 18th of April 1994 how did he display his power?  
+A.	As I have told you, we found ourselves at a meeting in the headquarters of the -- or, the seat of the interim government.  Callixte Nzabonimana, like other ministers who were present -- well, they imposed themselves on us who were at the meeting.  And he told us -- or, rather, he imposed himself on us and told us that anyone who was working for the administration who would show any support to the Tutsi would be seen as a witness (sic).  Sometime later there was the bourgmestre of Rutobwe who had arrested people who had perpetrated genocide.  And he frightened him and asked him to release those people who continued to perpetrate genocide, even in other communes.  And this sort of scared us -- this scared us a lot.  
+MADAM PRESIDENT:
+Counsel, there is something which needs clarification, at least in the English transcript.  But this is also what we heard:  "He imposed himself on us and told us that anyone who was working for the administration who would show support to the Tutsi would be seen as a witness."  
+MR. NG'ARUA:
+I note that, My Lords, and I will request the witness -- I think it is a translational error.  But we'll wait for that and ask the witness again to repeat what was that all about.  
+BY MR. NG'ARUA:
+Q.	Witness, have you understood the question?  
+A.	I said that Callixte Nzabonimana had said that if a person was supporting the Tutsis he would be considered as an enemy.  I didn't talk of a witness.  There must have been an error and it should be corrected.  
+THE ENGLISH INTERPRETER:
+And, indeed, Madam President, we heard "témoin", in French, which means "witness".  I think there was a translation error.  
+BY MR. NG'ARUA:
+Q.	Thank you, Witness.  You've talked about two important things.  Let's start with the Rutobwe incident, okay?  What happened at Rutobwe?  
+A.	As I have just told you, there are people who had started engaging in looting and in killing Tutsis, and in seizing their cows.  The commune authorities arrested those persons and the bourgmestre of Rutobwe told me that those people had been released by Callixte Nzabonimana forcibly, and that he had told them that they could do what he was doing.  It's as if he had launched the genocide.  
+MR. COURCELLE-LABROUSSE:
+Problem, Mr. Prosecutor.  That is not in the witness's statement, it would appear.  
+MR. NG'ARUA:
+My Lords, this witness -- can we -- is that the -- the Defence counsel's objection?  I don't know where it came from.  I just heard it over the -- over the mike -- over the headphones.  Is that indeed counsel's position that this -- he has no notice of this fact?  
+MADAM PRESIDENT:
+Well, that is -- that is -- counsel was speaking as the witness was testifying.  But subsequently we heard from the interpreters that he was objecting, and the purpose of his objection was stated to be that this was not in the witness statement.  
+
+Defence Counsel, is that so?  You interjected while the witness was still testifying.  
+MR. COURCELLE-LABROUSSE:
+Yes, that is true.  Madam President, my apologies, apologies to the witness, too.  But that is what I said, yes.  
+MADAM PRESIDENT:
+Yes, do you want the witness to be present while you conduct this discussion, Prosecutor?  
+MR. NG'ARUA:
+No, I think it's only fair to request him to leave, and then we can thrash out our differences.  
+MADAM PRESIDENT:
+Yes, Witness, this is the standard procedure we adopt when we have legal issues to discuss with counsel which do not concern the witness, we normally ask the witness to leave.  And this is the time now for you to leave because such an issue has arisen.  We regret the inconvenience, but it has to be done this way.  After the curtains have been drawn, could you kindly leave the Chamber.  
+(Witness exited courtroom) 
+MADAM PRESIDENT:
+And while we are here, also, Counsel, we would like to know how long it would take to examine this witness in chief.  
+MR. NG'ARUA:
+Well, we had approximated about one hour.  It will be in that range, My Lords.  
+MADAM PRESIDENT:
+Thank you.  
+MR. NG'ARUA:
+Now, the first notice that counsel has is found in the pre-trial brief, at paragraph 32 of the pre-trial brief.  And, further to that, the witness has made two statements, one of 14th August 2003.  And there is one reference about the 18th of April at page 4 of the statement.  That is found at K0283126. 
+MR. COURCELLE-LABROUSSE:
+I'm not challenging any references to the meeting of 18th of April.  Obviously that is not my point, Mr. Prosecutor.  
+MR. NG'ARUA:
+(By order of the Court, the following portion of the transcript was extracted and kept under separate cover) 
+MADAM PRESIDENT:
+Could we go into a short closed session, Registry.  
+(At this point in the proceedings, a portion of the transcript [pages 67 to 72] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 63 to 66 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Melissa Hook, Lisa D. Smith, Claudette Ask and Kirstin McLean, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+___________________________	Melissa Hook	
+
+
+___________________________	Lisa D. Smith	
+
+
+___________________________	Claudette Ask	
+
+
+___________________________	Kirstin McLean	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	NZABONIMANA	MONDAY, 14 DECEMBER 2009
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page i
+
+	NZABONIMANA	MONDAY, 14 DECEMBER 2009
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 6
+
+	NZABONIMANA	MONDAY, 14 DECEMBER 2009
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 63
+
+
+
+	NZABONIMANA		MONDAY, 14 DECEMBER 2009
+
+
+
+ICTR - TRIAL CHAMBER III
+
+
+
+
+

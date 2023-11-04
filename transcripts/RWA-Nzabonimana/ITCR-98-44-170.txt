@@ -1,0 +1,1521 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+THURSDAY, 22 SEPTEMBER 2005
+ 0914H
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis C. M. Byron, Presiding
+	Emile Francis Short
+	Gberdao G. Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Gregory Lombardi
+	Mr. Gilles Lahaie
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frederic Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Donna M. Lewis 
+	Ms. Gifty C. Harding 
+	Mr. Petrus Chijarira
+	Ms. Wendy Molnar 
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+AHMED NAPOLEON MBONYUNKIZA 
+Examination-in-chief by Mr. Webster (continued)	14
+
+
+EXHIBITS
+Exhibit No. P. 1A and P. 1.B	10
+Exhibit No. P. 1C	12
+Exhibit No. P. 2	39
+Exhibit No. P. 4	44
+Exhibit No. P.  5A	59
+Exhibit No. P.  6	62
+Exhibit No. P.  7	69
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everyone.  
+
+Mr. Registrar, could you open the proceedings. 
+MR. FRY:
+Yes, Your Honour.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, Presiding, Judge Short and Judge Kam, is now sitting in open session, today,      Thursday the 22nd of September 2005, for the continuation of the trial in the matter of the       Prosecutor versus Karemera, et al, Case Number ICTR 98-44T.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  The appearances are the same; I take it, both sides?  
+MS. DIAGNE-MBAYE:
+Mr. President. Mr. President, just to say that I'm with my co-counsel, Mr. Felix Sow, this morning. 
+MR. PRESIDENT:
+Is there a problem?    
+MS. DIAGNE-MBAYE:
+No, Your Honour.  It was just to say that our team composition has changed, and to say that my co-counsel is now here, Mr. Sow. 
+MR. PRESIDENT:
+Thank you, very much. 
+
+Mr. Witness, yesterday you did not attend court.  We were informed that you were -- had a problem with your health.  This morning I have received a medical certificate from the medical officer of the Tribunal, which indicates that you are fit to testify.  How do you feel?  
+THE WITNESS:
+I thank you, Mr. President.  Yesterday I was given sedatives and I do feel well today.  But I would like to mention that yesterday I came here and I was ready to continue testifying, but I realised that you had risen.  But this morning I am well, I am being treated and I am ready to continue with my testimony, Your Honour. 
+MR. PRESIDENT:
+Thank you, very much. 
+THE WITNESS:
+You're welcome. 
+
+MR. PRESIDENT:
+Just for consistency, I'm going to ask you to leave the courtroom for just a few minutes, as I have to make a legal statement concerning an issue which was raised yesterday with regard to one aspect of your testimony.  So you will be out of court for just a few minutes.  
+THE WITNESS:
+Very well, Mr. President. 
+MR. PRESIDENT:
+This is our ruling on the application for the exclusion of the testimony of this witness relating to the Amahoro stadium meeting.  
+
+The Chamber recalls that pursuant to Rule 89(C) of the Rules, the Trial Chamber may admit any relevant evidence which it deems to have probative value.  Although, it is not specifically provided by the Rules, the Chamber has to exclude testimony when its prejudicial effect outweighs it probative value.  The admissibility of evidence should not be confused with the assessment of weight to be accorded to that evidence, an issue to be decided by the Trial Chamber after hearing the totality of the evidence.  And I can refer to the Appeals Chamber's decisions, notably the case cited by counsel, Prosecution versus Nyiramasuhuko, et al, Case Number ICTR 9721 AR 73, a decision on the appeals by Pauline Nyiramasuhuko and Arsène Shalom Ntahobali on the decision of Defence's urgent motion to declare parts of the evidence of Witnesses RV and QBZ inadmissible on the 2nd of July 2004.
+
+Now, when it has been found that a material fact has not been sufficiently pleaded in the indictment, this alone does not render the evidence inadmissible.  The evidence can be admitted to the extent that it may be relevant to the proof of any allegation pleaded in the indictment, as was expressed in the above-mentioned decision of the Appeals Chamber at paragraph 14.  
+
+In the instant case, the Chamber is of the view that the testimony made by the witness that         Mathieu Ngirumpatse attended the meeting at Amahoro stadium should be excluded since it is a material fact which is neither pleaded in the indictment, nor disclosed in the witness statements         and -- the witness statements previously disclosed.  Moreover, its prejudicial effect to the Accused outweighs it probative value.  
+
+However, the fact that the meeting took place is evidence that is related to the general allegation pleaded in the indictment with respect to the mobilisation of the Interahamwe; to that extent only, the evidence is, therefore, admissible.  
+
+Now, for those reasons, the Chamber grants, in part, the Defence's objection as specified above.
+Call in the witness, please.  
+MR. ROBINSON: 
+Excuse me, Mr. President. 
+MR. PRESIDENT:
+Yes. 
+MR. ROBINSON: 
+I have another application I would like to make, one with respect to this issue and one on another issue.
+
+Now -- I thank you for your ruling with respect to my objection that the Amahoro stadium meeting was not pled in the indictment, and, therefore, should be excluded for that reason.  I now move to exclude --  
+MR. PRESIDENT:
+The ruling was not that the evidence of the meeting should be excluded. 
+MR. ROBINSON: 
+Right, that Mr. Ngirumpatse's presence at the meeting -- 
+MR. PRESIDENT:
+Should be -- 
+MR. ROBINSON:
+Yes, I understand.  I'm sorry, I misspoke.  Now, I move for exclusion of the evidence of the existence of the meeting, and any testimony about the meeting, on the grounds that this element was not contained in any of the disclosures pertaining to this witness.  This is a different aspect of objection than the one that has been previously raised.  We can look through every statement that has been provided by this witness, including the will-say statement of the 18th --  
+MR. PRESIDENT:
+Mr. Robinson, we would expect that when objections are being made - raised, all points in support of the objection are made at the same time.  Now, you did not raise this yesterday, but we took the trouble to read the statements last night, as you would have observed from our statement -- our decision, and we noticed that it was not disclosed.  So, we know that. 
+MR. ROBINSON: 
+Okay. 
+MR. PRESIDENT:
+We have considered, however, that -- and that contributed to our decision that no mention of      Mathieu Ngirumpatse's participation in the meeting should be admitted into evidence.  But, that fact having been considered, which we did consider, we thought that the evidence of the meeting should be admitted nonetheless.  So we have considered the point that you are now addressing in the decision that we took. 
+MR. ROBINSON: 
+Very well, I appreciate that Mr. President.  
+
+My second application is on an unrelated -- and it is this:  On the 9th of September 2005, this           Trial Chamber issued a decision on the Prosecutor's notice of delay in filing expert reports and request for additional time to comply with the Chamber's decision of 16 May 2005.  
+
+In that decision the Trial Chamber ordered the Prosecution to file and to disclose the report of expert witness, Alison Des Forges, by the 19th of September.  That has not been done, nor has an application been made to vary the decision of the Trial Chamber.  I, therefore, move that the testimony of       Alison Des Forges be excluded from this trial, and that she be stricken from the list of Prosecutor witnesses as a result of the Prosecution's violation of the Trial Chamber's decision.  
+
+Thank you. 
+MR. PRESIDENT:
+Yes, Ms. Diagne.  
+MS. DIAGNE-MBAYE:
+Most obliged, Mr. President.  The Defence of Édouard Karemera would like to associate itself, most vehemently, with the instant motion of my learned friend, Mr. Robinson.  Mr. President, I urge you to carefully and meticulously look into this motion, because we have the present impression that the Prosecutor does not intend to abide by your decisions, which, for us, is the bible.  Indeed, that decision of the 16th of May was not respected by the Prosecutor.  He didn't even take the care to ask you for an extension of time in an additional motion.  I ask, therefore, on behalf of Karemera, in support of the motion made by Mr. Robinson, to kindly expunge the testimony of Alison Des Forges from our proceedings.  
+MS. HOUNKPATIN:
+I would like to fully associate myself with the two motions that have just been made, at least, on behalf of Mr. Nzirorera and Mr. Karemera; this is also in the interest of Mr. Ngirumpatse.  And as far as that repetitive disregard by the Prosecutor of certain obligations, puts us in a position in which we are not able to coherently carry out our duties.  
+
+Most grateful, Mr. President. 
+MR. WEBSTER: 
+Yes, good morning Your Honours, and good morning to the rest of those in attendance.  I apologise to the Court, the report has not been submitted.  I'm aware of the deadline of the 19th of September.  Alison Des Forges was here last week.  And we had set aside time in order to work on the report.  We had set aside three days so that it could be submitted on the 19th of September, as planned.  Unfortunately, she had competing commitments, as did I.  
+
+Monday and Tuesday -- excuse me, yesterday -- over the past two or three days, members of my team have been trying to coordinate with her to get some sort of supporting documentation that would be included in a motion.  
+
+I personally was not involved in that aspect of our efforts, since I was in court.  But I would like to surrender the floor to my colleague, Mr. Lombardi, who has been in contact with Dr. Des Forges.  We expected to file a motion yesterday or today; unfortunately, that did not occur.  But Mr. Lombardi can provide additional details.  And we will submit something in writing today, if that is necessary.  But let me have Mr. Lombardi provide the additional details that I do not have in hand.  
+MR. LOMBARDI: 
+Good morning, Mr. President.  I have prepared a request to the Court for additional time with respect to this report.  I was merely waiting to get a declaration from Dr. Des Forges to support that motion.  I received that information this morning, by way of e-mail.  And I intend to incorporate that particular information into the motion and to file it at the break -- at the first available opportunity.  I would state at this point, which will also be stated in --  
+MR. PRESIDENT:
+Mr. Lombardi, we now have an oral motion.  You are now responding to an oral motion for exclusion of the testimony.  Are you suggesting that we don't consider this until after you file your motion?  
+MR. LOMBARDI: 
+We will proceed in the manner that the Court deems fit.  If the motion is before us now, the Prosecutor would submit that the motion should be denied for reasons that would be set forth in supplemental written filings.  I can read into the record what Dr. Des Forges has said, if you would prefer, in support of the objection to this particular motion. 
+MR. PRESIDENT:
+I don't quite understand you.  You are saying that we should deny the motion now for reasons that you will give us later?  
+MR. LOMBARDI: 
+I just suggested, Your Honour, that I would read into the record the information that I would have put in the written motion, if you would prefer. 
+MR. PRESIDENT:
+Mr. Lombardi, I don't have any preference.  A motion has been made that y'all have failed to comply with an order to file the report by the 19th of September, and you are responding to that. 
+MR. LOMBARDI: 
+Your Honour, the Prosecution submits that the motion should be denied.  Dr. Des Forges was unable to complete her report.  She came to Arusha on September the 12th, in connection with her work as a senior advisor to the Africa division of Human Rights Watch.  She was accompanying a board of directors -- board members from Human Rights Watch on their first visit to ICTR.  In that connection she was here on her own initiative, and at her own expense.  
+After their departure on September 14, she had only one day in Arusha, during which she states that she was able to spend very little time completing the work on the Karemera expert report.  She was unexpectedly called on to assist other trial teams during this day.  On the 14th of September she relates that she left Arusha to continued work related to Rwanda in Burundi for Human Rights Watch; she is currently working on two urgent reports in that connection.  She states that she will be able to finish work on the Karemera expert opinion by November the 1st.  
+
+That is information that she has related to the Prosecutor as of this morning.  And on the basis of that, we would request that the Court extend the deadline by which her report should be submitted to November the 1st, as she has indicated.  In the Prosecutor's submission, this extension would not prejudice the Accused, for the same reasons that the work enumerated in its last decision, namely, that she is not expected to testify until the latter half of 2006, and this will not impact their preparation. 
+MR. ROBINSON: 
+Mr. President, may I be heard in reply?  
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Mr. President, this is a watershed motion as far as we are concerned; it is a line in the sand.  The Prosecutor is either going to be taught to comply with the decisions of this Chamber and Rules and that there are consequences for not complying, or we are not going to have a trial that is any semblance of a fair trial.  
+
+I don't blame Mr. Webster or Mr. Lombardi for missing the deadline or for standing up in court and telling us for the first time, that, "Oh, we will get around to this report around the 1st of November" because that is the way that the case has operated from the very beginning.  The Prosecutor has been able to do what it pleases, when it pleases, without any consequence.  
+
+On 13 occasions on this case, they have submitted responses to motions after the five days required by Rule 92(E).  And in each case, the Trial Chamber has indicated that there was no prejudice to the Defence and that violation of the Rule would be overlooked.  They submitted authorities on the day before a hearing, without even serving them on the Defence, that -- in violation of Rule 73(D); that violation was overlooked.  They have not provided disclosure on time, 60 days before the trial; that violation was overlooked.
+
+And if this violation is overlooked, if the test is prejudice to the Defence once again, and it is okay, we don't have the expert report, I think we can all expect the trial to continue in this manner for the next three years.  And the Defence will take note that since the Rules are -- and the Court's orders appear to be only advisory in nature, and have no consequence, then we will conduct ourselves accordingly.  I'm sure you don't want that to happen.  But you have to enforce the Rules against the Prosecutor and enforce them now; and make them painful so that they have meaning, so that people don't work on other tasks ahead of this case because there is no consequence for their failure to abide by this Court's order.  
+
+So we are waiting, Mr. President, we are looking to you.  You have been promising relief; you insisted the trial start; you insisted witnesses testify, despite disclosure violations.  And we are now at the point where we are looking for some action by the Trial Chamber.  If we don't receive it, we are going to be very disappointed.  We are going to have very bleak prospects for the fairness of these proceedings.  I can't be any more direct than that.  I thank you.  
+MR. PRESIDENT:
+Yes, Ms. Diagne.  
+MS. DIAGNE-MBAYE:
+Mr. President, just to add to what has been said by my colleague, Mr. Robinson that the Prosecutor must be sanctioned this time around, Mr. President, Your Honours, because very often he is let off.  But what I don't understand this time here is that he had all of the time, at least, to request an extension of time limits after the one that you imposed expired.  He didn't do this.  Maybe he is reassured that his motions are always going through you, but he had all of the time to come to you and inform us.  
+
+But we are surprised that this report, which we were expecting this week, we will have only in November.  Mr. President, do you believe this is a good attitude to be adopted by the Prosecutor?  You need to sanction the Prosecutor, because we need to have equality of arms.  
+
+We can have a problem which can arise at any time, with any of the Defence teams, and we always submit motions for extensions of time limits.  And we have always explained why we have not been able to comply with your orders.  But, now, here the Prosecutor is saying that we cannot obtain the report before the 1st of November.  I think and I do believe that you need to sanction this type of behaviour, Mr. President, Your Honours.
+MS. HOUNKPATIN:  
+Mr. President, just a few words to add, and I'm wondering why we are only to receive the report of     Dr. Des Forges on the 1st of November.  Is it because Professor Des Forges is also going to be looking at what has been said by other witnesses in order to be able to prepare her report?  That is one question.  
+
+But I have a second one:  At what point in time will the Prosecution finally find the proper and clear allegations against the Defence so that we can also prepare ourselves?  This is what I would like to add to what has been said by my colleagues. 
+MR. PRESIDENT:
+Thank you. 
+
+Yes, we have decided to take time to consider our decision.
+
+Yes, Mr. Webster.  
+MR. WEBSTER: 
+May I make one concluding remark on this issue?  
+MR. PRESIDENT:
+Mr. Webster, I want to discourage back and forth between counsel on these matters.  Is this an important issue?
+MR. WEBSTER:
+Your Honour, the Defence seems to suggest that the Court has to send a symbol -- or a signal with its decision on this motion, and I am asking the Trial Chamber to focus on the substance of the issue.  Clearly, deadlines are important, but when parties bog themselves down with repetitive motions and get completely distracted from the substance of the case, that does not advance the wheels of justice.  
+
+We mean no disrespect to the Court, or to the parties or to the process.  We have been endeavouring to respond to issues on the substance and in a timely manner.  But this case should not be litigated with a plethora of repetitive motions that completely deplete our resources.  
+
+Now, I understand Mr. Robinson's position, he wants to be well prepared for trial, but Dr. Des Forges has generated volumes of material.  It is not an issue of insufficient notice.  The problem for us is coordinating with her to complete the report.  She is not a paid consultant.  Her job with 
+Human Rights Watch does not allow her to be paid. 
+MR. PRESIDENT:
+What I notice, frankly, from what Mr. Lombardi said, that she came here on her own initiative; so no indication of what you did was included in the statement.  
+MR. WEBSTER: 
+Your Honour, I met with Dr. Des Forges.  I had coordinated with her weeks in advance.  She was planning to come to Arusha to testify in the Rwamakuba case and also to coordinate with her own work for Human Rights Watch both here and in Burundi.  I cannot recall the date of her arrival, but the way we had set it up, she was going to spend three days working with me.  I believed her responsibilities for Human Rights Watch was going to end on Wednesday morning and we would work on Wednesday, Thursday and Friday on completing her report.  
+
+She was unable to do that because something came up with Human Rights Watch that required her to devote her energies for the Congo and Burundi.  So, during the hours that I expected to work with her, she was working on something else.  That is the situation.  
+
+But in terms of planning to finish the report, that is something that we had worked out together weeks in advance. 
+MR. PRESIDENT:
+Well, as I mentioned, we have decided to take some time to consider our decision on this matter.
+
+Call the witness, please.  
+(Witness entered courtroom)
+MR. PRESIDENT:
+Mr. Witness, we are now ready to continue your testimony, and the Prosecutor will continue to ask you questions.
+MR. WEBSTER: 
+Your Honour, I believe -- excuse me.  I believe when we left off yesterday we were attempting to resolve the issue of an exhibit.  It had not yet been marked either for identification or as an exhibit, referring to the identification card that had been placed before the witness.  
+
+At that time Mr. Robinson made an objection, and he stated that there was a lack of foundation.  But I plan to proceed to move forward with that exhibit, and I would like a bit of clarity.  What exactly is missing in the foundation that would motivate Mr. Robinson's objection?  My position is that the foundation has been sufficiently laid out, and I'm asking Mr. Robinson to be a bit more specific about his objection. 
+MR. PRESIDENT:
+We had decided to allow the exhibit. 
+MR. WEBSTER: 
+Sorry, so that would be P. 1 in evidence. 
+
+Would the court assistant assist us with Tab 50, please? 
+MR. ROBINSON: 
+Excuse me, Mr. President, just to clarify what is exactly being admitted into evidence; Tab 49 contained what the witness has identified as the back of the Interahamwe card.  Is that Exhibit P. 1?  
+MR. PRESIDENT:
+Mr. Registrar, could you clarify for me, please. 
+
+Yes, the registrar has advised us that it is better to have one exhibit number for the identity card.  The front will be A, and the back will be B.  So, it will be admitted as P. 1A and B; the front is A, and the back is B. 
+(Exhibit Nos. P. 1A and P. 1B admitted) 
+MR. WEBSTER: 
+And, perhaps, I would indicate for the Defence, that it appears in Tabs 49 and 51.  So what was identified as the back is Tab 49 and what is identified as the front is Tab 51; but they were presented to the witness as one document, P. 1. 
+MR. WEYL: 
+Mr. President, by your leave, Mr. President, Your Honours, may I recall that I had raised an objection which dealt with the fact that we had not had disclosure of the original of the document to enable us to verify that the front and the back of this document correspond to the original.  I haven't yet heard any decision on that objection raised by us. 
+MR. PRESIDENT:
+Well, I'm sorry.  When we had ordered the admission of the exhibit, it included overruling your objection.  The objection that you have given, in our view, goes to the weight of the testimony, not to the issue of admissibility.  
+MR. ROBINSON: 
+Excuse me, Mr. President; I am going to make a request because I maybe misunderstood the substance of Mr. Weyl's objection.  And I am making a request for disclosure of the original, sort -- for our inspection, under Rule 66(B). Thank you. 
+MR. PRESIDENT:
+Yes, Mr. Prosecution. 
+MR. WEBSTER: 
+Maybe I can clarify a few issues, Your Honour.  First of all, I can provide the Court and the parties for inspection, and we can even admit it into evidence, the certified copy of the original that we obtained from the court management service.  The original itself was a photocopy.  It was entered into evidence during the Rutaganda trial.  It is actually Mr. Rutaganda's Interahamwe ID card.  
+
+Mr. Robinson should be fully aware of its contents and its authenticity and the original since it came into evidence through him; it was a Defence exhibit in the first Karemera trial.  So, I can provide the Court with a copy -- the certified copy that we got from CMS with the trial transcript from the Karemera trial, where Mr. Robinson, himself introduced it into evidence, and the trial transcripts from the       Rutaganda trial, where Mr. Rutaganda identified it for the record when it was admitted into evidence. 
+MR. PRESIDENT:
+You have it now?  
+MR. WEBSTER: 
+Yes.  So, I don't know, perhaps the most appropriate way to proceed, is to mark this itself, the certified copy, as another exhibit. 
+MR. PRESIDENT:
+Yes, but this is just another copy.  It is the same document. 
+MR. WEBSTER: 
+That's how it came into --  
+MR. PRESIDENT:
+Yes, but this is not the original. 
+MR. WEBSTER: 
+The original, itself, was a photocopy.  As I understand, the photocopy that was admitted during the Rutaganda trial was archived in another location.  Court management was able to certify what it provided to us, but the original that came into the Rutaganda trial looks exactly as that does, because the original itself is a photocopy. 
+MR. PRESIDENT:
+Show it to the Defence, please. 
+
+Yes, Mrs. Diagne.  
+MS. DIAGNE-MBAYE:
+Mr. President, I have just one question; where is the original of this card, this identity card?  I didn't quite follow -- well, I followed what he was saying, but I didn't quite understand because what he was saying was that the original he has is a copy.  And my question is that the original of this document should exist somewhere, and I'm asking where is the original?  
+MR. PRESIDENT:
+Yes, the Court obviously cannot answer that question.  The Prosecutor has stated that he does not have the original.  He has a copy.  He has offered to put it into evidence.  I think we should admit it as PLC.  Mr. Robinson has requested the right to inspect the documents that he has under Rule 66(ii) (B).  And I understood the Prosecutor has agreed to allow inspection.  
+MR. WEBSTER:
+Your Honour, we have just completed the inspection.  What I handed to the Court was the certified copy that we got from CMS.  And what I would like to do at this time is simply read, for everyone's instruction, three paragraphs from the transcript of the Rutaganda trial of the 9th of April 1999. 
+MR. PRESIDENT:
+That is not necessary; you can refer to the transcript --  
+MR. WEBSTER: 
+To transcript itself. 
+MR. PRESIDENT:
+I don't think you need to read it at this stage. 
+
+MR. WEBSTER: 
+But I would like to direct the Court to page 68, in the English text, of the transcripts of the trial against Georges Rutaganda from the 9th of April 1999.  Discussion of this photocopy of a member's card starts on page 68, in the middle of the page, and continues through page 75.  It was admitted at that time.  
+
+Mr. Rutaganda acknowledged it, and introduced it himself as a copy of his Interahamwe identification card.   This same copy was introduced into evidence through Mr. Nzirorera on the 13th of April 2004, when he offered it as an exhibit.  It was a Defence exhibit in the first Karemera trial.  I have the minutes of that proceeding -- 
+MR. PRESIDENT:
+Transcript?  
+MR. WEBSTER: 
+The transcript is from the 13th of April 2004, the English text.  It begins on page 34, and continues through page 36.  
+
+So, apparently, Mr. Robinson was sufficiently convinced of its authenticity during the last trial.  I don't see why it is an issue now, but for the Court's benefit, I have laid it out.  And all of these things can be attached to the certified copy, or I can provide clean copies of the transcript and it can be appended to the certified copy and exhibited as 1C, as the Court has recommended.  
+MR. PRESIDENT:
+We make the order for admission as 1C.
+
+(Exhibit No. P. 1C admitted)
+(Pages 1 to 12 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000H
+MR. PRESIDENT:
+Yes, Mr. Weyl.  
+MR. WEYL: 
+Yes, Mr. President.  For the records, I should like to mention that the certified copy brought to you by the CMS is only on one piece of paper and not on the other piece of paper.  This term is only -- it is only on the first page, and not on the second piece of paper, Mr. President.  That is the certification of the document.  
+MR. PRESIDENT:
+Thank you very much, 
+
+We will note that.  As we mentioned, we will -- this will affect our consideration of the matter in due course, and I presume that there might be some further examination on it, if necessary.  
+MR. WEBSTER: 
+Your Honour, I would just propose that the trial transcripts that I referred to be appended to the certified copy.  I will provide clean copies; what I have now is really not presentable to be exhibited, but I give the Court my assurance I will give the Court clean copies to the court officer later on this afternoon.  
+MR. PRESIDENT:
+Thank you.  
+MR. WEBSTER: 
+May I refer the witness -- or with the assistance of the registry, to an item that can be located at tab 50.  There are six pages at tab 50.  They include the photocopy, front and back, of another card -- of four pages, rather, and the English translations.  
+MR. PRESIDENT:
+We obviously have a different pagination than you have, Mr. Webster.  Our tab 50 is not what you have just described orally.  
+MR. WEBSTER: 
+Give me one moment, please.  
+MR. PRESIDENT:
+Mr. Webster, how much more time do you have of actual testimony?  
+MR. WEBSTER: 
+Perhaps another half hour.  
+MR. PRESIDENT:
+Well, perhaps what I would suggest, why don't you complete your testimony during which time your assistants will assist in coordinating the exhibits.  
+MR. WEBSTER: 
+I'm -- I can proceed as the Court suggests, or I can simply have the items placed on the overhead projector, in which case we would look at the same thing at the same time as the --
+MR. PRESIDENT:
+I know that, but what I'm saying is that we have not been able to see in our -- in our exhibit bundle the documents which you referred, because it is not in tab 50.  The tab 50 that we have, all three Judges, is not what you have just described orally.  So there is some difference in the pagination.  I don't know exactly what the problem is, but what we have is not what you described.  
+MR. WEBSTER: 
+Okay.  All right, I'll move on with the testimony and then perhaps at the break we'll coordinate and get the documents.  
+MS. DIAGNE-MBAYE: 
+Mr. President, I'm sorry to interrupt.  I simply wanted to seek leave for my client to visit the gentleman's room.  
+MR. PRESIDENT:
+Ms. Diagne, I know we made a comment earlier; permission will always be granted.  All we needed was to just give a notification.  You don't need to have to explain in detail each time.  
+MS. DIAGNE-MBAYE: 
+What should I therefore say, sir?  
+MR. PRESIDENT:
+The notice on our door just simply says "water control".  
+
+Yes, Mr. Webster.  
+AHMED NAPOLÉON MBONYUNKIZA
+EXAMINATION-IN-CHIEF (continued)
+BY MR. WEBSTER:
+Q.	All right.  Good morning, Mr. Witness.  
+THE ENGLISH INTERPRETER:
+Microphone, please.  
+BY MR. WEBSTER: 
+Q.	Yeah.  Good morning, Mr. Witness.  
+A.	Good morning, Prosecutor. 
+Q.	Now, Mr. Witness, you previously mentioned a meeting that took place in Kibungo.  Do you recall when that meeting took place?  Some time during your testimony yesterday you referred us to an MRND meeting in Kibungo.  
+MR. ROBINSON: 
+Objection.  This is not a meeting that is pled in the indictment.  
+MR. WEBSTER: 
+Your Honour, we had addressed this issue yesterday, and in view of the Court's ruling this morning, I took that it would be permissible to ask about the meeting itself.  With regard to this particular meeting in Kibungo, there was notice provided in -- in relation to this witness.  It appears in the Rule 66(D) notice that was filed on the 9th of August.  
+
+And if I can direct you to the first page at paragraph 6, it states that, "GFJ stated that in addition to the MRND meeting of 28th of May 1992" --  
+THE ENGLISH INTERPRETER:
+Could counsel please slow down.  
+MR. PRESIDENT:
+You don't have to read the content of the statement at this stage.
+
+Do you admit that there is no reference of this in the indictment?  
+MR. WEBSTER: 
+No, Your Honour, I rely on the same arguments that I offered yesterday, which is that it's covered by paragraph 24.6, and paragraphs 35 to 38 in the pre-trial brief, that is -- refers to a consistent pattern of conduct.  We elicit this information for background to place events in context to developed evidence to sustain our position that there was mobilisation of Interahamwe and youth.  All of the arguments that I offered to the Court yesterday would apply to this allegation.  There is no specific allegation, but this fact of the meeting in Kibungo would fall under the paragraphs that I have just suggested.  
+MR. PRESIDENT:
+Mr. Webster, what was your reference to the disclosure in the witness statement?  
+MR. WEBSTER: 
+I was not referring to a witness statement; I have been referring to a notice that was filed with the Court under Rule 66(D) -- 
+MR. PRESIDENT:
+What was that (Overlapping microphones)  
+MR. WEBSTER: 
+-- of a will-say statement.  It's a statement of additional evidence.  It was filed on the 9th of August 2004.  I have provide -- I have an extra copy, if the Court would like me to hand it out.  
+MR. PRESIDENT:
+You see, we were not able to find that when we made our search for witness statements.  
+MR. WEBSTER: 
+I have an extra copy, and I will provide it to the Court now.  
+MR. ROBINSON: 
+Mr. President -- Mr. President, I just want to be clear on the basis of our objection, and I can assist the Trial Chamber as well.  This allegation was, in fact, contained in disclosures of February 18th -- of statements dated February 18th, 2004, in the investigators interview report, and also in the will-say -- in the statement of August the 9th of 2004.  So we have had notice of this meeting.  The issue is not that we did not get notice in the disclosure of the witness statements of this meeting; the objection is that it's not in the indictment.  So I want to be clear about that.  
+MR. PRESIDENT:
+Thank you.
+
+Mr. Weyl, it's the same point you want to discuss?  
+MR. WEYL: 
+Yes, Mr. President.  I simply, respectfully wanted to draw the Chamber's attention to the fact that, precisely, if notification was submitted in August '04, two motions for the modification of the indictment were submitted.  And on none of those occasions did the Prosecutor intend -- or say that he intended -- he intended to use that fact as a basis for discussion, so that we should not be told today that it was implicit.  It was implicitly actually withdrawn, because it was not explicitly added to the indictment on the two motions submitted by the Prosecutor.  I thank you.  
+MR. PRESIDENT:
+You see, what we think is that up to now the Prosecutor has not crossed the line, because we do not think that the fact that the meeting took place is material fact.  And that's the question that he asked.  So we'll allow the question that he had asked.  
+
+Mr. Prosecutor --
+MR. ROBINSON: 
+Excuse me, Mr. President.  I would like to make a motion to exclude any evidence of the participation of any of the Accused in this meeting, or any statements made by the Accused at this meeting.  I don't think we have to try to unring the bell after it's in evidence and wait until the evidence is offered and then object to.  If it's inadmissible it should be excluded.  So I'm making a motion -- like if you know from reviewing the documents that -- the will-say statements what's coming, and so I'm moving to exclude any testimony about the presence of the Accused or any statements they made at this meeting.  Thank you.  
+MR. PRESIDENT:
+We had suggested -- we had -- all that we are aware is that there is a procedural possibility of dealing with this (unintelligible).  We prefer to wait to see if the Prosecutor is going to turn in this testimony before making a ruling.  
+
+Mr. Prosecutor.  
+MR. WEBSTER:
+	All right, Mr. President. 
+
+BY MR. WEBSTER:
+Q.	We are about to discuss a meeting that you referred -- you alluded to yesterday that took place in Kibungo.  I'm going to ask you a series of questions, and if you could just direct your attention to the questions that I ask you.  At this point, I don't want to get into what anyone said; we'll get to that at a later point.  Initially, I'm just going to ask you a few questions about the meeting itself.  Do you understand? 
+A.	Yes, I do, Mr. Prosecutor.  
+Q.	Okay, with respect to this meeting, could you begin by telling us, to the extent that you remember, and only if you remember, what month it took place?  If you don't remember, it's perfectly okay to say that you don't recall exactly the month.  
+A.	I do not remember -- I wouldn't remember the month. 
+Q.	Do you recall if the meeting took place after Mathieu Ngirumpatse became national secretary of the MRND? 
+A.	It was, indeed, after that event. 
+Q.	Did the meeting take place before you resigned from the MRND party? 
+A.	That is correct.  It was before I resigned from the MRND party. 
+Q.	Now, I know you went to a series of meetings, but we are only going to talk about the Kibungo meeting at this point.  Do you remember how you were transported to the meeting? 
+A.	Yes, I do. 
+Q.	Can you tell us, please, and then if you could elaborate a bit on how the meeting was organised.  
+A.	Buses were supplied to the youth and to the MRND members as means of transportation.  Several buses were put at the disposal of the youth, and money was given to the members of the party from other communes.  It was Karemera that supplied the money, and I believe also Mathieu did.  So far -- I thought it was public funds that was -- that used on that occasion, and probably we can come back to that later on.  
+MR. WEYL: 
+Mr. President, I have an objection to raise in connection to the last sentence of the witness, because I seem to have understood that the personal involvement of the Accused in this meeting should not be admissible.  And I think I am now asking that this be struck from the records, Mr. President, Your Honours.  
+MR. PRESIDENT:
+I don't think the ruling had been that the -- was exactly as you phrased it.  The ruling was that materials -- if you are referring to our earlier ruling; we had discussed issues of material fact.  We don't think that this falls within that category.  This deals with the mobilisation of the Interahamwe.  
+
+Yes, Mr. Webster.  
+
+MR. ROBINSON: 
+Excuse me, Mr. President, I'm going to have an additional objection to this and motion on the allegation that public funds were used to finance transportation to this, or any other MRND meeting, is nowhere contained in any of the elements of this witness's statement, and, therefore, we're surprised by it and should be excluded for lack of notice.  
+MR. PRESIDENT:
+Thank you.  The objection is overruled.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, you made a reference to youth being transported to this meeting, but I would like you to be a bit more clear in what you mean by that.  Are you talking about the JMRND, the Interahamwe, or other youth?  Could you tell us exactly what you mean? 
+JUDGE SHORT: 
+Sorry, could you ask your question again?  I was --
+MR. WEBSTER: 
+I'm sorry?
+JUDGE SHORT: 
+-- I was having a chat with the other Judges.  
+BY MR. WEBSTER: 
+Q.	I'll repeat the question, but before I do, Mr. Witness, I'd also like to remind you, when you give a response and you come to the point where you are about to say, "We'll get to that later," you can omit that.  If what you have to say is responsive to the question, let us hear your answer and don't tell us what we'll get to later.  Please, I'm just bringing that to your attention as a matter of procedure.  Anything you have to say that's responsive to the question, just say it.  Anything that's not responsive, we'll get to it on our own.
+
+But my question to you was with respect to the youth that you referred to in your response.  Tell us what you mean exclusively.  
+A.	I would like to say that until proven otherwise, everything I'm saying is important before the Chamber.  
+
+As for the youths, I told you that there was some secret meetings that were held, but as for the rallies, these were public.  And this means that there were members of the MRND, and other people we have mentioned who had specific cards.  I think we discussed that at length.  
+
+There were also other members of the population, ordinary citizens who had MRND membership cards.  When a rally was organised, and -- the MRND would provide buses for transport.  These were buses belonging to ONATRACOM, and there were also other buses which belonged to OTRACO, but they provided fuel to those companies.  And an assembly point was designated for such and such a location for members to meet.  And this was how the transport of the members of the population was organised before they went to a rally.  
+
+As for the role of Karemera and Mathieu Ngirumpatse in regard to transport, in other words, the buses, Karemera, as vice-president of the party, was responsible for the collection of funds.  He transmitted those funds to Mathieu, who was coordinator and the national secretary, and he was the focal point regarding the coordination of the party's activities.  Now, these funds were used to transport people who were to attend rallies.  
+
+Furthermore, once they reached the venue of the rally, words that were serious were spoken.  I am referring specifically of -- to the meeting -- or the rally which was organised at Cyasemakamba in Kibungo. 
+MR. ROBINSON: 
+Excuse me, Mr. President; I'm going to pose an objection here.  I'm going to ask that the answer of the witness be stricken after he told us that youth included members of the MRND, and not only the Interahamwe.  Everything after that was non-responsive to the question, and I ask that it be stricken.
+MR. WEBSTER: 
+The Court will recall, I'd asked the witness to tell us how the meetings were organised, and then I started to break it down with a question about transportation.  But the original question -- or the framing of the question for this line of enquiry was how the meetings themselves were organised, which I think provides the witness with an opportunity to give us a full response.  There is nothing that was unresponsive in the witness's answer.  
+MR. ROBINSON: 
+Mr. President, maybe we could check the record of the transcript.  But my recollection of the question was, "What do you mean by 'youth'?"  So it was non-responsive.  
+MR. PRESIDENT:
+Yes, but, you see, in deciding whether to exclude a testimony, that is not our primary -- primary consideration.  The evidence is relative, it's probative, and it does not fall within the category of evidence which we think should be excluded for the reasons of prejudice or any other reason that needs to -- I think the witness answered the question as he goes on.  We will not strike his answer merely because he adds more information than might have been necessary for the exact answer.  
+
+But, Mr. Witness, your lawyer has asked you already just to answer the question you were asked, and not to add additional information.  Do you understand that?  
+THE WITNESS:  
+Yes, I understand, Mr. President.  
+
+BY MR. WEBSTER:
+Q.	Now, Mr. President, with respect to the transportation of party members, or of persons to these meetings, were you able to tell if they were coming from Kigali alone, or were people being transported from other parts of the country? 
+A.	Actually, when a rally was organised in a given préfecture, all the inhabitants of the said préfecture would be mobilised so that they could be brought to attend the meeting or rally.  There was also the presence of representatives at préfectural level from -- throughout the country, and there were deputies and other officials who were members of the MRND. 
+
+Now, coming to Kigali town, the organisation was rather general.  It was Kigali town that organised what was necessary; the buses were placed at the disposal of the inhabitants in order to enable them to reach the venue where the rally was to be held. 
+Q.	Thank you.  But if we take the Kibungo meeting as an example, based on your own observation, could you tell if similar buses had been placed at the disposal of people in other parts of the country, other than Kigali, to bring them to Kibungo, in the same way that buses were made available in Kigali to bring people to Kibungo? 
+A.	First of all, I'm using the term "Interahamwe".  Once the Interahamwe were organised in the various préfectures, a bus was sent there, for example, to transport them.  Otherwise, a group of dancers -- let me mention the example of the Ruhengeri dance group.  The name escapes me, but Mathieu can help me recall that name.  I remember that at a given point in time a bus was sent to carry that troop to Ruhengeri. 
+Q.	Yes, but focusing on Kibungo again, because we're going to start on Kibungo and then we may move on to other meetings, could you tell, on the meeting that we have started to discuss, whether persons were transported from other préfectures for that meeting? 
+A.	Indeed, because the explanation that I have provided concerned the Kibungo meeting.  It's not a generalisation that I'm making.  I do not want to repeat myself by saying that it's the Cyasemakamba/ Kibungo meeting, but that's the one I'm referring.  And I'm talking about exactly what happened in relation to that meeting. 
+Q.	Now, did Interahamwe attend the Kibungo meeting? 
+A.	Yes, they were there. 
+Q.	Can you tell us how they were dressed? 
+A.	They were wearing clothing made out of Habyarimana kitenge; they were hanging out of a bus -- the buses and they are carrying cords, and their caps were in kitenge fabric; and it could -- one could notice the MRND flag on the fabric in question. 
+Q.	Okay, we are going to stick with that image just for a few minutes, and I'd like you to develop it.  What I heard in the English translation is that they were carrying cords would you explain that to us, please?  What do you mean by "cords"?  That's how I heard it in English.  
+A.	I spoke about cords.  These were cords which were used mainly by soldiers, especially the Para commando soldiers.  They were cords which were tied around the belt used by the soldiers.  They wore them over their belts. 
+MR. WEBSTER: 
+Okay, could I ask the interpretation booth to simply let us all hear the word that the witness is using, whether it's in English, French, Kinyarwanda.  And I'll ask the witness to tell us -- 
+BY MR. WEBSTER:
+Q.	The words you are using, to repeat it, in relation to what the Interahamwe wore around their waist.  Could you tell us that word again, please?  I believe you used a French word a few minutes ago, but I heard it in English in another way.  
+A.	I do not know the term in Kinyarwanda to express the word "cordolette," we normally use that word as it is, cordolette.  I do not know what that term corresponds to in the Kinyarwanda language. 
+Q.	Thank you very much.  We've gotten to where I needed to go.  Tell us what a cordolette is.  Describe it to us.  
+A.	Coming to the description of cordolette, it's like a string or cord which is quite original.  I don't even know where they were made, but I noticed that they would bear these red cords, or cordolette, and they were elastic because when they were destroying flags of other parties they would throw them and the flags of other parties would be torn down.  These were people who were trained.  They had received training.  In fact, these were special cords that the paracommando wore.  Even now, I see, from time to time, soldiers who wear such cords.  
+
+Now, as for their use, they used them in order to hang on to buses that they were running.  And once they reached their destination, they would wear them -- wear them over their belts.  These are things which are well known.  We would see such scenes on television in the evenings.  At a given point in time in Bugesera, one Interahamwe fell from a bus onto which he had been hanging, and he was killed.  He was going to a meeting.  I can remember quite a few events or incidents that took place during this period of time.  Obviously, I cannot remember everything, not all the events. 
+Q.	Could you estimate how many people attended this meeting in Kibungo? 
+A.	I can advance the figure of between 4,000 and 5,000.  There was a lot of people. 
+Q.	Would you be able to estimate how many persons were Interahamwe, based on their dress? 
+A.	That's a difficult question because you needed to know who was a card-bearing member of the Interahamwe.  As for their clothing, clothing which was specific to the Interahamwe, the Interahamwe would receive such clothing free of charge.  Another person who wanted to have that clothing had to pay between 2,000 to 5,000 Rwandan francs.  
+
+Now, with regard to the Gisenyi préfecture, which had a lot of members of the party to it, since they felt strongly linked to that party, they were allowed to have a discount in order to purchase the clothing.  But if someone from another location wanted to obtain such clothing, that person had to pay more money.  
+
+Now, coming back to your question, it is difficult for me to provide you with an estimate.  Maybe one can say that they were three-quarters of the total number, but I'm not sure.  All I know is that all the national Interahamwe officials were present.  I saw them myself and they were present. 
+Q.	And when you say -- 
+A.	That's what I can say. 
+Q.	And when you say "national Interahamwe officials", can you give us the names again, please?  I realise that it may be repetitive, but just remind us of who you are referring to specifically.  
+A.	There was the chairman, Robert Kajuga; there was Pheneas Ruhumuliza; Georges Rutaganda, Eugene Mbarushimana, and one Ephrem Santerera, or something like that.  I don't quite remember his surname.  He was also present.  There was also Bernard Maniragaba; the insurance officer who we spoke about yesterday, and he was responsible for the fabrication of the material for the Interahamwe and he also played the role of special advisor, as did Bernard who was the Interahamwe official at Gitega.  There was also Turatsinze, who represented the Interahamwe from rural Kigali.  I'm referring to Jean Pierre Turatsinze, who was also known as Kasim.  I am sorry, I'm not very sure of his Muslim name.  I know that he was referred to as Jean Pierre Turatsinze, Kasim, but I'm not very sure about the name Kasim.  I do believe I've answered your question regarding the national representatives of the Interahamwe. 
+Q.	I thank you.  Now, once again, thinking about this Kibungo meeting because we are using that as an example, how long did it last; in other words, after you arrived and the meeting started, how long did the meeting go on? 
+A.	The meeting or rally began at 10:00, between 10:00 and 11:00, let's say.  And it ended at about 1700 hours.  I'm not saying that it was 1700 sharp, but I would say around 1700 hours.  I can confirm that the meeting began between 10:00 and 11:00 in the morning, and stopped at about 1700 hours; in other words, 5 p.m. 
+Q.	Can you give us a general ideal of what transpired over those five or six hours?  What types of things happened, to the extent that you can remember? 
+A.	There were many people who took the floor during that rally, but, personally, I can confirm that I heard what was said by Mr. Mathieu Ngirumpatse.  He said the following -- 
+MR. ROBINSON: 
+Excuse me, excuse me.  
+MR. PRESIDENT:
+Please control the witness.  
+MR. ROBINSON: 
+We object, Mr. President, to anything of what Mr. Ngirumpatse said at this meeting for the grounds previously stated.  Thank you.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, we may get to where you are going at a later point in your testimony, but for right now just tell us, in general terms, what happened in the meeting.  Before you get to what anyone said, in particular, before you give us the words that they spoke, just tell us how the programme was organised the entire day.  In other words, what was the first thing that happened when you got there?  What happened in the second hour?  What happened in the third hour?  What happened in the fourth hour?  And you may get to a point where I'd ask you to tell us exactly what someone said, but we haven't reached there yet.  
+MR. PRESIDENT:
+Actually, this may be an appropriate time to take our mid-morning recess.  We'll take a short break now.  
+(Court recessed at 1058H)
+(Pages 13 to 23 by Gifty C. Harding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1146H)
+MR. PRESIDENT:
+Yes, we can resume now, Mr. Prosecutor.  
+MR. WEBSTER:
+Okay.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, when we left off, you were about to tell us basically, hour by hour, how this meeting at Kibungo unfurled.  So give us a general description, to the best of your recollection.  Without going into the specifics of what anyone said, just tell us what type of activity went on.  
+A.	Well, at the very beginning of the rally, the préfet of the Kibungo préfecture welcomed the participants as usual.  He read out a welcome speech and introduced the VIPs and then gave the floor to the MRND representatives, that is, the authority Kibungo préfecture.  I'm not going to mention his name because you said I shouldn't mention any names.  Now, the representative of the MRND for Kibungo introduced the representatives of the MRND from the other préfectures and from the other communes, and then it was on that occasion that he introduced the (unintelligible) officials.  A statement was made, a speech, by the bourgmestre of that commune, who was also a member of MRND, if my recollection is correct.  He talked about MRND members in that area.  The préfet then took the floor, that is, the Kibungo préfet then took the floor.  The representative of the MRND also took the floor and talked about the state of affairs, that is, how the MRND was faring in Kibungo.  The (unintelligible) of the MRND also took the floor, and the ceremony was closed with songs, (unintelligible).  And the ceremony was, thus, closed, and then we went home.  
+Q.	At any point during that day, was there animation? 
+A.	In general, during such MRND festivities, everyone took part, and there was animation, singing and dancing, entertainment.  And people were excited, more or less, and there was animation, singing and dancing, and between the various features, there was singing, there was dancing by the various representatives of the various groups from the various cellules, various entertainment groups that were invited on that occasion.  
+Q.	Do you recall if the president of the Interahamwe, Robert Kajuga, spoke?  
+A.	I do not remember quite clearly, but he did take the floor at other rallies.  But in particular -- as far as this particular rally is concerned; I cannot tell you for sure whether he took the floor.  
+Q.	Now, Mr. Witness, have you attended other meetings like this one in Kibungo?  
+A.	In Kibungo?  I did only attend the Cyamakamba (sic) rally or meeting -- Cyasemakamba rally, that is.  
+Q.	Okay.  But my question is, were there other meetings in other parts of the country that resembled, in any way, the meeting that you've just described in Kibungo?  
+A.	Well, this question was put to me.  Perhaps I wasn't quite understood -- what I said was not understood, but I did take part in other rallies in other préfectures.  Yesterday I said so.  Apart from the Cyangugu préfecture, I attended other meetings or rallies in other préfectures, that is, apart from the Cyangugu préfecture.  
+Q.	Well, could you give us an idea of how many other rallies like this you attended?  
+A.	Well, I participated -- I attended rallies in the ten préfectures.  I also attended rallies at communal level.  I do remember quite well that I attended a meeting in Nyarugenge, Kacyiru, and Kicukiro, that is, at communal level.  The MRND leaders could attend those rallies because they were geared to assisting the members of the area concerned, to support the MRND properly.  
+Q.	Have you ever attended a rally where Robert Kajuga spoke, where he addressed the rally?  
+A.	There was an MRND rally that was held at the Amahoro stadium.  I do remember that very clearly.  I was there.  I took part.  Kajuga -- Robert Kajuga took the floor.  Others also took the floor.  But let me just concentrate on Kajuga.  Now, Kajuga took the floor.  
+Q.	In very general terms, can you tell us the types of things that he discussed?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I have an objection to this, and this is now calling for an interpretation of your earlier ruling because you've ruled that the fact of the meeting at Amahoro stadium can be elicited, but that the elements of the Accused's connection with that meeting could not.  Mr. Kajuga is alleged as a member of the joint criminal enterprise, and it's our position that any statements made by him should not be admitted in a meeting to which there's been no notice in the indictment, nor notice in any of the witness statements.  Thank you.  
+MR. WEBSTER:
+Your Honour, my submission is that this is not a question of notice.  The -- with respect to this particular meeting, all of the parties received a copy of a video with -- where Robert Kajuga's words are recorded, and his image is recorded.  So on the issue of notice; it would be unfair to state that there was no notice.  In relation to this witness, he does not mention it in his witness statement, but the day before he testified, I provided the Defence with a list of exhibits that would be introduced through him, which included this -- this video.  The specific cup -- clip was indicated on the list that I provided to the Defence.  This is an item that has been disclosed to them for quite some time.  This is a general matter.  It goes to the very issue we discussed earlier this morning and yesterday, which is meetings being organised nationwide.  It goes to the issue of the mobilisation of the Interahamwe, and the decision to incorporate the Interahamwe into the MRND party.  These are all issues that provide background material for this Court to appreciate events that are specifically pleaded in 1994.  So I would urge the Court to adopt or extend its earlier ruling quite -- in fact, I don't think this falls beyond the scope of the Court's ruling of this morning.  And having said that, I would like to proceed.  
+MR. ROBINSON:
+Mr. President, if I could just reply briefly so the record is clear.  There were no disclosures of anything related to the Amahoro stadium meeting in connection with any statement of this witness, including the will-say statement as late as the 16th of September.  It's true that on the night before his testimony Mr. Webster provided us with a list of exhibits that he hoped to offer during this witness's testimony, and one of them is a clip of Mr. Ngirumpatse at Amahoro.  That is not sufficient notice to allow for testimony on material which is not contained in any of the witness's statements, and that's our point.  Thank you.  
+MR. PRESIDENT:
+Mr. Webster, we think that this falls outside the scope of what we have permitted.  We have not -- it's not in the indictment; it's not in the disclosures that were made; and it falls under the category of material fact.  
+MR. WEBSTER:
+May I -- may I inquire if the Court is referring to the actual content of what Robert Kajuga says -- 
+MR. PRESIDENT:
+Yes. 
+MR. WEBSTER:
+-- or the meeting itself?  
+MR. PRESIDENT:
+We have already permitted evidence of the meeting.  The meeting is evidence supporting general allegations in the indictment.  The statement that you elicit seems to fall under the category of material fact.  
+MR. WEBSTER:
+What I would propose to do then, Your Honour, is play the videotape, but lower the volume so that the words themselves don't come through, but that the images come through.  So that's what I'm proposing to do.  And there we will see -- 
+JUDGE SHORT:
+What are you playing the video for?  If you -- if you produce the video as an exhibit, it has to be supported by evidence.  So if the evidence is not in, on the record, then how can the video be played?  
+MR. WEBSTER:
+Well -- 
+JUDGE SHORT:
+What would be the purpose of playing the video?  
+MR. WEBSTER:
+Simply for purposes of illustration.  The witness has described meetings where there is animation, where there is discourse from leaders.  The video will show images of the animation, images of the Interahamwe chant, show Robert Kajuga at the podium, and that's what I propose to play so that the witness can explain to us if this -- if what we see on the screen resembles what he has seen at other meetings during that period, since he has given us a general description of how these meetings were organised.  So we don't -- we don't have to hear the words of Robert Kajuga, but we can still look at the images that are recorded.  It's a clip of approximately three minutes, not more.  
+MR. PRESIDENT:
+Yes, Mr. Robinson?  
+MR. ROBINSON:
+Yes, Mr. President, we would object to the playing of this videotape.  Our objection is based first upon the fact that it's irrelevant because of your ruling; that it's more prejudicial than probative; and that it's not appropriate for it to be introduced through this witness.  
+
+Secondly, I point out that the video is not contained in the exhibit list filed pursuant to your scheduling order of 24 March 2005, in which you ordered the filing of an exhibit list, pursuant to Rule 73 bis (B) 5, to take place on 27 June 2005.  And it's our position that leave is required to vary this exhibit list.  No leave has been sought, nor should it be granted.  So for those reasons, we ask that the exhibit not be admitted.  Thank you.  
+MR. PRESIDENT:
+Yes, we've decided not to allow the playing of the video at this time.  We don't think it adds anything to the testimony of the witness, and it may amount to be introducing, through the back door, what we have just denied.  
+MR. WEBSTER:
+All right.  Thank you.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, I'd like to move on -- or move back, rather, to the -- to the event of the 28th of May 1992.  You described something taking place in Kimihurura.  Could you remind us of that location, please?  
+A.	In that location was the MRND palais, or headquarters, which subsequently became the office the prime minister. The present moment, the office of the prime minister remains in that location.  
+Q.	But in May of 1992, what was that location?  Was it the MRND palais, or was it the prime minister's office?  
+A.	The situation had changed.  The palais housed the prime minister's office, and the minister at the time was Dismas Nsengiyaremye.  And so it was the prime minister's office then.  
+Q.	How was the decision made to remove the MRND party from that building, do you know?  
+A.	I don't know very much about that, but when the MRND had its office in that building, it was a single party.  Later on there was political pluralism and I don't know how it was decided that the palais should house the prime minister's office?  It's the high authorities in the country which should answer that question and, specifically, Mathieu Ngirumpatse and Édouard Karemera; they could help us answer that question.  Personally, I know that the MRND offices were moved because of political pluralism.  I do not know what arrangements were made.  Personally, I don't know.  
+MR. WEBSTER:
+Can the court of the -- assistant with the registry assist us by placing what's contained at tab 121 on the overhead projector?  This is a photograph.  
+MR. PRESIDENT:
+Could you repeat?  Was it 121 -- tab 121?  
+MR. WEBSTER:
+It's tab 121.  It's in volume 4.  And we do have a larger -- 
+MR. PRESIDENT:
+Okay.  
+MR. WEBSTER:
+And let me give you the -- the identifying number that was stamped on the photo.  It's L0027482.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, can you tell us -- can you take a look at the screen and tell us if you recognise what you see?  
+A.	I believe this is an aerial photograph in which we can see a place which I'll explain later, depending on the questions that will be put to me.  It seems to me that this is a photograph, and it's an aerial view of a particular location.  
+Q.	Tell us the location, if you recognise it.  
+A.	Given the layout of this location, given the topography, and given the map that we have, I think this is Kigali town.  More specifically, it is Kimihurura area of Kigali.  I do not know the exact spot you want me to speak about.  You mentioned location.  What location are you interested in?  
+MR. WEYL:
+Mr. President, may I raise an objection, by your leave?  
+MR. PRESIDENT:
+Yes, Mr. Weyl.  
+MR. WEYL:
+Thank you, Mr. President.  For the record, I wish to note that we have here, indeed, a photograph which has as its title "Kimihurura, Rwanda, April 1994."  Thank you, Mr. President.  
+THE WITNESS:
+Mr. President --  
+MR. PRESIDENT:
+It's not necessary for you to say anything.  In fact, I suppose Mr. Weyl has said that the photograph is leading, but -- 
+MR. WEYL:
+That is indeed the case, Mr. President, and that everything that has been said to us by the witness about the verifications that he can make of this photograph was already suggested to him by the title appearing on the photograph itself.  
+MR. PRESIDENT:
+But I think we should wait until later because this will affect -- as you know, the Rules of Procedure permit -- well, we do have discretion, but I'd like to find out what use -- what evidence is going to be sought from this witness.  It was, up to now, just introductory.  
+
+And I think you should continue, Mr. Webster.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, looking at what's on the screen, would you assist us -- or could you begin by telling us if the location that you described earlier, which is the MRND palais, or the building that then became the prime minister's office, if you could recognise that building on this image.  
+A.	Before I say anything, I'm asking Mr. President to ask the technicians to make the focus of the photograph sharper.  Defence counsel said that I can see the title on the photograph.  As far as I'm concerned, the image is not clear.  I was taking a guess.  And I would like to have the technicians help me in getting the image into sharper focus.  I don't know whether the others have a clearer image on their screens, but now, as for the title appearing on the photograph, I wish to state, Mr. President, that I had not seen the title in question.  I am asking that the technicians make this image sharper in focus.  Even yesterday I couldn't see the map which had been put on the screen very clearly.  Or maybe, 
+	Mr. Issa, you can come and see my screen.  The image is not clear on my screen.  
+
+Thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you.  
+MR. WEBSTER:
+Maybe I can suggest that the -- that the registrar's assistant could open up the large map of this image.  What we have in our bundles is a copy.  We've already identified a larger map which is the same thing.  If that could be displayed to the Court first and then to the Defence and then placed before the witness.  
+
+Display it to the Court and then to the Defence.  
+MR. PRESIDENT:
+Mr. Webster?  
+MR. WEBSTER:
+Yes.  
+MR. PRESIDENT:
+Although we did not think that Mr. Weyl's objection should have affected the use of this map, for many reasons, I think he has a point, and it should be -- I think probably in terms of the future documents exhibited, that some attempt should be made to obscure or conceal any title of the documents that the witness is being -- a map that a witness has been called upon to identify.  
+MR. WEBSTER:
+We'll do that for the future, Your Honour.  In fact, we can remove the top of the map. 
+MR. PRESIDENT:
+I don't think it's necessary for this map.  
+
+MR. WEBSTER:
+No, not for this map.  But in the future, for any other images, if there are any titles on it, we'll remove them.  But if Mr. Issa could also display that to the witness.  That way he can have a -- he complained that the image was not sharp enough for him.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, looking at the image on the map that's been placed before you now, can you recognise the building that you described earlier?  
+MR. WEBSTER:
+Leave it there.  
+THE WITNESS:
+Yes, I can recognise the building because the map I've been given is sharper, in focus, than what I was seeing on my screen previously.  
+BY MR. WEBSTER:
+Q.	If I were to ask you to look at the -- as you look at the map before you now, could you glance up to the screen and see how the one corresponds to the other.  
+A.	I still have the same problem with my screen because the image is too dark.  
+MR. WEBSTER:
+With the Court's permission, may I request that the witness be allowed to come over to the overhead projector, and then he can show us with a pencil -- 
+MR. PRESIDENT:
+Permission granted. 
+BY MR. WEBSTER:
+Q.	So, Mr. Witness -- and if Mr. Issa would assist him -- you can leave the map, Mr. Witness, and just look at the image that you're going to see over here.  
+
+Can you recognise the image that's on the screen before you now?  
+A.	Yes, Mr. Prosecutor.  
+Q.	Would you be able to draw a circle around the building that you've identified?  
+A.	Yes, I can do so.  
+Q.	Mr. Issa will assist you.  He has a pencil.  Just draw a circle around the building that you've been describing.  
+A.	I would like you to be clearer.  I can see two circles.  Do you want me to draw the circle around the building, or do you want me to draw a circle, including the circles that I'm seeing in this image?  I'm asking this because maybe the interpretation is not clear.  You need to be more specific for me.  Do you want a circle around the building or a sign which will identify the building in question?  
+Q.	I would like you to identify the building that you've been talking about.  You can do that either by drawing a little circle around it or by pointing to it, drawing an arrow to it, whichever you think is more convenient for you.  The point is for you to identify on that image the building that you've referred to in your previous testimony.  
+A.	This time it's more clear for me, and I'll oblige.  
+Q.	Now, before you have a seat, can you just, with your pencil, point to the roadways into and out of that area and describe them for the Court.  The Court has never been to this location.  So give us a little description of the road that would lead to -- away from that building, and tell us where it goes, and give us a general introduction, geographically, to that area.  
+A.	For someone who's coming from the town centre, I can see the road from the town centre.  And the area I'm showing you is the ministerial area, the residences of the ministries.  And then you will continue using this road, and since we drive on the right in Rwanda, you will reach the building from the right-hand side because -- our highway code is different in Rwanda from what it is in East Africa.  So maybe I should add arrows so that it's clearer.  But the other road I've drawn is the exit route, which goes back to the town centre.  
+Q.	That's fine, Mr. Witness.  You can resume your seat, and we'll continue the discussion from there.  
+A.	Thank you.  
+Q.	All right.  Can you tell us -- can you describe for a bit -- for us a bit more graphically where people were and where Mathieu Ngirumpatse was on the 28th of May in relation to the events that you had been -- that you had testified about yesterday?  
+A.	Excuse me.  
+Q.	Perhaps, can you begin by telling us, is this the round point where the march began or where it ended?  
+A.	For things to be clearer, let me tell you that this roundabout is the prime minister's office roundabout, the building which I referred to as having served as the headquarters of the MRND and which subsequently became the seat of the prime minister.  But the demonstrations began from the big roundabout in the city centre, using the roads going to Ruhengeri and Gitarama, as well as on the roads going to Kibungo and the international airport in Kigali.  So it was from that central roundabout in Kigali city that the demonstrations began.  The demonstrators continued and reached the roundabout at the prime minister's office, as we see it here on this map, but the return journey, the return leg, was different.  
+Q.	In relation to this map, can you describe where Mathieu Ngirumpatse was when he addressed the group? 
+A.	As you can see on the markings I made in order to identify the building which became the prime minister's office, all the speeches were made opposite this building, but given the large number of people attending or participating in the demonstrations, some of the demonstrators were inside the roundabout, where there was a large garden.  And the other demonstrators continued walking on the road because they were very many.  
+
+Let me add, Mr. Prosecutor, that during these demonstrations there were even members of the CDR party who were many and also participated in the demonstration, and they were wearing the CDR uniforms.  This is a detail I had forgotten, but as I continue in my testimony, there are some details which come back to my memory, and I do apologise for this because I need to include them so that my testimony is clearer and more complete and easy to understand.  
+Q.	Now, previous -- 
+MR. PRESIDENT:
+The time.  Could you come to a convenient point?  
+MR. WEBSTER:
+I'm going to continue with additional details about this incident, but I can do that after the luncheon recess, if now is a good time to pause.  
+MR. PRESIDENT:
+Well, you know, we published a schedule and our programme has suggested that we will take our lunch hour from 12:30 to 2:00. 
+MR. WEBSTER:
+That's fine.  
+MR. PRESIDENT:
+It is after 12:30 now.  
+MR. WEBSTER:
+Okay.  
+MR. PRESIDENT:
+We'll take the luncheon adjournment. 
+(Court recessed at 1234H) 
+(Pages 24 to 32 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1414H)
+MR. PRESIDENT: 
+The session resumes.  Good afternoon, everybody.
+
+Mr. Prosecutor? 
+BY MR. WEBSTER:
+Q.	Good afternoon, Mr. Witness.  When we left off, we were talking about the incident that look place on the 28th of May 1992, and you had just pointed out the location on the photograph.  Can you remind us if with regard to the demonstrations that day what you marked on the photograph, was that the beginning of the demonstrations or the end of the demonstrations? 
+A.	Good afternoon Prosecutor. The location I marked on the map was not the location at which the demonstration started.  I explained this.  I said that the march started at the central round-about of Kigali and ended at the building of the prime minister's office.  Officially therefore the march should have started at the central roundabout of Kigali and end at the prime minister's offices, but then there was another demonstration that was not an official one. 
+Q.	Would you tell us about that one please?  Are we talking about the same date? 
+A.	It wasn't the say day that was the 28th of May 1992.  Officially, the march should have started at the central roundabout of Kigali and ended as I have said at the buildings of the prime minister's office.  But when the demonstrators left the office of the -- the area around the prime minister's office, I thought that that was the end of the official march, but then they went into the centre of the town, downtown.    So the events I am talking about were -- those were not official.  That is after demonstrators left the office of the prime minister and went down town; it wasn't the same day that is the 28th of May 1992. 
+Q.	It was or wasn't the same day, I am not sure if I got it correct in the English translation? 
+A.	The day which I say is on 28th afternoon. 
+Q.	At what point in that demonstration whether it -- talking from the starting point and down town  Kigali going up to the Prime minister's residence and then afterwards, at what point did Mathieu Ngirumpatse address those that had assembled? 
+A.	Mathieu Ngirumpatse spoke when the demonstrators arrived at the prime minister's offices building so that the march started from downtown the centre of the town.  The demonstrators walked or marched up to the offices of the Prime Minister.  And when they got there, that is at the Prime minister's office, it is there, it was there that Mathieu Ngirumpatse took the floor, made an address.  But throughout the march, they sang Tumbasemba samba (phonetic) was being sung, that means let us kill them. 
+Q.	And directing our attention to when Mathieu Ngirumpatse himself was speaking, around how many people had been assembled, if you can estimate? 
+A.	There were about two -- up to three thousand people.   There were many people.  I couldn't give you a more precise figure in a demonstration.  It is very difficult to say how many people were there, but approximately, I would say that there were between two to three thousands persons.  There were many people.  
+Q.	Were Interahamwe present in the crowd?   
+A.	Of course, yes.  As I have said, there were even some officials, some leaders that I have mentioned earlier on.
+Q.	Tell us the name of the officials you remember being present? 
+A.	I remember Robert Kajuga, there was also Georges Rutaganda.  There was Ephrem. There was Eugene Mbarushimana. I do remember Eugene Mbarushimana was with Winne Kabuga. I do remember that there were drinking some lemonade at some location.  I do know that 
+	Pheneas Ruhumuliza was ill and had gone to seek some treatment.  Pheneas Ruhumuliza was the vice president of the Interahamwe; I don't know whether he was first or second vice, second president of the Interahamwe.  I know that Pheneas Ruhumuliza was absent.  There walking on foot and he was suffering from gout so he couldn't walk along which with the rest of the people.  On that day, he was ill and couldn't take part in the march. 
+Q.	Do you recall how long Mathieu Ngirumpatse spoke that day when he was addressing the crowd in front of the prime minister's office? 
+A.	His speech was not long, but it was a very telling speech. I think it lasted for 20, 25 minutes and he was --he is here himself, he can contradict me if he believes what I am saying is not the truth. 
+Q.	What was telling about his speech? 
+A.	In is speech, Mathieu was saying that he could no longer continue to suffer from the lack of respect that the Inyenzi-Inkotanyi and their accomplices were showing him, the lack of respect.  They had almost illegally occupied the prime minister's offices.  Let me consider you with what Mathieu said, he didn't continue to say that he couldn't tolerate that lack of respect from the Inyenzi-Inkotanyi, their accomplices and that the fact that Dismas Nsengiyaremye continue to occupy what was formally the offices of the MRND and that Dismas Nsengiyaremye should leave that building.  He added that all the Interahamwe should raise monolithically and chase all the people that were opposed to MRND policies away.  Ngirumpatse himself announced that he no longer wanted to hear about the JMRND and that from that particular point in time, all the youth had now gone into the Interahamwe group. I think I mentioned this earlier on.  Let me go on to talk about what he said.  Following what he said as I said, he called on the youth of the party and announced that from that time onwards, they were within the Interahamwe organization.  He had people like Ruhumuliza who were more than 40 years old and in Rwanda at that time, such was considered not a young man that was the maximum age at that time was 30 and Ruhumuliza was older because he was more at least 40 years.  This means that that organ could not be assimilated with the youth anymore.  He therefore was emphatic in saying that the entire youth of the MRND should now join the Interahamwe and that that was an official announcement. He made that announcement because he was sure at that time that the national congress had confirmed him as national secretary and had approved the project he had deposited in April.  And from that time onwards, the MRND youth was similarly assimilated with the Interahamwe.  That was the beginning of the problems.  It was from that day onwards that people got involved in killings and following that match, two people were killed before in front of the Sofergwa building and houses were also destroyed.  On that very same day that is what happened and those were salient points that I could remember concerning what Ngirumpatse, Mathieu said.  But let me add that on the occasion of other rallies, he spoke, and had made other utterances that you do not want us to talk about here. 
+Q.	Thank you, Mr. Witness.  Now you just mentioned that the people were killed, can you tell us who killed them to the extent that you know who was killed?  And who did the killing; explain that to the Court please? 
+A.	On that same date when those people were killed, I was not there.  I was not at the scene at which that happened, but that news was made public.  It was said that in front of the Sofergwa building and just below the buildings of the ministry of public works, the persons who are suspected those two people said that it was the Interahamwe that had attacked those people. The newspapers that covered that demonstration also talked about that particular event and if you go to the ministry of the interior or the ministry responsible for security, you can get documentation concerning those facts.  I myself therefore learned about that event through the press or information or in formation in public thereafter.  Now, subsequently I decided to resign such as demonstrated by the latter that I have already disclosed to the Defence counsel who have perused that are documents upon the request of the Chamber.  I told you I couldn't take those killings, that were being perpetrated anymore when I saw what was happening, what was done by the Interahamwe, I decided to leave the MRND.  And this is what I can say at this juncture so far as the speech of Mathieu Ngirumpatse was concerned on the 28 of May 
+1992. 
+Q.	Now, the violence and the killings that you have described, did that take place at the beginning of the demonstration or at the end? 
+A.	I did say that those acts of aggression took place in the  afternoon and I have here with me a document that has already been perused by the Defence counsel upon the  request of the President of the Chamber when he told me that upon my own initiative l could allow the Defence counsels to look at the documents I have so that those events I narrated in a document that has been inspected by the Defence counsels and it was co-counsel Karushara that perpetrated those acts because he was the one in charge or supporting the Interahamwe in that area.  Those are the events that afternoon at the end of the demonstrations.  But as I explained earlier on, when the march began at the roundabout, there were other people that went to ransack vehicles and bring down the flag of the Liberal party, I remember Gatabazi's vehicle that was there, that was vandalized, but in a general manner, the acts of aggression on the 28th of May 1992 were committed in the afternoon after the demonstration. 
+Q.	Thank you, Mr. Witness. I am just going to clarify one point again and it has to do with the last portion of your response.  What I gather, and you correct me if I am wrong is that at the beginning of the march at the roundabout in central Kigali, there were some activity whereby the flags or the buildings of the PL had either been drawn down or something happened in relation to the parte liberal and then there was the march to the prime minister's house, the speech by, Mathieu Ngirumpatse and then afterwards there was an illegal portion of the demonstration where there was violence afterwards.  Is that the chronology and correct me if I have misstated everything that you have said? 
+A.	As I explained, the march began at the central roundabout in Kigali.  Perhaps I should be more specific so that there is no confusion.  This is the main roundabout in Kigali.  There is a road that goes to Ruhengeri and another to Kibungo and another that goes up to the Rwandese shop.  On the way to Nyarugogo, there was a building belonging to the chairman of the Liberal party. That is where Mugenzi's office was, he was the chairman of the Liberal Party.  There were people in buses.  It's when we were walking that we saw what happened.  There was a confrontation between members of the Liberal party and Interahamwe who had come from Shylongo (phonetic) in buses.  They had come to participate in the march.  There was a confrontation between the Interahamwe and members of the PL party who were planning themselves to go to a different meeting that was to be organised in a different location. We learned of that incident while we were on our match.  After Mathieu Ngirumpatse's speech, matters became heated and the confrontation continued after the official march that was when some people were killed.  To be more clear, I should remind you that during that period, the Liberal Party publicly was considered as a Tutsi party or the party of the Tutsis.  And I am not using crude words as was used at the time.  They said that it was a Tutsi party or a party for members of the RPF.  So, we had or rather those people in the PL had to be chased down. So this was one of the events leading up to the genocide that was to be planned and there is no doubt about this. 
+Q.	So when you describe or when you account rather Mathieu Ngirumpatse saying something about the Inyenzi and the Inkotanyi, did you understand him to refer to the Tutsis or the Liberal party?  Tell us what you understood him to mean, when he used those words on that day? 
+A.	Not to backtrack about what happened at other meetings and what was said, we must say that the Tutsi in the PL were not the only ones who were targeted.  Now of course, on that day, there was a confrontation involving people from the PL party.  But on that date of the 28th, he was speaking of the Tutsis in general overall.  Now, of course he also mentioned political parties, but he was really targeting Tutsis and his speech was heard in subsequent meetings.  And I am not sure if we are going to get into that or you are going to ask me question about the difference, the distinctions that were drawn through different parties, but I will stop here for the time being. 
+Q.	Now, Mr. Witness, you say that this incident has been reported in the media at the time; do you recall if the MRND party or if Mathieu Ngirumpatse or anyone connected with the MRND also made public statements concerning this incident? 
+A.	With regard to any document about that incident, I can say the following:  Given what happened, Mathieu Ngirumpatse, using his usual intelligence published a communiqué, I remember it.  It was a way for him to explain himself well beforehand and I don't remember the date.  It must have been shortly after the events.  I don't remember the exact date of the publication of the communiqué.  He tried to explain how there were demonstrations that were quashed by members of other parties and in his communiqué; he tried to give a version of the facts which in fact did not reflect reality.  Overall, it dealt with Mr. Mugenzi who was chairman of the PL.  Later on, they became close friends with respect to the genocide ideology that they both shared.  Now, if you consider the content of that communiqué and what he said about Mugenzi and if you compare it to the situation that prevailed afterwards, you can draw your own conclusion.  I do not want to move ahead of you, Mr. Prosecutor, but I would like you to get there at some point so that you can access the reality of the situation.  My goal is to uncover the truth.  Even when I was still in jail, I asked the Prosecutor to come to see me and the Prosecutor did not come to see me on his own initiative, but I had to ask them for them to do it. 
+MR. WEBSTER:
+Could I have the assistant for the registry toe show this to the Court and the Defence and then to witness please.  
+
+Your Honours, what I am - - having circulated this at his time can be found Tab 48 in your bundles.  It is to be identified as K0505153 to 5155.  It is only in French; we do not have the translation, but was disclosed to all the parties in Court whilst in the binder.  
+BY MR. WEBSTER: 
+Q.	MR. Witness, I can ask you to take a moment to read through that document to tell me if you recognise its contents?  
+A.	Must I read the document loud?
+Q.	I am not asking you to read it out at this time, perhaps we would get to that point, but right now, if you read it to yourself and tell us in terms of the contents you are reading if it is familiar to you in anyway? 
+MR. PRESIDENT: 
+Yes, Mr. Webster, you are waiting? 
+MR. WEBSTER: 
+I am waiting for the witness to finish reading. 
+MR. PRESIDENT: 
+Mr. Prosecutor, what is necessary for the witness to read the document if he recognises the document?  
+MR. WEBSTER: 
+We can read the document, Your Honour 
+MR. PRESIDENT: 
+If he recognises the document we can move on.
+BY MR. WEBSTER: 
+Q.	Mr. Witness, do you recognise the document? 
+A.	Yes, of course, I know it, I recognise this document. 
+Q.	Can you tell us what it is please? 
+A.	The document, the document it is a real document which Mr. Mathieu Ngirumpatse himself signed and you see here there is his signature, and pardon me, I began to speak in another language.  I beg your pardon. You can see as I have said that this document talks about the youth wing, the Interahamwe.  He himself signed the document.  This was the game they were playing at the time.  You have seen the document as you can tell it confirms what I have said.  This is the communiqué that we were talking about and that I have raised in my answer to your question.  It talks about the march on the 
+	28th of May 1992 that is the day it was organised.  He even talks about the events in Gitikinyoni. I don't believe we had reached that point when we were describing the events there, but I no doubt believe we will get to it. I don't know if we should begin to talk about the events in Gitikinyoni.  I think that it was Kabagema, Member of Parliament who was from the PL party who was attacked by the Interahamwe on the 28 of May simply because he was a Tutsi.  These are all facts that are well-known.  In short, this was the document that I was describing earlier. 
+Q.	But, Mr. Witness, how did Mathieu Ngirumpatse describe the event that you were talking about, the events of the 28, the demonstration of the 28th?  Does his account resemble the one that you provided to this Court? 
+A.	I think that I talked about those people's objective.  You have the statement in front of you.  They were targeting Mugenzi the chairman of the Liberal party.  Perhaps we should read the document, but as I said earlier, as a high-ranking political official who was very intelligent, he quickly published a communique explaining the events in his own way.  He realised that the events got out of hand. Even at the time, it was said that the Interahamwe had damaged many things, a lot of property on that day the 28th of May.  If possible, you could find the speeches that were made during that meeting. I am not sure if you have them.  The important thing to remember is that that man said those things.  He should be courageous and simply acknowledge this.  He led the youth wing down a horrific path and this is what I described earlier, this is what happened on the 28th of May. 
+Q.	I am going to ask you one last question and go to this document and then we move on: With regard to the communique, how does Mathieu Ngirumpatse's account for what happened differ from your account, from what you yourself observed on the 28th of May?  What is the difference between your version of the events and his version of the events? 
+A.	There was Mathieu Ngirumpatse's version.  In it, he accused members of the PL and the Tutsi wing saying that it was the PL members who attacked the MRND.  That is what comes out of this communique.  But in fact that is not at all the case.  The Interahamwe committed acts.  I think that I spoke about him.  When you look at him you wouldn't realise this. I even joined that party.  I thought that he was a model citizen.  He was an intellectual, I told you about the book that he wrote.  Along the same lines, you can see that the communique that you have before you, is simply his version but in fact it has nothing to do with the true.  Let me point out:    In this document, he is accusing Justin Mugenzi who later on became a close friend of his.  He speaks about Mugenzi's actions, but later on they became friends.  They were both ministers in the same government.  They both belonged to the 
+	Power Wing or association.  And I will stop there, Mr. Prosecutor. 
+Q.	Thank you.  
+MR. WEBSTER: 
+May I have this document marked for identification, please? 
+MR. ROBINSON: 
+Mr. President, if it will expedite matters, I wish to advise the Chamber that we have no objections to the admission of this document.
+MR. PRESIDENT: 
+Thank you. 
+MR. WEBSTER: 
+In which case, if that is the same for the other two counsels, then I suggest it be marked P2, and admitted into evidence.  
+MR. PRESIDENT: 
+Admitted into evidence P. 2.
+(Exhibit No. P. 2 admitted) 
+BY MR. WEBSTER:
+Q.	Mr. Witness, now that we are on the topic on Justin Mugenzi, if you saw Justin Mugenzi again, do you think you will be able to recognise him? 
+A.	I would, I have no doubt. 
+Q.	Where did you know Mr. Mugenzi from, Mr. Witness?  What would be the basis for your ability to identify him? 
+A.	Even a child of 10 at the time would be able to recognise Mugenzi.    He was on the television.  All the time, he was part of the PL, PSD coalition.    If I am not mistaken, later on, he became the minister of commerce and industry.  He was a well-known public figure.  He was the chairman of his party.  He was the PL chairman at the national level.  I personally was a member of the MRND party.  As such, I had to know who the other leaders of the parties were.  And so, I knew who Mugenzi was.  Maybe I wouldn't recognise his deputies or assistants, but I would be able recognise him those are the circumstances under which I knew who Mugenzi was.
+MR. WEBSTER:  
+If I could have the assistant to the registry show this to the Court, and then to the Defence counsel please and then bring it back to me. 
+
+Just indicate for the record that I have one sheet of paper and on it are two  images the one at the top of the page is identified as KA011729, the one at the bottom of the page is identified as KA011726,. KA011726.  Both are photographs and I am going to ask that KA011729, this single page that contains the two images be presented to the witness. 
+BY MR. WEBSTER:   
+Q.	Mr.  Witness, I am going to direct your attention to the image at the top of the page that is what I have identified with the K-number ending in 1729.  Directing you attention only to the image at the end of the page.  Do you recognise anyone?  
+A.	Thank you, Prosecutor.  I can see two persons here, Justin Mugenzi and Mathieu Ngirumpatse sitting next to each other in a meeting.  Mugenzi is wearing a PL cap and Mathieu is wearing a ketenge hat that is the Interahamwe fabric hat and they are here together, seated, they are smiling, they are happy.  That was at an MRND meeting.  Down at the bottom, at the bottom--
+Q.	We can go on to the bottom in a minute, let me just identify for the record as KA011726.  Looking at the bottom imagine do you recognise anyone? 
+A.	Here too, I do recognise some people from the first person to the fourth person. 
+MR. PRESIDENT: 
+Yes, Mr. Weyl. 
+MR. WEYL: 
+Mr. President, I should like to point out that if we have the same references, the images that have been pointed out have not been disclosed and are not part of the disclosures within the framework of the documents given to us in the various files. If you refer to 1, 2, 3, No. 1, 2, 3, yes, could one 2, 3, you will see indeed the identification of KA011726, but it is not in the big file unless my file is not complete. Perhaps you check your own file, Prosecutor, 125, again so that we do not have the same document.  This document has therefore has not been disclosed. 
+MR. WEBSTER: 
+Mr. Weyl's comments are partially accurate in so far as the photograph that ends in K-number 1729 may not appear in the binder because what I have learned is that a number of photographs were included in that Tab and that particular image had not been reproduced.  But it certainly has been disclosed because his photographs came from Mathieu Ngirumpatse himself.  There were two photographs that were recovered in the seizures pursuant to his arrest which have been disclosed at least two or three times.  So while that particular image may not be in the binder of exhibits, it is listed on the index and it was disclosed at least two or three different times because it comes from 
+Mr. Ngirumpatse.  All of these, there is a whole series of photographs that were seized from him at the time he was arrested.  All of this property was returned to him, he was allowed inspection.  So to suggest now that somehow there has been no disclosure, we are looking at property of photographs that were belonging to Mathieu Ngirumpatse.  
+
+Your Honour, if I may just follow up this image has been disclosed so many times.  I believe if Mr. Weyl checks the essential Exhibit file that was served with the pre-trial brief; he will find a copy of the same page that I am circulating.  So it was disclosed when we provided inspection of the seizures from the Accused.  After that it was served on the CD-ROM, after that we provided it in a file of essential exhibits that accompanied the pre-trial brief and that is at least three instances that I can think about, think of standing here on my feet, I think there were even more times that we have disclosed the same images over and over again.  
+MR. PRESIDENT: 
+Mr. Weyl, you had wanted to say something. 
+MR. WEYL: 
+Mr. President, it's a matter of method we are supposed to be working on documents that was disclosed.  There is a list of disclosures that was established.  So we shouldn't be able to work on an organised manner on these documents, we have been presented with documents from within pockets magically are not cross-checked the system of manner which resulted to surprise effect.  We cannot work like this.  There should be some order in this work.  So that we work in an orderly manner, discuss the evidence, you shouldn't pull out tricks from your pocket in proportion as the trial goes on, these are not reliable letters in a regular and fair trial.  I am sorry, Mr. President. 
+MR. WEBSTER: 
+Your Honour, I apologise for continuing the debate, but I am a bit surprised because I started out the - - morning session by presenting this very image to the Defence before the court came into course, excuse me, before the Trial Chamber came into the courtroom this morning, I took the precaution of circulating this very sheet to all the Defence counsel. In fact, I asked Mr. Robinson on my behalf to go to each one of the Defence teams and show them this image to avoid a situation just like this one.  If 
+Mr. Weyl had an objection, he could have voiced it at that time and I would have avoided this whole incident, but I specifically made an effort tin this case to make sure that there was no problem with this image.  We have disclosed the same thing over and over and over again. We have done all that we can do in terms of providing inspection and disclosure. 
+MR. PRESIDENT: 
+Mr. Weyl, Mr. Weyl, is your objection one of substance or you are just objecting to the methodology? 
+MR. WEYL: 
+Mr. President, in reaction to your questions, in the first instance, it's a matter of methodology because to determine whether I have an objection of substance about this I should do where it comes from when the picture was taken at what time so that I can study the circumstances, but that one brings out this document and one says well, he had it for a long time and I made some effort to give it this time around, probably if those things were done at the time, I would have been able to tell you whether it is substantive or not.  For the time being it is a matter of methodology as, a matter of form and I should reserve my right to intervene when I hear explanations about when the picture was taken where it comes from and when I inspect it. 
+MR. PRESIDENT: 
+Mr. Webster, I think that we are satisfied on the point of substance that the witness should see these photographs and give evidence about it. 
+
+Having said that, we think that Mr. Weyl is quite within his rights to make the complaint that he did.  We think that the Court itself is entitled to a higher level of efficiency and we hope that things will be better in the future. 
+MR. WEBSTER: 
+May I continue? 
+MR. PRESIDENT: 
+Yes.   
+BY MR. WEBSTER:
+Q.	Mr.  Witness, with respect to the image at the bottom of the page identified as KA01726, among the people that are in that photograph, can you tell us who you recognise? 
+A.	Mr. Prosecutor, I can recognise the first person, who is partly invisible, that is Mr. Kabagema.  He was director of the guarantees fund and I can remember that he was appointed by the president of the MRND.  The second person is Mr. Eduard Karemera.  At the time he used to wear black glasses.  The third person is Mathieu Ngirumpatse he is not wearing his hat, he took it off.  And the fourth person is Mugenzi, Justin who was still wearing his cap.  And the next person after Mugenzi is wearing a cap, but I am not sure whether this a member of the PSD or PL member, but this confirmation goes to see the final relationship that there is between the two I mentioned and I am sure we can come back to that later on.
+(Pages 33 to 42 by Petrus Chijarira)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1515H
+MR. WEBSTER:
+May I have this moved into evidence as P. 3? 
+MR. ROBINSON: 
+Mr. President, we have no objection. 
+MR. PRESIDENT:
+Mr. Robinson, the pronoun "we"?  
+MR. ROBINSON: 
+I am speaking for myself and Mr. Nzirorera. 
+MR. PRESIDENT:
+All right.  
+
+Yes, Ms. Diagne. 
+MS. DIAGNE-MBAYE:
+Yes, Mr. President, I do have an objection because the person that has just been identified as           Mr. Karemera is not at all visible in the picture.  I will leave it at that. 
+MR. WEYL: 
+Mr. President, thank you.  The same thing applies, and just as you had not seen anything legible with the document the witness had, this time around you have a picture in which you cannot tell who is who.  The picture is what it is, but as far as we are concerned, it doesn't have any probative value.  This is what I wanted to say for the record.  The sight of the witness is extremely selective; he can choose to recognise this or that, very selective, for the record. 
+MR. PRESIDENT:
+Okay.  We have concluded that those objections go to weight, not to admissibility.  We admit the photograph as Exhibit P. 3.  We have this sheet of paper as Exhibit P. 3.
+(Exhibit No. P. 3 admitted)
+MR. WEBSTER: 
+If I could have the assistance of the registrar again.  If this could be shown to the Court and to the parties, and then placed before the witness.  
+ 
+If -- may I indicate, for the record, that what has been placed before the witness is a document consisting of two pages?  It has been stamped by the Office of the Prosecution's evidence unit as KO166843 and K0166844. 
+BY MR. WEBSTER:
+Q.	Witness, would you take a look at the document that has been placed in front of you, and tell us if you recognise it? 
+A.	This is the document I referred to yesterday.  I did say yesterday that that document was sort of a Bible for me.  I recognise the document because it is my document. 
+Q.	If you look to the second page of the document, do you recognise your signature? 
+A.	That is correct.  I have the original copy of this document.  This is quite an old document, but it is the authentic document, and this is my signature. 
+Q.	Would you remind us of the date of the document, the date that you signed it? 
+A.	This is the date on the right-hand side, the upper right-hand side, the 9th of June 1992. 
+Q.	And would you remind us of what is so significant about the contents of this document to you? 
+A.	In a word or two, this is my resignation from the MRND party.  And the grounds for my resignation was that the MRND youth had become Interahamwe.  We are talking about the events of the 28th.  But in a nutshell, I resigned from all of the activities of the MRND, and the purpose of this letter is geared towards that, the resignation. 
+MR. WEBSTER: 
+I would offer this into evidence as P. 3 -- P. 4. 
+MR. ROBINSON:
+Mr. Nzirorera has no objection, Mr. President. 
+MS. DIAGNE-MBAYE:
+Karemera's Defence neither. 
+MR. WEYL: 
+Mr. President, Ngirumpatse's Defence neither. 
+MR. PRESIDENT:
+Thank you.  I don't think it is necessary to say you don't have an objection each time.  I would expect you to say you have an objection if you do.  If you don't, I would assume there is no objection.  
+(Exhibit No. P. 4 admitted) 
+BY MR. WEBSTER:
+Q.	I'm going to move onto a slightly new area, Mr. Witness.  Do you recall --
+MR. PRESIDENT:
+Mr. Webster, do you mind if I ask you again, how much longer do you think you have?  
+MR. WEBSTER: 
+I don't know.  It is a frank response, Your Honours.  I cannot really say.  I know I have two or three areas to cover.  I had expected this to take one day; it has taken certainly more than that.  But there are specific areas that I am making my way towards the end.  
+MR. PRESIDENT:
+We will take the mid-afternoon recess at 3:45. 
+BY MR. WEBSTER:
+Q.	Mr. Witness, were you able to observe any particular relationship between President Habyarimana and the Interahamwe? 
+A.	As a matter of fact, Habyarimana, as president of the republic and in his capacity as an authority, should not have taken part, actively, in MRND meetings.  And, indeed, the political parties had required that the president be neutral.  You could be, therefore, not sure that he was working with the Interahamwe.  
+
+However, on one occasion Habyarimana was together with the Interahamwe, but he said that he was just passing by.  He said he did not come to attend that meeting that he was just passing by.  I do remember that after having left the MRND -- after having resigned, there were certain things that I was an eyewitness to or that I heard concerning Habyarimana and the Interahamwe organisation. 
+Q.	Well, when you make reference to a meeting where he said he was just stopping by, do you recall when that meeting took place and where it took place? 
+A.	The event was broadcasted over the radio.  
+
+It would appear that the interpreters have a little technical problem.  I shall stop here, if I may, to allow them to resolve it.  There is a problem with the translation, so I was obliged to stop.
+
+During that meeting, the one where Habyarimana was just passing by, Habyarimana was coming from Gisenyi; the meeting was in Ruhengeri.  I don't know what he was doing in Gisenyi, but he mentioned that fact during the meeting.  The same was said on the radio and on television.  He spoke at length about political parties who had requested that the president be neutral; he was not to be involved in party politics.  He was only to participate in the political bureau activities.  
+
+Let me remind you that President Habyarimana had been elected chairman of the MRND during the national congress.  That congress took place in the month of April, if I'm not mistaken.  
+Q.	Do you recall the month and the year of this particular meeting?  I'm sorry, did -- I believe you said, November in Ruhengeri.  Could you tell us the year that this meeting took place, please? 
+A.	I took note of different events, but I don't have all of them.  I'm only talking about the relevant events during that meeting.  It took place on the 15th of November 1992.  That was published in the newspapers.  We would take notes so as to not forget.  Why would I do that?  It was for the good of the nation; it wasn't for my own personal interest.  What Habyarimana said during that meeting scared the nation. 
+Q.	And why was that, Mr. Witness?  What did he say that you recall? 
+MR. ROBINSON: 
+Excuse me.  Excuse me, I have an objection.  Mr. President, I'm going to object to this witness testifying about this meeting.  I think that we don't object to the content of the meeting, and it should come in through other witnesses.  There are plenty of others who attended this meeting, but I'm objecting to this witness testifying about it for lack of notice.  
+
+If you look through all of the witness's statements, there is no mention of this meeting whatsoever.  In the will-say statement that we received over the weekend, for the first time, under additional materials, it was told to us that this witness had some information about the meeting.  But that is not adequate notice for us to be prepared for cross-examination.  So, we object to testimony about this meeting from this witness.  Thank you.  
+MR. WEBSTER: 
+Your Honour, a will-say statement was filed on the 16th of September.  It states, specifically, that the witness will address -- it's in French, but I can read it in French, but it is a sentence that refers to this meeting where Habyarimana made an address to this meeting on the 15th of November 1992.  This is a landmark event in the history of Rwanda.  It is mentioned in the pre-trial brief; it was in our opening statement.  It defies imagining that the Defence could not prepare for a cross-examination on this particular meeting since it is mentioned so often in relation to this case.  
+
+For notice purposes, I think there is jurisprudence that establishes that notice is not limited to what a witness says in his statement.  I can refer the Court to the decision on admissibility of evidence of Witness DBQ in the Bagosora case.  It is a decision of the 18th of November 2003.  I think the issue that the Trial Chamber addressed; it is a similar issue to this one, that is that evidence was being elicited from a witness where notice had been provided in the indictment and the pre-trial brief, but not in a witness statement.  
+
+But in this case, there was notice in a witness statement, so to speak, in the will-say statement that we disclosed.  The issue is so notorious, that it defies logic that this should present a problem for the Defence in terms of cross-examination. 
+MR. PRESIDENT:
+Yes, Mr. Robinson, I hope you are not saying that the statement should be translated into English. 
+MR. ROBINSON: 
+No, I had a good understanding of the will-say statement. I have no objection to the fact that the will-say statement -- I know what the will-say statement says.  It was delivered to us the day before the trial started.  And, indeed, I'm not claiming to be surprised, in general, by the Ruhengeri meeting.  Not only did President Habyarimana speak at that meeting, but Mr. Ngirumpatse, Mr. Kajuga,                    Casimir Bizimungu.  We have translations in three languages of all of their speeches.  It is a very important event.  And we will need, at some point, to fully address everything that was said during that meeting.  
+
+My objection is that this is not the witness who should address this meeting, because he -- we didn't have adequate notice that his testimony would deal with that subject.  They have interviewed him six, seven, eight times, and there was no mention, whatsoever, of the Ruhengeri meeting.  They can't decide on a whim, the day before the trial starts, all of a sudden, to bring a totally different topic into the testimony of a witness.  It is a question of notice.  
+
+In the DBQ decision, the Trial Chamber in Bagosora gave the Defence additional time when they were surprised by a late disclosure.  That is the remedy.  So, if you insist that he has to testify about this meeting, we would ask for additional time to get our exhibits organised, the videos, and to explore in depth, what actually occurred at this meeting.  But I don't think this is the proper witness to do that with, especially given the lack of notice and the fact that he didn't attend the meeting, when other witnesses who are coming did.  
+MR. WEBSTER: 
+Your Honour, that is just the issue.  This witness did not attend the meeting.  He heard portions of Habyarimana's speech over the radio.  What he would testify about is what he heard, and the impact that that speech had on his community or in the nation.  So, we are not trying to go into the detail -- provide a detailed account of the meeting.  This witness can't possibly do that.  
+
+He heard the most significant elements in Habyarimana's speech, and that is what he is going to testify about.  It is not an issue of notice.  It is a very limited enquiry.  
+MR. PRESIDENT:
+Yes, Mr. Weyl.
+MR. WEYL: 
+Yes, Mr. President, the Prosecution has just given the answer.  If the witness is only here to talk about excerpts from a speech that he heard indirectly, that has no -- that is of no interest for us here, especially if others can talk about the meeting overall and not just excerpts that have no relevance for us here. 
+MR. PRESIDENT:
+Yes, Mr. Witness. 
+THE WITNESS:
+Mr. President, I don't know if there is some problem with law -- or according to the law.  If a witness could say something about what I think for that issue which is discussed between lawyers, I don't know, because I have one motion which I want to underline the reason why I also want to say how Habyarimana said himself that he would get -- sorry for that. 
+MR. PRESIDENT:
+Yeah, well, anyway, we thank you for the interest that you have displayed, but we will make a ruling on the legal issues.  It is the job of Judges to make certain that the testimony is given according to the rules which govern trials of this Tribunal.  We will give the ruling in a minute.  
+
+We have just noticed that it is just about quarter to four.  It will give us an opportunity to have a short recess before we give our ruling.
+THE WITNESS:
+Thank you.   
+(Court recessed from 1545H to 1610H) 
+MR. PRESIDENT:
+Mr. Webster, we are not inclined to rule the testimony inadmissible from this witness, but we are inclined to encourage you not to lead it from this witness for two reasons:  The first reason is that it is quite apparent from information that we have that this testimony will be led by other witnesses who have -- who were at the meeting.  And we think that in the interest of expedition, that it is unnecessary to adduce the testimony from so many different sources.  We think that even a brief -- a brief mention of the subject opens up the whole meeting in cross-examination.  And in the interest of trial expedition, we thought that we would suggest to you that you should forego leading the evidence from this witness.  We didn't want to rule it inadmissible, but that is what we thought should happen. 
+MR. WEBSTER: 
+That the enquiry should be very short and narrow, or that we should forego any mention of the meeting, Your Honours?  
+MR. PRESIDENT:
+Well, we didn't want to have the testimony about this meeting from too many different sources.  And we are aware from your evidence list that this meeting will be addressed by other witnesses already.  That is the point that we have made.  We think that once you ask any questions about it, it opens up the whole meeting.  And it raises into question how many times this particular meeting will be addressed during the course of your case.  That is what was concerning us. 
+MR. WEBSTER: 
+I understand the Court's concern, especially as the expediency of moving ahead is an issue.  But the very -- the significance of this meeting is not just what happened at the meeting itself and who was there to report on the whole meeting, but its impact to the country, for those who heard it on the radio and who only heard parts of what went on.  So, the meeting is important in two respects, what actually happened in Ruhengeri and how it was interpreted nationwide because of how it was discussed by the opposition, and how it was portrayed on the radio.  So those are two separate issues, as I see them.  
+
+That is why I want to go into it with this witness.  I can keep the enquiry narrow.  I had intended to actually play portions of the audio recording.  I can forego that, but I would still like to pursue it a bit with this witness. 
+MR. PRESIDENT:
+Well, we think that once you open it with the witness, it opens everything in cross-examination.  But as I have said, we have considered that we cannot rule it inadmissible. 
+
+BY MR. WEBSTER:
+Q.	Mr. Witness, you started to discuss the meeting in Ruhengeri in 1992.  What was the significance of that meeting to you? 
+A.	The significance of that meeting and the consequences of that meeting over the population are significant.  They are important, because then President Habyarimana said that when the time came he would contact the Interahamwe for them to come down.  And he called upon those that were responsible for that to buy Kitenge fabric for the Interahamwe, and that he was going to contribute to the purchase of that material.  And that the Interahamwe would come down when the time comes.  
+
+And this is why I was saying that while we were talking about indication or the involvement of the Interahamwe in the killings, and that is why we talked about their involvement, they came down to carry out the killings.  That was the subject of considerable commentary.  And people continued to be killed simply because of that speech made by the person that was the head of state then.  
+
+When Habyarimana said that he was going to come down with the Interahamwe, it was just as though he was foretelling something.  And one can thus evaluate the repercussions of that speech.  And that does mean that that speech did play a part, and that that speech materialised the relationship between the Interahamwe and Habyarimana himself.
+
+I think I can limit myself to these two elements concerning the speech of President Habyarimana at Ruhengeri upon his return from Gisenyi.  I'm sure that there are other witnesses who can answer questions about persons that were even at that meeting, but, personally, I simply wanted to underscore the role of Habyarimana and his relationship with the Interahamwe, as far as the fact that he personally committed himself to the Interahamwe being equipped for the purpose of exterminating the Rwandan Tutsi.
+
+Earlier on I was saying somehow the extermination of the Rwandans, but I wanted to specify that it was the question of Tutsi -- or Rwandan Tutsi.  
+(Pages 43 to 49 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+1615H
+BY MR. WEBSTER:
+Q.	Thank you.  Were there any other meetings that you attended or that you observed after this meeting you've just described that generated critical response in the media at the time? 
+A.	Could you -- saying that if there is some meeting after -- which I tended or I understand at that moment.  So is that question which they -- I'm asking for by -- if you can allow me to continue, Mr. President.  
+MR. PRESIDENT:
+Mr. Witness, again I thank you for your interest, but if we don't tell you not to answer, you should answer.  If we think the question is an improper one, we will tell you it's an improper question and you should not answer it.  Okay?  So you can answer it now.  
+THE WITNESS: 
+Regarding the other meetings, I did hear talk about other meetings organised later on.  I believe that the first meeting was held at the end of 1993, but those meetings were meetings at which the participants were incited into violence.  There was a meeting convened at the stadium, that is, Nyamirambo stadium, at the occasion on which Karemera, Edouard took the floor.  And that event was covered by the TV and the radio station.  And that was very near where I lived, so I was able to learn about what was said at that meeting.
+BY MR. WEBSTER:
+Q.	I'm going to ask you to stop for a moment -- 
+A.	There were even -- 
+Q.	-- because what I heard in English was a reference to Edouard Karemera and I'm wondering if that's the person that you referred to when you gave your answer.  
+A.	No, it's not Edouard -- not Edouard, but Frodouard Karamira, K-A-R-A-M-I-R-A, who was an MDR member.  And it was he, who, in collaboration with the other political parties -- I remember that MRND was even there on that occasion.  There was also the Pl, PSD, and PDC, and CDR, they were all there.  Now, all those parties were represented at that meeting. 
+Q.	Do you recall what motivated that meeting, why that meeting took place at that time? 
+A.	Well, firstly, there was the death of President Ndadaye that coincided with the ideology.  As such, all the Hutu were considered as being of the same group and, therefore, would participate in the same plan.  The Rwandan Hutus from the various political parties were, therefore, thus mobilised, and that was within the framework of the genocide ideology, to enable the Hutu -- those Hutus to kill the other Rwandans.  And for that purpose, Karamira launched the ideology, according to which divisions should be created among the political parties so that it was thus that factions within the political parties were borne -- they emerged, whereas the political parties were united before.  It was the purpose -- for the purpose of disseminating that ideology that would lead to the extermination of the Tutsi.  Karamira launched his famous Hutu Power ideology and then their -- MDR-Power, MRND Power and 
+	CDR Power.  And on that occasion, he made statements that were very far reaching.  
+As I did say, each member of the various political parties there at the meeting should be able to shoulder his own responsibilities in what took place in Rwanda.  But then later on, there were other meetings organised during that same month, and even later than that.  And when we come to those issues, I shall give you more detailed information on the bases of the questions put to me. 
+Q.	Can you remind us of what political party Frodouard Karamira belonged to? 
+A.	He belonged to the political committee of the MDR. I do not remember his title, but it was a very important function, and even the chairmanship of the MDR had its own offices in a building that belonged to it. 
+Q.	Can you explain what the significance of that meeting was in the context of the times when you think about, not the events of 1994, but in 1993 when this meeting was taking place, what happened as a result? 
+A.	I am sorry; you would excuse me because this reminds me of certain occurrences that profoundly affect me personally.  But the members of the party that had had to use various powers began to chase the Tutsis, who were killed in various parts of the country and those members of the various parties in the power faction, therefore, aligned themselves with the Interahamwe, and it was thus that they started building alliances between the youth wings and the various political parties for the purpose of exterminating the Tutsi.  And that was in 1993.  
+
+You would undoubtedly remember the events that took place during that period, what happened in Butare where Bucyana, who was a CDR member, was killed.  Following the assassination of Bucyana, people like Gatabazi were killed.  These are events that are linked one to the other and started during that period, and all the people that were opposed to the killings were killed.  Others had to run away into exile.  There are many examples that I would not be able to relate here because those events took place quite a long time ago, and there are certain facts that I cannot remember anymore.  
+
+But I do remember that during the Karamira trial in Rwanda, that all those facts were argued, relied on, and if you want more detailed information, I would ask you to contact the first instance court of Nyamirambo for you to have access to the documents that are part and parcel of the Karamira case file.  And at the time, a video clip was showed to him about what happened during that meeting and he denied his own utterances.  He denied what he himself had said during that meeting.  He did recognise that the photograph was his, but that the words were not his, and that that was all a set up.  
+
+I should probably leave it at that and perhaps go on with the questions that you have concerning those events. 
+Q.	What was the most significant part of the speech that you remember? 
+A.	The significant part of the speech that I remember -- let me remind you that it was a long speech.  He said the following; at least this is what I remember.  Twagiramungu was opposed to the Hutu ideology, even though he was a Hutu himself.  He said that Twagiramungu went to Europe, to Burundi.  He was considered an Inyenzi.  He was complaining about the fact that he had just been appointed a 
+	prime minister, and in so doing, they were turning the country into the enemy.  So he encouraged everyone to attack the enemy; in other words, the Tutsis.  That's what he said.
+
+	After Twagiramungu's name was written down in the Arusha accords as representing the name of the prime minister and they asked that his name be put down, Karamira himself said some other things.  He explained that Hutus had to unite and should not dilute their efforts against the Tutsis.  I don't remember everything that was said, but what I do remember is that there was a call for Hutu unity for the purposes of exterminating the Tutsis.  This was the power factions that united.  I remember someone from the PSD party, a Dungutse and Mugenzi from the PL party; they all rallied on the power ideology.  There were other people; I don't remember their names for the time being.  You must understand it's been a long time. 
+MR. WEBSTER: 
+Your Honour, at this time I would like to play two or three minutes from the end of that speech.  It's on a -- audio recording.  I would ask my colleague to key it up.  It can be found at tab 147.  There are transcripts in English, French and Kinyarwanda.  I would direct the Court and the parties to tab 147.  There is an English text, and we would be looking at the portion that begins on page K0271030.  In the French text it begins on the page K0230535; and in the Kinyarwanda text, it begins on the page K0224013.  We are only going to look at three pages of text.  And on the audio recording we'll be looking at the portion that starts at 5 minutes, 40 seconds to 8 minutes, 45 seconds.  
+MR. PRESIDENT:
+Mr. Webster, just as an aside, earlier this week you mentioned that you were proposing to put the exhibits on a -- on a -- on the web site, which means that you have them in electronic format.  
+MR. WEBSTER: 
+Yes.  
+MR. PRESIDENT:
+Why can't we get a CD-ROM of that?  
+MR. WEBSTER: 
+We are in the process of preparing that for the Court, Your Honour.  We thought it was -- it would be more efficient to put it on a common sever that everyone could access, not only in the courtroom, but from -- from distant locations.  Now that I understand the Court's preference, we would create an electronic text that you can install on your laptops, but this is something that we'd discussed a number of times and we thought that -- what we had proposed was the best solution --
+MR. PRESIDENT:
+We thought you understood how we - 
+
+MR. WEBSTER: 
+Your Honour, it - 
+MR. PRESIDENT:
+It would make life much easier for us and it would save a lot of time -- 
+MR. WEBSTER: 
+I understand 
+MR. PRESIDENT:
+-- in accessing information if we need it.
+MR. WEBSTER: 
+But we've met on this a number of times; we met with the Defence.  This is what we had resolved.  Now that we understand that the Court prefers it to be another way, we will follow your -- we will try to make things -- 
+MR. PRESIDENT:
+We are not suggesting you should not create your -- your web base arrangement, but it just occurred to me -- or it had occurred to me that if you can put it on the web-site, that means you do have it in electronic format.  
+MR. WEBSTER: 
+Everything can be generated as an electronic text.  
+MR. PRESIDENT:
+That's right.
+MR. WEBSTER: 
+Everything can be scanned and created electronically.
+MR. PRESIDENT: 
+No, no.  That's a different issue.  I got the impression that you were already in a position to put it on the web, which suggested that you already had it in electronic format.  
+MR. WEBSTER: 
+Yes.  
+MR. PRESIDENT:
+Very well.  So if you already have it in that format, preparing a CD-ROM should be very easy.  
+MR. WEBSTER: 
+It's actually not, Your Honour, because it has to be re-configured.  It's easier to scan everything again and create a new CD-ROM, but we will work it out and by the time we complete Baghel Gandhi's testimony we should have everything for you in the form that you prefer.  But we were making this arrangement specifically to gear ourselves for courtroom number IV, because we had none of these screens available in courtroom number IV.  So we were trying to come up with a system where we could all look at a video image without having to bring a television into the courtroom.  So this was --  
+
+MR. PRESIDENT:
+Mr. Webster.  
+MR. WEBSTER: 
+Yeah.
+MR. PRESIDENT: 
+So why did you encourage us to create the administrative turmoil to come into courtroom I?
+MR. WEBSTER: 
+This is a much more acceptable environment, Your Honour, but we were trying to look ahead for all contingencies.  So we were actually trying to facilitate matters.  
+MR. PRESIDENT:
+The language of the audio clips you have -- 
+MR. WEBSTER: 
+The language of the audio is Kinyarwanda, but we have transcripts in all three languages.  And I can repeat the pages in the transcripts if that would be helpful.  
+MR. PRESIDENT:
+Yes, Mr. Weyl.  
+MR. WEYL: 
+Yes, Mr. President, thank you.  Could Mr. Webster kindly specify when, in which format -- when and in which format he disclosed the video excerpt?  Now, perhaps this is a mistake on my part, but if he simply could help me to locate -- give me that information so that I can locate the document:  how he disclosed, when he disclosed, and in which format.  That would help us a great deal.  Thank you, 
+Mr. President.
+MR. WEBSTER: 
+I don't have the date of disclosure in my finger tips, but all audio recordings of Radio Rwanda and RTLM were disclosed many months ago, it's probably over a year.  Everything that we had in our office that was an audiotape from Radio Rwanda or RTLM has been disclosed to the Defence.  And this is coming from one of the Radio Rwanda tapes.  
+
+With respect to this specific transcript, this was disclosed with -- the most recent disclosure is with the exhibit bundles that were distributed last week.  But, again, even with respect to this particular speech from Frodouard Karamira, I believe there is a copy of the transcript in the pre-trial brief; in other words, there was a binder of materials that was considered essential exhibits, it's included in that.  
+
+For Mr. Weyl's edification, I did take the time over the pause to go back and look for the photograph that we had discussed earlier.  That can be found at tab 5 in the essential exhibits file.  So everything that I'm discussing before this Trial Chamber has been disclosed many times over.  If it's necessary, I can go back and document every single disclosure, but be assured everything we have discussed in court today has been disclosed several times.  
+MR. PRESIDENT:
+Gentlemen, Mr. Webster, Mr. Weyl, we -- I don't appreciate both counsel standing at the same time.  Now -- now Mr. Webster has finished, was there something you wanted to say, Mr. Weyl?  
+MR. WEYL: 
+Yes, Mr. President, I beg your pardon for remaining on my feet.  
+
+I heard Mr. Webster indicate that he disclosed some materials last week.  That does not seem to follow strictly the rules, which says that all disclosures must be made 60 days before commencement of trial.  Otherwise, his explanation seems very confusing to me.  It hasn't helped me to find anything but the transcript, which is not at issue.  I'm wondering about the audio or video portion of the speech.  I don't have that and Mr. Webster has not helped me in anyway to locate those.  Thank you.
+MR. WEBSTER: 
+I'm sorry, that's not information I have at my fingertips, so I can look into it and report back to the 
+Trial Chamber tomorrow, but everything that we had in the form of an audio recording was previously disclosed as a CD-ROM with the audio recording itself.  So these binders contain the transcripts, and -- and these are the official transcriptions and translations, which have been disclosed a number of times.  When we delivered a set of bundles that was the must recent disclosure.  But everything has been served on the parties many times over the last two years.  
+
+May I proceed?  
+MR. PRESIDENT:
+Mr. Webster, we are going to allow you to proceed, but we are going to need your undertaking to disclose to the Court the details of the disclosure which you have assured us took place.  
+MR. WEBSTER: 
+Okay, can we begin with -- at 5 minutes, 40 seconds, on KT000554.  
+(Audiotape played) 
+(Pages 50 to 55 by Gifty C. Harding)
+
+
+
+
+
+
+
+
+
+
+1645H
+MR. PRESIDENT:
+Mr. Webster, as a matter of interest, what was the purpose of playing that audio?  
+MR. WEBSTER:
+The purpose was to allow the witness to explain it in greater detail, Your Honour, and to give the Court the opportunity to hear -- 
+MR. PRESIDENT:
+So you were refreshing the witness's memory with this?  
+MR. WEBSTER:
+Not refreshing his memory, but he told us about the meeting.  I'm playing this tape to ask him -- the follow-up question is if the -- the portion that he heard is the same thing that he was referring to earlier. 
+MR. PRESIDENT:
+So it was for purpose of identification?
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+That was the purpose of it?
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+I see.  Now, if there has been a proper disclosure of something of this nature, couldn't we have gone about it differently?  For example, does the Defence deny that this was the speech in question?  I'm just wondering if there could be a -- if the purpose of this is just to have it identified for the purpose of being admitted in evidence, is there a method of short-circuiting the process.  Because it was just read in Kinyarwanda -- delivered in Kinyarwanda.  There's no English translation, no French translation.  So it has not entered into the court record.  So it's just having the -- the cassette itself as a court exhibit.  I appreciate if there's some dispute about its authenticity, then we have to go through this process, but if there's no dispute about it, couldn't we short-circuit the process of admission?  
+MR. ROBINSON:
+As far as we're concerned, yes.  On this particular cassette, we don't have any dispute.  
+MR. PRESIDENT:
+I'm not suggesting that if you have a dispute you shouldn't raise it, but if there's no dispute, I'm just wondering if we could short-circuit the admissions process.  
+
+Does that go for the other Accused as well?  
+
+Well, there being no objection, Mr. Webster -- if the purpose is just for identification for the purpose of admission --
+MR. WEBSTER:
+That's basically it. 
+MR. PRESIDENT:
+-- I think that we're in a position where we can admit it now.  
+MR. WEBSTER:
+Okay, that's fine.  
+MR. PRESIDENT:
+I don't think that it was something you should -- you should play to the witness for the purpose of asking him questions about it because that would be using it to refresh his memory.
+MR. WEBSTER:
+No.  The objective is to move the audio recording of the speech into evidence and the transcripts into evidence. 
+MR. PRESIDENT:
+Well, we admit them.  
+
+What's the, Mr. Registrar, exhibit number?
+MR. WEBSTER:
+Fine.  What I propose to do is -- the transcript starts on page K0271028 in the English and ends on page K0271033; in the Kinyarwanda, it starts on page K0224010 and ends on page K0224016; and in the French it starts on page K0230533 and ends on page K0230538.  I mention these page numbers because the transcript itself is much longer.  It's the whole audio recording for that -- for, I guess, an hour or so, but the speech itself is only around nine or ten minutes.  
+
+And then in terms of the audio, the excerpt that we heard is from 5 minutes 40, to 8 minutes 45, but the entire speech -- what I'd like to do is come -- come back at a later time and provide the exact minutes, countdown, for the audio portion, and we can submit that at a later time.  But the transcripts could go in at this point, and they would all get the same P number, and we could designate them separately in order to -- the A, B, C, and D in order to distinguish them.  
+MR. PRESIDENT:
+What are you tendering in evidence?  Just the extract that was read?
+MR. WEBSTER:
+No.  The entire speech -- the recorded portion of the speech.  
+MR. PRESIDENT:
+And you're not tendering it now?  
+MR. WEBSTER:
+We can tender the transcripts now, but as for the audio recording, we will have to set that aside and then provide it at a later time.  But we've indicated for the record where it can be found, on KT000554.  
+MR. PRESIDENT:
+Yes, Mr. Weyl.  
+MR. WEYL:
+Mr. President, thank you.  Perhaps this is a civil-law objection.  I object, in principle, to the tendering of selected excerpts from an audio recording, because it is not in its context.  So with all reservation, I have object (sic) to simply excerpts being tendered into evidence and not the entire document.  
+MR. PRESIDENT:
+Well, Mr. Weyl, I suspect you may have misunderstood.  I thought that I asked Mr. Robinson -- Mr. Webster what he was going to tender, and I thought he said he was going to tender the whole speech.  
+
+Am I wrong, Mr. Webster?  
+MR. WEBSTER:
+No, you're not.  That's what I -- that's what I stated, but maybe I should clarify for the record that the audio recording omits, maybe, the first few sentences of the speech because the recording itself starts -- all what we will disclose is everything that we have.  The recording starts a little after the beginning of the speech, but that's the entirety of the recording that we possess.  I don't think that -- you know, I don't think a recording exists that has the entire speech -- or we don't have it.  But what we have, we will disclose, and everything that we have is what I'm proposing to enter into evidence.  If you look at the transcript itself -- 
+MR. PRESIDENT:
+I think that's enough.  That was the -- the issue that Mr. Weyl had raised.  
+
+Mr. Registrar, what's the exhibit number for this?  
+MR. FRY:
+Your Honour, the next number is P. 5.  I'm not sure if you want to have P. 5A, B, C, D, Your Honour.  
+MR. PRESIDENT:
+Yeah.  
+
+Mr. Registrar, how do you designate -- we would want to have the same exhibit number for all the forms that were just exhibited.  So it will be a number or a letter for the Kinyarwanda, the English, the French version, and also another letter for the audio version.  How is it going to be recorded?  
+MR. FRY:
+Your Honour, I would propose P. 5A, B, C, and eventually D for the audio tape, when we receive it.  
+MR. PRESIDENT:
+Okay.  
+MR. FRY:
+But that's up to your discretion.
+MR. PRESIDENT:
+Just for completeness and consistency, what would be A, what would be B, and what would be C?  Would "A" be Kinyarwanda; "B," English; and "C," French?  
+MR. FRY:
+Yes, Your Honour, as you wish.  I agree.  
+MR. PRESIDENT:
+Okay.  Thank you.  
+(Exhibit No. P. 5A admitted)
+MR. PRESIDENT:  
+Yes, Mr. Prosecutor?  
+MR. WEBSTER:
+I'd like to address -- I'm going to jump ahead chronologically and address another speech that I'd like the witness to comment on, and we'll encounter the same issue, Your Honour.  So perhaps the Defence could comment, as a preliminary matter, if we could admit the transcripts of the speech of President Sindikubwabo on the 19th of April, in Butare.  
+MR. ROBINSON:
+Yes, Mr. President, I have an objection to playing the speech with this witness.  Again, this was something that was not disclosed to us.  It only first appears on the 16th of September, and we don't think it's appropriate that this be opened up for this witness, who, again, just heard it on the radio.  And there will be other people in the same situation.  We're just adding to the length of the cross-examination of this witness to open up these areas.  The same situation as with Ruhengeri, we had no notice of this until the 16th of September.  It's not in any of the statements.  
+MR. WEBSTER:
+Your Honour, there are at least four or five incidents over the period of 1990 to 1994, that are so notorious and so important to -- in appreciating the context of the events and the progression of the events in 1994, that the thought of having to give notice for every witness that would address them doesn't seem practical.  If we were to talk about the plane crash of Habyarimana on the 6th of April of 1994, everyone in Rwanda is aware of that incident.  If we were to talk about the speech of Sindikubwabo on the 19th of April, everyone in Rwanda is aware of that incident.  It was disclosed in the will-say statement on the 16th of September.  These are incidents that are so central to the events that it's inconceivable that a witness could take the stand in this trial and not make reference to them.  
+MR. PRESIDENT:
+Mr. Webster, there are two sides of that coin.  If you knew from the beginning that this witness was going to address those issues, why didn't you give notice?  
+
+MR. WEBSTER:
+Every witness can give evidence to those incidents.  There's not a witness that testifies in any one of these trials that could not address the shooting-down of the plane on the 6th of April, the speech of Habyarimana -- 
+MR. PRESIDENT:
+Yeah.  But why -- why decide to take the Court by surprise by not telling us in advance that you're going to do it?  The whole process of disclosure expects you to do that, to give notice of your case before the trial commences.  It also facilitates preparation for the Defence.  And you're obligated to provide the Defence with an opportunity to prepare to rebut.  You can't take them by surprise as a matter of policy.  
+MR. WEBSTER:
+My submission is that this can't possibly be an issue that surprises the Defence.  It's pleaded in the indictment.  It's pleaded in the pre-trial brief.  We discussed it in the opening.  There's no way you can discuss the events in Rwanda in 1994, without making reference to three or four very signal events during the period 1990 to 1994.  I went to the extent of putting it in the -- in the will-say statement to clarify the issue that we would be asking this witness about these incidents.  
+JUDGE SHORT:
+Mr. Webster, then what was the purpose of putting it in the will-say statement?  
+MR. WEBSTER:
+To anticipate Defence objections along this line, Your Honour.  
+JUDGE SHORT:
+Well, if you thought it was important to be in the will-say statement, then it should have been in an earlier statement.  I mean, it's true that these are events which are quite notorious, but Defence counsel prepared to cross-examine each witness on the basis of what they expect that witness to testify about.  So if you don't indicate that that -- that a particular witness is going to testify about a very important event, then even though they might be familiar with that event, they're not prepared to cross-examine that witness on that event.  You see, so it then means that we probably have to give them more time, and it affects the progress of the trial.  
+MR. WEBSTER:
+If the Court is precluding this line of inquiry, I will move on to something that is explicitly in the witness's statement.  I don't think I could add to my previous submission. 
+MR. PRESIDENT:
+That would be okay.  We could make that course of action.  
+MR. WEBSTER:
+The ruling is that this line of questioning is impermissible?  
+MR. PRESIDENT:
+Mr. Webster, you know, it's not only the Bench that has discretion.  The Prosecutor also should have discretion.  Now, we don't want to go so far as to make a judicial ruling on this matter.  You have pushed us to ask us, are we ruling it impermissible.  And that question embarrasses us.  We don't want to go as far as that, but we have suggested to you a course of action which we think you should follow.  
+MR. WEBSTER:
+All right.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, going back to June of 1992, when you resigned from the MRND party, what was -- what was the impact of your letter of resignation?  What happened after you resigned?  
+A.	Thank you.  Well, when I resigned officially through the letter I tendered here, I was chased, and problems multiplied when I read it out on the occasion of a meeting of the PSD, in the presence of Félicien Gatabazi.  There was also Gafaranga; and Ruganera, Marc (phonetic); and (unintelligible) François, who is a senator in the present government in Kigali.  At that time I -- I read out -- I read out this letter.  Gatabazi gave me an insignia on behalf of the party and a cup of the PSD party.  I handed back the MRND flag that I had -- or the insignia that I had.  I handed over my card as well, and that didn't please the Interahamwe.  I was attacked by -- with grenade at Muhima.  I went to hide at my sister's house in Gasata.  When that was found out, I had to run away to Kiyovu to stay with another sister.  And then later on, I went to Nyamabanda (sic), where I had another sister who was married to a white man.  That was where I hid until such a time as the 1994 killings erupted.  But I'm stilling living there.  Later on, my sister commemorated -- or got married officially and left for Europe.  Later on, I was able to get some money to buy the house, but I think that's a minor detail.  
+Q.	Do you know if Mathieu Ngirumpatse had any particular reaction to your letter of resignation?  
+A.	If I -- for the -- to what Kasim told me -- well, I believe you.  I don't -- I don't know whether what he said about him was true, but Turatsinze told me as follows.  He said, my chair (sic) had organised people to come and eliminate me -- to come and kill me, but, personally, I couldn't confirm this.  What I'm saying is that they chased me.  I mean, those people chased me.  And the event that I've just described is a testimony to that.  If Turatsinze could be found, he's the one that should be able to explain how Mathieu gave him that assignment, but Turatsinze called me over the telephone and explained what I've just said.  
+MR. WEBSTER:
+If I could have the assistance of the -- of the registrar, please, to show this to the Court and then to the Defence. 
+(Pages 56 to 61 by Wendy Molnar)
+
+
+
+
+
+
+
+1715H
+MR. WEBSTER: 
+Right as I have just asked that a document that can be found at Tab 123 it's identified as K0265891 could it be displayed to the witness? 
+BY MR. WEBSTER:
+Q.	Mr. Witness, looking at the picture that has been displayed before you, do you recognise it? 
+A.	Yes, this picture.  I do recognise this picture. 
+Q.	What do you recognise it to be? 
+A.	This is a picture of Turatsinze Kasim Jean Pierre who was an MRND driver and it was him who alerted me.  He was a driver for a samurai type of car and it was him that was usually at the office and it was him that Ngirumpatse gave several different assignments mail distribution or the distribution of funds and he was always with the Interahamwe who attended the various rallies.  They used that vehicle that he drove on the occasion of demonstrations.  So it was that Samurai vehicle that he was driving and that he carried the Interahamwe with their ketenge uniforms on the occasion of rallies organised by the party.  Those were the pieces of information I could offer concerning Mr. Touratsinze whose photograph I have before me. 
+Q.	How long had you been acquainted with Mr. Touratsinze in 1994? If you think of 1994, for how long had you known him? 
+A.	Actually I met Touratsinze during the period when the Interahamwe were created.    It was during that period that I began to get acquainted to him so that it was from February 1992.  It was during that period that I began to get close to him. 
+MR. WEBSTER: 
+I would like to have this item marked for identification and moved into evidence. 
+MR. PRESIDENT: 
+Are you applying to move it into evidence now? 
+MR. WEBSTER: 
+Yes. 
+MR. PRESIDENT: 
+Mr. Registry, what's the Exhibit Number? 
+MR. FRY:
+P 6, Your Honour. 
+MR. PRESIDENT: 
+Admitted into evidence.
+(Exhibit No. P. 6 admitted) 
+BY MR. WEBSTER:
+Q.	TUR, the evidence in front of you?  It is in the spelling list that we provided. 
+
+THE ENGLISH INTERPRETER: 
+Fourteen. 
+BY MR. WEBSTER: 
+Q.	Mr. Witness, can you tell us what is understood or what you understand the term "civil defence" to mean? 
+A.	Thank you Prosecutor.  You have just put a question to me as to what I understand civil defence to mean.  Now, the civil defence was set up during the war.  And it was for the purpose of ensuring that the mobilised youths will no longer be called Interahamwe.  So that the various youth wings of the Power factions were brought together and set out as an organization that was called civil defence and that civil defence was therefore set up with the purpose of killing the Tutsi that we heard that it was set up during the war after the death of Habyarimana.  It was a sort of a coalition as the youth of the various political parties and to prove that that this was something prepared, there was even a list of those that were to enroll into the civil defence organisation to kill the Tutsi.  It was under those circumstances that I knew about the civil defence organization.  There was even a time when soldiers collaborated with members of the civil defence that is during the period of genocide.  And those events are probably acknowledged.  As I did say,   members of the civil defence had their specific identity cards.
+Q.	How did you first come to learn about the civil defence? 
+A.	At the beginning, when the interim government was set up, that was when everything started.  In the night of the 8th to the 9th, if my memory serves me right, there was a meeting but it was only in the morning that we knew that that meeting had been held and went throughout the night and information that was being banded into various areas of the town said that the meeting was held at the Kigali camp and that that meeting was convened by Theoneste Bagosora.  It was on the occasion of that meeting that the mobilisation plan for the civil defence members was drawn up.  I probably should leave it at that.  
+Q. 	Can you tell us what month you are talking about please?  You said, you referred to the 8th and 9th, but you didn't tell us what month or what year you were talking about. 
+A.	I had referred to the genocide but I forgot the month and the year.  It was 8th to 9th April 1994.  It is 8th to the 9th of April 1994. 
+Q.	Now, what you have just described is that something that you observed yourself that you heard from other people that you heard in the media?  Give us some idea of how you learned about these things? 
+A.	I couldn't have been an eye-witness to that meeting because I was neither a member of the government nor one of the soldiers who attended that meeting.  But that was information reported over Radio Rwanda and RTLM especially   in terms of the setting up of a government.  And over the radio, it was announced that a programme of the government had just been established was announced and this particular information was broadcast over the various radio stations.  That was an event that was subject of discussion among the people in the various districts, in the various areas of town, people were saying a meeting was held at Camp Kigali and that meeting was called by the 
+	Colonel Theoneste Bagosora and he invited the heads of various parties that went to take part in that meeting following which government was established.  Now, so far as the civil defence is concerned, that was a process that was triggered, it was a progressive process.  I believe I could go into the details when we talk about those particular persons that I saw personally killing people who had membership cards of the civil defence.  Even though they did not complete their drive because soldiers stopped them, but for the first time I saw the membership cards of the civil defence organisation and it read, "Civil Defence", on the card. 
+Q.	Thank you, Mr. Witness.  What I am trying to understand is that your level, at the level of your community, how did you learn about the civil defence and what did you actually see and observe and hear yourself as opposed to what you heard on the radio? 
+A.	Regarding the events that I was a witness to, I saw one Jean Habyalimana who was a major and who was running the operations at Mount Kigali where the soldiers were who were fighting the Inkotanyi who had taken position on Mount Rebero.   And on that occasion, some people came to 
+	Callixte Ngeyindayimana who was a neighbour and who told the family of Callixte to lie down because they were going to be killed by the attackers so that those people that came to kill the members of Callixte Nsabimana were arrested, the guns were taken away from them and when they were searched, they realised that they carried ID cards of the civil defence.  Among them there a young brother of Noel who was an RTLM journalist and that little brother of Noel was called corporal and Jean Habimana was the one that sent the soldiers to arrest those people because he did not support the killings.  So if that major was not in the area in which we lived, there would have been a lot of people dead and at each and every time I had to resort to him.  And those were the circumstances under which I was able to witness events in which civil defence members were involved. 
+Q.	But earlier on, Mr. Witness, you began to talk about the civil defence being another name or giving the Interahamwe another name and about it being a coalition or a grouping of youth wings.  How did you come to learn that and tell us what you mean by that?  Give us more details on that aspect of your previous response? 
+A.	Well, once the civil defence was set-up by the interim government called the Abatabazi because they were the Interahamwe that were already trained Para-militarily they received guns and uniforms and the other members of the youth wing also were given training in the manipulation of firearms and this was organised in the regional stadium.  They were trained by Captain Twagirayezu.  He was a captain in the Rwandan national armed forces so that they trained those other member members of the youth wing that came to collaborate with the other Interahamwe and thus they were able to set up the 
+	civil defence.  It was thus that they were able, at least relatively speaking to come to the area in which I lived.  I cannot give you any information at national level because I didn't go beyond the Kigali; I mean the city or the town of Kigali myself. 
+Q.	But in relation to what you have just described, are these things that you yourself saw or observed or are you recounting something that other folks, or other people have told you? 
+A.	I do not know why you do want to repeat the same question, Mr. Prosecutor?  I have described events that I was an eye-witness to and also events that were reported to me and the events that were reported to me were reported following speeches of the authorities of the time.  I am saying that those speeches were broadcast over Radio Rwanda and RTLM.  For example, the speech made by Sindikubwabo or the speech made by Kambanda.  And there were many other speeches made during that period.  But in a nutshell, they were certain pieces of information that were really to be concerning the interim government, but they were other events that I was an eye-witness to.  All of them or so as they happened in the area in which I was.  I cannot hide the truth and I am not inventing anything here sir. I cannot avoid any questions put to me but I continue to assert that I am saying the truth; I have always said the truth wherever I have been.
+Q.	Right, Mr. Witness, we are about to come to the conclusion of your direct examination, but I have one last set of questions that I would ask you and it concerns your status after the  events of 1994. Were you ever accused of a crime or prosecuted in relation to the events of 1994? 
+A.	Excuse me.  Sorry.  Please pardon me.  What happened is over in the past. Let me try, there is nothing I can change now about what happened.  I remember some things that affected me in 1994, some things that happened after that.  That is the way the world turns.  My brother was killed during the war by Interahamwe.  Other relatives, family members were killed.  Like an older brother during the war I have lived with the people other members of the population, we were able to survive.  But after the war, although I continued to live in Kanyabanda where I was elected head of the Kabuguro cellule because I helped many people survive and because of what I was able to contribute.  I still do not believe that it is necessary to repeat everything that happened during that period.  Later on, there was some misunderstandings between me and another person.  Often I forget to remember those events.  I was arrested for participating in the genocide and that was because there was a misunderstand between myself and a third party. Despite the fact that I tried to fight against what was going on and the fact that I was able to survive the events 1994, despite the fact that some of my family members perished during those events, I remained in my job as a responsable but I resigned in 1995 to go and help orphans whose parents who had been killed during the genocide. 
+Q.	Mr. Witness.  Mr. Witness, Mr.  Witness, hold on once again.  I am going to ask you not to -- 
+JUDGE SHORT: 
+Mr. Witness, please listen to the Prosecutor and read the instructions given to you by the Prosecutor. You are only here to do what he wants.  Okay.  We understand how you feel, but you must confirm with the directions from the Bench as well as the Prosecutor. 
+BY MR. WEBSTER:
+Q.	I understand that you may want to refer to your own file, but I am asking you simply to answer my questions on the basis of what you remember and -- 
+A.	No, I wasn't looking for any documents.  I had photographs of the orphans that I wanted to show you.  I am not looking for one of my files, simply photographs of those orphans who I helped.  Your Honour, I would like to leave the courtroom just for a short while.  Perhaps I can answer these questions at a later stage.  Perhaps we could take a short break so that I can recompose myself. 
+MR. PRESIDENT: 
+Mr. Webster, how long would that take? 
+MR. WEBSTER: 
+	I think I would have five minutes Your Honours and then I would like to-- I am sorry.  
+MR. PRESIDENT: 
+Mr. Witness, we will take-- we will allow you to leave the courtroom for five minutes. 
+MR. WEBSTER: 
+Your Honour, perhaps what we could do if it pleases the Court is reconvening tomorrow morning I would a five minutes to go into a few questions and put in a few exhibits and then I would be complete with my direct examination? 
+MR. PRESIDENT: 
+Any of the exhibits controversial? 
+MR. WEBSTER: 
+I am sorry I -- 
+MR. PRESIDENT: 
+Any of these exhibits controversial? 
+MR. WEBSTER: 
+It would the map that we looked at, the MRND card that we began to looking at this morning which comes from the Rutaganda trial, the second part of it. And I think that is it.  I don't think we can ask the Defence, but I don't think it should be controversial. 
+MR. PRESIDENT: 
+If that is the only very important. We could do it now.  
+
+Yeah, we think we should take the adjournment, but perhaps you might put in the exhibits now.  With that I relieve the witness.  His presence is not necessary for there is no further evidence to be addressed after those three extracts.  Mr. Witness, can you hear me?  
+THE WITNESS:
+I can hear you, Mr. President. 
+MR. PRESIDENT: 
+Well, we are going to allow you to leave the courtroom now and we will take the adjournment until tomorrow morning.  I want to remind you that during this as in any other adjournment, while you are giving testimony that you are not to talk about this case to anybody or your evidence in this. Do you understand that? 
+
+MR. WITNESS:
+I do, Mr. President. 
+MR. PRESIDENT: 
+You may leave the courtroom.  There is no need to come back. 
+THE WITNESS:
+Before I leave the courtroom, I would like to have an opportunity to answer the question that was put to me tomorrow.  This is after being able to gather my composure, I was very emotional and I wasn't able to answer the question right at the time it was put to me. 
+MR. PRESIDENT: 
+When you return to court, the Prosecutor will continue asking you questions.  So he will have a chance to ask you that question again, if he considers it as important to the case.  Can you leave the court now?  
+THE WITNESS:
+Thank you, Mr. President.  
+(Witness is excused)
+MR. PRESIDENT: 
+Yes, Mr. Webster? 
+MR. WEBSTER: 
+Yes, I could begin with the minutes in transcripts from the Karemera trial from the 13th of April 2004 and the transcripts from the Rutaganda trial from 9th of April 1999.  We had agreed that this-- 
+THE ENGLISH INTRPRETER:   
+Could counsel please slow down?
+(Pages 62 to 67 by Petrus Chijarira)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1745H
+(Witness exited courtroom)
+MR. WEBSTER:
+This is an item that we had addressed this morning; they are the minutes and transcripts from the first Karemera trial, from the 13th of April 2004, and transcripts from the Rutaganda trial of the 
+9th of April 1999.  These we had agreed would go in as 1C, I believe.  And it was to be attached to the certified copy of the Interahamwe ID card, the copy that we had gotten from CMS.  So I have clean copies now, and the registry can take possession of those. 
+
+I would like to stay on that same number, which is P. 1, and request that we enter the MRND ID card, as 1. D.  This was located at Tab 50 in our bundle.  Let me identify each page, because there were three pages in Tab 50 and I am only referring to two.  The first page is K0356034, that is the original -- or when I say the original, it is a photocopy of the card.  And the English translation is at K0356035.  And then the other side of the card is K0356037.  And the translation into English is K0356038.  This also is from the Rutaganda trial.  It was initially entered as Prosecution Exhibit 472 in the       Rutaganda trial.  
+
+And both this card and the previous Interahamwe ID card came in as one exhibit in the previous Karemera trial.  So, I would like to have this marked as P. 1D. 
+MR. ROBINSON:
+Yes, Mr. President, this hasn't been the subject of any testimony by the witness, so I think this has to be taken up tomorrow. 
+MR. PRESIDENT:
+Yes, I know.  I do recall that, but is it necessary for testimony to be given for it to be admitted?  I mean, if it is there, you can cross-examine him if there is an issue. 
+MR. ROBINSON: 
+That is true, Your Honour, but we are not really in a position to stipulate to admission of exhibits; we feel there should be a foundation laid for exhibits.  It is not controversial, but I don't really want to set a practice of having documents just coming into evidence through stipulation, because I don't have the authorisation to do that.  So I think it should be done in the regular way. 
+MR. PRESIDENT:
+Mr. Webster, I'm sorry if I misled you. 
+MR. WEBSTER: 
+We can hold that in abeyance -  
+MR. PRESIDENT:
+Yes. 
+
+MR. WEBSTER:
+-- and move on to the aerial photo that the witness did address during his direct exam.  It is on the overhead projector if we can mark that into evidence. 
+MR. PRESIDENT:
+Yes, Mr. Registrar, what exhibit number is that?   
+MR. FRY:
+Seven. 
+MR. PRESIDENT:
+That is Exhibit P. 7, yes. 
+(Exhibit No. P. 7 admitted)
+MR. WEBSTER: 
+I think that is all I have at this time.  If anything else comes up, I will bring it to the Court's attention tomorrow morning.  I don't expect to be longer than ten minutes with the witness, and I will conclude at that time. 
+MR. PRESIDENT:
+Thank you, very much.  
+
+Yes, we will take the adjournment now until tomorrow morning.  
+(Court adjourned at 1747H)
+(Pages 68 to 69 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Donna M. Lewis and Gifty C. Harding, Wendy Molnar, and Petrus Chijarira, 
+Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Donna M. Lewis
+
+
+___________________________	Gifty C. Harding
+
+
+___________________________	Wendy Molnar
+
+
+___________________________	Petrus Chijarira
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 12
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 23
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 32
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+PETRUS CHIJARIRA - ICTR - TRIAL CHAMBER III - page 42
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 49
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 55
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 61
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+PETRUS CHIJARIRA - ICTR - TRIAL CHAMBER III - page 67
+
+	KAREMERA ET AL	THURSDAY, 22 SEPTEMBER 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 69
+
+	KAREMERA ET AL		THURSDAY, 22 SEPTEMBER 2005
+
+ICTR - TRIAL CHAMBER III
+

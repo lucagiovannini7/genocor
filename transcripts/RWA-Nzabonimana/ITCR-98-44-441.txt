@@ -1,0 +1,1438 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+THURSDAY, 29 APRIL 2010
+0902H
+CONTINUED TRIAL
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+		
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dow	
+	Ms. Sunkarie Ballah-Conteh
+	Mr. Takeh Sendze
+	
+For the Accused Édouard Karemera:
+			 Mr. Moussa Félix Sow
+	
+For the Accused Mathieu Ngirumpatse:
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Tanya West
+	Ms. Jean Baigent
+	Ms. Claudette Ask
+	Ms. Deirdre O'Mahony
+		Ms. Kelly Surina
+		Ms. Melissa Hook
+		
+I N D E X
+
+WITNESS
+
+For the Defence:
+ANATOLE NSENGIYUMVA 
+Examination-in-chief by Mr. Nimy (continued)................................................................................................4
+Cross-examination by Mr. Sow.....................................................................................................................11
+Cross-examination by Mr. Weyl....................................................................................................................19
+Cross-examination by Mr. Webster...............................................................................................................20
+Re-examination by Mr. Nimy.........................................................................................................................62
+
+EXHIBITS
+Exhibit No. D. NZ793....................................................................................................................................10
+Exhibit No. D. K140......................................................................................................................................18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody. 
+
+Mr. Registrar, could you open the proceedings, please. 
+MR. HOMETOWU: 
+Thank you, Mr. President. 
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session today, Thursday, the 29th of April 2010, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al., Case No. ICTR-98-44-T. 
+MR. PRESIDENT: 
+Thank you. 
+
+Appearances, please.  Well, the appearances as usual. 
+MR. WEBSTER: 
+Actually, it's not as usual. 
+MR. PRESIDENT: 
+Oh, there --
+MR. WEBSTER: 
+Although he's not here this morning, I just wanted to inform the Court that one of my colleagues is leaving the team.  Saidou N'dow, who's been with us for, I think, at least two or three years now, is moving on to other opportunities.  And he's made a fine contribution to our team.  And I simply wanted to recognise that and inform the Court and the parties that as of tomorrow he will -- he will no longer be with the OTP.  But I want to thank him and simply recognise him at this time. 
+MR. PRESIDENT: 
+Thank you.  The Bench would also express our good wishes to him in the future and recognise his contribution to the case.  I'd be grateful if you could convey that to him. 
+
+Mr. Nimy, the Chamber has been copied to the correspondence concerning scheduling, and we noted that there was a suggestion that this witness may be able to complete his testimony tomorrow.  How much more time do you think you need for his examination-in-chief?  And is that a reasonable option that we should try to explore?  
+MR. NIMY: 
+Mr. President, perhaps I did not understand you.  Did you say that he could finish his testimony tomorrow?  Tomorrow are we sitting?  Tomorrow is Friday. 
+MR. PRESIDENT: 
+In the communication sent by your lead counsel, Peter Robinson, when you were discussing the scheduling, he had described how he saw next week progressing.  And he suggested, I thought, that it may be that Mr. -- that colonel could complete his testimony tomorrow.  And if he didn't, he would have to be -- his cross-examination would have to be concluded on the 17th of May.  
+
+Now, it seems that it would be a preferable option to have his testimony concluded in one go than to have such a big gap between the -- the completion of his cross-examination.  And if that was possible, it's worth exploring sitting tomorrow to -- to do that.  So that's why I'm asking you if -- in terms of your anticipated duration of your cross-examination (sic) and the Prosecutor's cross-examination -- whether that would be a reasonable option. 
+MR. NIMY: 
+Mr. President, I would, first of all, like to inform you that my colleague, Mr. Ogetto, who is counsel for Colonel Nsengiyumva, must leave today -- rather, he will be leaving tomorrow. 
+MR. OGETTO:
+If I may be of assistance, My Lords, I would appreciate if this testimony can be concluded tomorrow because I will not be available on 17th of May, as suggested by my learned friend, Mr. Robinson.  The earliest I can be available for purpose of this testimony would then be in June.  So I would really appreciate if we can (inaudible) all our resources together to conclude this testimony tomorrow.  I will be available tomorrow. 
+MR. PRESIDENT: 
+Thank you, Counsel. 
+MR. NIMY: 
+Thank you, Learned Colleague, for these clarifications.  
+
+Well, in those circumstances and to answer your question, I will need perhaps 40 more minutes.  And my colleague, Mr. Sow, also said that he would also be intervening in these proceedings.  I do not know for how long.  This will enable the Prosecution to do their cross-examination.  
+MR. PRESIDENT: 
+Thank -- thank you, Mr. Nimy.  
+
+Yes.  Yes, Mr. Sow.  
+MR. SOW: 
+Good morning, Mr. President.  Good morning, Your Honours.  I will certainly need about 30 minutes.  I thank you. 
+MR. PRESIDENT: 
+Thank you. 
+Mr. Weyl. 
+MR. WEYL: 
+Mr. President, according to what my colleagues -- depending on the time my colleagues need, I will need -- depending on the time taken by my colleagues, I'll need from zero to ten minutes. 
+MR. PRESIDENT: 
+Thank you, Mr. Weyl.  
+
+Mr. -- Mr. Webster.  
+MR. WEBSTER: 
+Your Honour, it's hard to predict but I will try to -- if -- if we move along, I'll try to finish by the end of the day tomorrow.  And if we don't finish, then we'll simply have to make other arrangements.  But I realise the time constraints and the preference, which I share, for concluding with this witness tomorrow.  But we'll all try to work expeditiously.  And if we can't, we'll just have a spillover.  
+MR. PRESIDENT: 
+Mr. Weyl, have you consulted with your client and would he be willing to attend tomorrow to facilitate this exercise?  
+MR. WEYL: 
+Mr. President, it's actually necessary for me to talk with him.  Please allow me one minute. 
+
+Mr. President, if we don't have to sit for the whole day of tomorrow -- tomorrow is Friday -- I believe that we should be able to finish around 12, 12:30 -- Mr. Ngirumpatse is -- would be able to make -- and willing to make that effort. 
+MR. PRESIDENT: 
+Thank you very much. 
+
+Good morning, Colonel. 
+THE WITNESS:
+Good morning, Mr. President.  Good morning, Your Honours.  Good morning, everyone. 
+MR. PRESIDENT: 
+Well, your testimony will continue this morning.  Mr. Nimy will continue his examination-in-chief.  You have heard exchanges concerning the continuation of your testimony.  And we trust that it will proceed in a manner which will facilitate its completion no later than tomorrow.  You can cooperate by making your answers more concise.  
+
+Yes.  Mr. Nimy, you may proceed. 
+MR. NIMY: 
+Thank you, Mr. President.
+ANATOLE NSENGIYUMVA, 
+EXAMINATION-IN-CHIEF (continued)
+BY MR. NIMY:
+Q.	Good morning, Colonel.  
+A.	Good morning, Counsel. 
+Q.	Colonel, do you remember a ceremony organised for the new recruits of the 42nd battalion in Gisenyi? 
+A.	In Gisenyi there was no ceremony for the recruits of the 42nd battalion because there were no recruits for the 42nd battalion. 
+Q.	Colonel, a witness appearing before this Court alleged or testified before this Chamber that in 1994 before the 6th of April there was a ceremony organised at the headquarters, the headquarters of the 42nd battalion in Gisenyi.  According to that witness, during the same ceremony, weapons were distributed to the new recruits.  What do you say to that? 
+A.	Did you say the period before the 6th of April, Counsel? 
+Q.	Yes, of course.  Yes.  That's what I said.  According to the witness.  
+A.	There was no recruitment before the 6th of April 1994 because at that time no recruitments could be made.  We were in a situation of peace -- or, rather, we were in a situation where we were pursuing peace.  We were waiting for the implementation of the Arusha Accords, and it was said that the -- no more recruitments would be made up till the two forces were recruited.  In Gisenyi there was 
+	UNAMIR -- the UNAMIR team which would not allow any recruitments to be made.  
+
+On the contrary, the reality was that there was recruitment after the 6th of April when the war resumed.  We received orders from the army headquarters to recruit young people to join the army and to train them on the spot because the training centre for recruits in Bugesera was threatened by the RPF, which did not hesitate to occupy it.  So we trained those recruits in Gisenyi, but that was around the second week following the death of the president.  That is when recruitment started.  Otherwise, before the 6th of April, there was no training in Gisenyi. 
+Q.	And after the 6th of April, as you said, recruitments were carried out.  Were any weapons distributed? 
+A.	No weapons could be distributed because we had no weapons to distribute.  At that moment there were about 40 weapons.  And even the recruits who were trained, they used the weapons of their instructors for their training exercises.  And when they completed their training, they were sent to Kigali to the war front.  Certainly, there at the war front they received weapons, but when they left Gisenyi, they left without weapons. 
+Q.	Colonel, did Nzirorera participate in that event? 
+A.	I do not see how he could have participated in it because there was no ceremony.  The recruits were there.  They were trained.  And when the moment came for them to be called to Kigali and receive the cable from the army headquarters asking me to send them -- so I had them board vehicles, and they left.  There was no ceremony.  
+And I do not see the context in which Mr. Nzirorera would have intervened.  He was not a military authority; and, therefore, he could not intervene in that training or in any ceremony whatsoever.  But I would like to point out that there was no ceremony. 
+Q.	Colonel, Witness ZF testified to what may have happened as an activity on the 6th and the 7th of April 1994.  When you received information on the morning of the 7th of April, information regarding the circumstances under which President Habyarimana's plane was shot down, what did you do?  What did you do with the person who brought that information to you, the operator who brought that information to you?  
+A.	I asked the operator to return immediately to his post and to stay there permanently -- that he should not leave his position and that if he ever received any other message he would -- he should give it to one of my colleagues who was there and the colleague was to bring it to me.  I did not want him to miss any message that was going to get into the network.  And that is what he did.  He stayed there on his -- in his post to capture the various messages or to receive the various messages. 
+Q.	Colonel, a witness said that, when you received that message, that message from the operator, you went together with him across the city -- roadblocks.  You saw dead bodies, certain families, and so on.  What do you say to that? 
+A.	That is a made-up story which the Trial Chamber in the Military trial did not believe either, because there was another testimony that the same witness had given earlier, and that same witness had pointed out that I had told him to return to his post and to stay there permanently.  And that was the truth.  
+
+Subsequently, when he came to testify against me, he tried to say that we left together and that we went across town and that at some point of time we passed somewhere and we saw a family that had been massacred.  That evidence was not true.  Other evidence given by even the 
+Prosecution witnesses showed how this family had been killed.  That family was not killed in the circumstances described by ZF.  Otherwise, ZF returned to his post, and he stayed there permanently.  Of course, this could be understood given the situation that prevailed.  
+
+In that circumstance I could not allow myself to go strolling -- moving about with him.  Even in usual circumstances he would not go about strolling because his work required his constant presence.  That is the truth, Counsel. 
+Q.	Thank you very much indeed, Colonel.  To your knowledge, was there a ceremony organised at Muhe -- Muhe is spelt M-U-H-E -- a ceremony related to the RTLM? 
+A.	I remember that allegation.  It was made by Witness XBM.  This witness gave two accounts, the first is that we were going to celebrate the installation of an antenna for the RTLM.  The second account is that we were going to lay the foundation stone.  
+
+And he said that during this alleged ceremony it is Mr. Barayagwiza and Nsengiyumva who took the floor.  You would understand that, if there was a ceremony for the installation of the RTLM antenna, it is not Nsengiyumva who would take the floor at Muhe -- or Mount Muhe.  There would have been other authorities to do that, in particular, authorities of ORINFOR, the telecommunications department, and what have you.  But certainly not me, Nsengiyumva, on that occasion.  
+
+Besides, there would have been other authorities, at least from the préfecture.  But according to this witness, it was Nsengiyumva, Barayagwiza.  And the evidence we adduced showed that that was not possible, and his testimony was dismissed by the Chamber.  So his story was not true.  
+
+I should add that the RTLM antenna had to be installed at Mount Karisimbi -- Karisimbi, K-A-L-I-S-I-M-B-I (sic) -- on Mount Kalisimba (sic) near the antenna of Radio Rwanda, which was there.  That is what I was able to find in the ad hoc documents.  And I sought information from people who were well placed to be aware of what was happening and explained this to me.  Therefore, there was no ceremony for laying the foundation or for installation of an antenna for the RTLM.  That is the situation, Counsel. 
+Q.	Colonel, did you hear of the distribution of 50 firearms on that occasion? 
+A.	That never happened either because the same witness, that is, Witness XBM, alleged that after the ceremony at Mount Muhe we went to a centre called Kabari, K-A-B-A-R-I, in a market, Barayagwiza and myself, and that there we allegedly distributed that quantity of weapons to the population.  That never happened either because the Mount Muhe ceremony never took place.  And this second ceremony didn't take place either because the witness said that we were coming from the ceremony at Mount Muhe.  That ceremony never existed.  That allegation was also dismissed by the Trial Chamber in Military I. 
+Q.	Very well, Colonel.  Colonel, on the 8th of April 1994, do you remember whether on that date -- do you remember what happened on that date at Mudende University?  Does that date ring a bell? 
+A.	Yes.  In Mudende on the 8th of April 1994, the members of the local population, or the local inhabitants, attacked the refugees who had taken refuge at the university.  And there were killings.  We learnt of this.  We heard of this later on. 
+Q.	But you yourself, did you go to Mudende University? 
+A.	I did not go there because I was involved in other activities.  And I only became aware of that event later on in the day because the gendarmerie had gone there.  The gendarmerie went there because they had been alerted.  So I learnt of what happened later on because I was involved in other activities on the said 8th of April 1994. 
+Q.	Colonel, did you order attacks to be launched at university -- at Mudende University? 
+A.	Not at all.  That allegation is one of the elements on the basis of which I was convicted, and it's -- I'm appealing against it.  In any case, I'm going to answer your question.  
+There is no witness -- at least the witness that was accepted and whose testimony formed the basis of my conviction -- that witness never said that I gave orders.  The witness never said that my troops were there.  But it would appear that there were two soldiers -- or, rather, two persons in military uniform who allegedly were seen with the bulk of civilian assailants, and the Chamber, the Trial Chamber, decided that those people were soldiers under my command and that, even if they were not soldiers under my command, they were in military operations in my sector.  
+
+That is the truth regarding this event.  But I never knew those soldiers.  And I gave no order.  That's what I have to say on this event.  
+
+We brought witnesses regarding the event.  The witnesses testified that they did not see soldiers there.  It is only this sole witness, this sole Prosecution witness, who put two witnesses in Mudende.  Otherwise, the attack was launched by the local inhabitants. 
+Q.	Thank you, Colonel.  Colonel, at the end of 1993, do you remember a meeting having taken place at the Hôtel Méridien, a meeting of Interahamwe? 
+A.	At the end of 1993, as far as I know, there was no meeting at the Hôtel Méridien with the Interahamwe.  But I know what you're referring to.  And this is in reference to Witness Serushago's testimony.  And I know that he gave me several versions of this as well.  Counsel, all I can say is that this -- this meeting never took place. 
+Q.	But did you learn that, towards the end of 1993, Nzirorera allegedly chaired a meeting at the Hôtel Méridien involving Interahamwes? 
+A.	That is what I have just been saying, that I learnt of this through Witness Serushago.  In the first version of his narration, he stated that Nzirorera had chaired a meeting of Interahamwe leaders to whom he had given money and promised that he would provide weapons subsequently.  In that narration the meeting was supposed to have held in December 1993.  And according to him, it is on that day, on that very specific day, that I arrived in Gisenyi; whereas, I had been in Gisenyi since June.  
+
+Then he made a second statement in which he said the meeting took place in November and that Nzirorera was in the company of 20 Interahamwe leaders and that he had promised them that he would call me in order to obtain weapons for them.  Then later on he said that Nzirorera came to see me at the camp to ask me for the weapons.  
+
+Then there was a third version, in which he said that I actually attended that meeting.  So the allegation was dismissed by the Trial Chamber in my case because it was not the truth.  I never saw Nzirorera from June to December 1993 in Gisenyi.  I did not see him there. 
+Q.	Colonel, were you at the Bikini Tam-Tam Bar with Nzirorera? 
+A.	I have never been at the Bikini Hotel with Nzirorera at any time whatsoever throughout my tenure in Gisenyi, be it in 1993 or 1994.  Never. 
+Q.	Witness XBM testified before the Trial Chamber that on the 14th of April 1994 you and Nzirorera were at the Bikini Tam-Tam Hotel Bar.  What is your reaction to that, Colonel? 
+A.	Witness XBM's testimony was lengthy against me, during which he narrated a number of stories, a number of meetings, and talked about meetings in which I was involved.  But he never talked about the 14th of April in my case.  He never raised this Bikini issue in my case.  So it is simply a fabrication to the extent that all those allegations were rejected and found not to be credible.  
+
+What I would like to say to indicate that these were all fabrications is that, on the 14th of April 1994, Witness DAS testified that I was at Kigali at a roadblock in Kiyovu neighbourhood.  But I had never been there.  So these are all fabrications.  The allegations of XBM were dismissed in my case. 
+Q.	Colonel, still regarding the testimony of Witness XBM, and just to cross-check, would you tell the Trial Chamber what happened to Bishop Wenceslas Kalibushi in -- of Nyundo?  Kalibushi is K-L -- K-A-L-I-B-U-S-H-I.  Kalibushi.  
+A.	On the 8th of April, in the morning, 1994, attackers went to Nyundo and abducted Monsignor Kalibushi.  They took him to Gisenyi and wanted to kill him.  
+
+By happenstance I ran into a vehicle with some gendarmes in front of the Gisenyi hospital, which was located close to the camp.  I had just left the camp, and I was on my way to the préfectoral office at around 11 a.m.  I saw a civilian vehicle carrying gendarmes and speeding.  And so I stopped, and I realised that they were attempting to stop me too.  So I stopped, and I asked them why they were driving at such high speed.  One of the insurgents, who was a gendarme, told me that "People have just abducted Monsignor Kalibushi from Nyundo, and we're taking him away."  So I asked him who had abducted the bishop, and he said people had come and abducted him and taken him away in a minibus.  
+
+So they told me that they had driven towards Gisenyi town.  I -- there -- there were some soldiers at a roadblock nearby, a roadblock which had been set up since 1990, close to the hospital on the way to the camp.  I asked them, and they told me that they had just seen a minibus drive by at high speed going towards the préfectoral office.  So I followed up, and I asked people whom I met, and they pointed out to me the itinerary -- or the route taken by the minibus.  
+
+I went through that road and down to downtown.  And some people told me they had seen in which direction the minibus was headed.  Others said they hadn't seen it.  But I continued the search.  
+
+And after Majengo -- Majengo is M-A-J-E-N-J -- G-O -- I went through there towards the Gisenyi hospital.  And then I saw the minibus driving towards the Gisenyi cemetery.  So I sped up myself.  And when I got there and alighted from the vehicle, I saw the bishop being taken out of the minibus, which had stopped near a grave that had already been dug at the cemetery.  
+
+So I took the bishop's arm and drew him towards myself.  I pulled him towards me.  And those people pulled him towards themselves as well.  I don't remember what I said.  I shouted.  But they let go, and they were insulting the bishop and insulting me as well.  But I quickly put him into my vehicle and drove off, taking him to a place -- to the Hôtel Méridien and assigned a guard to him for the purposes of his security.  But I could stop there, and that would be what I know about what happened with Monsignor Kalibushi. 
+Q.	Colonel, did you ever discuss this matter with Nzirorera at any time? 
+A.	I have already told you that I met Nzirorera for the first time in Gisenyi in early May.  So I do not know on what occasion I would have discussed such a matter with him.  In fact, I don't even recall whether he put this question to me.  But it might be possible.  I don't remember in any event. 
+Q.	Thank you.  Colonel, I would like us to slightly revisit the situation of prevailing disorder and permanent war which you described as obtaining in Rwanda from 1990 to 1994.  I would like to ask Mr. Issa to show you -- or to give you a document which we have already disclosed to the parties, captioned "Study on the terror -- on terrorism in Rwanda since 1990." 
+MR. NIMY: 
+Mr. Hometowu, please, would you kindly take this document. 
+MR. PRESIDENT: 
+Just as a gentle reminder, you have exhausted 40 minutes from the time you said you would need about 40 minutes. 
+MR. NIMY: 
+Thank you, Mr. President.  Time is flying so fast.  But I am almost there.  I am almost done, Mr. President. 
+BY MR. NIMY:
+Q.	Colonel, do you have the document? 
+A.	Yes.  I have the document before me, Counsel. 
+Q.	You must know that document? 
+A.	Yes, I do.  I know it. 
+Q.	Good.  
+A.	It is a report that was submitted by the gendarmerie, by the Rwandan gendarmerie in collaboration with French gendarmes who had developed a report on terrorism in Rwanda, particularly in respect of mines and other explosives.  And that was in relation to 1991 running up to the time when the report was actually submitted. 
+Q.	Now, Colonel, I'm not going to ask you to read the full report and all the details in it.  It is a very specific report.  But I -- I simply want to ask you to read the conclusion of that report.  And that would be on the page before the one on which you have a table.  
+A.	I am there, Counsel. 
+Q.	Now, Colonel, would you kindly read that -- that brief conclusion to the Court.  
+A.	"Conclusion:  This study demonstrates the difficulty of fighting this kind of terrorism.  Those who plant mines are active in different areas.  Some of them are combatants while others are simply paid for that specific mission.  Such a strict set-up does often prohibit the planting of such destabilising devices.  Therefore, it would be timely for diplomatic sources to be used so that the gendarmerie can obtain the extradition of those persons who are in Tanzania and elsewhere and also ensure that those devices are seized or collected.  The study has determined that the devices were sold by Libyan manufacturers and that the devices were found with the RPF, in brackets, the Mururu attack and that they are also available in Zaire and Tanzania before they make their way to Rwanda." 
+Q.	Now, Colonel, briefly tell the Court your reaction to this point.  
+A.	This conclusion confirms information that was available to us which we published through a press release from the Rwandan armed forces on the 1st of December 1991.  At that time we had discovered that the RPF had introduced a new strategy whereby it resorted to terrorism through the planting of mines, assassinations, armed robbery, and other such similar activities.  We provided these details in that release.  
+
+Unfortunately, some persons did not take that release seriously and even attempted to discredit the information.  But this was subsequently confirmed, particularly by this report and by the testimonies of persons, including former members of the RPF, such as Mr. Ruzibiza and other test -- others who testified before this Trial Chamber.  Therefore, the RPF caused a lot of damage in this area.  That is all I can say in reaction to this point, Counsel. 
+Q.	Thank you, Colonel.  
+MR. NIMY: 
+Mr. President, I would like to ask you to please admit into evidence this document under D. NZ793.  
+MR. PRESIDENT: 
+Admitted.
+(Exhibit No. D. NZ793 admitted) 
+MR. NIMY: 
+Thank you, Mr. President.  
+BY MR. NIMY:
+Q.	Now, Colonel, my last question for you:  After going through all what we have discussed since yesterday, from 1990 to 1994, were you involved in a joint criminal enterprise with the accused persons here present, particularly with Nzirorera? 
+A.	That has never been the case, Counsel.  Some witnesses have attempted to establish a link between Nzirorera and myself and with others.  But those links were deemed not to be credible.  
+Now, I want to refer to the Military II (sic) judgement in which the Prosecution had submitted on 
+joint criminal enterprise.  But that particular count was rejected.  So there was no such 
+joint criminal enterprise involving me in -- during that period.  And this was even dismissed in my own case.  So that's my answer. 
+Q.	Thank you, Colonel.  
+MR. NIMY: 
+Mr. President, I'm done with examination-in-chief.  And, once again, I -- I -- I apologise for taking up more time than I had initially indicated.  Thank you.  
+MR. PRESIDENT: 
+Thank -- thank you, Mr. Nimy. 
+
+Mr. Witness, you're going to have to respond to counsel for Édouard Karemera now, Mr. Sow, who has some questions for you. 
+THE WITNESS:
+I am ready, Mr. President.
+CROSS-EXAMINATION 
+BY MR. SOW:
+Q.	Good morning, Witness.  My name is Moussa Félix Sow, co-counsel for Édouard Karemera.  
+A.	Good morning, Counsel.  I know you. 
+Q.	Thank you.  Now, Mr. Witness, can you confirm that in June 1994 you were indeed in Gisenyi.  
+A.	That is correct.  In June 1994 I was in Gisenyi. 
+Q.	Did you receive during that period a letter addressed to you on the 18th of June 1994 by the minister of the interior, Édouard Karemera? 
+A.	Yes.  I received that letter of the 18th of June 1994.  I received the letter on the 19th of June 1994. 
+Q.	Please tell the Court the subject of that letter.  
+A.	The subject of the letter was that government was asking me, Anatole Nsengiyumva, commander of the Gisenyi operational sector to send troops to Kibuye préfecture to a location known as Bisesero in order to assist the Kibuye gendarmerie and the local population within the context of a -- an operation to mop out, so to speak, the RPF which was present in that area.  That in broad strokes is the content of the letter, Counsel.
+Q.	Thank you.  
+A.	Let me be more specific and state that the letter had indicated that the operation should be completed at the latest on the 20th of June, that is, the day after I received the said letter. 
+Q.	Did you execute the order you received from government through that letter? 
+A.	I never executed that order or implemented that order, Counsel.  And unfortunately, this was held against me and I was convicted for -- for it.  But I have lodged an appeal particularly on that ground -- on that particular ground. 
+Q.	When Counsel Nimy was examining you, he asked you whether you knew one 
+	Lieutenant Bizumuremyi.  Did you know him? 
+A.	Yes, I know him.  And I already testified that he came to Gisenyi in March 1994.  He was transferred to Gisenyi in March 1994.  He is a former gendarme. 
+Q.	Could you please tell the Court whether this person was under your orders.  
+A.	Bizumuremyi worked at the Gisenyi operational sector.  He was the deputy to my S2, S3 officer. 
+Q.	Colonel, do you know one Obed Ruzindana from Kibuye? 
+A.	Obed Ruzindana, when I was transferred to the UNDF on the 23rd of January 1997, as I came from Cameroon, I met him there.  He had been arrested, I believe, in Kenya and taken to the UNDF.  That was the first time I was meeting him.  He was tried before me, and he is now in Mali.  
+Q.	Thank you, Mr. Witness.  A Prosecution witness has testified before this Trial Chamber that he led militia from Gisenyi to Bisesero who had been sent there by Lieutenant Ruzimuremye -- Bizumuremyi.  And according to that witness, this was pursuant to instructions from Obed Ruzindana.  I would like to ask you, Witness, whether you are aware of this story.  
+A.	No, I am not.  And this is the first time I hear about that story.  What I know is that Ruzindana was a native of Kibuye, according to what I learnt, and he was from Mugonero in Kibuye.  So I do not know whether he was in Gisenyi during that period.  This is the first time that I hear mention of such a story. 
+Q.	Colonel, do you know Rubayita, Philbert from Gisenyi?  Rubayita is spelt R-U-B-A-Y-I-T-A.  
+A.	No, I do not know that person, Counsel. 
+Q.	Do you know whether that person was called as a witness in your case? 
+A.	No.  The persons who were called in my case and who appeared -- or who were not -- or who finally did not appear on the Prosecutor's final list -- among those people I do not know the name of Rubayita.  
+Q.	Now, thank you, Colonel.  I am going to put a few documents -- or a few excerpts of your document to you.  
+MR. SOW: 
+And I would like to ask Mr. Issa to assist in this exercise and make all copies of that document available to all parties and to the Bench.  
+BY MR. SOW:
+Q.	Witness, you have before you an excerpt of the judgement that was delivered in your case.  I will now request you to go to paragraph 1822.  
+A.	Yes, Counsel.  I am on that paragraph. 
+Q.	Witness, I would ask for your assistance to read this paragraph.  Please read it slowly to enable everyone to follow and, in particular, for the interpreters to be able to do their job properly.  If you agree with me, you may start reading paragraph 1822 of the judgement.  
+A.	I start.  "Nsengiyumva acknowledged that he received this letter even though he stated that he never sent soldiers", soldiers in inverted commas -- "that he sent (sic) soldiers to carry out successfully the operation.  He also pointed out that he received his orders only from the army chief of staff."  Full stop.  
+"Karemera stated that Nsengiyumva refused to execute the order that had been given to him and that no reinforcement was sent.  The Chamber, nevertheless, notes that it is not convinced by the explanations provided.  The Chamber points out that both of them have a clear interest in disassociating themselves from the Kibuye operation.  Furthermore, their testimony is clearly contradicted by Karemera's letter, a letter sent on 20 June to Préfet Kayishema.  The letter was to inform the préfet of the decision that had been taken to send reinforcements to Kibuye.  
+
+"The Chamber in particular notes that the letter in question refers to the letter written by the minister of defence dated 20th June and confirming earlier instructions given by Karemera.  In the relevant letter instructions were given to Kayishema for him to rigorously supervise the clean-up or mopping-up operation.  And his attention is drawn to the fact that the clean-up operation has a dimension to assist the people of Gishyita, Gisovu, and Gitesi.  
+
+"In the opinion of the Chamber, it emerges from this correspondence that during the second half of 1991 (sic) the government of Rwanda, the Rwandan army, and civilian militias, acted in a coordinated fashion in the context of a military operation carried out in Kibuye préfecture." 
+Q.	Witness, I thank you.  As you can see, there is a cross-reference note from "1976" just after Kibuye préfecture.  Please read that cross-reference note which is "1976".  
+A.	I begin.  "Kambanda's statement who during -- at examination carried out by investigators of the OTP stated that he had asked Minister Karemera to contact Nsengiyumva to request an intervention in Bisesero but that colonel -- the colonel never intervened in that area seems to confirm Nsengiyumva's assertion.  However, in view of the evidence adduced -- or presented above, this statement does not leave any doubt regarding Nsengiyumva's implication or involvement.  See Nsengiyumva 
+	pièce à conviction point 220B, in parenthesis, transcript of an examination of Jean Kambanda dated 15th January 1998, page K0048712 -- 712." 
+Q.	Thank you, Colonel.  After you read that paragraph, I would like to know what comments you have to make on it, if any.  
+A.	My comment is that what I told the Chamber at that time was the truth, because, when Karemera sent me this letter, when I read the content of the letter, I was surprised.  I was surprised because the 
+	ops commander -- that's operational sector commander -- is directly answerable to the chief of staff and not to the government or a minister.  I could not send my troops -- I could have not have sent my troops to Kibuye because, first of all, Kibuye was not in my sector.  
+
+And furthermore, it's only the chief of staff who could have given me orders to send troops outside my sector.  That is how it worked.  I could have not have sent my troops there, because the chief of staff could, for example, ask me to send one or two companies to another sector that was threatened.  In that -- such a case -- I could not have told him that I had sent my troops to Bisesero on the instructions of the government.  That would not have been possible.  
+
+Kambanda, who was prime minister and who had given orders to Karemera apparently to come -- or, rather, to send me a letter requesting me to send troops -- Kambanda was questioned on this by the investigators from the Prosecution office.  And they -- I never met him.  And even today I have not met him, except when he was testifying in our trial.  And even in that case, I did not speak with him.  
+
+So what he said is that I never sent people there.  He specified that Karemera indeed sent me the letter but that it was the government which had asked him to proceed in that manner but that I did not carry out that order and that the reinforcement requested was not provided.  I confirm that indeed I did not send anyone to Bisesero.  That is the chief of staff who could confirm that.  I could not have sent troops to Bisesero without the authorisation -- without the order of the chief of staff.  
+
+Lastly, a change was made.  I was said -- it was said that I sent militia -- you would understand that, if I had to send militia, Karemera would not have contacted me for militias to be sent.  I was not the appropriate person to send militia.  The people referred to as militia had their institutions which I was not familiar with.  They had their leaders, and Nsengiyumva was not one of their leaders.  
+
+I think that is the comment I would like to make on this point.  If you have other clarifications you would like to have, I am available to provide them. 
+Q.	I thank you, Colonel.  Colonel, since we are talking about Kayishema, still in connection with this matter, did you ever contact him?  Did you ever contact Kayishema? 
+A.	You mean to say when he was still in Kibuye, Counsel?  
+Q.	Yes.  In connection with this letter which is mentioned in the judgement, a letter referring to Édouard Karemera's letter addressed to Préfet Kayishema, did you have the opportunity of talking with Kayishema? 
+A.	No.  I did not speak with Kayishema.  I would like to make the following point clear.  After receiving the letter in question, I did not move at all.  But the following day or two days thereafter, the minister of defence came by.  He came to see me.  And I told him that I had received a letter, a letter which specified that the government was requesting me to send troops to Bisesero.  I told him that I did not carry out those orders.  And that is not a refusal to obey an order but that the procedure was not proper.  
+
+I said that, if the government wanted me to send troops there, the government should go through the chief of staff and the chief of staff would give me the appropriate orders.  I explained to the minister that normally, if I had to intervene, I should know the strength of the enemy there.  If it is a battalion, I am not going to send a company.  I must send at least two battalions to flush out the enemy.  I do not have the troops.  It is the chief of staff who would provide me reinforcements if he decides to send me to Bisesero.  And it is he who will give me those instructions because he is the one who has information on the positions of the RPF and on the attitude of the enemy forces in various locations.  The minister told me, "Well, don't bother yourself.  I'm going to take care of the matter." 
+
+In this paragraph I see that this was said when Karemera testified in my trial.  It is said that the minister of defence confirmed in a letter the instructions which had been given to me.  But I remember that, when this was discussed during Karemera's evidence, reference was made to a cable or a telegram, not a letter.  
+
+I neither saw a letter nor the minister's telegram which confirmed instructions to send troops to Bisesero.  I did not see any such letter or cable.  It was not even tendered before the Chamber when this letter was being canvassed during Karemera's testimony during my trial.  Therefore, if the minister confirmed this, I am not aware of it.  
+
+It was said that he had sent or given orders to the army chief of staff and the gendarmerie chief of staff.  I did not see those orders.  The chief of staff did not give me any orders to send troops to Bisesero.  And I did not, therefore, send them.  So this is what I can add, Counsel. 
+Q.	I thank you, Colonel.  You didn't speak to Kayishema, but did Kayishema seek to speak to you? 
+A.	No.  I did not even know Kayishema.  I saw him for the first time at the UNDF.  That was the first time I saw him with my own eyes, when I saw Kayishema, the former préfet of Kibuye.  He never contacted me.  I should also add that I never saw anywhere where Kayishema stated that he received the reinforcements he had requested. 
+Q.	I thank you.  I will now ask you to read the last paragraph dealing -- or, rather, paragraph 1823.  This is the paragraph that comes just after the one you read.  Since it is rather long, I would suggest that you go to page 647 where you could start -- let me count -- where you could start reading from line 7 -- line 6, rather, where it is stated as follows:  "It follows from KJ's testimony".  And you read the rest.  
+A.	I start.  "It follows from KJ's testimony that Niyitegeka, the minister of information, had welcomed the assailants and had emphasised the fact that they had been sent by the -- the ministry of the interior and the ministry of defence.  Witness KJ subsequently learnt that the assailants had participated in the attacks perpetrated against the Tutsi in Bisesero, alongside gendarmes.  
+
+"In the opinion of the Trial Chamber, the testimony of KJ corroborates the assertion which establishes that, in order to obey instructions from the government, Nsengiyumva sent to Kibuye préfecture militiamen whose mission was to participate in the attacks that were perpetrated in Bisesero.  The Chamber was not provided any direct evidence on the exact nature of the crimes committed by militiamen coming from Gisenyi.  Nevertheless, the Chamber is convinced that the presence of additional forces on the scene contributed in a substantial manner to the perpetration of massacres of Tutsi civilians in Bisesero -- on Bisesero hill." 
+Q.	I thank you, Colonel.  Can you now tell the Court what comments are called for by the passage you just read.  
+A.	Thank you, Counsel.  First of all, Witness KJ, this witness, KJ was not -- KJ was not supposed to testify against me, and he didn't testify against me.  He said that he was in Kibuye near the préfecture and that he saw Interahamwe, Interahamwe who were coming from Gisenyi and others who were coming from Cyangugu.
+(Pages 1 to 16 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1015H 
+THE WITNESS (continued):  
+He approached them, and those who were in Gisenyi préfecture told him that they were coming from Ramba hill (sic), Kayove and Giciye.  And those who came from Cyangugu told him that they were coming from Bugarama hill (sic) and that they had been sent by Mr. Yussuf Munyakazi -- that is, the militiamen from Cyangugu who had been sent by Yussuf Munyakazi.  They added that the said Interahamwe were armed with traditional weapons; in other words, clubs, machetes and weapons of that type.  
+
+Therefore, Witness KJ points out that the militiamen from Gisenyi were people who had come from Kayove, Ramba and Giciye hills.  The first -- or communes, rather -- the two first communes share a border with Gisenyi and the others are in Bushiru about -- or more than 50 kilometres from Gisenyi town.  
+
+On the contrary, the other witnesses who testified to the events of Bisesero, if I begin with Serushago, pointed out that those who went there were people that he himself had called in Gisenyi town and from Nyamyumba commune.  He stated that it was only on one occasion that the Interahamwe went.  
+
+ABQ, another witness, testified that it was recruits that I sent to Kigali and that, on their way, they changed their direction and went to Kibuye and that, when he was in Zaire, he learnt that the people went to Bisesero.  He did not specify the name of the person who told him that.  This witness, Serushago, and ABQ specified that, before putting in vehicles those who had to go to Bisesero, they were given -- these people were given weapons, weapons that came from South Africa -- Kalashnikovs, new Kalashnikovs.  
+
+Now, we see that those who were in Kibuye were people who had traditional weapons, but it is said that KJ corroborates this -- corroborates Serushago and the other person.  
+
+I did not send anyone to Bisesero.  And as it is even pointed out in this paragraph, no one saw people coming from -- people who came from Gisenyi in Bisesero.  No one saw such persons.  
+
+I should also add that if I had to send people to Bisesero, I would have told them that -- and this is in reference to ABQ, who said that I sent them to Kigali and that, on their way, they changed direction and went to Kibuye.  This is not possible.  You cannot lie to people who are being sent to a front.  You cannot tell them that you're -- they're going to one direction, even though they would be going to a different direction.  That is the situation.  
+
+BY MR. SOW:
+Q.	Thank you, Colonel.  
+MR. SOW:
+Mr. President, I can see you smiling, but I have just concluded my examination of this witness.  I believe I've honoured my commitment; namely, to finish within the time I had indicated.  I thought I had said I would take 30 minutes.  It's not yet 30 minutes.  
+
+Mr. President, I would simply request that this excerpt be accepted, an excerpt of this judgement which was delivered in 2008.  It should be accepted as evidence, and I would request Mr. Issa to please give us the reference of this exhibit.  After that, I will be done.  
+BY MR. SOW:
+Q.	Witness, I thank you for having kindly accepted to answer my questions.  
+A.	Thank you, Counsel.
+MS. MJUI:
+The document will be D. K140.  1-4-0.  Thank you, Your Honour.
+MR. PRESIDENT:
+Admitted in evidence.  
+(Exhibit No. D. K140 admitted)
+MR. PRESIDENT:
+Mr. Webster. 
+MR. WEBSTER:
+Just one thing in relation to this document, of course, we have no objection to it being admitted in evidence, but I'd to like to bring to everyone's attention that the portion that was read into the record, from paragraph 1822, talks about attacks in Bisesero in the second half of June 1991.  And I'm sure that Mr. Sow will agree with me that this must be a typographical error, and the Chamber must have been making a fact finding about 1994, the second week of June in 1994.  
+
+But with that qualification, we have no objection to the admission.  
+MR. PRESIDENT:
+Thank you, Mr. Webster.  
+
+Thank you, Mr. Sow.  
+MR. SOW:
+I agree, Mr. President.  
+MR. PRESIDENT:
+Thank you.  
+
+Colonel, you now have to respond to Mr. Weyl, counsel representing Mathieu Ngirumpatse. 
+CROSS-EXAMINATION 
+BY MR. WEYL:
+Q.	Good morning, Colonel.  My name is Frédéric Weyl, co-counsel for Matheiu Ngirumpatse.  I would like to ask you very short -- a few short questions.  Colonel, do you know Mathieu Ngirumpatse? 
+A.	Yes, I know Mr. Mathieu Ngirumpatse.  
+Q.	Colonel, did you ever meet him after the 6th of April 1994 in Gisenyi? 
+A.	Yes.  After the 6th of April 1994, I met or saw Mr. Ngirumpatse in Gisenyi.  
+Q.	Did you meet him in the ops camp? 
+A.	No.  To my knowledge, Mr. Mathieu Ngirumpatse never came to the military camp in Gisenyi.  
+Q.	Therefore, you never had the opportunity of talking with him in your office, in the ops camp in Gisenyi after the 6th of April 1994? 
+A.	No.  Since he never came there, as far as I know, I never saw him there.  I never talked with him in my office in the military camp.  I used to see Ngirumpatse pass by -- come to the Méridien Hotel.  It was only at the Méridien Hotel that I saw him.  
+Q.	Neither did you talk with him at the officers' mess in Gisenyi military camp.  I think this follows from your previous answer, but I would like you to confirm that. 
+A.	I confirm that he never entered the officers' mess.  In fact, this is a non-commissioned officers' mess because, as I explained yesterday, there was no officers' mess.  And since he never entered the camp, he never entered the non-commissioned -- commissioned officers' mess.  He didn't enter in the -- on the tarmac or the internal courtyard of the military camp.  The tarmac is inside the camp.  If you are on the tarmac, you are in the camp.  So he never entered the camp, so he was never on the tarmac -- on the parade ground.  
+MR. PRESIDENT:
+The court reporters are requesting that you speak a bit slower so they can record everything you're saying.  
+MR. WEYL:
+Mr. President, I would like to assure -- I would like to assure the court reporters that I don't have to slow down because I have no questions for this witness.  
+BY MR. WEYL:
+Q.	Witness, I have no further questions for you.  
+MR. PRESIDENT:
+Thank you, Mr. Weyl.  
+
+Well, we will take the mid-morning recess now.  
+
+Mr. Webster.  
+MR. WEBSTER:
+Yes.  Before we do, I did send some documents to be circulated, and those were circulated by email around 15 minutes ago.  But I also asked Mr. Issa to assist by making copies, and I think he's done so.  
+
+So maybe we could have those distributed now, and then we could start the questioning when we resume. 
+MR. PRESIDENT:
+Thank you.  
+
+After the mid-morning recess, Witness, the Prosecutor will cross-examine you.  
+
+We will have our short break now.  
+(Court recessed from 1029H to 1056H) 
+MR. SOW:
+Mr. President, I just wanted to inform you that Mr. Édouard Karemera has gone to the clinic to see Dr. Epée.  Mr. Karemera is not here, but we can continue, of course, with your leave.  
+MR. PRESIDENT:
+Thank you, Mr. Sow.  
+
+Leave is granted. 
+CROSS-EXAMINATION 
+BY MR. WEBSTER:
+Q.	Good morning to you, Mr. Nsengiyumva.  
+A.	Good morning, Counsel for the Prosecution.  
+Q.	I don't think I have to introduce myself to you because we know each other from other proceedings.  But I'll -- to be polite, I'll do so nonetheless.  My name is Don Webster, and I'll be asking you questions on behalf of the Prosecution today.  
+A.	Thank you, Counsel.  
+Q.	Let me begin by going back to the brief discussion you had with the Chamber when we started the proceedings this morning.  The Chamber has given me a finite period of time in which to ask questions of you, and going by what the registry has told me, that time would extend into tomorrow if I used all of it.  But I don't think I would need to use all of my time if we're very efficient in how we proceed this morning and this afternoon.  
+
+And I have an outline of issues that I'd like to cover with you and they're really only three or four, and if we're very efficient, I think we can finish by the end of the day.  But I need your assistance for that.  
+
+So if you would listen carefully to my questions, answer the question as directly as possible and allow me to ask follow-up questions rather than trying to tell the whole story at the beginning, I think we'll move through the material very efficiently, and you will not be deprived of an opportunity to explain yourself.  I'm not trying to stop you from fully answering a question, but I'd like us to be efficient in the way that we do that.  
+
+Do you understand what I'm trying to suggest to you, Mr. Nsengiyumva? 
+A.	Yes, I've understood you very well, Counsel.  
+Q.	All right.  So thank you very much, and we'll get started.  First, I'd like to go back to an exchange that you had with Mr. Nimy in direct examination which I found a bit curious.  
+
+I think in response to his question about where killings of Tutsi was most extensive, it seemed to me that you were trying to infer that the genocide was more extensive in Butare, Gikongoro and Kibuye, which meant that the opposition parties, rather than the MRND, were more directly responsible for those killings.  
+
+Did I misunderstand you, or did I draw an incorrect inference from your answer in response with Mr. Nimy -- or to Mr. Nimy yesterday? 
+A.	I have not clearly understood your question.  You talked about MRND or something to that effect.  I did not understand you clearly.  Please, could you clarify your question.  
+Q.	Yes.  Yesterday, Mr. Nimy asked you where killings of Tutsi was most numerous and you replied Butare, Gikongoro and Kibuye.  And then he asked you, were those areas where the MRND party was dominant.  And you replied, no, those were areas where the opposition parties were dominant.  
+
+And there were two or three questions and answers on that subject, and I got the impression from your responses that you were trying to infer that the areas where killings of Tutsi was most extensive were in areas controlled by the opposition parties, which would lead one to infer that the MRND was not as directly involved in the killings.  Did I make the correct inference, or would you rather clarify that for us now? 
+A.	No.  Mr. Nimy asked me questions.  I answered the questions.  I do not know why he was asking me the questions.  I simply said what I knew.  Perhaps Mr. Nimy knows why he asked me the questions.  As for me, I merely answered the questions put to me.  
+Q.	In any case, we can both agree that there were simply more Tutsi in the south of Rwanda than there were in the north -- in the north-west of Rwanda where the MRND was clearly dominant.  Right?  
+
+When you think about the numbers of Tutsi and the way they were distributed across the country -- as a matter of fact, it's known that Tutsis were more numerous in Butare and in Kibuye than they were in places like Ruhengeri.  
+A.	Yes, Counsel, you are right.  When I look at the various censuses of the population, I realised that there were more Tutsis in the south than in the north.  
+Q.	So if higher numbers of Tutsis were killed in the south, it's probably only because there were just more of them to kill.  As cynical as that sounds, that's true, isn't it? 
+A.	Yes, you are right.  Where there were more Tutsis who died, it is because they were more numerous there than in other areas, I believe.  
+Q.	And when you take Mukingo commune in Ruhengeri as an example, relative to the number of killings nationwide, there were probably relatively few killings in Mukingo -- or in Busogo secteur, in particular, where probably only around 700 Tutsis were killed in that particular secteur.  
+
+But in relation to Busogo secteur, the killing of 700 Tutsis was killing 97 per cent of the Tutsi population at the time.  So in relation to the 75 per cent of the Tutsi population that was eliminated in other regions of Rwanda, I'm sure you'd agree with me that the killing was probably much more devastating in the north where the MRND was dominant, since almost the entire Tutsi population was exterminated, than in places like Bisesero, where they were able to run up into the hilltops and hide.  
+A.	I do not know what happened in Mukingo.  I do not know how many people died there.  Therefore, I cannot answer your -- the question to your satisfaction.  
+Q.	Does what I have suggested to you sound unreasonable based on your knowledge of your own country? 
+A.	The knowledge I had of the country, the knowledge from a demographic standpoint is that, in the north, there were fewer Tutsis than in the north (sic) -- particularly in Gisenyi and Ruhengeri préfectures, there were very few Tutsis, particularly in Ruhengeri, but how many of them died in every préfecture or commune, I do not know.  
+Q.	I think we had a -- I'm not sure if it's a mistranslation, but something was not quite correct in the last response I heard.  
+
+You -- just to go back to that, Mr. Nsengiyumva, you're agreeing with me that in the north there were relatively few Tutsi.  And in the south, relatively there were more Tutsi.  I believe that's what you said, but I just want to make sure we're clear on the record.  
+A.	That's correct.  And this is reflected by the various population censuses conducted in Rwanda.  
+Q.	And then you also mentioned Gisenyi in particular, which is where you were stationed in 1994.  In Gisenyi, there really were very few Tutsis in relation to the entire population of the préfecture.  
+A.	Are you talking about Gisenyi town, Counsel? 
+Q.	Well, you can distinguish it for us.  Why don't you make your comment or response in relation to Gisenyi town, and then in relation to the entire préfecture of Gisenyi.  
+A.	I do not know how many people are there in each commune, but I know that, on the whole, the Gisenyi préfecture did not have many Tutsis.  For the entire préfecture, for example, during the 1991 census, I remember that there were about 21,000 and slightly more Tutsis.  In any case, less than 22,000 Tutsis at that time, that is, in 1991.  But I do not know how many Tutsis were there in each commune.  
+Q.	And you'll agree with me that when you think about the geography of Gisenyi, it bordered the Congo on one side and Ruhengeri on the other; right? 
+A.	That's correct.  There is Congo to the west and north-west and Ruhengeri to the east.  
+Q.	And Kibuye to the south.  
+A.	That's correct.  
+Q.	And in 1994, the Congo, or Zaire as it was known, was a very strong ally of the Habyarimana government.  It would not have been a haven for the RPF.  We can agree on that as well? 
+A.	Congo or Zaire, as it was then called, was a friendly country to Rwanda.  I cannot say that it was powerful, but it is also a country which was not well organised.  And the presence of the RPF could have gone unnoticed -- that's the presence of the RPF in that country could have gone unnoticed.  
+Q.	Well, I tend to doubt that, Mr. Nsengiyumva, but you as a military man should know better than me, so we'll just rely on your response.  But in any case, you agree with me that Gisenyi, and particularly the town of Gisenyi, was far removed from the battle front with the RPF after the war started on the 7th of April?  
+A.	"Far" is relative because Ruhengeri was near or next to Gisenyi and the RPF was fighting in Ruhengeri.  It is so near that I was compelled on the orders of the headquarters to dispatch my troops for them to go and fight there and contain the RPF in Ruhengeri so that the RPF should not get to Ruhengeri directly.  So the front -- the war front was not as far as such.  
+Q.	Well, I wouldn't deny that there may have been RPF troops in Ruhengeri, but it was all the way on the other side of the Ruhengeri préfecture from its border with Gisenyi.  It would have been on the eastern side of Ruhengeri and in the north, the northern tip of Ruhengeri.  So the portion of 
+Ruhengeri préfecture that abuts Gisenyi was not a battle front.  You may have sent troops, but they would've gone all the way to the other side of Ruhengeri préfecture from where you were in Gisenyi.  Isn't that the case? 
+A.	Yes.  The troops in Gisenyi went to fight in Ruhengeri at the war front.  The war front was not far away from Ruhengeri town.  
+Q.	And with respect to the killings of Tutsi in Gisenyi, and particularly in Gisenyi town, it wasn't just the local Tutsi population that was killed, but there were Tutsi who were fleeing other areas of Rwanda who were trying to get across the border to the Congo to flee Rwanda.  But those who were trying to get out of the country were often killed right at the border with the Congo.  Isn't that so? 
+A.	I cannot know that.  I know that there are people who were killed, but I cannot tell you whether they included people who were fleeing.  But I admit that people were killed in Gisenyi town.  As for those who were fleeing, I do not know exactly because I do not have a census of the people who died.  
+Q.	You were the most senior military officer in Gisenyi from April to July of 1994, and you're going to tell this Court that you had no sense of whether Tutsi fleeing other parts of Rwanda trying to get to the Congo through Gisenyi were also killed in Gisenyi? 
+A.	No.  I cannot say that Tutsis who were fleeing were killed.  Certainly, some of the Tutsis who were fleeing were killed.  But what I'm telling you is that I do not know how many of them and exactly who was killed.  However, I cannot say that fleeing -- some fleeing Tutsis were not killed.  
+Q.	You know that there was a major roadblock -- or a very notorious roadblock right on the corniche, which is that main road along the waterfront where you have the immigration booth in order to get through to Goma.  You're familiar with that notorious roadblock which, I believe, was even called La Corniche roadblock.  
+A.	Yes, I know the roadblock at the corniche, the corniche roadblock which was located opposite the place where Serushago lived.  I became aware that he lived there when I was here.  I didn't know at the time that he lived there.  But he was at that roadblock curiously.  And contrary to what people say, not many people were killed at that roadblock.  In fact, no one was even killed there.  Perhaps they abducted people, a few people there, not many people.  I know one case.  But people were not killed at that roadblock.  Even Serushago testified before this Court, and in his testimony he did not say that he killed people at that roadblock.  
+Q.	Thank you.  That may be the case.  I'm not disputing that portion of your evidence.  I don't -- to me, it's reasonable to -- to expect that people wouldn't be killed right on the main thoroughfare at the customs booth with Zaire.  
+
+But Serushago himself has testified that people would be stopped there.  That was the last roadblock they had to cross.  And those who hadn't been killed at all the other roadblocks would then be removed to a side street that goes up the hill that I'm very familiar with because I've visited the location.  It's a dirt road -- a dirt road that adjoins the main tarmac road right before that crossing -- border crossing.  And that's where people would be taken to be killed or taken to commune rouge.  Isn't that something you knew about back in April of 1994?  
+
+Commune rouge is the cemetery or the mass grave where people would be taken and killed, which you should be familiar with even if you don't accept responsibility for the killings that went on there.
+A.	As regards that notorious commune rouge, I would like to tell you that, whilst we were in Rwanda, reference -- or nobody talked about commune rouge.  I heard about the said commune rouge here.  
+On the contrary, I know that, at some point in time, killers lied to their victims, telling them that they were taking them to the commune.  They said they were taking them to the commune, quote/unquote, in order to resolve some problems and clarify their situation.  
+
+Thus the victims accepted, believing that they were going to the commune office so -- even though they were going to be killed.  
+
+We came to be aware of this in the final analysis.  And I even denounced this during a meeting with the préfet.  I warned the population that, if people came and told them that they were taking them to the commune, they should be careful because killers tell their victims that they are taking them to the commune.  This was during a public meeting or rally presided by the préfet.  Otherwise, I never heard any mention of the commune rouge whilst I was in Rwanda.  
+
+As regards abductions on a dirt road near the immigration booth, it is the first time I'm hearing about this.  Serushago testified in our trial -- that is, Military I -- and he never mentioned that.  I am surprised.  It is the first time I'm hearing about this. 
+Q.	All right.  Well, thank you.  We have your response.  But in any case, the essential point I wanted to make through my questioning -- or let me withdraw that.  
+
+And if you put yourself in the frame of mind of April 1994, approximately how many troops did you have at your disposal, which was part of your operational sector in Gisenyi, thinking back to the first week of April 1994? 
+A.	In fact, the operational sector of Gisenyi comprised two units.  There was the 42nd battalion which had 550 troops representing four companies -- four maneuvers and one support company.  
+
+There was the headquarters -- or QG quarters, the headquarters' company.  It had 110 troops approximately.  The headquarters' company was based in Gisenyi military camp.  It was the company that comprised the military police platoon, another platoon called chasse commando.  The service platoon was also there.  It comprised the personnel that took care of all tasks in the camp and the sector.  
+
+The companies of the 42nd battalion were deployed on the ground.  They did not live in the camp.  They were deployed along the borders with Zaire right up to the volcanic area.  
+Q.	What you're saying interests me.  I don't want you to think that I'm not interested in the details because I am.  But I just want to get the essential facts that we need for the purposes of this examination.  
+
+So you've already told us that you had 660 men at your disposal when you put yourself in the frame of mind of the first week of April 1994.  Can you just agree with me on that point, and then we'll move on.  I just want to clarify that that's accurate. 
+A.	Yes, as of the 6th of April.  
+Q.	And I would imagine that over time you had increasingly less soldiers because they were being sent to other parts of country.  But you started out on the 6th of April with at least 660 men.  Are we agreed on that point, or are you going to tell us that you had more men over time? 
+A.	No.  The staff or strength decreased on the 8th of April.  It's from the 8th of April that I started sending reinforcement particularly to Ruhengeri and then to Kigali and later on to Gitarama.  
+Q.	At the point in time -- and I'm not particularly interested in knowing when now -- but at the point in time when you had the lowest number of men at your disposal, how many men would you say that was between the period 6th April and 14th of July? 
+A.	At some point in time, I was left with one company of the 42nd battalion and two platoons of the headquarters' company, a company -- the one company which comprised 110 men and two platoons comprising approximately 70 men.  
+Q.	So at the high point you had 660 men at your disposal, and at the low point you had 180 men at your disposal for the Gisenyi operational sector.  That's your evidence? 
+A.	Yes.  Let's say 180 men.  
+Q.	At the lowest point? 
+A.	Yes.  
+THE ENGLISH INTERPRETER:
+The witness answered in English.  
+BY MR. WEBSTER:
+Q.	And can you agree with me that, of those 180 to 660 soldiers that you had at your disposal in Gisenyi, not a single bullet was ever fired at a RPF troop in Gisenyi.  The war never came to Gisenyi.  There were never any RPF troops in Gisenyi.  There was not a single bullet fired by any soldier under your command in Gisenyi at a RPF soldier.  Can we agree on that? 
+A.	I did not understand your question, Counsel.  
+Q.	What I'm suggesting to you is that, at a high point, your command included 660 soldiers.  At a low point your command included 180 soldiers.  But regardless of how many soldiers you had at your disposal between the period 6th April through 14 July 1994, not one of those soldiers fired a single bullet at a RPF troop in Gisenyi.  There were no RPF in Gisenyi at any point during the war.  
+A.	The RPF had not yet attacked in Gisenyi town.  That is true.  
+Q.	Yet militiamen were able to kill, I would say, the overwhelming majority of the local Tutsi population in Gisenyi during that same period.  Isn't that so? 
+A.	How many Tutsis did you say were killed by militiamen, please?  
+Q.	Neither one of us has a count on that, Mr. Nsengiyumva.  But what I'm suggesting to you is that the overwhelming majority of Tutsi in Gisenyi were killed.  Relative to the rest of the country, it probably wasn't very much because there weren't very many to begin with.  But all that transpired when you had at least 180 men at your disposal at the low point to around 660 men at your disposal at the beginning of April, in a situation where there were no RPF troops.  
+A.	I think what you should ask me, rather, is what I did with those troops.  I must point out that -- and I told you that my troops were deployed in a defensive position.  I had, at my disposal in Gisenyi town, 
+one company -- the headquarters' company which guarded the camp and which defended the camp.  It carried out all tasks, administrative and logistic tasks, for the sector in the camp.  
+
+In spite of everything, on the 7th of April 1994 at about 11 a.m. midday, the gendarmerie commander contacted me to tell me that he had started noticing movements -- suspicious movements in 
+Gisenyi town and that they may be -- they may be overwhelmed considering the situation which has cropped up.  
+
+He asked me if I could provide him with reinforcements because he did not have enough troops at his disposal.  I myself did not have enough troops, but I gave him two platoons of soldiers.  I gave him the military police platoon and also the platoon called commando de chasse.  That was all I could give him.  
+
+So the gendarmerie commander started working with his unit, and there was the reinforcements I had given him.  That is what I was able to do, Counsel.  Otherwise, people would think that I was the one in charge of security.  No.  I was not the one in charge of security.  It was the gendarmerie and the préfet, and they tried to do what they could.  And I provided them with reinforcements.  That is what was provided for, and I did it.  
+Q.	All right.  Thank you.  We have your response.  I'd like to turn to something else.  It's 
+document number 2 in my bundle.  
+MR. WEBSTER:
+I have a copy that Mr. Issa can hand up to the witness.  This is -- well, let me allow Mr. Nsengiyumva to tell us what it is.  It's already admitted in evidence in our case.  It's P. 197, and the French original is now in front of the witness.  
+BY MR. WEBSTER:
+Q.	Mr. Nsengiyumva, I've highlighted portions of the document in yellow.  And I've also put my handwriting notations of A, B, C, D and underlined certain portions which we're going to talk about through this series of -- this next series of questions.  But can you begin by telling us if you recognise this document.  
+MR. OGETTO:
+Mr. President -- my apologies, Mr. President.  I don't think we've got that document.  
+MR. WEBSTER:
+I have an extra copy that I can --
+MR. OGETTO:
+Thank you very much.  
+MR. WEBSTER:
+In English or in --   
+BY MR. WEBSTER:
+Q.	I see that you're still reading through it, Mr. Nsengiyumva, so let me help you along.  This is a letter that you wrote back -- a memorandum that you authored, which you sent to the army chief of staff with a copy to the president, Habyarimana, on the 27th of July 1992, which is entitled "Mood of the military and civilians".  Do you remember the contents of your memorandum? 
+A.	Yes.  I'm very familiar with this document.  I was the one who wrote it and who signed it.  
+Q.	Looking back now, wouldn't you consider this a rather ominous and foreboding document? 
+A.	I do not know what you mean.  Can you explain a little bit further, and I should be able to answer you.  
+Q.	Well, I think you were suggesting to the -- well, let me start off by saying, you wrote this memorandum when you were the G2, the head of the intelligence services in the country for the military; right? 
+A.	That's correct.  That is the compilation of the report that I received and what I also had as my personal understanding of the situation.  
+Q.	And can you remind us who was the army chief of staff at the time? 
+A.	The chief of staff was General Nsabimana, Déogratias, but at the time referred to, he was still a colonel.  
+Q.	And when I say ominous and foreboding, I used those adjectives because the mood of the military and the civilians was not good, going by what you had to say in the memo.  In fact, it was almost 
+threatening -- or, not almost, it was very threatening.  
+A.	That is correct.  If I could explain a little further why the situation was ominous.  I would say that, in the month of May of that year, the prime minister had given a speech.  In the speech he announced that there will be negotiations with the RPF and that, at the end of the negotiations, some of our soldiers were going to be demobilised in order to make room for the integration or absorption of RPF soldiers.  
+
+Government troops did not take that -- or did not take kindly to that because they did not understand why they should abandon their posts to soldiers or people they had fought.  At that point in time, nobody knew how the integration was going to take place.  Even the prime minister did not explain it.  And it did not resonate well with the soldiers nor with the civilians.  
+
+In the month of June, I must specify that to show their discontent in the months of May and June there were mutinies in the army.  They shot in the air.  Some of them even looted.  It was the first time that our soldiers were engaged in looting.  It was very difficult to bring this to an end.  
+
+In the month of June -- 
+Q.	If you -- if you'd just glance over to me from time to time.  If I put my hand up, I'm asking you to pause for a moment.  So I understand -- I think I understand your response.  I realise that I've cut you off, but I think we get the idea:  That the soldiers were dissatisfied by the announcements that the prime minister made.  But let's go right to the point.  In this memo, you criticise what was being proposed as the power-sharing arrangements under the Arusha Accords.  
+A.	No.  I had not completed my answer, because you will not understand if I do not tell you what happened in June following the signing of the Brussels accords between the RPF and the opposition parties to the effect that they were going to stop the war and proceed with democratisation.  
+Q.	I think you've already made your essential point, which is that the soldiers were unhappy with the prospect of being demobilised to make room for the RPF that was going to become a part of a merged army through the peace agreement.  Isn't that the essential point you were making?  Does it really require you to give us all of the indicia of their discontent?  
+
+We get the point.  The soldiers were not happy because some of them were going to have to be demobilised.  If there's something essential that we need to know, go ahead and tell us.  I don't want to cut you off, but I want us to deal with what is really important.  
+A.	Yes.  Following that accord or that agreement to the effect that the fighting would halt for negotiations -- peaceful negotiations to take place towards democratisation, the RPF immediately attacked.  They captured Byumba city for one day, and they took also some territory along the border and chased off 350,000 people, as well as killed members of the population.  And this also aggravated the discontent of the soldiers and the population.  
+Q.	All right.  Thank you for that information.  So in this memo -- well, let me ask you this:  The provisions on power-sharing that included how the army was going to be merged, the provisions that you were criticising back on the 27th of July 1992, were the same provisions that were ultimately signed into effect when these accords were finalised on the 4th of August 1993.  Isn't that so? 
+A.	Yes.  I have told you that at that time people did not even know what was going to happen during the merger.  
+Q.	The only point I wanted to make is that the same thing you were complaining about in July of 1992 was exactly what were finally included in the accords in August when they were signed.  So that's clear.  
+
+So you criticised the accords back in July.  Your criticisms were just as valid in July of 1992 as they would have been in August of 1993 because that provision remained the same.  
+
+You also criticised the politicians that were negotiating with the RPF on behalf of the Rwandan government in your memo.  Right? 
+A.	Yes.  And I hope that when you say "criticise", you are not referring to me exclusively.  What I did was a report on what I had learnt.  It was not a reflection of my personal criticism as such.  
+
+Now, as for the development in that situation, I had suggested that something be done to restore calm.  The president of the republic at that time, because he had received a copy of the report, called me and said that he had received several other reports along the same lines and asked me what I suggested should be done.  
+
+I told him that ordinarily when he delivers a speech, the population listens to him, and so, therefore, he might use such a speech as an opportunity to talk to the people.  And he did so on the 17th of August 1992.  If you want any further details, I can provide them.  
+Q.	No.  Thank you.  What I'd like to do at this point, however, is just to go through your memo page by page and talk about some of the important points that you raise.  So if we could start at the top of document and move through it.  
+
+In your enumerated paragraph 1, in the second sentence, you say:  
+
+"Coming in the wake of certain political events and pressure from the enemy, the comments have created a certain mood which must be brought to your attention as it is certainly a matter of concern."
+
+When I say "enemy" in English, it's actually written in your document as "ENI".  Right? 
+
+And I think you had already begun to tell us what these certain political events and pressure was.  
+I guess the certain political events would be the announcement of the prime minister about the negotiations.  Or maybe you want to tell us what those certain political events were, if it's not that. Briefly.  
+A.	I am not sure that I'm with you, Prosecutor.  Where are you? 
+Q.	I think I had highlighted it in yellow.  In paragraph 1 on the first page -- and I'll read it in French: 
+"These comments" --
+A.	Oh -- 
+Q.	-- "These comments are creating a state of mind."  Have you found it now? 
+A.	Yes, I'm there.  I'm there now.
+Q.	That is where we are starting.  And we're going to move down from there through the whole document.  So the first thing I want to know is, what are these certain political events?  Briefly.  
+A.	The political events include particularly the speech by the prime minister, which I've already mentioned; there is the Brussels meeting, and off-the-cuff these are the things that I can remember.  However, there is also the beginning of the negotiations in Arusha which should be considered.  So those are the three points that come to mind now.  
+Q.	And when you say -- when you refer to the ENI, who are you referring to? 
+A.	ENI is a military abbreviation for the enemy.  It's a military abbreviation.  
+Q.	But in this context doesn't it mean the enemy as you had defined it in the memorandum you discussed with Mr. Nimy during your direct examination?  Didn't you have a particular enemy in mind? 
+A.	The enemy was the RPF, which was bringing pressure to bear, because they had already attacked and occupied Byumba for some time and had also taken part of Rwandan territory along the border to the north.  It is on that day that the RPF occupied the Mulindi centre.  
+Q.	Yes.  But in the way that you used that abbreviation, Mr. Nsengiyumva, I'm suggesting to you that what you had in mind is the ENI, as you had defined it in that document, which would also include the persons you characterised as accomplices of the enemy.  Didn't that document clarify that the ENI was RPF troops and accomplices of those RPF troops who were Tutsi, who were nostalgic for power and didn't accept the results of the 1959 revolution? 
+A.	I think that matters are very clear here.  I am referring to the enemy who was bringing pressure to bear on the country, and it is that person who -- or that enemy who was attacking, and it was the RPF that was attacking on the ground at that time.  
+Q.	All right.  Thank you for that clarification.  When we come to paragraph 2, you say that these are comments which are made by both civilians and soldiers.  Can you tell us which civilians you had in mind and which soldiers you had in mind, if you're able to enumerate.  
+A.	I received reports from various services indicating that public opinion was as follows, and other reports told me that this is what the soldiers were thinking.  I brought all of those together and referred to them as the civilian and military environments.  
+Q.	When we move down, you see where I put an A in a circle.  
+
+"In a nutshell, many people severely criticise the contents of the accords which only favour the RPF to the detriment of Rwanda.  They are therefore calling for their review so that the points which do not favour us should be revisited.  
+
+"Most of those who criticise the accords are worried about the possible merger between the 
+Rwandan armed forces and RPF elements.  
+
+"The civilian population is opposed to this eventuality and believes that it is a devious way of seizing power in Rwanda from within.  
+
+"Even members of some opposition political parties, especially the MDR, are not in favour of any merger between the Rwandan armed forces and RPF armed elements.  In fact, all those who are against the merger believe that our country is being sold to the enemy."  
+
+So my question to you, Mr. Nsengiyumva, was the concerns that you're expressing here, were these based on your discussions with any politicians in particular, or are you just relying on intelligence reports that were being submitted to you? 
+A.	I relied on reports that I received.  It was not on any discussions with any politicians.  
+Q.	Well, weren't these the same types of criticisms that were being made by the MRND party leadership? 
+A.	I do not know.  I received reports which stated that politicians are of this opinion.  Some of the reports indicated that, even within the MDR, many people were thinking along the same lines.  I wasn't told exclusively of the MRND.  
+(Pages 17 to 32 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145H 
+BY MR. WEBSTER:
+Q.	Let's continue reading.  "The people are therefore afraid of all of this.  Some of them are even saying that they are immediately going to get ready to flee before the Inkotanyi arrive, adding that prior to their flight they will massacre the Tutsi."  
+
+Who was saying that when you say "the people"? 
+A.	I have already told you that I received reports that members of the population were of such opinions.  You see, when reference is made to the Arusha Accords, it is in particular to the document of the 
+12th of July in which mention was made of a number of points to be discussed, including the integration of the RPF forces.  So soldiers were thinking about the prime minister's speech, and some members of the population also thought that the Inkotanyi were going to come in and be integrated into the army.  
+As the prime minister had said, part of our soldiers would be demobilised.  And so those comments were made and that is what is reflected in my report. 
+Q.	Yes.  But my question to you is even if these comments were being made, or you were being apprised of these comments in a report, certainly those reports would have indicated where these -- who these people were.  Are you suggesting that your intelligence services weren't sophisticated enough to give you some sense of who were making these comments? 
+A.	Counsel for the Prosecution, the types of reports we received had this following content, for example: "Yesterday I was in Nyamirambo in a bar and people were discussing this topic."  Another report will say:  "I was in a taxi and some people were talking about this."  Another report would be as follows:  "I was in Butare where I met people who said the following."  So the reports did not provide names. 
+Q.	And you didn't make any follow-up enquiries to document or get a more objective sense of how prevalent these feelings were.  You were simply relying on anecdotal accounts from one or two officers.  Is that what you're suggesting is the level of sophistication of your intelligence services? 
+A.	Well, for the information to be that sophisticated, well, that was not always the case.  But I was under the impression that there was a general state of affairs which I had to bring attention to.  There were other services that were better equipped than mine which might have been instructed to follow up these issues.  And this was not necessarily within my jurisdiction.  
+
+Now, when I had any concerns and I mentioned them, other better-equipped services would be instructed to follow up.  I was not the best intelligence service in Rwanda at the time.  There were other more efficient services in place than mine. 
+Q.	Well, when the reports indicated that people were thinking that if the Inkotanyi were going to be merged in your army that the people would flee before they arrive and prior to their flight they will massacre the Tutsi, did you have any sense of how many Tutsi the people had in mind back in July of 1992, the ones that they were going to massacre if the armies refused? 
+A.	I have no further details on that point.  That is what was being said, and that is what I reflected in my report  arising from the fact that some young Tutsis had already begun to join the RPF in their numbers with an intention to return and attack the country.  So it was being said that these are people who are going to join the RPF and then return to kill us.  And so they came to the conclusion that before fleeing this was what we were going to do.  So I have simply gone by what I received in the reports and came to the conclusion that it was serious enough to be reported. 
+Q.	All right.  When we go to next paragraph, "As for the military, many soldiers virulently disapprove of any merger between the Inkotanyi and the armed -- Rwandan armed forces.  Officers are among those denouncing this provision of the Arusha Accords."  
+
+Which officers did -- was there any indication of which officers were denouncing the accords back in July of 1992? 
+A.	Are you asking me to give you names, Mr. Prosecutor?
+Q.	If you recall them, yes.  
+A.	No.  I don't have any names to give you.  I have always told you -- and I have told you that this is the nature of the reports we received:  "Yesterday I was at the officers mess and officers were having a discussion and said this and that."  Another report would be as follows:  "We were engaged in sports with some officers, and this is what they said."  And so I came to the conclusion in my report that this was the prevailing climate or atmosphere within officers. 
+Q.	All right.  Next sentence:  "If the Tutsi account for 14 per cent of Rwandans, the Inkotanyi to be absorbed should represent 14 per cent of the future Rwandan armed forces.  To go beyond that, say the officers, in fact, other soldiers as well, would amount to selling this country to the enemy, what the military would not allow."
+A.	Yes.  That was also an opinion that was held by many people, including civilians.  And I don't think they were the only ones who held that opinion.  I do remember seeing a report by some American experts, including Madam Alison Des Forges' report, which stated that the integration of Tutsis should not exceed their ethnic representation of 14 to 15 per cent.  So this is what civilians and soldiers had as an opinion and, as I said, was reflected in the American report.  So at the end of the day the opinions were alike.  People thought about these things in the same manner. 
+Q.	Well, when you say that the military would not allow that, what would they do?  Or what did you have in mind that they would do to prevent that from happening? 
+A.	Experience had already taught me through the events of May and June with the firing in the air and the looting.  The situation was very serious and difficult to manage and contain.  Therefore, mindful of the several reports that had come in, I felt that such a situation could occur again and degenerate.  That was my thinking at the time. 
+Q.	Well, I mean it seems to me that what you are suggesting there, because you do go back to that point several times in your memo, is that the military officers would not allow these accords to go through and that they would take it upon themselves to prevent that from happening, which to me suggests almost threatening a coup.  That's what it seems like to me.  But you respond, and tell me if I'm off the point on that.
+A.	Well, that could also have happened.  There were civilians who had already begun to contact soldiers and telling them that our country had been sold and that only the soldiers could save the country.  "So what are you waiting for," they would say.  And that is the kind of report I also received. 
+Q.	And when these politicians were talking about the country being sold to the enemy, isn't that the type of comment that was even made publicly, particularly by MRND leaders who were denouncing the Arusha Accords?  The country was being sold; that Minister Ngulinzira was selling the country away in Arusha.  
+A.	Well, I do not know, but maybe such comments were also being made.  Now, what I received is what 
+I -- is reflected in the report.  But I was not told that these were the positions held by MRND persons even in respect of Ngulinzira. 
+Q.	Well, Ngulinzira we know was from -- was a member of the MDR, and he was the minister of 
+foreign affairs that was responsible for negotiating these accords.  But what I am suggesting to you is that he was often accused of selling away the country in Arusha.  And I think those criticisms were coming from highly placed people in the MRND party.  But if you don't agree with me, we already have your response and we'll move on.  
+
+But what I'll indicate to you, Mr. Nsengiyumva, is that I've read this document very carefully, and this notion of selling the country to the enemy is something you repeat at least six times in the document.  And your objections -- well, the objection that you give voice to of the two armies being merged is something that you mention seven times in seven different contexts, if one were to go through and count it in the document.  Does that sound like I'm on target, or do you dispute that?  Should we go through and count them?  Because I have them numbered.
+A.	I thought I even did that more than six or seven times because that is what obtained at that moment before the president made clarifications in his speech.  Otherwise what I wrote here was the reality, and I felt that it was necessary for me to sound an alarm for something to be done and thus restore some calm.  And that is what the president did, and calm was restored.
+Q.      If you look where I have put a "D" with a circle around it, which is towards the bottom of the 
+	second page in English, and it would be -- and you'll see that -- 
+A.	Yes, I have located that. 
+Q.	-- top of the third page in French, you say, "Some of our officers are even saying that before they flee from this country they will first settle old scores with those of our leaders who caused the disaster by naively yielding to all the demands of the enemy fighting us."
+A.	Yes. 
+Q.	When you say "settle old scores", did you mean that you were going to kill them or the officers were going to kill them before fleeing the country? 
+A.	I would like to explain that this is not from me.  This is -- these are reports I was summarising.  However, the fact is that some officers were very angry, and that is what I reflected here.  I would like to further explain that subsequently this tension was brought down, and officers and soldiers no longer made these comments, that is, after the president of the republic gave his speech and after political authorities met the officers to explain to them what was going on in Arusha. 
+Q.	All right.  We have your response.  But when you say "settle old scores", I'm still trying to understand exactly what you mean.  And my suggestion to you is that you meant -- or that you're understanding the officers to mean that they were going to kill the leaders that caused the disaster by yielding to the demands of the enemy.  Is that an accurate interpretation of what you mean or what those officers meant when they said they were going to settle old scores? 
+A.	I remember, for example, what they were telling me because I was also attacked at that moment.  They would tell me, "What are you telling the authorities about the situation, the situation which prevails at present, since we have the impression that the authorities are not aware of it?  Those of you who write reports, are you talking about the situation?  Don't worry.  Before fleeing, we are going to settle scores with you."  And I just reflected that term here. 
+Q.	And I'm asking you, what did you understand that to mean?  And I'm suggesting that it meant that they would kill them.  If you agree with me, say yes.  If you don't, then you can say no and we move on to the next question.  Didn't settling old scores mean that they would kill the people that got them in that predicament? 
+A.	Well, when they talk about settling old scores, I did not ask myself questions about that.  All I know is that it was not something good.  I wrote it down and I made my report. 
+Q.	So the answer is you don't know.
+A.	I would not like to interpret what this means for fear of making a mistake. 
+Q.	Then when we get to the bottom of page 2, there is a sentence, "Many people feel that our leaders do not have the interests of the nation at heart."  And you go on.  You're a bit more descriptive.  
+
+And then when we turn the page, at the top of page 3, again, this is the third time that you mention that the country has been sold out, always evoking this notion of servitude or that the country is being sold away in Arusha.  
+
+Then at paragraph 5 towards the bottom:  "To most people, this is further proof that only the enemy is deriving any benefit from the Arusha Accords and that the government allows itself to be hoodwinked all the time.  Some people believe that there are some individuals among the negotiators of the accords who are working for the enemy, offering the enemy everything, to the detriment of the interests of the nation."  
+
+Let me ask you this, Mr. Nsengiyumva:  You said that after Habyarimana made his speech on the 
+17th of October, that calmed the spirits, right?  It calmed the spirits of those who -- 
+A.	It was not in October.  It was on the 17th of August 1972.
+THE ENGLISH INTERPRETER:
+Says the witness.
+THE WITNESS:
+He made a speech before the national assembly and mentioned this point.
+BY MR. WEBSTER:
+Q.	But even though Habyarimana made a speech on the -- 
+MR. NIMY:
+Mr. President, on the dates, I thought I heard that the president of the republic gave a speech in '72.  The witness makes a correction.  It's not 1972 but, rather, 1992.  
+MR. PRESIDENT:
+Thank you.  
+BY MR. WEBSTER:
+Q.	Yes.  So August 1992, President Habyarimana makes a speech.  You suggest that that speech was enough to calm the mood.  But I'm wondering why that would be if on the 4th of August 1993 the same provisions that you're objecting to are signed into law, which is what the Arusha Accords became on the 4th of August 1993, the same provisions on merger, the same provisions on power-sharing that led some officers to want to kill or settle scores with the politicians that were responsible and led other persons to say that as soon as the Inkotanyi arrived they were going to kill the Tutsi before they 
+left -- that same provision was incorporated in the accords back in August 1993.  Didn't change.  
+
+So are you suggesting that the officers who were complaining just got used to the idea of sharing power with the RPF? 
+A.	Yes.  As I told you at the beginning, these reactions were made without people understanding exactly what was going to happen.  They had heard that there would be an integration of the armies, but they didn't know exactly how this was going to be done.  So the president clarified the situation.  And furthermore there were meetings between political authorities, including the president, the prime minister, the minister of defence.  They sensitised soldiers to these issues, and then the situation evolved.  Continuous information was provided to the soldiers, so they understood and they accepted the situation. 
+Q.	We make our way down the page.  At the bottom of the next paragraph you have:  
+"Some soldiers" -- and I'm reading from the English text, of course.  "Some soldiers are saying that before they flee, as the enemy advances in great numbers towards the capital, they will deal with the officers who easily gave in to the wishes of reckless civilian authorities."  And then in parenthesis you add, "I am only repeating what is being said."  
+So here we have another threat that you are conveying, that the officers are going to deal with the reckless civilian authorities.  Do you have any idea who they were referring to specifically when they were referring to the civilian authorities? 
+A.	Which -- in which paragraph is that, Counsel for the Prosecution?  
+Q.	I think I put an "E" with a circle around it in the French text, which is in the middle of page 4 in the 
+French text.
+A.	Yes, I have located the passage.  Thank you.  Yes, I can see that.  So here I'm talking about some soldiers who had to settle scores with the officers.  The situation could be explained because 
+junior soldiers thought that officers were aware of what was happening and that they agreed with what was happening.  So they said the following -- and, well, they said what I reflected here.  These were junior soldiers who were threatening officers.  
+
+There was, for example, the story of war prisoners, RPF war prisoners who had just been released.  They were released even while RPF still held some people prisoners.  So the soldiers -- junior soldiers said that officers agreed that our soldiers should still be kept by the RPF, whether RPF troops have been released and have joined their base.  "Now, these officers do not represent our interests," said the junior officers.  This is the context in which junior officers threatened their superiors. 
+Q.	But my question to you is who were the civilian authorities?  Did you have any particular persons or did they have any particular persons in mind?  So if you know the answer to that, you can tell us.  But I'd suggest to you, if you read one sentence further, I think you have indicated MINAFET, who I assume is the minister of foreign affairs, Mr. Ngulinzira, and the prime minister, who at the time was 
+Dismas Nsengiyaremye.  
+
+So if it's other than Ngulinzira or Nsengiyaremye, who were these civilian authorities who were reckless, who were provoking such outrage by the officers and the soldiers?  
+A.	Here when I talk about the prime minister and the minister of foreign affairs, it is in connection with their visit to the ESM where they met officers.  And on the day they met the officers, it was to explain to them what was happening in Arusha.  
+
+But it happens that on the same day there were RPF war prisoners who were released and went back to their camp.  They joined the RPF in their camp, whereas our soldiers were still held prisoners.  So this is what I'm talking about because they had come to see us.  The junior soldiers had come to see us, and they were saying that certainly the prime minister and the minister of foreign affairs spoke to the officers and they told them that they were going to release RPF prisoners of war; that the officers agreed with that even though our own troops were still held by the RPF.  It is in this context that I'm mentioning these two authorities here. 
+Q.	You keep referring to the context, and I keep asking you about the individuals who they were upset with.  So you give us an answer, but it doesn't really get to the point of my question.  But we will move on.  
+
+On the next page in English on page 4 towards the top, you have a paragraph, and I think I've put a little star next to it.  "Many people are furious about this, especially MRND members who wonder whether MRND ministers are really committed to defending the interests of their party or whether some of them are not there only to defend their own interests."  
+
+So now you're not only angry or you're -- the people or the soldiers are not only angry with the opposition politicians and with the officers, but they're also angry with MRND ministers who they don't think are being aggressive enough in opposing the Arusha Accords.  Is that an accurate interpretation of that sentence, or would you like to give us an understanding of what you meant? 
+A.	I have not located the passage you referred to.  Paragraph 5, it would appear.  Okay.  I have located the paragraph now.  Well, here in the ranks and files of MRND militants, people said that in Arusha the RPF was working with members of opposition delegations and that the people of the opposition members share the same views with the RPF and that they are -- MRND representatives are marginalised and that MRND authorities are not reacting.  That was information I was receiving and which I reflected as I received it. 
+Q.	Putting yourself back in the frame of mind of July of 1992, was Mathieu Ngirumpatse or 
+Joseph Nzirorera or Édouard Karemera among those who were being responsible to their MRND constituency and opposing the Arusha Accords, or were they among those who were being criticised by what you were hearing from other MRND members? 
+A.	No.  I do not know what position they held at that time, but the fact is that they were among the senior authorities, and it was rather they who were being criticised.  They were being criticised because it was alleged that they were not doing anything to correct the situation. 
+Q.	When we go to the next paragraph down, it seems to me that you're even threatening the president himself by this memo, or you are reporting that the people, as you characterise them, are criticising the president.  And you say, "He is going to find himself alone, since no one wants to die for someone who will not recognise him."
+A.	Yes.  This was also being said.  And what I wrote here even appeared in the newspapers.  This was not something I invented.  So these criticisms directed at the president were also made, and no one feared to criticise the president any longer.  Criticisms against President Habyarimana increased over time.  So what I wrote here is true. 
+Q.	And then the last sentence for that paragraph is a phrase in Kinyarwanda that was not translated.  Maybe you can tell us what you understand that to mean.  Do you see where I am referring, Mr. Nsengiyumva?  It's right after that passage about the president.  There's a sentence in Kinyarwanda that was not translated.  Et l'ont ajouté.  And this is at the middle of page 5.  
+"Ahubwo mazabimubwire abimenye."  Do you have an explanation for what that means?  I assume that it wasn't translated because it's a proverb or something that is difficult to translate.  So maybe you can explain the meaning of that to us.  
+A.	"Tell it to him so that he should know."
+THE ENGLISH INTERPRETER:
+The interpreter has interpreted the phrase in Kinyarwanda.
+MR. WEBSTER:
+	All right.  Thank you.  
+BY MR. WEBSTER:
+Q.	In any case, as we move down the document, your next paragraph is entitled, 
+"Personal views."  So I assume that everything after this paragraph 3 is what you yourself are telling the army chief of staff and the president.  You're no longer relying on what you put in the mouths of the people.  Right?  And, in fact, at the beginning of the memo you say that you're going to talk about what you hear and then you're going to offer your own thoughts on the matter.  So this I'm assuming is your own thoughts now.  
+
+"A" is:  "The Arusha Accords were one-sided accords to the benefit of the enemy who therefore feels that they could go further and demand more.  The concessions thus made to the enemy may seriously mortgage the interests of the country."
+A.	Yes.  What I'm saying here is my analysis of all that I wrote above.  And after that I make my own analysis, what I think of the situation. 
+Q.	And in your own analysis you basically repeat everything you had the people saying in the first part of your memo.  So I'm wondering why it was necessary to distance yourself from the things we were talking about during the last ten minutes when you repeat them and take responsibility for saying this directly to the president yourself as we get to the latter portion of your memorandum.  
+
+Don't you complain about the merger of the armies?  Don't you accuse the politicians of selling the government -- selling the nation to the enemy?  We can read it paragraph by paragraph.  But if we do, I don't think you'll find that I've misrepresented what you've said.  
+
+You complain, where I have "F" with a circle around it, that, "The Arusha Accords have caused widespread turmoil and vexation.  Yet, the war may continue, and if it does, we may face the following problems:  Soldiers becoming tired and demoralised; increasing economic hardship; the risk of partners abandoning us; the risk of politicians causing chaos."  
+
+And then you go on to say, "In order to prepare ourselves for the continuation of hostilities, which in the final analysis are inevitable, in my opinion the following measures must be taken:"  And you go on to list that you have to recruit and train enough soldiers, whose morale would be less affected; you have to get more ammunition; you have to stay in the good books of your friends and partners, especially France and the US.  
+
+And then in subparagraph 3, which is at the bottom of page 5, you say that you're "confronted with an enemy who wants to regain the power it lost and that any good intention it may display is only a subterfuge aimed solely at taking over power and thereafter proceeding to avenge the victims of the 1959 revolution and the -- of the events that followed that revolution up to 1973."  So here clearly you're talking only about the Tutsi.  Isn't that so, Mr. Nsengiyumva? 
+A.	First of all, as regards these points, the points where you have written "F", I do not see where I went wrong, neither on points 1, 2, 3, in parenthesis.  I do not see where I made a mistake or where I went wrong.
+Q.	I'm not suggesting that you went wrong.  I'm only suggesting that you have accurately summed up your position, your criticisms of the Arusha Accords.  You were opposed to them.  You thought that they had sold out the country.  You thought that the politicians who negotiated them should be penalised in some form.  You threatened the president, suggesting to him that he was going to find himself all alone if these accords were accepted.  You threatened the MRND leaders, saying that those who were going along with it are also being criticised.  
+
+I think all of this in the entire memo is what you were thinking, Mr. Nsengiyumva.  I don't think you're putting -- you heard this from the people.  I think this is your thoughts.  In any case, where you express your thoughts are the same thoughts that you ascribe to the people.
+A.	No.  My opinions and comments reflect what people had said.  And I was saying that since people say so, the situation may be this or that.  This is what I'm doing here.  So I'm not saying that the criticisms are mine.  I'm saying that people are making these criticisms.  And I'm saying that if the situation continues along these lines, this is what it may produce.  And what I said turned out to be true. 
+Q.	In other words, the Tutsi were killed when people were fleeing the Inkotanyi.  What you predicted in July 1992 is exactly what happened in April of 1994.  Is that what you are telling us? 
+A.	What I asked for at that time is that something should be done to resolve the situation.  Something was done at that time.  Furthermore, the RPF continued and attacked -- killed the president, and we went back to square one.  This is what I noticed.  So I had sounded the alarm and the RPF did not bother.  They pursued their objective with the catastrophe that followed. 
+Q.	But you weren't warning the RPF.  You were warning your president and the army chief of staff; right? 
+A.	Yes, so that they should calm the spirits of the civilians and the soldiers.  But the RPF had its objective, and they made the situation worse with what ensued.  As for the head of state, the chief of staff and the other authorities, they did what they had to do. 
+Q.	Towards the end of your memo at subparagraph B, which is on the last page, 7 in the English text, at the very top you say, "On the whole, the climate is unhealthy, and many people are asking for change, going as far as appealing to the military to do something to save the country.  The Arusha Accords which are criticised by many people have only added fuel to the flames."  
+
+Aren't you threatening a coup?  Or aren't you warning the president that the military could be in a position to undo or stop what he seemed to be doing at the time, which is negotiating a 
+power-sharing agreement with the RPF? 
+A.	No.  Since this is what was being said, I could not hide what was being said from the president.  I had to tell him exactly what people were saying so that the situation be examined in order to find an ideal solution and thus put things back into order.  That was my duty.  I did it.  And at that point in time something was done and calm was restored, even though later on the RPF intervened and the situation deteriorated further.
+MR. WEBSTER:
+All right.  Your Honour, I see the time, and I think we can stop here, and I will pick up with something else after lunch.  
+MR. PRESIDENT:
+Mr. Webster, it seems that you're not going to complete today. 
+MR. WEBSTER:
+I'm still going to try to complete today.  That's what I'd like to do.  That's my objective.  And how successful I'll be depends on how we move through the material this afternoon. 
+MR. PRESIDENT:
+I will still ask Mr. Hometowu to make contingent arrangements tomorrow in case that becomes necessary.
+MR. WEBSTER:
+Yes.
+MR. PRESIDENT:
+We take our luncheon adjournment now.
+(Court recessed at 1230H)
+(Pages 33 to 42 by Claudette Ask)
+
+
+
+
+
+
+
+
+
+(Court resumed at 1409H)
+MR. PRESIDENT: 
+Yes.  Mr. Webster. 
+MR. WEBSTER:
+Thank you.  
+
+Good afternoon to everyone.  
+BY MR. WEBSTER:  
+Q.	And good afternoon to you, Mr. Nsengiyumva. 
+A.	Good afternoon, Prosecutor. 
+Q.	We are going to move ahead and cover some other topics.  I would like to begin by speaking to you about the civil defence programme.  
+
+Now, if I didn't misunderstand you in your direct exam, I think you said that the civil defence actually existed in Rwanda from 1990 onwards but that it was directed to the four communes in Gisenyi, where there may have been threats from the RPF on the other side of -- of the border with Ruhengeri.  That weapons and military training of civilians actually did take place but that the civilian defence that was formalised after the 25th of May 1994 was never operational.  So you make a distinction between the civil defence that was ongoing in 1991, 1992 and 1993, primarily in the north but that whatever was authorised and recommended after the 25th of May actually never was implemented.  Is that your testimony before this Chamber? 
+A.	What I said was that the self-defence programme started in Mutara in early 1992, not 1990.  And as concerns the four communes of Gisenyi commune, there were patrols organised by members of the population who held the positions that were not held by the soldiers.  There was no mixed patrol between soldiers and civilians.  
+
+Now, talking about the civilian defence that started as from May 1994, I said that the programme started but that it was too late and that the means were not there to complete it, but it had started at some places, not throughout the country.  Initially the objective was to cover the entire country, but it had started in some places and not in others.  But my testimony was that it was too late and it was not efficient. 
+Q.	Right.  Thank you.  I think you're agreeing with my summary of your direct exam.  And I think you've basically repeated before this Chamber some of the same things that you told Trial Chamber I in your own trial.
+MR. WEBSTER:  
+And in that regard, I'd direct the parties to document number 4 in my bundle, which are excerpts from that Trial Chamber I judgement of the 18th of December 2008.  I did -- this particular set of excerpts has not been provided to everyone in French, but I did hand up to the interpreters just a few minutes ago a few sheets of the French, but I'm assuming that the Defence teams have access to the judgement from their computers.  
+BY MR. WEBSTER:  
+Q.	But in any case, just to summarise for you, Mr. Nsengiyumva, at paragraph 464 -- this is Trial Chamber I summarising the evidence, and it states that: "On the 14th of December 1993, Nsengiyumva drafted a letter to the chief of staff of the Rwandan army.  The letter noted that civilians, mainly from Kigali, had been trained and armed with Kalashnikov rifles in connection with self-defence in four communes in Gisenyi préfecture."  And then it lists them:  Mutara, Karago, Rwerere and Rubavu.  But that most of these weapons were returned.  "The letter requested additional weapons, and Nsengiyumva noted in it that the training and distribution will be handled at his level.  These communes were also referred to in Bagosora's agenda, made several months later."
+
+So essentially the Chamber's going over the evidence in your trial, including your letter of December 1993 which I believe we also have in evidence in this case.  
+
+At 465 it goes on to say that, "Nsengiyumva confirmed that the four communes in Gisenyi received weapons in late 1993 in the aftermath of an RPF attack..."  
+
+It goes on.  It provides details.  None of them are controversial since you yourself admit that 
+civil defence was up and running in some form in 1993.  But it concludes by saying that you denied any incidents in April 1994 that were connected with weapons and that you did not believe they were distributed to the Interahamwe.  
+
+So I'm just confirming, for your benefit actually, that Trial Chamber I has relied on your own characterisation of some of this evidence in its findings.  
+
+But it goes on at paragraph 488 to conclude by saying that, "It is clear that Rwanda's civil defence system existed in some form from October 1990 until July 1994, even though it was only formalised through the 25th of May 1994 directive issued by Prime Minister Kambanda."  
+
+"The Defence" -- referring to you, Mr. Nsengiyumva, in Bagosora and Ntabakuze and Kabiligi -- "does not dispute that civilians were trained and armed within this system by military and civilian authorities."  
+
+The following paragraph, 489, "There is a significant body of evidence concerning the training of civilians in many cases identified as Interahamwe which may have been part of Rwanda's 
+civil defence system given the similarities in training locations attributed to the civil defence system."  
+I don't think so far you have any dispute with the Trial Chamber; am I correct?  
+A.	Yes.  In general, it is correct, but I still contest.  In fact, since Madam Des Forges' testimony, there is my letter of the 14th of December 1994 to which was appended lists bearing names of people trained as part of the civil defence system in Kigali.  And it was decided that the list had nothing to do with my list.  
+THE ENGLISH INTERPRETER:  
+I think the witness meant letter. 
+THE WITNESS:  
+But when I was testifying, it was brought again.  And in the final analysis, the Prosecutor was convinced and he said that that list had nothing to do with my letter.  
+
+But I was surprised to see that it comes up again, even in the judgement.  If you look at the transcript you will see where that discussion took place and it was agreed that the list of members of the
+civil defence system which was appended to my letter had nothing to do with the letter.  
+
+But now, as to the four communes in Gisenyi, I explained that at one point in time after the RPF attack, the communes received weapons, the communes which are mentioned.  And I had thought and I had even written that in my letter, that I was going to train people to use them.  But I realised that those people had been trained when they had receive -- received the weapons in March, weapons which
+was -- subsequently which were withdrawn.  So I did not train them because they had already been trained.  But I added -- and I maintain the situation -- had they not received training, I would have trained them.  Prosecutor, that is my answer.  
+BY MR. WEBSTER:
+Q.	Well, thank you for that explanation.  Essentially you've agreed with me.  The only thing you qualified was the list attached to your letter, but I didn't mention any list.  I just referred you to the letter.  So we appreciate your expansive answer, but I don't think we have any disagreement.  
+
+However, at paragraph 506 is where I think you and the Trial Chamber part company.  Because here the Trial Chamber is concluding, after an exhaustive discussion of the evidence, "Finally, as discussed above, Nsengiyumva played a role in the arming and training of civil defence forces in
+Gisenyi préfecture in 1993.  This does not in itself demonstrate an intent to kill civilians.  However, the Chamber has also found that he participated in training of these forces between April and June 1994, and dispatched them to Kibuye préfecture and Kigali in the second half of June 1994."  
+
+And it -- "In its factual and legal findings, the Chamber will consider in the context of specific events whether he bears responsibility for these and other events involving civil defence forces and party militia."  
+
+So you agree with the Chamber that there was training, distribution of guns in the north through 1993, that the programme continued into 1994.  But you dispute that the programme was operational after April.  And in spite of your Defence and in light of all of the evidence in your case, the Chamber found that you actually participated in the training of these militia and that you sent them to kill people in Kibuye and Kigali.  
+
+Other than saying, "I simply don't agree", is there anything important that you would like to add?  I understand you are appealing your conviction.  Beyond the appeal is there anything that this Chamber needs to know in weighing your evidence on this particular point? 
+MR. OGETTO:  
+Your Honours, I think at this point in time I need to interject.  This is a matter that is clearly on appeal, as my learned friend has indicated, and I would advise my client not to give any further explanations, apart from the issue that we are raising on appeal.  I don't think it is advisable for him to give any further explanations.  
+MR. WEBSTER:
+We can move on to something else.  
+BY MR. WEBSTER:  
+Q.	Mr. Nsengiyumva, clearly it's your choice if you want to say something or not.  So you have the opportunity before I ask my next question.  
+
+I take it that you have nothing to add? 
+A.	No.  What I can add to what my Defence counsel has said is that I explained that between April and June the -- there was recruitment ordered by the headquarters under the military system.  These were soldiers who had to join the others at the front.  Even if it was interpreted otherwise, these were people who had to join the others at the front.  And Witness ABQ said so, even if he lied on other aspects.  I would not go any further.  
+Q.	In any case, even though you claim that the civil defence programme was never fully operational, you agree, don't you, that the interim government attempted to implement and extend the civil defence programme? 
+A.	Yes.  Everybody agrees.  That is the truth with the details I provided.  The programme did not operate as such.  The government had the intention to mobilise all Rwandans to defend the fatherland.  But, as I said, it was too late.  The programme did exist, but it did not function. 
+Q.	And in the context of implementing that programme, certain retired army officers were called back into active service to administer this programme.  That much is true as well, isn't it? 
+A.	I concede that.  That much is true.  And I mentioned some names regarding Gisenyi préfecture. 
+Q.	And a number of interim government ministers were designated for various parts of the country where they would be responsible for pacification, which was somewhat analogous to civil defence.  That much is true as well, isn't it? 
+A.	I cannot provide details, because I did not follow up everything concerning this pacification programme with the ministers to the extent that I cannot say which minister went to which area.  I do not have the precise details in that regard. 
+Q.	In any case, in the documentation of civil defence and pacification, sometimes these terms are used interchangeably, along with another term which we see translated into English as "restoring security".  So I'm not -- I think it's (Kinyarwanda spoken), or I'm not quite sure of the Kinyarwanda term.  But what is used in Kinyarwanda is sometimes translated as pacification, sometimes it's translated as restoring security, and sometimes it's referred to as the autodéfense civile.  Are we agreed on that, or do you think I'm wrong in that respect? 
+A.	To my mind, pacification and civil self-defence are two different things.  Civil defence was the population being mobilised to face RPF, whereas pacification was asking members of the population not to continue killing themselves, to restore calm.  It was difficult, because the situation had degenerated, but in my understanding, the two notions are different. 
+Q.	All right.  Well, thank you for the qualification.  In any case, my understanding is that pacification referred to the -- the tours -- the various tours that the interim government ministers would make around the country to communicate the interim government's message at the grassroots level.  And that it was also to endorse the civil self-defence or the autodéfense civile.  But we have your statement, which is your understanding.  
+
+Are you aware that Pauline Nyiramasuhuko had been assigned to coordinate pacification in Gisenyi?  
+A.	I do not know if she was the one who was designated to coordinate.  But that she did go there, I believe on the 2nd of May in Ngororero.  But she was asking the population to be calm.  I did not hear any mention of civil defence.  She was with another minister, Minister Rwamakuba, and I do not know who was responsible for that aspect. 
+Q.	And you were present at this meeting in Girorero (sic)?
+A.	It is Ngororero.  Yes.  Because the préfet asked members of the préfectoral security committee to accompany.  So we accompanied the préfet. 
+Q.	And was this a large meeting, or was it a restricted meeting?  Give us just a bit of information about what transpired, not a long story.  Just tell us briefly.  
+A.	From what I recall, it was a meeting with the officials such as bourgmestres and conseillers and other persons who could make representations to the population.  It was not a rally of the ordinary members of the public as such but was rather a meeting of office bearers from within the population. 
+(Pages 43 to 47 by Deirdre O'Mahony)
+
+
+
+
+1430H
+BY MR. WEBSTER:
+Q.	So members of the territorial administration generally.
+A.	Yes.  But even teachers and conseillers and all those who could assist in sensitising the population for the return of calm. 
+Q.	Well, Pauline Nyiramasuhuko kept a diary of her activities as interim government minister which has been entered into evidence as P. 224.  And she has an entry of around four pages, four or five pages, in her diary about this particular meeting in Ngororero which I've made available to everyone as document number 8 in my bundle.
+
+And even though the dates at the top of the page don't correspond to the 3rd of May, she claims that this information concerns the 3rd of May meeting in Ngororero, and the text is a bit out of order.  But when she testified in her own trial, she clarified everything.  So what I've handed out is what she has identified as information coming from that same meeting.  And it's translated into English on the last 
+few pages of the document I circulated.
+
+But what's interesting in this is that she mentions you, Mr. Nsengiyumva.  And I'm looking at the English translation on the page that ends in K number 1178.
+
+And the notation is "Colonel Nsengiyumva, Ops of Gisenyi", and then right underneath, "civil defence, 1,500 persons already trained."
+
+And in relation to that same meeting on the other side of the page, there's a notation, "Civil defence, the honest ones, guns, not only the reservists."
+
+And on the following sheet of paper, there's a notation, "Congratulate the colonel" or "préfet."
+
+So these are various notations.  I can hand up the document so that you can look at it as well if you'll just give me one second.  
+MR. WEBSTER: 
+If this could be handed to the witness.  Everybody else has a copy.  
+BY MR. WEBSTER:
+Q.	I get the impression from Pauline Nyiramasuhuko's notes that there was some discussion of pacification and civil defence but that the civil defence was up and running, at least to the extent that 1,500 people had been trained.  And there's some mention of guns, not only for the reservists but for the honest ones.
+
+And then in one of the sheets -- I'm looking at the English translation ending in K number 1183, 
+"There is absolute security in Gisenyi.  It appears that the presidents of the youth wings of the political parties issue laissez-passers.  So you can infer from that entry that the youth wings are active and somehow involved in administering the préfecture.  
+
+Right underneath that there there's a notation "Interahamwe".  Just looking at these notes and assuming that Pauline Nyiramasuhuko is accurate when she tells us that she is recording information about this meeting that you -- 
+MR. NIMY: 
+Mr. President, I'm sorry.  I would like the Prosecutor to point out to us the exact pages he's referring to and the various lines he's reading from.  I am not able to follow from the document.   
+MR. WEBSTER: 
+I can try again.  
+BY MR. WEBSTER:
+Q.	I'll begin by saying that this is a document that is in Kinyarwanda and French, mostly Kinyarwanda in its original text.  The order of the text skips around from one page to the next because, according to Pauline Nyiramasuhuko, when she's finished writing on one page, she continued on a preceding page and then went to a page after that.  So the order of the text is not necessarily the order in which things were discussed.  But they all concern the 3rd of May.
+
+And then when you look at the typewritten pages where we have an English transcription, it's a verbatim transcription of what appears in the Kinyarwanda original text which is to say the information is the same.  And it is out of order in the same way it is out of order in the Kinyarwanda text, but that the entries are translated exactly as they appear in the original.  And I've just been reading some of the entries.   
+
+So admittedly, it's not a coherent narrative, but there are entries that indicate that 1,500 people had been trained for civil defence, Interahamwe and political -- youth wing presidents are giving out laissez-passers and things of that nature.
+
+So my question to the witness is:  Doesn't this indicate that, at least at the level of an interim government minister, there was some observation that civil defence was operational in Gisenyi in May of 1994?
+A.	Well, regarding the date of 3rd May, yes, Pauline Nyiramasuhuko is right.  I am the one who was mistaken.  On the 2nd of May, the préfet actually had a meeting at the Umuganda stadium in Gisenyi.  And it is the day after that he went to Ngororero, on the 3rd of May 1994.
+
+Now, as far as for the 1,500 persons whom Pauline claims to have already been trained, the préfet had asked me to take the floor and to tell them what the security situation in Gisenyi was as far as soldiers were concerned.
+
+I took the floor and informed the ministers present, as well as all those in attendance, that the 
+general staff had asked me to recruit a number of persons and to train soldiers for the purposes of reinforcement at the battle front.  
+
+So I said that I had already trained 400 and that, with any time on my hands, I would be able to train about 1,500.  Now, Pauline wrote down 1,500.  But my statement was to the effect that 400 had been trained but that, with the necessary resources, I would be able to train up to 1,500.  That was not yet the situation in Gisenyi.  
+
+Now, regarding the excerpt read relating to "Bravo Colonel", I see she wrote "préfet" and underlined it and then next to it said, "Thanks to the colonel."  And my interpretation is that the préfet thanked me for what I had said.  So nothing in common with "Bravo Colonel" which you referred to.  That is what I read on the page of the 24th of April.
+
+So we were not relating here to civil defence.  We were dealing here with the training of recruits.  And I wonder whether she may have heard about civil defence and then just noted "persons already trained".  I can see that on her book.
+
+But I think that reference -- according to what I was saying, rather, that was not relating to civil defence at all.  Thank you. 
+Q.	So you're simply making a distinction between the people that you recruited and trained for the army and the people that were being recruited and trained for the civil defence.  That is essentially your -- your rebuttal.
+A.	Yes.  There's a distinction to be made.  I had received orders from the general staff to conduct a recruitment of soldiers.  So the reason being that, since they were not trained at the Bugesera, they received normal training for which I've already given you the reasons.   
+
+Now, as for those with the civil defence, it is the three reserve officers whose names I mentioned yesterday who were in charge of that programme.  And I gave you their names yesterday.  It was not part of my own duties. 
+Q.	And the problem with training the civil defence forces was that you had no munitions and weapons to give them; right?  That's why the programme was not operational?
+A.	No.  That is not the case.  You see, even in areas where the programme was implemented or where they started to implement it, those who were trained at the beginning did not have any weapons.  So that was not the case.  
+
+Maybe the point was that the préfet and the reserve officers were not yet ready.  They did not tell me why the programme had not started.  It was not that I didn't have weapons to give them.  It is true that weapons were not available, but that was not the reason. 
+Q.	I'm not understanding the reason why the civil defence could not be made operational in Gisenyi according to you.  So if you could explain your last answer a bit.
+
+Why don't you organise the civil defence?  You'd been ordered to organise it.  What was the problem according to you?
+A.	Mr. Prosecutor, the instructions to organise the civil defence were not given to me.  Those instructions were given to the préfet, according to the documents I saw.  At that time -- or, rather, I have seen.  At that time the préfet did not show me those documents.  I only saw the documents here, and it is the préfet who was supposed to organise the civil defence in coordination with the retired officers who had been assigned that duty.
+
+I was busy implementing what the general staff had asked me to do.  And for the other assignment, 
+it was for the préfet and the retired reserve officers who were supposed to handle the 
+civil defence programme.
+
+If they had asked for assistance from me, I would have looked into it and found out whether I could find something to assist them, but that did not happen.  I, therefore, am not in a position to explain.  It would be the préfet who could provide better explanation. 
+Q.	So a simple answer to my question is, "I don't know."  You didn't know why the civil defence couldn't be organised in your operational sector.
+A.	Yes.  Because civil defence fell under the responsibility of the préfet and the retired officers who were appointed for that purpose.  It was not within my jurisdiction. 
+Q.	All right.  We have your response.  But it does seem to cast you in a questionable light if you are the most senior military officer in the Gisenyi operational sector and a programme is being mounted by the government to ensure security in your sector and the programme is not working and you don't even know why.
+A.	Well, I have already told you that I received orders which I was implementing.  The préfet had received some instructions and may have been working at them.  In any event, I saw those officers go by, maybe to meetings with the préfet.  And I thought that they may have been involved in setting up.  So this did not relate only to Gisenyi.  In fact, what I'm saying is that the programme did not only -- should I say not start in Gisenyi.  It also did not start in other areas.
+What I'm saying also is that I took charge of what I was asked to do, and the others had to do what they were asked to do.  And I did not have control over them. 
+Q.	All right.  Thank you.  We'll look at another document now.  This is document number 9 in my bundle.  This is another entry from Pauline Nyiramasuhuko's diary.  This is in relation to the meeting -- the cabinet meeting that took place on the 10th of June.
+
+Did you participate in that cabinet meeting?
+A.	No.  I could not attend a cabinet meeting, Counsel for the Prosecution. 
+Q.	You said you don't or you couldn't?  Because what I heard you say in French is that you couldn't attend cabinet meetings.
+A.	I could not attend a cabinet meeting, and I did not attend a cabinet meeting. 
+Q.	In any case, let's begin by looking at what Pauline Nyiramasuhuko says in this meeting on the 10th of June.  Looking at the second page, which is the English transcription, she has an entry that "The entire population is mobilised for civil defence.  Distribution of guns contested."  There I think she's referring to Ruhengeri.
+
+If you look at the left-hand side of the paper, she says that civil defence is not mastered in Gisenyi.  Butare, two million for civil defence.  You probably will make better sense of what she's writing in the original Kinyarwanda than the rest of us will from the English translation.  But in any case, clearly she's making notations about the civil defence programme, guns being distributed, the population being mobilised for civil defence.
+
+You claim not to have been present at this meeting.  So I don't suppose you could explain what she means.  But if there's anything you want to say in reaction to these entries, you can.  And then I'll move on to my next question.
+A.	First of all, I'm not claiming that I didn't attend a meeting.  What I'm saying is the truth.  I did not attend any cabinet meeting.  I did not have the capacity to do so.  Now, what Pauline Nyiramasuhuko has entered in her diary she alone can explain.  Although I was not present at the meeting, I note, however, that she notes -- she states in the diary that the civil defence was not mastered in Gisenyi.  And I would like to point out that this is what I have already also told you.  
+Q.	Yes, but I think we'll soon get to the question of what was to be mastered and what was deficient in Gisenyi.  And I think we'll see that when we get to the meeting of the 17th of June.  You attended that meeting, didn't you, the cabinet meeting of the 17th of June?
+A.	No, no.  Mr. Prosecutor, no. 
+Q.	Didn't Trial Chamber I make a factual finding that you not only attended but co-presided the cabinet meeting of the 17th of June along with President Sindikubwabo?  And I can give you the paragraph.  I believe it is -- if you'll give me one second, I'll find the specific paragraph reference.  But you must be aware of that finding.  Paragraph 1808 of the Trial Chamber judgement which is included in document 3 of the bundle I circulated.
+A.	Should I answer?  
+Q.	Yes. 
+A.	I did not attend that meeting which allegedly held in Muramba.  I was not even aware that the meeting took place.  I myself was surprised to see reference made to that meeting in the judgement.  So I went through the transcripts of the various testimonies and submissions here in the Tribunal.  And I noticed that in the English version it was stated that Nsengiyumva, Anatole co-chaired the Muramba meeting with President Sindikubwabo.  I was very surprised at that.
+
+So I turned to the French version, and in the French version -- I am no longer sure how it unfolded, but it would appear to me that it was Mr. Karemera who was testifying at that time, on the 
+16th of June 2006.  The question was put to him as follows:  "Did Kambanda attend that meeting?"
+
+And his answer was, "Yes.  He was the co-chair of that meeting with the president."
+
+Now, in English the name used was Nsengiyumva, but the French question referred to Kambanda.
+
+So you can understand that it was Kambanda who was co-chairing with the president and not Nsengiyumva.  I only found out about this when the judgement had already been rendered.  So you may wish to consult the transcripts of the 16th of June 2006 in the French version, and you would notice that reference was made to Kambanda and not Nsengiyumva.  So there was a mistake which transpired even in the judgement.
+
+And you can put the question even to the ministers who were present.  They will tell you that they did not see me. 
+Q.	Well, you're right on one point at least, which is that on the 16th of June 2006 at page 5 in the 
+	English transcript, what is recorded is Édouard Karemera testifying as a Defence witness in your case, and the question, according to the English text, is "Do you recall, Mr. Nsengiyumva -- if Nsengiyumva was in the meeting that took this decision?" referring to the decision to send troops or reinforcements to Kibuye.  And the answer, "He was the one who was co-chairing the meeting with President Sindikubwabo."
+
+So I'll go back to the French transcripts.  Perhaps you're right, Mr. Nsengiyumva.  We'll have to look at the French and see.  In any case, that's what we have in the English transcripts, and that's what Trial Chamber I relied on when they were making a factual finding in your judgement. 
+A.	So you can see that my judgement was based on false premises. 
+Q.	I don't think that we can go that far because the factual finding that counts is whether or not you sent troops to Kibuye.  And your presence in that meeting really isn't essential for that point.  And I think you'll agree with me that the Chamber relied on the letter signed by Karemera dated the 20th of June which Mr. Sow went over with you almost word for word where Karemera claims that the decision that was taken was communicated to you and was reinforced by the minister of defence on the same day, the 20th of June.
+
+So on that point I don't think you can question the findings made by Trial Chamber I.  But what you're suggesting about the translation issue is quite plausible.  So I'll look into that.
+
+In any case, what I wanted us to get to was the minutes of that very meeting because in those minutes from the 17th of June there are other issues that come to light, namely, civil defence where 
+Alphonse Nteziryayo is nominated to replace the préfet in Butare, and Nteziryayo was in charge of civil defence or one of the officers involved in civil defence in Butare and the préfet of Gisenyi, who was viewed as not being up to task for handling the situation in Gisenyi.  But we'll leave that alone.  If there's anything you'd like to comment on those two statements, you can do so.
+A.	No.  I have no comment because I don't know anything about them. 
+Q.	You'd agree with me that there were ongoing efforts on the part of the interim government to find weapons to provision both the civil defence and the army in June of 1994, wouldn't you? 
+A.	Yes, there were efforts to obtain weapons.  But whether they were for civil defence or not, I do not know.  But if weapons had been available, clearly the civil defence would also have received weapons. 
+Q.	I think you admitted in your own trial -- and it's what I recall from your testimony yesterday -- that Bagosora, Colonel Bagosora, and Joseph Nzirorera went to South Africa and the Seychelles to buy weapons in June of 1994.  Wasn't that your testimony?  
+A.	Yes.  That is true.  Yes.  They went. 
+Q.	And they were successful?
+A.	Yes.  And some weapons arrived. 
+Q.	In two shipments, from the Seychelles to Goma, on the 17th of June and the 19th of June.  Isn't that so? 
+A.	I do not clearly recall, but that is possible.  I know that weapons arrived around that date. 
+Q.	I don't even think those facts were contested in your trial where Bagosora was a co-defendant.  I think there was evidence in your case, which you didn't contest, of Bagosora going on mission to South Africa with Nzirorera and Bagosora proceeding to the Seychelles and negotiating contracts, some of which were in evidence in your case and are in evidence in this case, of a purchase of 
+	light arms and mortars.  And all of that was delivered to Goma.  One shipment arrived on the 
+	17th of June, and the other shipment arrived on the 19th of June.  Isn't that so? 
+A.	Yes.  I can confirm that those two persons went looking for weapons and that some weapons were bought.  And those weapons arrived, but I don't have any further details.   
+Q.	Well, I'll direct the parties to document number 5 in my bundle which is a report dated the 
+	13th of March 1996.  And I've reproduced the portions of it that would be of concern to us, but it's a much larger document.  And the parts that I didn't copy is the introductory letter dated the 
+	13th of March 1996 where Secretary General Boutros Boutros-Ghali is forwarding this report to the president of the Security Council and their introductory remarks to indicate that it's a report on the international commission of enquiry, Rwanda, executive summary.  
+
+And starting on page 8, there's the case study for arms purchase in the Seychelles, and that's a page that I did copy for everyone.  It's only in English.  If you want to look at the English text, I can make that available to you, Mr. Nsengiyumva.  
+MR. WEBSTER: 
+If Mr. Issa could hand this up to the witness.  
+(Pages 48 to 55 by Kelly Surina)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500H 
+BY MR. WEBSTER:
+Q.	In any case, it starts off by talking about the interim report at paragraph 21 on page 8.  Then it goes on at paragraph 22 about the aircraft, the transport of the weapons.  And then at paragraph 29, at the bottom of the page, it gives the details of the South African contact and Bagosora passing himself as someone from Zaire so he would have no problem purchasing the weapons when there was a US embargo in place.  At paragraph 32 on page 14 it gives the details about the aircraft and indicates that it departs the Seychelles on the 17th June, returns to the Seychelles on the 18th of June and they return once again with another shipment on the 19th June.  
+
+So the entire investigation is chronicled here.  I don't think you dispute the investigation because it was accepted in your own trial.  But what interests me is the conclusions which start on page 64, and it details the weapons.  
+
+In fact, in paragraph 64 on page 29:  "The arms which included AK47 rifles, 82 millimetre and 
+60 millimetre mortar shells.  Ammunition" -- it lists the ammunition.  The transaction was negotiated by Colonel Bagosora, then a high-ranking officer of the Rwandan government forces with the participation of Willem Ellis, a South African national.  
+
+And then when we get to paragraph -- sorry, page 32 it says:  "The commission concludes that it is highly probable that a violation of the United Nations embargo took place involving the supply of more than 80 tons of rifles, grenades and ammunition in two consignments flown to Ngoma airport on the 17th and 19th of June 1994 and subsequently transferred to the Rwandan government forces then in Gisenyi, Rwanda."
+
+Do you dispute that those guns actually arrived in Gisenyi sometime after the 17th of June 1994?  
+A.	I have already told you that some weapons arrived and were delivered in Gisenyi where an officer of the Rwandan army was present, Captain Habimana, Augustin.  A-B-I-M-A-N-A (sic), Augustin.  He had come to wait for those weapons.  He loaded them onto his trucks and took them to Kigali -- or, rather, I don't know whether it was to Kigali or to Gatumba, because at that time the Rwandan army base had been moved from Kigali to Gatumba.  But in any event he took the weapons with him, so I can confirm that those weapons did arrive. 
+Q.	In your own trial there was testimony from Witness ZF that those weapons that had arrived Ngoma from the Seychelles were distributed to militiamen being trained in Gisenyi stadium, and those were the same militiamen that were supposed to be taken to Kigali.  
+A.	Prosecutor, you would understand that if the government orders weapons for the entire army, Nsengiyumva, the Gisenyi commander, cannot go, take the weapons and give them to people who were not recommended by the government.  The weapons were ordered by the government and not by me.  And I'm telling that I did recruit militiamen.  I recruited soldiers.  And even the soldiers we are talking about, I was not the one supposed to provide them with weapons.  It is the army chief of staff who had to provide them with weapons.  So I did not distribute weapons.  I could not deviate a consignment of weapons ordered by the government.  
+Q.	In any case, Mr. Nsengiyumva, I would suggest to you that those weapons -- or the first delivery that came in on the 17th, which were the rifles and the grenades and the ammunition, the light weapons, which was the first delivery, those were given to the civil defence.  You deny receiving them for the 
+	civil defence in Gisenyi.  And what I'd suggest to you is that Prime Minister Kambanda, in a speech that he makes on the 19th of June 1994, informs the population of Gitarama that weapons had arrived the day before to be distributed for civil defence.  
+A.	Yes, Kambanda could have said so.  He was making a lot of promises.  It was not necessarily true.  And the weapons left.  If they were given to Kambanda, I do not know.  It still remains that the officer in charge of weapons and ammunition was there.  He was waiting for them.  He loaded them into 
+	his -- the car -- the truck and left.  What Kambanda said is his own version. 
+Q.	Yes, but if we take our attention away from Gisenyi and now think about the rest of the country, wouldn't the speech by the country's prime minister indicating to the population of Gitarama that weapons had just arrived the day before and were going to be distributed to them, and in which he actually distributes weapons to those assembled, wouldn't that indicate to you that civilians were being armed in the context of the civil defence programme in June? 
+A.	Prosecutor, I hope that you saw the film where Kambanda was distributing weapons in 
+	Ndiza -- N-D-I-Z-A -- in Gitarama préfecture on the day he was making the speech.  I had the information that these were old weapons.  They even looked like weapons for hunting.  These are not weapons which were ordered from South Africa or the Seychelles.  That was not the impression I had.  And he just gave a few weapons, 10 or 20, I'm not sure.  
+
+But if you look at the film, you will not have the impression that Kambanda was distributing a lot of weapons -- new weapons that had just recently arrived in the country. 
+Q.	Well, let's try to do that.  I'll ask my assistant to try and locate on the video the particular point where Kambanda is giving the weapons out.  And then you can -- it will come up on the screen and you can tell me if they were hunting guns or new guns.  
+
+And while we do that, we can distribute -- we can take a look at document 6 bis in my bundle, which 
+is -- 
+A.	I am not confirming that they were hunting guns.  I was trying to show that these were not 
+	sophisticated weapons.  They had just recently arrived from the Seychelles and had just been ordered recently.  In any case, I was not there, and only saw them -- there you are.  You can see these are things that were used in the First or Second World War --  even the First World War, that is what I was saying -- the Second World War. 
+Q.	Well, maybe you have a point.  I'm not an expert on military affairs.  But if someone was to shoot you with a weapon like that, you'd still die though, wouldn't you? 
+A.	Absolutely.  But I meant that the weapons Kambanda were distributing were not weapons which had recently arrived from the Seychelles.
+Q.	Okay.  So you may have a point, Mr. Nsengiyumva.  The Court can make its own factual finding.  I'm not going to dispute you on that particular point.  But whether those particular arms that you see in that frame came from the Seychelles or not, it seems to me that those guns could have done the trick in the hands of an Interahamwe or militiaman who wanted to use them against the civil population; you'll agree with me on that point, won't you?  
+A.	I am saying that at the time the aim of civil defence was not to shoot at people who were not fighting.  It was to shoot at the RPF.  But I am telling you that the programme did not work.  And even with those weapons we're not going to be able to put up any confrontation with the RPF which had more sophisticated weapons.  So it was an attempt to do -- to try to do something, but it was too late. 
+Q.	In any case, I'd still like us to look at what Kambanda is telling the people of Gitarama.  And my understanding is that this was at Nyabikenke.  So at the top of document 6 bis, which we all shall have, we have the text in both English, French and original Kinyarwanda.  
+
+And here's a copy for you, mister -- in French, a copy for you, Mr. Nsengiyumva.  The very first paragraph, Jean Kambanda is saying:  "Believe me, we shall defeat the Inkotanyi.  I assure you that nowhere in the world has the population ever been defeated by an enemy once the people knew the enemy was in the minority."  
+
+Now, if you just think about what he's saying in that first sentence, wouldn't you get the impression that he's talking about the civilian population when he defines the enemy as the minority?  
+A.	Firstly, I do not believe that Kambanda spoke in French.  He spoke in Kinyarwanda.  I do not know what he said in Kinyarwanda, and I do not want to interpret his words.  I was not there. 
+MR. WEBSTER:
+If Mr. Issa would hand up the Kinyarwanda text to the witness, please.  
+BY MR. WEBSTER:
+Q.	So now you have the Kinyarwanda text.  It's the first sentence.  And I'll repeat it again in English:  "Believe me, we shall defeat the Inkotanyi.  I assure you that nowhere in the world has the population ever been defeated by an enemy once the people knew that the enemy was in the minority."  
+
+Does the Kinyarwanda text read any differently? 
+A.	I see that he's talking about the RPF and the RPF was the enemy we were fighting against.  I would not have a problem, apart from the fact that I do not want to have to justify what Kambanda said.  This speech is not mine. 
+Q.	Yes.  But doesn't it represent the policy of your government, at least as it was articulated on the 
+	19th of June? 
+A.	Neither do I want to discuss our government's programme.  I was not part of the government. 
+Q.	So if the government had a genocidal policy, you wouldn't know anything about that since you were not part of the government.  Is that your testimony? 
+A.	I do not think that that government had a genocidal problem -- programme, as it is said, because that government started fleeing on the 12th and continued to flee.  And the government was not even listened to by members of the population, which reproached the government with fleeing from the capital and leaving members of the population behind.  I do not think that they had the time to sit out and come up with a genocidal programme.  No, I do not see that programme.  And that is my view. 
+Q.	In any case, looking at some of the other things that Kambanda says in this speech, if you look at the French text where I've numbered it, you can finally get it in Kinyarwanda.  But it's the first sentence after the large gap where he says:  "If you were told" -- it is number 2 as I've numbered it -- "if you were told it was for lack of firearms, know it now that we have started receiving them.  Even the army chief of staff told you so yesterday.  He said exactly what I have just told you.  If he told you so in his capacity as the army chief of staff and I tell you the same as the head of government, it is because there is a reason and sufficient proof of that." 
+
+So here he's acknowledging that guns have started to arrive.  
+
+And if you go to the following page, in the English text at least, where it is numbered 3 and 4, where I've numbered number 4:  "And I want to assure you that we shall defeat them at any cost.  As you were told, we always promised you that weapons for the civilian population would be delivered.  We have now started receiving from -- the first consignment arrived yesterday.  I hope that is not a secret.  Those arms that arrived yesterday are to be given to those who have been trained and are fighting 
+side by side with the armed forces."  
+
+So at least as Kambanda is reporting on the 19th of June, the civil defence has gotten a new -- a new shot in the arm, so to speak, has gotten some reinforcement because guns have arrived and they're being distributed.  
+A.	What Kambanda says here -- I hope that the chief of staff explained that when he was here recently.  I was not present there.  But my opinion is that if he wanted to sensitise members of the population for them to be ready to fight side by side with the armed forces against the RPF, I do not see the programme -- the problem.  
+
+But these were just words, because even the recruits we had trained did not have weapons, so he could not have weapons to distribute to members of the population.  But had the weapons been distributed and had they been given to members of the population, who would have helped to put up with the RPF, it would have been a good thing.  But that was not the case and I do not see any problem here. 
+Q.	You realise, Mr. Nsengiyumva, that in your own judgement Trial Chamber I was able to make all of the connections between the cabinet meeting on the 17th of June right down to the killings by militia in Bisesero towards the latter part of June on the basis of documentary proof.  
+
+They were the telegrams from Kayishema, I believe, of the 9th and 12th of June, one of which was entered into evidence in your case.  We have it in this case as well.  There were the minutes of the 
+17th of June, both admitted in your case and in this case.  There were the letters between Karemera and Kayishema after that, including the one of the 20th of June, where Karemera specifically mentions the minister of defence authorising reinforcements to be sent to Kabuye.  There were the letters afterwards from Bagilishema, I believe it was on the 24th of June, complaining about the Interahamwe who had stopped off in his commune on their way to Bisesero.  
+
+And in this case, in addition to the same documents that Trial Chamber I had, we have even more documents in relation to the events in Kabuye and witness testimony of a militiaman who travelled to Bisesero to participate in the killings after the 17th of June.  
+A.	First of all, let me recall here that I appealed against this Bisesero incident, but I will give you an answer to that notwithstanding.  And the answer is that the letter from Karemera to Kayishema, which talks about the minister of defence's confirmation of instructions that he had given me, I never had that confirmation.  And the telegram which the minister was supposed to have sent to the chief of staff of the army and the gendarmerie I did not receive.  Perhaps he was asking them to send other forces and not necessarily those sent by Nsengiyumva.  I do not know.  
+
+Now talking about the letter from Bagilishema to Kayishema talking about militiamen who were sent as a reinforcement, it was never mentioned that the militiamen were sent by me.  Never.  That is what I can say on that. 
+Q.	In any case, that's a defence that you and Édouard Karemera and Joseph Nzirorera and Mathieu Ngirumpatse have assembled together, isn't that so? 
+A.	No, because these documents were shown here when Karemera was testifying.  I was not acquainted with them and Karemera had never talked to me about it.  
+
+So far as Mathieu Ngirumpatse is concerned, we have never discussed Bisesero because I did not think that it concerned him.  So this letter from Bagilishema I saw here.  The letter from Karemera to Kayishema I saw here.  The telegram of -- from the minister of defence I never received, so I could not have been able to discuss it beforehand. 
+Q.	Well, what I mean is Édouard Karemera testified in your defence back in 2006.  Right? 
+A.	That is correct, because he was accused along with me.  So I was being accused of the letter he had written.  And in my indictment it was not even mentioned that I sent soldiers to Bisesero.  I was only accused of having received the letter.  And that's it.  
+Q.	And Joseph Nzirorera also testified in your defence. 
+A.	Yes, that is correct, because those who accused me said that I had held meetings with him.  And I brought him for him to say viva voce before the Chamber whether those meetings actually took place.  That is the reason why I called him. 
+Q.	And Mathieu Ngirumpatse also testified in your defence.  
+A.	That is not true, Prosecutor.  He testified for Bagosora. 
+Q.	In your joint trial.
+A.	Yes, but he was not my witness. 
+Q.	He was nonetheless a Defence witness that was disputing the accusations against you and Bagosora and Ntabakuze and Kabiligi; isn't that so? 
+A.	I do not know if he contested anything I was accused of.  I know that he was called by Bagosora; and what he testified to, I no longer recall. 
+Q.	And after those -- the three defendants in this case testified as a Defence witness in your trial, or in your joint trial with Bagosora, here you are today testifying in their defence; right? 
+A.	Yes, because they were accused of facts that implicated me.  So I had to tell the Court what I knew about this -- about those allegations.  I came to tell the Chamber the truth. 
+Q.	Well, all of you were accused of basically the same things:  Training, arming and mobilising the Interahamwe and combining the Interahamwe in a civil defence programme that was inherently genocidal ,given the context of Rwanda in April, May and June of 1994; not so? 
+A.	I do not know if that is how the words were put.  That is not what is written in my indictment. 
+Q.	Well, I think you can rely on my representation that that is at the core of this case and is at the core of the Bagosora et al case, that Interahamwe were trained and mobilised to attack the Tutsi and they were incorporated with the army, specifically in the civil defence programme, in genocidal attacks against Tutsi.  I don't think that statement is any less true in your case than it is in this one.  Those are joint accusations that you all face. 
+A.	Yes, and we gave explanations to the Chamber, and I hope that we convinced the Chamber.  And where we failed to do so, we have lodged an appeal.  
+
+In any case, as far as I am personally concerned, I should say that I have never trained militiamen or Interahamwe and I was never involved in any genocide.  And as far as these Interahamwe are concerned, there is confusion because mention is made of Interahamwe, but we are not told who the Interahamwe are.  Sometimes we are told that Interahamwe are all of those people who were killing people, and sometimes you are told that the Interahamwe was the youth wing of the MRND, and sometimes Interahamwe means all the youth wings.  I do not know what Interahamwe was being referred to.  But in any case, I gave my explanation and I hope that it was convincing. 
+Q.	Well, it wasn't convincing to Trial Chamber I because they convicted you.  And what I'd suggest to you is that you could hardly be considered an independent or a disinterested witness in this case because you and the defendants in this case are accused of the same things.
+MR. OGETTO:
+My Lords, these are submissions that my learned friend can make at the end of the case.  It is not for the accused person, my client, to determine whether he is a credible witness at this point in time.  I think we are really wasting time. 
+MR. WEBSTER:
+I think I have put a proposition to the witness that he can't be considered impartial as a witness in this case, and he should be able to answer that, if he's willing to.
+THE WITNESS:
+I can answer comfortably.  I came to tell the truth and I have told the truth.  
+
+As far as the rest is concerned, the Chamber will consider the testimony and take its decision.
+BY MR. WEBSTER:
+Q.	Well, thank you.  
+MR. WEBSTER:
+I don't think I have any further questions.  
+
+There are exhibits I would like to have admitted.  The Court seems surprised.  I can go on if it's a disappointment. 
+MR. PRESIDENT: 
+It is not a disappointment.  Thank you very much. 
+
+Mr. Nimy, do you have any questions to put to the witness in redirect?  
+MR. NIMY:
+Mr. President, Your Honours, I have two questions.  
+MR. PRESIDENT: 
+You may proceed. 
+RE-EXAMINATION
+BY MR. NIMY:
+Q.	Yes, Colonel.  I would like Mr. Issa to give you the last exhibit which the Prosecutor gave you.  I believe it was 6 bis.  Do you have it? 
+A.	Yes, I do, Counsel. 
+Q.	Very well.  Could you take the part of the text in Kinyarwanda? 
+A.	I have it.  "Speaker:  Jean Kambanda".  Correct? 
+Q.	Would you like to read in Kinyarwanda from "Mumenye" right to "u Rwanda".  That is the first paragraph.  
+A.	"Know that we are going to win the Inkotanyi.  Know that there is no place in the world where members of the population who once knew what the enemy was, that they are small in number and that they managed to overcome them.  I have" -- "that has never existed and I confirm that.  I confirm that the RPF can never govern this country.  Never.  I confirm that the RPF cannot govern Rwanda."  There you are, Counsel. 
+Q.	Very well, Colonel.  Could you continue and read the very last sentence which starts with "Icyo" and ends with "Bugande"? 
+A.	"What I am telling them is one thing.  And that is that since the Inkotanyi are in Rwanda now, as from the day I'm saying this any Inkotanyi who does not lay down his weapons and surrender and declare that he will no longer fight the war, that Inkotanyi will not return to Uganda." 
+Q.	Those are the two passages I wanted you to read.  Did you notice that there was mention of Tutsis anywhere? 
+A.	No, I said that I can see that mention is made of RPF.  I do not see Tutsi there. 
+Q.	I thank you, Colonel. 
+
+Now I would like Mr. Issa to assist me in refreshing your memory with document D. 1, which the Prosecutor gave you.  It is -- it deals with the report that you made to President Habyarimana -- or rather to the chief of staff.  Do you have that document?  
+MR. NIMY:
+Mr. Issa, you could take mine. 
+THE WITNESS:
+I have the document, Counsel. 
+BY MR. NIMY:
+Q.	That's fine, Colonel.  Now, somewhere in that document -- on page 5.  
+A.	I have found page 5. 
+Q.	You are better placed to read that than I am, because it is a passage in Kinyarwanda which says:  "Ubobo muzabi mubobo mugire" (phonetic), and so on.  Could you read that passage, Colonel? 
+A.	"You should rather tell him for him to know."
+Q.	You would rather tell him for him to know.  Did you tell him? 
+A.	Yes, of course, and that was the purpose of that note. 
+Q.	And what was his reaction, Colonel? 
+A.	As I said, the reaction was as follows:   He called me and he told me that he had been receiving other reports of the kind, even more detailed reports, and asked me what I thought he could do to release the tension in the atmosphere.  And I told him that he could look for an opportunity to talk to members of the population and deal with that issue and try to calm members of the population.  And he did so.  That is what I said at the outset. 
+Q.	And his speech of the 17th of August, was it what you asked him to do? 
+A.	Yes, he was talking to the members of parliament who had taken -- or who had been sworn in.  He said a number of things, including that issue.  And he told the members of the population that the government was aware of what was going on in Arusha and that they should be convinced that nothing would go on in Arusha against the interests of the people, and that restored calm. 
+Q.	Colonel, do you believe that that speech of the 17th of August 1993 was an answer to what you raised in the report? 
+A.	That is correct.  That is what I expected and it had the desired effect; calm was restored. 
+Q.	One last question, Colonel.  Prime Minister Nsengiyaremye, what did he say about the demobilisation programme of the army?  What did he say to members of the population, if your memory serves you correctly? 
+A.	He says that very soon negotiations would start with the RPF and that upon completion of the negotiations part of our soldiers will be demobilised and the RPF soldiers would be given an opportunity, And those who had been demobilised would be allowed to go and engage in farming. 
+Q.	So what was the impact of what Prime Minister Nsengiyaremye said? 
+A.	As I said, the soldiers were very annoyed and some of them reacted very negatively right through to shooting in the air and even proceeding to acts of looting in some areas:  Gisenyi, Ruhengeri, Mukamira, Byumba, Kabuye, because in Kabuye at the time there were still soldiers.  It was very difficult for us to put the situation under control and restore calm.  It was very complicated. 
+MR. NIMY:
+Very well.  
+
+Mr. President, I have no further questions for the colonel.  
+
+Colonel, I thank you. 
+THE WITNESS:
+Thank you, Counsel. 
+MR. NIMY:
+Mr. President, may I ask that when the witness is released he could see or he could be allowed to meet the Accused, as is the custom. 
+MR. PRESIDENT: 
+Thank you, Mr. Nimy.  
+
+Colonel, that concludes your testimony before the Tribunal in this case.  And as we do all witnesses, we thank you for assisting the Tribunal in its work.  You are now excused from your testimony.  
+THE WITNESS:
+I thank you too, Mr. President, Your Honours.  And I hope that you can continue your work.  May God guide you as you continue to carry out your task which is so important and so noble.  I would like to thank the Prosecutor too. 
+MR. PRESIDENT: 
+Thank you.  
+
+The registrar will make arrangements for the request made by counsel to be granted.
+(Witness excused)
+MR. PRESIDENT:
+Mr. Webster, do you want to admit the documents now or do you want to do it Monday morning?
+MR. WEBSTER:
+At the Court's convenience. I can discuss it with Mr. Nimy.  
+
+I think there are only two things that are not already in evidence which I would want to have admitted.  It's the transcript of Kambanda's speech, the tape from which it's transcribed, and the international commission enquiry report on the delivery of weapons.
+(Pages 56 to 65 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1545H
+MR. PRESIDENT:
+          Mr. Nimy.
+MR. NIMY:
+Mr. President, if you don't find anything wrong with my suggestion, we can have time, the Prosecutor and myself, to look through those documents, and in our next session, we will begin with the document, because we have not had time to look at the documents together. 
+MR. PRESIDENT: 
+Yeah.  Okay.  Yes.  I think that's acceptable.  
+
+Mr. Webster.
+MR. WEBSTER:
+Yes.  And the last thing I wanted to note is to come back where I started off this morning and just acknowledge the presence of my colleague, Saidou, who will be appearing before you for -- before you for the last time now.  But who knows?  Maybe the case will continue long enough for him to come back and see us in its final stages.  I don't know.
+MR. PRESIDENT: 
+I hope that's not wishful thinking, Mr. Webster.  We did notice his arrival during the course of the afternoon.  And we welcome the opportunity to acknowledge the work he has done in this case over the time he has been a member of the Prosecution team.  
+
+We -- Mr. Saidou, we -- on behalf of the Bench, I wanted to express our good wishes to you for the future and to trust that you will continue to excel in your chosen career as you move on from strength to strength.  Wish you and your family all the best as you move on. 
+MR. N'DOW: 
+Thank you, Your Honour.  I must say a few words.  This time not to ask for an extension of time, as has always been the case, but to tell Your Honours that I'm -- I'm finally leaving the United -- UNICTR to take up another challenging career at the UN in Nairobi.  And I leave this case, Your Honours, with a heavy heart and a deep sense of consternation (inaudible).  I surely would have loved to finish the case.  But unfortunately, this has not been possible.  
+
+But I wish you the best of luck.  And I am -- wish you good health and a successful completion of this important case.  It has been a worthwhile experience, and I cherish every opportunity of being part of this case.  As Your Honours pleases.  Thank you. 
+MR. NIMY: 
+Mr. President, I would like to tell our very dear learned colleague, Saidou, that we are all with him in the new adventure he is going to take on.  And since the world is such a small place, we are going to meet.  And in any case, every time I meet him I will do everything to forget that he was a prosecutor, and I will take him as a friend.  I will take him as a friend.  And I can tell him that he can rest assured that the wine that is shuffled through our heart, as the holy book says, would always be there for us.  I wish him a great career.  
+MR. WEYL: 
+Mr. -- Mr. President, I would not like to be left behind.  I would like to associate myself to all those good words to wish my excellent learned colleague all the best.  
+MR. SOW: 
+Mr. President, since Saidou N'dow is from the Gambia, and since Gambia is within Senegal, I cannot miss the opportunity to wish him a -- all the best.  
+MR. OGETTO:
+I welcome him to Nairobi. 
+MR. PRESIDENT: 
+We thank you all very much.  
+
+Saidou, I hope everything goes well with you in the future.  
+
+We take our adjournment now.
+(Court adjourned at 1548H) 
+(Pages 66 to 67 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Tanya West, Jean Baigent, Claudette Ask, Deirdre O'Mahony, Kelly Surina and Melissa Hook, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+	
+
+
+___________________________	Tanya West
+
+
+___________________________	Jean Baigent
+
+
+___________________________	Claudette Ask
+
+
+___________________________	Deirdre O'Mahony
+
+
+___________________________	Kelly Surina
+
+
+___________________________	Melissa Hook
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 16
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 32
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+CLAUDETTE ASK - ICTR - TRIAL CHAMBER III - page 42
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+DEIRDRE O'MAHONY - ICTR - TRIAL CHAMBER III - page 47
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page 55
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 65
+
+	KAREMERA ET AL	THURSDAY, 29 APRIL 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 67
+
+	KAREMERA ET AL		THURSDAY, 29 APRIL 2010
+
+ICTR - TRIAL CHAMBER III
+

@@ -1,0 +1,1290 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+WEDNESDAY, 24 MAY 2006
+0910H
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Nouhou Madani Diallo
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Iain Morley
+	Mr. Gilles Lahaie
+	Ms. Alayne Frankson-Wallace
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	Mr. Felix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. Patrick N. M. Ngimbi
+
+Court Reporters:
+	Ms. Roxane Meena
+	Ms. Karen Holm
+	Ms. Donna M. Lewis
+	Ms. Kirstin McLean
+
+
+I N D E X
+
+WITNESS
+
+For the Prosecution:
+WITNESS T
+Examination-in-chief by Mr. Morley (continued) 	16
+
+
+
+EXHIBIT AND EXTRACTS
+
+Exhibit No. P. 27 	19
+Extracts 	 1, 4, 7, 8, 38, 39, 40, 41, 42, 43, 44, 45, 68
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. DIALLO:
+Thank you, Mr. President.
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Francis Emile Short, and Judge Gustave Kam, is now sitting on the 24th of May 2006 in the -- of trial -- in the matter of the Prosecutor v. Karemera, Case Number ICTR-99-44-T.  
+
+Thank you.
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+
+The appearances are the same.  Yes.  
+
+I thought we would just open a bit early this morning, in case there are any housekeeping matters that needed to be addressed.  
+MR. ROBINSON:
+Yes, Mr. President.  There is actually one issue that arose, I think, recently, and it is a very serious violation of Rule 66(A)(ii) that I -- has now come to my attention, with respect to Witness T.  And I have two motions with respect to that.  
+
+This morning Mr. Morley emailed me 25 single-spaced pages, in French, of statements of Witness T which have never been disclosed to us.  These are statements which were apparently retyped by the Prosecution from (By order of the Court, this word has been extracted and kept under separate cover) PVs which were never disclosed to us.  I have no idea why the Prosecution retyped them in the first place, but neither the underlying PVs, which are all statements of this witness, nor the typewritten version that was provided to me this morning, has ever been disclosed to the Defence.  So that is -- that should have been disclosed in July 2005, 60 days before trial, because they are clearly statements of the witness.  
+
+As a result of that, we won't be prepared to commence our cross-examination until we've had an opportunity to review it.  For me, I have to have it translated by someone on my team so I can understand it, discuss it with my client, and determine if any further investigation is necessary in light of the substance of the material.  
+MR. PRESIDENT:
+Protective measures, Mr. Robinson; we're in open session and you mentioned the name of a country.  
+MR. ROBINSON:
+I see, I apologise.  So we could redact that.  
+MR. PRESIDENT:
+I will redact the name of the country that has been mentioned.  
+MR. ROBINSON:
+I'll be more careful.  Thank you.  
+
+So, my motion -- my first motion is to postpone the cross-examination of Witness T until such time as we're in a position to have digested and acted upon the information which has now been disclosed.  
+
+Secondly, there remain four PVs, which are not included in what I've received today, which have not been disclosed.  
+
+And, Clair, I think Judge Short wants your attention.  
+
+Mr. President, the four PVs which have not been disclosed to us as yet, dated the 26th of October 2004, the 28th of June 2005, the 8th of August 2005, and the 1st of September 2005, all of which are reference -- references made to them in other subsequent interviews of this witness.  I've been the subject of requests that I've been making through the Prosecution for several weeks now, and they've been unable to locate those -- those documents.  
+
+They should have been produced pursuant to your decision on the 23rd of February 2005 on my motion to request the cooperation of the government of the state, in which you ordered the state to produce copies of all statements made to judicial and law enforcement authorities of the state in question.  And so there's been a failure, either by the Prosecution to disclose them, or by the government of that state to disclose them, pursuant to your order.  
+
+You recall that the Prosecution interfered with the administration of your order by obtaining materials directly from the state and putting them into three CDs, asking that only one of those CDs be disclosed and the other two CDs be withheld.  And there's no way for me to know whether these materials are in the other two CDs since I have never had access to them.  
+
+Which brings me to my second motion, which is a motion for you to reconsider the decision on the Defence motion to report the government of a certain state to the United Nations Security Council, and the Prosecution motion under Rule 66(C) of the rules.  In that motion you decided to allow the Prosecution to withhold material, including statements of Witness T, on the grounds that it is necessary to preserve the right of Witness T to a fair trial.  And I'm asking you to reconsider that decision in light of what you heard from Witness T on Monday, which is, first, that his trial is not scheduled to commence in any time in the near future, and second, that he's prepared to admit his guilt to genocide.  
+
+Based upon those facts, I think we now can conclude that, number one, the material would not jeopardise his right to a fair trial, since he's willing to accept his responsibility for the charges that are laid against him, and secondly, that the prospect of us obtaining these materials later during this trial, in which we could then review whether or not Witness T should be recalled before the trial is over, is now significantly diminished.  And so based on that, and on the fact that the Prosecution is not in good faith in its disclosure policies with respect to Witness T, as evidence by this last-minute disclosure of material, I would ask that you reconsider that decision of the 15th of February 2006.  
+
+In addition, I'd like to call the Trial Chamber's attention to some pending motions, which are inhibiting our ability to effectively cross-examine Witness T.  In particular, I had made an ex parte motion for subpoena of Witness NZ1.  That motion was made on the 23rd of January 2006.  It was disclosed to the Prosecution inadvertently, so I don't think I -- it would hurt for me to mention in open Court that Witness NZ1 is the same as person number 10 on Exhibit P. 9, a member of the very same committee that this witness is.  And it would have been useful, if that motion were to be granted, for it to have been ruled on in advance of this.  And the motion specifically asked that the witness be ordered to meet with me on the 24th of April.  And, as a result of that, I don't have the ability to take information from that witness which I can use in my cross-examination.  
+
+Secondly, the Prosecution motion for protective order concerning Rule 68 material remains pending.  The Prosecution was prepared to give us, at the end of the last session, Rule 68 material concerning the acts of the RPF, including their infiltration into the Interahamwe, but they required a protective order before they would do so.  It took them a while to move for that protective order, but they did so on the 5th of April, and that material remains undisclosed to us because the Trial Chamber hasn't ruled yet on that -- the modalities of that disclosure.  And that also is inhibiting my cross-examination of Witness T, because if I had that material I might be able to use it to put some questions to him about the Interahamwe's activities during this period.  So, I believe that those pending motions, and the lack of decision on them, support my request that the cross-examination of Witness T be postponed.  
+
+And I, finally, call your attention to a recent request for disclosure of material relating to Mr. Serugendo, who is also on this list, P. 9, and I would ask that that motion be decided as well.  Thank you.  
+
+MR. MORLEY:
+May it please, Your Honour.  Regarding the matters relating to NNZ, RPF material and Serugendo, and I would invite my learned leader to respond.  
+
+Regarding the (By order of the Court, this word has been extracted and kept under separate cover) material, my learned friend's choice of language is interesting.  He's put forward before the Court that the disclosure of this material shows the Prosecution's not been acting in good faith.  The -- 
+MR. PRESIDENT:
+Mr. Morley, you also mentioned the name of the state.  You use it as an adjective for the material.  
+MR. MORLEY:
+Yes. 
+MR. PRESIDENT:
+So that's redacted, and please be careful.
+MR. MORLEY:
+Thank you.
+
+Regarding the state material, my learned friend's choice of language is interesting.  The cut and thrust of the courtroom is always important, but from time to time it may be helpful to keep in mind the manner in which this material has come to light.  It had been my understanding that my learned friend had this material from the beginning of the disclosure in respect of this state material.  And I was discussing with him on -- I think it was on Saturday, where the four PVs that he has referred to might be.  And it was me who raised with him whether or not the material is referred to in the summary.  And he mentioned to me that he wasn't sure if he had the summary.  
+
+I went looking for the summary and, what happened was, I found that the summary had been lumped in with one of the CDs which had not been disclosed by reason of the order of the Court.  I was a bit surprised by that, and I sent the material to my learned friend on the email today.  All it is, is -- as Your Honours may recall -- there is a thicket of information relating to this case, and it may be the details are far from Your Honours' minds, but it's a document which summarises some of the contents of PVs which have been -- the other contents of which have been ruled to be nondisclosable.  And the material relates, essentially, to what is said about the Witness T's own involvement in the circumstances arising after the death of the president.  It isn't material which relates to any of the Defendants.  
+
+It runs to 20-odd pages of summary.  And when my learned friend invites the Court to say that the cross-examination has to be postponed, I'm a little uncertain as to when he is suggesting the cross-examination has to be postponed.  My learned friend is a capable lawyer, and this is material, I respectfully submit, that can be consumed, digested, and dealt with within about an hour of looking through it.  It's not particularly -- I say it, as the Prosecutor, it is not particularly significant.  My learned friend may take a different view.  
+
+Insofar as there's been a failure to disclose it, I take responsible for that because it seems to me that I should have been aware, although contrary to my instructions the material had ended up on an undisclosed CD rather than a disclosed CD.  It was, in fact, me who drew to my learned friend's attention, during what I know Your Honours encourage as being counsel-to-counsel communication, about the existence of the material.  And I was puzzled as whether or not the PVs that he was searching for had been referred to in the summary.  So it is not as if, when my learned friend stands up and announces that the Prosecution are not acting in good faith, that is an attractive use of language.  My learned friend knows that I have been under the impression that he's had this material from the very beginning.  
+
+Regarding the four PVs, I still can't find those.  And Your Honours may recall that there is a weight of material.  And I'm still -- I've gone through it once already, and I propose to go through it again.  It may be I'm going to have to talk to the state authority to find out more.  But, at the moment, the position is the material is still unfound.  Insofar as my learned friend is inviting that you report the state to the Security Council, that is premature on the grounds that we're not quite sure where the four PVs are.  
+
+With regard to the argument that because there has been an indication before Your Honours that the witness in the state is proposing to offer a plea to genocide, it follows -- and that was the language my learned friend used -- it follows that there is no need to protect any of the material in respect of his fair trial in that state.  I respectfully submit it doesn't follow at all.  Your Honours may recall what the arguments were in respect of how his fair trial rights needed to be protected.  And none of that is affected, in fact, by whether he's offering a plea or he is not offering a plea.  
+
+I don't propose to say more about what the arguments are because, if Your Honours recall, the arguments were launched ex parte.  And insofar as Your Honours may wish to hear further from me on that, it may be that I will be making application to address Your Honours ex parte about the logic behind the argument that his fair trial needs to be preserved by the nondisclosure of some material.  And I emphasise the word "some".  My learned friend has the vast majority of it.  
+
+So, in short, when is my learned friend inviting the cross-examination to be postponed to?  The document which he's had today is not difficult to consume, and he's not proposing to begin his cross-examination until Friday.  The nondisclosure arises out of the material having been on the wrong CD.  The material was brought to my learned friend's attention in counsel-to-counsel communication, in circumstances where it was plain, I thought he had it.  And as for the four PVs, I still can't find them.  
+
+Can I assist further at this stage?  
+MR. PRESIDENT:
+I don't have any further questions right now.  
+MR. MORLEY:
+Very well.  Thank you.  
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON:
+Well, Mr. President, I think the very clear question for you is upon whom must the burden fall for this nondisclosure?  
+MR. PRESIDENT:
+But it's quite clear.  I mean, the Prosecutor has admitted that they did not make the disclosure until this morning -- 
+MR. ROBINSON:
+Exactly. 
+MR. PRESIDENT:
+-- so that's clear.
+MR. ROBINSON:
+Okay.  So we can --
+MR. PRESIDENT:
+Now the issue -- there's two different issues as I see it.  The responsibility for the nondisclosure is clear, I think.  It's been admitted.  I'm not certain exactly what's the position with regard to information which they don't -- cannot find, because it's not a statement that they don't have the information, it's a request -- a statement that they can't access it.  So that's not so clear.  
+
+The issue of the adjournment for cross-examination, I don't assume that the issue of fault affects that.  It's a practical issue as to what time is necessary -- what time and facilities are necessary to enable satisfactory preparation.  What was in my mind was the fact that we weren't sitting tomorrow.  It may, in fact, be sufficient time.  But that was a separate question, really, which I wanted to hear from you on.  
+
+The -- you see, in the face of a statement that documents are lost, what does one do?  
+MR. ROBINSON:
+I understand.  Well, right now we have two problems; one, documents which are found; and, one, documents which are lost.  So for the documents which are found, first of all, there's 25 pages, single space, in French.  All statements of this witness.  That's not an easy thing for me to deal with.  Also, I have my client, who is the repository of a great deal of information, and I need to discuss with him.  So I would at least need over the weekend just to deal with that material.  You said we are not sitting tomorrow, but I think -- I was under the impression I was required to be here all day.  
+MR. PRESIDENT:
+I do apologise, we are not dealing with this witness tomorrow.  That is not quite the same thing.  I think I was wrong to say that.  
+MR. ROBINSON:
+Okay.  So, I think, just if we are dealing only with the material that I have to digest, the 25 pages in French, I think I at least need over the weekend to be able to deal with that.  But I think I should have more time because of the issue at fault.  This is material that I should have had in July.  I would have investigated the material.  I can't speak right now about the content because I haven't read it, but there may be -- very well be that, after having read it, that there's some investigation that needs to be done concerning that material.  But leaving that aside, which is speculation at this point, and dealing with what we know, 25 single-space pages of material in French, I would say I would need at least until Monday to deal with that material.  
+
+Then the question remains, what about the material I don't have?  We know the (By order of the Court, this name has been extracted and kept under separate cover) have it because I gave them the PV numbers.  So -- I'm sorry, I just said the wrong thing.  We know that -- if we could redact that.
+MR. PRESIDENT:
+Order for redaction of the name of the country.  
+MR. ROBINSON:
+We know the state has it.  And it can be -- there's been a lot of cooperation between the Prosecution and the state prosecutor in that state.  And it seems to me that they could -- if they can't find it, they can request it from them.  I have the very PV numbers I've given them.  It should be very easy for them to provide and fax it.  That was an obligation that the state already had pursuant to your order of 2005, and had not the Prosecutor interfered in that process, perhaps the disclosure would have been complete, or at least I could have checked it to see if it was complete.  
+
+So, I think that the burden is now on the Prosecutor to produce that material forthwith.  And if it is not quickly retrievable in their own files, they should go to the state and get copies from them.  And once I've received that material, depending on its volume and content, I could advise you when I would be in a position to cross-examine based on it.  
+MR. MORLEY:
+I understand my learned friend's sensitivities.  However, the realities are that, although I don't know what's in these four PVs, the overwhelming likelihood is that none of this material is going to be absolutely pivotal to anything before this Tribunal.  I say that as the Prosecutor, so one has to take what I say with a pinch of salt.  But there may be an element -- albeit there is a fault on my part -- of my learned friend exaggerating the wrong that he feels has been done to him.  
+
+With regard to the question of when the cross-examination begins, may I offer the following thought for Your Honours' assistance.  There is, as I understand it, a time limitation on the amount of -- on the number of days that we have for the video link with Witness T.  And, as understand it, as a result of an email from Mr. Hometowu, the state is not presently in a position to continue a video link after the 9th of June.  And my learned friend defending, and those defending with him, have previously indicated that their anticipated length of cross-examination is going to go way beyond the 9th of June, and it may be that some time management is going to be important.  
+
+It would be unattractive to lose all of Friday.  And I respectfully submit that the realities -- and I emphasise the word "realities", rather than the theory of preparation for cross-examination.  The realities of courtroom practice are that my learned friend, whose cross-examination will begin and last for several days, can begin on Friday.  And insofar as any of the material he has received this morning is important for his cross-examination, it can be weaved into his cross-examination as his cross-examination proceeds on the following days after the weekend.  I respectfully submit it is not a reality of courtroom practice to say that an entire multi-day cross-examination has to be delayed to look through 20-odd pages of French material, none of which touches on any of these Defendants.  My learned friend can start on Friday, and the material can be consumed by Monday.  
+
+Realistically, frankly, if I received this material, I would be in a position to deal with it tomorrow morning.  However, my learned friend says he needs five days in order to be able to have a look at it.  The extent to which that is an absolutely accurate observation is a matter for Your Honours, but it shouldn't need a delay beyond Friday.  We should still sit Friday on T.  That's the thought I offer Your Honours.  
+MR. PRESIDENT:
+Mr. Morley, do you have any comment on the steps that could be taken to retrieve, either locally or otherwise, the missing PVs?  
+MR. MORLEY:
+I would hope to have those by tomorrow morning, somehow.  Either having gone through the material again, or from the state.  
+
+And my learned friend, Mr. Webster, has a thought.  
+
+I'm grateful to my learned leader.  He has the thought that we can probably make a request, through the video link, of the state authority.  Because as Your Honours know there is a (By order of the Court, these words have been extracted and kept under separate cover) there, and they will have access immediately to the file in any event.  And Mr. Lahaie, who represents the Prosecutor's Office, can probably locate from the state the four PVs that I have been otherwise unable to find.  And then they can be faxed straight through us today.  That maybe a helpful thought.  
+MR. PRESIDENT:
+That is a helpful thought.  
+MR. MORLEY:
+Can I assist further?  
+MR. PRESIDENT:
+Mr. Morley, two comments:  Your description of the judicial officer should be redacted because it also provides clues; so we will change that.  
+MR. MORLEY:
+Well, I apologise for that, although that term is universal throughout a large number of countries.  
+MR. PRESIDENT:
+Secondly, I don't really believe in, you know, criticising from the Bench, but we must -- I think it is important for us to communicate our dissatisfaction with what has happened with regard to disclosure in this matter.  I don't want to say any more than that at this stage.  But from somebody who doesn't like to criticise, I hope you take that as a very serious remark from me.  
+MR. MORLEY:
+I do, Your Honour, yes.  I have in mind, I'm sure -- I'm sorry, Your Honour will probably have in mind, I'm sure, the amount of material that has been disclosed, and Your Honour will, no doubt, imagine -- will have in mind -- this is one document, and it's a document I thought had been disclosed.  It's not as if we were --
+MR. PRESIDENT:
+You see, there's a (unintelligible) of issues:  The issue of fault.  I'm not even examining that at the moment.  The failure to disclose is a very serious problem, and it is a matter which has been raised in correspondence, which we have seen, and in Court, in our presence, on several occasions, and we have listened to assurances coming from your side of the bench that all these matters have been disclosed.  So it's again in that context I make this remark again.  There have been many opportunities to correct this problem.  
+MR. MORLEY:
+Your Honour, yes.  I hope, however, that the Bench accepts that this is a document I thought had been disclosed, rather than as a document we are reviewing now, and it is in that context that the error seems to have arisen.  It is not a situation where we're looking at a document which we've argued over the disclosure of.  It is something that I had thought had been disclosed and I have discovered was in the wrong CD, and that's how the error seems to have been made.  It's an oversight rather than a failure to look at the material.  The material had been looked at it, and it should have been disclosed.  And I thought it had been.  
+MR. PRESIDENT:
+Right.  Thank you for that.  Okay.  
+
+Mr. Robinson, we have an undertaking to raise the issue in a manner which may produce immediate retrieval of the missing PVs.  I wouldn't want to make a comment on the commencement of your cross-examination yet.  I am inclined to think that you could start, and if necessary, we can make adjustments, if necessary.  But I'm also very concerned about the overall time that we have -- to which we will have access to the video link.  And I would like to use the days that we have in the best way that we can.  So I suppose we can come back to that later today and see what specific orders are required, but my invitation is to consider the method by which you can adjust the order of examination that would facilitate the commencement of his examination on Friday, and that would give you the weekend to review any new material and, let's say, could be dealt with in the latter phase of your examination.  But I don't ask for commitment right now.  
+MR. ROBINSON:
+I understand that, Mr. President.  And I've, obviously -- I don't even know what the material contains so it would be difficult to even weave it into my outline until I knew to give you any commitment, but I'd ask you to consider a couple of possible remedies here.  
+
+First of all, I can't tell you how -- I think this really impacts on the fair trial of my client when every witness, time and time again, we receive material at the last minute or during the course of the witness testimony.  This is not the first time it's happened.  This has happened, almost without exception.  I'm only thinking of Witness ZF as the only witness in this trial for who this has not happened.  So every time I'm being asked to cross-examine with half -- you know, material missing, and there's been no remedy for it, and as a result, the violations haven't stopped.  And, to me, it's a very unsatisfactory way of proceeding and it really implicates on my client's fair trial rights.  And I strongly protest been -- having my client to bear the burden of all the Prosecution's disclosure violations, whether inadvertent or intentional.  
+
+Secondly, I would ask that if you're going to insist that I cross-examine on Friday, that we not sit tomorrow and that would give me the day to work with the material, get it translated, discuss it with my client.  That's going to take several hours, at the minimum.  And I don't see that why -- it's impossible for me to do that while we're sitting in a full session from 8:45 till 4:45 -- excuse me, until 5:45 or 5:30.  So, you can bring Witness ZF back on the 5th of June, if you would like, but it seems -- if you're insisting that I start on Friday, the least that can be done to remedy this is to give us tomorrow to work with this material.  Thank you.  
+MR. WEBSTER:
+Your Honours, I don't think it would be -- it should be necessary for us to adjourn tomorrow, but if that's the only way of moving forward without losing time on the video link, I would not oppose that last application.  But as a practical matter, I think what Mr. Morley represented to the Court is actually quite reasonable, that we can proceed and that the material is not as voluminous as Mr. Robinson -- 
+MR. PRESIDENT:
+Mr. Webster, you're speaking on both sides of the decision. 
+MR. WEBSTER:
+In what respect, Your Honour?  
+MR. PRESIDENT:
+You say you don't object to Mr. Robinson's request to have tomorrow.  At the same time, you're saying that he doesn't need tomorrow.  So what are you really saying?  
+MR. WEBSTER:
+I don't see -- 
+MR. PRESIDENT:
+If you're not sure what to say, you don't have to say anything.  
+MR. WEBSTER:
+To me -- let me restate my position.  I'm simply reformulating what I've already stated, which is that it should not be necessary to take the day off tomorrow, but as a halfway measure, if the Court is concerned with completing this testimony by the 9th of June, which is when the video link terminates, taking off tomorrow may be a reasonable way of addressing Mr. Robinson's concerns.  
+MR. PRESIDENT:
+Mr. Webster, the Court is not interested in granting indulgences to anyone.  If we think that it is necessary for a fair trial, then we will not sit tomorrow.  But why should we not sit tomorrow if it's not necessary for a fair trial?  So that's why I suggest you're speaking on both sides of the point.  If it's necessary for a fair trial of these Accused persons that we should not sit tomorrow, that would be a good reason for not sitting.  So if you think that the fair trial requires the adjournment, then you can say so.  You don't lose anything by saying that.  In that case, that would support the -- that would give a rationale, a rationale that we could accept for not sitting tomorrow.  But you can't argue that it is not necessary and still say we should adjourn, because we would not adjourn unless we thought it was not necessary -- unless we thought that it was a necessary step to facilitate a fair trial of the proceedings.  That would be the reason for adjournment.  
+MR. WEBSTER:
+Well, in light of the Court's comments, I'll follow the Court's instruction and say nothing on the matter and I'll leave the matter entirely in the discretion of the Trial Chamber, so we can pretend that nothing was said.  But I don't think that advances the issue.  
+
+On the issue of Mr. Robinson's reference to the pending motions regarding Serugendo, and I believe it was NZ1, the witness for whom he seeks some sort of subpoena, I think those are pending motions that -- we've already made our positions clear on that.  On the issue of the RPF, if I could ask him to please restate his concern because I didn't quite grasp that one.  
+MR. ROBINSON:
+Yes, Mr. President.  The Prosecution had filed a motion on the 5th of April 2006, requesting a protective order before they disclosed Rule 68 material relating to the acts of the RPF, and that motion has been pending, and I was asking that that motion be decided so that, once the protective measures are in place, the Prosecution can go ahead and disclose the material which they haven't yet done. 
+MR. WEBSTER:
+All three issues are then pending before the Court.  We've made our positions clear on those.  It's just a matter of the Court deciding those motions.
+MR. SOW:
+Mr. President, I would simply want to support the application made by Mr. Peter Robinson.  I really did not want to dwell on this issue of late disclosure which is posing enormous problems to us.  A fair trial requires that disclosures should be made according to the Rules.  Ever since the commencement of this trial, we have been repeatedly reiterating this point, and each time the same problem arises again.  
+
+We have another problem, that is, the constraints of the video link.  And each time the Defence is asked to adapt.  The Prosecution is also a party to this trial, and there has to be equality of arms for an appropriate trial.  That is why I agree with what Mr. Peter Robinson said; if it is necessary, tomorrow we should not sit so that we should be able to adapt and fit in within the time fixed for the video link, even if ZF has to be called back next time for his testimony.  
+MS. HOUNKPATIN:
+Mr. President, I would simply like to say that the Defence for Mathieu Ngirumpatse supports these submissions.  The day of tomorrow would be necessary for all the parties in the Defence to receive the materials and be able to analyse them.  
+MR. PRESIDENT:
+Okay.  We've already lost approximately 25 minutes of the video connection.  We will rule on the issue of whether we sit tomorrow after lunch.  And hopefully -- that we'll have some additional information on the other issues that have been raised.  
+
+Mr. Morley, I had wanted to make a comment about examination methods.  I believe that everybody's entitled to their own -- their own style, but I thought that on Monday there were a number of occasions when the witness was asked to simply repeat material about which he'd already given testimony.  And also we -- after rethinking a little bit, I thought that sometimes getting him just to reiterate information which was already on documents that were already in evidence, maybe that could help if you address those issues in a slightly different manner.  That could also facilitate your -- completing your testimony today, if you are still (unintelligible) to close today.  
+MR. MORLEY:
+I don't think I am.  I've got an hour and -- an hour and 24 minutes in the kitty in respect of Monday, and arguably there's some more time in respect of today.  I would have thought that we're going to drift into Friday by somewhere in the region of an hour-and-a-half to two hours.  
+
+With regard to Your Honour's thoughts, I fully understand the thrust of Your Honour's thinking.  The difficulty is --  
+MR. PRESIDENT:
+Mr. Morley, that was not a ruling of any sort.  It was just -- you don't have to make the point -- I'm not going to - necessarily -- interfering with you, I just (unintelligible) out to see how it may affect. 
+MR. MORLEY:
+Your Honour, yes.  I had thought that dealing with the documents in the way that I did on Monday were to be quite quick. 
+MR. PRESIDENT:
+You thought -- oh.  
+MR. MORLEY:
+But what happened was, the witness was rather particular about wanting to read everything that was put in front of him --
+MR. PRESIDENT:
+That is a point.
+MR. MORLEY:
+-- and I thought that he would simply, on a nod, agree with certain proposition for foundation, and then I would ask the important question.  But instead we ended up with delays, the witness reading, my learned friend Mr. Robinson standing up and making motions and arguments, and so the procedure was slower than I had anticipated.  It hadn't gone as I had imagined.  
+MR. PRESIDENT:
+Yes, well these things -- I also -- it was just a comment; I didn't intend it to be a criticism.  I'm sorry you took it in that way.  It was just a suggestion as to how we could expedite the proceedings. 
+MR. MORLEY:
+Your Honour's always welcome to criticise me; I learn from it.  Thank you.  
+MR. PRESIDENT:
+Mr. Registrar, could we activate the video link now.  
+MR. HOMETOWU:
+Mr. President, the video link is operational right now and the witness will be called in in a very short while.  
+MR. PRESIDENT:
+Thank you very much, Mr. Hometowu.  We can see you, and we have just seen the witness enter the seat beside you, and we heard you quite clearly.  
+
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Mr. President.  
+MR. PRESIDENT:
+Your testimony will be continuing this morning.  You will remain under the same oath to tell the truth that you took when your testimony begun on Monday.  Do you understand that?  
+THE WITNESS:
+Yes, I understand, Counsel (sic). 
+MR. PRESIDENT:
+Now, Mr. Hometowu, the appearances are the same at our Chamber.  We have already commenced other business, and the appearances have, in fact, been announced.  Could you confirm the appearances in your Chamber, please.  
+MR. HOMETOWU:
+Mr. President, I would like to confirm that the appearances are the same.  Thank you.  
+MR. PRESIDENT:
+Thank you very much.  
+
+Now, Mr. Morley, are you ready to commence?  
+MR. MORLEY:
+Your Honour, I am, but may I begin with a small piece of administration which we had been discussing earlier.  
+
+And may I address my enquiry to Mr. Lahaie, who I anticipate is in the room.  There has been a difficulty in locating a number of statements taken by the relevant state, where the witness presently can be found, and I'm going to list the numbers of those statements and I would ask that Mr. Lahaie make enquiries of the representatives of the state present in the room to locate the statements and fax them, at some point today, to the Office of the Prosecution here in Arusha.  And the numbers are as follows -- before I read them out, can I just get confirmation that Mr. Lahaie has heard what I have said?  
+MR. LAHAIE:
+That is correct; I have understood.  
+MR. MORLEY:
+Thank you.  The statement numbers are as follows -- there are four numbers.  The first number is:  223311-04.  The second number is:  214926-05.  The third number is:  218166-05.  And the fourth, and final, number is:  219735-05.  
+
+Can I confirm, please, with Mr. Lahaie whether those numbers came through clearly and he has a note of them?  
+MR. LAHAIE:
+(No interpretation)
+THE ENGLISH INTERPRETER:
+Mr. President, the link is, if anything, much worse.  It is very difficult to understand what they are saying.  It may be that Mr. Lahaie should speak in the same microphone as the witness, somebody suggested.
+MR. MORLEY:
+Can I invite that Mr. Lahaie approaches the microphone which is being used by the witness, and that he comes on screen and speaks into that microphone.  There are problems with the sound coming from Mr. Lahaie to Arusha.  Is that understood? 
+MR. LAHAIE:
+Is the reception better now?  
+THE ENGLISH INTERPRETER:
+The answer is "yes", from our point of view in the booth.  
+MR. MORLEY:
+The answer is "yes"; thank you.  Can I confirm you have those numbers?  
+MR. LAHAIE:
+I have noted the numbers as I heard them translated by the interpreter.  
+MR. MORLEY:
+And that you'll be in a position, as the state of authorities have also heard them listed, to make enquiries of them today?  
+MR. PRESIDENT:
+Mr. Morley, just as a suggestion of accuracy, could you get him to repeat the numbers for you.  
+MR. MORLEY:
+Thank you, Your Honour.  A very sensible suggestion, if I may respectfully say so.  
+
+Mr. Lahaie, can you repeat the numbers that I have read out?  
+MR. LAHAIE:
+The first number was 223311-04; the second number, 214926-05; the third number, 218166-05; and the fourth number, 219735-05.  
+MR. MORLEY:
+Thank you, I confirm that.  And I'm looking across the room to Mr. Robinson.  I'm anticipating he confirms those numbers as well.  
+MR. ROBINSON:
+Yes, I do.  
+
+MR. MORLEY:
+With that done, may I invite, with Your Honours' leave, that the witness takes up his position, the camera focuses on him, and the examination continues.  
+MR. PRESIDENT:
+Yes, permission is granted for that to take place.  
+MR. HOMETOWU:
+We are ready, Mr. President. 
+THE ENGLISH INTERPRETER:
+Says a voice.  
+MR. MORLEY:
+Thank you.  Your Honour, I'm conscious of the fact that there's a lot of strange sounds, like things going down drains at the moment.  I'm just wondering if that's because people are moving around and that sound will go away.  Yes, it seems to have stopped.
+WITNESS T,
+EXAMINATION-IN-CHIEF (continued) 
+BY MR. MORLEY:
+Q.	Witness, on Monday we got to the stage of the end of 1992, with the disappearance, or escape, of Mugesera with the assistance of the Rwandan army.  I want to take you now to the events of 1993, and I want to begin with this question:  You told us on Monday about the Interahamwe, by the end of 1992, they would be seen to carry traditional weapons, and sometimes pistols or rifles or grenades which they may have purchased in the marketplace.  What was the position with the Interahamwe and their use of firearms as 1993 developed, please? 
+A.	I'm sorry, but I didn't understand quite the conclusion of the question.  
+Q.	Did the Interahamwe ever receive any military training? 
+A.	Not in 1992, I don't think. 
+Q.	What about in 1993?
+A.	Do you mean as regards to military training?  What should I speak of in respect of 1993?  
+Q.	Did the Interahamwe receive any military training in 1993?
+A.	Well, in fact, it was in 1993 that the Interahamwe underwent military training proper.  
+Q.	From approximately when in 1993 did members of the Interahamwe receive military training? 
+A.	That development was observed in the second half of the year, that is, from July, August, September.  Continuous training -- military training.  
+Q.	Who was the person who put forward, or coordinated, or organised Interahamwe military training?
+A.	Well, in relation to the public safety and order and security problem, which was a constant concern, the MRND leadership and the -- certain officers in the army, through the minister of defence -- and I know that, in particular, two members of the provisional national committee regularly led the Interahamwe in military training.  
+Q.	What were the numbers of the two committee members, please, from document P. 9, if that can be put in front of you again?
+A.	I have the document before me.  Number 1 and number 6 on that list.  
+Q.	Whose idea was military training?  Where did the idea come from?  From whom? 
+A.	Well, in the course of 1992, the problem of arming part of the population was discussed in a council of ministers that -- who rejected the idea, took a negative decision in response to that request made by the MRND ministers.  And, therefore, the idea emanated from the MRND party.  The idea emanated from the problem of security raised by MRND and Interahamwe, who asked what the party had in view to ensure their safety.  That was the idea that went its way, and which concluded by deciding to arm part of the Interahamwe.  
+Q.	My question was:  Whose idea was it?  Can I have a name, please, of the MRND person, in light of your last answer, whose idea it was to arm the Interahamwe, despite the fact that the government and the ministers had decided not to arm the population?
+A.	Well, among the Interahamwe, Mr. Mathieu Ngirumpatse guaranteed that the Interahamwe's security safety would be ensured, and certain members would receive training in order to support the army in a context of legitimate self-defence.  But the idea was collective, in answer to your question, at the outset, and gradually it was refined and concretised in that manner.  
+Q.	As the idea was refined and concretised, was Mr. Ngirumpatse present for its refinement and concretisation?
+A.	Well, in the course of 1993, the meetings held, as in the course of the preceding year, were under a -- leadership of Mathieu and the Interahamwe, so I can confirm his presence.  
+Q.	Can you help us with approximately when the idea first began to be considered?  You've told us that there was training in the later part of 1993, but when did the idea first begin to float before the international -- the Interahamwe committee?
+A.	Well, I think it was about November 1992.  Well, as of the time the matter was discussed in the council of ministers, and more particularly after the RPF attack of February 1993, that idea was omnipresent.  In fact, it was an obsession with security that arose every time we met.  People were saying to each other, "Well, the youth of the other parties -- the youth wing go off to the RPF for training and come back."  And the idea had become an obsession, indeed, after the attack on Ruhengeri in February 1993.  
+Q.	Can I ask please -- and Mr. Lahaie's assistance -- can we put the contents of Document 12, that's tab 77, before the witness.  
+MR. MORLEY:
+And, Mr. Lahaie, I'm looking specifically at the French translation -- I'm sorry, the French typed version with K-number K0503816.  That's the document amongst three that the witness will be most helpfully referred to.  
+
+Now, whilst that's being done, Your Honours will know that is a apparently handwritten note from the Defendant Ngirumpatse to the president of the Republic.  And in tab 77 we have a photocopy of the handwritten note itself.  We then have it typed up in French, and we then have it typed up in English.  
+THE ENGLISH INTERPRETER:
+Is there anyway we could get the microphone switched off in The Hague when they are shuffling papers around, because it is very difficult for my colleagues to follow with all the background rustling and what have you?  
+MR. MORLEY:
+Might I make that enquiry of the state.  
+
+May I invite those in the room of the state -- is it possible to switch off the microphone when documents are put in front of the witness because, oddly enough, the rustling of the documents is very loud on the microphones here -- the headphones here, and the translators are becoming distracted by that sound.  I don't know if it's possible to switch off the microphone briefly when documents are put in front of the witness.  Is it possible?  
+MR. HOMETOWU:
+It is not possible in view of the type of microphone we're using here. 
+THE ENGLISH INTERPRETER:
+I believe it was Mr. Hometowu's voice.  
+BY MR. MORLEY:
+Q.	Now, Witness, you ought to have in front of you a document in French, and at the top of the document there ought to be a number marked K0503816.  Do you have that document in front of you?
+A.	Yes, I have this document before me, Counsel. 
+Q.	That is the typed-up version of a handwritten document, which appears to be written by Ngirumpatse to President Habyarimana, dated the 14th of February of 1993.  Do you understand what I've said? 
+A.	Yes, Counsel, I've understood.  
+Q.	I want you to turn, please, to the third page of the French document.  And in the top right-hand corner, you should see the number 20315.  Do you have the third page in front of you? 
+A.	Yes, I have that third page.  
+Q.	If we read the top line of the third page, it appears that Mr. Ngirumpatse is saying to the president of the Republic the following words -- and I'll read them in French and you will, perhaps, see them in French on the top of the document:  
+
+"In my opinion, it is urgent -- extremely urgent that we train the young people in secret of course."  
+
+Do you see that on the third page, at the top of the page? 
+A.	Yes, I do see that sentence.  
+Q.	The apparent date of that letter is the 14th of February of 1993.  Had training of the youth movement been considered by the committee of the Interahamwe by then?
+A.	A part of your question escapes me, Counsel.  Forgive me for asking you to repeat it.  
+Q.	The document is dated the 14th of February 1993.  My question is:  Had there been discussion, with Mr. Ngirumpatse present, at the Interahamwe national committee by the date 14th of February 1993, concerning military training for the Interahamwe?
+A.	To be frank and sincere, I cannot speak of a date, but I could speak of a period of time.  However, the date of the start of the hostilities against Ruhengeri town by the RPF was the 8th of February 1993, if my memory serves me right.  And, as I said, in the preceding period, the MRND ministers had submitted this question to the council of ministers, so it must be around that time that the security concerns, that was constant, became even more critical.  Which, as I said, became after -- arose after the 8th of February 1993 attack.  
+Q.	Thank you, that's helpful.  Now, can you help us with a person named Turatsinze.  Did you ever know a person named Turatsinze?
+A.	I did know one Turatsinze, who was part of the Interahamwe, a certain Turatsinze, Abubacar Kassim, who was, in fact, the animator in charge of mobilising the Interahamwe in Kigali préfecture.  
+MR. MORLEY:
+Your Honour, before we go further with Turatsinze, may I make a formal application to have tab 77 exhibited.  It hasn't gone in as an exhibit yet.  The witness has laid context for the context of that letter, and I would invite it becomes Prosecution Exhibit -- I think, P. 26.  Mr. Issa has helpfully told me P. 27.  
+MR. PRESIDENT:
+Admitted.  P. 27.
+(Exhibit No. P. 27 admitted)
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Can I ask you, please, to look at what is a photograph at document 15, otherwise known as P. 6, otherwise in tab 1, 2, 3.  Do you have a photograph of someone in front of you?
+A.	Yes.  That is the Mr. Turatsinze I knew in the Interahamwe.  
+Q.	All right.  Thank you.  What was his role?  Explain how he operated within the organisation.
+A.	In fact, Mr. Turatsinze was responsible for animating, mobilising -- his animating was sort of political cheerleading -- and was the right -- of the Interahamwe, and was Mr. Mathieu's right-hand man as regards meeting the MRND's objectives of various meetings, the communications.  He was the drive belt, if I can use that expression, between the national committee, where Mathieu was secretary-general, and the Interahamwe youth of the various districts of Kigali.  And that is the role I saw him play.  He was jack of all trades as regards animation, political cheerleading, and mobilising the Interahamwe in Kigali. 
+Q.	When did he first --
+A.	Moreover, he had at his disposal a Suzuki jeep which he used to move around, which was the property of the MRND.
+Q.	When did he first make an appearance within the organisation, approximately?
+A.	When I joined, which was towards the month of November 1991, I do not remember having -- seeing Turatsinze.  But end of February -- end of January, February, March perhaps, I would see him often.  His presence was manifest.  But more particularly, as of March-April 1992.  
+Q.	What does the expression ville morte mean?
+A.	That expression was used at the time of demonstrations to protest against some decisions, either in respect of the Arusha Accords or the opposition parties, and it meant to paralyse all activities in Kigali town in order to mobilise opinion, sensitise it to the protests, or in order to ensure the advancement of one idea or another.  
+Q.	Did the Interahamwe ever perform any ville morte at Kigali in 1993?  
+A.	Well, yes, I think there were at least two demonstrations of that nature.  Probably, if my memory serves me right, one such demonstration took place in January -- or, the end of December 1992, or beginning of January 1993, whereas perhaps in the month of August 1992 such a ville morte demonstration was planned, but cancelled at the last minute on Mathieu Ngirumpatse's orders.  And it was Turatsinze who had spread the word that the operation was cancelled -- the demonstration was cancelled.  At the very last moment, in the evening, he had advised the Interahamwe, who were to support the MRND civil servants who objected to the politicalisation of the civil servants by the prime minister, Nsengiyaremye.  That is what I can tell you from what I remember.  
+Q.	And how would the Interahamwe paralysed Kigali?
+A.	Once the main roads were cut, when the population is prevented from moving around, but I don't think there's anything unusual about that.  It's more or less classic operation.  We prevent people going from work, you raise roadblocks to cut the main arteries.  It's a very classic type of operation.  It was undertaken by the Interahamwe or by the opposition parties on the 8th, and on another date in January 1992 by the opposition parties.  It's something -- classical operation. 
+Q.	So when you said there was a ville morte in January 1992, earlier you had referred to January 1993.  Did you mean to say 1992, or did you mean to say 1993?
+A.	I believe it was a slip of the tongue if I had talked about January 1992, but the ville morte that was carried out by the Interahamwes was in January 1993.  I talked about 8 January and 15 January 1992, and these were demonstrations of ville morte that were instituted by the opposition parties.  I hope that is clear.  
+Q.	Thank you, that's helpful.  Now, who was the person who made a decision, the overall person who decided there would be a ville morte or not, and would dispatch the Interahamwe?  Who was in charge of making that decision?
+A.	Counsel, I do not know of a single activity that was initiated by the Interahamwes without the instructions or directives of the party, and which generally were conveyed to us through Mr. Mathieu; either he gave those instructions to Turatsinze and to the members of the Interahamwe committee through their president, and those instructions were disseminated during our meetings.  Sometimes the messages were broadcast over the radio.  
+Q.	Thank you.  In July of 1993, we know, as a matter of record, that Mathieu Ngirumpatse became the president of the MRND, Édouard Karemera became the vice president of the MRND, and Joseph Nzirorera became the general secretary of the MRND.  Can you help us, please, with, from July of 1993, when those three men held those offices, what role, if any, did Joseph Nzirorera have with the national committee for the Interahamwe?
+A.	After the elections, during the congress of July 1993, when Mr. Nzirorera was elected secretary-general, the men ruled that -- I saw that he was playing with regard to the Interahamwe, considering that prior to that he had been more discreet.  In fact, his role was specifically funding, that is, financial support to the Interahamwes.  That was the main thing that I could see as his role with regard to the Interahamwe, but officially he was the secretary-general of the MRND.  But after the elections the Interahamwe started contacting him more openly than before.  
+Q.	What was the nature of his relationship with Turatsinze?
+A.	At one point I learnt that Turatsinze, who was also acting as a driver in the secretariat or headquarters of the MRND party, that is, I learnt that he had had a very serious argument with Mr. Nzirorera, and he refused categorically to serve him and placed himself at the disposal of Mr. Ngirumpatse.  And this was the subject of much commentary amongst the Interahamwes.  That is how I learnt about what had happened between Turatsinze and Mr. Nzirorera. 
+Q.	Do you know anything about the argument between them?  What was it about?
+A.	In summary, I learnt that Turatsinze refused to work for Mr. Joseph Nzirorera because he felt that Mr. Nzirorera was giving him orders and instructions with arrogance, and that he felt that was not acceptable to him.  That is what I learnt; I did not seek to find out the details.  
+Q.	Do you know anything of a distribution of arms to the Interahamwe in late 1993?
+A.	Well, the distribution of arms around the end of 1993 was done both by Mr. Turatsinze and by number 1 on the list of the provisional national committee.  Obviously, this also was the case with other people, but specifically, since I got that information from Mr. Turatsinze himself, those two people distributed arms, and later on we were to learn that those -- some of those arms did not reach the people for whom they were intended.  I am telling you this because at the end of December, early January, I personally received a firearm from Mr. Turatsinze.  
+Q.	Well, we'll talk about that shortly.  But, in terms of arms not getting to the places they should get to, what -- did Mr. Turatsinze get in any trouble over that?
+A.	Let me backtrack a little bit so as to be more elaborate.  Two or three weeks after having received the weapon from Mr. Turatsinze, he came to visit me at home.  He asked me whether I could return that arm to him so that it could be proven to the military authorities that he had really distributed the arms.  He told me that he had a lot of problems because he was being accused of not having distributed all the arms, and that by returning the weapon, to him, that could constitute proof that he had actually distributed those arms.  Unfortunately, I no longer had that firearm with me, and when I explained to him the circumstances under which I had lost that weapon, or because I no longer was in possession of that weapon, he was he was quite sad because he said he was going to have serious problems.  This was probably towards the end of January, early February 1994.  
+Q.	All right.  Thank you.  We've leapt a little bit ahead in the narrative.  But just to follow it up:  Did he have any trouble with anyone within the MRND over the suggestion he had not distributed all the guns? 
+A.	I wouldn't be in a position to tell you that, Counsel.  The information that I am giving you is what I personally experienced with Turatsinze.  I had learnt about the other incident before, and whatever else happened, I learnt about it after April, that is, the problems surrounding the distribution of weapons and the other problems that arose.  That is all I can tell you.  
+Q.	Do you know whether or not Mr. Nzirorera had anything to say about the failure to distribute all the guns? 
+A.	Personally, I did not hear whatever he had to say about that matter, except -- and in this case there is a danger that I will - would take us too far forward.  At the Hôtel des Diplomate, we presented a report to those who had asked us to carry out the pacification mission.  We indicated to them that the people on the ground had been complaining about the lack of arms and, because of that failure to distribute weapons, I could see the look that he gave Mathieu.  But, apart from that, I did not hear any other thing that Mr. Nzirorera would have said on that subject.  
+Q.	All right.  Well, we'll come to that a little later on.  Let's go back into 1993.  We've got Mr. Turatsinze, who's not getting along with Mr. Nzirorera.  Who was it, to your understanding, that actually arranged for the guns to be obtained to be distributed to the Interahamwe?
+A.	As far as I'm concerned, it was collectively the leadership of the party and the command of the army.  But, with regard to individuals, I can mention Mr. Mathieu Ngirumpatse and Mr. Joseph Nzirorera.  But that is not exhaustive; I'm only saying that based on my own experience, and that is the opinion that I made of the matter and it cannot be otherwise.  
+Q.	How many guns were to be distributed to the Interahamwe?
+A.	I cannot tell you the number of guns that were supposed to be distributed to the Interahamwes, but when Mr. Turatsinze came to see me and, in fact, I had to go somewhere with him to fetch the weapon, he -- he had talked to me about 596 arms, if it was not 696.  I am a bit confused between the two figures.  But that is what he mentioned.  But, if I have to say that such-and-such a number had to be distributed, that would be speculation on my part and I do not want to take that risk.  
+Q.	Where did the guns come from? 
+A.	Needless to say, those weapons could only have come from the army.  It is the exclusive right of the army to possess weapons, at least, at that time in Rwanda.  I do not know whether things have changed today, but there was no legal trade in weapons in Rwanda at that time.  So, as far as I was concerned, those guns came from the Rwandan Armed Forces.  
+Q.	What sort of guns were they?  Could you describe them? 
+A.	There were mainly three types of guns; there was the G-3 guns, or rifles, you had Kalashnikovs, and then you had R-4 rifles.  
+Q.	Where were they kept before they were distributed?
+A.	Personally, I can say that Turatsinze gave me the weapon that I have referred to.  And he took me with him to a place where he -- a place which he described as his mother's residence.  I did not really believe him, but this was a house not very far from the airport.  And the house was locked.  He opened it and he gave me a weapon which was covered -- which was wrapped.  So, I cannot tell you precisely where all those weapons were stored, but they were in secure weapons caches, either in army premises or in MRND buildings.  But this is still speculation on my part.  I can only tell you precisely what I personally experienced.  
+Q.	Do you know of any MRND building in which the weapons were stored, or ammunition was stored?
+A.	In the premises that were used as offices by the MRND, that is, in the building belonging to Kabuga, I was shown how to handle a pistol in a side room.  Demonstrations were staged for other people, that is, on the operation of weapons.  I can, therefore, presume that weapons could have been stored there before being distributed, but I did not personally see any weapons stocks as such.  This means that I cannot answer your question with any precision.  
+Q.	Before we break, a last question about the guns.  Approximately when was it that you received your rifle from Turatsinze?
+A.	I will see to it -- that period towards the end of December, or at the very latest in early January.  Mr. Turatsinze actually told me that he was surprised that it took me so long to receive a weapon.  And he was surprised, and that is why he asked me the question why -- whether I had received a weapon, and I said "no", and that is how he took me to this place to give me the weapon.  So it was in late December, early January '94.  
+Q.	Thank you.  
+MR. MORLEY:
+Is that a convenient moment, Your Honour?  
+MR. PRESIDENT:
+Yes.  We take the mid-morning break now.  We resume at 11:20. 
+(Court recessed at 1103H)
+(Pages 1 to 23 by Roxane Meena)
+
+
+
+
+
+
+(Court resumed at 1130H) 
+MR. PRESIDENT:
+Mr. Registrar, is the link activated? 
+
+Mr. Morley, you may continue. 
+MR. MORLEY:
+Your Honour, thank you.  With Your Honour's leave, may I just observe potentially another ten minutes in the kitty?  But, having said that, I think we're doing quite well. 
+MR. PRESIDENT:
+Very well.  I'm pleased to hear that.  
+BY MR. MORLEY:
+Q.	Witness, can I ask you now about fund-raising?  Were there any fund-raising events for the Interahamwe between July 1993 and December of 1993?  
+A.	Well, informally, but regularly, there were contributions, membership fees, from some people, contributions for the party's functioning, but more particularly, around the month of July a fund-raising evening was organised at Rebero Horizon hotel around President Habyarimana, the Interahamwe committee.  And, of course, some representatives of the local district officers of the Interahamwe had been invited to that evening, where formally -- in a formal manner, certain eminent persons pledged to contribute a certain amount, X would pledge so much, in the presence of President Habyarimana.  This was a very formal pledging evening, which was a proper fund-raising evening, worthy of the term, which was undertaken very officially.  
+Q.	Did Nzirorera make any contribution to the fund-raising for the Interahamwe?  
+A.	When Joseph Nzirorera took the floor as regarding his -- regarding his contribution, he pledged to transfer, because the transfers were not done on the spot but done subsequently.  He pledged to contribute 150,000 Rwandan francs, but would not limit himself to that but would continue to make further contributions.  That's what I have to say as regards Mr. Nzirorera. 
+Q.	In 1993, from July, after the election of Nzirorera as general secretary and Ngirumpatse as president of the MRND, was there any tension between them over their roles with the Interahamwe and, if so, why?  
+A.	Well, apart from the incident I have described regarding Turatsinze, which of course had led to rumours, what I observed, I can't say what -- what I observed, I can't really call it tension as such, but quite often it would happen that Mathieu would try and discipline groups who sought financial support from Mr. Nzirorera, and I think Mathieu was combating such practices because it would lead to some confusion among the Interahamwe.  But apart from that, I am not aware of the tension, apart from some internal political competitiveness, where Mr. Nzirorera sought to improve his popularity among the Interahamwe.  But I know of no tension as such. 
+Q.	And what was your perception of why Mr. Nzirorera might wish to increase his popularity with the Interahamwe? 
+A.	Well, as Mr. Nzirorera had just been elected to the position of national secretary, it is perfectly logical that he should take control of the youth wing, and having just come on the scene, it is quite normal that he should try to strengthen his position, because not only in Kigali but throughout Rwanda many leaders, MRND leaders, tried to get into the Interahamwe's good books.  So I feel it is normal that he should try to improve his popularity, increase his popularity, because he had just come on the scene.  But, perhaps frequently, the hierarchy or the proper rules of protocol were not always observed, which led to slippages in the discipline of some Interahamwe who wanted to take advantage of Mr. -- of the manna, M-A-N-N-A, of the generosity, of Mr. Nzirorera. 
+Q.	And to your observation, was Mr. Ngirumpatse content, happy, with Mr. Nzirorera wishing to increase his popularity with the Interahamwe? 
+A.	That is a very delicate matter.  You know that in all parties people copy one other or they are in competition with another, internal rivalries, perhaps without speaking of internal -- internecine strife, but let's say that the two were in competition.  But I didn't see any external signs of any particular tension between the two men, but, of course, you know, rumours.  In any political circles throughout the world, whenever there is competition for one position or another, especially one replaces another, but I don't know of any specific tension between the two men within the Interahamwe.  
+Q.	For what reason, to your observation, were people trying to become more popular with the Interahamwe?  Why was the Interahamwe of interest to them? 
+A.	It was the youth wing of the MRND that had proven that, body and soul, they served the party, and it is normal, when one should add the appearance of the Interahamwe vastly increased the MRND's popularity at -- at -- in the face of the multi-party politics.  At the outset the opponents had thought they'd gotten rid of the MRND.  The MRND had -- was close to disappearing.  But suddenly, the MRND was on the rise again, to the great discomfort of the opposing parties, and the motor, the locomotive, the driving force, was that youth wing in the improvement in the MRND's fortunes.  
+Q.	You told us earlier that military training took place from -- you mentioned August of 1993.  I'd like to ask you about that.  But where were the Interahamwe being trained?  
+A.	The training of the Interahamwe was dispensed in the Rwandan army camps, the Rwandan government forces camps, RGF.  I could name some locations that was known.  In Mutara camp, Bugesera camp, were often mentioned as places, and the Bigogwe camp were often locations, camps, mentioned that dispensed training to the Interahamwe.  I think I've mentioned Bugesera already.  So it was those three locations that rose most frequently as being mentioned by those who returned from undergoing the training.  
+THE ENGLISH INTERPRETER:
+Witness mentioned another name which was cut by the faulty transmission, but then went on to add it was also in Bugesera.  So I think I've mentioned the main training centres, unless you want him to elucidate that other name.  Excuse me. 
+
+BY MR. MORLEY:
+Q.	The three camps that you mentioned were Begobwe, B-E-G-O-B-W-E, Mutara, M-U-T-A-R-A, and Bugesera, B-U-G-E-S-E-R-A; that's right, isn't it?  
+A.	That is correct, Counsel. 
+Q.	And how long would military training last?  Would it be a matter of hours?  Days?  Weeks?  
+A.	According to the comments made to me by the two people whom I mentioned that led the Interahamwe groups, training would last from two to three weeks, which also depended on the speed at which some groups learned what training they were dispensed.  So it would last from two to three weeks and the groups would undergo training one after the other. 
+Q.	What was the point of the training?  Against whom were the Interahamwe being trained to fight?  
+A.	The enemy is official, it is known, it is the RPF, the RPF infiltrators, the accomplices, in general terms, of the RPF who are considered to be fighting on the RPF side on the internal front.  That is the succinct answer -- my succinct answer to your question, Counsel. 
+Q.	And how were infiltrators or accomplices going to be identified?  What was the mechanism in the mind of the Interahamwe on being trained militarily to identify infiltrators and accomplices?  
+A.	Well, let me go back a bit so as to express myself better on this point.  Some members of the youth wing of the PL party and the PSD party, it was generally known -- very well known -- went for military training at RPF headquarters to Mulindi, perhaps elsewhere, in Uganda, I don't know.  Those people who would go off and come back were observed as known.  In our meetings the Interahamwe, complaining that -- of their precarious security situation, mentioned that they were surprised to see new faces in their area, in the districts -- in the district of Kigali, neighbourhoods.  And the prime minister, Nsengiyaremye, had abolished, against the wishes of most of the inhabitants of Kigali, the residence permit which, within Kigali, allowed it possible to make a census and authorise people to live in Kigali.  
+
+So, we saw unknown people, and those unknown people were considered to be RPF infiltrators.  It seems that some of them don't even know the names of some areas, or spoke Kinyarwanda very poorly.  And that is how, inter alia, certain infiltrators could be identified.  In any case, you know, in the neighbourhoods everybody knows everybody and new faces are quickly noted.  And I must add that, as of a certain moment in time, many people were no longer afraid to openly state they were on the enemy's side, and assimilated themselves with the enemy.  
+Q.	It's a matter of record that on the 21st of October 1993 the president of Burundi, President Ndadaye, N-D-I-D-A-Y-E (sic), was assassinated, it was thought by a Tutsi.  What was the reaction, to your observation, generally in Rwanda and within the political movements to that assassination? 
+A.	Allow me one small to -- make -- draw a distinction and contextualise, so that my answer might, although brief, might seem long to some.  But at that time, after the attack on Ruhengeri of 8 February 1993, in Kigali, on the outskirts of Kigali, about 900,000 people came, people left to themselves, at Nyacyonga, in particular, that's one thing, internally displaced people, IDPs, and the -- that's one thing.  And then the radicalisation of factions had emerged in the MDR, where there was a schism, a complete schism, in the leading circles of the party.  And after Nsengiyaremye's government in '93 was deconstituted, where some of the MDR declared themselves to be pro-Hutu, by which I mean pro-Rwandan armed forces and Habyarimana, and another faction openly declared itself for, and completely supporting, the RPF, which was called the Twagiramungu faction.  
+
+Similarly, in the PL, similarly in the PSD.  So we were faced with a remodelling of the political scene, especially between the democratic forces for change in opposition to the MRND.  First thing.  
+
+Secondly, after the institution of the government under Prime Minister Uwilingiyimana, Agathe, that government gave rise to many complaints.  It was a government that was not functioning; it was a dysfunctional government.  So it was a sort of dictatorship and, in any case, the lady was sequestrated by her own party and she was driven to resign by her own party.  So this is to show the polarisation between Hutu and Tutsi.  
+
+And another factor was essentially -- essential in the analysis is the appearance on the scene of the RTLM, which was a radio station that openly showed its aversion for the RPF and all those who supported it.  And there was also a plethora of newspapers and magazines that appeared, some declaring their support for the government, others for the RPF, and after the signing of the agreements, the Arusha Accords, in August 1993, which was refused -- which were refused by part of the population in respect of certain matters concerning power sharing, which was not accepted, which came -- all this came on top of the assassination of Ndadaye, who had been elected, I think, in June or July, on top of all that came the assassination of Ndadaye.  
+
+So, those who had thought the RPF was trying to play the democratic game realised that they had made a mistake and changed their line, all the more so since the RPF was accused of having been one of the assassins, along with the Burundian army, which was -- the majority of whom were Tutsi, had been involved in the assassination of the Burundian president, Melchior Ndadaye, and that that practically achieved the polarisation and between the MRND and the RPF and all those that supported it.  
+
+I'm sorry if I've been too long, but I couldn't not mention all those factors which might explain what happened, how it happened, how it all ended up in polarisation and how we wound up with two camps: one pro-RPF and one anti-RPF. 
+Q.	It's a matter of record that on the 23rd of October of 1993, two days after the assassination of the Burundian president, there was a rally over which Froduald Karamira presided and the birth of a movement called The Hutu Power movement.  What was the Hutu Power movement, please? 
+A.	As I said a short while ago, this movement was created after the split of the leadership of the MDR in July 1993.  So this was an official acknowledgement by the leadership of the MDR that they had been mistaken.  They, therefore, from that moment on, supported the MRND, the principals of the CDR, the Interahamwes, and they advocated MRND Power, CDR Power, MDR Power, Interahamwe Power.  So, for me, this was really not when the movement was born but it was, rather, just a time that it was officially recognised and acknowledged; that is, in July, at the time of Faustin Twagiramungu and Agathe Uwilingiyimana, as well as the person who would later be the prime minister, Mr. Jean Kambanda.  So this rally of the 3rd of October condemned the RPF and the Tutsi leadership in Burundi and officially closed ranks with the MRND and the Interahamwe.  
+Q.	Without referring you to the document, it's a matter of record and an exhibit, P. 5 in this case, that in the English translation of Karamira's speech, at K0245613, the last page of the English translation, he raises a slogan with the assembled crowd which reads "Umuhutu Power", and that's repeated by the crowd; "MRND Power", and that is repeated by the crowd; "CDR Power", and that is repeated by the crowd; "MDR-Power", and that is repeated by the crowd; "Interahamwe Power", and that is repeated by the crowd; "JDR Power", and that is repeated by the crowd; and he concludes, "The Hutu united," and that is repeated by the crowd.  Who are all these people, from all these different parties, who have previously been fighting one another, now united against?  
+A.	There was a nuance there that I did not quite understand, Counsel.  You said, "Who are these people who were fighting each other?"  And then there was something I did not quite get. 
+Q.	Having heard Karamira list a variety of parties and youth movements under the slogan of "Power" and concluding with the expression "the Hutu United", who were all these people who had previously been in different parties, fighting one another, now united against?  
+A.	MDR, PSD, and PL gathered in what they referred to as democratic forces for change, had from the very outset been fighting against the MRND.  So they reflected the political actions and grievances of the RPF.  The RPF was perceived to be Tutsi, and the prior support -- or, rather, the people inside the country who supported the RPF were considered to be Tutsis; sometimes wrongly, sometimes correctly.  
+
+So the analysis of the various committees or leaderships of the parties in their speeches, and even in some songs, realised that Hutus were fighting against each other, to the advantage of the enemy, the RPF, therefore, the Tutsis.  And that is why people in the leadership of the MRND -- that is why people in the leadership of the MDR who, in fact, were led by Hutus and some of them had been supported -- supporting the RPF.  
+
+There was also the PSD and the PL, whose leader, Mr. Mugenzi, had said before that the revolution -- or, rather, he had condemned the revolution of 1959.  But, later on, he criticised those who had not accepted the advantages of the revolution of 1959.  And the person -- or anyone who supported the revolution of the year 1959 was supporting the Hutu people against the Tutsi monarchy.  So they were stating publicly now that Hutus no longer had any problems amongst themselves, and that they were united.  Furthermore, this type of political assembly or rally was usually the subject of prior consultation between party leaders.  
+
+After having agreed to rally around each other, they would therefore organise a public manifestation to that effect, and that is what happened during that rally of October 1993.  I do not know whether I have answered your question.  Maybe you want me to give me the names of the various leaders of the political parties, but I believe that those are known.  
+Q.	Well, thank you.  It may be you can answer this question in a single sentence.  Who were all these parties and youth movements as Hutus united against? 
+A.	They were united against the RPF and against their accomplices.  And by extension, there were Tutsis amongst that category. 
+Q.	Thank you.  Why were the weapons distributed to the Interahamwe that you've told us about by Turatsinze? 
+A.	Following the resumption of armed hostilities by the RPF, in spite of the ceasefire that had been concluded, everyone realised that the RPF wanted to seize power through the use of arms and wanted nothing less.  That means that the war they lost in November 1990 had been abandoned and they had resorted to guerilla warfare.  And the training of the Interahamwes, which was envied by the other youth wings who rallied around them later, and those are the people we referred to as Hutu Power, and they felt that, faced with a guerrilla war, they had to also fight a guerrilla war.  And the weapons were distributed so that these people could defend themselves through urban guerrilla warfare.  So that is what I can say specifically with regard to Kigali-ville préfecture.  
+
+It was also decided that the RPF would bring some battalions into Kigali town.  So the purpose of the distribution of weapons and the training was clear because fighting was expected, given that the RPF was frequently violating the ceasefire that had been concluded 
+Q.	It's a matter of record that the UNAMIR force put in place as part of the Arusha peace process tried to locate weapons and take them off the Interahamwe.  What would happen when UNAMIR tried to conduct a search for Interahamwe weapons?  How successful were their searches, and if not particularly successful, why not? 
+A.	The arrival of UNAMIR was perceived as the arrival of an institution that was not neutral, that was biased in favour of the RPF.  So with regard to the seizure and confiscation of the weapons, it was thought that UNAMIR was targeting only the Interahamwe and was not concerned about disarming RPF infiltrators.  As a result, within that community of the Hutu Power movements, UNAMIR was perceived as a third belligerent, supporting the RPF.  
+
+Secondly, the RPF was accused of assassinating or murdering Hutus in the areas that they controlled.  Complaints were publicly lodged with UNAMIR, but they did not do anything, and there were no tangible results.  This means that UNAMIR was looked upon as a second enemy.  Considering that some careless Interahamwes had themselves arrested either while carrying weapons or carrying firearms during acts of violence, Mr. Mathieu Ngirumpatse, in the course of a meeting which was held, I believe, some time during the month of January -- but I'm not sure of that -- so in that meeting he warned the Interahamwes and told them that UNAMIR was authorised to carry out searches; therefore, anyone who was arrested could no longer count on the support of the MRND or on the support of the party.  
+
+That is how I can describe the prevailing situation at the time of the arrival of UNAMIR, as well as their conduct, which disappointed quite a good number of people 
+Q.	Did Mathieu Ngirumpatse suggest that the Interahamwe should give their guns up to UNAMIR, or what did he suggest?  
+A.	You will understand that he could not have suggested that approach insofar as UNAMIR was not neutral in that situation.  The risks were still omnipresent.  The RPF had not disarmed.  On the contrary, the RPF was present right at the heart of the city and continued using belligerent language.  Everybody could see that the hostilities were not subsiding, but, rather, intensifying.  So, as I said a short while ago, he warned those who would be caught during those searches because of their own carelessness that they would not be able to count on his support or the support of the party.  That message was clear.  
+Q.	In a single sentence, please, what did Ngirumpatse suggest was how an Interahamwe could avoid being careless?  
+A.	Well, to hide the weapons, not to expose themselves to the risk of being caught.  That was a clear suggestion.  I do not see any ambiguity in that message.  
+Q.	Thank you.  With whom on the Interahamwe national committee did Nzirorera have the best relationships?  
+A.	Based on my own observations, Mr. Nzirorera had a strong relationship with number 1.  I am referring here to the affinity that I observed between them, and that the person in question talked to me about.  So you had numbers 1, 6, 3, 2, 5.  And, in fact, I'm not aware of any bad relationship that was widely known between him and anyone, that is, apart from the case of Turatsinze, which we discussed a little earlier.  But these particular people had a good relationship, a good and constant relationship with him within the context of the national committee.  That is when you take into consideration their availability.  
+
+These people really liked to establish contact with Mr. Nzirorera because they said that he was generous; he was he was very, very understanding of their grievances because, generally speaking, these grievances were based on money:  They were looking for money. 
+Q.	With regard to Mathieu Ngirumpatse, with whom, to your observation, did he have the best relationships with members of the Interahamwe national committee?  
+A.	Once again, my answer is based on the activities of the party and its youth wing.  So you had number 1, number 2, number 3, number 5, practically everybody.  But I wanted to give you a sort of -- a hierarchy, but it depended on the closeness of these people to Mathieu and their frequent contacts with him.  Once more, I do not know that Mr. Ngirumpatse had a poor relationship with anyone in the committee, because he was a very diplomatic person and he knew how to manage his relationships.  
+Q.	To your observation, did Édouard Karemera have any relationships with any members of the Interahamwe national committee, and if so, with whom? 
+A.	Apart from the rallies and political events in the various préfectoral headquarters, I did not observe an active presence of Mr. Karemera within the context of the committee.  I should point out that, initially, at the beginning of Interahamwe activities before the congress of April 1992, based on what I observed, Mr. Karemera did not really like the Interahamwes, and the feeling was mutual.  And the Interahamwes were campaigning rather for Ngirumpatse than for Karemera.  
+
+Obviously, during rallies we greeted everybody.  The Interahamwes were with him where he went, including the committee, but I do not remember any specific or special relationship between Mr. Karemera and any member of the committee.  So it was a rather neutral relationship.  But during rallies, like everyone else, he would be accompanied by Interahamwes. 
+Q.	You've mentioned the existence of a radio station called RTLM.  Can you help with when that was created and what its basic message was?  
+A.	The RTLM radio station was officially founded, I believe, end of March, early April.  It started broadcasting around the end of July to early August.  Its message and analysis focused on Hutu-Tutsi relationships, and these could be observed for the first time during its analysis of the assassination of President Ndadaye of Burundi, and this analysis was linked up to the battle between the RPF and the Rwandan government.  
+
+This radio station, which initially had simply been broadcasting attractive music, later on became very political, specifically as from the time of the assassination of President Ndadaye, right up to July, when the radio station stopped its broadcast.  So it was a radio station that focused on Hutu-Tutsi relationships.  
+Q.	You've mentioned a number of months in that last answer.  Were you referring to 1993, with the radio station coming to an end in July 1994?  
+A.	Yes, that is correct.  If I said anything else, forgive me, it was a slip.  Well, it stopped broadcasting with the defeat of the Rwandan government in July 1994.  
+Q.	There was a rally, we know, on the 7th of November of 1993 by the MRND at Nyamirambo stadium.  Were you there?
+A.	Yes, I was present at that meeting, Counsel. 
+Q.	There was a rally that we know of by the MRND at Nyamirambo stadium on the 16th of January of 1994.  Were you there?  
+A.	I also attended that meeting, Counsel. 
+Q.	I propose to ask you about the 16th of January 1994 meeting.  Do you remember anything that -- was Mathieu Ngirumpatse -- stop.  It's a matter of record that Ngirumpatse was there.  Do you remember anything of what he said in January of 1994?  
+A.	Without mentioning everything, I can say that I remember his speech was mainly focused on three topics, that the people must not forget the great heroes of the first hours of the first republic.  I think he mentioned Mr. Mbonyumutwa, Mr. Gitera, reminding the people also that leaders must be borne of the choice of the people; therefore, must be elected and must not be authorities that are imposed on others, as the political parties had a tendency to do in a shortcut to power sharing, such as the Arusha Accords.  So it was in favour of elections that people -- that leaders must be chosen by the people.  And inter alia, he also said that we know that there is a project, that there are people who are trying to assassinate our candidates to the elections, Mr. Habyarimana, and those people must beware because their plan is known, has been uncovered.  
+
+That is essentially what I recall of the main themes of Mr. Ngirumpatse's speech.  
+Q.	We know from transcripts of his speech that one of the things he said was that it was untrue that the Interahamwe were receiving military training.  When he said that, was that true or false? 
+A.	But since such training was undertaken clandestinely, in secret, isn't it normal that he should deny it in public?  But, of course, the Interahamwe had been trained, so it wouldn't be normal either to say, "Yes, we have trained the Interahamwe", would it, now?  
+Q.	Well, thank you for that response.  I want to take you now to a document -- I think I can do it more quickly.  There is, as a matter of record, Exhibit D. NZ15, otherwise at tab 85, a fax dated the 11th of January of 1994, from UNAMIR to the United Nations headquarters in New York.  And in it there is reference to certain things which UNAMIR had learnt had been happening with the Interahamwe.  It was suggested in the fax that the Interahamwe has trained 1,700 men in Rwandan army military camps outside the capital.  Does that sound about right?  Or wrong?  What do you think?  
+A.	I don't know what UNAMIR's sources were, but I did tell you -- I did speak of the events I experienced and how I put things together.  But this fax from General Dallaire I don't believe, quite frankly.  I don't know the source of this information, and I think it's all a bit forced, if not outright manip -- if it isn't outright manipulation.  
+Q.	You told us that there had been military training of members of the Interahamwe.  I'm simply asking you whether the suggestion in the fax that there had been 1,700 members of the Interahamwe in Kigali, trained in military camps, from what you know, would that be about right, or not?  
+A.	I think perhaps the figure is an overestimate.  Maybe it's double the real number.  But, in any case, it's overestimated because it is clear that a certain number of people were trained but, personally, my estimate -- well, 1,700 seems to me to be an overestimate.  Maybe 800 or a thousand, perhaps; I don't know.  But 1,700 in such a short space of time appears to me to be an overestimate.  Maybe I'm being subjective, but UNAMIR's tendency was to exaggerate anything that could be to the detriment of the MRND.  That is my reaction before this figure of 1,700.  Maybe a thousand had been trained, but by experience I knew that UNAMIR exaggerated anything that was to the detriment of the MRND and anything that could exculpate the RPF.  Maybe it's subjective, but it is my frank opinion in face of the events I experienced.  
+Q.	In the fax it is also suggested that UNAMIR had learned that the Interahamwe could kill up to a thousand Tutsis in 20 minutes.  Now, from what you saw after the death of the president and what you know of the military training that some Interahamwe had, do you think that sounds about right, or wrong, that the Interahamwe could kill, in 20 minutes, up to a thousand Tutsis?  
+A.	Well, necessarily the catastrophe that came after the 6th of April would tend to show that, but was it known on the 11th of January or was it a conclusion predated, but on the basis of the reality of post 6 April?  That's why I say I don't believe it, for reasons perhaps I can explain, because this fax of the 11th of January, there was a démarche by the committee on the 19th of January seeking a meeting with the signatory of the fax, General Dallaire, which leads me to think that there is some manipulation in respect of this document, more particularly, its date, the 11th of January.  But there was a great catastrophe, but did anybody time it, so many per minute, or what?  No.  It's too good to be true.  
+Q.	Well, we'll come to your description of what Kigali looked like after the death of the president a little bit later.  
+
+Can I take you now to a document 19 in the list, Prosecution Exhibit 13?  This is a letter from the Interahamwe, protesting to the United Nations representative, Mr. Booh-Booh, about the treatment of the Interahamwe dated the 19th of January 1994.  Do you have the document before you?  
+A.	Yes, I have the document, Counsel. 
+Q.	On the fourth page, do we see the signatures of, amongst others, numbers 1, 5, 6 and 9? 
+A.	I'm sorry, Counsel, but you are talking of page 4 on that document?  I have page 6.  
+Q.	Yes, page 6 then.  Do we see the signatures of 1, 5, 6 and 9?  
+A.	Yes, absolutely, Counsel, I can see all the signatures. 
+Q.	At whose suggestion was this letter sent to Mr. Booh-Booh?  
+A.	The suggestion to draft this letter came from Mr. Mathieu Ngirumpatse.  I would like to add, it was suggested that a letter be sent to UNAMIR, but in the end it was addressed to Mr. Booh-Booh as the official representative of that institution; otherwise, the letter was actually intended for UNAMIR. 
+Q.	Thank you.  If we could look now at document number 20, which is D. NZ17.  Do you have that document in front of you?  
+A.	Yes, Counsel. 
+Q.	On the face of that document that is a communiqué from the Interahamwe dated the 1st of February of 1994.  At whose suggestion was that document created?  
+A.	The ideas contained in this communiqué were collectively prepared after discussion at the initiative of Mr. Mathieu Ngirumpatse.  He had urgently called a meeting in his office at about noon. 
+Q.	Well, that is all I'll ask about that.  Just bear with me for a moment, please.  What important events can you tell us about concerning the Interahamwe took place between January and April of 1994? 
+A.	Counsel, I don't quite get the meaning of your question.  Perhaps you have to be more specific.  Are you talking about events in plural?  Because many events took place at that time.  So, if you can be more specific, perhaps I would be able to answer your question.  
+Q.	No.  Just tell us what you recall to your mind were the important events, plural, concerning the Interahamwe in that short period, January to April 1994.  Just talk to us.  
+A.	Between January and, let's say, end of March, early April, that is, before the 6th of April, there was an important event for Rwanda which was related to the establishment of the so-called transitional institutions based on the Arusha Accords.  That was the event that was highly expected to put an end to all the problems of the country.  So, the president had to be sworn in, the broad-based transitional government had to be appointed and the transitional national assembly set up.  
+
+There was another important event, and that is the arrival of UNAMIR, which was supposed to facilitate the implementation of those accords.  Even though the RPF contingent arrived at the end of December, I would like to nevertheless mention that arrival of the RPF in the Rwandan capital.  
+
+I can also talk of the political assassinations and attempted political assassinations which took place around the month of February.  There was also extreme violence in Kigali, given that the institutions and the authorities had practically fallen into a situation of dereliction of duty and which were practically non-functional.  And so the population was suffering from violence everywhere.  They did not know who to turn to, and there were attempts to resolve the situation which failed each time because everybody was accusing each other and everyone was responding tit for tat.  That is how I can describe this period between January and April, which would, of course, include preparations for the resumption of hostilities by the two belligerents.  
+Q.	Was there an incident at a bar called Chez Chic between Interahamwe and Belgian soldiers? 
+A.	Yes, Counsel.  UNAMIR soldiers, and specifically from the Belgian contingent, frequently skirmished with the Interahamwes, because of the reasons that I gave you before regarding the perception of UNAMIR by Interahamwes and the other parties.  And so there were incidents which frequently involved girls, bars, and provocations from both parties.  One would say, "You are from the MRND; you are undisciplined."  And the other part would say that, "You are UNAMIR; you have come to support the RPF."  And so on.  And that is how I can describe what happened at the Chez Chic party and which was part of the letter written by the Interahamwes on the 19th of January.  That is regarding the problems with UNAMIR.  
+Q.	As a result of the letter of the 19th of January, was there any meeting between the Interahamwe leaders and General Dallaire and, if so, when?  
+A.	I cannot be certain about the date.  But it was probably at the end of January or in early March, following the content and the positive proposals in the 19th January letter by the Interahamwes, Mr. Mathieu Ngirumpatse announced to us that an appointment had been made with us to meet with General Dallaire at the Amahoro hotel.  And many members, practically all the members of the Interahamwe committee, I would say, went to this venue at about 9 o'clock, 9:30.  But, at the last minute, General Dallaire withdrew, saying that he had to go to an urgent meeting with the authorities in Kigali préfecture -- or, rather, in Kigali.  And when I say Kigali, it's because the headquarters of UNAMIR was almost on the outskirts of Kigali.  He proposed that we should meet with his assistant, who was a Ghanaian brigadier-general.  We had a brief meeting with this general.  
+Q.	It may be, Witness, that we don't need the contents of the meeting.  We're just building up the chronology to 6th of April.  
+MR. MORLEY:
+With Your Honour's indulgence, I see the time, but I have one last, final question before we get to the 6th of April, which is an entirely new tranche of evidence which, with Your Honour's agreement, I would like to start after lunch.  
+BY MR. MORLEY:
+Q.	Thank you, Witness.  Thank you for that series of observations about that time frame January to April.  You told us earlier that there came a time when Turatsinze came to you to ask for you -- the rifle he had given you back.  Very briefly, when was that and what do you understand happened to Turatsinze? 
+A.	It must have been towards the end of January, beginning of February that Turatsinze came to ask me to return the weapon he issued to me, to give it back to him.  And as I couldn't do that, he left very upset.  And I learnt later that he was no longer in Kigali, that he'd left for Tanzania, and under what circumstances, how exactly, I don't know. 
+MR. MORLEY:
+I just wonder whether that's a convenient moment, Your Honour, now.  
+MR. PRESIDENT:
+Yes.  We can take the adjournment for lunch now.  
+
+Witness, I remind you, you are not to discuss your testimony or the case with anyone during this or any other adjournment.  We will rise now.  
+(Court recessed from 1304H to 1447H) 
+MR. PRESIDENT:
+Good afternoon, everyone.  We are sorry we are so late, but before we commence, there's the oral decision I'd like to give relating to the late disclosure regarding Witness T.  
+
+This morning the Prosecution disclosed to the Defence a 20-page statement of Witness T in French.  Although Prosecution counsel stated that he previously believed that this statement was disclosed, he admitted that it was not actually disclosed and that the Defence had only received this information for the first time.  Prosecution counsel also admitted to not being able to locate four prior statements of Witness T, as noted by the Defence.  Prosecution counsel assured that he would be able to locate the statements within the next day.  
+
+In response to the admitted disclosure violation, counsel for Nzirorera, who is scheduled to commence the cross-examination of Witness T this week, requested additional time to read, translate, digest, and discuss the statement with the Accused.  In the interests of justice and for the fairness of the proceedings, the Chamber is of the view that it is appropriate to adjourn the proceedings in this case for tomorrow, Thursday, to grant the Defence additional time to prepare the cross-examination of Witness T in light of this newest disclosure, and reconvene for Witness T's testimony on Friday.  
+
+The Chamber is further seriously concerned by the Prosecution's management of its case with respect to the interests of justice and the rights of the Accused.  Rule 46(A) of the Rules of Procedure and Evidence provides that a Chamber may, after a warning, impose sanctions against counsel if, in its opinion, his conduct remains offensive or abusive or obstructs the proceedings or is otherwise contrary to the interests of justice.  In the present case, on several occasions the Chamber has voiced concerns regarding the Prosecution's disclosure obligations and its effect on the administration of justice in this trial.  In particular, in the oral decision on the stay of proceedings of 16th February 2006, the Chamber strongly recommended that the Prosecution improve the management of disclosure in its case after it cited difficulties in accessing its database as the reason for failing to disclose Rule 68 material.  
+
+The Defence has asked for disclosure concerning Witness T on several occasions.  The request was renewed during this trial session.  The Prosecution reiterated that the disclosure was complete.  Now, in the middle of the examination-in-chief of Witness T by video link, in a strict time schedule, the Prosecution states that, upon further investigation, it realised that disclosure was not, in fact, complete.  
+
+The Prosecution should have been diligent in each of the prior requests to ensure that its obligation to disclose as mandated by the rules was properly discharged.  This behaviour, in the context of this case where the Chamber noted on several occasions the Prosecution's lack of diligence in disclosure matters, is completely unacceptable.  This obstructs the proceedings and is contrary to the interests of justice.  
+
+Accordingly, the Chamber now imposes a warning pursuant to Rule 46(A) so that, if this behaviour continues, the Chamber will have the option to impose sanctions.  
+Yes, Mr. Morley.  
+MR. MORLEY:
+May I express my disappointment at Your Honour's ruling?  I hadn't realised that you were considering a Rule 46 consideration.  I would have hoped to have been heard further before such a warning was imposed, and I find myself surprised that Your Honours have gone as far as to issue a Rule 46 warning without having established, firstly, what the document looks like, and secondly, how it is in detail that it came to be thought that it had been disclosed originally with the original CD and how it was my own discussions with Mr. Robinson which revealed the fact that what I had thought had been disclosed some time ago had not been.  I express my disappointment that Your Honours have ruled on something like that without having heard from me further. 
+
+May I invite Your Honours to consider something else?  With the commission -- I'm sorry, the state which has a judicial presence over in the video room, there's been a request for a commission rogatoire in respect of the missing four PVs, and we were wondering whether Your Honours might decide that you could express as an order from the Bench, pursuant to the decision which was made in February of 2005, that the material ought to be disclosed.  
+
+Although we have prepared a commission rogatoire, it needs to be signed and then faxed and go to the right office, and so on, and it may be that the matter can be expedited if Your Honours simply indicate to the relevant judicial figure who is present that it is required by the Court that the material be faxed as described.  
+MR. PRESIDENT:
+Mr. Morley, that suggests that the official didn't understand what was being requested, because wouldn't this material have been included in prior decisions we have already made?  
+MR. MORLEY:
+It would have been, and the problem is we just can't find it. 
+MR. PRESIDENT:
+I know that.  But as far as the judicial official who has requested a commission, if it was made aware to them that there's already an order which binds them, would that not be sufficient?  I could tell them that.  
+MR. MORLEY:
+That's what we're inviting.  They must, as a matter of record, know that there was an order.  But we've had communication from the video room that a commission rogatoire is required, and we thought that we could expedite matters in the way I've described.  So if Your Honour was to express the Court's view, then, in those circumstances, it may be that the whole thing will be done very quickly.  
+MR. PRESIDENT:
+I'd be willing to do that. 
+
+MR. MORLEY:
+Thank you.  I don't know if the link is available with the (By order of the Court, this word has been extracted and filed under separate cover)  -- I'm sorry, the state. 
+MR. PRESIDENT:
+The name of the country is redacted. 
+(Pages 24 to 38 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500H 
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Yes, Mr. President, after we did the necessary cross-checking, we realised that it would be necessary to send a dual request for assistance for a rogatory commission.  I thank you, Mr. President. 
+MR. PRESIDENT:
+Thank you for saying that the information had previously been conveyed that that was the opinion that had existed.  But I'm wondering if you are in possession of all necessary information because we have already made those orders, and this material was included in orders already made by this Chamber, and I understood that they may have, in fact, been an attempt to disclose them.  So I was wondering why it would be necessary for a second order to cover documents which are already obligated to be disclosed.
+
+Mr. Morley, maybe you may explain more of what transpired so that they could understand that these documents were already the subject of a court order.  
+MR. MORLEY:
+Well, Your Honour has done as much in explaining the position to the representative in the state.  I can add that the material which we are looking for may or may not have been ruled disclosable.  The trouble is, we can't find what it is and, therefore, what we would ask is because it is material which is, according to my learned friend Mr. Robinson, referred to in the dossier which was disclosed, in principle that must mean that those statements are in the dossier, or should have been.  So that is material, therefore, which the state should have disclosed under the order of February of 2005, and ought to have been part of the dossier which was disclosed in September of 2005.  So it may be -- 
+THE ENGLISH INTERPRETER:
+Mr. President, the interpreters are finding it extremely difficult to follow up because of the noise and static coming from the other end.  Thank you. 
+MR. PRESIDENT:
+Mr. Hometowu, we are hearing in our headphones constant noise and static, and we -- the interpreters are finding it difficult to do their job in this context.  I don't know what is causing it.  I don't know if you know what is causing it, but I would be grateful if you could try to see if it could be stopped.  
+MR. HOMETOWU:
+Thank you, Mr. President, but let me reassure you that I do not think the noise in question is from our end. 
+MR. MORLEY:
+Well, Your Honours may wish to make the observation that, unhappily, it is from their end.  There is a very sensitive microphone in the room where the video link is and the movement of pieces of paper anywhere near a microphone is picked up and broadcast very loudly indeed. 
+
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Mr. President, I do confirm that that microphone is very sensitive, but there is just one microphone used by everybody here, but no paper has been pushed around.  Thank you. 
+MR. PRESIDENT:
+All right.  Let's see if we can proceed. 
+MR. ROBINSON: 
+Excuse me, Mr. President, if I may just state something to the investigative judge just so everything is very clear, since I was the moving party in the order.  I would just like to state to the investigating judge that there is a decision issued by the Trial Chamber on Joseph Nzirorera's motion to request the cooperation of the government of a state.  The decision is dated the 23rd of February 2005, and in that decision the Trial Chamber ordered the state to produce, "copies of any statements made to the judicial or law enforcement authorities of the state in question",  and these four documents that we have asked for are, indeed, statements of Witness T made to the authorities of that state.  
+
+So it seems very clear that the material is already covered by an existing order.  If you don't have a copy of that, perhaps we can provide a copy of that by fax immediately, so that we don't have any problem in understanding each other.  Thank you very much for considering this. 
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Mr. President, may I say something?  
+MR. PRESIDENT:
+Certainly. 
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Thank you, sir.  The file currently in my possession concerns the video link.  I do not have before me the ruling of the 23rd of February 2005.  My registry officer will find out from (By order of the Court, this name has been extracted and filed under separate cover) my colleague who is handling that file.  So, my suggestion is that once we have more specific information in that regard, then we will advise you accordingly. 
+MR. PRESIDENT:
+Thank you for that.  What I would like to -- I will ask the Prosecutor to comply with your request as soon as he -- as soon as possible.  It is a matter of some importance to the conduct of our trial, as these were matters which should have been disclosed to the Defence in sufficient time for them to have an opportunity to prepare to cross-examine Witness T.  And so it is a matter of some urgency, and so we would appreciate the use of your good offices in expediting the transmission of this material to our Chamber.  I would request that -- Mr. Prosecutor, should you make the transmission or should I ask the registrar to do it?  
+MR. MORLEY:
+When Your Honour says "the transmission", does Your Honour mean sending over a copy of the decision?  
+MR. PRESIDENT:
+A copy of the decision, that is what I understand is needed. 
+MR. MORLEY:
+As we're all here and busy, Your Honour may have some staff that can dig up the order and fax it, but we at the moment are before Your Honour. 
+MR. ROBINSON: 
+Actually Mr. President, if someone from the state can give me their email address, I can actually right now, in about two minutes, send that document to their email because I have it electronically and I'm connected to the Internet, thanks to your courtroom officer. 
+MR. PRESIDENT:
+Could you enquire from the honourable judge whether he would accept the offer made by Mr. Robinson and provide the contact information which would enable the information to be communicated in that manner?  
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Thank you, Mr. President.  However, I do not have any internet link here.  Accordingly, an email correspondence would seem complicated for me.  Perhaps we could go by a facsimile, but in that case I would need to get a number for a fax to which it can be sent.  If you allow me a moment -- the registry officer has come back. 
+MR. PRESIDENT:
+All right.  Thank you very much.
+
+Mr. Robinson, my assistant in Chambers thought it might be more appropriate if it came from the Chamber.  And so they will take over -- attempt to take over the management of sending the information as soon as possible.
+
+Mr. Morley, I think, as I indicated, our staff will try assist --
+MR. MORLEY:
+Thank you. 
+MR. PRESIDENT:
+-- in sending the information as quickly as possible. 
+MR. MORLEY:
+Very well.  May I mention, for Your Honour's assistance, because it may not be clear for the Bench, the material may or may not be disclosable pursuant to the orders which Your Honour may remember the Court has already made.  It depends in which category the material falls into.  The problem we have at the moment is that we can't find it.  And it may be that it is material which is not disclosable under the orders I have no doubt that Your Honours are fresh in your minds, and Your Honours will recall the various arguments which were made about disclosure in relation to the very voluminous dossier.  So, insofar as Your Honour has been saying that this material is to be disclosed to the Defence, it may not be right -- 
+THE ENGLISH INTERPRETER:
+Please, Your Honour, there's noise on the line.  The interpreters can't follow. 
+MR. MORLEY:
+It may be I don't need to repeat what I was saying, as Your Honours have heard the comment.  
+MR. PRESIDENT:
+I did hear you.  My information about the disclosability of the material came from comments that you made this morning. 
+MR. MORLEY:
+I don't know how Your Honour has misunderstood that.  I made it plain, Your Honour, this morning and I don't remember whether Your Honour gave any indication as to whether you are familiar with the material which was the subject of the (By order of the Court, these words have been extracted and filed under separate cover), and Your Honour recalls the various arguments which were advanced and Your Honour recalls the distinction made --  
+MR. PRESIDENT:
+Mr. Morley, it is not necessary to go into it.  If the material is not disclosable, I trust that that will be dealt with when it arrives.  But what I would like to do now is to allow my staff to proceed with sending the information, and I trust that they will do the appropriate liaison when information comes back this afternoon. 
+MR. MORLEY:
+Your Honour, yes.  And Your Honour may recall that my suggestion was that the material be faxed to the OTP by Mr. Lahaie so that we can cross reference it with the document that we have. 
+MR. PRESIDENT:
+Yes, but you requested our intervention. 
+MR. MORLEY:
+No. 
+MR. PRESIDENT:
+I asked you a few minutes ago if you would make the communication to them.  You said you were busy in court.   Mr. Robinson offered to do, and then my staff said they would do it because it was more appropriate to come from the Court. 
+MR. MORLEY:
+What's been transmitted, or will be transmitted to the state is a copy of the order. 
+MR. PRESIDENT:
+Precisely. 
+
+MR. MORLEY:
+The material that comes back needs to go to the OTP in order to be clear about its disclosability because it may be -- and I don't know if Your Honour recalls any material from the state or if Your Honour has ever, in fact, seen it, but that material is divided into two categories and some of it has been ruled disclosable.  And Your Honour may recall just how much material there is which has been disclosed.  So the difficulty in locating these PVs, Your Honours may recall, is perhaps understandable, given the numbers of pages of material that were collated.  So the short point is, if the state agrees to fax the PVs as a result of receiving the order from the registry, as I said earlier today, the suggestion is that the material is faxed by Mr. Lahaie to the OTP office. 
+MR. ROBINSON: 
+Mr. President, may I remind everyone that this order was issued at my request, not at OTP's request, and it was issued directly by the Trial Chamber to the state, not through OTP.  It was only OTP who themselves took the very misplaced initiative of obtaining these documents from the state.  The decision as to whether something is disclosable or not pursuant to Rule 66(C) is a decision for the Trial Chamber and therefore, in my opinion, the document should be sent to the Trial Chamber so that it can make that decision in accordance with the guidelines in its previous decision.  Thank you. 
+MR. MORLEY:
+And, of course, Your Honours will recall that the material, having been brought back from the state to Arusha and collated into various discs, Your Honours made a decision that some of that material was disclosable.  So, insofar as my learned friend complains that the efforts of the Prosecution to obtain the material was misplaced, the obtaining of the material by the Prosecution, by virtue of the decision by the Court, was endorsed.  So, insofar as Your Honours are invited by my learned friend to review the material, very well, but Your Honours are also invited to remind yourselves of the content of all the material, and no doubt that will take you the next three days.  
+MR. PRESIDENT:
+Well, I think we have exhausted this issue.  I think we can start the testimony now.
+MR. MORLEY:
+Thank you.  And I'm looking at the clock, and insofar as the kitty is concerned, we've lost a further       45 minutes of testimony time and that would mean, at the moment, we are running at an overage of  two hours and 45 minutes.    
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Mr. President.  Please allow me, Mr. President, with your permission, sir, may I say something?  
+MR. PRESIDENT:
+Yes, please. 
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+May I speak?  
+
+THE ENGLISH INTERPRETER:
+I think it is the state's representative. 
+MR. PRESIDENT:
+Yes, you are invited to speak. 
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+The problem, as we see it here in the present circumstances, appears to reside in the fact that the documents we are speaking of have already been sent, transmitted, as a result of the decision taken on the 23rd of February 2005, but it would appear that those documents were subsequently lost, if I have correctly understood.  Therefore, as a result, if you want to have a fresh copy of those documents, it appears to us that, after the proper checks in the state concerned, a new request for international rogatory commission should be transmitted by fax through the appropriate authority, which is the federal prosecutor's office, to have a copy of those four PVs.  Have you correctly understood me; that is to say, am I audible?  Have you heard me correctly?  
+MR. PRESIDENT:
+I have heard you, and you have grasped the factual background of the situation, or at least a part of it.  The other part that you have not referred to is the time factor, that this material may be important during the examination which is currently in progress.  So we also have an issue with the timely transmission of the material to the accused persons.  
+
+Now, Mr. Morley, I don't know what is the legal position with regard to the point raised as to the reason why a new order is required.  
+MR. MORLEY:
+Well, at the end of the day, we simply want to get our hands on the material.  We have drafted a commission rogatoire, and we can send it off.  I was just hoping that if they heard Your Honour's voice booming across the airways, that they'd simply produce the document there and then.  But there being a glitch, it seems that either way we proceed, we are going to have a delay of some sort.  So perhaps what we ought to do is email a copy of the commission rogatoire document so that at least that is in the hands of the state.  It has to be signed formally, but it may be that --  
+MR. PRESIDENT:
+Who is it signed by?  
+MR. MORLEY:
+The Prosecutor, as Your Honour knows.  So it may be that, one way or another, we can get the material by the close of business today.  A two-pronged approach might be best, but I hear what my learned counsel in the state is saying, and whoever is right and whoever is wrong, it may not matter very much.  It comes down to how do we get our hands on this material to track it, to see whether it is disclosable or not. 
+
+(By order of the Court, this portion of the transcript has been extracted and filed under separate cover)
+Well, Mr. President, as regards the time factor, tomorrow is a holiday in the state concerned, which must not be lost from view.  And it perhaps, to be more simple -- simpler, that the fax number of the federal prosecutor's office be communicated to the Prosecutor through which number the request can be made, and the response will be given as soon as possible, in view of the calendar of which I have just informed you.  I don't think I can be more specific than that at this stage. 
+MR. PRESIDENT:
+Well, thank you very much.  Well, I think the background is quite clear.  The Prosecutor will do what it can.  The officers from our Chamber will do what they can.  But I think we have exhausted this topic now and we should proceed with the continuation of the testimony.  
+MR. MORLEY:
+With Your Honour's leave, we can continue. 
+MR. PRESIDENT:
+Yes, please, Mr. Morley.  
+MR. MORLEY:
+Mr. Witness, back in situ, please.  
+THE ENGLISH INTERPRETER:
+The witness is here. 
+MR. ROBINSON: 
+Excuse me, Mr. President, I don't mean to delay us but I have a small administrative issue, if we can take it up right now, I think would save us some time.  It concerns the commencement of my cross-examination which you have ordered to happen on Friday.  I have given now to the registry on the 10th of May 2006, and again this morning, the 24th of May, a series of exhibits which I intend to use with this witness.  And I believe that, at least, certainly, the first packet is with Mr. Hometowu in the location of the state; the second I gave this morning to Issa to try to fax to him.  
+
+It is my request that you direct the witness to review -- well, first, that you direct the registry in the state to provide these documents to the witness at the end of the proceedings today, and that the witness be asked to review these documents tomorrow during his holiday, so that when I commence my cross-examination, the witness will have digested all of this material so we will save us time during my cross-examination.  And I hope that is not too much of a burden of the witness.  Thank you. 
+MR. MORLEY:
+That seems like a good idea. 
+MR. PRESIDENT:
+Okay.  Accordingly, the order is made.  
+
+Mr. Hometowu, is it understood?
+MR. HOMETOWU:  
+I have well understood, Mr. President, and I will give the documents to the witness today.  Thank you. 
+MR. PRESIDENT:
+Thank you very much. 
+MR. MORLEY:
+If I may continue with the witness. 
+MR. PRESIDENT:
+Yes, please.  
+BY MR. MORLEY:
+Q.	By the time we get to April of 1994, can you give us some idea --  
+MR. MORLEY:
+I see Mr. Hometowu is now giving evidence. 
+MR. HOMETOWU:
+We are waiting for the witness, who should be back in a second. 
+THE ENGLISH INTERPRETER:
+And it looks like he is there. 
+BY MR. MORLEY:
+Q.	Witness, if I can ask you, by the time we get to April of 1994, throughout Rwanda, have you any idea how big the Interahamwe was, what sort of numbers? 
+A.	In April 1994, if I know how many Interahamwe there were in Rwanda?  
+Q.	Yes, that was the question.  Have you got some idea of the size of the Interahamwe by April of 1994? 
+A.	No, frankly, really, I couldn't give you a figure, but -- but the MRND numbers were perhaps 65 or         70 percent in relation to the numbers in the youth wings of other parties.  I can't give you an exact figure, but I know that they were more numerous than the youth of the other parties. 
+Q.	Can you give us some idea as to how big the Interahamwe was in Kigali, what sort of numbers? 
+A.	I couldn't give you a detailed figure.  No statistics -- no statistics were kept, as far as I know, by the committee in such a way as to make it possible for me to put a figure, give a number.  I'm very sorry; I cannot answer the question with precision. 
+Q.	With regard to the Interahamwe outside Kigali, therefore, in the various préfectures, how were they controlled? 
+A.	Well, in fact in the provisional national Interahamwe committee, you have seen the list of 11 persons, if I might say so, that committee had exclusive -- its jurisdiction was exclusively in Kigali and the vicinity, the immediate vicinity.  As to the numbers of youth in the interior, they were answerable to, under the responsibility of -- as has been recommended when certain members of the committee went to Gisenyi to launch the youth wing, they were under the local authorities, the regional MRND apparatus, just as the national provisional committee was in the same position as national executive committee was in relation to the authorities, the central authorities of the party. 
+Q.	Did members of the executive bureau of the MRND have any control over the Interahamwe outside of Kigali, and if so, how was that done? 
+A.	Well, according to the pyramid, the pyramidal structure of the MRND party authority was nationwide at préfectoral congress level.  And the préfectoral congress was subordinate to the political bureau, national political bureau, and all the way down to the basic body, which was at sectoriel level; the lowest being the cellule.  That is what I know of the pyramidal structure of the MRND. 
+THE ENGLISH INTERPRETER:
+The witness is coming over broken up again.  Perhaps the microphone is too near or something like that. 
+MR. MORLEY:
+Dealing with the microphone, can we adjust the microphone, Mr. Hometowu, in front of the witness? 
+THE ENGLISH INTERPRETER:
+When he speaks too loudly there is distortion. 
+THE WITNESS:
+I was saying -- did you follow my answer or were there any problems?  
+MR. MORLEY:
+I think, if I may, Your Honours, it may be that we did follow the answer.  It is a matter for Your Honours if you want it repeated.  
+MR. PRESIDENT:
+Well, if the interpreter -- I mean, does he think -- I heard what the interpreter said. 
+MR. MORLEY:
+Your Honour, yes.  Well, as Your Honours then observed it.  
+
+Are the interpreters saying that the answer needs to be given again?  
+THE ENGLISH INTERPRETER:
+In all honesty, I think a couple of terms did escape us, but I don't know if you find it generally satisfactoriy or not.  It is really up to you, Prosecutor. 
+MR. MORLEY:
+All right, so the buck comes back to me and we move on.  I'm not going to ask it again.  
+BY MR. MORLEY: 
+Q.	Did you -- you described the pyramid structure of the MRND.  Who are the people of the top of the pyramid structure of the MRND by the time of April of 1994? 
+A.	Did you say after 1994?  
+Q.	By the time of April of 1994 in the pyramid structure of the MRND, who were the people who were at the top of the pyramid? 
+A.	Mr. Mathieu Ngirumpatse had been elected president of the party, and in that capacity was at the top of the party pyramid in April 1994. 
+Q.	And who were those who worked closest with him at the top of the pyramid, please name them? 
+A.	According to the protocol and in all logic, the president was assisted by two vice presidents,               Mr. Ferdinand Kabagema and Mr. -- and Édouard Karemera.  And then lower down the ladder we had the national secretary, or general secretary of the party -- both terms were used, national secretary, general secretary. 
+Q.	And at that time that would have been Mr. Nzirorera; that's right, isn't it? 
+A.	Yes, I can confirm that.  I thought I had pronounced Mr. Joseph Nzirorera's name.  He occupied the post of secretary general of the party. 
+Q.	Did Mathieu Ngirumpatse have any effective control over the Interahamwe outside of Kigali, and if so, how did he exercise it? 
+MR. ROBINSON: 
+Excuse me, Mr. President, I just wish to recall for the Trial Chamber that I had asked a question almost exactly like that to which Mr. Morley had objected saying that "effective control" was a legal term and was not proper for the witness to give an opinion on a legal term.  If you recall that came up with the last witness of the last session.  
+
+So I ask him to -- I was ordered to rephrase the question, did he have control or what control did he have, as opposed to effective control.  So I think the same rules should apply to both sides.  Thank you. 
+MR. MORLEY:
+It may be that Mr. Robinson's memory is better than mine, but I have no recollection of such an exchange.  We will delete the word "effective" and use the word control. 
+BY MR. MORLEY:
+Q.	Mr. Witness, could you tell us whether Mr. Ngirumpatse had control of the Interahamwe outside of Kigali? 
+A.	Through the préfectoral congresses, I can answer yes, because the youth, both in Kigali and in the interior, were at the disposal of and served the interest and purposes of the MRND.  But I would say indirectly because of the analysis I made and that we made together, as to the active presence of      Mr. Mathieu Ngirumpatse.  I don't know to what extent he was actively present vis-à-vis the Interahamwe of the interior. 
+Q.	How would any orders be communicated from the top of the pyramid to those in the various préfectures? 
+A.	The national steering committee transmitted its orders, its instructions to the préfectoral committees, who, in turn, transmitted them to the Interahamwe in the hinterlands, in the commune, in -- some préfectures.  That is, indeed, what happened with all parties; or to be clearer, very often in case of an emergency, various parties, including the MRND could have recourse to radio communiqués or other forms of press communiqués.  But the first channel I described was the most usual. 
+Q.	Did Nzirorera exercise any control over the Interahamwe outside of Kigali?
+A.	I can't answer you precisely because the same logic applies to the national committee, vis-à-vis the préfectoral committees.  Its hierarchical control as I described the pyramidal structure from the summit down to the grassroots. 
+Q.	Do you know of any association between Mr. Nzirorera and the Interahamwe in Ruhengeri? 
+A.	No, what I know of Nzirorera's relations with the Interahamwe is what I described regarding Kigali town.  As far as Ruhengeri, I know of nothing in particular. 
+Q.	By the time of April of 1994, what was the relationship like between the Interahamwe and the army? 
+A.	Relations of ongoing cooperation, collaboration, mutual support, from practically the beginning the Interahamwe always supported the Rwandan Armed Forces, and the Rwanda Armed Forces were proud of the Interahamwe's support. 
+Q.	On the 6th of April 1994, President Habyarimana died in the plane crash.  How did you hear the news? 
+A.	In fact, I heard the news at about 8 p.m., 8:30.  I was outside in front of my home.  I was in a drinking place with my colleagues.  And a doctor amongst us and who didn't live very far from the bar where we were was called home urgently by his watchman, his night watchman.  And it was on his return from his place, his residence that the doctor informed us that Habyarimana -- Habyarimana's plane -- that he was -- that he had died in an attack on his plane.  That is how I heard about the assassination of President Habyarimana. 
+Q.	And having learned in a restaurant from someone that the president was dead, did you go home or did you do something, or what did you do? 
+A.	We immediately went each our own way.  The doctor went home.  It was about five minutes away.  On the way, I dropped off another colleague, and I immediately went home. 
+Q.	At home, did you take any telephone calls, make any telephone calls.  And if so, about what? 
+A.	In fact, when I got home, I don't know exactly what time it was, about 9, perhaps a bit after 9, my wife told me that a friend, who was a member of the national committee, had called in my absence, had telephoned.  And so I called him back immediately.  And that is how I confirmed the demise of the president.  And he had heard it from a reliable source.  I called members of the provisional committee; I couldn't find anyone.  I tried to call Mr. Mathieu Ngirumpatse unsuccessfully.  So, I stayed hanging on the telephone left and right.  I even called RTLM to have news as to that assassination. 
+Q.	What was the number of the Interahamwe committee member you spoke with on the phone, please? 
+A.	Could I have the list before me so as to answer your question?  I called and spoke with number 5.  I couldn't get number 1.  I couldn't get number 3.  I called number 6, it was his wife who answered.  That is as regards the evening of the 6th of April. 
+Q.	What did you speak to Ngirumpatse about on the phone? 
+A.	Counsel, I called but I couldn't get through to Ngirumpatse or his family, so I didn't speak to        Mathieu Ngirumpatse.  In fact, why did I even try to call him?  Well, it was because in the course of our preceding meetings, we considered it was -- it would be a good idea that we, the members of the provisional national committee -- the numbers of those who had telephones at home so that we could telephone each other should the need arise.  And that is why I tried to call Mr. Mathieu Ngirumpatse, among others. 
+Q.	Thank you for that answer.  May I remind you of what we talked about yesterday about the use of the word "we." I will move on.  
+
+On the 7th of April, what did you do during that day?  Did you stay home?  Did you go out?  Help us with your movements? 
+A.	On the 7th of April, I stayed nailed at home with my family, just as the radio communiqué -- the announcement over the radio that had asked the population as a whole to observed a curfew.  So I remained cloistered at home throughout the 7th of April. 
+Q.	Could you hear any gunfire? 
+A.	In fact, nights in Kigali practically since the RPF had arrived in Kigali and with the development of the violence in Kigali, gunfire, the grenade explosions, they had become more or less habitual.  But very early in the morning, at about 4 or 5 a.m. -- in the district where I lived shooting started at about 4:30,   5 o'clock.  And it didn't stop throughout the day practically. 
+Q.	What did you think was going on in Kigali? 
+A.	The fighting had renewed, Counsel.  The RPF had declared a resumption of hostilities in the district where I was.  It was military (unintelligible).  It was the resumption of the war in Kigali. 
+Q.	Did you speak with number 5 on the telephone on the 7th of April? 
+A.	Quite probably.  People were sitting -- hanging onto their phones wanted to know what happened in one neighbourhood or the other, not only that day, the following days also.  That is my answer.  But certainly on the 7th we spoke over the phone and the events were confirmed to me by very credible sources, close relatives. 
+Q.	Did you speak with any other members of the Interahamwe national committee on the telephone on the 7th of April; and if so, which numbers? 
+A.	On the 7th of April, no, no.  I spoke with other people, but not at the national provisional committee level.  I don't remember having spoken with anyone on the list of members of the national provisional committee. 
+Q.	What did you do on the 8th of April? 
+A.	Well, on the 8th, I left home towards the end of the forenoon when number 6, in the company of other Interahamwe members, came to my residence.  And that is when I went out into the streets of Kigali. 
+Q.	Who came to your home, and at about what time, please? 
+A.	Number 6 came to my place at about 10:30, 11 o'clock, 11 a.m., towards the end of the forenoon; anyhow, time enough to talk and to have a drink, including the people that came with him.  And he told me there was no more to fear outside.  And was surprised, in any case, that the curfew had been observed, respected in the district -- neighbourhood where I lived when, he told me, that in the outlying neighbourhoods, the curfew was practically not respected at all.  And that is why I determined to go with him.  So at about noon minus something, about noon, you know we didn't keep track of time, but at the end of the morning, beginning of the afternoon, I went forth with that group. 
+Q.	You have mentioned a curfew.  Did you hear a curfew being announced over the radio? 
+A.	Well, yes.  It is because of that communiqué by the Rwandan armed forces.  In such circumstances, you have a curfew, and it was decreed over the airwaves of Radio Rwanda.  I heard that communiqué that I and the others observed -- the curfew, that is, as far as those who did observe it. 
+Q.	Can you help us with the name of the person who issued the curfew order? 
+A.	The communiqué over Radio Rwanda was read on behalf of the Rwanda Armed Forces and signed by Colonel Théoneste Bagosora. 
+MR. MORLEY:
+And for Your Honours' assistance, Your Honours may recall that we have the curfew communiqué at  D. NZ18, tab 246, dated the 7th of April with the supporting order at D. NZ19, at tab 245 from the minister of defence, also signed by Bagosora. 
+BY MR. MORLEY:
+Q.	Now, you have told us about the curfew which, as a matter of record, was issued on the 7th of April.  On the 8th of April, were people paying any attention to that curfew order? 
+A.	Could you please repeat the last phrase of the question?  
+Q.	Were people -- were people paying attention, any attention to the curfew order on the 8th of April, so far as you could see? 
+A.	I realised that the curfew had not been respected when I went to the outskirts, or to say in the populous districts of Kigali.  In fact, I myself violated the curfew because I sallied forth whereas the curfew had not been lifted because I don't know if it was lifted.  I hope I have answered your question. 
+MR. MORLEY:
+I see the time.  I don't know whether Your Honour made an indication a moment ago? 
+MR. PRESIDENT:
+Yes, we can take it now. 
+(Court recessed from 1600H to 1620H)
+MS. HOUNKPATIN:
+(No interpretation) ...I just wanted to tell the President that the Accused Ngirumpatse will be late because he has gone to the ICTR clinic to consult a doctor. 
+MR. PRESIDENT:
+Thank you for the information; and he is excused.  
+MR. ROBINSON: 
+Mr. President, while we are waiting for Mr. Morley, I have another issue we can bring to the 
+Trial Chamber's attention.  During the recess, we were discussing with Mr. Hometowu the modalities for transmitting my exhibits to the witness.  And Mr. Webster asked me to bring this up to the 
+Trial Chamber.  He is requesting that the documents not be provided to the witness unless the Prosecution is also provided a copy simultaneously.  And I don't believe that it is right for the Prosecution to have possession of these documents until it has completed its direct examination.  
+
+So, perhaps, you can hear from Mr. Webster on that.  But it is my request that the witness be provided with the documents, and that the documents be disclosed to the Prosecutor upon the completion of his cross examination (sic). 
+MR. WEBSTER: 
+Your Honour, the way that I'm used to proceeding is that documents are not placed before a witness until they have been shown to the opposing party.  And the normal procedure would be for                 Mr. Robinson to disclose that material to the Prosecutor, and before it is placed before the witness, we see it.  And I'm insisting upon that.  
+
+So, I don't wish to slow things down, but we also have the weekend that will be between the beginning and the close of Mr. Robinson's cross-examination.  So, perhaps, the best way to proceed is for him to disclose the documents to us, the Prosecution, and then the witness will have the weekend to review them, if that is necessary. 
+MR. PRESIDENT:
+Mr. Robinson, we -- I think I understand why you don't want the Prosecutor to have access to the documents -- 
+MR. MORLEY:
+May I apologise, Your Honours, I thought I had 20 minutes from five past 4:00. 
+MR. PRESIDENT:
+All right, Mr. Morley, apology accepted.
+
+And we understand why you would not want to Prosecutor to have access to the documents before the examination-in-chief is completed.  We also understand that there is a reason why the Prosecutor should have an opportunity to see them before delivery, or simultaneously with delivery to the witness.  So we are going to have to take the risk of time on this issue.  It is a pity that you all cannot agree.  I help that in the future you will be able to agree, but we would not order an exception at this time.  
+MR. ROBINSON: 
+I understand.  It seems that every time I try to save time, it doesn't work.  We end up spending more time.  But I tried, and I think that, perhaps, if the witness is willing to read them over the weekend, we will still save some time. 
+MR. PRESIDENT:
+Yes. 
+MR. ROBINSON: 
+Excuse me, Mr. President, just so there is no misunderstanding, perhaps you should transmit that information to Mr. Hometowu, so he knows not to provide the witness with the document. 
+MR. PRESIDENT:
+Yes, we will advise him.
+
+Do we have connection with the other location?  Mr. Hometowu, can you hear me?  
+MR. HOMETOWU:
+I can hear you very clearly, Mr. President. 
+MR. PRESIDENT:
+Mr. Hometowu, the Prosecutor has raised a legal objection to the delivery of the exhibits, to which Defence counsel intends to refer in cross-examination, in advance of delivery being made to the Prosecutor.  And as we accept that there is a good reason for the non-delivery of the material before the end of the examination-in-chief, we have to modify the instructions which were given earlier today, and ask you not to deliver the material to the witness until the close of the examination-in-chief. 
+MR. HOMETOWU:
+Duly noted, Mr. President.  I had already given the documents to the witness, but I'm going to withdraw it immediately. 
+MR. PRESIDENT:
+Thank you very much, Mr. Hometowu. 
+MR. MORLEY:
+One sees the wheels of justice are still in force.
+
+If I may continue with the witness.  
+MR. PRESIDENT:
+Yes, Mr. Morley. 
+BY MR. MORLEY:
+Q.	Witness, you told us that around 10:30, 11 o'clock, number 6 came to your home.  Did he come with anyone and if so who, please? 
+A.	The member of the national provisional committee of the Interahamwe, who is number 6 on that list, came with certain Interahamwe members of his neighbourhood to my place.  They were also accompanied by someone in military uniform, with the rank of lance corporal, and he was armed with a Kalashnikov.  They were accompanied by a journalist who at the time worked at the RTLM, his name Noel Hitimana.  I wonder if it is important to mention certain names of the Interahamwe.  There are one or two names, perhaps they may be nicknames.  If it is important, then I'm ready to avail you with two or three names.  It is up to you to make the call. 
+Q.	Now we may not need the names of the footsoldiers.  But when you set off then with number 6 and Hitimana and members of the Interahamwe, describe the scene in Kigali, please? 
+A.	Actually, when they visited me, we sat down, we exchanged some information.  They told me there was nothing to fear any longer.  They even blamed me for the fact that some people in some plush neighbourhoods actually barricaded themselves in their homes.  Only the Interahamwe were fighting with the enemy.  So it was just a way for them to tell me that the Interahamwe, and our group, had the upper hand.  That was around midday or 30 minutes past midday.  I accompanied them.  I saw them out to the vehicle which had brought them there.  That is how I went outdoors for the first time.
+
+So, we did not take the road leading to the popular neighbourhood of Biryogo, or the road coming directly from the neighbourhood where I lived up to Biryogo, and Nyamirambo and up to an avenue called the avenue of justice or the youth avenue, I'm not too sure of the name of that major avenue which leads directly to Nyamirambo centre.  
+THE ENGLISH INTERPRETER:
+Correction, the witness said "he went by that road."  
+MR. WITNESS:
+And so we went to the various roadblocks and in the final analysis dropped off journalist Hitimana at the RTLM.  And he requested soldiers of the presidential guard to provide him with an escort.  The presidential guards were guarding the building of the presidency located directly opposite the RTLM building.  He had requested an escort to enable him to go and evacuate his family.  We joined him.  And that is how I started moving around along the roadblocks.
+BY MR. MORLEY:
+Q.	Were there bodies on the streets? 
+A.	While entering the popular neighbourhood of Biryogo, which is actually a clear separation from Kayove neighbourhood, that is where I encountered the first roadblock, manned by Interahamwe.  And there there were three, four or five bodies.  And that was the case on the other roadblocks up to ONTRACOM, there were bodies in the ditches.  But there were even more bodies when we took the road between ONTRACOM to the direction of Gitega, Gakinjiro, actually in the direction of the RTLM, the number of dead bodies was much more significant and the -- 
+THE ENGLISH INTERPRETER:
+And the interpreters lost the witness.  
+THE WITNESS:
+As I was saying, since I did the reverse trip going towards Kivugiza, I witnessed certain scenes of dead bodies, one of which had been completely burnt with used tyres.  And people told us that he was an RPF combatant who had been arrested, and who did not want to talk when he was being questioned.   
+THE ENGLISH INTERPRETER:
+Once again, the interpreter has lost the witness. 
+THE WITNESS:
+There was the very remarkable spectacle with many, very many dead bodies near the                         St. Charles Lwanga Church, very close to the St. André College along the main road to Nyamirambo.  So we continue to Kivugiza.  
+
+We evacuated Mr. Hitimana's family and moved them to the RTLM.  This is concerning my first experience of dead bodies in the roadblocks on the 8th.  In a nutshell, Kivugiza, Nyamiramba the       St. Charles Lwanga Church, the neighbourhood known is Iberechi, Gitega, Gakinjiro there were dead bodies strewn on the roads. 
+BY MR. MORLEY
+Q.	But what sort of people had been killed?  Were they young men, women, children, elderly people?  Can you help us, please, with what sort of people had been killed? 
+A.	On the 8th, there were men in greater numbers then women.  There were children also, but in very few numbers on the 8th.  There were also elderly persons.  There were men, women, elderly persons, but very few children on that date.  Actually, as I was moving down the streets that is what I saw.  Perhaps the situation was different inside of the respective neighborhoods. 
+Q.	Approximately how many bodies do you think you saw on that day, the 8th of April?  Can you give us some idea of a figure? 
+A.	On the 8th I saw several hundred around that road, except for the fact that I made a to and fro trip, but especially at the St. Charles Lwanga Church in Nyamirambo, there were really huge numbers.  I was so shocked that the soldier with me actually stirred me by telling me, "You should not really pay attention to looking at those dead bodies.  We soldiers are used to such scenes and we do not pay attention to them."  I was -- I'm not able to count the numbers, especially at that level. 
+Q.	Who did you understand had killed most of the hundreds of bodies that you had saw? 
+A.	The Interahamwe, for some also, soldiers.  Even apart from the Interahamwes are MRND, there were other youth wings, and practically the entire population, the entire population were at the roadblocks.  You should also note that I even saw Tutsi in roadblocks.  They did not want to be considered as collaborators of the enemy.  Basically, it was done by those referred to by Interahamwe, but it could not be excluded that soldiers participated in such activities. 
+Q.	The bodies were of what type of people?  Were they Hutu, Tutsi, what ethnic group? 
+A.	Counsel, I will not be insulting you if I tell you that I did not check the faces of the bodies.  However, the greater number of the dead bodies -- correction, the greater number of the enemies were Tutsi, so they were the ones being targeted.  So I cannot tell you that I was verifying their faces, there was no time for that.  Please bear with me if I am giving this answer with some feeling of insolence, but we were not busy making such verification.  But it is clear that maybe 90 to 95 percent of the dead bodies were Tutsi.  And certainly Hutus who had been identified as accomplices of the enemy. 
+Q.	Did you go to the RTLM offices, and if so, was there a blackboard there with names on it? 
+A.	Actually, on that 8th of April while going through the roadblocks, we would stop by each roadblock, greet the people manning them; they also greeted us.  We recognised one another.  We arrived at RTLM in Gitega neighbourhood, which was actually supervised by number 6 on that list.  He lived in that neighbourhood.  And that neighbourhood was a major bastion of the Interahamwe.  
+Before accompanying the RTLM journalist home to evacuate his family, I was able to enter the RTLM premises and discuss with journalist, specifically Mr. Phocas Habimana, who was the coordinator.  And in the lobby of that building, before entering the studio, there was a blackboard, average sized blackboard as one would find in schools.  
+
+On that board were written the names of high-ranking personalities who had already been assassinated, other personalities about whom there was still doubt regarding their situation.  And concerning the personalities whom it was not yet known whether or not they had been assassinated, there were question marks.  And before the 8th I had been to the RTLM, before accompanying the journalist to evacuate his family.  And on my return, I also entered into the RTLM building.
+Q.	Did you buy any beer for the Interahamwe on the 8th of April, and if so, why?  
+A.	I mentioned our stronghold in Gitega where we would stop by say hello to people who would also greet us in return, we would exchange information.  Then we would enjoy some beer.  This is part of Rwanda culture, when someone have something to offer to others, we always share a beer.  And naturally, under the circumstances, the Interahamwe deserved special attention.  We considered them as combatants.  So it was all but normal to give them drinks.  
+
+I must have given drinks not only to the Interahamwe, but also to certain soldiers who in the first few days did not easily receive regular supplies.  So, it was within an atmosphere of sharing, sharing amongst people who were of the same group.  It was necessary to encourage them, to congratulate them; so we shared. 
+Q.	You described the Interahamwe as combatants.  Who were they fighting? 
+A.	Let me once again state that the Interahamwe were fighting against the RPF, against RPF infiltrators, against RPF accomplices.  So, if you want me to use ethnic terms, I would say they were Tutsi in the majority, because they were very few Hutu, as we have seen from our analysis, who had remained with the enemy.  There were certain attempts made for Hutu, referred to as members of the Hutu Power, to band together.  But the enemy was the Tutsi. 
+Q.	Why were women and children being killed? 
+A.	In fact, as far as that is concerned, those were the cases of excesses.  And the way I see it, people were mistaken in the combat which they were waging.  So there were many and a myriad of excesses.  Some were being spurred by settling scores, acts of looting, and even acts of rape.  So, all the bestiality that are committed during a war, especially during the civil or guerilla warfare, after so much tension over a period of four years, with people being deprived of their property.  So, the analysis can be carried out in various ways.  But, generally, this is as far as I am concerned, my analysis, what I notice. 
+Q.	Well, thinking then on the excesses, as you have put it, what was the position the next day, the          9th of April, did the killing of women and children become greater as the days went by in April or did the excesses stop? 
+A.	I cannot say that excesses stopped.  In fact, no one can say that on the 9th the excesses, the killings, and massacres stop.  But let me backtrack a little bit.  At the end of the 8th of April, I was accompanied by the same team which had come to pick me up at home.  And when I arrived home, a colleague of mine who was also a member of the national interim committee with whom I was in, the evening of the 6th of April when we learnt of President Habyarimana's demise, that member had arrived at my home, and from that moment on had sought refuge there.  That person is number 8 on the list of members of the national provisional committee.
+
+Now, in connection with telephone communication, the person number 5 was a long and old friend, told me that shots were being fired in the neighbourhood where he lived in, and the shots were being fired from Rebero and the neighbouring hills.  So, he wanted to come and take refuge at my place, because my neighbourhood was very secure, in fact it was quite safe.  So the following day my friend, who is person number 6, came to my place.  And I took him with number 8, and we moved along a road leading to the trading centre and to the neighbourhood known as Plateau where I had to discharge a professional duty.  That is to ensure that everything was fine regarding the staff under my responsibility.
+
+And on that occasion, I once again stopped by the RTLM towards late morning.  And I explained the problem to my friend, number 6, regarding the request which had been made to me by number 5, as well as number 7, who lived in the same neighbourhood.  
+Q.	Witness, can I interrupt you -- 
+A.	We organised it all.  We decided to go to their homes and we evacuated their family.  And once again on that occassion we passed through certain roadblocks which we had not encountered or covered the previous day, and so on and so forth.  So, this, in a nutshell, is how I would summarise my activities on the 9th.  I evacuated those families.  We passed through roadblocks and from the 9th of April 1994 they were accommodated at my place, along with other families. 
+Q.	It may be that the question had not been clearly translated.  I wonder if you might consider again.  Thank you for helping us with your movements on the 9th of April.  The question I asked was whether the excesses, namely, the killing of women and children, came to an end or got worse as the days went by? 
+A.	And my answer was that the massacres worsened, compared to what I had seen the previous day.  And it was actually on that occasion that I was actually much revulsed by the spectacle of a child of  four years whom I saw dying near her mother.  That is when I understood that we were fighting the wrong war.  So, to be more specific in my answer, the massacres I had seen the previous day did not at all end, it was a contrary situation, because I crossed roadblocks which I had not covered the previous day. 
+Q.	The massacres were not coming to an end.  The Interahamwe are on roadblocks.  We are at the        9th of April.  Who was in overall control of the Interahamwe? 
+A.	Perhaps I should repeat that the phenomenon known as the Interahamwe or MRND, had joined other youths and other people.  But here I can tell you that the Interahamwe in general, Interahamwe or MRND, were known to be in charge of the streets.  But in general -- perhaps I didn't understand your question, Counsel. 
+Q.	The Interahamwe were in charge of the street.  Who was in charge, overall charge of the Interahamwe?
+A.	The Interahamwe were under the control of the national provisional committee.  For example, we, the members of the committee, as I have explained, according to the numbers, could freely move through the roadblocks because we were known by the people who were manning them, knew that we were in charge of the Interahamwe.  The general control of the Interahamwe was the MRND; and of the other youth groups was their party leaders.  That is what I can say by way of answer to your on that topic. 
+(Pages 39 to 58 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+BY MR. MORLEY:
+Q.	So, names, please, of the MRND people in charge of the Interahamwe committee in charge of the Interahamwe? 
+A.	Mr. Mathieu always had effective control over the Interahamwe committee.  Mr. Joseph Nzirorera, after he joined the steering committee, had, to a lesser extent, ongoing contact with the Interahamwe.  Mr. Karemera -- Édouard Karemera, Kabagema, and other préfectoral officials were accompanied, escorted, obtained the escort to various meetings and demonstrations, so, to that extent, controlled the Interahamwe youth movement.  And I'm here -- I'm speaking of the Interahamwe za MRND, but after the 7th of April the phenomenon was not limited to the Interahamwe za MRND. 
+MR. PRESIDENT: 
+I'm sorry, Mr. Morley.  
+BY MR. MORLEY:
+Q.	What happened on the 10th of April of 1994?  
+A.	On the 10th of April 1994, an important event was at the beginning of the forenoon, we went -- I mean, certain members of the national provisional committee went to the Hôtel des Diplomates, because they had been called by the MRND authorities to hear an announcement.  And the people, whose names I can give you, went to that meeting which resulted in a mission assigned to us -- an assignment given to us by the steering committee of the MRND and a president of the PL party. 
+Q.	What was the mission, and who was it -- names, please -- who gave that mission to the Interahamwe committee?  
+A.	Well, in fact on the 10th of April, Mr. Mathieu Ngirumpatse, Mr. Édouard Karemera, Mr. Joseph Nzirorera, Mr. Justin Mugenzi spoke to us in the following terms:  "Now, gentlemen, you cannot -- you do not sufficiently control your men."  I am quoting text of Mr. Ngirumpatse.  "You should, therefore, do all you can to stop the killing at the roadblocks.  Not only are your people killing, but they are exposing the corpses to -- exhibiting the corpses to everyone, which is giving us difficulties with the international community, who is saddling the interim government that had just been instituted the responsibility for the massacres."  
+
+So, the message in general was, do everything you can to stop the massacres.  And it is as of that time that discussions began, how can we achieve that?  How do you think we can go about it?  That action-reaction.  
+
+So, it was understood that we would undertake that assignment with the means at our disposal -- made available to us, which was an armed escort, to go and deliver the message on the behalf of the Rwandan government, in the name of the Rwandan government.  Because we objected that there were crazy people manning the roadblocks, and we couldn't deliver the message without some proof that we were really delegated -- that we really were messengers on the government's behalf, and that might lead to problems for us.  And so, one thing led to another, and we concluded that we needed an armed escort to transmit the -- the government's message, and the persons concerned had to be shown that -- needed a show of strength to show that the government was prepared to follow through, and anyone who violated this order was liable to sanctions by the government.  
+
+And, secondly, for public security, the corpses had -- that were exhibited that -- on the roadside should be gathered together so that trucks of the roads and bridges ministry should be able to drive by to pick up the corpses so as to avoid epidemics.  That was the mission assigned to us by those four people essentially represented the interim government (sic). 
+Q.	What are the numbers of the persons from the Interahamwe committee who were present at the meeting at the Diplomat Hotel you have told us about?  
+A.	Well, in fact, to the extent possible, the summons to attend the meeting was addressed to all 11 members of the committee.  But, in view of the circumstances, the context, the war in Kigali, in the context of a situation where members of the provisional committee did not live together but were disbursed throughout the neighbourhoods, only number 5 was able to attend, number 6, number 7, number 8, number 9.  I should like to take this opportunity to point out that, on the 11th, we heard that he'd (sic) already been killed by the RPF.  We were not able to get 1 or 2 or 3 for various reasons; contact could not be established with them.  Number 4 attended also, because he was, by chance, at the Hôtel des Diplomates, but did not participate, did not execute the mission assigned by the government.  
+Q.	Did you, yourself, attend the tour of the roadblocks? 
+A.	I'm sorry, but I did not understand the question.  
+Q.	Did you, yourself, attend the tour of the roadblocks?  
+A.	Absolutely. 
+Q.	What are the numbers of those on the Interahamwe national committee who went on that tour?  
+A.	Well, allow me to count.  Five people, including myself.  
+Q.	Can you identify by number the members of the national committee you recall went on the tour?  
+A.	5, 6, 7, 8, and 9.  
+Q.	As you recall it, what day did you and others go on the tour?  Was it on the 10th of April, or on another day?  
+A.	It began formally on the 11th, when an armed escort was placed at our disposal.  But, on the 10th, upon leaving Hôtel Des Diplomates, and on our way home, we would, to some Interahamwe leaders at the roadblocks, transmit that message, telling them that we would start the tour on the next day, the 11th.  So, formally, in formal terms, the tour began on the 11th.  
+Q.	Can you name the areas where you went to and spoke to Interahamwe at the roadblocks?  
+A.	Well, in fact on the 10th of April we sketched out a plan for the tour of the roadblocks to those who had asked us to undertake it.  We began with Gitega, then we went to Biryogo, and went on to Nyamirambo.  We went to Nyakabanda, we went to Kimisagara, we went to Giticyinyoni.  In fact, we followed the route that led to the most important roadblocks to deliver the message, asking the people to spread it in their neighbourhood at the secondary roadblocks.  That was the tour we undertook in the forenoon, until the lunch break on the 11th, and we went on to Muhima, Nyamigogo, Gatsata on the Byumba road.  That is, as far as I recall, roughly, the roadblocks we visited on the 12th -- on the 11th.  
+THE ENGLISH INTERPRETER:
+Excuse me, on the 11th.
+BY MR. MORLEY:
+Q.	Thank you.
+MR. MORLEY:
+And just to assist with two spellings -- the other areas are fairly phonetic, and also well known, I think.  Giticyinyoni is G-I-T-I-C-Y-I-N-Y-O-N-I, and Nyamigogo is N-Y-A-M-I-G-O-G-O.  
+BY MR. MORLEY:
+Q.	You've mentioned you toured a number of roadblocks in the morning.  What was the reaction at the roadblocks, when you spoke to the Interahamwe, to the message?  
+A.	The general reaction was one of surprise on the part of the Interahamwe and the other people manning the roadblocks, and they reacted as follows:  "Therefore the government -- instead of giving us arms to protect ourselves from the enemy, they're asking us to put our arms down and surrender to the RPF and its accomplices."  And we explained that that was a message -- "In any case, that was the message that the government had asked us to give you, and those who do not obey that instruction will have to answer for it."  And also we'd like to tell them, you see, the government has problems with the international community.  If we go on like this, people won't be able to go to markets anyhow, one day or another; it can't go on like this.  
+
+Some were very recalcitrant, and we'd have to issue threats.  Or as we were escorted by soldiers, accompanied by soldiers, they realised we were speaking on behalf of the others.  Some would understand and agree, others grumbled, but, on the face of it, accepted, and we went on spreading the message and we returned -- in fact, we felt it appropriate to make a detailed report in view of the people's reaction, which is what we did after the first tour in the morning.  
+
+But, in general terms, apart from some roadblocks known to be very hard line, manned by people who insisted on having arms, they were trying to assert pressure that the arms intended for them had not reached them, and hence they were referring to Turatsinze.  Others were more explicit and would mention him by name.  Others would say, "Listen, we have received nothing to defend ourselves, so tell this government to supply us -- to issue us weapons to defend ourselves."  This is the message we took back to the -- to the authorities in our report on the 11th.  
+Q.	After the tour in the morning, and before the tour in the afternoon, did you make any report? 
+A.	Well, in fact, we reported in the afternoon.  Everyone was very nervous, very tense, highly stressed in face of the military pressure, extreme military pressure exercised by the RPF that was already firing -- shelling populous districts, and we were running the risk of being lynched by the local inhabitants, we and our soldiers.  And that is something we stated in our report.  
+
+And the second thing is, we said that, in view of what was being said over RTLM, when we were on our tour RTLM was reporting the misdeeds committed by the RPF, the people killed in the neighbourhoods occupied by the RPF were named, so we were facing people who was (sic) increasingly deaf and dumb, which we explained in our 5 o'clock report -- 5 p.m. report.  And the authorities told us, "Well, listen, carry on, tell them that the government will consider their complaints, and that we will meet their demands -- follow up on their demands."  But, at the end of the day on the 11th, we were convinced that the message was not getting through, in view of the military pressure exercised by the RPF. 
+Q.	To whom was the report made at around 5 p.m. on the 11th of April? 
+A.	Only Mr. Mugenzi wasn't there, but three MRND members, Nzirorera, Ngirumpatse, Karemera, were informed as to the results, reaction to our tour of the (microphone not activated). 
+Q.	What was the reaction of Ngirumpatse to being told that the message was unpopular in part, and to a request for guns? 
+A.	Well, listen, in general terms, he would tell us, "Listen, carry on spreading the message, tell them the government will consider their demands and will try to meet them, satisfy them."  But, we could see that they themselves didn't believe in it.  They'd say, "Listen, go on trying, insist, those who are dead are dead, those who are not dead, well, that's their good luck, but go on spreading the message, telling those who want weapons that the government will consider the matter."  Perhaps it was a way of calming them down.  But that's what -- that's -- that was Mathieu's reaction to our report. 
+Q.	What was the reaction of Joseph Nzirorera to the report?  
+A.	Well, in fact those three spoke the same voice.  One would reinforce the other, along the lines of carrying on with our mission, our assignment.  But, the attitude observed in Mr. Nzirorera would be indifference, I would say, and very often with some sarcastic laughter, as if -- as if he were indifferent, detached from the events.  
+
+I would say the same for Joseph Karemera.  Really saddened, but with a fatalistic philosophy, as if to say, well, carry on, but that's fate.  It's inevitable, it happened, it happens.  
+
+But, you must realise something that personally shocked me, that showed me that death had become common currency.  That, in telling them that number 1, our president, had lost his father, had lost his elder brother, who had supported him in RTLM -- in the Interahamwe -- 
+
+THE ENGLISH INTERPRETER: 
+I'm sorry, I mentioned RTLM, I meant especially in the Interahamwe.  
+THE WITNESS: 
+His father, his brother, all his brother's family had been assassinated by those in our camp, and I did not hear anyone say one word of condolence or of compassion or any sorts of affliction (sic) expressed.  There was a coldness in the face of what was happening outside.  
+
+The climate at the Hôtel des Diplomates was in marked contrast with what was going on outside, and the feeling I had was that they had shed the problem on to the shoulders of the Interahamwe, perhaps so they would have a clear conscience, or perhaps it was because of prodding by the international community.  The government turned -- the MRND said the Interahamwe are the child of the MRND, and they'd found that formula of telling us to go and spread the message.  But it was an ambiguous mission, because the necessary means, proportionate means, were not made available -- available.  That is the atmosphere, the attitude I discerned among those leaders, and which is more or less the general attitude of the government, that people were -- showed coldness in the wake of what happened to Habyarimana and the general killing.  That's what I personally observed, in the face of that situation.  
+
+It was not a message accompanied by the proportional necessary means.  It was a snow job, in my opinion, when I see what happened afterwards.  Especially since the next day they went off, without anybody warning us, whereas we'd agreed to undertake a tour on the next day.  That I did not understand up to this day.  They'd left us to the dogs, the enraged dogs.  
+THE ENGLISH INTERPRETER:
+Thrown us to the dogs.  Left us to the dogs.  
+BY MR. MORLEY:
+Q.	When reporting on the scenes in Kigali and what had been happening to people, among the people you were talking to, do you remember any particular facial expression that you can tell us about?  And if so, about whom, please?  
+A.	What do you mean by "facial expression"?  I don't grasp the question.  
+Q.	Did you describe there being bodies on the streets in Kigali?  
+A.	Of course, yes.  Yes, of course.  And I tell you, it's not necessary to describe the scene, the reaction by those authorities who had called us most formally, because they knew what was going on in the streets.  So, in describing how the message was received at any given location, in assigning us the mission that the roads department would send trucks to pick up the corpses, I think that was superfluous. 
+Q.	When you described there being bodies on the streets of Kigali, what was the reaction of Édouard Karemera?  
+A.	As I told you, Karemera's attitude was one of great sadness, but tinged with fatalistic philosophy.  "Well, look here, that's fate."  That sort of -- they were resigned to it.  In the face of destiny, something inevitable that had just struck.  
+Q.	Did anyone show any pleasure or satisfaction at what was befalling the Tutsi?  
+A.	Listen, I should not like to interpret Mr. Nzirorera's indifference, the sort of sarcastic laugh, as pleasure; no.  But for me it was very close to detachment.  Following what had happened to Habyarimana and his entire delegation, I saw that death had become -- had become common currency, and there was general -- general coldness.  I was struck that none of the three -- our three chiefs, our three leaders, be afflicted by what had happened to our president who had been assassinated by our own people.  You can't say that it was the RPF.  It's true the RPF had struck down number 11, but I was revolted by the coldness shown by what had happened to our president.  I didn't understand and I still don't.  
+Q.	Did the killings actually stop as a result of the tour?  
+A.	No, Counsel, the massacre did not -- the massacres did not stop, because, in spite of all that, on the 12th, some of us, apart from number 5 who preferred to join his family, and number 7 who did not take part in the tour that day for urgent professional reasons, we could nonetheless continue to go and cover the roadblocks we hadn't been to while going on spreading the message, in view of extreme nervousness on the part of the people, because in the face of the RPF military pressure, people had begun to flee the town.  Even some military trucks were taking soldiers' families.  But we went on until the moment when we, ourselves, were afraid, and at about 2 p.m., when we were on our way back to report, imagine our deception, or disappointment, when we learned that the government had scarpered, if you'll forgive the expression.  
+
+We found that Mr. Nzirorera, who had told us when we reported to him, "Well, listen, I must, myself, unfortunately hit the road."  But we insisted and tried to explain to him that he'd cast us to the wolves, that now that the government had left we were running the risk of being lynched by the people we had spread the -- transmitted the message not to defend themselves, that the government would satisfy their demands.  It's thanks to Mr. Nzirorera that we had escaped the worst that could happen to us, and he satisfied our demand and provided us with weapons.  And the population continued to flee Kigali, but the Interahamwe stayed at the roadblocks.  In fact, it was the vulnerable people, the families, who left Kigali, because the government had left Kigali.  And, in the face of the military pressure, the people felt more and more insecure.  
+
+That's it, you see how we were betrayed by people who'd implicated us in something that was considered to be a praiseworthy humanitarian mission.  And it is only afterwards that I realise that it was an elegant way of shoving their problem on to the shoulders of the Interahamwe, like an umbrella.  You see, we've told those responsible to transmit the message, but -- 
+Q.	Well, thank you for that answer.  In it you mentioned that there had been a further tour of roadblocks in the morning of the 12th of April, and that you had gone back to the Diplomat Hotel in the afternoon, and you'd seen Nzirorera.  And you said something about weapons being distributed.  What was the arrangement made by Nzirorera about guns?  
+A.	Well, in fact, number 6, number 8, number 9, in going to the Diplomat Hotel at 1400 hours, at 2 p.m., said, "Unfortunately I myself must go," and then we explained the problem to him in detail.  And he said, "Well, look here, I'll do what I can.  Call me by about 4 p.m. and I'll tell you what you must do."  And at about 4 p.m. I called him myself.  Number 6 told me that he'd also called him.  And Nzirorera had told him that he'd submitted our problem to him, that he would speak to Bagosora, and we should meet him at 6 p.m. at the Hôtel des Diplomates.  
+
+And at 6 p.m. we did go to the Hôtel des Diplomates where Bagosora, Colonel Bagosora, asked us to follow him to the ministry of defence, where he telephoned and gave orders, and gave us his driver who took us to a storeroom, where we obtained firearms that we distributed the next day.  
+Q.	What sort of firearms had Nzirorera arranged Bagosora to distribute to you to distribute the next day?  
+A.	No, it was not on the following day, it was on the same date, that is, the 12th, that -- about 7 p.m. or 7:20 p.m.  Thanks to those arrangements we were able to enter Kiyovu neighbourhood in what was the president's second residence, and where there was a presidential guard camp.  It was his former official residence in Kiyovu neighbourhood, but since he had moved to Kanombe, that premises remained a sort of secondary residence, if I could put it that way.  And that same day, on the 12th, we were able to be -- receive about 100 guns, or more, ammunitions, and Uzi submachine guns.  And there were rifles known in Rwanda as GP rifles.  
+
+But, it was not on the following day.  Rather, on the following day, we distributed those weapons at the same roadblocks which we had covered, in accordance with the promises we had made to them, telling them, "Listen, the government has said you have to stop, but your grievances would be considered and will be acted upon."  So it was rather on the 13th that we distributed the weapons, which weapons were provided us in the evening of the 12th of April.  
+Q.	Thank you.  It may have been there was some confusion in the translation, but your answer covers pretty much the next two questions I was going to ask you.  So, moving on, you've described taking a route on the 11th of April and the 12th of April around the roadblocks, passing a message about bringing the killings to an end.  What was the route for distributing the Uzi submachine guns and the rifles and the GP-3s on the 13th of April?  Was it a different route, or did you go round the same roadblocks?  
+A.	Actually, apart from Biryogo neighbourhood, which is very close to Gitega neighbourhood where we had stored the weapons in the evening -- the Interahamwe officials of that neighbourhood were summoned to Gitega to be issued with their own share of the weapons.  But, for the rest, we practically followed the same route which we had used the previous day.  Well, our main two days before, and that is the 11th and the 12th, to distribute the weapons.  And this was good in that it helped us to sort of clear ourselves in the face of the military pressure exerted by the RPF, and the fury which they had displayed.  But let me underscore that during the distribution of the weapons, we no longer benefited from the military escort had been placed at our disposal when we conducted what we referred to amongst ourselves as a "pacification tour". 
+Q.	For the tour to have really worked, that is to say, for the killings to have stopped, what would have been the best and most proper way for the government to go about that, if they were really sincere?  
+A.	The first move in such a situation is to take strong measures to link up with the message, and such strong measures are only under the purview of the gendarmerie and the army.  And, for me, such strong actions supporting the message which we had been asked to convey would have been efficient, because it sufficed to use some strong measures from the gendarmerie, or the army.  Some (unintelligible) measures, such that if it was -- could not put an immediate end to those activities everywhere, it would have at least deterred and discouraged people.  
+
+Why am I saying this?  I am saying this because when I passed through the business district in Kigali, we saw bodies in military uniforms.  And I learnt that those people had been killed on the orders of the prefect of Kigali-ville préfecture.  So the communal police of Kigali-ville préfecture had received the orders to kill any soldier who, instead of being at the war front, was indulging in looting.  So, the business district remained intact.  I think those dead bodies remained exposed for two or three days.  I am of the view that if a similar measure had been taken, it would have supported the message the authorities had asked us to convey.  To me that was the first measure.  
+
+The second measure would have been to give injunctions regarding messages that were being broadcast by the RTLM, and other measures which specialists in such matters are more versed in than us civilians.  I think it would have been more effective.  However, I must acknowledge that there was one player who was not making things easy for us, and that was the RPF and its military pressure exerted on the population and, of course, on the armed forces.  There is a whole gamut of measures, and the authorities are best placed to know those measures. 
+Q.	As part of your tour, were you told by Ngirumpatse, Nzirorera, Karemera, or Mugenzi that the roadblocks should be dismantled, Interahamwe sent home, Interahamwe disciplined for excesses, arrested for excesses?  Were you given any authority to disband the presence of the Interahamwe on those roadblocks?  
+A.	The message was not along those lines.  The message was to put an end to the massacres.  The message was not in any way to dismantle the roadblocks.  Besides, even if that had been the message which we had received, we would not have conveyed such a message, because it was not possible for such a message to be conveyed.  Rather, we had been told textually (sic) that we had to warn the recalcitrant fellows that they were liable to sanctions on the part of government which would carry out the control.  I do not think there was any control carried out.  I would be quite surprised that any control to support our action was carried out, as we had received the guarantees.  What we learned was that, the following day, we did not see anybody any longer. 
+Q.	Is it right that you stayed in Kigali until the 17th of April and, at that time, you left with your family for your village outside Kigali?  
+THE ENGLISH INTERPRETER: 
+For the record, counsel was not very clear for the interpreters.  And the witness is answering.  
+THE WITNESS: 
+Actually, in the face of the event I evacuated my family on the 13th, and then after I had taken part of the distribution of weapons at the roadblocks was to try and act on the promise we had given to people in the face of the very dangerous situation, and the authorities had abandoned us.  So, I remained in Kigali up until the 17th at around 9 a.m. in the morning, when I went to visit my family.  That was on the 17th of April 1994.  
+BY MR. MORLEY:
+Q.	Thank you for that.  And through the period 13th, 14th, 15th, 16th April, did the killings continue at the roadblocks in Kigali, please?  
+A.	Counsel, allow me to tell you that at some point in time the massacres did not take place necessarily at the roadblocks.  Massacres were going on within the neighbourhoods.  But, of course, at the roadblocks, where certain people were picked up, the massacres went on.  But over time the scope of the massacres reduced, because unfortunately I must tell you that, as people were being eliminated, after some time, there was no one to kill.  I am sorry for this cynical manner in which I am saying this, but it was a reality.  The massacres continued in Kigali.  
+Q.	Well, perhaps on that note -- -- 
+MR. MORLEY: 
+I see the time.  I can assist Your Honours that although I have two hours and 45 minutes in the kitty, I will finish within two hours on Friday morning.  
+
+Is this a convenient moment?  
+MR. PRESIDENT: 
+Yes, it is.  Thank you very much.  
+
+We take the adjournment now.  
+
+Mr. Witness, I remind you that you're not to discuss your evidence or the case with anybody.  The -- your testimony will continue on Friday morning.  
+MR. MORLEY: 
+My learned leader, Mr. Webster, would like to address Your Honour for a moment, and it may be something to do with also being able to talk to the people in the state.  So if I may, I will sit down.
+  
+MR. WEBSTER: 
+Yes, I just wanted to indicate to the Court and to the (By order of the Court, this word has been extracted and filed under separate cover) -- excuse me.  To the authorities in the -- 
+MR. PRESIDENT: 
+Redact that.  
+MR. WEBSTER: 
+-- (unintelligible) that I have managed to send the commission rogatoire, it has been signed by the Prosecutor, I dispatched it by email to my colleague that's presently in The Hague.  It was also copied to -- or, actually directed to the -- 
+THE ENGLISH INTERPRETER: 
+If counsel could slow down for the interpreters and the court reporters, thank you.  
+MR. PRESIDENT: 
+I would request you to slow down a bit.  
+MR. WEBSTER: 
+Okay, I'm sorry.  
+
+It was addressed to the person in the Prosecutor's office to which these requests are usually addressed.  We will make sure that a fax transmission is sent out.  I will look about that as soon as I leave the courtroom today, and given the time difference, I would expect that these materials should arrive before the end of the day in the location where the video conference is being organised.  So, I hope that will assist, and that perhaps we can have the necessary -- the requested documentation in time to make it available, if that's required.  
+MR. PRESIDENT: 
+Thank you, Mr. Webster.  I hope the efforts succeed.  
+
+We can take the adjournment now.  
+(Court adjourned at 1800H) 
+(Pages 59 to 68 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Roxane Meena, Karen Holm, Donna M. Lewis and Kirstin McLean, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Roxane Meena
+
+
+___________________________	 Karen Holm
+
+
+___________________________	 Donna M. Lewis
+
+
+___________________________	Kirstin McLean
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 24 MAY 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 23
+
+	KAREMERA ET AL	WEDNESDAY, 24 MAY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 38
+
+	KAREMERA ET AL	WEDNESDAY, 24 MAY 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 58
+
+	KAREMERA ET AL	WEDNESDAY, 24 MAY 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 59
+
+	KAREMERA ET AL		WEDNESDAY, 24 MAY 2006
+
+ICTR - TRIAL CHAMBER III
+

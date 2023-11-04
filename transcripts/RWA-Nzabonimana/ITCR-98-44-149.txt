@@ -1,0 +1,1958 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO. : ICTR-98-44C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+
+
+WEDNESDAY, 24 AUGUST 2005
+0904H
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao Gustave Kam
+
+For the Registry:
+	Ms. Marianne Ben Salimo
+	Mr. Charles Kalumo
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Ms. Dior Fall
+	Mr. Iain Morley
+	
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporters:
+	Mr. Rex Lear, Ms. Wendy Molnar,
+	Ms. Jean Whalen, Ms. Judith Kapatamoyo,
+	Mr. Haruna Farage, Ms. Sherri Knox, 
+	Ms. Jean Baigent, Mr. Sheriffo Jammeh
+
+
+I N D E X
+
+WITNESSES
+For the Prosecution:
+WITNESS GIO
+Cross-examination by Mr. Hooper (continued)	5
+Cross-examination by Mr. Hooper	71
+
+ALISON DES FORGES
+Re-examination by Mr. Webster(continued)	47
+
+EXHIBITS 
+Prosecution Exhibit No. P. 70...	39
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  Madam Registrar, would you please open the proceedings. 
+MS. BEN SALIMO:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Karen Hökberg, and Judge Kam is now sitting in open session today, Wednesday, the 24th of August 2005, for the continuation of the trial in the matter of the Prosecutor versus 
+André Rwamakuba, Case Number ICTR-98-44C-T.  
+MS. FALL:
+Yes, Mr. President. 
+MR. PRESIDENT:
+There has been an unexpected development.  
+MS. FALL:
+Thank you, Mr. President.  
+
+We have a small problem this morning with Witness GIO.  I was informed at 8 a.m. that the witness was not well and could not appear to continue cross-examination this morning.  Witness -- the representative WVSS can give more ample information.  She's being treated at the clinic.  But I have taken further measures for Witness ALW to appear, and we are in a position to begin examination-in-chief of that witness. 
+MR. PRESIDENT:
+Thank you very much.  
+
+Would it -- is the representative of the WVSS here, so we just can have something formal for the record on this matter?  
+MR. KALUMO:
+Thank you, Your Honour.  As expressed by the Prosecutor -- 
+MR. PRESIDENT:
+Excuse me.  Just for the record, would you please identify yourself?
+MR. KALUMO:
+Thank you very much, Your Honour.  I am Charles Kalumo from WVSS.  I'm the head of security and movement.  
+
+As expressed by the Prosecutor, last night we got a report that Witness GIO was not feeling very well.  We took measures to have her visited by a doctor.  And this morning when we checked on her again, she was not feeling very well, and we took her to the clinic to be met by the UN-ICTR doctor, and we are waiting for a report from the medical doctor.  And tentatively, we have brought Witness ALW, who is in the waiting room, if at all she is needed by the Chamber.  
+
+Thank you very much, Your Honour. 
+MR. PRESIDENT:
+Thank you very much.  
+
+Mr. Hooper.  
+MR. HOOPER:
+Yes.  I'm very sorry to hear that, and obviously I'm better prepared for the witness who is not here than for the witness who is here, but I'm prepared for both.  But if the position is that GIO is presently being seen by the doctor, I wonder whether a few minutes might not determine one way or another whether she is fit to give evidence today.  If she's not, then I'm in the Court's hands and I'm ready to proceed with Witness ALW.  And if I hit any difficulties, I hope the Court will accommodate them. 
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  
+
+Does the witness protection unit have anything to contribute to this particular issue as to the likelihood if Witness GIO is available for this morning's session?  
+MR. KALUMO:
+Thank you very much, Your Honour.  Right now I think we just wait for the doctor's report; but the witness looks ill, and we just wait -- in a few minutes, I think the report will be ready.  We'll bring it to the Chamber.  Thank you, sir.
+MR. HOOPER:
+If I may just add, then, if it's the view of witness support that the witness indeed looks ill this morning, then I propose that we start with ALW and certainly take the evidence-in-chief.  And if there is a change, then, in the disposition of GIO, we can react to that; and if not, we can continue with cross-examination of ALW. 
+MR. PRESIDENT:
+Thank you very much, Mr. Hooper.  
+
+We wonder whether it would be possible for you to telephone the clinic and get an indication of when the report would be available.  If it's a matter that we will know in about five or so minutes, it might be useful for us to have that information before deciding how we proceed.  It shouldn't -- I think it might be the lesser of the two evils. 
+
+MR. KALUMO:
+Thank you very much, Your Honour.  I'll do that right away, sir.  Thank you.  
+MR. HOOPER:
+Mr. President, on another matter, I've served the Prosecution this morning with a CD disc.  Can I provide four copies for court management, one for each of the Judges and one for the records?  They're photographs, or further photographs, of Butare hospital. 
+MR. PRESIDENT:
+What's the status of these documents?  
+MR. HOOPER.
+At this stage, I'm disclosing them.  There will come a time when I can formally exhibit them.  I can formally exhibit them now, I suppose.  There is nothing to prevent that. 
+MR. PRESIDENT:
+Well, does the Prosecutor agree that they be exhibited?  Because --  
+MR. HOOPER:
+Yes. 
+MR. PRESIDENT:
+But there is no real status -- 
+MR. HOOPER:
+No, you're quite right.  I'm sorry.
+MR. PRESIDENT:
+-- as far as we are concerned, at this stage.
+MR. HOOPER:
+I haven't been as focused on it as perhaps I should.  Well, can I just leave that for several minutes?  
+MR. PRESIDENT:
+Yes.  Which also raises a question as to the issue of the exhibits, Mr. O'Shea's exhibits for the      Alison Des Forges testimony.  I presume you have already discussed that with Mr. Webster and that you have an agreed position by the time that we have to -- to admit them in evidence.  
+MR. O'SHEA:
+Your Honour says Mr. O'Shea's exhibits.  The Defence exhibits?
+MR. PRESIDENT:
+Yes.  Yes, yes, yes.  Thank you.   
+MR. O'SHEA:
+Well, with regard to the Defence exhibits, I haven't discussed the matter with Mr. Webster, but I'm in Your Honour's hands as to whether I do it before the re-examination or after the re-examination. 
+MR. PRESIDENT:
+Well, the timing is not important, but we would like to make certain that the appropriate exhibits are put in evidence -- 
+MR. O'SHEA:
+Yes. 
+MR. PRESIDENT:
+-- as they would have no status in the trial if they're not put in evidence formally.  
+MR. O'SHEA:
+Of course.  Yes. 
+MR. KALUMO:
+Your Honour, I've been able to talk to the clinic; and Witness GIO has been examined by the doctor, and she has been certified free to come to court and continue her testimony, and she is on her way.  She'll soon be with us.  Thank you, sir. 
+MR. PRESIDENT:
+Thank you very much.  Well, in those circumstances, I think we should recess a few minutes to give her time to come and comport herself comfortably.
+(Court recessed from 0914H to 0934H)
+MR. PRESIDENT:
+Good morning, Madam Witness. 
+THE WITNESS:
+Good morning, Mr. President. 
+MR. PRESIDENT:
+Well, we heard you had a bit of a problem overnight, but I'm glad to have heard that it has been not too serious and that you're now able to continue giving your evidence.  If you have any problems during the day, please let me know, and we'll see what we can do to assist you further.  
+
+Are you ready to continue now?  
+THE WITNESS:
+We may proceed, Mr. President. 
+MR. PRESIDENT:
+Thank you very much.  You remain on the same oath to tell the truth that you took when you commenced giving your testimony.  Do you understand that?  
+THE WITNESS:  
+(No interpretation) 
+MR. PRESIDENT:
+Thank you very much.  
+THE WITNESS:
+Quite so, Mr. President. 
+MR. PRESIDENT:
+Yes.   Mr. Hooper.  
+MR. HOOPER:
+Thank you.  
+WITNESS GIO
+CROSS-EXAMINATION (continued)
+BY MR. HOOPER:  
+Q.	Good morning, Madam Witness.  
+A.	Good morning, Counsel. 
+Q.	If at any time you feel in discomfort, you let the Judge President know.  All right? 
+
+You may remember yesterday that we got to the point in your -- in your story, your account, where you had, if I can summarise this -- and you can tell me if I get it right where we left off -- that you had fled into the maternity building and you had made your way to the basement or lower floor, and you found yourself in a room with your children and other people you didn't know, and you described the room as a room with two beds in it but no patients.  And then Athanase came and told you or told the group of you about the possibility of rape; and hearing this, you fled, and then you were caught up with halfway to the building known as the IRST, I-R-S-T, where you and your daughter were subjected to terrible indignities.  Now, I think that's -- that's correct.  Is that a fair summary of what you had told us yesterday? 
+A.	That is correct. 
+Q.	Now, you may recall that in your evidence the day before yesterday, you told us how you had been a -- in a position to see the -- a vehicle being loaded up with both living and dead, and I'm just a little puzzled as to where -- when that was in the sequence of events and where you were when you observed that event.  Can you help me, please, as to that? 
+A.	That event occurred in April 1994 at an hour or a time I don't know. 
+Q.	I'm sorry to come back to it.  It's -- where were you when you saw that?  Where does it fit into your story that you saw that? 
+A.	What event are you talking about?  Are you talking about a time that those people were killed or the time they were loaded up into the vehicle?  I don't quite understand where your problem is.  
+Q.	I'm sorry.  I'll make it clearer.  It's when they were loaded into the vehicle.  Where were you in -- where does that happen in your story?  I mean, you've told us how you go to the maternity.  You didn't see it happen before you went to maternity.  You go to maternity.  You haven't told us you saw it when you were in maternity.  And then you flee from the maternity building and down the hill, and you haven't told us about seeing anything on the way.  So where does it fit into your story, this loading of the vehicle? 
+A.	I saw that incident while I was standing behind the maternity building. 
+Q.	And at what point were you standing behind the maternity building? 
+A.	That was in April of 1994 at a time I am unable to determine. 
+
+MR. PRESIDENT:
+Yes, Madam Witness.  I see your hand raised.  
+THE WITNESS:
+I wish to request something of you.  I would like to say the following:  The Defence counsel is putting questions to me on issues that were addressed yesterday; but if this is okay with you, I will request that you direct him to ask me questions on matters that have not been dealt with, since I am already tired.  We shouldn't be going back to issues that have already been dealt with.   
+MR. PRESIDENT:
+The rules governing the procedure of trials conducted here allow the counsel on both sides to ask witness questions which will assist the Court in evaluating the quality and accuracy of their testimony; so sometimes, in order to address that issue, it is necessary to revisit issues which have been previously discussed.  If, in our view, the Defence counsel acts improperly in the way he questions you, we will intervene.  You're also free at any time that you wish to ask our assistance.  But I don't think that the question, as put, is improper or requires our intervention at this stage.  
+BY MR. HOOPER:
+Q.	Can I just hand you up a photocopy of a photograph, please, which will show the back of the maternity building?  
+
+Do you recognise it as the back of the -- the back of the building? 
+A.	I realise that this is the building in which you have the maternity, but I don't know what is the interpretation, what interpretation can be given to the photograph. 
+Q.	Well, you know the institution extremely well.  That's the back of the building, isn't it?  
+A.	I don't know that institution as well as you say.  It is true that I know the institution.  I go there from time to time.  But that does not mean that I know the institution exhaustively. 
+Q.	Well, I've only been there a couple of times, but it's obvious that that's the back of maternity, isn't it?  Did you say it's somewhere else?  
+A.	You know, you point to that location with a specific objective.  You observed all the things that you wanted to.  But I was there as a refugee. All the same, this is the back of the building wherein you have the maternity services. 
+Q.	Well, thank you for that concession.  And looking at that, there is a door, and that's the back door to maternity. And you told us yesterday how you left maternity by the back door, and from there you made your way down the hill towards the IRST.  Now, where were you when you saw the vehicle being loaded?  Or I could put it another way: Where was the vehicle when you saw it being loaded?  Let's have that as the question, if it helps you.  I hope it does.  Where was the vehicle when you saw it being loaded?  
+A.	You went to the maternity services between the dermatology and the kitchen.  There was some space, and I think there is even still some empty space there; and that is where the vehicle in question was parked. 
+Q.	And so where were you when you saw the vehicle?  
+A.	From this back of the building.  It was the IRST building.  
+
+	By your reckoning, what is the distance between that spot and where the kitchen was?  
+Q.	Well, the area where the dermatology building is, the space between there and the kitchen is not at the back of the building, the maternity building.  It's at the front of the maternity building.  So I take it that I can safely draw the conclusion that the photograph you look there -- look at there doesn't show the place where the vehicle was, because that's the back of the building, of course.  So the vehicle was on the other side of the building, the front of the maternity.  
+
+So my question is, where were you when you saw the vehicle being loaded up? 
+A.	There is a spot where there is a pear tree, an avocado tree, before you get to the main road.  There is a spot or some space in front of the dermatology service, and that is where the vehicle was parked.  
+
+	But in your opinion, how did the vehicle come in?  Because it came in through the area that I have just pointed out. 
+Q.	I don't want to get too tied up with the detail of this aspect, if I can avoid it.  I've got many more photographs.  If you think you might be assisted by another photograph, perhaps I can show you one.  But all I want to know is, when you saw this vehicle being loaded up -- 
+A.	Well, I was at the location at the time of the event, and I am the one who described to you what happened.  But I shouldn't resort to photographs there, because I'm not in the position to analyse photographs.  I'm not at ease with photographs. But I can describe the location, because I was at the spot, on the spot, at the time that the events were occurring. 
+Q.	Now, when you saw the vehicle being loaded with people, where were you standing or sitting, whatever?  Where were you?
+A.	I was standing.  I was not sitting down. 
+Q.	Where were you standing, please? 
+A.	I was at the side of the door through which you go out to move towards the IRST building. 
+Q.	Let me show you another photograph then, please.  
+A.	It's not worth it, Counsel.  I can describe the location to you from what I saw, but insofar as photographs are concerned, I think I have already said that I am not good at analysing them. 
+Q.	Well, we'll just see if it helps you.  
+
+Now, this photograph -- 
+A.	That would serve no purpose, as far as I'm concerned, because I did not take any photographs at the time. 
+Q.	This photograph was taken about five years ago, and it shows the back of the maternity building as it was at that time.  And right in the  front of the picture, as it were, there is the door, and then the building runs -- you can see the building stretching out there.  Now, looking at that photograph, can you see the door?  If you look at the photograph in front of you, the one I've just given you, can you see the door, the back door to maternity, just by the bicycle? 
+
+Do you want to have a look at the photograph?  Do you want to help me?  Well, does it shed -- 
+A.	This will not amount to much, because I do not know how to interpret photographs. 
+Q.	You see -- well, look.  The difficulty is, I suggest, that if you stood at the back door of maternity and it's just the one door, where you've described the vehicle is the other side of the building, so you couldn't possibly see the vehicle, could you, from that position?  Can you help us? 
+A.	Counsel, do you think that the building wherein you have the maternity building was built after the war?  I know that building very well.  You see, there is an entrance on the side of the faculty of medicine, and the vehicle took that road.  Don't think I don't know that location.  You have taken photographs, but I know how that area is configured.  Rather, you should ask me where the vehicle was stationed at the time of the events, and I will also describe to you how it was parked at the location. 
+Q.	Well, I've been asking you where you were, and you've told us that you were at or by the back door to maternity.  May I ask you this, then?  I'm going to move to a slightly different area of the subject.  
+
+When you saw the vehicle, what were you doing?  If you stood by the back door of this building, what were you doing?  Were you leaving the building?  Were you fleeing the building?  Is it at that point that you saw the vehicle?  
+A.	I'll refer you to my statement.  I think in that statement, mention is made of the door we're referring to in this case.  Now, if you consult that document, you understand things better.  I think everything is therein written. 
+Q.	Do you want to answer my question?  What were you doing at the point when you saw this vehicle from the back door of the maternity building?  What were you doing?  Were you leaving?  Were you fleeing at that point?  Can you help me?  
+A.	I was not  an employee working at the maternity.  Obviously I was in flight, but all I can say is that I wasn't there as a member of the staff of the maternity. 
+Q.	Let me move to a different -- a different subject.  You told us in your evidence that the person who told you that the man was -- who the man was, was number 7 on our list.  I suppose you might not have that list.  
+MR. HOOPER:
+And, Mr. Issa, if I could just have a quick look to make sure that we're looking at the same list.  Thanks.  
+BY MR. HOOPER:
+Q. Just to remind you, we're not going to mention the name in public, but number 7 there is the person whose name you wrote on the piece of paper yesterday or the day before yesterday; is that right?  She was the person who told you it was Rwamakuba; is that right?
+
+Is that right?  Yes or no, please. 
+
+Well, I'm afraid hand gestures don't get recorded.  Well, they do, actually, because -- well, maybe not in your case, because I don't think we're being videoed; but that person there under -- you see the name, number 7, MM?  That's ****, number 7.  Was that the person who told you -- well, let me remind you what you said.  
+
+"I knew it was Dr. Rwamakuba as I learned of it subsequently.  The person who told me was" -- and then it was kept secret, the name, but you wrote it down.  
+
+Oh, I see you haven't been able to hear.  
+THE ENGLISH INTERPRETER:
+The witness is saying that she is not hearing the interpreter's voice from the Rwanda booth.  She realises that the counsel is talking to her, but she's not receiving the translation of what he's saying. 
+MR. HOOPER:
+Q.	That explains your enigmatic gesture.  I'm sorry.  I didn't appreciate you had difficulty.  Why, you're back in tune now, are you?  Good.  
+
+The question was:  If you look at your list, number 7  -- and it might help if I just read what you said in your evidence.  You said:  "I knew it was Dr. Rwamakuba as I learned of it subsequently.  The person who told me was" -- and you wrote down, then, the name of the person whose name appears at number 7.  Can you confirm that, please, as correct?
+A.	Yes, I do confirm it. 
+Q.	Now, this person who told you the name of the man who was with Dr. Gatera, who requested identification before Dr. Gatera struck both your brother and then the girl with the axe, can you remember -- I know it's a long time ago.  What did that person tell you?  Did they say it was Rwamakuba?  André?  André Rwamakuba?  Dr. André Rwamakuba?  Do you remember what it was, as best you can remember?  A long time ago, I know, but --
+A.	I recall very well the person said the following words in the surgery room in front of the maternity, and that person said, "That one is called Dr. Rwamakuba."  It is much later that I learned that his first name was André, and I learned this from students.  As to that person who told me the person's name, she's the person who told me that that was Dr. Rwamakuba, who was in the company of Dr. Gatera, whom I know, whom I knew already.
+(Pages 1 to 9 by Jean Whalen)
+1000H 
+BY MR. HOOPER:
+Q.	Now, is it right to say that in all the several accounts that you have given either here in your statements, before courts in Rwanda, that the first time you ever said in a court, that it was that person who identified the person as Rwamakuba, was on Monday.  Apart from perhaps, discussions you may have had with Mr. Morley last Thursday, and again on Saturday, what I see from the will-say.  I think it's in the will-say.  It is in the will-say.  That's the first time you ever said that person identified -- that's right, isn't it?  The first time you have ever said? 
+A.	On every occasion that I came here in the Rwamakuba trial, I have always said it is No. 7.  
+THE ENGLISH INTERPRETER: 
+And here, the witness gave a name.  In any case, the witness says, it is that No. 7 who gave me the information. 
+Q.	I will look at that a bit later.  Now, again, can you help me because 
+	I am puzzled again as to where in your story of fleeing the surgical ward into maternity, et cetera, and then leaving to go down at haste, you have made no mention of an opportunity to meet the lady whose name is at No. 7.  Can you tell the Chamber, please, when and where you met her, for her to tell you that?  When was it? 
+A.	Counsel Hooper, you have my statement.  The statement I gave after the war and I think -- and the name of that lady is mentioned therein and you have that document.  I don't know why you want to ask me this kind of question.  I think it would be better for you to refer to that statement. 
+Q.	Well, let's deal with it like that when we come to your statement.  But can you just help the Judges at this point.  Where were you when (by order of the court the name has been struck out) told you that it was Rwamakuba, when that person told you that. Struck out (by order of the court the name has been struck out) 
+MR. PRESIDENT: 
+Thank you.  Madam Registrar, please, take note of that. 
+BY MR. HOOPER:
+Q.	Where were you when that person told you it was Rwamakuba?
+A.	I was at the maternity unit. 
+Q.	Can you remember where you were in the maternity unit?  Were you in that room with the two beds and no patients that you told us about? 
+A.	Understand me, or let's understand each other, Counsel.  I think you might have problems regarding the lady in question, but rather focus on the statements that were made by Athanase.  Even during the war, people were running helter skelter in all directions.  Some people were saying this is this person, that is this other person.  And so that's how I got to learn that, in silence. 
+Q.	Where were you when you met that lady in maternity? 
+A.	For Christ's sake, Counsel, you are surprising me.  Don't you understand what I am saying or am I the person who is not understanding what is being said through the interpreter. 
+Q.	You see, you told us yesterday that you fled into maternity.  You went down to the basement.  That you went into a room with two beds and no patients.  And there were other people there, none of whom you knew.  So, where is this person, No. 7, where does she cross your path that night, to tell you this? 
+A.	We just left her at the place where my brother had been killed, and were about to enter the maternity.  As a matter of fact she was not inside that maternity, rather, she was near the surgery room.  I think you should understand this well. She was not inside the building where you have maternity. 
+Q.	So, she was outside the surgery, was she? 
+A.	That is correct. 
+Q.	And as you fled the surgery having witnessed those terrible things, you stopped to talk to her, did you? 
+A.	Mr. Hooper, it wasn't a situation where one was having a conversation with some other person.  I was in flight. 
+Q.	When she pointed out the man as Rwamakuba -- when she pointed out the man as Rwamakuba, where was Rwamakuba? 
+A.	He was moving down towards the vehicle. 
+Q.	So, you are now seeing the vehicle from the front of maternity -- from the surgery, is it? 
+A.	That's it.  I was able to see the vehicle. 
+Q.	Not from the back door of the maternity? 
+THE ENGLISH INTERPRETER:
+Microphone, Counsel. 
+MR. HOOPER: 
+Sorry. 
+BY MR. HOOPER:
+Q.	Not from the back door of maternity?
+A.	Yes, even while I was at the back door of the building, I could see the vehicle because I could throw a glance and see or look at the vehicle where it was parked. 
+Q.	Now, you mentioned the name of someone called Boniface, and you further identified the name that **************, as being that person.  And you said that Boniface was put on this vehicle but he came back.  Have I got that right, that he escaped and came back?  Is that correct? 
+A.	That is correct. 
+Q.	Again, before you said that on Monday, am I right in saying that you never ever said that in any previous statement or evidence? 
+A.	Can you repeat your question, Counsel? 
+Q.	Until Monday, you never ever said that before except perhaps to 
+	Mr. Morley.  You had never said that that man was either put on the vehicle, that he came back and escaped.  That was all something you said for the first time on Monday, is that right?  
+A.	Listen, Counsel.  When you give accounts of all the events that took place during the war, you cannot mention all the details.  I am not a computer.  Don't be surprised that even today I could give you some new information. 
+Q.	On that list in front of you when I showed it to you yesterday, I asked you, who you knew on the list, and you -- and I also gave you a piece of paper with a name on it.  Do you remember?  And you said, you didn't know that person.  And I also asked you about No. 6.  And you said you didn't know that person.  But when you gave evidence in September 2003, you said you didn't know both those people.  So, how is it that you knew those people then but not now? 
+A.	Don't dwell on those people.  I came to help the Tribunal.  I told you that I only knew the doctor and Boniface, not with regard to the other people that I didn't know. 
+Q.	Well, I refer you -- we are not going to go into it now.  Page 24 of the transcript of your evidence of 11th of December 2003, you were shown a piece of paper with ten names on it, and you identified few of those names, and those were the names that appear on our list as No. 7 and 6, on the piece of paper that you were given yesterday.  
+MR. MORLEY: 
+Sorry, before my learned friend continues, do we have that piece of paper which the witness was shown in December 2003?  We only heard my learned friend saying that from the piece of paper, certain people were identified.  Whose the names are on the piece of paper don't appear on the transcript.  So, my learned friend understandably is recalling what he believes were the names in the order as they appear on the piece of paper.  Well, I hope
+Your Honour doesn't feel it any appropriate if I ask.  Can I see the piece of paper from December 2003?  Otherwise, we are simply relying on Mr. Hooper's memory. 
+MR. HOOPER: 
+Well, I hope that piece of paper is with the registry.  But it's, in any event, I am sure, a reasonable conclusion.  But the only persons whose names I would have been showing this witness where the then four witnesses.  HF, RO -- 
+MR. PRESIDENT: 
+Mr. Hooper. 
+MR. HOOPER: 
+Yes. 
+MR. PRESIDENT: 
+If the document was admitted in evidence, then it should be accessible to you. 
+MR. HOOPER: 
+Yes. 
+MR. PRESIDENT:
+	We should not have to draw inference on that 
+MR. HOOPER: 
+No.  Yes, I can't -- I haven't seen the exhibit, and I haven't seen it exhibited, whether that was the piece of paper itself would have gone, I would have thought, with the papers. 
+MR. PRESIDENT: 
+Yes, but gone - gone would usually mean gone to a safe place, where 
+Mr. Registrar could retrieve it. 
+MR. HOOPER: 
+Well, yes, I hope so.  Well, I can come back -- 
+MR. PRESIDENT: 
+That's an issue on which we should be invited to draw an inference. 
+MR. HOOPER: 
+Yes, very well.  
+BY MR. HOOPER:
+Q.	Can you describe how the man who was identified to you as Rwamakuba was dressed when you saw him? 
+A.	I saw him with my own eyes.  He was wearing yellow sports clothes. 
+Q.	I don't know how this translates into Kinyarwanda, but is that, in fact, a yellow sports suit or as -- 
+THE ENGLISH INTERPRETER:
+Track suit. 
+MR. HOOPER: 
+Track suit, yes, is the word.  
+BY MR. HOOPER:
+Q.	It's a track suit is it? 
+A.	Yes.  He was, indeed, wearing sports clothes, a track suit, a trainee, yellow track suit. 
+Q.	So, let's now return to those statements.  Now, your account as you told us, is a straight forward and a terrible story of your going to the hospital, you are there in the surgery ward or the resuscitation ward for three days, and then at some time, at around certain time, Doctors, soldiers, Interahamwe arrive, and Rwamakuba asks for identification, and when he comes to your brother, Gatare kills him with a blow of an axe.  And you flee through maternity, and out, and off to down the hill.  A straight forward story.  And can I come then to your statement that you made on the 17th of September of 1997.  I think yesterday you were provided with the signed statement you made. 
+A.	Is this in Rwandaise, in Kinyarwanda? 
+Q.	You have a look at it? 
+A.	Yes, I have glanced at this document. 
+Q.	But you remember making that statement? 
+A.	I don't know how to read out documents in French, but from the identity information, I gather it's mine. 
+MR. PRESIDENT: 
+Just a minute, Mr. Hooper.  The registry has just brought to my attention that there is potentially identifying reference to her brother, by name.  I would like to order that be removed from the record and placed under seal. 
+BY MR. HOOPER: 
+Q.	If you turn to the last page, please, of that statement in French.  
+Page K0041083, is the last page.  You will see there right at the end, at the bottom left, the date, the 18th of September.  Do you see that?  You are not looking at it.  It would help you if you looked at it, perhaps.  
+A.	I cannot speak French.  I do not know French.  That is why I am not looking at the document. 
+Q.	Look at the last page for me.  Page 5, and then the bottom left-hand corner, you can see the date, and you can see your scribbled signature there, can't you?  That's the mark you made, isn't it?  
+A.	It is a copy that you have given.  It would be better if I had an original.  If you gave me the original, then I could check with it whether really it is my signature.  Can you give me the original of this document, please?  
+Q.	Well, someone has got, but it certainly isn't me.  But let's see how far we can go, because these photocopies are not bad, are they?  If you look at that page at the bottom left-hand corner, if you are trying to help this Tribunal, that is.  If you look at the bottom left hand corner, is that your mark?  Do you see the mark I am talking about? Is that your mark?  
+A.	Counsel Hooper, you must forgive me.  I am not educated.  It would help me if you gave me the original of this document.  I don't know it's whether I am not educated. 
+Q.	No, I know what you are doing, but let's see if we can help you? 
+MR. HOOPER: 
+Is it possible for the Prosecution to produce the original of the statement  that they took, please?  
+MR. MORLEY: 
+I don't know.  But give me a moment, please.  The answer is regrettably, we don't have the originals here.  If they are anywhere, they would be in Kigali.  
+MR. PRESIDENT: 
+Sorry, Mr. Morley. 
+MR. MORLEY: 
+My apologies, Your Honour.  Assisting Mr. Hooper as best I can, the news is not good.  The originals certainly are not here.  If they are anywhere, they are in Kigali.  They are not immediately at hand.  We are not sure we can find it particularly quickly.  But I am told by my learned friend Ms. Dior, who is leading, that the originals, if they are anywhere, I am not sure, that they would be in Kigali. 
+MR. HOOPER: 
+Well, can I formerly invite the Prosecution to produce all the statements in their original form, of all the witnesses from wherever they are?  I assumed that they were here, but they are not, but if that's not the case then I think they should be exhibited in due course, but perhaps we can deal with that later.  Can I perhaps proceed with the witness.
+
+BY MR. HOOPER:
+Q.	Madam Witness, looking at page 5, and I appreciate it's a photocopy.  Looking at that page 5, which is neither your language nor my language, you can see some -- 
+MR. PRESIDENT: 
+Before you continue, Mr. Morley, I know you are not giving testimony, but does the Prosecution have any -- 
+MR. MORLEY: 
+I think I know what Your Honour is driving at. 
+MR. PRESIDENT: 
+Yes. 
+MR. MORLEY: 
+And the answer is, Mr. Hooper is not wrong.  So the debate which is taking place is interestingly, but ultimately -- 
+MR. PRESIDENT: 
+The Prosecution does not contest; is it right? 
+MR. HOOPER: 
+Yes. 
+MR. PRESIDENT: 
+	Okay.  Thank you. 
+MR. HOOPER: 
+	All right.  Thank you, Mr. President. 
+BY MR. HOOPER:
+Q.	Madam Witness, I suggest, the Prosecution, as you just may have heard, they are not disputing that this is a document that you have signed.  That these are your marks and signatures on it.  So, are you happy to accept that you had signed this document?  That it is your signature on the document?  
+A.	Well, in that case, let me have confidence and say that it is indeed my signature. 
+Q.	What you have signed there, and I am not going to go through it in detail because the Tribunal knows what it says.  It's a statement by -- signed by you, and also by the interpreter, who says that he has read the statement to you, that is, everything you told the investigators.  He has read it back to you; you have the opportunity to correct it and make corrections.  You have understood the contents of it and you then make a declaration that the contents are true.  And you sign all that.  And do you accept that process took place?  The statement was read to you, after you had made it.  You had the opportunity to correct it.  And you then signed a solemn declaration that what you had said was true.  Do you accept that procedure took place? 
+A.	I do not remember the year in which I gave this testimony, but if you read the contents out to me, the contents of the present document, I would then perhaps be in a position to confirm whether it is the testimony I gave and that I signed. 
+Q.	Well, I will come back to that, and the Prosecution does not dispute this in anyway, that this document was read to you and you understood it.  You said you understood it.  It was correct, it was true.  You were given a chance to correct it, and then you signed it.  Do you accept that procedure - proper procedure took place? 
+MR. MORLEY: 
+If I may, before the question is answered. 
+THE WITNESS:
+Yes, I know that I did give several statements.  What I do not know exactly is the date of each statement.  The respective date of each statement, but I know that I did give statements. 
+MR. PRESIDENT: 
+Mr. Morley was there an intervention that you are questioning?  
+MR. MORLEY: 
+Very briefly.  Perhaps if the witness may take off her earphones.  I see that her earphones are off.  If you might put them down, thank you.  I am always happy to help Mr. Hooper, and the Prosecution does not contest the suggestion that her signature appears on the statement, but what I can't make a formal admission about, is whether the proper procedure was adopted with regard to the reading back of the statement. 
+
+Now, my learned friend a moment ago was saying to the witness that that has been formally accepted by the Prosecution, namely, that the proper procedures were adopted.  I don't know.  The witness can certainly give evidence as to what the procedures were if she can remember; but just so that there's no misunderstanding about it.  Prosecution accepts her signatures appear.  But it's not right to go so far as to say the Prosecution formally accept, all the proper procedures were adopted.  We don't know. 
+MR. PRESIDENT: 
+Thank you, Mr. Morley. 
+MR. HOOPER: 
+Well, I should say strictly that must be right, Mr. Morley wasn't there. 
+MR. PRESIDENT: 
+Yes, but Mr. Morley, it, in fact, did occur to me that Mr. Morley is not a witness.  And you have to be careful how you put his comment to the witness to elicit answers. 
+MR. HOOPER: 
+Well, there must be a strong presumption, in any event, and this is the Prosecution's document.  
+BY MR. HOOPER:
+Q.	But, Madam Witness, are you all right? 
+A.	Somehow. 
+Q.	All right.  Well, let's just go through the statement.  It's dated the 17th of September but it's signed the next day.  So, you had -- so, you make the statement, you tell them your story, they come back to you the next day, and they claim that they read this to you, and your signature at least appears to acknowledge that.  The statements made much closer to the events, just three years after the events, and by that time you had been working at the institution you worked for two years.  Well, since the 1st of May of '95.  And I want to start by reading the last paragraph of the statement to you.  It reads and I won't mention the institution but; "Upon my entry -- when I started work in early May, 1995, I learnt from co-workers in my department that
+	Doctor André Rwamakuba had committed genocide in Butare University Hospital.  I also learnt on the radio about his arrest broad.  I do not know exactly in what country.  It was only then that I made the connection between the arrest and the events which took place while I was taking refuge in Butare University Hospital in l994."  So, was the position this, that when you started work that there were some discussion between you and fellow workers at the institution where you worked, about Rwamakuba; is that right? 
+A.	No, that is not true because my colleagues never said anything to me about Rwamakuba.  It was I, who heard on the radio that he had been arrested abroad, whereas my colleagues, know, they did not say anything because no colleague's name is on the list you showed me.  However, unless you show me a photograph -- unless you show me the photograph of one of the people whose names are here.  I only see the first name of someone I believe is a colleague of mine, but I don't know her surname, but if you were to show me her photograph, I could confirm whether it is indeed my colleague, the person I work with.  I know someone's forename who works with me, whose forename is here, but the surname is different from that other person working with me. 
+Q.	Now, André Rwamakuba was arrested by this Tribunal -- on behalf of this Tribunal in October of 1998, which is a year after you made the statement.  And three years after you started work with that institution.  Now, can you remember what it was that you heard at that time about his arrest? 
+A.	I do not remember.  I only heard over the radio that he had been arrested. 
+Q.	Would it help you if I was to suggest that the place where he had been arrested in 1996 -- '95 to '96, was in Namibia?  Does that ring a bell with you? 
+A.	I came here to explain how the events occurred.  It is up to the Tribunal to make any additional analysis.  The essential thing is that I should say how the events unfolded before this Court.  And it is up to this court to judge and take a decision in that regard; except that when I heard he had been arrested, I was pleased to hear that. 
+Q.	Can you remember, that back then, what happened, what you heard?  Was it that he had been arrested in Namibia but then released by the Namibian authorities?  Can you remember that that was the situation? 
+A.	All that I remember is that he was arrested, that is all.  And as to any other details, that does not concern me.  Whether he was arrested in Lybia or Belgium, the important thing is that he should be arrested. 
+Q.	But did you hear that he had been released? That he had been let go?  Did you hear that? 
+A.	I don't know anything about that. 
+Q.	Do you remember saying in your evidence of December 2003, and we go back to that list that we, in fact, don't have here to day, but you identified one of the people on the list of four names or three names,  No. 2 on the list as being the person who had told you about André Rwamakuba's arrest.  Is it right?  Is it right, Madam, that in fact -- 
+A.	I do not agree with you at all when you speak of the person whose name is No. 2 on the list. 
+Q.	But it is not the list in front of you.  I suggest it was, in fact, it was a different list.  I suggest what you were doing was identifying the name, that's No. 7.  I hope it's not too confusing for you.  The name that's No. 7 on your list, as being the person who had told you of Rwamakuba's arrest.  Now, is that correct?  Did No. 7 tell you of Rwamakuba's arrest?
+A.	Okay.
+Q.	Is that yes? 
+A.	Yes, that is quite right. 
+Q.	Now, do you know why the investigators for the United Nations came to see you in September?  Where did they know about you?  What took them to you?  Do you know? 
+A.	I was not aware that this Tribunal was going to be set up.  I talked about what had happened and about what I had seen.  Otherwise, I knew nothing else.  I recall that I talked about his clothing, about his dress, his clothes, and his shoes and the weapon that he was wearing.  But there are other details that I don't remember. 
+Q.	Do you know why these investigators came to see you?  You had never made a statement at all about anyone in September '97.  Why did they come to see you?  Was it because the person whose name is at No. 7 had told them about you?  Do you know why they came to see you? 
+A.	I did not give evidence in the trial of the person who killed my husband.  I talked about what happened to me, but I had said nothing and I knew nothing of what happened to others. 
+Q.	And one of these investigators, I don't know, you probably won't remember after all these years.  But you can see his name appears on the first page as a Mr. Sindibi (phonetic), but I dare say, you don't remember that gentlemen.  But can I ask you this.  It was obvious to you, wasn't it, that this process, this taking of a statement from you was -- by the United Nation's investigators, was a serious business, wasn't it?  It was a serious business.  
+A. 	People came and asked me what had happened to me, and I gave them an account of what happened to me.  And I did not know their motives.  I am not even in a position to tell you who took my statement? 
+Q.	Now, can I refer, before we come to the statement, to two other documents.  The first one is -- 
+A.	If I had known that the matter was going to continue, I, myself, would have written things down in writing.  I would have written things down, but I didn't know.  
+Q.	I am not going to ask you -- show you this statement.
+A.	This might have helped me, and today, I would have been in a position to recall certain details. 
+Q.	Well, I am going to come to your statement but just before I do, two brief things.  On the 7th of July 2003, you were seen by - again, representatives of this Tribunal, and we have that statement GIO24 and GIO25 in the bundle.  And it's a witness reconfirmation document.  I am not going to trouble you with it much, Madam Witness, I am merely going to ask you.  Do you remember that in July 2003, before giving evidence, in December 2003, you were seen and you were given the opportunity to make corrections to that statement, and you confirmed your statement and you made no corrections.  Do you remember that? 
+A.	I did not pay attention to that.  I thought that the case was closed.  You can refresh my memory since you have that document. 
+Q.	Well, I will refer to -- well, I hope there is no dispute from the Prosecution again in respect of what that document is and the nature of it.  And you were then seen again on the 22nd of October.  So, that's three months later.  And on that occasion, you did make corrections to that statement, and we will come to those corrections in a moment.  But do you remember having that opportunity, and on that second occasion, taking the opportunity to actually correct some aspects of the statements, changing details in the statement?  Do you remember doing that? 
+A.	I do not remember it.  I beg your pardon.  I remember one thing.  I believe that I corrected one thing where it was said that I was with my father.  That wasn't the case.  I rectified that portion.  I was not with my father. 
+Q.	Well, I think, in fairness to you, because you don't have it in a language you understand, and because I am going to deal with it fairly fully, it may be best if I read the statement to you, bit by bit, and then we can discuss matters that arise in it.  And, again, I will not, I hope, read parts of the statement that may identify you.  It starts off by saying; "I started working", and then it names where you work, and the department you work in.  "On the 1st of May 1995."  That's a correct fact, isn't it?  You started work at your department on the first of May 1995.  It goes on.  "On the 6th of April -- "
+A.	You are right. 
+Q.	Thank you.  "On the 6th of April l994, the day President Habyarimana died, I was", and you then name your secteur and your commune,"Where I was residing.  The genocide started in Butare, particularly in my secteur on the 20th of April l994.  My husband was killed that same day."  And we know that's correct, indeed.
+A.	You are right. 
+Q.	Thank you.  "I, therefore, went to hide myself in the sorghum field for three days."  And we know that's correct.  "Because of the prevailing insecurity, I fled my secteur on the 23rd of April l994, together with my children, my brother who was seriously wounded".  And that's correct, it's it? 
+A.	That is correct. 
+Q.	"And my father" -- and it reads; "And my father." 
+A.	 No. 
+Q.	All right.  
+A.	That is not correct. 
+Q.	And, but that is something that you seem to have said and agreed at the time you signed the statement.  You didn't correct it in July.  You did correct it in October of 2003, and withdrew your father's name.  "In order to take", so you go with those people.  
+A.	I was not with my father.  I do not know why his name is mentioned there. 
+Q.	Okay, we understand your position on that.  And you go with those people, you say; "In order to take refuge in Butare University Hospital."  And that fact is correct.  "I stayed -- "
+A.	I wasn't with my father. 
+Q.	We note that -- we note that.  So let me just -- 
+A.	The rest is correct. 
+Q.	Thank you very much.  "I stayed there for three days."  That is at the hospital.  And that is correct.  "Thereafter, about the 25th or 26th of April l994, around 
+	6 or 7 p.m.", that's in the evening.  "I saw a red pick-up coming to the hospital."  Is that correct? 
+A.	You are talking about the arrival of the pick-up. 
+Q.	I will just read what is written here.  "About the 25th or the 26th of April, around 6:00  or 7:00 in the evening, I saw a red pick-up coming to the hospital."  Is that correct? 
+A.	Those who took down my statement were mistaken.  I did not see it coming.  I only saw it at the hospital when I came out.  I did not witness the coming in of the pick-up.  I saw it when people were being loaded into the pick-up.  But I think it boils on to the same thing. 
+Q.	On board was a man wearing black boots.  He was wearing a pair of long shorts reaching down to his knees, and a sports jacket.  There was something that looked like a knife hanging from his belt."  So, just breaking that up.  "On board was a man wearing black boots."  Is that correct? 
+A.	That is correct.  I saw the clothing when I came out of the surgery and I saw Rwamakuba wearing those clothes and he was accompanied by Dr. Gatera. 
+Q.	So, you saw black boots, is that right? 
+A.	That is correct. 
+Q.	He was wearing a pair of long shorts reaching down to his knees; is that right? 
+A.	That is correct.  I even mentioned the colour of the shorts.  I don't know why mention is not made of the colour. 
+Q.	"And the sports jacket," is that right? 
+A.	The sports jacket looked like the shorts.  I don't know if that has been written down in the statement. 
+Q.	"And something that looked like a knife hanging from his belt;" is that correct? 
+A.	That is correct. 
+Q.	"The another refugees who knew him said his name was André;" is that correct? 
+THE ENGLISH INTERPRETER:
+	The witness mentioned the name of the person who informed her and confirmed that that person had told her that that, indeed, was
+	André Rwamakuba.  The other persons who talked about Rwamakuba were students. 
+BY MR. HOOPER:
+Q.	"I was seeing him for the first time.  I did not know this Dr. André Rwamakuba before that time.  He was accompanied by men wearing military uniforms and military metal helmets.  Two of the men carried firearms."  Is that correct? 
+A.	Yes, that is what they wore on their heads. 
+Q.	"Then the soldiers and Dr. André Rwamakuba checked identity cards and separated the Tutsis from the Hutus.  There were not many Hutus and their identity cards were given back to them immediately.  Most of them were University Hospital employees.  Dr. André and the soldiers selected mainly wounded men and boys."  I will finish the paragraph.  I take it a bit more quickly.  "I saw Dr. André, order the soldiers to put these people in the vehicle.  And they were told they would be taken to the préfecture.  They were forced into the pick-up.  My brother and my father were amongst those put in the vehicle.  I never saw them gain.  I was scared and had to flee immediately with my children in order to take refugee in the resident hill."  
+(Pages 10 to 21 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1100H 
+BY MR. HOOPER:
+Q.	And that's your account of events of September 1997.  
+A.	My father was not amongst -- he didn't even live in the same locality as myself.  My father -- we used to live where I was born, and we never saw each other during the war. 
+Q.	Let us deal, first of all, with your father.  It's right though that his name appears not once, but twice in the statement.  He is described as going there with you, and he is described as being put in the vehicle with your brother; is that right?  
+MR. MORLEY: 
+	I'm sorry, just for accuracy.  It's not his name appearing twice, the word "father" appears twice. 
+BY MR. HOOPER:
+Q.	Your father's name appears -- I'm sorry, your father figures twice in the account, not just once; is that right?  
+MR. PRESIDENT:
+Mr. Hooper, it's 11 o'clock.  It's gone 11:00.  I wonder if this would be a convenient time to --  
+MR. HOOPER: 
+	Yes, Mr. President. 
+MR. PRESIDENT:
+Madam Witness, we are going to take a brief recess now and resume in a few minutes.
+(Court recessed from 1102H to 1129H)
+MR. MORLEY: 
+	May I apologise to Your Honour and Your Honours' colleagues, if I kept the Court.  I arrived in the court about two minutes ago, and I understand that Your Honour was waiting.  I am very sorry. 
+MR. PRESIDENT:
+Accepted.  The session can now resume. 
+BY MR. HOOPER:
+Q.	Madam Witness, if we can come back to the statement you made on the 17th of September 1997, which I have just read through to you.  In the course of that statement, you say in terms of who the person was that the other refugees who knew him said his name was André.  There is no indication in your -- in the text that you were told anything other than -- than that he was called André; is that right? 
+A.	That is correct. 
+Q.	There is no mention of Dr. Gatera, Dr. Twagirayezu, Dr. Pascal, Athanase, no mention of Interahamwe or --  why is that? 
+A.	I did not talk of Dr. Gatera in my first statement because I had given a statement in respect of him.  And that is why I did not talk about this.  I believe I said somewhere that he was with several persons and those persons were none other than Interahamwe.  
+
+I would also add that -- I would also add that I recognised the persons whose pictures were shown to me yesterday, and I do not believe I made a mistake.  I saw those persons at the hospital.  I also would like to add that. 
+Q.	But -- 
+A.	Even if I said that the persons who showed Rwamakuba to me were many in number, those people who showed him to me were refugees, men, and the others were refugees.  I don't think there is any discrepancy. 
+Q.	There is no mention of (By order of the Court, the name was redacted and put under seal) in your statement here.  That -- that's a name that we -- I don't think that gives very much away, but it's a name we are trying to avoid, number 7. 
+MR. HOOPER: 
+	So, perhaps we can strike out any reference to that name that was referred to, and just refer it by number 7. 
+MR. MORLEY: 
+	Your Honour, I rise to my feet at at this stage to make the observation I know will be in the mind of the Court. 
+THE WITNESS:
+Excuse me. 
+MR. MORLEY: 
+	Perhaps, if I finish.  
+MR. PRESIDENT:
+It's okay.  
+MR. MORLEY: 
+	It's not my learned friend, Mr. Hooper's fault, but on two occasions now this morning -- on one occasion inadvertently on his part, and now twice on the part of the witness, we had a reference to a name.  It's my learned friend who linked the name to number 7.  And the difficulty which is obviously percolating within the proceedings this morning is that it would be apparent to somebody who would be listening that they might be able to identify from a first name and also reference to the fact that that name works at a similar institution, would be able to identify a person who is going to be a witness.  And I simply rise to my feet to make the usual observation.  Can we please proceed with caution Court?  
+MR. PRESIDENT:
+Thank you.  I make the order to strike the name from the record and place it under seal.  
+BY MR. HOOPER:
+Q.	But in the -- your straightforward account of what happened in your evidence, the central feature is that your brother was attacked and killed with an axe, but there is no mention here of that, is there, nothing at all about it?  It's a different story, isn't it, that you are telling in this statement? 
+A.	Thank you, Counsel Hooper.  In the evidence that I gave in respect of Gatera, I said Gatera killed my brother.  I did not say that Rwamakuba killed him.  I said, rather, that he asked him to show him his identity card.  So I said that I talked about what I was an eyewitness of. 
+Q.	Well, are you saying that you told these investigators that your brother had been killed with an axe? 
+A.	That is it.  Those who conducted investigations concerning Gatera know this and this features in the statement.  You probably can go to the legal department to avail yourself of the said statement.  And I would add that Gatera never asked my brother to produce his identity card or the others, rather, showed him. 
+Q.	Reading this statement, isn't it obvious that what you are telling -- the story you are telling is of a selection and of your father and brother -- and let's forget your father for a moment -- your brother being taken away in the vehicle never to be seen again?  Nothing about his being killed, the most dramatic and terrible feature of your story, no mention of it.  
+A.	Mr. Hooper, please be of assistance to the Trial Chamber.  My father died where he used to reside.  He never came to see me during the war for us to flee together.  I fled with my brother and not with my father.  I think it is those who wrote down the statement who must have been mistaken. 
+Q.	Or was the position this: That when you made the statement you included your father, but it was only later after September of 1997 that you learned the true circumstances of your father's death in another place? 
+A.	I have always requested that corrections be made in respect of my father.  I could not say that we were with my father because that was never the case.  Did you learn that I gave that -- that statement while in a certain state of mind that would have caused me to say that my father was with me, whereas we never saw each other during the war? 
+Q.	And then in 2003 in July, and again in October, it's right, isn't it, that you were invited to make any corrections you wanted to that statement and you made corrections and we have that document.  I am not going to take up time going through it, and you make changes to details, the kind of clothing he was wearing, the fact your father wasn't there, you say.  You uttered that not in July, but in October, not at the first opportunity, but at the second.  And, again, nothing about your brother being killed, that's right, isn't it? 
+A.	How could I have talked about those events, whereas he wasn't the one who killed him?  All he did was asked for his identity card. 
+Q.	And you made no statement in respect of Gatera until 1998 after this statement was made; is that right? 
+A.	Those people were not arrested at the same time, nor at the same location; Gatera was arrested under circumstances that are known, and the other person was arrested under different circumstances.  Had they been arrested at the same time, I would have talked about events concerning them at the same time.  
+Q.	By the time you come to give evidence against Rwamakuba the first time here, which is, as we know, December 2003, by then you had given statements in Rwanda in respect of Gatera, Twagirayezu, Scholastique, and the other person that you told us about.  Now, I will come back to the contents of those statements that you made in Rwanda, and when you gave your evidence here in December of 2003, it's right to say that you didn't know that I -- or, the Defence had your statements made in respect of proceedings in Rwanda.  That was something you didn't know about, but you gave evidence here in December 2003, and I'm just going to go through some of that evidence with you.  First of all, you said this: Your brother received treatment -- 
+MR. PRESIDENT:
+Mr. Hooper. 
+MR. HOOPER: 
+	Yes. 
+MR. PRESIDENT:
+It might be helpful if you could identify -- 
+MR. HOOPER: 
+	The pages?
+MR. PRESIDENT:
+The source of the quotation. 
+MR. HOOPER: 
+	Yes, indeed. 
+BY MR. HOOPER: 
+Q.	Very well.  The last phrase I used is that your brother received treatment, is my summary of the position.  You described at page 9 that you went to the surgical -- 
+MR. PRESIDENT:
+On what date?  
+MR. HOOPER: 
+	I am sorry, 10th of December 2003, and this is examination-in-chief. 
+BY MR. HOOPER:
+Q.	That you went to the surgical ward where the wounded were treated, and your brother was admitted and given a bed.  And you say, "I was there in attendance to my brother, and I was there for three days."  Page 30 of the transcript, you say, "All I remember is I got there on the 23rd, and I stayed for three days."  So, consistent with your statement made in September of 1997.  
+
+Page 9, cross-examination -- in your evidence in-chief:  "While I was there, Dr. Getara arrived.  I knew him very well, and another woman who worked in the hospital accompanied him.  Scholastique Mukabandora, and students and Interahamwe also arrived, as well as a certain Rwamakuba.  He and others asked people to give them their identity cards.  They checked the cards everywhere."  And you make no mention there of Dr. Twagirayezu or Dr. Pascal, or Athanase.  Do you remember giving that evidence? 
+A.	I remember having made that statement.  But, Mr. Hooper, you would realise appropriately that I did not give all the details.  The important thing is that you should know that amongst those persons were doctors, Interahamwe.  And as to the -- as to whether one or the other was not mentioned at the time, that is normal.  As far as I'm concerned, I have told you that I did not retain everything in my memory.  I'm not a computer.  But as we keep talking, some information comes back to mind and I talked to you about them. 
+Q.	You then said at page 12, that this occurred about 4:00 in the morning or 5:00 in the morning or 6:00 in the morning.  You said, "It must have been around that time."  The motor car, you said at page 31, arrived at dawn.  It was as day broke, and that was your evidence a little under two years ago; is that right or not? 
+A.	As concerns the hours at which the events occurred, I would like to crave your indulgence because I can't tell you about them.  I think I have been giving evidence for three days now.  And if we have to go back and forth on one issue, we will not make any progress when we keep talking about hours or time because I can't remember the exact time or hours at which the various events occurred. 
+Q.	Well, did it occur at dawn, as you said previously? 
+A.	What I can say in order to assist you and the Tribunal, is that excepting the fact that my father was with me, I think the other facts that I have mentioned are correct.  I did not know that this document would be used in the legal proceedings.  But I can say that the error that I noticed is that I was with my father, but the rest of the information that I furnished is correct. 
+Q.	Page 12, you said, "It was about 4:00 or 5:00 or 6:00 a.m.  I didn't pay attention to the time, but it must have been around that time."  And then you described the checking of identification, and then you said, "It must have been 7:00 or 7:30 or 8:00 a.m. when we men and women alike all went out."  And you described it in these terms at page 10, that you were led out, you were amongst those who were led out after the identification.  That was your evidence in December, not that you fled, but you were one of those who were led out; is that correct? 
+A.	Counsel Hooper, you know when you are waiting to die at any moment, you can't retain information concerning hours, night or day.  I am telling you sincerely that right now I cannot remember.  Right now I have a watch, and if I look at it I will tell what hour it is.  Please ask me -- put questions to me on important issues concerning the events that occurred.  But as for the time and hours at which the events occurred, I can't be of any assistance of you. 
+Q.	But I appreciate there is some difficulties that you must have been labouring under, but the point is, you see, that in your answer there, your indication was an hour or an hour and a half between the arrival of Rwamakuba, the selection process, and you people being led out.  It's not a matter of a few times.  A difference of 6 o'clock and 7:30, it's quite a chunk of time, isn't it?  It's quite a big time difference there. 
+
+MR. MORLEY: 
+	I'm sorry to interrupt.  May I ask for assistance -- 
+MR. PRESIDENT:
+Yes, Mr. Morley. 
+MR. MORLEY: 
+	Thank you.  Can I ask for assistance from my learned friend?  He tells the Court that he is working on page 10 of the transcript.  Could he help me with the line he is working from where he referred to the word "led". 
+MR. HOOPER:
+(Microphone not activated)
+THE ENGLISH INTERPRETER:
+Counsel Hooper, your microphone.  Thank you.  
+MR. HOOPER: 
+	Answer: "I am relying on the fact that I myself was one of those who were taken out."  I'm sorry, the word "taken" was used. 
+BY MR. HOOPER:
+Q.	Were you taken out, as you said previously? 
+A.	I went out of my own volition because I realised what was happening, people were being killed and I couldn't stay there. 
+Q.	Now, you told us you were told who he was by number 7.  Just under two years ago when you were asked who it was, you said that -- let me read out on page 10 your answer:  "I am relying on" -- let me read if from the transcript.  Let me put it in the context:  
+
+"Was your brother one of the persons who had to show their identity cards?"  
+
+Answer:  "Yes, he showed his identity card and it was confiscated.  That was the case with me as well."  Is that correct? 
+A.	When I left my village, my identity card had already been confiscated, but the person who wrote that down probably should tell me what he understood from my statement, because my identity card had been confiscated in the village and when I fled I didn't have it any longer with me. 
+Q.	I'm just reading what's here.  It was André -- 
+
+Question: "Who confiscated the identity cards?"  
+
+Answer:  "It was André who was asking for these cards and students, and he gave them to those who were accompanying him."  
+
+	"So what happened to the Tutsi whose identity cards were taken?"
+
+	"Those Tutsis came out of their beds and they were taken out of the building." 
+
+	"Do you know where they were taken to?" 
+
+	"The vehicle which was a van was parked outside."  
+
+	"Who said that these Tutsi boys and men should be taken out?"
+
+	"It was Rwamakuba and Dr. Gatera."
+
+	There is nothing there about anyone being attacked, let alone your brother being killed with an axe.  It's a different story, isn't it? 
+A.	Thank you.  I see that you are acting in our energetically and that you are refuting all those statements.  Probably you know what happened, and please you can tell me.  In fact, at the beginning of my evidence, I think that you said something, refusing the fact that genocide existed, and it is this kind of questions that leads me to think that that is the case.  Please, enlighten me, Counsel. 
+Q.	This is one Court in which genocide is not disputed or accepted.  I am concerned with your story and the different story you've given us.  You don't want to say this.  
+MR. PRESIDENT:
+Counsel Hooper, there seems to be a technical problem:  I am not hearing the translation. 
+THE ENGLISH INTERPRETER:
+Mr. President, can you hear me now?  
+MR. PRESIDENT:
+Thank you.  
+THE ENGLISH INTERPRETER:
+You are most welcome, sir.
+(Pages 22 to 28 by Haruna Farage) 
+
+
+
+
+
+
+
+
+
+1200H
+MR. PRESIDENT:
+The situation seems to be rectified now.
+BY MR. HOOPER:
+Q.	It was Rwamakuba and Dr. Gatera, where I left off, who said that these Tutsi boys and men should be led out -- taken out, page 10.  
+
+"And how do you know they said this?  Where were you when they were saying this?"  
+
+"I'm relying on the fact that I, myself, I was one of those who were taken out."
+
+And on page 11 you say:  "Are you in a position to tell the Court how long was Rwamakuba in your view, during the selection?  Can you give an estimate?"  
+
+Answer:  "I observed that he was looking, observing the situation, to make sure nobody would escape and not get into the vehicle.  And I noticed that he was the one getting people to go on board the vehicle."  
+
+Question:  "Now, were the men and boys loaded onto the vehicle?"  
+
+Answer:  "Yes, they were compelled to get into the vehicle, into the pickup."  
+
+Question:  "Was your brother among these people?"  
+
+Answer:  "Yes, he was among them."  
+
+Question:  "Can you describe to the Court how these people were boarded onto the vehicle?  Did they go willingly?  
+
+Answer:  "They were compelled to get into the vehicle.  Rwamakuba took the arm, the weapon he was carrying, and he hit some of the people with that weapon and they were forcefully put on board the vehicle."
+MR. MORLEY:
+I would respectfully ask for the next question and answer, please, context.
+MR. HOOPER:
+Well, it's a matter for you in cross-examination, if you wish, but I'll read it if it's convenient.
+
+BY MR. HOOPER:
+Q.	"Now, whilst this was taking place, where were you?  
+
+"I was in the company of other women who were refugees and who had two children.  I took one of the children and I do recall that I was pregnant.  I would remind you that I was pregnant.  And when I noticed that this was happening, I slipped away and went to the maternity."
+A.	Now, what you are telling me is surprising. 
+Q.	Question, further down:  "Did you see your brother after this selection?  I'll rephrase that.  Did you see your brother after this day?"  
+
+"I never saw him again.  And I never saw all the other people who were taken away."  
+
+"Did you find out where your brother and the other people were taken to?"  
+
+Answer:  "At the end of all those events we all started looking for our relatives in order to bury them in a dignified manner and we found his bag in a place called Cabakabwa, C-A-B-A-K-A-B-W-A."  
+THE ENGLISH INTERPRETER:
+Could you repeat please, otherwise, sorry, please slow down.  We're not reading.
+BY MR. HOOPER:
+Q.	No mention there of a Boniface, who came back.
+MR. PRESIDENT:
+I'm sorry, there's a request from the translation booth of the last section you just read.
+MR. HOOPER:
+Right, I'll read it again.  If it's the bit I think it was.
+MR. PRESIDENT:
+Wait a minute.  The witness, you have a question, you had your hand raised, Madam Witness?  Did you try to attract my attention just now?  You didn't.  I'm sorry.
+THE WITNESS:
+I should like to ask for a clarification.  I should like to relate to Counsel Hooper, it's not possible.  I had three children and I was pregnant.  I can't not know that I had three children, but I should also like to ask whether he finds any exculpatory material in that file that helps him in his defence of Rwamakuba and Gatera.  We've spoken of it and spoken of it, and is there anything he wants to refute in what I said?  He repeats my statements, but I don't see what he is refuting in all that.
+MR. PRESIDENT:
+Okay, thank you very much for that.
+MR. HOOPER:
+I'm sorry I missed that, but I gathered the gist of it.
+BY MR. HOOPER:
+Q.	All right, so the bit that I think I need to just read again is -- and this is for the interpreter's booth.  Perhaps I was reading it too fast, I'm sorry.  About her brother, "Did you see your brother after this day?"  
+
+"I never saw him again.  I never saw all the other people who were taken away.  
+
+"Did you find out where your brother and the other people were taken to?"  
+
+Answer:  "At the end of all those events we all started looking for our relatives in order to bury them in a dignified manner.  We found his bag in a place called Cabakabwa."
+
+Now, you never saw any of those people again.  There's no mention there of anyone called Boniface escaping and coming back, is there?  That's something you've added recently, just Monday.  That's right, isn't it? 
+A.	That is correct.  Yes, Counsel Hooper.  For you to understand me, I didn't say it at that time because Boniface is not a neighbour, nor is he in any way related.  It is an information that is an accident (sic) and you hear someone was killed but someone else survived.  That is in that sense I thank the good Lord that this man survived.  He's the only one who survived that massacre. 
+Q.	Now, just touching on the issue of how you came to know it was Rwamakuba.  Again, page ten of the transcript of the 10th December.  How did you know -- you were asked about Rwamakuba and Gatera saying the men should be taken out.  "How do you know they said this?  Where were you when they were saying this?"  
+
+Answer:  "I'm relying on the fact that I, myself, I was one of those who were taken out.  Furthermore, I did not know Rwamakuba.  I recognised him from the clothes he was wearing and people were showing him to me and pointing to him and saying, 'this is Rwamakuba.'"  
+
+"Which people were pointing him out to you and stating 'that is Rwamakuba'?"  
+
+Answer:  "It was people among the refugees at the hospital who recognised him."  
+
+Question:  "Can you give Their Honours a name or two of the persons who told you that that was André Rwamakuba?"  
+
+Answer:  "There was a very large number of refugees at the hospital, but among those who gave his name to me was Paul, who I mentioned earlier, who was a student at the faculty of medicine."  
+"And did you know Paul before?"  
+
+"Yes, I knew him.  He was a native of Gishamvu."
+
+Where has Paul gone in your evidence?  Paul Rurangwa, R-U-R-A-N-G-W-A?  Where has he gone and why has number 7 on the list taken his place?  
+A.	I should like to answer the question put by Counsel Hooper.  I don't know whether it was Counsel Hooper who misunderstood or the interpreter, but I said that Paul was one of the people taken away in the pickup truck and killed.  This is one of the mistakes they made.  They said I had two children, which was not correct.  I didn't say that.  You've just said that Paul informed me as to the name, Rwamakuba's name, but it's not true.  He was one of the people taken away to be killed.  I am speaking, answering questions on the basis of information I still recall.  I don't have any document before me. 
+Q.	Well, I understand that and I know that it's not a comfortable or easy place, the witness box.  I know that.  It's much easier for me to put questions standing here.  But you see, what I was reading to you was not the statement you made in 1997, I was reading the evidence you gave in the witness box to a Trial Chamber in December 2003.  Those words were taken down as you spoke them, and you speak there, at some length, of Rwamakuba being identified to you by, you say, among others, but the person you name and the only person you name is Paul and Paul -- let me finish -- in the story that you gave the Court on the last occasion is someone you said then you went to the hospital with when you left your secteur, that you travelled with him and then you used him as the person who told you it was -- identified the man to you as Rwamakuba.  That's what you said.  Now you say, "No, I never said that," but it's plain as day that you did.  No mistake.  
+A.	Please forgive me, Counsel Hooper is speaking of Paul.  Paul is dead.  He died during the war.  He came from Gishamvu.  He never came to my area for me but to speak with him.  If you know where Paul is at the present time, please tell us, or then you're getting mixed up between dossiers, between files, Counsel.  I don't understand. 
+Q.	Tenth of December, page 9 -- or page 8, you describe how your brother's been injured and how you go to the hospital.  
+
+Question -- this is the Prosecution asking you questions in a trial, bottom of page 8.  
+
+"Now before getting to the surgical ward, apart from your brother, did anybody else in your family go with you to the hospital?"  
+
+There's an indistinct thing and you are asked again, "What's the name of the person you just mentioned?"  
+Answer:  "His name was Paul.  There was a person called Paul Rurangwa, R-U-R-A-N-G-W-A," you spell it out.  
+
+"Were your children still with you?"
+
+"Yes, I was still with my children."  
+
+And later, when you're asked about it in cross-examination, he's the man who goes with you, you say, to the hospital.  
+
+Did Paul Rurangwa go with you to the hospital from your secteur?  You're nodding your head yes, is that right?  
+A.	No, I met him at the hospital.  I did not travel from home to the hospital with him.  I left with my brother and my three children, when I left my village to go to the hospital.  Oh well, talk of two children, whereas there were three, and I was pregnant.  Why do you do that?  Thank the Lord they are still alive.
+MR. MORLEY:
+May I just rise to my feet briefly?  The witness might take her headphones off.
+
+I sincerely hope I'm not being pedantic, but I'm anxious that when my learned friend quotes in the transcript, it is accurate.  I understand the pressures he's under, but it's right to say, unless my ears deceive me, that he didn't quite accurately read the answer in relation to "Paul" from the previous testimony.  The answer on the transcript is this, "His name was Paul.  There was another person called Rurangwa," and my learned friend, perhaps mistakenly, read that as, "His name was Paul.  There was a person called Rurangwa."  The word "another" was not articulated and it appears from the transcript that Paul and Rurangwa are two different people, and my learned friend has been proceeding on the, perhaps, misunderstanding from a hasty reading of the transcript, that Rurangwa is Paul's surname.  Now, I stress, I hope I'm not being pedantic, but some experience has taught me that the accurate reading of exactly what's on the page can often be important.  I'm sorry to interrupt.
+MR. PRESIDENT:
+Mr. Hooper, do you accept the comment?  
+MR. HOOPER:
+Perhaps I can clarify it at this stage.
+BY MR. HOOPER:
+Q.	Madam Witness, who was Paul Rurangwa?  Sorry, your microphone.  I ask the question again.  Who was Paul Rurangwa?  
+
+MR. MORLEY:
+I'm sorry, but -- 
+MR. HOOPER:
+No, please, let me deal with it in my way.  You can deal with it in re-examination, if you wish.  I'll deal with it, I hope, as fairly as I can.
+MR. MORLEY:
+It's not a fair question in light of the observation made on the face of the transcript.
+MR. HOOPER:
+I'm sorry I don't want to talk across the Court here.  
+
+Can I continue?  
+MR. PRESIDENT:
+I will not have two counsel on their feet at the same time.
+MR. MORLEY:
+I thank Mr. Hooper for resuming his.  Perhaps, if the witness might take off the headphones.
+MR. PRESIDENT:
+Mr. Morley, I don't think in the context -- you see, I don't know if Mr. Hooper has specific instructions.  I don't know.
+MR. MORLEY:
+Nor me?  
+MR. PRESIDENT:
+I don't think the question is an unfair question.  The witness can answer it in many different ways and, as such, it is relevant in the trial.
+MR. MORLEY:
+Very well, Your Honour.
+BY MR. HOOPER:
+Q.	Can you just clarify a matter for me?  The man, Paul, you mentioned, do you know his surname? 
+A.	I don't remember very well, but it could be Rurangwa, the surname. 
+Q.	Do you remember in December 2003 saying that -- being asked this:  "Did anybody else in your family go with you to Butare university hospital?"  And you then mentioned the name of someone who went with you who was a student, and you were asked this:  "What's the name of the person you just mentioned?"
+
+Answer:  "His name was Paul.  There was another person called Rurangwa, R-U-R-A-N-G-W-A."  Do you remember giving that answer?  
+A.	Counsel Hooper, I witnessed many things.  I said Rurangwa was a student at the university but I did not leave my house in his company.  I see that you're taking information here and there.  I don't have any documents to refer to.  I came before the Bench, the Judges, to testify as to things I witnessed and if questions are put to me regarding matters I did not witness, I will say so.  I think that if the documents should refer to -- were sufficient it would not have been necessary for me to appear before this Trial Chamber.  So, concentrate on the answers I'm giving you in respect of the questions you're putting to me.  I should like to tell you that when one loses someone one is so shocked, so affected, that one forgets.  Remember, even in the Gacaca sessions, when we're asked who was our father-in-law, we forget their names. 
+Q.	Well, forget the suggestion that he left your home with you.  Did Paul Rurangwa travel with you on any part of the journey to the hospital? 
+A.	I left the house with my brother and my parents.  As to Rurangwa, I found him at the hospital.  I was not in Rurangwa's company, even there at the hospital.  I was not with him.  I saw him again when he was getting into the vehicle -- boarding the vehicle.
+THE ENGLISH INTERPRETER:
+The Kinyarwanda booth is specifying that the witness left her house with the children.
+BY MR. HOOPER:
+Q. Well, I've read that part of your testimony that is recorded at page 10, where you plainly state that you had got the name Rwamakuba from -- this was your answer -- page 10, "There was a very large number of refugees at the hospital, but among those who gave his name to me was Paul, who I mentioned earlier and who was a student at the faculty of medicine.  
+
+"And did you know Paul before, you were asked?"  
+
+Answer:  "Yes, I knew him.  He was a native of Gishamvu."  
+
+And the only Paul you've mentioned is plainly referred to, and I've read that extract.  
+
+And later at page 33, you're asked this:  "How did you know who the man was?"  
+
+It was then you say, "It was then I learnt that man's name, when I heard the refugees say it was André Rwamakuba.  I recognised the name when I heard that Rwamakuba had been arrested.  There are only two occasions on which I heard the name before appearing before this Tribunal."  
+
+Question:  "And when were these refugees saying this?  When were they just mentioning the name of that is André Rwamakuba or what?  When did you have that opportunity to hear people saying that?  
+
+Answer:  "Those refugees announced names of all those who came in.  Then I heard Paul say it was his name, because he knew him.  I didn't know that Rwamakuba had started at university, but a young man knew him.  By the way, he was taken away immediately afterwards, and the other refugees knew him as well."
+A.	Counsel Hooper, I am concerned.  I don't know whether those refugees lied to me.  In your opinion, do you think that the refugees were telling me lies?  It was someone called Rwamakuba.  You think it was not André Rwamakuba?  I think the important thing is to know if it was André Rwamakuba, not Pascal, not Gatera and not anyone else.  Do you mean to say that those refugees were telling me lies?  It would be a great shame if I was here to tell lies.  I am -- would I be here to tell untrue things when it was -- if it was the other refugees who led me astray?  
+Q.	Why is it, then, that it's Paul who tells you in December 2003 that it's Rwamakuba and now it's the person whose name appears on the list at number 7?  Why have you changed your story? 
+A.	Mr. Hooper, I told you that Paul -- that the refugees told me that the forename, André, was told by the refugees and Paul was one of the refugees.  I think we should move on.  We're wasting the Court's time.  The important thing is that the events that are in question did occur. 
+(Pages 29 to 36 by Rex Lear)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1230H 
+BY MR. HOOPER:
+Q.	We know in your original statement in September '97, you described the clothing of the man called Rwamakuba.  "He's wearing long shorts down to his knees, black boots, and he's wearing a sports jacket."  In your evidence in 2003, you describe him as wearing a yellow-coloured training suit -- this is at page 32 -- a track suit, some sort of tight-fitting trousers, and a sort of matching jacket.  And you describe how the trousers went down to his ankles, and they were yellow, and you indicated it, "like the signs on the interpreters' booths."  We were in a different court, but I see there's yellow signs there on the interpreters' booths here, so bright yellow.  
+
+And you were asked this:  "What about shorts?"  And you said this:  "I never used the words 'shorts.'"  But now you're using the word "shorts" again.  
+
+Sports jacket?  You said, "No, not me, I didn't say that."  You said, "I described his clothes" -- page 34 -- "as I describe them here.  The clothes are engraved, like my husband's death, in my memory."  
+A.	Counsel Hooper, I don't know where the problem resides in the type of clothes he was wearing.  I think the essential thing is to know whether he asked to see ID cards or not.  
+Q.	And did he?  
+A.	Yes.  He asked people to show -- produce their ID cards.  
+Q.	But again nothing at all about any attack on your brother, let alone his being killed, not a hint of it in your evidence in December.  It's such a central part of your story that I have to suggest that you're telling very different stories at different times.  And the question I want to ask you is, why?  Is it because they're untrue?  
+A.	Mr. Hooper, try to understand me.  I could not say that my brother had been killed by a Mr. Rwamakuba when, indeed, he's not the one who killed him.  He asked for the identity cards, and I cannot bear witness against Mr. Rwamakuba by saying that he killed my father (as interpreted), whereas he's not the one who killed him.  All he did was ask for identity cards.  Unless this will give you pleasure if I started telling lies by saying that Rwamakuba is the one who killed my brother.  But the fact that he asked him to produce his identity card is also an offence.  
+Q.	All right.  Now, we come to a series of other statements, but before I do that, I'm reminded that, in fact, we -- we have found the document that you were shown on the last occasion, and perhaps that should be formally exhibited now.  It was P. 14 in the previous matter.  
+MR. HOOPER:
+Can this be exhibited, please, a list of four names?  Can I just --  
+MR. PRESIDENT:
+Show it to the witness, please.  
+
+MR. HOOPER:
+Yes, show it to the witness.  
+BY MR. HOOPER:
+Q.	Right.  Now, just so we have it in context quickly, looking at page 23 of the transcript, you said you knew number 2, and on page 24, you said -- you were asked, "Apart from number 2, would it be right to say that you know the other two witnesses on the list?"  And your answer was:  "I know them as ***********************" --
+A.	(No interpretation) 
+Q.	 -- "That is all."
+
+So "employees of the institution.  That is all."  
+A.	I believe that the name of number 2 is not properly written.  
+Q.	It's not number 2 I'm concerned with.  
+MR. HOOPER:
+Could I have the document back, please.  Thanks.  
+BY MR. HOOPER:
+Q.	Your number 3 on this document -- and reading from the top, it reads number 1, RO; number 2, RJTM; number 3, GO; number 4, HF.  You recognise number 2.  We're not concerned with number 3 because that's you.  And you were asked in that context, "Apart from number 2," which is RJ, "would it be right to say you know the other two witnesses on the list," that is, RO and HF.  And your answer then was "Yes."  And later you say, "I met them only recently, very recently."  And yet you chose to tell this Court yesterday you didn't know them.  Why is that?  
+A.	Counsel Hooper, I do not know those persons.  Even if I knew them, I don't think this would be of any interest for this Tribunal.  I think you are wasting the time of the Tribunal and mine as well.  
+Q.	Why did you say -- why did you deny knowing those two people yesterday and today?  I'm sorry.  It was today, in fact.  
+A.	I only know number 7.  I see names on that list.  I know certain persons who bear the same Christian names of those whose names appear here, but I would like to point out that the family names, or the surnames, are not the same.  
+Q.	But you had no trouble recognising them on a previous occasion.  
+
+Now, can I come then to the history of accounts that you've given - 
+MR. HOOPER:
+Yes, that's to be exhibited, please, as -- we'll perhaps get a Defence exhibit number in due course, unless it's one ready now.  Seventy, we believe, it might be.  
+MR. PRESIDENT:
+Madam Registrar, what's the appropriate number?  
+MS. BEN SALIMO:
+It will be D. 70, Mr. President. 
+MR. PRESIDENT:
+Okay.  Admitted in evidence, D.70. 
+(Exhibit No. D. 70 admitted) 
+THE ENGLISH INTERPRETER:
+Microphone, Mr. Hooper.  
+MR. HOOPER:
+I've got four procès verbal, or transcript statements, to put to you in order to better see the development of your story.  And I'll start, if I may, with GIO 15, produced by the Prosecution in -- and which the Court should have in both its Kinyarwanda form, and I believe there's a French translation, but we don't have a English translation.  Though I believe the Prosecution undertook to provide one.  But we have got -- I have got a translation in English to assist the Chamber.  I don't want to take up time unnecessarily, but we wish to eventually put in all these documents in respect of four procès verbal Kinyarwanda originals, English and French.  
+
+So what I propose to do, subject to Your Honour's view, is to refer, first of all, to GIO 15, which has a French translation at GIO 21 and 22.  And we have an English translation which I will use in order to read certain extracts from it.  And I intend to do it by way of putting it to the witness.  So can I start by putting the original GIO -- a photocopy of GIO 15 to this witness in the hope that she might be willing to accept a photocopy because, of course, the originals remain in Rwanda.  
+
+Now, these originals or certified copies -- or as certified as we were able to get them -- were collected by us on the 29th of July from the office of the procureur, but this particular document comes from the Prosecution, which I hope has sufficient provenance to it.  But if that can be shown to the witness so that we have fairly, I hope, all her accounts before the Chamber.  
+BY MR. HOOPER:
+Q.	Do you recognise that document, madam, as being a procès verbal statement made by you on the 5th of May 1998, in the case of Gatera, Geoffrey Gatera, a case that was heard and tried at the    Butare Court of First Instance in 1999 -- '98, I think, '99?  Do you acknowledge that document, madam?  
+A.	Yes, I recognise that procès verbal.  
+MR. HOOPER:
+I wonder if I can pass up -- 
+THE ENGLISH INTERPRETER:
+Microphone, Counsel, please.  
+MR. HOOPER:
+Can I pass to the Prosecution the English translation -- or an English translation, I should put.  
+BY MR. HOOPER:
+Q.	Now, this is dated the 5th of May, and -- 
+MR. MORLEY:
+I'm on my feet very briefly just to mention, we haven't seen the English translation until now.  We're grateful to Mr. Hooper for having provided one.  I don't imagine there will be any differences with the French version, but just so that Your Honours knows, we haven't seen the document until now.  We're not making any complaint.  
+MR. PRESIDENT:
+Okay.  Thank you.  
+MR. HOOPER:
+All right.  Thank you.  
+MR. PRESIDENT:
+It doesn't necessarily have any official status -- 
+MR. HOOPER:
+No.  
+MR. PRESIDENT:
+-- unless it is admitted in evidence.  And I presume that by the time it comes to that, you'll have had a chance to determine whether it's sufficiently accurate for that to take place. 
+MR. MORLEY:
+Your Honour, yes, I imagine it's going to be all right.  
+MR. HOOPER:
+Thank you.  
+BY MR. HOOPER:
+Q.	So we've got a Kinya original, which you can, I hope, read, madam, and read it through; and the French, which comes from the Prosecution; and this.  And after the heading, it reads, "Where were you" -- and I'll obviously step over, I hope, any personalising details.  I'll read it -- I'll read it through into the transcript.  
+
+"Where were you at the beginning and at the end of the genocide of 1994?"  
+
+"At the beginning of the genocide, I was at" -- and you refer to your commune -- "I was working at" -- and you name a place.  It was a convent.  And you say, "I was still there at the end of the genocide." 
+
+"What is the purpose of your visit here at the Prosecution office?"  So just pausing there, this is a procès verbal taken by the procureur in Butare, I assume.  It may be a procureur général's office as it's a genocide case.  It's not a transcript of court evidence.  
+
+"I come to accuse Dr. Geoffrey Gatera."  
+
+"Of what do you accuse him?"
+
+"On April the 22nd 1994, when we were at home, my brother called" -- and you name your brother -- "was beaten.  In the evening, we took him to the hospital because the wounded were treated in the surgery ward.  He was immediately hospitalised."  
+
+"During the night of the 23rd of April, Dr. Gatera came in the company of soldiers and of a former minister.  Dr. Gatera asked to see the wounded because he was the head of the surgery department.  My brother occupied the first bed, but he was not seriously ill.  He'd been beaten.  Dr. Gatera, who wore a little axe in his belt, told him to get out of the bed.  He asked him when he'd been wounded.  My brother replied that it was at Tumba.  He struck him immediately on the head with the small axe, saying that he was an Inkotanyi." 
+
+"My paternal aunt called" -- and you name her -- "who worked at the hospital, and the niece of my husband called" -- and you name her -- "were hiding in the operations ward.  When Dr. Gatera saw" -- and you name, in fact, I believe, an aunt, but anyway -- "he said, 'Here is an Inkotanyi.'  They put these people on a red pickup, which was parked outside and on which there were other people.  It was driven by the son of Nyiramasuhuko.  All these people were taken away to be killed."
+
+"Seeing that my life was in danger, I got up and left by another door.  I passed below the wall of the maternity and then climbed the ************* to go and hide myself here *************." 
+
+"Were you present when these people were taken away to be killed?"
+
+"I saw it with my own eyes.  I think I'll speak about this more during the process."
+
+"Did you see anything else?"
+
+"That's all, but I did learn that he held meetings in the dermatology ward with his sister Juliette and others."
+
+"Anything to add to your statement?"
+
+"I saw with my own eyes the things that I have just told you."  
+
+So do you remember making that statement?  
+A.	Thank you, Mr. Hooper.  I thank you for reading my statement to me.  Indeed, I stated that I saw Gatera in the company of a minister.  I did not give the name of that minister, but if I had been asked, "What was the name of that minister," I would have given it.  But I would like to thank you in any case for saying that Gatera was in the company of a minister.  You may put the question to me as to how I knew that the person was a minister.  
+Q.	Well, let's start with that.  How did you know the person was a minister?  
+A.	Thank you for your question.  When he was arrested, it was said over the radio that it was a minister that a certain Rwamakuba, former minister, had been arrested.  Now, if you listened to the radio and if you had recorded the communiqué (French spoken), you would be aware that this was announced over the radio.  As for the transcript, or procès verbal, that you have just read, I acknowledge or admit the contents thereof, but I realise that they didn't put any question to me concerning Pascal, whereas I also mentioned him.  
+Q.	So by the time you made this statement, you had heard on the radio that Rwamakuba was a minister.  Now, this statement is made, of course, in 1998 in May.  Now, your statement to the ICTR, to the investigators, concerning Rwamakuba, was made nine months earlier -- eight months earlier in September of 1997.  So you've already implicated a man called Rwamakuba by the time you come to make this statement against Gatera.  And in this statement, you speak for the first time of your brother being killed and being killed by him.  That's right, isn't it?  
+A.	Counsel Hooper, if your memory is good, André was a lecturer at the university.  I think the entire Butare knows him.  
+Q.	André Rwamakuba never taught or attended that university for years.  What you've just said is untrue.  It may be something someone's told you, but it's untrue.  
+A.	Are you refusing the fact that he took part in admitting on the 19th where he was, with other members of the government?  Please be honest and acknowledge that there was a genocide in Rwanda.  
+Q.	So you have been talking to people, haven't you?  That's right, isn't it?  You have been discussing this case -- 
+THE ENGLISH INTERPRETER:
+Microphone, please.  
+BY MR. HOOPER:
+Q.	You have been discussing this case with people, haven't you?  
+A.	I have never discussed with anybody, but everybody is aware of this.  When he held a meeting, even members of the population or the citizenry left the meeting and talked about him.  You probably should look at the records or attend Gacaca meetings to know what takes place there.  I think it would be better for you to attend Gacaca sessions now and then in order to have information on it.  
+Q.	I've done my best that way, but - 
+
+MR. MORLEY:
+Before my learned friend continues -- and if the witness might take her headphones off, please -- my learned friend a moment ago helpfully put a positive case -- he put a positive fact, no doubt on instructions, to the witness.  And I'm simply standing at this stage to seek clarity of what it was that was put.  He put to the witness, in response to the witness saying that Rwamakuba was well known in Butare, as he had lectured at the university, he put a positive case and fact that Rwamakuba had -- and I'm going from memory -- never taught or attended the university for years.  
+
+Now, the difficulty with the way that that positive aspect of the case was put is that it is not clear from the way it was put whether my learned friend is saying Rwamakuba never taught at the university at all, never attended the university at all, or whether he was saying Rwamakuba did teach at the university, but years ago, and did attend the university years ago.  And I'm simply rising at this stage to seek clarity of what my learned friend has just put.  It's indistinct.  Is it part of the positive aspect of that question, that putting, that Rwamakuba did, in fact, teach at the university some years ago?  
+BY MR. HOOPER:
+Q.	Well, I think, Madam Witness, you'd suggested that -- oh, can you put your earphones back on, please.  
+
+Right.  I'm not here to give evidence, but you suggested that you knew that Rwamakuba had taught at the university; is that correct?  
+A.	Yes.  Yes.  There are other things that come to memory as time goes by.  I am giving an account of what I witnessed.  I'm not referring to documents like you, yourself -- and things that come back to my memory from time to time -- I think the fact that you took a lot of time to ask me questions gives me certain advantages.
+Q.	Well, I'm very glad that the memory is getting better as we go along.  Tell me, what evidence -- that is, with your own ears and eyes -- can you help this Chamber with in terms of the lectures?  Did you attend these lectures yourself?  And when were they, please?  
+A.	No.  I didn't attend the university.  
+Q.	And it's right to say that before the day you saw Rwamakuba come, on your evidence, that is, that you say you'd never seen him before, that that's right as well, is it not?  
+A.	Yes, I remember that I stated that when he came to the hospital, that was the first time that I was seeing him.  
+Q.	So anything that you've heard about his giving lectures at any time you've heard from somebody else?  Yes or no, please.  
+A.	Yes.  I heard it from other people that he had taught at the university.  
+Q.	And who was that -- who did you hear that from, please?  
+A.	People were saying so.  
+Q.	Can you tell me any of their names, please?  
+A.	I do not know the names of those who told me.  
+Q.	Let's go back to your procès verbal statement -- 
+MR. PRESIDENT:
+Mr. Hooper.  It's five past one now.  Is it a convenient time to -- it's five past one.  
+MR. HOOPER:
+I'm sorry.  
+MR. PRESIDENT:
+I'm wondering if it's a convenient time for you to wind up at this stage. 
+MR. HOOPER:
+Certainly.  I'm sorry I'm not further progressed with this witness.  And I apologise to the witness, too, for requiring her to return.  
+MR. PRESIDENT:
+Mr. Morley, the -- Ms. Professor Des Forges is liable to be re-examined this afternoon at three o'clock.  It is unlikely that her testimony will occupy all of the available time this afternoon.  So I think that we should arrange to continue this witness this afternoon.  So, of course, exactly when would depend on the conclusion of Professor Des Forges' testimony. 
+MR. MORLEY:
+Very well, Your Honour.  Your Honour has in mind, therefore, that the witness should be available throughout the afternoon, may I invite, from perhaps -- well, the usual rule, available for three o'clock --
+MR. PRESIDENT:
+Three o'clock, yes.
+MR. MORLEY:
+-- in case there's a technical problem, and thereafter to remain on hand to assist Your Honour once the testimony is complete. 
+MR. PRESIDENT:
+That's right.  Thank you very much.  
+MR. MORLEY:
+And it may be of assistance for the witness to know at this stage that we don't know how long the re-examination will last.  It might be a number of hours.  So that the witness knows that. 
+MR. PRESIDENT:
+Is that -- is that a hint?  
+MR. MORLEY:
+I don't know, but it's just so the witness knows.  Because if she's here at three o'clock and we don't get to hear her until five or six o'clock, she might be wondering what's going on.  And as Your Honour knows, we're not able to speak to her.  
+MR. PRESIDENT:
+Mr. Hooper, I think that that should be a reasonable approach.  We should try to complete this witness as soon as we can if we're going to stick to our timetable.  So I think we have to ask her to be available for this afternoon.  
+MR. HOOPER:
+Yes.  
+MR. PRESIDENT:
+Madam Witness, we're going to take our luncheon adjournment now.  Now, the activities that we have been undertaking on both on Monday and Tuesday afternoon have not been completed, but I expect that they will be completed during the course of this afternoon.  In that case, arrangements are being made for you to be available from three o'clock as the time when we'll resume today, but you will have to wait until we have completed our other activity to be called to give evidence.  And as soon as the -- we're ready, we will invite you in for the continuation of your examination.  Do you understand?
+
+Okay.  Thank you very much.  
+THE WITNESS:
+Yes, I understand, Mr. President. 
+MR. MORLEY:
+Before Your Honour rises, may I just mention that in response to my short inquiry about what was being positively put on behalf of Rwamakuba about lecturing, my learned friend's questions of the witness did not return to what was being put.  I would ask whether what was put was that Rwamakuba never lectured at the university.  I sense from the way the questions went that what my learned friend meant to put was that Rwamakuba did lecture at the university but many years ago.  I simply seek clarification of that.  Is it a positive case that he never lectured at the university?  
+MR. PRESIDENT:
+Yes, Madam Witness?  
+THE WITNESS:
+If I have to go back a bit, Mr. Hooper, I have to document on which names of certain persons were written.  
+MR. PRESIDENT:
+Yes.  I thought you were trying to get into the discussion between the lawyers.  
+THE WITNESS:
+When I stated that on that list appears the names of certain members ******************************, I would like to say that I'm not talking about the institution as an entity in general.  I was telling him that I had recognised the name of a person *********************, but I only saw the Christian name on the list.  I don't know if you'll allow me to give the family or surname of that person.  
+MR. PRESIDENT:
+I think I'm going to have to bring an end to this discussion now.  It's already ten past one.  We can come back to these issues when we resume.  But I think it's better to break for lunch now, and then we can raise these matters, if they're still important, when we resume.  We'll take a recess now.  
+MR. HOOPER:
+Just before we recess, can I just clarify?  I'm not taking this matter any further than I have with this witness because she's not in a position to help me. 
+(Court recessed at 1310H) 
+(Pages 37 to 46 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1521H) 
+MR. PRESIDENT:
+Good afternoon, everybody.  Although I mention Mr. Morley by name, my apology is intended to everybody.  
+
+Mr. Morley, it's my turn to apologise to be late today, this afternoon. 
+
+I trust that we can -- we can get started now. 
+
+Madam Registrar, can you just open proceedings.  
+MS. BEN SALIMO:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda composed of Judge Dennis Byron, presiding, Judge Hökborg and Judge Kam, is now sitting on this day, 24th August 2005, in open session for the resumption of trial in the matter of the Prosecutor versus André Rwamakuba, 
+Case No. ICTR 98-44C-T.  
+
+Thank you, Mr. President. 
+MR. PRESIDENT:
+Thank you, Madam Registrar. 
+
+Professor Des Forges, are you on line now?  
+THE WITNESS:
+I am. 
+MR. PRESIDENT:
+Well, I should apologise to you, because I think the late start is due to me this afternoon, but we are now ready to commence, and I'll ask Mr. Webster to commence his re-examination. 
+ALISON DES FORGES(continued),
+RE-EXAMINATION 
+BY MR. WEBSTER: 
+Q.	Good afternoon, Dr. Des Forges.  
+MR. WEBSTER:
+And good afternoon to the Trial Chamber and to the -- to the other parties. 
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, we left off yesterday with Mr. O'Shea asking a series of questions about Kambanda's -- a segment of a transcript by Jean Kambanda.  I think it was transcript number 56, and a number of materials were sent to you last night.  Do you have transcript 56 in front of you? 
+A.	I'm sorry, I'm having difficulty hearing you.  Could you -- 
+Q.	Oh, sorry?
+A.	-- speak a little more loudly.  Transcript -- which transcript?  
+Q.	56.  Is that better? 
+A.	56.  Yes.  
+Q.	Okay.  There is a passage that starts at page 3.  On the copy that was sent to you there should be some highlighting in yellow on page 3.  
+A.	Yes, I have it. 
+Q.	Okay.  And right before that -- 
+MR. O'SHEA: 
+Your Honour, let me say at the outset that Mr. Kambanda was due to be a Prosecution witness in this case.  He was withdrawn as a Prosecution witness.  What my friend is doing now is he is putting the interview of a discarded Prosecution witness before Professor Des Forges.  Not only that, but he has sent her an e-mail indicating that he will be referring to the bits which are highlighted in yellow.  
+
+He now refers Professor Des Forges to a specific passage highlighted in yellow within an interview of Mr. Kambanda.  And in my respectful submission, that is an impermissible line of questioning in re-examination.  What my learned friend is seeking to do is my learned friend is seeking to adduce what has been said by Mr. Kambanda in his interview through this witness by directing the witness directly to the passage that he wants the witness to talk about, and in my respectful submission, that is an evasion of the rule on leading questions.  
+
+There is absolutely no difference between my learned friend reading one of these passages to the witness and sending the witness a transcript forewarning the witness that the bit he wants to talk about is in yellow and pointing to it.  In my submission, that is tantamount to a leading question, and I object on that basis.  
+MR. WEBSTER: 
+If I may respond, I'll begin by stating that Kambanda is not a discarded witness in this case.  Kambanda has never been listed as a witness for this single trial against André Rwamakuba.  It's really not an issue of a Prosecution witness that has been discarded.  I don't recall asking the question.  I was trying to formulate a question, and I began with the passage that was highlighted in yellow simply to be able to direct Dr. Des Forges to the passage that Mr. O'Shea read into the record several times yesterday, and my concern is not to put this evidence from Kambanda into the record but to correct the record, actually.  Because I think we were left with the impression yesterday that what Mr. O'Shea read into the record is an accurate reflection of what Kambanda had to say about the matter of this attack of soldiers at the Butare hospital and the memo that he at one point received from -- I don't recall the name of the doctor, but it was a Defence exhibit.  So I recall very distinctly that yesterday I think we spent quite a bit of time reading -- 
+MR. PRESIDENT:
+Mr. Webster, Mr. Webster.
+MR. WEBSTER: 
+Yes.  
+MR. PRESIDENT:
+At this point I don't think that a lengthy address is necessary.  I would invite you to formulate your question.  
+MR. WEBSTER: 
+Okay.  
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, do you recognise the portion of the transcript on page 3 that we looked at yesterday?  It's right before where the yellow highlighting starts.  
+A.	Yes.  
+Q.	Would you read what we reviewed yesterday and then continue so that the full paragraph is read into the record, please.  
+A.	"As concerns the massacres -- "
+MR. PRESIDENT:
+No, Mr. Webster.  
+THE WITNESS:
+"-- committed at Butare hospital -- "
+MR. PRESIDENT:
+Ms. Des Forges. 
+THE WITNESS:
+"-- I was only informed about them by the foreign media --"
+MR. PRESIDENT:
+Dr. Des Forges.  
+THE WITNESS:
+-- (microphones overlapping) " -- issued by the director of that hospital.  My intelligence service through Alexis Nsabimana informed me that this same doctor, Jotham Nshimyumukiza was giving interviews over the international media denying the massacres and stating that the person claiming to have been an eyewitness of the murders did not even figure on the list of MSF workers at that hospital, contrary to what the media was saying.  For me, I found that element reassuring."  And then there's in brackets a comment "(inaudible)" so there must have been some comment that wasn't taken by the -- by the tape recorder.  It continues.  
+
+"The rumours and the propaganda until the day -- I found -- I found that element reassuring.  The rumours and the propaganda until the day in July 1997 in Nairobi when a witness called 
+Dieudonné Niyitegeka --" spelled D-I-E-U-D-O-N-N-É, N-I-Y-I-T-E-G-E-K-A "-- in the course of a discussion affirmed to me that he had been an eyewitness of the massacre of patients at the Butare hospital and explained to me the method that was used.  Most of the medical doctors and nurses of Tutsi origin had sought refuge at the hospital believing to be in safety there.  For several days they treated patients at the hospital -- for several days --" it probably is "they treated," but it says here, "the treated patients at the hospital without encountering any problem until soldiers mutilated by the war -"
+MR. PRESIDENT:
+Mr. Webster, I have not been -- 
+THE WITNESS:
+"-- were transferred -" 
+MR. PRESIDENT:
+-- able to find the passage. 
+THE WITNESS:
+"-- to Butare."  Excuse me?  
+MR. WEBSTER:
+Would you hold one second, please, Dr. Des Forges?  
+THE WITNESS:
+Mm-hmm.
+MR. WEBSTER:
+Your Honour, your comment was that you have not found the passage?  
+MR. PRESIDENT:
+Yes, not yet.  
+MR. WEBSTER:
+It is transcript number 56.
+MR. PRESIDENT:
+Yes, I'm in transcript -- I am in transcript number 36 (sic).
+MR. WEBSTER:
+On page 3. 
+MR. PRESIDENT:
+On page 3?  
+MR. WEBSTER: 
+Yes.  And when you go two-thirds of the way down, you'll see a sentence that begins a new paragraph even though there's no indentation, and it says, "As concerns the massacres committed at the Butare hospital."  That sentence begins the portion that was read into the record yesterday.  I believe we read -- that we started at the portion that starts, "As concerns the massacres committed at the Butare hospital," and we ended -- the last word, I believe, that was read into the record was "saying", "Was this contrary to what the media was saying?" 
+THE ENGLISH INTERPRETER:
+Your Honour, the interpreters request that perhaps Ms. Des Forges should be asked to read a little bit more slowly for the benefit of the interpreters and the court reporter.  
+MR. PRESIDENT:
+Thank you, Madam Interpreter.  
+
+Professor Des Forges, have you heard the interpreter's request that you read a bit more -- 
+THE WITNESS:
+Yes, I have, Your Honour.  
+MR. PRESIDENT:
+-- slowly?
+THE WITNESS:
+I will do that. 
+MR. PRESIDENT:
+Exactly -- could you -- how far has she reached in this section? 
+MR. WEBSTER: 
+She was at the second sentence.  She had just pronounced the name Dieudonné Niyitegeka, "...in the course of the discussion affirmed to me that he had been an eyewitness of the massacres." 
+THE WITNESS:
+Shall I continue?  
+MR. WEBSTER: 
+The Court is still looking to find the place in the transcript. 
+THE WITNESS:
+Okay.  
+MR. PRESIDENT:
+Yes, you can continue.  
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, quite frankly, I don't recall where you left off, but if you could find that place and then begin again, please.  
+A.	Okay. 
+Q.	And you can stop where the yellow highlighting ends.  That was just to direct you for ease of -- to make things easy for you.  
+A.	Okay.  The -- let's see.  "Most of the medical doctors and nurses of Tutsi origin had sought refuge at the hospital believing to be in safety there.  For several days they treated patients at the hospital without encountering any problems until soldiers mutilated by the war were transferred to Butare.  They had been sent mainly to the hospital of the Butare school complex, while some of them, the more severe cases, were sent to the university teaching hospital and whom I visited when I went to meet the university community in Butare.  I was shown around by the director of the hospital when I visited these soldiers.  Since the beginning of the war, the most serious case --" cases it must be "-- were referred to this hospital because of its specialisation, while the cases that were considered routine were sent to Biyinana, B-I-Y-I-N-A-N-A, close to Gitarama.  I also visited this place accompanied by 
+	Major Interahakizinana I-N-T-E-R-A-H-A-K-I-Z-I-N-A-N-A, Anne-Marie.  
+
+"As the RPF got closer, they were evacuated to the hospital of the school complex in Butare.  The abuses started with the arrival of this group with those of them who had slight injuries leaving the complex to go to the teaching hospital to eliminate nurses and patients.  These injured soldiers were assisted in this task by training military officers at the hospital who took them round the establishment and showed them the people to kill.  This testimony confirmed what I had read in a review "les témoins du génocide," witnesses of genocide, number 3, which talked about Dr. Munyemana, M-U-N-Y-E-M-A-N-A, in connection with the massacres at the Butare hospital.  
+
+"With these two testimonies and the false denial from the director of the hospital, I had confirmation that patients and staff at the hospital had been executed on the basis of their ethnic origin and, at the very least, with the complicity of the authorities who were there at the time.  
+
+"In 1994, I had no doubt about the veracity of the denial from a director of the hospital, considering his reputation and his personal involvement in the denials.  During his exile, his brother-in-law became the acting director of the institution.  As the nurses and witnesses indicated in the review, he was the administrative director of the hospital at the time of the massacres.  He lived just in front of the hospital." 
+Q.	Thank you, Dr. Des Forges.  I'm not going to ask you to read anything else into the record at this point, but if you could glance at page 6 and the portions that are highlighted in yellow, if you could just read that to yourself.  
+A.	Page 6 of the same transcript?  
+Q.	Yes, please.  
+MR. PRESIDENT:
+I thought that that last section was relevant because it dealt with the context of the statement which suggested that Mr. Kambanda was saying that there was no massacre.  What's this next question directed to?  
+MR. WEBSTER: 
+They're all along the same line, Your Honour.  Dr. Kambanda talks -- excuse me, not -- the prime minister talks about the same incident in three or four different locations on the same transcript.  So he goes back to it and he reinforces the same thing he has said what we would understand if we had read the paragraph in its entirety.  So that's the -- that's the only thing I'm getting to. 
+MR. PRESIDENT:
+Okay. 
+MR. WEBSTER: 
+So I can have Dr. Des Forges read everything, but I thought I was helping things along by asking her to read what I've highlighted and what interests me, and then I'll ask her one general question to address all of those passages, but they all concern the same exact point. 
+MR. PRESIDENT:
+Yes.  
+THE WITNESS:
+Mr. Webster, I don't see any highlighting on page 6, at least not as it's coming up on my computer. 
+BY MR. WEBSTER:
+Q.	Perhaps you could just read the first half of that page.  
+A.	Page 6.
+Q.	Yes? 
+A.	Concerning the director of the hospital?  
+Q.	Yes.  It starts -- the top line is, "It confirms the entire statement I've made."  That line is certainly taken out of context.  I'm not trying to put that line on the record, I'm trying to direct you.  So if you read the first half of that page and I'll direct you to two other portions, and then I'm going to ask you one general question in relation to everything that you've looked at.  
+A.	Okay.  "It confirms the entire statement I have made." 
+Q.	Dr. Des Forges.  
+A.	"Okay.  If we take your statement, there was a director at the Butare hospital, 
+	Dr. Jotham Nshimyumukiza," that's J-O-T-H-A-M, M-A-S-H-I-R (sic) --
+MR. PRESIDENT:
+Dr. Des Forges.  
+THE WITNESS:
+Yes.  
+MR. PRESIDENT:
+I think you should just listen to Mr. Webster again because you're not doing exactly what he asked you to.  
+
+Mr. Webster, could you repeat your -- 
+MR. WEBSTER:
+Yes.
+
+BY MR. WEBSTER:
+Q.	My apologies, because this is an awkward way of proceeding, but if you could just look at the top of page 6, instead of -- 
+A.	Yeah.
+Q.	-- reading it, just read it to yourself -- 
+A.	I see. 
+Q.	-- silently.  
+A.	Oh, okay.
+Q.	And then I'm going to direct you to two other locations, and I'll ask you to read those passages to yourself silently, and then I'll ask you one general question in relation to everything that -- that you've reviewed.  
+A.	All right.  Okay.  I'm sorry, I didn't understand. 
+Q.	And just let us know when you're ready to proceed.  
+A.	Mm-hmm.  Okay.  
+Q.	Now, if you would go to page 22 of the same transcript, number 56, at the very bottom of that page.  Have you found the page? 
+A.	Yes. 
+Q.	Okay.  The line starting, "Okay.  The arrival of these people in Butare."  
+A.	Mm-hmm.  I see that. 
+Q.	Okay.  And if you could start there and continue to the top of the following page.  
+A.	Mm-hmm.  Mm-hmm, okay. 
+Q.	And if you turn to page 24.  
+A.	Mm-hmm. 
+Q.	And just look at the top of that page and then the bottom of that page, and then we'll be finished with this transcript.  
+A.	Yes, I've finished. 
+Q.	All right.  Thank you.  Now, of course, you would have to read the whole thing from beginning to end to get a full sense of that portion of what Mr. Kambanda is saying, but just looking at the portions that you were asked to look -- that I directed you to and reflecting on the questions that you were asked yesterday, can you -- can you comment on the difference that you see in relation to Kambanda's recollection of that event and his assessment of the reliability of Dr. Jotham's account? 
+A.	Well, in -- in the passages we have just looked at, he indicates that he does not find -- he no longer finds this account credible because he has had other information which suggests to him that -- that this was a false denial and that this Dr. Jotham was himself involved in the massacre.  
+
+He also comments that he had met some of these people in Butare and that they were all in support of the government policy, that is, people connected with the doctor and the academic community.  And he also comments that in his estimation, it would have been impossible not to know that this massacre had happened because it -- that is, it would have been impossible for a soldier in Butare to have not known because it was an incident that was so well known. 
+Q.	Thank you.  Would you say that there was a policy of denial of the killings generally on the part of persons associated with the interim government? 
+MR. O'SHEA: 
+I'm sorry, I object to that question.  
+MR. WEBSTER: 
+I'm sorry?  
+MR. O'SHEA: 
+I object to that question.  That's a leading question.  
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, looking at or considering the Defence exhibit in relation to Dr. Jotham, would you say that it reflect -- reflected a policy on the part of those -- 
+MR. O'SHEA: 
+I'm sorry, I object.  That's again a leading question. 
+BY MR. WEBSTER:
+Q.	Would you have any comment in regard to the policies of the government in relation to this incident? 
+A.	Yes, I would say that the denial of the massacre confirms and accords with the policies which I had talked about previously in my direct examination, the same kind of policies that led the government to said delegations abroad to deny or minimise the killing of Tutsi.  It was clear from the press conferences given by government ministers, including Mr. Mugenzi in Nairobi, clear from the declaration of the foreign minister before the Security Council in New York in mid-May 1994, as well as in many press statements that the consistent policy of this government was to deny that it was engaged in the killing of Tutsi. 
+Q.	There was also a discussion yesterday in regard to the removal of the préfet of Butare.  And I believe Mr. O'Shea had engaged in a line of questioning concerning the allegations leveled against 
+	Préfet Habyalimana, that he had been assisting the RPF advance from Burundi.  Do you recall what Jean Kambanda himself said about those allegations? 
+A.	My recollection from reading the Kambanda transcripts was that Kambanda said that these allegations were false. 
+Q.	Okay.  Dr. Des Forges, yesterday you also addressed the issue of the planning of the genocide generally.  I believe on cross-examination you described a crystallisation of persons or ideas or parties around late 1992, and that's where you had placed the genesis of planning, generally.  Was there any indicia of planning for a genocide at the level of the interim government after the period from 8th or 
+	9 April 1994? 
+
+MR. O'SHEA: 
+I'm sorry, Your Honour.  Forgive me, but my learned friend is very experienced counsel.  This is an expert witness.  He's aware that I am not going to permit him to ask leading questions.  He knows what a leading question is, and when he's asked the question, because this is an intelligent expert, she knows exactly where to go once the damage is done.  I really do not like the way Mr. Webster is proceeding. 
+MR. WEBSTER: 
+Your Honour, this is re-examination.  These are issues that were explored in cross-examination.  I'm simply directing the witness to the portion of her cross-examination that I'd like her to elaborate.  
+MR. PRESIDENT:
+Well, I don't think it's necessary for me to rule as yet, but I think I should say that you are, in fact, limited to direct the witness's attention to the portion of the cross-examination that you wish to ask questions about, but what would not be permissible is for you to indicate the opinion that you would like her to express in regard to that material.  So having directed her, you would have to ask her a question which does not suggest what you want her to say.  
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, would you comment on the matter of planning as it relates to the period after the 8th of April 1994? 
+A.	In the -- in the sense that the events were already under way, perhaps planning is less appropriate than organisation, but certainly there was an element of planning in that the design of the civilian self-defence system and the implementation of that, as presented in the government directives to prefects, certainly indicated an organisation or an attempt to plan ahead about the use of barriers and patrols and the recruitment and training of young people in order to further this goal of eliminating the Tutsi.  
+
+If you take, for example, just the small question of the use of resources, the government established a fund for civilian self-defence, and there were clear directives issued to the prefects about how those funds were to be used.  Now, that involved, of course, a planning about the financial resources of the government and how they would be used, and they were to be used for -- among other purposes, to provide the material incentives and the equipment and transport necessary to encourage further killing by the militia. 
+Q.	You mentioned civil defence as an element of the organisation.  There's another term that has been mentioned during the course of your cross -- cross-examination, and that's pacification.  Can you explain what the difference is between those two or if there's a difference? 
+A.	Kambanda himself makes the point, and I think I've mentioned this previously, that pacification was not so much the accurate translation as restoring security, and there is perhaps a slight difference there.  The restoration of security would have been the general policy.  The civilian self-defence system would have been the mechanism for implementing that policy.  With the need to attempt to hide the genocide from the international community, it was important not just to deny the massacres but to find a means to give some appropriate gloss or cover to what was continuing to happen.  And so the killing of Tutsi was described as a restoration of security, and the civilian self-defence was supposedly an attempt to show that the people, in killing the Tutsi, were doing so only to protect themselves. 
+Q.	For persons that were on the ground in Rwanda, particularly those in the interim government, is there anything that would have unveiled the meaning of these terms as you've just described them? 
+A.	Well, Kambanda talks about how the language even at cabinet level were veiled and how prefects -- excuse me, ministers, for example, would ask for arms to be used in their home préfectures intending those arms to be used for killing Tutsi but never saying that as such.  
+
+Certainly the discussions at cabinet level where prefects on a monthly basis presented the information about what was happening in their préfectures meant that this was -- was clearly on the table for discussion at government level.  
+
+In addition, the ministers who travelled frequently throughout the country in implementing this so-called pacification policy certainly saw the physical evidences of the barriers, of the bodies along the road, of the burned houses, and could not have escaped knowledge of what was happening. 
+Q.	In the formulation of this policy, I believe both on your direct examination and your cross, we referred to the documents that were issued on the 27th of April 1994 by Kambanda and another one on the 25th of May 1994.  We discussed those documents or those memoranda as being directives.  Can you tell us if consensus -- 
+MR. O'SHEA: 
+Your Honour, I'm not sure that I referred to those documents at all that have just been referred to.  Perhaps my learned friend can remind me, but I have no recollection of referring to those two documents.  
+MR. WEBSTER: 
+If the documents didn't come up, the policies certainly did.  And what I'm trying to ask the witness is -- I'm going back to the issue of consensus, consensus on the issuing -- consensus as a policy of decision making in the interim government. 
+MR. O'SHEA: 
+I have no difficulty with that. 
+BY MR. WEBSTER:
+Q.	So, Dr. Des Forges?  
+A.	Yes. 
+Q.	We were discussing yesterday decision making by consensus.  Did that apply to directives from the prime minister as well? 
+A.	Yes.  The prime minister insists in his -- in his transcript that decisions were made by consensus and that he, as an individual, played relatively little role except as a kind of presiding official at meetings where policies were discussed until there was ultimately a communal acceptance of that policy.  So the -- according to his testimony, there was clearly no imposition of his own decisions on the cabinet, but rather, a long -- a process of discussion, sometimes long, perhaps sometimes short, in order for the cabinet to come -- come to a single decision on what the policy should be.  That would be, as I described it yesterday or the day before, certainly individuals initiated policies, and I recall in the prime minister's transcripts his describing how people would bring items to the attention of the cabinet, to the attention of the government, and asked the prime minister to ensure that they be discussed on the agenda of any given meeting.  But after that initiative was taken by the individual and putting forward the issue, then it was the responsibility of the government as a whole to arrive at a policy on that issue. 
+Q.	Do you recall that yesterday you mentioned that the policy of civil defence went -- the discussion surrounding the issuance of the directive on civil defence took several days or several weeks.  In any case, you described it as a fairly lengthy discussion.  Do you know what the issues were that led to extended discussion on the issuance of that particular directive, if you know?
+MR. O'SHEA:
+I'm sorry, Your Honour -- 
+THE WITNESS:
+The essential question -- 
+MR. O'SHEA: 
+I'm sorry to interrupt.  During my cross-examination I did not discuss the issue of civil defence.  I fully understand my learned friend questioning on the issue of consensus, which was a matter which was raised in cross-examination, but the contents of a specific meeting on civil defence, in my submission, does not arise out of cross-examination. 
+MR. WEBSTER: 
+My recollection is that the witness gave an answer yesterday that the issue was debated for several days or there was a lengthy debate before there was any arrival at a consensus and the issuance of the directive, and I'm asking her, does she recall the issues that generated the debate?  
+MR. O'SHEA: 
+Yes, well, the issues which generated the debate is the -- is the subject area of civil defence.  The issues which gave rise to the debate has nothing to do with the decision-making process. 
+MR. WEBSTER: 
+How can you -- 
+MR. O'SHEA: 
+That question -- Your Honour, the question which my learned friend put described the issues which were discussed during that long debate is not directed at the decision-making process.  It's directed at the issues.  
+MR. PRESIDENT:
+Mr. Webster.  
+MR. WEBSTER: 
+Yes. 
+MR. PRESIDENT:
+I don't think that you would be entitled to go into the content of the meetings under re-examination because that was a matter which could have been dealt with in examination-in-chief, and your right to develop it in re-examination would arise if it had been raised in cross-examination.  Now, I can't profess to have an encyclopedic memory over what transpired over the last few days, but I do not recall that the content of any of those meetings was actually raised, unless you could assist me in that. 
+MR. WEBSTER: 
+Yes, my recollection is that Mr.  O'Shea asked the question about decision making, the witness responded by developing her thoughts on decision making by consensus and gave the example of the decision-making that went into the civil defence document, and she said that that particular issue had been debated over several days in order to arrive at a consensus.  And my question to her is, does she have any understanding, through her studies or through her familiarity or from reading Kambanda as to what the issues were that provoked the extended debate on that particular issue.  
+
+So it's an area, whether Mr. O'Shea wanted to go into it or not, he asked the question, the witness responded, and I'm trying to develop her response.  
+MR. PRESIDENT:
+Well, what I will do, this is not a jury trial.  I will allow her to give the answer but reserve the question about ruling on its admissibility.  
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, would you be able to answer that question? 
+A.	Yes.  The initial -- the initial discussion came up in -- in -- around the 20th or 21st of April, I believe, and the policy was debated over a period of three or four days and eventually led to the issuance of the April 27th document, and then subsequently, a much longer period transpired and a further document came out on May the 25th.  
+
+The essential issue that caused the extended discussion and the point upon which there was initially no consensus was the question of the -- whether or not the government would take on the organising and legitimation, in effect, of the barriers.  And there were those in the government who were opposed to this, to having the government, in effect, organise the system of barriers and others who wanted very much to have that done by government authority.  And this being a central feature of the self-defence programme, that issue then required considerable discussion.  And the impression that Kambanda gives is that in the use of consensus within the government, this case was the case which represented the extreme point, in one sense, of the amount of time needed by the government to discuss an issue before arriving at an ultimate policy.  The impression he gives is that other issues were resolved on the basis of consensus much more quickly but that this one took a longer debate. 
+MR. O'SHEA: 
+May I just comment on -- on what's just been said in the light of what Your Honour said a moment ago?  Your Honour, I did, in my cross-examination, go into the decision-making process and the whole idea of what is consensus.  Now, in this particular meeting, what the specific issue was does not affect that analysis.  Now, the danger which -- which I was alerting the Court to has now been illustrated, because what has now happened is that a new matter has now come onto the table, which is the issue of the complicity of the government in the whole issue of legitimising barriers, which is a matter which I did not touch upon at all in my cross-examination.  And in my submission, there was no basis for Mr. Webster asking this question to elicit that information because it has absolutely no bearing on the question of what was meant by consensus for the purposes of how the government reached decisions. 
+MR. WEBSTER: 
+The whole issue that's before us that was explored both in my direct examination and in Mr. O'Shea's cross is whether there was a government policy that we could give a name to, how that policy was generated, whether anyone -- whether there was any dissension to the policy once it was put into writing and issued publicly.  It's the central issue that this witness is here to address, and it was explored both on the direct and on the cross, and this is an entirely appropriate line of inquiry, given the fact that Mr. O'Shea himself explored it yesterday.  The fact that he stayed on the perimeter and I'm going to the core of the issue is not -- does not make my question inappropriate.  It simply makes it uncomfortable for the Defence. 
+MR. O'SHEA: 
+It's uncomfortable for one simple reason, Your Honour, which is that I would have to go away and think about this and seek leave to cross-examine on the whole issue of barriers, which I don't want to do.  This is a new matter which has been elicited from the witness, and Mr. Webster knew -- knew it was a new matter at the time he put the question, in my submission.  
+MR. PRESIDENT:
+I think we can rule on the issue of this question at this stage.  We allow the question and the answer.  I don't think it gives rise to a need to further cross-examination, and the way we see it at the moment is that the witness has explained a basis -- or relying on Kambanda, has explained the extent to which efforts were made to arrive at a consensus.  In this particular case, I don't see that there's a need for further cross-examination because the witness said that on this particular issue no consensus was arrived at.  So I don't think there's a need for further examination of this issue.  And that would be the ruling that we have made on this issue. 
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, based on your review of the Kambanda transcripts and your study of the situation generally, do you know if Rwamakuba himself was given any specific authority -- 
+MR. O'SHEA: 
+I'm sorry, that I will not accept.  
+MR. PRESIDENT:
+No.  Mr. Webster, this question really could not be permitted. 
+MR. WEBSTER: 
+I'm sorry?  
+MR. PRESIDENT:
+This question could not be -- first of all, it's a direct issue.  This is a matter which could have been raised in examination-in-chief and wasn't.  And yesterday evening we read through the notes of cross-examination, and Mr. Rwamakuba's name was not mentioned throughout the entire cross-examination.  We don't see what -- how this could arise. 
+MR. WEBSTER: 
+Well, perhaps what I should -- there are two issues.  Number one, the Defence opened the issue of going into Kambanda's transcripts and everything that Kambanda said in relation to the events when he -- when Mr. Hooper used a bit of transcript to illustrate a point that he wished to explore.  He did that towards the end of his examination.  
+
+Secondly, if you recall when we concluded our session in July, I was on track at approximately 4:45 in the afternoon on the 15th of July to pursue a line of inquiry that would allow me to introduce four exhibits that had -- or to have this witness address four exhibits that were previously entered into evidence, and here I'm referring specifically to P. 41, tab 42; P. 41, tab 43; P. 41, tab 47.  These are all exhibits that are admitted into evidence that this witness has not commented on because I abbreviated my direct examination in order to move the proceedings along.  
+(Pages 47 to 61 by Sherri Knox)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1615H 
+MR. WEBSTER:
+At this stage, I think the Court is in a position to exercise a degree of flexibility on this particular issue, because this is something that we could have dealt with in detail during my direct examination, that's correct.  But I think we all have a recollection of how that direct examination terminated.  
+
+Now, these are things that are already in evidence.  I'm asking -- I would like the witness to comment on it and I think the Court should be able to exercise its discretion to allow me that latitude. 
+MR. PRESIDENT:
+Would you repeat the question again that you asked. 
+MR. WEBSTER:
+The question that drew an objection is:  Do you know if Rwamakuba was given any specific authority or role to play in relation to the civil defence programme.  That's my introductory question.  But from there, I will spring to the exhibits that I've just mentioned, and there are three of them, in particular, and I will ask the witness to turn to those exhibits and to comment on them. 
+MR. PRESIDENT:
+Now, we have to disallow that question.  You can ask another question. 
+MR. WEBSTER:
+Thank you. 
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, if we look at P. 41 in evidence, it's at tab 42.  If you direct your attention to tab 10 in the working binder of Prosecution exhibits.  
+MR. O'SHEA:
+Can my learned friend help me by telling me, is it in volume 2?  If -- if so -- 
+MR. WEBSTER:
+I believe so.  All of this information was sent -- was circulated to all of the parties in an email yesterday.  A whole listing of where the documents could be found.  It's number 42 on the Prosecutor's exhibit list and I believe it's in volume 2 of the main exhibit bundle.  It's a document that's only in French.  There's no English -- 
+MR. O'SHEA:
+What is -- what is the Prosecution exhibit number because those are the numbers (microphones overlapping).
+MR. WEBSTER:
+Number 42. 
+MR. O'SHEA:
+There is no 42 in volume 2. 
+
+MR. WEBSTER:
+There is a P. 41, tab 42.  It's number 42 on the Prosecutor's exhibit -- exhibit list.  In evidence, it's P. 41, tab 42. 
+MR. O'SHEA:
+Do you -- do you have a copy available so I can see what you're referring to? 
+MR. WEBSTER:
+It's a transcript in French.  It -- in it Dr. Rwamakuba makes a statement that's recorded.  It -- there should be one bundle -- 
+MR O'SHEA:
+Can I see it, please?
+MR. WEBSTER:
+-- that is just -- they're just transcripts of audio recordings. 
+MR. O'SHEA:
+Can I -- can I just see it?  That would be the quickest thing. 
+
+Yes.  Your Honour, I think Your Honours should see it.  I was wrong in my -- in my first objection.  I failed to realise -- it's the first objection I made today.  I failed to realise that it was a passage that I myself had referred to.  So I repeat that argument in relation to this.  It, first of all, is a leading question because it -- it basically puts something in front of the witness that -- that counsel wants to get into the record.  
+
+Secondly, it does not arise out of cross-examination.  I did not refer to Dr. Rwamakuba at all, as Your -- as Your Honours well know, and neither did I refer to the matter being referred to there or that document.  So it's an entirely -- an entirely new matter. 
+MR. PRESIDENT:
+Yes, what Mr. Webster has applied for is he has applied for the Court to allow him to address a matter, which he had wanted to address in examination-in-chief but didn't because of time constraints.  So he's asking now for the exercise of a discretion to adduce evidence which should have been adduced in cross-examine -- in examination-in-chief.  So he -- as far as I understand him, he's not saying that this arises out of cross-examination, but he's asking for leave to introduce a new matter.  
+
+Mr. Webster, am I correct? 
+MR. WEBSTER:
+Yes, Your Honour. 
+MR. PRESIDENT:
+Yes, that is what I understand his application is.  Do you have anything to say?
+
+MR. O'SHEA:
+Thank you for that clarification, Your Honour; I do.  I would resist strongly any attempt to reopen the examination-in-chief.  
+
+The Prosecution gave a time estimate when they -- before they began their examination-in-chief of two hours.  They spent two and a half days.  They had plenty of opportunity to organise their material.  We've had three days of cross-examination, sorry --
+MR. WEBSTER:
+Could I request that the exhibit be returned to me so that I can look at it, please?  I believe Mr. -- the court officer may have given it to the -- the Chamber.  
+MR. PRESIDENT:
+Yes, I have -- would you (inaudible).  
+MR. O'SHEA:
+Your Honour, I -- I was in the middle of addressing the Court.  I don't know if I need to continue to address the Court.  
+MR. PRESIDENT:
+I don't think so.  I think we understand what your point is.  
+
+The fact is we have come to a decision.  I was just thinking of how to formulate it properly.  The point is, Mr. Webster, we -- we have to draw the line at the introducing -- or allowing you to introduce your direct examination at this stage.  And, despite the feeling of sympathy for the fact that we had, in fact, encouraged you to be as -- to stick to the times -- the times of your examination-in-chief, we don't think that -- that what we had done amounted to requiring you to omit subject-matter issues in your examination-in-chief.  We thought that we were getting you to compress your questioning. 
+
+Now, we think that if we allow you to introduce matters which ought to have been introduced in direct examination at this stage, we are now going to have to allow the Defence an opportunity to cross-examine on the same issues and we are going to lose control of the trial.  We don't think that is permissible or desirable. 
+
+We also have concerns on the question of relevance because it seems that there's a danger of sliding into an area where opinion evidence has been sought on matters, which, really, are factual, and we also think that that's a danger we should avoid.  So I don't think that we will allow these questions for those reasons. 
+MR. WEBSTER:
+All right, thank you.  I'll proceed. 
+
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, yesterday Mr. O'Shea raised the inference that members of the interim government were compelled by military authorities to be a member of the interim government.  Going back to the issue of Kambanda himself, do you recall what Kambanda actually had to say about the circumstances that led to his transportation from his home to the ministry of defence when he became the prime minister? 
+A.	Well, what I recall is that he said a military escort came to fetch him and to take him to the ministry of defence where the meeting was being held, in other words, that he was provided with a military escort to make that -- that trip. 
+Q.	Do you recall if any political or government authority was present when that transpired? 
+A.	I believe that he was invited to take this post by Karamira.  I don't recall exactly when Karamira made contact with him, whether it was prior to the arrival of the soldiers or whether he came with the soldiers, but I do recall that Karamira was the person who was the intermediary in informing him that he had been designated as prime minister. 
+Q.	If I was to direct you to a portion of Jean Kambanda's transcripts, would that refresh your recollection in relation to this incident? 
+A.	It might. 
+Q.	Would you mind directing your attention to cassette number 13 -- transcript number 13, at page 6.  
+MR. O'SHEA:
+Your Honour, Mr. Webster, I have an objection, I'm sorry.  Your Honour, I do this with the greatest respect, of course, but I do object to this. 
+
+My learned friend asked the witness the question what she knows about Kambanda's own situation of appointment, and the witness has given her response as to what she remembers.  Now, what my learned friend is seeking to do is to put an interview of Jean Kambanda in front of her in order to refresh her memory as to what Mr. Kambanda said.  
+
+Now, in my respectful submission, that -- that is an impermissible process.  One can put a document in front of a witness to refresh their memory as to an incident that they have personally perceived if that document was prepared contemporaneously with that incident.  If -- there may be circumstances where -- where -- where words of another person can be put in front of an expert witness, but in this particular situation, my learned friend has his answer already from the witness.  Now he's seeking to embellish that answer with the words of somebody else, who -- if they're going -- if those words are going to be in this courtroom, then that somebody else, Mr. Kambanda, must be called.  
+
+So we have the answer of the expert, and it's the answer of the expert we want, not the answer of 
+Mr. Kambanda.  And -- and given that she's given her answer, putting the transcript in front of her serves only that purpose, which is, in my submission, impermissible.  
+MR. WEBSTER:
+Your Honour, this is an expert witness -- 
+MR. PRESIDENT:
+Mr. Webster -- 
+MR WEBSTER:
+Yes.
+MR. PRESIDENT:
+The short point, really, is your question.  You can't ask the witness to refresh her memory from a note which she did not prepare.  That's what you've asked her to do.  So the question that you've asked is not permitted. 
+BY MR. WEBSTER:
+Q.	Dr. Des Forges, on the issue of coercion, which seems to be what was applied yesterday, that ministers joined the interim government of coercion.  Do you know if any of the government ministers ever distanced themselves from the policies of the interim government during the course of its -- of its existence in Rwanda from April to -- during the period April to July of 1994?  If we put aside the issue of how they were brought into the government during the course of its exercise of authority, do you know of any minister that distanced himself from its policies? 
+A.	On the -- on the specific question of a minister who distanced themself, I believe there was one minister and I believe it was Mr. Ruhumuriza, who was abroad and who refused to return.  In other words, he left Rwanda and did not return, and I don't know of any specific statement he made at that point, but I suppose that the action in and of itself would be taken as a distancing from the government.  
+
+On the larger question of coercion, I have reviewed a number of statements by members of the government, not just Mr. Kambanda, and although the circumstances of their recruitment, shall we say, were obviously unusual, given that it was wartime and that they were transported by military escort to the place where they were informed of their nomination, the accounts that they give do not suggest coercion as such but, rather, the presence of the military authority, which was there essentially to protect them.  And this is information not just from Mr. Kambanda's account of how he was made minister, but also of another minister whose testimony I have read. 
+Q.	Do you recall the names of any other ministers that travelled outside of the country during that period? 
+A.	Oh, there were a significant number who travelled outside the country at this point.  
+	Madam Ntamabyariro, Mr. Bicamumpaka, Mr. Mugenzi, quite a few.  I believe Mr. Rwamakuba himself was outside the country at one point for a meeting, though there were quite a few who left the country and then returned. 
+Q.	Do you know from your reading in your study of the period if there were any forces of coercion that would have restrained those ministers abroad and forced them to come back to Rwanda during the period -- during April to July? 
+A.	From what I know, I would say that the Rwandan government certainly had no immediate force of coercion on any person who was outside of Rwanda at that time, such as to oblige that person to return.  Whether there were forces inside Rwanda -- that is to say, concerns about safety of family members or other kinds of issues of a person, perhaps feeling responsibility for participating in the government and not wishing to give up that responsibility, that I do not know, but certainly no one could have been physically obliged or coerced to return to the country who had left. 
+Q.	With regard to military authorities, do you know of any military authorities that denounced the government or distanced themselves from its policies during the course of events? 
+A.	Yes.  There was, of course, an initial protest by a group of high-ranking officers on the 12th of April, who made a public declaration asking for the government to resume negotiations and to re-orientate its policies at that point.  Subsequently, some of the same officers made a declaration in July -- in early July, denouncing the killings specifically.  In addition, there were individual officers who went abroad and did not return, as I recall. I think there were several who went abroad and did not return. 
+Q.	After July of 1994, when the government had left Rwanda, do you know of any member of the interim government that denounced the policies of the interim government in Rwanda?  And I'm talking about the period between April and July of 1994.  After July, was there anyone that was a member of the government in the immediate aftermath of their flight from Rwanda that denounced the interim government and its policies?  
+A.	I do not know of any -- any such person from the level of minister -- that is, a member of the government who denounced the government policies of -- that were executed from April to July. 
+Q.	And could -- can you answer that same question in relation to high-level military authorities?   Can you recall any military authorities that denounced the policies of the interim government after July 1994? 
+A.	Well, there was a group who issued what was called the Kigeme declaration on the -- I believe it was the 4th of July and subsequently, a number of those same officers returned to Rwanda by their actions, if not by any specific declaration, disavowing their previous connection with the Rwandan armed forces. 
+Q.	Do you know of any interim government minister that returned to Rwanda under similar circumstances? 
+A.	I know of no -- no minister who returned under similar circumstances. 
+MR. WEBSTER:
+Your Honour, I think that will -- I will conclude my re-exam on that note. 
+MR. PRESIDENT:
+Thank you, Mr. Webster. 
+
+Professor Des Forges?  
+THE WITNESS:
+Yes, Your Honour. 
+
+MR. PRESIDENT:
+The Bench does not have any further questions of you and we would like to thank you for your testimony -- for giving your testimony and also for the efforts that you personally undertook to facilitate this process.  
+
+We know that you had to spend a fair amount of time downloading the material which was sent to you and we appreciate the effort that you made to facilitate this process. 
+
+So I thank you very much for your -- for all of that and we -- 
+THE WITNESS:
+You're welcome, Your Honour.  
+MR. PRESIDENT:
+And we now bid you goodbye. 
+THE WITNESS:
+Okay.  Goodbye. 
+(Witness excused)
+MR. PRESIDENT:
+I think we'll take our mid-afternoon break at this stage and resume at 5 o'clock. 
+
+Yes, Madam Registrar?  
+MS. BEN SALIMO:
+Mr. President, we have received disclosure of the passport of Mr. Rwamakuba. 
+MR. PRESIDENT:
+Is it necessary for the Court to make any order at this stage?
+MR. HOOPER:
+No, I'll take possession of it and show it to the Prosecutor. 
+MR. PRESIDENT:
+Thank you very much.
+
+Thank you very much, Madam Registrar. 
+
+We will take a short recess (inaudible).
+MR. HOOPER:
+Could you give us a little longer as a recess?  I know there's a witness in the wings, but something has cropped up concerning Rwanda and I need to discuss it with Mr. O'Shea. 
+MR. PRESIDENT:
+Would 5:15 be an appropriate time to resume?  
+MR. HOOPER:
+Yes, thank you very much. 
+MR PRESIDENT:
+We'll take a short recess now until 5:15.
+(Court recessed from 1645 to 1720H) 
+MR. PRESIDENT:
+Good afternoon, everybody.
+
+We will resume.  Before we recommence the -- continue with Witness GIO, there was a housekeeping issue which concerns you, Mr. O'Shea, I gather that is what you want to speak about. 
+MR. O'SHEA:
+Yes, I -- I imagined that, Your Honour.  I think that given the witness is here and I've spoken to 
+Mr. Webster about this, it might be sensible to deal with the exhibits tomorrow, if it's convenient to 
+Your Honours.  
+MR. PRESIDENT:
+That would be convenient to us. 
+MR. O'SHEA:
+Yes.
+MR. PRESIDENT: 
+You have spoken to Mr. Webster on this?
+MR. O'SHEA:
+I have. 
+MR. WEBSTER:
+We didn't agree on tomorrow, but tomorrow afternoon would -- would be better, actually, or the end of the morning.  Actually, I'm curious about the -- the schedule.  Are we holding -- are we keeping the schedule of working until 8 o'clock every evening? 
+MR. PRESIDENT:
+No.  The purpose of that, really, was to facilitate the conclusion of Professor Des Forges' testimony.  Because (inaudible) I hope that we can conclude by about 6:30 this afternoon. 
+MR. WEBSTER:
+Right.
+MR. PRESIDENT:
+So we will try to get back to a little bit more of a normal schedule.  But at the same time, that is based on our assessment of whether we can complete the four witnesses by next week, Thursday, because that's what our objective is, to allow you to close your case before we start Karamira.  But I don't know if you have any suggestions on that, but we thought that if we sat until 6:00 or 6:30 today, tomorrow, and Tuesday, Wednesday and Thursday next week, that should conclude -- that should give sufficient time to the conclusion of the -- your case.  Unless you have any -- 
+MR. WEBSTER:
+I think it more directly concerns Madam Fall and Mr. Morley.  They seem to be smiling, so -- 
+MR. PRESIDENT:
+That is what we hope to accomplish.  
+
+Mr. -- I should ask Ms. Fall, if we sat to 6:30, would that give us an opportunity to conclude your case? 
+MS. FALL:
+Mr. President, I think that this may be something possible, but this would depend on the examination-in-chief and the cross-examination.  
+
+However, we do have a problem, I do believe, concerning two of our witnesses who do not wish to appear. This is ANX and AWZ.  One is, indeed, in Rwanda and the other one is in Belgium. 
+
+Before we took the break, we tried to see whether they could come or to testify by video conference and she refused.  And we do believe these are key witnesses for our evidence and we would indeed wish to find a solution to this matter.  So for the present moment, that is our main problem. 
+MR. PRESIDENT:
+Well, if you need the coercive powers of the Tribunal, you should make an application, but we would not want to allow the matter to be pending without a definite resolution one way or the other.  But you should consider the position and consider whether that would be an appropriate way to move forward. But we -- we don't have to decide that now. 
+MS. FALL:
+Thank you, Mr. President. 
+MR. PRESIDENT:
+Mr. Webster, it doesn't matter what time we do it tomorrow, but I don't want to lose control of the process, so I think that -- that during the day tomorrow, the exhibit issue for Dr. Des Forges should be concluded. 
+MR. WEBSTER:
+I agree and I'll simply rely on Madam Fall to let me know when the Court needs me and I'll come down. 
+MR. PRESIDENT:
+Thank you very much. 
+
+Mr. O'Shea. 
+MR. O'SHEA:
+Yes.
+
+MR. PRESIDENT:
+It doesn't matter what time, but I think we must do it during the day tomorrow. 
+MR. O'SHEA:
+Yes, I agree.  Thank you, Your Honour 
+MR. PRESIDENT:
+Witness GIO, we were a bit longer than we anticipated -- oh, I'm sorry.  Yes, we were a bit longer than we anticipated.  I hope that you are now ready.  We will not sit for longer than an hour and five minutes this afternoon.  So we'll take the adjournment at approximately 6:30.  
+
+Are you ready?  It's about 25 past 5:00 now. 
+
+Mr. Hooper.  
+MR. HOOPER:
+Thank you, Mr. President.
+WITNESS GIO,
+CROSS-EXAMINATION (continued)
+BY MR. HOOPER:
+Q.	Madam Witness, we were looking, weren't we, at your procès-verbal statement made on the 5th of May of 1998 and eight months after you'd made that statement of September 1997 against 
+	André Rwamakuba, and I read it through to you, just a few passing observations on that.  I see in your account here, in your procès-verbal, that you say that you arrived at the hospital on the 22nd, and the very next day your brother was attacked with an axe.  Was that a mistake on your part or what, in saying it was just the next day? 
+A.	That was a mistake, Counsel. 
+Q.	What about your aunt -- I won't mention her name -- was she there? 
+THE ENGLISH INTERPRETER:
+The witness has mentioned a name. 
+BY MR. HOOPER:
+Q.	Well, we don't want you to name the name because -- for obvious reasons.  
+
+Do you have an aunt whose name begins with a V?  Was she  -- 
+A.	Yes.  
+Q.	Was she at the hospital? 
+A.	She worked at the hospital. 
+Q.	Was she at the hospital when you were at the hospital?  Was she taken away in the red pickup? 
+A.	Yes, she was also there. 
+Q.	Well, was she put on the red pickup with the other people? 
+A.	Yes, she also left with those people. 
+Q.	Why didn't you tell us that?  Why did you have to be reminded by me about that? 
+A.	Counsel Hooper, I said that the more we speak about these events here, there is quite a lot of information which will come back to mind, and I said to you that this was beneficial to me because this will remind me a lot of things.  Do you think that this name doesn't appear in the files in front of you, Counsel? 
+Q.	It does.  But it doesn't appear, unfortunately, in your story to this Court, and it never has, has it, that you had an aunt, Aunt V, who was put on that vehicle?  And that's an astonishing omission, I suggest.  Why haven't you ever mentioned it, except in cases in Rwanda? 
+A.	Counsel Hooper, I rather concentrated on the case of my brother.  That was the instant concerning my brother, which was of concern to me -- which was of most concern to me.  And I do believe it's for that reason that there are some pieces of information that I did not provide, and that was the incident that was of most concern to me. 
+(Pages 62 to 72 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1730H
+BY MR. HOOPER: 
+Q.  	How do you know on the 5th May,1998, and why do you say in the statement that the red pickup was driven by the son of Nyiramasuhuko.  Let me just pause and spell that N-Y-I-R-A-M-A-S-U H U K O.  On your account of events, how did you know that?  
+A.	It's the refugees who knew that person, who identified him. 
+Q.	This was someone else who was identified that night to you was it?   And if so, who by? 
+A.	Counsel Hooper, I do not know the names of the refugees who were in the hospital.  There were many refugees in the hospital.  I am unable to tell you the name of the person who provided me with this information.   I mean, the name of the driver, but there were many refugees, but I did not know their names. 
+Q.	Why have you never mentioned it in your evidence or in the statement you gave to the investigators for this Tribunal? 
+A.	I was answering their questions.  I couldn't speak of an incident if questions were not put to me about that.  If there were questions put to me concerning the identification of the driver of the vehicle, I would have answered in that line, but that question was not put to me. 
+Q.	But the question here is, what do you accuse him of?  That's the only question you were asked here?   And then you go and you go and recite what you have to say, including, it was driven by the son of Nyiramasuhuko.  So you don't have any difficulty there in providing that kind of information.  So why not before and why not ever in your evidence?  You had many hours in the witness box before, and again here. 
+A. 	 I have nothing against Nyiramasuhuko's son.  He was the driver; he was at the wheel of the vehicle.  The only person I can blame was the person responsible for the death of my brother. 
+Q.	But you know a lot of people have, and he is on trial here.  His name is Shalom, and he is one of the most notoriously alleged killers in Butare.  You know that, don't you? 
+A.	Thank you, counsel.  Not every one witnessed the same incidents.  I cannot say that Nyiramasuhuko's son killed members of my family when that was not the case.  I cannot say that.  I am speaking about incidents concerning me.  I do not know whether you would rather be -- if the famous clique were to be brought here because you are trying to make me speak about incidents that I am not aware of.  Did you see my name on the list of persons accusing these others?  I do not have anything against these persons. 
+Q.	Even though he drove your brother alive or dead away to an unknown grave?  Is that right? 
+A.	My brother occupied a bed and when he was removed, he was ordered to leave his bed.  I didn't see Nyiramasuhuko's son among the people who were there.  Therefore, I cannot improvise an allegation against Nyiramasuhuko's son. 
+Q.	Turning back to this PV.  You said, My brother occupied the first bed."  Is that right? 
+A.	No.  I said that it was bed number 2.   
+	Mr. President, could counsel be reminded not to go over clarifications I've already made.  He is doing this consistently.  
+BY MR. HOOPER:
+Q.	And you said -- it reads here, "Dr. Gatera, who wore a little axe in his belt, told him to get out of the bed.  He asked him where he was when he'd been wounded?  My brother replied that it was at Tumba.  He struck him immediately on the head with a small axe."   A rather different account, isn't it, to the one you gave to the Court?  Did Gatera ask your brother where he'd been wounded?  Did your brother reply in that way? 
+A.	. Hooper, you will have to understand what I have said.  I am realising that you are dwelling on the Gatera issue, but that's not our concern here at the moment.  I believe on several occasions when I testified, I've always said that it was Gatera who had killed my brother with a small axe.  I don't know why you are coming back to this again and again.  If you find a passage where it is said that Gatera attacked him with a knife or some other weapon, maybe, you can tell me, but I've already explained that he killed him with a little axe. 
+Q.	Now little later, as I understand it, there was a trial and you gave evidence in that trial, as we know.  And can I pass up to you please, a record of your testimony in that trial. 
+MR. HOOPER:  
+	These copies, Your Honour, is to -- and again, there is an original photocopy, and there is an English and French translation. 
+MR. PRESIDENT: 
+	Yes, Madam Witness?  
+THE WITNESS:
+Yes, I wanted to ask Mr. Hooper whether he has any document which refutes what I have provided as testimony regarding the death of my brother, and if he does, he should make these documents available to the Chamber so that we can all discuss these.  Thank you.  
+MR. PRESIDENT:
+Now, I'm sure Mr. Hooper has noted your comment. 
+BY MR. HOOPER:
+Q.	Now, you can look at the document which is in handwriting.  Can you turn to the last page, please, of that document? Madam Witness, can you turn to the last page in which there is five lines of handwriting.  Madam Witness, can you turn to the back for me, please?  And can the witness - Oh.  Is it possible for you to assist the witness?  The last page, which looks like this.  This is the last page.  If you turn to the last page underneath the written words of your name.  The word ends, being added by another hand, by us.  It's not part of the original document; the word end, but below where your name is written, do you see that you are marked there?  
+A.	Yes, I can see my signature. 
+Q.	Very well.  If you want to follow it as best as you can from the Kinyarwanda.  I'm sorry that the copy may be slightly indistinct and I would read the contents of this so that we would have a record of what this document is.  Now, I'll read it from the English translation that has been made.  It gives your details, and after being sworn:  "Question:  When and where did you know Dr. Gatera?  I knew him at the Butare university hospital in 1994.  Do you know if he's played a role during the war?  On August the 22nd 1994, my wounded brother --  
+MR. MORLEY:
+I'm sorry to interrupt my learned friend.  Just a matter of formality.  My learned friend has been good enough to give us a copy of the translation of the Kinyarwanda document.  Both documents were shown to us this morning and we haven't seen them before, and we don't know whether the Kinyarwanda document has been entirely, accurately translated.  We don't take any point in it.  We will, of course, make our own enquiries, but for the purposes of my learned friend's continued cross-examination, we make no complaint.    
+MR. PRESIDENT:  
+	With regard to the issue that was raised, Mr. Hooper, what is your intention?  To read the entire document or sections of it?  
+MR. HOOPER:
+I thought I would read it into the transcript at this stage.
+MR. PRESIDENT:  
+	Will Mr. Morley's concern be addressed if the witness were to read it, so that it could then be translated simultaneously?  Would that save time and be a better way?  
+MR. HOOPER: 
+	Actually, it may not save time, but it may be a better way.  But it is rather interesting -- the document.  Well, oh.  No.  If she can read it, that's fine.  I'm quite happy with that.  
+MR. PRESIDENT: 
+	Madam witness, do you have the document that Mr. Hooper is referring to?  
+THE WITNESS:
+Yes, I have the document here with me. 
+MR. PRESIDENT:
+Will you be willing to read the Kinyarwanda, so that the official translators can give an accurate translation into the Court record?  
+THE WITNESS:  
+	I have realised that the document is not very clear.  Therefore, I wouldn't be able to read it in its complete form. 
+MR. PRESIDENT: 
+	Mr. Hooper, do you need the whole document read?  
+MR. HOOPER:
+No, I have a scan.  The other problem is that there are names that appeared in the course of the document.  Let me deal with it perhaps in a shorter way.  
+BY MR. HOOPER: 	
+	Madam Witness, I am looking at your first answer in this document.  I will read that to you, and you said, "on April 22nd, 1994, my wounded brother and I made our way to the hospital where we joined our aunt, named Aunty V, who worked there and provided us with a bed."  Is that correct?   Please answer?    
+A.	At the Gatera trial; proceeded in Rwanda, the matter is already closed.  Maybe, we need to speak more rather of Rwamakuba.  I don't know whether he wants to ask me questions about my testimony in Rwanda.  I have already said why I did not mention Dr. Andre Rwamakuba, and I've explained why.  Otherwise, I do not see why the Chamber should need to waste time.   I've testified on the basis of the Accused in that, and when the time came, I spoke of Rwamakuba, and I explained the role that he had played.  I did not say that he was the one who killed my brother.  I said that he had asked him to produce his identity card.  
+MR. PRESIDENT.  
+	Madam Witness, this examination cannot go on to very much longer.  But I think it will end, the quicker you answer the questions.  Under the rules of procedure, statements that you made previously are sometimes relevant to assess the consistency of your story.  We will not be able to stop Mr. Hooper from asking certain questions about previous testimonies you gave on oath, if it is directly related to the testimony that you give here today.  You understand?  And this relates to testimony you gave as to what transpired in the hospital when your brother was killed.  So it's directly related to what we are doing today.  And I can't stop him asking you that question.
+THE WITNESS: 
+	You may proceed, then.  
+BY MR. HOOPER:  
+Q.	And what you said is:  "That on April 22nd 1994, my wounded brother and I made our way to the hospital, where we joined our aunt named V, who worked there and provided us with a bed."  Is that right?  Did your aunt work there and provided you with a bed?  
+A.	I didn't live with my paternal aunt, rather I found her at the hospital.  I believe the people who wrote this statement made a mistake.  I found her at the hospital. 
+Q.	Did she work there? 
+A.	Yes, that is the case.  
+Q.	Dr. Gatera came and asked, "are there any seriously wounded persons to be tansferred to me?  That time, he was carrying a nice axe with him.  He asked my brother where he'd been injured?  My brother told him that he had been in Cyumba.  He then hit him with his axe and killed him."  It is very similar to your proces verbal statement that we went through a moment ago.  There is no mention here of Rwamakuba, is there?  
+A.	Some information is sometimes lost when testimony from a witness is taken down.  Dr. Gatera came and he asked a question.  I think your problem is that I didn't mention Rwamakuba.  It is quite possible that I didn't mention that detail, but as a doctor, he didn't ask where the wounded where.  So maybe an amendment should be made to this document, because it is not quite correct. 
+Q.	A little further down you said, "Another thing is that Gatera and his sister, Julian, organised meetings in dermatology and Dr. Andre Rwamakuba joined them when he came there."  So you do mention Rwamakuba here, it is not as if you are not referring to him at all.  What meetings in dermatology were these that you were witnessed to? 
+A.	It's Juliet, in reference to Gatera's sister.  Words given in interviews should be taken down properly.  Her name was Juliet, not Julienne, which is what I believe I heard.  Could you please repeat your question?  The question you put to me a moment ago?  
+Q.	You are quite quick to make a correction, aren't you?  We can notice that.  The question was, you said here and I quote, "another thing, Dr Gatera and his sister Juliet organised meetings in dermatology and Dr. Andre Rwamakuba joined them when he came there."  And I am asking you what did you witness in respect of meetings in the dermatology unit? 
+A.	It was my paternal aunty who informed me of the existence of those meetings.  They didn't begin by killing the people on the spot.  There was a meeting in that place, and then there were meetings in the multi-purpose room, and whose objective was the killings.
+Q.	"He took away my aunt, V and ******************************, saying that he was going to kill them."  Is that something that you witnessed? 
+A.	Yes, I was a witness to that incident when he took them away. 
+Q.	And when was that, because you haven't told us about that? 
+A.	I didn't mention this incident because the present case regards Rwamakuba and not Gatera.  He took them away at a certain point in time and he was alone.  I believe in this document there is no mention of the fact that he was in the company of others when he took them away. 
+Q.	But I asked you yesterday if there's been any such -- or untoward that happened in the three days you were in the hospital?  And you told this Chamber: "No, there wasn't."  That you didn't know anything that had happened because you'd stayed without food et cetera et cetera in that ward.  So how does this fit in with your evidence? 
+A.	Are you taking into account the size of the hospital?  There were refugees in all the departments in the surgical ward.  And then, here and there and everywhere.  You need to inform yourself better and you'll be told that there were many refugees.  There was a place were plastic tents had been set up and there were refugees everywhere. 
+Q.	Towards the end of the evidence, you were asked this question, "did you hear Gatera asking for identity cards or other identity papers?"  Answer, "he asked for papers to be verified, but for the identity cards, I have no idea."  Is that right that you have no idea about identity cards? 
+A.	Yes, because the person who asked my brother to show his identity card was Rwamakuba.  I cannot say it was anyone else.  I'm sorry, I'm talking about facts of which I was a witness.  I cannot speak about anything else, something of which I was not a witness.  I've come here before the Chamber to speak the truth. 
+Q.	On the 7th May, 1999, you made a statement in respect of a case called Emmanuel Twagirayesu.  That man was tried and acquitted.  I think you told us, for some reason, you attended the trial.  But we do have your statement, your procés verbal, and that is to be found at GIO 29 in its original to 31, and GIO 23 to 25 in the French, and I can produce an English translation.  We have none produced by the Prosecution.  And there are sufficient copies for the Judges and I hope in respect of the English translation, there may be one for the English booth, but the interpreters should have those documents in their bundles that were served earlier, last week.    
+MR. MORLEY:
+May I mention to Your Honour and Your Honour's colleagues the same point.  We haven't seen the translation before.  I'm sure there is not a problem with it.  We have it in French in any event.  May I mention a separate matter -- it concerns my learned friend's ever helpful commentary on various events that occurred arising out of the Rwandan enquiries.  My learned friend, a moment ago, announced that Dr. Twagirayezu was acquitted.  Very well, that may be right.  I take no point on that but my wariness is about this form of throwaway remark.  
+MR. HOOPER: 
+	Sorry to interrupt you.  The witness told us that yesterday. 
+MR. MORLEY:  
+	If that is right, I do apologise. 
+MR. PRESIDENT.  
+	I can't comment from my memory at the moment.  
+MR. MORLEY:  
+	I accept what Mr. Hooper says.  
+MR. PRESIDENT: 
+	But I take your point and I'm certain Mr. Hooper has. 
+BY MR. HOOPER: 
+Q.	 Is that right, Madam Witness, Dr. Twagirayezu was acquitted?  
+A.	If you followed what I have said in my testimony yesterday, I said that I was ill and that I did not go to the Twagirayezu trial.  But I do know that one needs to find out what the information is.  I know that the Prosecutor working for that case had been sacked, but I do know that he had been put back in detention.  I don't know whether you need to continue asking me questions regarding the Twagirayezu case.  Even if he were to be at large, this wouldn't necessarily mean that he is not guilty. 
+Q.	Now, again as I understand it, can you look at the last page?  The second page as it is for the handwritten -- just to identify formally your signature at the bottom.  Can you do that for me?
+MR. HOOPER:  
+	Can she be assisted please?  Can the witness be assisted by having the last page indicated if she has any difficulty finding it?  
+BY MR. HOOPER: 
+Q.   	You are looking at me.  Of course, you wouldn't have any difficulty finding it and I -- there you are -- last page, there.  Have you got it now?  Thank you.  
+A.	I am going to look at this page because you are asking me to do so, but otherwise, yes, the signature is mine.  When you see information which refutes what I have stated concerning the death of my kit and kin, it would be good for you to indicate that to me because that would be of great interest to me.  I see you have many documents.  I am referring to what is left in my memory, but I do believe we can proceed.
+Q.  	This is the 7th of May 1999.  So by then you've made your statement in respect of Andre Rwamakuba; you've given your evidence in the case of Gatera, as well as providing the procés verbal, and here in 1979, 1999 I'm sorry, you made the statement that you do.  And I'm looking down at page two, when you got to the hospital and you said this: "My brother had been injured.  We brought him to the hospital when we were fleeing.  What injured your brother?  People of Cyumba had caught and injured him at the neck."  It's not the neck, it's the arm.  That's a mistake.  Is it not?  When you said neck in this case, it was a mistake, is that right?  
+A.	****************************************************************************** and you are continuing to repeat the same thing.  Maybe, you need to refrain from doing so. 
+Q.	Was your brother injured in his neck as you said here? 
+A.	It's those who wrote down my statement who made the mistake.  He was cut on the arm, not neck.  
+MR. PRESIDENT.  
+	Madam Witness, I notice from the tone of your voice that you are getting agitated.  I do not think that is necessary.  This process of questioning is not really unfair to you, because we are entitled to look at previous statements you made.  And what is being given to you now is an opportunity to comment on what might appear to be inconsistencies in your statement.  So the process is not really an unfair process.  And I don't think that you harm yourself by trying to answer the questions which are asked.  So please keep cool and answer the questions.  You understand me?  
+MR. MORLEY:  
+	Perhaps, the witness may take off her headphone.  
+	
+	Your Honour, it's simply to dot the "I" and cross the "T" on the last clumsy intervention I made.  The information that Dr.Twagirayezu was acquitted could enter the transcript from yesterday, it came from my learned friend who put the question in French.  Counsel reads in French.  
+THE ENGLISH INTERPRETER: 
+	"He was acquitted, can you confirm this statement?  I do not know how this person was acquitted."  
+MR. MORLEY: 
+	On the face of it -- it's just a small point which I am trying to flag up.  I imagine it occurs quite a lot.  There is a danger of confusing what is evidence from the witness with basically what is comment from the advocate.  It is a small point, but I simply flag it up.  I don't know where we are going with this procés verbal and I don't know about what other comments are going to be made about who, if anybody else in Rwanda was succesfully prosecuted or not.  I don't know.  
+MR. HOOPER.   
+	Thank you, Mr. Morley.  
+
+	Question, reading on.  You haven't got your headphone?  I'm sorry.  "Did they treat him at the hospital?"  Your answer:  " Instead of treating him, they killed him.  Who killed him?  Dr. Gatera came in the night to see the sick people.  He came with the worker called Athanase."  In brackets it says "Athanas".  "I don't know where he is now.  Then when they arrived, Dr Gatera ordered the worker to kill him.  And he executed the order and killed him with an axe."  That was your evidence to the investigating process or magistrate in the Twagirayezu case?  Is that true?  Did you say that?  
+A.	It is possible that those who wrote -- took down the statement did not write it down correctly.  I never said that Athanase had killed my brother. 
+Q.	Then, you were asked this "except Dr Gatera, did you see other doctors join that period?"  Response, "the other doctor I saw was Dr. Twagirayezu, who came with a lady doctor, Skola, (sic) who is now in prison at Karubanda K-A-R-U-B-A-N-D-A, Butare.  I saw them working only in the hospital.  I didn't see anything else there at the hospital, because I immediately left the hospital."  No mention of Rwamakuba.  Mention of Dr. Skola. (sic)  Why was that? 
+A.	I did not mention Rwamakuba, because he was not in Rwanda, much less Dr. Pascal.  I didn't have two accused people who were not in Rwanda.  I thought that later on they would be found and that I would testify against them in due course. 
+Q.	And where was Athanase? 
+A.	I don't know where he is, but he lived in Impari (phonetics).  I knew him very well.  
+Q.	And then towards the end, you were asked this -- this is in the context of the answers you've given to us recently about the witness number.7, or the person number.7 I should say, in the list or in our list.  Question, "where there other people you found at the hospital as refugees."  Response, they were, but I don't know them.  Among those people you saw at the hospital, do you know whether some of them are still alive who could tell us what happened at the hospital during that period?"  You said:  "I didn't know people especially because we just arrived in the town."  So no mention of that witness number. 7.  No reference to Boniface, and I can see at the end, that after reading, she persisted and signs the statement.  And there is your signature.  No corrections about Athanase executing the order and your brother with an axe.  It is again a different account.  Isn't it the case that -- you'd given -- tailored your evidence to the particular case that you are dealing with? 
+A.	Yes, that's what I did, but I would like to say something, Mr. Hooper.  I referred to number 7 when the question was put to me as to who had informed me as to the fact that this man was Rwamakuba.  As to the Rwandan authorities, the judicial authorities, nobody put any question to me regarding who had given me that information.  As for Boniface, I know that he survived, that is what I said about Boniface. 
+Q.	The last procés verbal statement that I have from your evidence, though obviously -- the last we have, we have it in our GIO, I think, 15 in the original and 11 and 12 in the French.  And again, I'll produce a translation.   We don't have a translation.  And again, I'm sure, accepted by Mr. Morley with the usual reservations and, I hope, accessible to the interpreters as well.  
+MR. MORLEY:  
+	No reservations, Your Honour.  We accept it, but we will just put in the record that we haven't seen it until now. 
+MR. HOOPER: 
+	Thank you, Mr. Morley.  If you have a copy of that -- again, you'll see your signature at the conclusion and where you've signed it and confirmed that it's correct.  And this is dated the 7th of February 2000.  And of course, it's made after the previous documents, the previous procés verbal documents and after your allegation being made in respect of Andre Rwamakuba.  And you were asked, "Do you know if she'd played any part in the massacres during the genocide?"  And I should specify the person in respect of whom this document is aimed at is Scholastic Mukabandora, who you've mentioned.  And you said, "In April 1994, she was in the university hospital where she worked.  She was with the killers such as Dr.Geoffrey Gatera, Andre Rwamakuba, minister of health within the Abatabazi government, a worker named Athanase and many others."  And then, in your next answer, you said, "during the genocide, we were in the maternity where we were hiding.  ^Scholastic Mukabandora found us there and selected a young girl from Gikongoro and took her away.  She was accompanied by the above mentioned persons.  We did not know what happened to this young girl.  The persons who were with her carried either knives on their belts or small clubs.  As far as Gatera is concerned, he carried an axe.  They did not see us because we were in a dark room.  As for the young girl, they took her to the small room right next to our hiding place.  This incident frightened us and we left the place."  Where does that fit into your story that you told this Tribunal? 
+A. 	Thank you, counsel.  Mr. Hooper, I have told you, I've come here to give testimony in the Rwamakuba trial.  If I was in Rwanda and questions were put to me in that vein, I would answer the questions.  As to this young girl from Gikongoro, there were several girls from Gikongoro and she chose that girl, but I did not refer to Scholastique and this young lady, because you did not put any question to me regarding Scholastique, and as I have told you, we give answers depending on the trial that is ongoing, especially, as we know that we have given statements well before and that the statements have been taken down.  Since yesterday, I've been telling you that I was at the maternity and I was hiding there.  I would have lied if I had failed to say that I was at the maternity at some point in time. 
+Q.  	Now let's go back again to where we started yesterday, 10th of December 2003, your evidence before a Chamber of this Tribunal, you, on your oath being asked questions, carefully asked, and carefully answered by you.  And you were shown the third of those procés verbal statements.  The one dated the 7th of May which you made in the Twagirayezu case.  And like today, you were shown your signature.  The signature, you recognised very quickly today.  And as soon as you saw it you said, "I do not recognise this signature -- I do not recognise this signature which appears on this document."  And you denied making a statement ever in the Twagirayezu case.  Now, that was untrue, wasn't it, because we know you did make a statement and you told an untruth in the witness box to the Tribunal.  That's right, isn't it? 
+A.	Mr. Hooper, I have already told you, I asked you for the original of that document, you were unable to give it to me.  I also asked you -- I would like to take this opportunity to tell Mr. President that I am tired. 
+MR. HOOPER:   
+	Then, I have got about two or three questions.  You are almost there.  
+MR. PRESIDENT: 
+	It's 25 past 6.  I told you 6:30.  
+BY MR. HOOPER: 
+Q. 	Now, in 1997, we know that you made the statement that you did in respect of Andre Rwamakuba.  And then leapfrogging several years in 2003, in December, you were giving evidence, evidence of how Andre Rwamakuba had come, selected your brother and put him alive on a vehicle that was taken away.  And as far as you and the Tribunal were concerned -- well, as far as the tribunal was concerned, no one knew of these procés verbal statements that you've made.  And then you were asked this: "Have you ever given evidence, whether that's the Gatera case, the Twagirayezu case, whatever case it might be, have you ever made a statement to the effect that your brother was killed with an axe?"  
+A.	Yes, in the Gatera trial, I mentioned that he hit him with an axe. 
+Q.	You didn't answer the question and you were asked by the Chamber, "Could you answer the question please?"  And this is your answer.  And please listen very carefully.  "Yes, I am saying we are testifying because we saw Mr. Rwamakuba and Gatera, but I never said Gatera used an axe to kill my brother.  I said that he put them into a vehicle, but I never said that Gatera used an axe to kill my brother." A moment later -- 
+A.  	No. 
+Q.  	Please listen and you will get the opportunity in a moment.  I ask one final question.  I just want a yes or no.  This is the question then.  "Have you ever alleged that anyone killed your brother, the one who fled with you to the hospital with an axe?  Have you ever alleged that, yes or no?"  And again you gave an answer -- we don't give an answer.  And we have one final go, "have you ever made an allegation that anyone killed your poor brother who fled with you to the hospital, at the hospital with an axe, yes or no?"  This is your answer:  "I never saw my brother being killed by an axe.  I don't know where you are getting this information from.  Now, was that a lie? 
+A.	Mr. Hooper, when I came here the last time, all I remember is that I asked you for the original of the document and you were unable to give it to me.  That is all.  I also remembered that you raised the matter of the rape and that is where we ended.  So I don't know where you got all this from. 
+Q.	That was my last question.  Let's go back, just two questions to your answer, "I never said Gatera used an axe to kill my brother.  I said that he put them into a vehicle, but I never said that Gatera used an axe to kill my brother."  Why did you give that answer to the Chamber? 
+A.	Mr. President, I would like to apologise because you asked me to answer the questions without going overboard.  All I remembered is that I have asked you for the original of that document.  I would not say anything else if I was sure that in the document, it indicated that Gatera had killed my brother.  I would not have neglected to say that.  You must understand me.  I never said that it was Rwamakuba who killed my brother.  I have always said it is Gatera who killed my brother.  I do not believe that Is have ever accused anyone else of killing my brother, apart from Gatera.  
+MR. HOOPER:
+No further questions, Your Honour.
+MR. PRESIDENT: 
+	Thank you, Mr. Hooper.  
+
+	Mr. Morley, what's your position of re-examination?  
+MR. MORLEY: 
+	Well, Your Honour may not be happy to hear that I do have some re-examination.  
+MR. PRESIDENT:  
+	About how long? 
+MR. MORLEY: 
+	It's difficult to gauge.  If I was in England, it would be 15 minutes.  So I guess that might mean an hour. 
+MR. PRESIDENT: 
+	So you are suggesting that we do it tomorrow morning?  
+MR. MORLEY:   
+	If Your Honour pleases.  
+MR. PRESIDENT: 
+	I don't think we have any choice, but to allow you to start tomorrow morning.  
+
+	Madam witness, I'm afraid you have to come back tomorrow morning, but it is coming to the end of your examination and you will resume at quarter to nine tomorrow.  We will take the adjournment as at now.  I should remind you as I've tried to remember to do on every adjournment, that during this or any other adjournment, you are still a witness before this tribunal and you should not discuss the case with anybody.  We take the adjournment now. 
+	(Court adjourned at 1830H)
+	(Pages 73 to 84 by Sheriffo Jammeh)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+	We, Jean Whalen, Judith Kapatamoyo. Haruna Farage, Rex Lear, Wendy Molnar, Sherri Knox, 
+	Jean Baigent and Sherrifo Jammeh, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+	We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+	___________________________	Jean Whalen
+
+	_____________________________	Judith Kapatamoyo
+
+	______________________________	Haruna Farage
+
+	______________________________	Rex Lear
+
+	______________________________	Wendy Molnar
+
+	______________________________	Sherri Knox
+
+	______________________________	Jean Baigent
+
+	_____________________________	Sherrifo Jammeh
+
+
+
+
+
+
+
+
+	RWAMAKUBA		WEDNESDAY, 24 AUGUST 2005 
+
+JEAN WHALEN - ICTR - TRIAL CHAMBER III - page 9
+
+	RWAMAKUBA	WEDNESDAY, 24 AUGUST 2005
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 21
+
+	RWAMAKUBA		WEDNESDAY, 24 AUGUST 2005 
+
+HARUNA FARAGE - ICTR - TRIAL CHAMBER III - page 28
+
+	RWAMAKUBA		WEDNESDAY, 24 AUGUST 2005 
+
+REX LEAR - ICTR - TRIAL CHAMBER III - page 36
+
+	RWAMAKUBA	WEDNESDAY, 24 AUGUST 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 41
+
+	RWAMAKUBA	WEDNESDAY, 24 AUGUST 2005
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 61
+
+	RWAMAKUBA	WEDNESDAY, 24 AUGUST 2005
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 71
+
+	RWAMAKUBA		WEDNESDAY, 24 AUGUST 2005 
+
+SHERIFFO JAMMEH - ICTR - TRIAL CHAMBER III - page 79
+
+	RWAMAKUBA		WEDNESDAY, 24 AUGUST 2005
+
+ICTR - TRIAL CHAMBER III
+

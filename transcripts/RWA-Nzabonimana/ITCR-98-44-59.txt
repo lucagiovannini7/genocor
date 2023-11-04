@@ -1,0 +1,1761 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44A-T	THE PROSECUTOR
+CHAMBER II	OF THE TRIBUNAL
+	v.
+	JUVÉNAL KAJELIJELI
+
+
+1 APRIL 2003
+0905H
+CONTINUED TRIAL
+
+Before the Judges:
+	William H. Sekule, Presiding
+	Winston Churchill Matanzima Maqutu
+	Arlette Ramaroson
+
+For the Registry:
+	Mr. John Kiyeyeu
+	Mr. Abraham L. Koshopa
+
+For the Prosecution:
+	Ms. Ifeoma Ojemeni
+
+For the Accused Juvénal Kajelijeli:
+	Mr. Lennox S. Hinds
+	Mr. Nkeyi Makanyi Bompaka
+
+Court Reporters:
+	Ms. Geraldine O'Loughlin
+	Ms. Sithembiso Moyo
+	Ms. Judith Baverstock
+	Mr. Rex Lear
+	Mr. Petrus Chijarira
+
+
+I N D E X
+
+WITNESS/ES
+
+For the Defence:
+WITNESS MLNA
+Cross-examination by Ms. Ojemeni (continued)	6
+Re-examination by Mr. Hinds	44
+
+WITNESS FMB
+Examination-in-chief by Mr. Hinds	67
+
+EXHIBITS
+Prosecution Exhibit No. 29	40
+Defence Exhibit No. 47	47
+Defence Exhibit No. 48	69
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+The proceedings are called to order.  Could the Registry introduce the matter coming before the Trial Chamber this morning, please?
+MR. KIYEYEU:
+Thank you, Mr. President. 
+
+Trial Chamber II of the International Criminal Tribunal for Rwanda, composed of Judge William H. Sekule, presiding, Judge Winston Churchill Matanzima Maqutu and Judge Arlette Ramaroson, is now sitting in open session, today, Tuesday, the 1st of April 2003, for the continuation of the Defence case, when Prosecution Counsel, Ms. Ojemeni, will continue with the cross-examination of Witness MLNA (DW25) in the matter of the Prosecutor versus Juvénal Kajelijeli, Case No. ICTR-98-44A-T.
+
+Thank you, Mr. President. 
+MR. PRESIDENT:
+Thank you, Mr. Kiyeyeu for the registry.
+
+May we have the appearance of the parties starting with the Prosecution, if we may, for the record, please?
+MS. OJEMENI:
+Good morning, Your Honours.  Ifeoma Ojemeni and Dennis Muhbura for the Prosecution. 
+MR. PRESIDENT:
+Thank you, learned counsel.
+
+May we also have the appearance of the Defence for the record, please?
+MR. HINDS:
+Lennox Hinds.  Good morning, Your Honours.  Lennox Hinds, representing Mr. Kajelijeli, assisted by Professor Bompaka, and Emilien Dusabe, who is an interpreter. 
+MR. PRESIDENT:
+Thank you, learned counsel. 
+
+Witness MLNA, the Trial Chamber reminds you of the solemn declaration you made yesterday, and that you'll continue with your testimony today on that same solemn declaration.  Okay. 
+THE KINYARWANDA INTERPRETER:
+Witness asks if he must repeat his solemn declaration.
+
+MR. PRESIDENT:
+No, we are just reminding you of that solemn declaration and that you will continue with your evidence on that solemn declaration you made yesterday.  You don't have to repeat it. 
+THE WITNESS:
+(Not interpreted) 
+MR. PRESIDENT:
+Okay.  Good.  Yes. 
+MR. HINDS:
+Your Honour, before we proceed, there's just a couple of housekeeping matters that I would like to bring to the attention of the Chamber, because we are operating under very tight time constraints.  And we were on the 29th served with a notice from the Prosecutor of a rebuttal case that they intend to put on with respect to alibi, and there are some documents which are ineligible (sic) -- that is, I have just been informed by Mr. Kajelijeli, there are some documents that are in Kinyarwanda that he cannot read because of legibility.  Professor Bompaka will  bring it to the attention of the Prosecutor, but I was just informed this morning that he's trying to read.  These documents are alleged confessions, and some of the pages, I don't know if it's just in copying that they were ineligible or just in the -- specifically in the original documents that they are also ineligible -- illegible. Then he will also take up with the Prosecutor the problems with some designations, whether -- we are a little bit confused whether the pseudonym is GNL or GNJ, or whatever it is.  
+
+But of a more substantive nature, we intend to submit, as we have in the past, a request for prior statements of some of these people, because it's a continuing problem in this trial.  I don't know if it's in other trials, but there are detainees who are being called and we know for a fact that these people have been interviewed, these particular people have been interviewed at least six times, going back to 1999, in Rwanda, and we have indexes of the interrogatories that were taken of these people.  And so we are going to reduce that to writing, but, again, because we are in this time constraint, we are just within days of them putting on a rebuttal, and we have just received the information.  
+
+The problem that we are having now is that we want -- we want everyone to be on notice that these are the problems, that they are detainees, we know that there are prior statements, we don't know how this is going to go forward, but if they are going to testify at all, we need the prior statements.  We know, and we can produce the index of the actual interrogatories where these people were interviewed, at least six times each of them.  And, I mean, we just -- in fairness we just need to have that information.  We can't go forward constantly trying to, on our side, hire experts.  I mean, it is an unfair burden being put on us.  We are not calling these witnesses.  The Prosecutor is calling them, and they are obligated if they are their witnesses; they know their prior statements.  The authorities in Rwanda are submitting some statements and not submitting the others.  And this is unfair to us. 
+
+So, we will be putting this in writing, requesting of the Prosecutor this information, copying the Trial Chamber, but because of the constraints of time we just want to alert the Court to some of these potential problems as we are going forward.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Your Honour, to respond briefly.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+My learned friend has touched on three issues.  Rebuttal -- the issue of rebuttal, we deferred it to discuss or to bring it to the attention of the Court tomorrow when we will be arguing other motions in order to move this -- the examination of this witness forward.  Um, but I don't need to touch on that, but I will touch on that tomorrow morning if it's convenient to the -- subject to the confidence of the Court. 
+
+As regards the legible documents, we handed over exactly what we got from the Rwandan authorities, and my learned friend is aware that these documents are not in our custody.  We make requests through Rwandan authorities and whatever we get, is what we submit to -- or we disclose to our learned friend.  This time around we were lucky to get the confessional statements of two witnesses who will be coming to testify in our rebuttal case, and we handed over those statements in exactly the same form that we got the statement to the Defence.  So we don't have any prior statements, and what we have, we have already given to the Defence.  And that's what I have to say on the issue of prior statements. 
+
+So, in effect, Prosecutor has handed over all the documents we have in respect of all the witnesses, so far, in this case to the Defence. 
+MR. PRESIDENT:
+Yeah, we will see how things develop, but I think all the Trial Chamber can say at the moment is that what the Defence have stated, if there is in any way, by way of cooperation, the Prosecution would be able to help in dealing with some of the problems that have been raised, that can be done.  If indeed the documents are not readable -- we don't know; we haven't seen them -- then the same source could be asked to provide documents that within the limited time we have as a matter of urgency to provide documents that can be easily read, if they are completely not readable.  I hope in your exchange with the Defence on this matter you can -- you know, this aspect can be looked into.  Counsel? 
+MS. OJEMENI:
+Yes, Your Honour.  Thank you.  What I may add, is that we have continuously requested for the Rwandan government to give us the prior statements of some of these statements, like -- I mean, some of these witnesses, and we've somehow been running into difficulties.  And if you recall last year, April, the Prosecutor had undertaken to discuss with the Rwandan government to see -- to explore ways and means of procuring these statements from the authorities.  We've done that; even last two weeks we did that, and we still have not got response in respect of some of these statements.  So we'll continue to do that and we are prepared to assist in this regard. 
+MR. HINDS:
+Your Honour, and I don't want to take any more time on this, but there is a question of fairness.  I mean, there's just a question of fundamental fairness.  The Prosecutor, they are bringing witnesses.  Suddenly we have confessions.  The confessions that they have now -- and you'll see them later on, but the confession, the alleged confessions that they have are confessions that supposedly were made last year.  These are confessions that help their case.  The statements that do not help their case, the Prosecutor -- or the authorities in Rwanda are not providing them.  
+
+Now, it cannot be one-sided, and this Tribunal must step in and say, "Look, if you cannot give balanced statements, then the witnesses are not going to be able to testify".  Because what we have is, the witnesses are coming, they are testifying and we are trapped in the situation of trying to get statements.  Then if we get the statements through our own sources, they say they are a fabrications.  Then we have to try to authenticate them and they are not even willing to help the Chamber by saying, "Okay, these are the original documents and this is why they are forgeries".  
+
+And so we have an unbalanced, unfair presentation.  And that's all we are saying.  And the Court should, in fact, if there cannot be cooperation, in all fairness, the witnesses should not be testifying if -- and the witnesses are being called by the Prosecution.  We cannot just simply go forward and say, "Okay, it will be resolved later on", because it isn't being resolved.  And the whole proceedings are being tarnished with respect to those witnesses.  
+
+And we are under a short time constraint.  I am bringing this problem; it's a recurring problem.  And I understand the Prosecutor is saying that there's a continuing problem with cooperation by the authorities in Rwanda.  But they cannot selectively submit documents that they think will help and in other -- and if they are documents that they think will hurt them, not submit it.  I mean, this Trial Chamber has to make the judgement in terms of what to accept in terms of all of the evidence that is before us. 
+MS. OJEMENI:
+Your Honour, just to clarify an issue here.  The confessional statements that we disclosed to the Defence we received directly from the witnesses.  These were not given to us by Rwandan government per se.  The witnesses have copies and we authenticated them.  They are stamped by the -- I mean, they gave it to us the way they submitted it and received; is a copy of what was submitted and acknowledged by the Rwandan government.  That's what we tendered, and the witnesses will testify to that fact.  
+
+The Rwandan government, we have continued to make requests.  Two weeks ago, like I said, we did request for the statements of all the documents that are relevant to um, to this case, from the Rwandan government, just like the Trial Chamber had ordered last year, and also in respect of the new witnesses that are coming, and we have continued to experience difficulties.  And I personally submitted this, I personally discussed with the authorities, and still I did not get them.  I even, as of yesterday, I telephoned our Kigali office and requested them to still follow up.  So we are doing all we are to ensure that we get them.  We are equally as anxious to get this thing sorted out for once and for all.  We are here for justice and we want justice to be done in this case.  So in the interests of justice, we are doing the best that we can to ensure that these documents are received -- I mean, got from the right authorities, that is the Rwandan government.  
+
+So I wouldn't want my learned friend to think that we are doing selective disclosure here.  What we have, we have really disclosed to the Defence. 
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Okay.  We take note of the observation made by counsel, and where there is -- where there is the possibility of cooperating and sorting out of these issues, it should be done. 
+
+Well, the matter has been brought before the Trial Chamber, if at all, and the issues shall be dealt with in a formal way.  So we note these observations. 
+MS. OJEMENI:
+Thank you, Your Honour.  May I proceed with my cross-examination?
+MR. PRESIDENT:
+Yes, we'll continue with the cross-examination of the witness.
+MS. OJEMENI:
+Your Honours, I will be conducting this cross-examination both in closed session and open session, but I would start with open session and close with closed session if it's convenient by the Court. 
+
+Yesterday we were in closed session.
+MR. PRESIDENT:
+Yesterday we were in closed session at the time we adjourned. 
+MS. OJEMENI:
+Yes, Your Honour.  But for the benefit of the public, I would want to conduct the first phase of cross-examination in open session.
+MR. PRESIDENT:
+In open session.  All right. 
+MS. OJEMENI:
+May I proceed, Your Honour?
+MR. PRESIDENT:
+Yes.
+WITNESS MLNA
+CROSS-EXAMINATION (continued)
+BY MS. OJEMENI:
+Q.	Witness, um --
+MR. PRESIDENT:
+Maybe to advise the witness, that we are now in open session.  He should be careful not to mention names of places and people who have connection to your identity.  Be careful not to do that.
+BY MS. OJEMENI:
+Q.	Witness, ESTB is also known as Busogo College Saint Joseph, isn't it?
+MR. PRESIDENT:
+Busogo?
+BY MS. OJEMENI:
+Q.	Busogo College Saint Joseph, isn't it? 
+A.	I don't understand your question clearly. 
+Q.	Another name for ESTB is Busogo College Saint Joseph, isn't it? 
+A.	Yes, that's correct. 
+Q.	ESTB is in Busogo cellule, Busogo secteur and Mukingo commune; is that so? 
+A.	Yes, that's correct. 
+Q.	And Rwankeri is in Busogo secteur in Mukingo commune; isn't that correct?
+A.	Yes, that's correct. 
+MS. OJEMENI:
+Can the witness be shown Defence Exhibit 46?
+BY MS. OJEMENI:
+Q.	You've indicated ISAE -- a road in front of ISAE institute.  Are you saying that on the right there's a road that you've indicated, you wrote "Busogo" and then "ISAE" is in front of it -- I mean, and this road is in front of ISAE.
+MR. HINDS:
+Your Honour --
+MR. PRESIDENT:
+Can we have the sketch screened, please, so that all of us can see from the same document?
+MS. OJEMENI:
+It's already showing on the --
+MR. PRESIDENT:
+It was not on the --
+MS. OJEMENI:
+Oh, okay, Your Honour.
+MR. PRESIDENT:
+And, the witness, can you use the screen?  Perhaps it might be easier.
+BY MS. OJEMENI:
+Q.	Witness, on the right of this sketch, there's a road, Busogo, Nyabirehe; is that correct?
+A.	That's right.  I can see it. 
+Q.	And is -- this road is in front of ISAE institute, isn't it? 
+A.	Yes, that's correct.  The road is in front of ISAE.
+Q.	This road leads to Busogo parish, isn't it (sic)? 
+A.	Yes, the road -- the road leads to Busogo parish. 
+Q.	And while travelling on this road, going to Busogo parish, you get to a point where the road divides Rwankeri and Busogo cellules; am I correct? 
+A.	When you take that road, of ISAE, what I remember is that you reach a point where it runs across the road which goes to Byangabo.  And when you go further on, you reach the road which goes to Busogo parish and the ESTB, and when you go further up, you go to Nyabirehe.
+Q.	Yes, but on this road, while going to Busogo parish -- you are now facing the direction of Busogo parish -- you get to a point where right is Rwankeri and left is Busogo; am I correct? 
+THE KINYARWANDA INTERPRETER:
+The witness says he doesn't understand the question clearly.
+BY MS. OJEMENI:
+Q.	Witness, my question is this: you've indicated the road -- you've asserted that this road in front of ISAE -- that -- you've asserted that this road leads to Busogo parish; am I correct? 
+A.	Yes, you're correct.
+Q.	When you're going to Busogo, you are now leaving ISAE, going towards Busogo parish, on this road.  You get to a point where on the right you find Rwankeri cellule, left of it is Busogo cellule; can you recall that? 
+A.	Yes, I recall it. 
+Q.	Okay.  Now, can you indicate --
+MS. OJEMENI:
+Please can the witness be given the sketch that he was -- the photocopy of Defence Exhibit 46 -- is that the one on there? 
+
+Your Honour, I would like the witness now to come to the projection (sic) to indicate for the benefit of the Court.
+MR. PRESIDENT:
+Yes, can the curtains be drawn to enable the witness to move from his -- the witness box to the projector. 
+MR. HINDS:
+Point of information, Your Honour.  The document that is now on the screen, what is the identification on that?  The document that's on the screen, is that D46 or is it some other identification?
+MR. PRESIDENT:
+D46.
+MS. OJEMENI:
+A copy of D46.  I'm yet to tender it and give it an identification. 
+MR. HINDS:
+Okay.  So now we are going to the original of D46, is that right?
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Photocopy.  We have made some markings --
+MR. HINDS:
+Counsel, I understand that.  The question I'm asking is, just for clarification of the record.
+MR. PRESIDENT:
+This is a copy. 
+MR. HINDS:
+All we know it now is copy of D46.
+MS. OJEMENI:
+Yes.
+MR. HINDS:
+Okay.
+MR. PRESIDENT:
+Yes, it's not yet tendered.
+MR. HINDS:
+All right.
+MS. OJEMENI:
+Yes, Your Honour, and that's what I have been referring to.  I've been referring to the document as copy of D46 with markings on it.
+BY MS. OJEMENI:
+Q.	Could you indicate the Rwankeri that we have just discussed on the side of the road that you have marked Busogo to Nyabirehe --
+MR. PRESIDENT:
+You have the original document?
+MR. HINDS:
+What are we dealing with?  This is the -- just so that we are clear.  Are we now going to the original of D46 without the "B" at the bottom or the "X".
+MR. PRESIDENT:
+No, no, no.  You can't tamper with -- sorry, I beg your pardon. 
+MR. HINDS:
+Yeah.
+MR. PRESIDENT:
+Exhibit 46 --
+MR. HINDS:
+Yes.
+MR. PRESIDENT:
+-- as it stands --
+MR. HINDS:
+Right, does not have a "B" at the bottom.
+MR. PRESIDENT:
+It cannot be -- it cannot be -- does not have a "B" -- 
+MR. HINDS:
+Absolutely.
+MR. PRESIDENT:
+-- at the bottom, and that's why we are trying to affirm that that should never be mixed up.
+MR. HINDS:
+Yeah, but just for the record, I thought the witness now is going to the original, which is D46.
+MR. PRESIDENT:
+No, no, no.  It is still 46.
+MR. HINDS:
+Copy.
+MR. PRESIDENT:
+A copy of 46.
+MR. HINDS:
+Oh, she's still with it?
+MR. PRESIDENT:
+Yeah.
+MR. HINDS:
+Okay.  All right.
+MR. PRESIDENT:
+This is important because they should not be mixed up --
+MR. HINDS:
+Absolutely.
+MR. PRESIDENT:
+-- so that a formal exhibit is introduced with some other elements.  It is a photocopy. 
+MR. HINDS:
+Okay. 
+MR. PRESIDENT:
+This is a copy of Exhibit D46. 
+MS. OJEMENI:
+Your Honour, for --
+MR. PRESIDENT:
+Yes, go on. 
+MS. OJEMENI:
+-- the benefit of the Court, this exhibit we used yesterday is a photocopy of Defence Exhibit 46, and we already have "A", "B", "C" marked on it. 
+MR. PRESIDENT:
+We have a "B?"
+MS. OJEMENI:
+We have a "C".
+MR. PRESIDENT:
+No, there's no "C".
+MR. HINDS:
+Where's the "C" and where's the "A"? 
+MS. OJEMENI:
+We have "X".
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+We have "X", we have "B".
+MR. PRESIDENT:
+Yes. 
+
+We have X and B.  Those are the extras on this --
+MS. OJEMENI: 
+Your Honour, we also have arrows.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Yes.
+MR. PRESIDENT:
+Under "boutique".
+MS. OJEMENI:
+Because I wanted "C" and I was advised to use arrows.
+MR. PRESIDENT:
+No.
+MR. HINDS:
+No, no no.
+MS. OJEMENI:
+I'd wanted to mark "C", and my learned friend said it would be better to use arrows to indicate.  The records are very clear.
+MR. HINDS:
+Yes, but no arrows were used, counsel.
+MS. OJEMENI:
+We used arrows.  Do you want to see it, please?
+MR. HINDS:
+Oh, come on.
+MR. PRESIDENT:
+I think the "C" was with respect to a different matter.  It was being proposed -- you were proposing, counsel, that the area which is Busogo market be marked "C", and then, of course, we went to the definition of -- going by the demonstration the witness made with regard to the area from part of his signature to the end.  So that was where you had proposed that maybe "C" be put. 
+MR. HINDS:
+Your Honour, as I recall, the Prosecutor wanted the witness to indicate further to his testimony where he was circulating.
+MR. PRESIDENT:
+Yes.
+MR. HINDS:
+Okay.  The witness went to the chart and went from where the signatures were --
+MR. PRESIDENT:
+Yes.
+MR. HINDS:
+-- and he went back, and so on.  And she said, put "C", and we said -- I said it would be better to put arrows, but that never was done. 
+MR. PRESIDENT:
+Yes.
+MR. HINDS:
+And nor was "C", in fact, put there because it wouldn't make much sense.  And so the Court then instead had the witness describe, and the Court described into the record, what the direction was with respect to circulation.  That is what was done. 
+MS. OJEMENI:
+Your Honour, the record is very clear on this issue.  At some point when I asked the witness to indicate what items that were sold in the shops, that where he has "boutique" indicated --
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+-- and that's why we used arrows, and they are there.
+MR. PRESIDENT:
+Yeah.
+MS. OJEMENI:
+-- so the records are very clear.
+MR. PRESIDENT:
+I don't think there's anybody disputing that. 
+MS. OJEMENI:
+That's the issue of arrows; I'm referring to arrows. 
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+So we are now going to the fourth marking now.  I would like the witness to indicate the area where Rwankeri, that he has just testified on, is, in terms of the road Busogo, Nyabirehe. 
+THE WITNESS:
+Though I don't know what was the limitation of Rwankeri cellule, but what I know that the area which was called Rwankeri is this area which was called Mubututsi, because the Tutsi were the majority of the people living there, and you would push on to the point that I'm showing, but I cannot restrict it to one single point because I don't know the limitations of the cellule.  But I know all the part that I'm showing was a part of cellule Rwankeri.
+BY MS. OJEMENI:
+Q.	Could you indicate Rwankeri by writing Rwankeri.  It doesn't matter, just the area, just mark Rwankeri, write Rwankeri, indicate Rwankeri in that portion and then Busogo on the other side. 
+MR. HINDS:
+Objection, Your Honour.  That is not the witness's testimony.  Objection, Your Honour.  The Prosecutor cannot, in fact, misconstrue the witness's testimony, because the witness has not indicated so far whether or not the other side is Busogo; that was what she said.  He has said that he does not know the limits of Rwankeri.  The area that he in fact designated with the houses, clearly he knows that to be the place where Tutsis were, and called Rwankeri.  She is asking him to do two things: one, write "Rwankeri" there, and on the other side "Busogo".  That is not the witness's testimony. 
+MS. OJEMENI:
+Your Honour, my learned friend should allow me to conduct my case.  Your Honours, are not jurists.  Please allow me to do my case.  The transcript is very clear on this.  If I'm wrong, the Judges will correct me. 
+MR. PRESIDENT:
+Go on, counsel. 
+MR. HINDS:
+Your Honour.  I have to correct -- I have to protect the record in terms of my client.  I am not trying to obstruct the Prosecutor, but there are rules, and I am insisting that certain rules be followed.  She cannot, in cross-examination she cannot, in fact, mischaracterise what the witness is saying and ask him now to put on a document something that he has not testified to. 
+MS. OJEMENI:
+Your Honour, my learned friend can object and state his reasons for objecting, but not to testify as well, which is what he is doing now. 
+MR. PRESIDENT:
+No, just a minute. 
+
+Move stage by stage.  If you want the witness to put "Rwankeri" there that he has indicated, he should go ahead and do it.  And certainly counsel is entitled to follow up; not to tell the witness what he has to do, but to follow up and clarify which is the area the witness in answer to the question of counsel would be Busogo cellule, and that is what he is doing. 
+MS. OJEMENI:
+Your Honour.  Thank you, Your Honour, for clarifying this issue.
+
+BY MS. OJEMENI:
+Q.	Witness, you had testified before coming to the projector that part of the road called Busogo, Nyabirehe, that you have indicated on Defence Exhibit P46 (sic), that while travelling on that road, at a certain point you reached where the road divides, more or less, Busogo and Rwankeri; am I correct?  Before you indicate, could you answer?
+MR. HINDS:
+Your Honour, she should allow the witness to, in fact, testify as to what he said. 
+MS. OJEMENI:
+Your Honour, he was about --
+MR. PRESIDENT:
+Let the witness -- I think, counsel, you had started off with your question, push, go on, and maybe give opportunity for the witness also.  You had reached the stage whereby the witness was about to indicate the area that you called Rwankeri.
+MS. OJEMENI:
+Yes, Your Honour, but it appears he didn't understand what I was saying and I was now clarifying the issue because there were objections and I was now drawing the witness's attention to what he said earlier. 
+MR. HINDS:
+Your Honour, if the witness doesn't understand, he will say that.  He has said that before.  If he doesn't understand, he will say it.  The witness went to try to explain what he has said and she has stopped him and said I want you to answer.  That is what happened and that is why I objected. 
+MR. PRESIDENT:
+Okay.  Let counsel put his (sic) question. 
+MS. OJEMENI:
+Your Honour, because if he answers my question, then I ask him the follow-up question.  I don't want him to conduct my case or direct me on what I want to do.  I am conducting my case.  I have to tell him what do to.  I asked a question.  If he answers, then I'll ask him to demonstrate what he has -- his answer on the sketch. 
+MR. PRESIDENT:
+You see, counsel, the witness had already wanted to indicate the area that he called Rwankeri.  Okay.  And he was in the process of doing that.  In order not to come back to the same thing, can that be done and then you can go further and whatever -- raise any question that you want to raise. 
+MS. OJEMENI:
+As the Court pleases.
+MR. PRESIDENT:
+Yes.
+BY MS. OJEMENI:
+Q.	Witness, can you indicate on that sketch the area that you have described to this Court is called Rwankeri cellule.  Just indicate by writing "Rwankeri".
+A.	I told you that when you leave the road from Byangabo and go up, you would reach a point, which I'm showing -- but it was simply approximating; I cannot tell you that the limits were this -- you would reach a point that was inhabited by Tutsis.  There was a path and many other through-paths, and I know that the place I'm showing was called Rwankeri.  But I don't know what were the limits of the cellule. 
+MR. PRESIDENT:
+Yes.
+BY MS. OJEMENI:
+Q.	Now, witness, I'm directing your attention to the road, Busogo, Nyabirehe.  Could you demonstrate to the Court --
+MR. PRESIDENT:
+Maybe hold off that question, counsel, so we don't have to come back to it.
+MS. OJEMENI:
+The witness had pointed out the area between Busogo road -- the area between Busogo -- the second Busogo road.  Your Honour, for this purpose we mark the first road that he has pointed at, where he indicated Busogo, as "1", and then the second road, "2", so when I'm describing the second road that is on Ruhengeri. 
+MR. PRESIDENT:
+Sorry?
+MS. OJEMENI:
+The witness is pointing us the first road that is --
+MR. PRESIDENT:
+Busogo road on the left-hand side.
+MS. OJEMENI:
+There's another Busogo, Nyabirehe.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Nyabirehe.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+So for the purposes of clarification, can we mark the first road as road 1 where that joins Busogo, Nyabirehe, as road No. 1, and then the Busogo, Nyabirehe that touches on Ruhengeri, is on top of the road Ruhengeri, we mark it road No. 2 so that I can describe it properly.
+MR. PRESIDENT:
+Yeah. 
+MS. OJEMENI:
+Would that be fair? 
+MR. HINDS:
+I have no objection to do it, but I don't think that we can do it.  I don't think we can do it.  I think the only person who can testify is the witness.  I think we can ask the witness to do it. 
+MS. OJEMENI:
+I didn't get what my learned friend said.
+MR. HINDS:
+I'm saying that I have no objection to that being done, counsel, but I think we cannot do it, we cannot mark the document.  I think the witness -- you can have the witness do it. 
+MS. OJEMENI:
+For purposes of clarification, I can indicate what should be marked on the road.
+MR. HINDS:
+Yes, counsel --
+MS. OJEMENI:
+That's what I'm doing.  I'm not marking it, it's the witness that will mark it.
+MR. HINDS:
+Oh, I thought you were saying, can we do it.
+MS. OJEMENI:
+I'm asking for the Court's indulgence --
+MR. HINDS:
+I have no objection, Your Honour.
+MS. OJEMENI:
+-- to mark it.  So I direct the witness to mark it.
+MR. PRESIDENT:
+Okay.  The witness can be asked to mark 1, as you proposed, counsel, Busogo.  You can describe it differently, but if you want that marking done in order to move forward, the witness can mark 1 as you propose and the other one 2. 
+MS. OJEMENI:
+Thank you, Your Honour.
+MR. PRESIDENT:
+That can be done.
+BY MS. OJEMENI:
+Q.	Witness, can you mark the road where you -- can you mark the road where you've written "Busogo".  This road adjoins the road Nyabirehe -- that goes to Nyabirehe and Busogo?  Can you mark that this road, road 1? 
+A.	I didn't say that the road I'm showing is the one joining Busogo and Nyabirehe.  When I drew this sketch I was approximating, and I would like to give further explanations as regards to this sketch.  The road I'm showing is the main road which joined Ruhengeri road and the Nyabirehe, but this one I'm showing is a small road and it was through the Byangabo centre, so I don't know which road you're referring to. 
+Q.	This road that you've described that is through Byangabo centre, could you mark it road 1? 
+A.	If you want me to mark it No. 1, I will do it, but what I would qualify is that it is not No. 1, it is the one joining Ruhengeri road and Nyabirehe because it was the main road.
+Q.	Okay, can we mark that No. 1.  Then we mark this second one that you've written "Busogo", No. 2? 
+A.	If you so wish, I will mark it. 
+MR. PRESIDENT:
+Yes, can you do that, please, witness.  All right.
+BY MS. OJEMENI:
+Q.	Yes.  Now, to describe the area that the witness has identified as Rwankeri, this area is between road 2 --
+MR. PRESIDENT:
+Busogo 2.
+MS. OJEMENI:
+Busogo 2.  Your Honour, if we use Busogo 2, there's a cellule called Busogo 2.  I don't know if that will be appropriate.  We'll use road 2, which I have described.  Is between road 2 and Mount Busogo, as indicated on the sketch. 
+MR. PRESIDENT:
+Can you have that confirmed by the witness?
+BY MS. OJEMENI:
+Q.	Can you confirm what I have said, witness?  Am I correct? 
+A.	As I told you in the start, I don't know what the exact limitation of Busogo -- of Rwankeri cellule, so I cannot tell for sure that cellule Rwankeri is between Busogo 2 road and Mount Busogo. 
+MR. PRESIDENT:
+Okay.  Yes.  Witness, would the blocks that you have indicated, appearing on road 2 as it is defined, and Mount Busogo be the area that you call Rwankeri?  The blocks, the various blocks that appear between that, are those areas -- are those blocks within the area that you call Rwankeri? 
+THE WITNESS:
+The area where I'm showing is Rwankeri.
+MR. PRESIDENT:
+Which one?  Would you repeat, witness? 
+
+THE WITNESS:
+(No interpretation)
+MR. PRESIDENT:
+Ah-hah.  So, before we go further, counsel.  The area the witness points to be -- according to his evidence, to be Rwankeri, would be the one, two, three, four, five, six -- one, two, three, four -- how would you define that, because the blocks, the blocks, the area covered by, you know, within the blocks, within the first, the first, the first -- would we call them the first six blocks from the road?  How would you define it, Professor Hinds and learned counsel?  We have all seen the area, the movement of his pen.
+MR. HINDS:
+Yes.  Your Honour, the witness has indicated that the area that he considers to be Rwankeri, Rwankeri cellule where there were Tutsis living, were the first six blocks --
+MR. PRESIDENT:
+Yes.
+MR. HINDS:
+-- left of the road 2 --
+MR. PRESIDENT:
+Yes.
+MR. HINDS:
+-- four on the top and two at the bottom.  Those are the areas, at least, that he used his pen --
+MR. PRESIDENT:
+Yep.
+MR. HINDS:
+-- to indicate.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Your Honour, I don't agree.  I don't agree, because the witness has not told this Court that this particular road divides Rwankeri into two.  He has not said so.
+MR. PRESIDENT:
+No, that is a different matter.  We are talking about the area that he says, according to him, was Rwankeri cellule. 
+MS. OJEMENI:
+Your Honour, the witness can circle it.  He can just use his red pen and circle that area.  He can circle it.  The problem is that this witness is just refusing to answer questions, and he's delaying -- I mean, I thought by now I would have gone far into my cross, and I can't -- I have just asked only two questions. 
+MR. HINDS:
+Your Honour, I object to the characterisation of this witness's testimony, because the witness is not attempting to be obstinate.  And I don't want to characterise counsel's question, but the fact of the matter is this witness, I think, is a cooperative witness, and it's unfair to try to characterise him as being anything but that.
+MS. OJEMENI:
+Your Honour, to move this case forward can we have the witness to circle this area?  It's very easy.
+MR. PRESIDENT:
+Okay, he can circle that. 
+BY MS. OJEMENI:
+Q.	Witness, can you circle the area that you have described as falls under Rwankeri?  Can you describe it -- circle it, can you just circle it for the Court? 
+A.	I do not understand the question well. 
+MS. OJEMENI:
+Your Honour, I seek your protection in this regard.
+MR. PRESIDENT:
+No.  Witness, counsel would like you to put a circle, the area within which -- the area -- indicating the area which you, according to you, you know, you know it to be Rwankeri, where the Tutsis lived, Rwankeri cellule or Rwankeri where the Tutsi lived, according to your evidence as you have already given.  Just give a circle, covering that area that you call Rwankeri where the Tutsi lived. 
+THE WITNESS:
+Although I may encircle this area, I told you that I do not know the exact limits, boundaries, of Rwankeri cellule.
+MR. PRESIDENT:
+Yes, we'll take note of that.  Just make a circle as you understand.  Okay.
+BY MS. OJEMENI:
+Q.	Witness, we now go over the road to Busogo, Nyabirehe. 
+MR. PRESIDENT:
+So the circle indicates the area the witness calls to be Rwankeri or Rwankeri cellule; is that correct?
+MS. OJEMENI:
+Yes, Your Honour.
+MR. PRESIDENT:
+So let the record so reflect.
+BY MS. OJEMENI:
+Q.	Witness, in your estimate, how many people lived -- how many Tutsis lived in this area that you've circled -- in Rwankeri?  In your estimate, how many Tutsis in April 1994 lived in this Rwankeri cellule?  Do you know? 
+THE KINYARWANDA INTERPRETER:
+Tutsis lived from where the witness has shown.  
+THE WITNESS:
+All that area was inhabited by Tutsi, but I cannot estimate their number because I do not know how many Tutsis lived in each of the houses there.  But the whole of this area was inhabited by Tutsis.
+BY MS. OJEMENI:
+Q.	Is it then your evidence that Rwankeri was full -- the inhabitants of Rwankeri were mostly Tutsi; am I correct? 
+A.	I do not know this because I never took census of the people living there.
+Q.	Is your evidence that there were many Tutsis in Rwankeri in April 1994, isn't it? 
+A.	Actually, in -- I know that the whole of this area was inhabited by Tutsis and there were many, but I cannot give you the exact number because I never took census in the Mukingo commune. 
+Q.	Is your evidence that it's easy, that everybody knows that Tutsis -- where Tutsis lived, in Rwankeri; is that correct? 
+A.	I do not understand when you say that "most people" knew.  Which most people are you referring to? 
+Q.	Is it correct -- is it fair to say that where Tutsis lived in Rwankeri was known by everybody? 
+A.	Do you mean the whole country, the whole world or the whole of the Africa?  I don't know what you are referring to.
+Q.	Within Mukingo commune it was easy to, in April 1994, to identify the residents of Tutsis in Rwankeri, isn't it? 
+A.	Yes, it was easy. 
+Q.	Now, witness, we move on to Busogo, Nyabirehe road, which we have numbered 1.  Is it your evidence that this road at some point divides Busogo and Rwankeri cellules; am I correct? 
+A.	I would like to tell you that what I know -- I know this road because I travelled along this road many times and I travelled along this road many times as well.  And even the footpaths that are here, I used them going to school, when I lived at Byangabo.  But I cannot affirm that this road forms the boundary, divides the cellule Byangabo -- I mean, cellule Busogo and cellule Rwankeri, because I did not know the boundaries of the cellule in this commune.
+Q.	You can take your seat, witness. 
+
+Witness, we are still on this road that is in front of ISAE institute.  This road leads to Busogo hills, isn't it? 
+A.	I have not understood the question well. 
+Q.	We are still on the road that you have indicated is Busogo, Nyabirehe, which we have numbered "1"?
+MR. PRESIDENT:
+Yes.
+
+BY MS. OJEMENI:
+Q.	And my question is, this road leads to Busogo hills; am I correct? 
+A.	When you take this road, it -- you -- it wouldn't lead you to -- actually, I have not understood what you mean by "Busogo hills".  But what I know is that this road leads to Nyabirehe and Rwinzovu and Shingiro.  So it leads to other secteurs up above and part of the forest.  So I do not understand what you mean by "Busogo hills". 
+Q.	Witness, you do understand what I have said.  You testified yesterday on the killings of Tutsis at Busogo hills, so you know the location --
+MR. HINDS:
+Objection, Your Honour, the witness is attempting to demonstrate, but we don't know what he is pointing to, and so between the Prosecutor and the witness, they may not be communicating on the same object.
+MR. PRESIDENT:
+Yes, that's true. 
+MR. PRESIDENT:
+If you are still addressing the sketch, counsel, maybe it's better the witness be given a seat so that we can see what he is pointing out or what he is being asked to point out. 
+MS. OJEMENI:
+Okay, Your Honour, but I am about rounding -- there's only one last question, but it's okay.
+MR. PRESIDENT:
+But it's important we know what is happening, because we cannot guess.
+MS. OJEMENI:
+Yes, it's important.
+BY MS. OJEMENI:
+Q.	Witness, can you come back --
+MR. PRESIDENT:
+Wait a minute.  Let the curtains be drawn first. 
+
+Yes, you can go on, now.  Wait a minute, yes, now.  Please go.  You can take a seat.  Yes, yes, counsel.
+BY MS. OJEMENI:
+Q.	Witness, my question is that this road that we've numbered 1, which leads to Nyabirehe, will also take you to Busogo hills; am I correct? 
+A.	If you take this road, as I explained, it continues and leads you to other secteurs near the forests.  There were also other hills up there.  I do not know if they are called Busogo hills.  When you talk of Busogo hills, I do not know if the hills up where this road leads to were also called Busogo hills.  There is only one hill that was called -- was named after Busogo, which is here.
+THE KINYARWANDA INTERPRETER:
+Where the witness has circled with his pen.
+MS. OJEMENI:
+Q.	The Mount Busogo you have indicated on this sketch, is it the Busogo hills that you testified about yesterday? 
+A.	I never said "Busogo hills".  I meant Mount Busogo, which is here.
+THE KINYARWANDA INTERPRETER:
+Where the witness is pointing with his pen.  
+THE WITNESS:
+Unless what I used means hills, but I meant this hill that is named after Busogo. 
+Q.	So is your evidence that, as far as you're concerned, this is called Mount Busogo, commonly known as Mount Busogo and not Busogo hills; am I correct? 
+A.	As far as I know, this is called Mount Busogo, as far as I know. 
+Q.	And is your testimony that all through your stay in Mukingo commune that you never heard the words "Busogo hills"; am I correct? 
+A.	For the time I stayed in Mukingo commune, I never heard of Busogo hills. 
+Q.	Thank you.  Can you have a seat. 
+MS. OJEMENI:
+Your Honour, can the Registry draw --oh.
+BY MS. OJEMENI:
+Q.	Witness, in response to a question put to you by -- by Kajelijeli's defence team, regarding the circumstances under which you saw people who called themselves as Interahamwes, you said that those people were -- wore funny uniforms to make sure that they were not recognised, and they walked with clubs and they were manning roadblocks.  Isn't that your evidence? 
+A.	No, that's not what I said. 
+Q.	Can you then tell the Court what you said? 
+A.	When I described what they wore, banana leaves and those were carrying clubs, you had not asked -- I had not been asked about the people who went to Mount Busogo.  You did not -- he has not put the question to me as to how the people went to Mount Busogo and Rwankeri, how they were dressed.  
+
+If I remember, you had asked me -- the question that had been put to me, I do not remember the exact question, but you had not asked me the question as to the people who went to Rwankeri and to Mount Busogo, so I -- indeed I said that I saw during that time, I saw many people in the area where I lived.  I saw people who used to wear banana leaves and who used to carry clubs, and the people were trying to disguise themselves, but I did not answer this -- I did not give this answer, saying that these were people going to Mount Busogo.  And so I did not say that the people went to Busogo Mount or Rwankeri were wearing such attires. 
+MR. PRESIDENT:
+That was not counsel's question.  Could you listen to the question carefully, Witness MLNA.
+BY MS. OJEMENI:
+Q.	Witness, a question was put to you by Kajelijeli's Defence team yesterday.  You were asked under what circumstances did you see the people who were called -- who called themselves Interahamwes. 
+A.	Mm-mmm.
+Q.	And you responded by saying that those people wore funny uniforms to make sure that they were not recognised, and they walked around with clubs and they were manning roadblocks; isn't that your evidence before this Chamber yesterday? 
+A.	When this question was being put to me, that is the answer I gave them. 
+Q.	Now, I'm directing your attention to roadblocks.  The roadblocks you referred to included the roadblocks in front of ISAE institute and communal office in Mukingo commune; isn't this correct? 
+A.	The roadblocks that I was -- that I was talking about, that I meant, these -- these massacres that took place in -- after the -- the massacres took place in Busogo.  As I explained, I went home where I was living and slept, so I was not able to do anything else, really.  Even in order for my father to come and take me, he had been informed that I was badly off; I was not doing well.  
+
+I remember that after three or four days, when he came to take me from Byangabo, the first roadblock that I saw was at Mukingo commune office, and there were soldiers who were staying at the hill opposite the commune.  That is what I saw.  Then we continued.  
+
+Would you like me to explain to you how many roadblocks I saw from the Byangabo up to my home or should I stop there?
+Q.	Yes, go on.
+A.	So I'll be telling you the roadblocks that I remember.  We continued, and the second roadblock -- we found the second roadblock at Musanze.  Another roadblock that I remember of, I found at Nyamugumba, in Kigombe commune, Ruhengeri.  Another roadblock that I remember was at Nyakinama.  Another roadblock that I remember, we found at Nyamutera commune.  Another roadblock that I remember, I found -- we found at the bridge called -- the another roadblock we found at the bridge at Mutubungo.
+Q.	Witness, all these areas were within Ruhengeri, aren't they? 
+A.	All these areas up to Mutubungo are in Ruhengeri.
+Q.	(Kinyarwanda translation continues)
+A.	Yes, Ruhengeri préfecture. 
+Q.	Can you tell this Court what happened when you got to this, to the Ruhengeri -- the roadblock in front of Mukingo communal office? 
+
+MR. PRESIDENT:
+Can we have the names spelt out, at least for the stenographers?  If you can hold your question, counsel.  
+THE WITNESS:
+(Not interpreted)
+MS. OJEMENI:
+Just hold on, hold your answer.
+THE KINYARWANDA INTERPRETER:
+There is Musanze M-U-S-A-N-Z-E; Nyamugumba, N-Y-A-M-U-G-U-M-B-A; Nyakinama, N-Y-A-K-I-M-A-N-A (sic), Nyakinama; Nyamutera, N-Y-A-M-U-T-E-R-A; Mutubungo, M-U-T-U-B-U-N-G-O.  There's also Kigombe, K-I-G-O-M-B-E.
+BY MS. OJEMENI:
+Q.	Witness, can you share with this Chamber your experience at these roadblocks? 
+A.	In general, when we arrived at these roadblocks, you would reach these roadblocks -- I do not know if I should tell you what I experienced at each roadblock or if I should just give you general information about all the roadblocks.
+Q.	I will then direct you, witness.  When you got there you were asked your ethnicity or your identity card, or identification, weren't you? 
+A.	When you reached a roadblock, for me I was asked my identity papers. 
+Q.	And when you informed them that you were -- when you disclosed that you were Tutsi -- Hutu, I'm sorry, you were allowed to pass; isn't that correct? 
+A.	I do -- I did not tell you that I told them I was Hutu.  They asked my father's identity papers.  He showed them his papers.  I was asked my papers.  I showed them my student's identity card and my student's identity card did not show whether I was Hutu or Tutsi.  And I don't think I told you -- I ever told you I was Hutu, Tutsi or Twa.  I didn't say this in my testimony.  
+
+And then after that, the vehicle we were moving in was searched and then we were allowed to move on. 
+Q.	Witness, you are Hutu, aren't you? 
+A.	Why would you like to know my ethnic identity?
+MR. PRESIDENT:
+Can you answer that question, witness? 
+THE WITNESS:
+For me, I'm of both.  My parents -- my father is Hutu and my mother is Tutsi, so I'm of mixed ethnic background.
+BY MS. OJEMENI:
+Q.	Witness, these roadblocks were set up with a view to identify Tutsis that were passing or that were still alive in April 1994 and thereon -- and thereafter, and kill them; isn't that correct? 
+A.	I do not know this because I was never at any -- stationed at any roadblock.  I didn't man any roadblock and I do not know the reason why these roadblocks were set up.  Reason that I saw that they had one -- the reasons I saw that they had been set up was that they were asking for identity papers, and I cannot have found that these roadblocks were set up in order to kill people, because I did not see any corpses at any of the roadblocks that I passed through. 
+Q.	Whom did you see at the roadblocks, manning the roadblocks? 
+A.	At Mukingo commune roadblock I found soldiers.  Just by that roadblock, towards the commune building, there were members of the population, but most of them were refugees who were staying there.  Then at Musanze the roadblock was manned by gendarme.  At Nyamugumba, it was a roadblock manned by soldiers.  At Nyakinama, the roadblock was manned by policemen and soldiers who were staying there.  At Nyamutera commune, this was -- the roadblock was manned by communal police agents, and at Mutubungo bridge, there was a roadblock manned by the population. 
+Q.	Witness, why did you tell the Court that the Interahamwes were manning the roadblocks? 
+A.	The reason why I say that at most of the roadblocks I found Interahamwe is that wherever you would pass along in a road you would find people who were wearing the attire as I described above, with clubs, spears and machetes, and those people used to call themselves Interahamwe, especially at the bridge of Mutubungo roadblock.  I found many members of the population of both sexes who were saying that they were Interahamwe and who were wearing the attire that I described earlier. 
+Q.	You just told the Court that you saw only soldiers and you didn't make any mention of the Interahamwe. 
+MR. HINDS:
+Objection, Your Honour.  That was not his testimony.  His testimony was that there was, at Mutubungo --
+MS. OJEMENI:
+The records are very clear on this.
+MR. HINDS:
+Counsel, I have a right to object.  His testimony was, at Mutubungo, it was manned by the population.  Now she's asking more specific, and he's describing that. 
+MR. PRESIDENT:
+Yes, that was his evidence with regard to Mutubungo.
+BY MS. OJEMENI:
+Q.	Witness, are you saying -- are you telling this Court that when you got to communal office of Mukingo commune that you did not see any of those people that you identified yesterday as Interahamwes at the roadblock? 
+A.	I told you that when I reached the Mukingo commune roadblock, I found soldiers who had been staying at -- on the hill just opposite the communal office, even before these events started.  I do not know when they reached or left this place, but there had been a military position on that hill.  And those are the ones that I found at that place.  And I also found members of the population, most of whom were refugees, who were staying at the commune office. 
+Q.	Witness, could you tell this Court why those people you saw would be carrying clubs at roadblocks -- and spears or weapons at roadblocks? 
+A.	Mainly these people who were carrying spears and clubs -- you know that the war was serious in many parts of the country, so you would find people saying that there are getting -- they were ready to face the enemy if he attacked, or to look for the enemy wherever he might be.
+Q.	And who are these enemies that you've just referred to? 
+A.	These were Inyenzi-Inkotanyi who had attacked Rwanda. 
+Q.	Who are these Inyenzis or Inkotanyis that you've referred to? 
+A.	I know that's how they were called; they had attacked Rwanda.  It is the people in power now. 
+Q.	Could you explain further for the Court who actually the Inyenzis -- what does the word Inyenzi refer to in Rwanda in 1994? 
+A.	Before, we were told that in the '60s -- I don't remember the exact year -- there were attacks in Rwanda, and among the people who conducted these attacks were -- called themselves Inyenzi.  And then even when they attacked again in 1990, they called themselves Inyenzi-Inkotanyi.  I -- that's how it was being called.  That's what they were being called.  I do not know, I cannot really exactly tell you what it meant, but that's how I understood.  That's what I heard them being called. 
+Q.	Witness, the word Inyenzi was used to -- was used to refer to the Tutsi populous, isn't that correct, in 1994? 
+A.	Inyenzi -- this word Inyenzi, I mainly heard of it among soldiers living in my area who were coming from the frontline and they would tell us that they had been fighting Inyenzi.  But as far as I know, the Tutsi were called Tutsis and not Inyenzi. 
+Q.	What ethnicity of -- at least what is the ethnicity of the soldiers or the people that were -- that were referred to, um, as Inyenzis -- in your own opinion, what's the ethnicity of these people that your neighbours had told you, were referred to as Inyenzis? 
+A.	According to what I -- they were telling us that they had been fighting Inyenzi, and if you ask him, "How are you?", he would say, "I'm just from Mutara, I've been fighting Inyenzi".  So I cannot tell you the ethnic group of the people they were fighting because I know that the people, all the ethnic groups were represented within this group that they were fighting. 
+Q.	Witness, I put it to you that Tutsis were called Inyenzis in 1994; isn't that correct? 
+A.	I'm not aware of this.
+Q.	Now, witness, we move on to the Mount Busogo -- the killing of Tutsis at Mount Busogo that you witnessed on the 7th April 1994.  About what time of the morning did this killing take place? 
+A.	It was after eight.  It was between eight and nine, but I cannot tell for sure the exact time. 
+(Pages 1 to 26 by Geraldine O'Loughlin) 
+
+	1030H 
+BY MS. OJEMENI:
+Q.	What time were you at Byangabo centre that morning before proceeding to Rwankeri and Busogo mountain; can you tell the Court? 
+A.	I arrived at Byangabo between 6:30 and 7:00.
+Q.	You told the Court, that when you got to Byangabo centre, you saw people in groups and these people were made up of elderly people, women, children, men and people from all walks of life; is that correct?
+A.	Yes, that is correct. 
+Q.	You proceeded to Rwankeri with some groups; is that correct? 
+A.	Yes, that is correct. 
+Q.	And these groups were made up of elderly people, women, men, children and youths; isn't that correct? 
+A.	At Byangabo -- as for the people who were at Byangabo, most of the people who went to Rwankeri, it was the youth and refugees who had come -- who had taken refuge there from Butaro, Cyeru and Byumba.
+Q.	You are telling this Court that no woman or elderly person participated in the killing of Tutsis at 
+Mt. Busogo; is that what you are telling this Court? 
+A.	I did not see any women killing people at Busogo.  As for the elderly people -- explaining to you what the people who were at Busogo -- there were many people there, but the people who were confronting the Tutsis on Mt. Busogo, it was mainly the youth from Byangabo and the refugees, and then afterwards soldiers came. 
+Q.	Now, Witness, you have told this Court of certain people you identified from this group that went to Busogo mountain.  You mentioned the names yesterday; Michel, Rukundo, Musafari, Niheli, Dusabe, what is their ethnicity?  These people are Hutus, aren't they? 
+A.	Yes, they are Hutu. 
+Q.	Witness, how long did the attack at Busogo mountain last? 
+A.	At Busogo mountain this attack took a long time.  The fighting took a long time at Mt. Busogo.  Actually, I could say that it was from after eight towards nine, up to after 12 p.m., they were still in this cellule burning houses; others looting property, and others killing people on this mountain.
+Q.	To which cellule are you referring to?  Let's get it clear.  Which cellule did you say they were in up to 12:00 killing Tutsis? 
+A.	It was in that area, this Rwankeri area, the area they used to say Tutsis lived as well as on that 
+Mt. Busogo. 
+Q.	How many Tutsis lived around Mt. Busogo? 
+A.	I do not know really because I never counted them, but I know they were many. 
+Q.	These groups were armed with weapons, bludgeons, spears, clubs, knives, stones, grenades, weren't they? 
+A.	Yes, some of what you have mentioned is true.  They had those weapons, but there are things which you have mentioned that are not true.
+Q.	Can you then tell the Court what weapons the groups had. 
+A.	Those people had traditional weapons including machetes, spears, clubs, stones and even sharpened sticks. 
+Q.	About how many Tutsis were on this mountain when you arrived, can you tell? 
+A.	I cannot estimate their number because the top of that hill was occupied by Tutsis.  So I cannot tell you the number, some were hiding within the stones that were there, others were standing, and so they were very many.  I cannot really estimate the number of Tutsis who were on that hill. 
+Q.	As the killing of Tutsis was progressing around the Busogo mountain, Tutsis were also being killed in Rwankeri cellule and Busogo Mountain environs; am I correct? 
+A.	No, that is not correct. 
+Q.	The killing started with Busogo mountain; is that correct? 
+A.	The killing that I saw started on Mt. Busogo. 
+Q.	Did you see the killing at Rwankeri, the killing of Tutsis at Rwankeri cellule? 
+A.	What I saw was the population -- members of the population, the soldiers who came later on.  After killing those people, those who survived the killings ran to their homes that I showed you on that sketch.  When they reached their homes, there were pursued and houses were burnt and the Tutsis inside killed, but I did not go close to know that so-and-so was killed in such and such a house.  But what I know is that they were killed in these houses, houses were destroyed and burnt.  So in this burning and destroying of the houses, when we realised the situation was very serious, I ran away with some other people and went to Byangabo. 
+Q.	Witness, you are telling this Court that you did not witness the killing in Rwankeri, but you knew that Tutsis were killed; is that correct? 
+A.	I did not say that I never witnessed these killings, because I was near there.  But what I told you is that I did not go inside the houses to see how they were being killed, who was killing them, but I was near the houses to the extent that I can tell you who went inside those houses and who killed them.  But I cannot tell you that I saw the acts of killing taking place.  But I did not say that I was not there, I was nearby. 
+Q.	Where were you in particular when the killings in Busogo hill took place?  Where exactly were you?  How far away were you from the killings -- from the mountain? 
+A.	I was near that Mt. Busogo because this Busogo Mountain is quite high, the Tutsis were up on the mountain and then in front of us there were people who were killing them, and we were behind those who were killing, but it was near.  I could see what was happening. 
+Q.	You did not participate in the killings?
+A.	No, I never took part in the killings. 
+Q.	You did not participate in the killings in Rwankeri? 
+A.	No, I never took part in the killings that took place in Rwankeri. 
+Q.	It is your evidence that you witnessed the killings in Busogo mountain and Rwankeri cellule; am I correct? 
+A.	I haven't understood the question well. 
+Q.	It is your evidence that you witnessed the killings of Tutsis in Busogo mountain and Rwankeri cellule; am I correct? 
+A.	The testimony that I am giving is that I saw the killings that took place on the Busogo mountain as well as the killings that took place at Rwankeri, which was called the area where Tutsis lived.  I do not know if the Busogo Mountain and Rwankeri are in the same cellule of Rwankeri, because I did not know the boundaries of that cellule. 
+Q.	Now Witness, after the killings -- before the killings ended, the soldiers moved in and took over from the group.  Is that your evidence? 
+A.	Yes, that is my testimony. 
+Q.	Where did the group go to when the soldiers took over? 
+A.	After the arrival of the soldiers, they started firing and throwing grenades.  So, because of fear, we had to move back towards the area inhabited by Tutsis, and then we could see stones being thrown.  We could see people dying and body parts rising up.  Then after dusk those who survived ran to their houses, and then the soldiers and members of the population followed them into their homes.  After they got into their homes, as I told you, they were pursued and killed inside and their houses destroyed and burnt.  So the soldiers were with the members of the population who had initiated the killings.  They were collaborating in this act. 
+Q.	Witness, the Tutsis that were killed included women, children and men; am I correct? 
+A.	The Tutsis who were killed -- you forgot that there were also elderly men and women.  There were Tutsis of all age groups. 
+Q.	Can you estimate about how many Tutsis were killed in Rwankeri and Busogo mountain on the 7th of April 1994? 
+A.	Because I went home after the burning of the houses, I did not go back to count in order to know the people who had been killed, and, therefore, I cannot tell the number of people who were killed, but what I can affirm to you is that very many people were killed. 
+Q.	Witness, you can attempt, just an estimate.  I am not asking you to give me an exact figure, just an estimate of the bodies you saw on that day.
+A.	Making such an estimation is hard.  As I told you, the hill was occupied by very many people.  So I cannot know exactly how many people were killed on that hill because I never went back.  I do not know if all were killed.  I did not go back to see if there were any survivors.  But what I can tell is what I saw with my own eyes, is that many people were killed, but giving an estimate is hard. 
+Q.	Now Witness, you saw these Tutsis running back to their homes with your own eyes.
+A.	Yes, I saw them with my own eyes, running back to their homes, but they were not many; they were few. 
+Q.	About how many soldiers did you see on that day at the Busogo mountain?  How many soldiers were on Busogo mountain?  How many soldiers were in your midst at the Busogo mountain as they moved on to Rwankeri cellule? 
+A.	The soldiers had mixed with the members of the population when these killings were going on.  You could see two soldiers here, three there, one there, four there.  So I cannot really tell you the number of soldiers that came there because I do not know that number.  They had mixed with the population there.
+Q.	In your estimate, how many people, including the soldiers, did you see on that day attacking the Tutsis? 
+A.	I do not understand the question.  If you are asking all the people who were there, all of us in general or the people who were carrying out attacks on Tutsis --
+Q.	Witness, I am asking about the people -- the attackers, including your good self, that were at Busogo mountain and Rwankeri and continued the killings from Busogo mountain down to Rwankeri cellule, about how many of you were in that group on the 7th of April 1994. 
+PROFESSOR HINDS:
+Objection, Your Honours, characterising this witness as an attacker.
+MS. OJEMENI:
+I withdraw that.
+MR. PRESIDENT:
+I think that question can be answered.  The witness can say what -- he was there, certainly he can explain if he understands counsel's question. 
+THE WITNESS:
+Yes, I have understood the question.
+BY MS. OJEMENI:
+Q.	Can you then respond?
+A.	You also say that I was among these people.  Not all the people who were present there had gone to take part in the killings.  That is the first thing I would like you to understand.  So if I give an estimate, the population, the youth from Byangabo, the refugees and the soldiers, they were many.  What I know is that there were more than a hundred. 
+Q.	Witness, can you now describe to this Chamber the scene you saw at Busogo mountain down to the Rwankeri cellule, the scene of the killings of these Tutsis?  Can you describe what you saw  on the 7th of April 1994? 
+A.	Among these houses where the Tutsis lived on Mt. Busogo, the first thing I saw when I arrived was that there was no Tutsi still staying in his home.  They had all fled to the Busogo mountain and from their houses, you could see them on the Busogo mountain because it is not very far from there.  So those who were pursuing them went there and we also followed them.  They started fighting by using traditional weapons.  But even the Tutsis on the top of the mountain had those weapons and the Hutu who were at the foot of that mountain had those same traditional weapons.  So the fighting began.  After a while that the fighting had been going on, the soldiers arrived.  When soldiers arrived, they started firing in the direction of the mountain.  When they started firing on this mountain, no Tutsis ever threw their stones or spears, they all started fleeing, but they could not run far because grenades were thrown amidst them and the streams (sic) were fired against them also.  So many people died on that mountain.  So after this there were a lot of gunshots, a lot of firing, and when this became too much for us, as many people were dying, we moved back and we took the direction of the area where the Tutsis were leaving their homes.  When we were going that direction, what I was able to see was that, I found -- I saw a Tutsi who had been wounded in the head and who was running, who passed us running, then others followed him and then soldiers also came as well as members of the population pursuing them.  Then after that, we saw that they had started burning the Tutsi houses and those who had managed to get into their homes were killed.  So after the burning of the houses and the killing of those who had come running into their homes, they started cutting down, butchering the cows that were there, and then I took flight, and many others along with me.  We ran to Byangabo.  That is all I was able to see in that area on that day. 
+Q.	Witness, it is your evidence that after witnessing the killing of Tutsis at Busogo mountain, you could not -- you were sad, you could not sleep for two days, you could not eat, you were thinking and wondered if the killing was done by human beings or animals.  Can you describe what you mean by the fact that you wondered if the killing was done by human beings or animals?  You must have seen an awful sight hence you couldn't eat, you couldn't sleep.  This is what happened.  I am asking you to describe to this court what you saw.  You must have heard screams, didn't you? 
+A.	Have you finished with your question, Counsel?
+Q.	That's the question.  You must have heard screams, didn't you? 
+PROFESSOR HINDS:
+Objection, Your Honour.  We have a compound question that has been put to the witness.  So the witness is correctly asking -- I mean, at least there are like six or seven questions that are being put to him.  First it was describe what you saw, and then there were a number of other questions.  So maybe counsel can break them down and have the witness answer them sequentially, Your Honour.  I am not sure what she is wanting, but the witness wants some direction.  The last question was that, he heard screams.  I guess he could start from there. 
+MR. PRESIDENT:
+Did you understand the question, Counsel -- I mean Witness MLNA?
+THE WITNESS:
+To say the truth -- the reason I said that I couldn't sleep and I even said that I was traumatised afterwards, you can even inquire -- even yesterday I couldn't sleep because, through my testimony, I was made to remember what happened to Tutsis in Busogo.  So I not only heard people screaming, but that I also witnessed the killings and I not only heard them from a distance.  There is no way they could suffer such pain and not scream and I heard them screaming and I witnessed the killings.  That is the reason why I was very sad. 
+MR. PRESIDENT:
+Yes, Counsel.  We will be stopping at the usual time, we take the break at eleven.  So you can organise your work accordingly to wrap up your questions. 
+BY MS. OJEMENI:
+Q.	Witness, you are now telling this Court that you just stood there and watched and you did not participate; is that your evidence? 
+A.	Yes, I stood there.  I watched and, as you say it, I didn't participate because I couldn't stop what was happening, and I didn't have any other power except watching and feeling sad.  There was nothing else I could have done about it.  So afterwards, I just stayed there, as I told you.  So there is nothing else I could have done because the people who were there, you wondered if they were the persons that you used to know, the persons you used to talk to who were doing such things, and you couldn't even dare speak to them.  So personally, I couldn't do anything about that; I just watched. 
+Q.	Yesterday you told this Court while talking -- testifying about your reason for following the group to Rwankeri.  According to you, you were curious and likened it to the situation of what is happening in Iraq, after all, you can watch.  And you are now telling this Court that you felt really sad, watching the Tutsis die, and you stood there and did nothing; am I correct? 
+A.	The reason why I said that and I can still repeat it now.  I followed the group just for curiosity, and the reason that I gave the example of Iraq -- when you watch television, you are curious to know what is going on in Iraq, and after the curiosity of knowing how it is going on, you can feel, while you see people dying, you can or at least, I personally feel sad, and sometimes I even switch off the television set to watch what is going on, and this is the reason why I gave the example of what is happening in Iraq.  But I didn't mean that all the people who went to Busogo were going there to kill people, and this is true -- who went there didn't take part in the killing, and I am an example.  I went there just for curiosity, because I was curious to know what was going on, but I didn't do anything else, and I didn't take part in the killings, because if I had, I would not have been released.  This is what I explained to the Court and they had made inquiries and found that I did not take part in the killings in Mukingo commune. 
+BY MS. OJEMENI:
+Your Honour, one more question on this.  Can I?
+MR. PRESIDENT:
+Yes. 
+BY MS. OJEMENI:
+Q.	Witness, you have told the Court that this killing of Tutsi started as a result of the death of President Habyarimana, and that is the president you loved so much, if I use your word yesterday.  Are you telling this Court that you did not participate when, according to you, the group you followed went in search of Tutsis to kill, and you just went and watched.  Is that your evidence? 
+A.	I don't understand clearly your question, because you said that the killings of which took place were followed by the death of President Habyarimana.  But, as I know, Habyarimana's death preceded the  killings.  So I didn't really catch your question.
+Q.	Witness, you told the Court yesterday, that when you were informed by the man who came with his radio in the morning of 7th of April that the President of Rwanda was dead.  You told the Court that you went to Byangabo centre, and I asked, why did you go there?  And you said, you went to find out what was going on and that the president that you loved so much was dead; am I correct? 
+A.	That is correct, I loved President Habyarimana very much. 
+Q.	You went on to talk about people at Byangabo market being angry that their president was dead and went in search of Tutsis to kill, and you followed the group that went to Rwankeri cellule up to Mt. Busogo.  You went there and the killing was taking place, you just stood and watched and you did not participate.  Is that what you are telling the Court?
+A.	I didn't do anything.  I didn't kill anyone there in Busogo, because I am not a killer and my inward nature wouldn't allow me to kill any person. 
+Q.	Obviously, while you were standing, you watched Tutsi girls being raped as well, didn't you? 
+A.	I didn't witness any Tutsi girl or any Tutsi woman being raped, because if I had witnessed such an act, I would have testified to it. 
+BY MS. OJEMENI:
+Your Honour, I hope that this is an opportune time to take a break. 
+MR. PRESIDENT:
+We will take a break for 15 minutes and resume our work at twenty past eleven.  Until then these proceedings stand adjourned.
+	(Court recessed from 1105 to 1125H)
+MR. PRESIDENT:
+The proceedings are resumed.  Please continue with the cross-examination of the witness.  
+
+This afternoon we will stop for the lunch break at a quarter to one.  There are a few engagements to be done.   So we will rise slightly earlier today than our usual time of one o'clock.
+
+Go on, Counsel.
+MS. OJEMENI:
+Your Honour, on this point I will be applying to conduct the rest of my cross-examination in a closed session, subject to the convenience of the Court.
+
+MR. PRESIDENT:
+It is your option.  We will go into a closed session to enable counsel to raise questions with the witness, some of which could have a bearing on his identity.  We regret to members of the public, it is a necessary procedure to be adopted at this stage.  We are dealing with the testimony of a protected witness. 
+
+Can you see that is done?
+MR. KIYEYEU:
+Yes, My Lord.  Now we are ready, My Lord.
+	(At this point in the proceedings, a portion of the transcript [pages 35 to 41 ] was extracted and sealed under separate cover as the session was heard in camera)
+	(Pages  27 to 34 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT:
+And Witness MLNA, you are so advised and you are asked to be careful to bear in mind that we are in open session, to avoid mentioning elements that could have a link to your identity.
+THE WITNESS:
+I have understood, Your Honour.
+PROFESSOR HINDS:
+Your Honour, could we have a document that the witness drew and that is not marked, during cross.  The Prosecution said that she was not interested in the document.  Could we have that document, please?
+MR. PRESIDENT:
+Registry.
+MR. KIYEYEU:
+Yes, My Lord.
+(Page 42 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1200H
+MR. HINDS:
+Could we draw the screen so that the witness can quickly --
+THE KINYARWANDA INTERPRETER: 
+Your Honour, the witness would like to ease himself.  He says he would like to go for a short call. 
+MR. PRESIDENT:
+The facilities are not very far away.  
+
+Is it, Registry?
+MR. KIYEYEU:
+Not very far.
+MR. HINDS:
+Your Honour, we could - I mean, he has one right here, the shortest way, right here.  We could close the screen or whatever.
+MR. PRESIDENT:
+We don't know the nature of the problem.  So what we'll do, we will adjourn for the length of time that he will need to go and come back.  He won't go very far.  There is a room here.  
+
+We will be there.  The moment he steps in, he should come straight to the witness boxes and we will be informed and we will come in straightaway.  Just in case there is the possibility for, you know, if there is any need for a longer period.  
+MR. HINDS:
+Okay.  
+MR. PRESIDENT:
+So we'll adjourn for a short time to enable the witness to go out for a short while, and then we will come back and resume these proceedings. 
+
+(Court recessed from 1200 to 1207H)
+MR. PRESIDENT:
+Proceedings are resumed.  
+
+Yes.  Professor Hinds, your re-examination of the witness.
+MR. HINDS:
+Thank you, Your Honour.  
+
+If we could have the witness -- just quickly draw the curtain -- go to the - what now is the diagram that he drew during cross-examination.
+MR. PRESIDENT:
+Witness, wait a minute.  I think you can now go. 
+RE-EXAMINATION
+BY MR. HINDS:
+Q.	Witness, looking at the diagram that you drew when you were under cross-examination by the Prosecutor, can you tell the Chamber what this diagram depicts?
+MS. OJEMENI:
+Point of correction, Your Honour -- objection, rather.  This document was drawn, agreed, but was never made use of and I never asked the question, so if any issue arises out of it, I will still exercise my right to cross-examine the witness.
+MR. HINDS:
+Your Honour, do I need to respond to this?
+MR. PRESIDENT:
+No.  This one did arise from cross-examination.
+MS. OJEMENI:
+Your Honour, it did, but at some point we realised that the witness was introducing what I did not ask him, and based on that, I asked for an alternate -- another sketch to be used.
+MR. PRESIDENT:
+The idea was to indicate certain areas -- 
+MS. OJEMENI:
+Yes.
+MR. PRESIDENT:
+-- which, which, which could be indicated here; we don't know. 
+MS. OJEMENI:
+Your Honour, I asked a specific question.  I asked the witness to draw a route first, and I asked him to indicate Byangabo market.  I didn't mention any -- any other place.  He went ahead and started indicating all those things.  I didn't ask him to indicate a road going to Busogo.  I didn't ask him to indicate a petrol station.  At that point I had not reached that point; he was the one who then started drawing -- putting in a petrol station, putting in Isoko; I didn't even know the name.  I didn't ask because I didn't make use of it.  But if there are new issues that arise out of this re-examination, we have a right - which I have the right to cross-examine on; I will certainly do so Your Honour, subject to the confidence of this Court.
+MR. PRESIDENT:
+It did arise, Counsel.  If there is anything that is legitimate that may need further cross-examination, that will be demonstrated, and the Trial Chamber can make a decision at that particular time.  But we think this issue that is being sought to be followed up, did arise from cross-examine. 
+MS. OJEMENI:
+Very well, Your Honour. 
+MR. HINDS:
+Thank you. 
+BY MR. HINDS:
+Q.	Witness, could you tell the Chamber what this diagram depicts, what area does it depict?
+A.	This is Byangabo.
+Q.	Now, you have at the bottom of the picture, you have written I-S-O-K-O, R-Y-A, Byangabo.  Can you tell the Trial Chamber what those three words mean?
+A.	These words "Isoko Rya Byangabo", I wanted to show where the market is behind the shops, where the market is held -- place, Tuesdays and Fridays where clothes and foodstuff were sold, as well as other items.
+MR. HINDS:
+Now, Registry, could we help the witness and show him Exhibit 20, which we could then superimpose on this document here.  That is from Prosecutor's - sorry.  Could you show him photograph No. 20 from Prosecutor Exhibit 7?
+MR. PRESIDENT:
+Yes.
+BY MR. HINDS:
+Q.	Witness, looking at what is now before you as photo 20, two, zero, from Prosecutor's Exhibit P7, you have previously identified that photograph, haven't you?
+A.	Yes, that is correct.
+Q.	And what is that photograph -- what does that photograph depict?
+A.	This photo, as well as this area where the witness has pointed with his pen, showing (sic) part of this market.
+Q.	And when -- did you say that that market was convened on particular days of the week; is that correct?
+A.	As far as I recall, the market convened Tuesdays, on Tuesdays and Fridays.
+Q.	Okay. 
+A.	The market used to convene on Tuesdays and Fridays. 
+Q.	Thank you, Witness.  Now, going to the diagram -- if you just remove the photograph from that diagram - now concentrating on the diagram, where you have Gisenyi-Ruhengeri on the diagram, is that the same -- well, just tell us, what does that depict, that stretch there?  Is it a road where you have Gisenyi on one side and Ruhengeri?
+A.	This is the road from Ruhengeri towards Gisenyi.
+Q.	And is that the same road that was shown in the other sketches that you drew for this Tribunal?  Is it the same road?
+A.	Yes, it is the same road that I showed, the road from Ruhengeri to Gisenyi or from Gisenyi to Ruhengeri.
+Q.	And that the petrol station that is shown on here, is that the same petrol station that you had shown in the other diagram that you drew?
+A.	Yes, it is the same petrol station.
+Q.	And where you have a path going up that says Busogo, is that the same path that is shown on the other diagram starting in Byangabo?
+MS. OJEMENI:
+Objection, Your Honour.  The other sketches are two parts going to Byangabo, I mean Busogo, so I don't know what my learned friend is referring to.
+MR. HINDS:
+I am using terms precisely.  I said a path going from Byangabo.  The other path went from a different place; the other path went from Rusayo (phonetic).  
+
+Your Honour, let me, just to make sure we have no confusion, I will withdraw that question and put another question to him. 
+MR. PRESIDENT:
+Yes, but taking into account, of course, what your colleague was demonstrating during his (sic) cross-examination on this aspect.  We do know this - we do know the sketch plan and we do know the road and what she was trying to get across.  I think those are the issues that were pertinent. 
+MR. HINDS:
+Yes.  I am just trying to locate what this witness has put on this map as to whether or not certain locations - that's all I am dealing with, certain locations are the same as he, in terms of what he is in -- his state of mind, as what he has put on this particular diagram.  There is a petrol station, there is this tarmac road and then there is another adjoining road.  If the Court already knows what this depicts, there is no need for me to continue.
+MR. PRESIDENT:
+Because we are -- yes, these are the issues that we are specifically -- we know the issues that Counsel is trying to lead on this aspect.
+MR. HINDS:
+No problem, Your Honour.  We would now mark this as Defendant's Exhibit 47 and have it marked as such.
+MR. PRESIDENT:
+Any objection, Counsel, from the Prosecution?
+MS. OJEMENI:
+No objection.
+MR. PRESIDENT:
+Okay.  So let this sketch map be admitted as Defence Exhibit 47, because to make it a formal document it has got to be signed by the witness and dated. 
+MR. HINDS:
+Yes, Your Honour. 
+MR. PRESIDENT:
+Did he --
+MR. HINDS:
+No, he did not sign this one.
+MR. PRESIDENT:
+It should be signed and dated.
+THE KINYARWANDA INTERPRETER:
+The witness would like to know if he is going to put today's date or yesterday's date. 
+MR. PRESIDENT:
+No, today's date.
+MR. HINDS:
+No, today's date. 
+MR. PRESIDENT:
+Sorry. 
+THE KINYARWANDA INTERPRETER:
+Can -- he would like to know what date it is today.  I told him it is the 1st of April.
+MR. PRESIDENT:
+Yes.
+	(Defence Exhibit No. 47 admitted)
+MS. OJEMENI:
+Your Honour, perhaps to move the proceedings forward so that I don't cross-examine.  I don't know if my learned friend would be gracious enough to ask the witness to indicate the trees on the map.  That's a question that I want to take later on, on this issue, on this sketch. 
+MR. HINDS:
+I do not -- quite frankly, I don't intend to help the Prosecutor try her case.  And so, therefore, she has to do what she feels she has to do within the Rules, if she can do it.  But I am finished with this document and I am prepared to go on with my redirect. 
+MR. PRESIDENT:
+Yes. 
+MR. HINDS:
+May I, Your Honour?
+MR. PRESIDENT:
+Please go on. 
+MR. HINDS:
+Q.	Witness, since we have the screen drawn --
+MR. HINDS:
+Can you give the witness D46, please?
+MR. PRESIDENT:
+Yes, go on, Counsel. 
+MR. HINDS:
+D46, please.
+MR. PRESIDENT:
+Yes.  This is Exhibit D46.
+MR. HINDS:
+Right.
+MR. PRESIDENT:
+Yes. 
+BY MR. HINDS:
+Q.	Witness, you have shown -- I am directing you to look at the path leading from the road that is now marked Busogo, the first road to the left coming out of Byangabo that intersects with the path -- what you call a path going to Mount Busogo.  Do you see that on the sketch, that area?
+A.	Yes, I can see what you have described.
+Q.	Okay.  Now, Witness, you have drawn some boxes to the top of the path and to the bottom of the path.  Those boxes, do you see those boxes?  Those are the path going to Mount Busogo.
+A.	Yes, I can see the boxes.
+Q.	Okay.  Can you tell the Tribunal what those boxes depict, you know, the three boxes at the bottom and the six boxes to the top, what do they depict?  What were you attempting to convey by drawing those boxes?
+A.	When I was drawing this path and when I was drawing these boxes I wanted to depict where the area that used to be called the Tutsi area, where the Tutsis lived.  I tried to make them small because most of this -- of the houses that were there were small and were grass-thatched houses.  So this number of houses here in the picture is not the exact number of houses that were there.  I just wanted to show the area where the Tutsis live, but I don't know the exact number of houses that was there.
+Q.	It is fair to say that each of the boxes do not depict a single house, but you were just trying to show the area where Tutsis lived; is that correct?
+A.	Not -- each of these boxes here does not represent a house.  When I did it like this, I just wanted to show the area where the Tutsi lived, just like I put this one path here.  There were more paths, there were paths leading to several houses, there were paths leading to all these different houses.
+Q.	Thank you very much, Witness.  You can now sit, unless the Chamber needs any further clarification. 
+MR. PRESIDENT:
+No.
+MR. HINDS:
+Okay. 
+BY MR. HINDS:
+Q.	Take the seat.  Now, Witness, when you agreed to come to this Tribunal, did you come here to tell the complete truth?
+A.	When I agreed to come and to -- to give testimony here in Arusha I was determined to tell the whole truth about what I saw, about any question that may be put to me.
+Q.	Now, Witness, is there any fact or any information that you know about that you have not told this Tribunal, questions that were asked of you?
+A.	I believe that I -- to the best of my recollection I gave a full and true information about -- as to the questions that were put it me.
+Q.	Witness, when you arrived at Byangabo the morning of April 7th, what time did you say that was, when you first arrived at Byangabo centre?
+A.	I said that it was between 6:30 and 7:00.
+Q.	And when you got there at -- between 6:30 and 7:00 were there -- did you see roughly 500 people there?  Was that great number of people there at 6:30, 7 o'clock in the morning when you first arrived?
+A.	I haven't understood the question well.
+Q.	When you first arrived in the morning between 6:30 and 7 o'clock what -- could you estimate the number of people that you saw there that time of the morning, when you first arrived?
+A.	When I arrived first, there were a few people, but the number increased as time passed.  People were increasing as time passed, but when I arrived between 6.30 and 7:00, there were few people.
+Q.	Now, at that time when you first arrived, were you able to see the conseiller?
+A.	When I arrived first, the first time arrived, I saw the conseiller.
+Q.	Now, did you, when you saw the conseiller there, did you at that time see Kajelijeli's truck?
+MS. OJEMENI:
+Objection, Your Honour.  This issue was well ventilated during examination-in-chief and I never, throughout my cross, mentioned the conseiller in any way.  It appears my learned friend is reopening his examination-in-chief and I object.
+MR. HINDS:
+May I, Your Honour? 
+MR. PRESIDENT:
+Yes. 
+MR. HINDS:
+What we are dealing with is the central question of whether Kajelijeli was present at that time of the morning, what the witness observed, and the Prosecutor when through a whole series of questions about distance from the petrol station and number of people and so on and so forth.  I am entitled to, in fact, demonstrate through this witness that, in fact, Juvénal Kajelijeli was not there and to take him through the details.  She raised it; she questioned whether or not he could see; she questioned whether or not the number of people were there and he could not see and maybe Kajelejeli was hidden somewhere between a shop or someplace.  That's a central issue, so therefore I am entitled to take this witness step by step about what he did and what he observed and when he observed it.  She raised the question about whether or not he could see Kajelijeli being there.  How could she now object because I am now taking him into details about what he was able to see, who he was able to see, when he was able to see them, the crowd conditions that were there.  I mean, these are proper questions.  It is fundamental that I be allowed to go through this.
+MR. PRESIDENT:
+Yes, Counsel.
+MS. OJEMENI:
+Your Honour, I still -- I object seriously on this issue because the whole bulk of the Defence case is that Kajelijeli was not there, and the Defence abundantly asked questions on this particular issue during examination-in-chief, and I merely followed it up to determine whether this witness actually saw or actually -- I mean, followed it up with my cross, to find out if the witness actually saw or could tell if he saw -- if Kajelijeli was there that morning.  The Defence have abundantly explored or ventilated on this issue during their examination, and all I did was to exercise my right to cross-examine him on issues that he raised during examination-in-chief.  And I object that -- I mean, on the line of questioning of my learned friend.  The issue that was raised during cross was based on what -- the responses given during re-examination.
+MR. PRESIDENT:
+The issue being addressed here is the question of whether the witness was -- could have been able to see whatever he was supposed to see.  Okay.  That is being addressed.  And among the issues raised in cross-examination was the disposition of the people around there, so those are the issues.  I think Counsel is entitled to -- it does arise from cross-examination, to be followed up.  
+
+Go on, Counsel. 
+MR. HINDS:
+Thank you, Your Honour.  
+BY MR. HINDS:
+Q. Witness -
+THE KINYARWANDA INTERPRETER: 
+     (Kinyarwanda spoken)
+MR. HINDS:
+     Am I supposed to hear that?  I am not quite sure what is happening.
+MR. PRESIDENT:
+Go on, Counsel.  Maybe there is --
+MR. HINDS:
+Yes.
+BY MR. HINDS:
+Q.	Witness, during that time when you were observing, when you say you saw the conseiller, did you see Kajelijeli's truck?  That was a question that I asked during that time.
+A.	In that morning when I first arrived, as I explained to you, people were still few, were not many.  I saw the conseiller, where he was standing.  Most of the people who were standing with him were actually traders from Byangabo centre.  I didn't see Kajelijeli there.  I did not see his truck either.
+Q.	Now witness, at some point in time you testified that you saw the youth being addressed by some individuals who were there that morning. Do you recall testifying that you saw the youth talking to individuals -- I don't want to mention their names; did you see that? 
+A.	Yes, I saw this.  I witnessed this.
+Q.	When at the time that you saw the youth either talking to, being addressed by individuals, or talking to these individuals, did you see Kajelijeli or his truck there, anywhere in that location?
+MS. OJEMENI:
+Your Honour, I think my learned friend is going too -- I object.  I still object.
+MR. HINDS:
+Your Honour, we are talking about this witness, where he was and what he testified to.  I am now demonstrating, throughout his testimony that -- what are the times that he said he made certain observations, the question of whether or not he was able to see Kajelijeli --
+MR. PRESIDENT:
+You --
+MR. HINDS:
+-- in the context of the - the Court knows this case.
+MR. PRESIDENT:
+We know the evidence of this witness, indeed, of the course, but we would like to know whether these individuals.  Things should not be -- we are dealing with issues that we will need to address them formally later, so we want to know exactly what is being addressed, individuals and what have you because there are time frames too.
+MR. HINDS:
+Absolutely. 
+MR. PRESIDENT:
+So, we would like to be very clear on the issues that are being ventilated or demonstrated. 
+MR. HINDS:
+Very good. 
+BY MR. HINDS:
+Q.	At the time that the youth were talking to Ndisetse, you said that you saw this; is that correct?  Or that Ndisetse was talking to the youth, you said you saw that; is that correct?
+MR. PRESIDENT:
+We have already -- I think that person you are mentioning is the same conseiller.
+MR. HINDS:
+The same conseiller, but at one point he was talking to traders and the next point he was talking to youth.  I now want to deal with observations that the witness has made.
+MR. PRESIDENT:
+But what are the time frames, Counsel?
+MR. HINDS:
+Well, I --
+MR. PRESIDENT:
+I mean, we should have -- what time.
+MR. HINDS:
+Now, let me put the question.
+MR. PRESIDENT:
+Was it about the same time?  We would like to know precisely.
+MR. HINDS:
+You are absolutely correct. 
+MS. OJEMENI:
+I do recall my learned friend yesterday asking the witness whether he saw Kajelijeli throughout the period he stayed in Byangabo.  Now the question he is asking is throughout the time - I mean, the witness was also in Byangabo.  So I think this question has been asked and answered, and he has explored that, ventilated this issue in his examination-in-chief, and that's the basis for the objection, and I wouldn't want to get up on this same issue again.
+MR. HINDS:
+If we have a concession from the Prosecutor that, in fact, this witness at all times that he was able to make observations where Kajelijeli could have been, that he didn't see him, I have no problems.  I mean, if they concede that, that if Kajelijeli was there during all of the observations this witness had made, I have no problems with it.  Okay.  But I just thought that for the record to be very clear, we need to deal with particular areas and particular places.  And I think the Court is correct that I should deal with time frame.
+MR. PRESIDENT:
+I think the point has been made, Counsel.  The witness has said that at the beginning when he came with time frames, when the issue was whether or not at all times the witness was in a position to see whatever could have been happening at other places, that is the issue that was being addressed.
+MR. HINDS:
+That is correct.
+MR. PRESIDENT:
+Okay.  And that answer, that position, has been answered by the witness --
+MR. HINDS:
+Correct.
+MR. PRESIDENT:
+-- with regard to this his arrival and the time. 
+MR. HINDS:
+Correct.
+MR. PRESIDENT:
+So that's the point being made.
+MR. HINDS:
+All right.  What I am dealing with at this point, Your Honour, is observations that this witness made at different times and just to clarify the issue that Kajelijeli was not there.
+MR. PRESIDENT:
+No, no, no.  I think that is not the issue; the issue is the opportunity.  The point has been made that at one particular time the witness is or whatever -- people could have been less than that, it's not a question of Kajelijeli having been there, that is a different issue.  It is a question of -- the line of argument was whether that, because of the number of people who were there, could have been there and being put at a particular place, the witness was in a -- was the witness in a position to see at a particular place.
+BY MR. HINDS:
+Q.	Witness, during --
+MR. HINDS:
+Can I go on now?
+BY MR. HINDS:
+Q.	Witness, can you tell this Tribunal why you have said, during the entire time that you were at Byangabo, that Juvénal Kajelijeli was not there?  Why do you say that with that certainty?
+A.	The reason why I told the Chamber that during the time I was at Byangabo, Kajelijeli was not there is because the first time I arrived there were few people, I tried to move around, trying to gather information, trying to gather new information.  I did not see Kajelijeli up to the time I left this place going towards Rwankeri.  I moved around Byangabo enough, I never saw Kajelijeli.  If I had seen him I would be recalling this and I would have recognised him because I knew him well enough, and I knew his truck well enough because the school -- the name of my school was written on that, on his truck.  So, the reason why I told the Court that I did not see -- Kajelijeli was not there was because I had never seen him there.  Had I seen him, I would have recognised him. 
+Q.	Thank you, Witness. 
+
+Now, Witness, taking you to another area.  You described an area where you saw a road -- a roadblock that was manned by a population.  Do you recall telling this Tribunal that you saw a roadblock manned by a population?
+A.	Yes, I remember.  This is the Mutubungo roadblock.
+Q.	Okay.  Can you confirm whether Mutubungo was in Nyamutera commune?  Okay, let me spell it to the best I know:  Nyamutera, N-Y-A as in apple M-U-T-E-R-A.
+A.	Yes, it is in Nyamutera commune because -- the secteur is called actually Mutubungo and it is in Nyamutera commune.
+Q.	Now, witness, you said that at the roadblocks, identity was being asked for at these different roadblocks that you mention, in addition to the vehicles being searched; is that correct?
+A.	Yes, that is what I said.
+Q.	Do you know where the vehicles were being searched?
+A.	The reason why I suspect they were -- the vehicles were being searched, is that the situation was not good all over the country.  So they were -- because they were searching all vehicles, all tool boxes where keys are kept and glove boxes and elsewhere, they were trying to search for any weapons that might be hidden in the vehicles.
+Q.	Now, Witness, concerning the words being used to describe people, Inyenzi and Inkotanyi, is it your testimony that the people who were called Inyenzi in the 1960s so described themselves; they called themselves Inyenzis?  Is that -- did I understand your testimony correctly?
+A.	In the attacks in the '60s there were Inyenzis and they, they had called -- held that name, because I studied this in Rwandan history.
+Q.	Now, concerning Inyenzi, Inkotanyi, you said that this was a name of people who attacked Rwanda in 1990; is that what you also learned in history?
+A.	I did not get this from history.  But I told you that the soldiers who were coming from the front line, some of them who were my neighbours who would come to take their days off, they would tell us that they had been fighting and using Inkotanyi in Umutara or in Birunga, and that's how I got that name.  I may spell Umutara; it's U-M-U-T-A-R-A, Umutara.  Birunga, B-I-R-U-N-G-A.
+MR. HINDS:
+I want to ask one more question.  I was hoping to finish this up, quite frankly, before 11 -- 12:45, Your Honour, but - I'm not, I'm going to go over.  I am rushing through, but I'm going to go over on redirect, but can I just ask one question so I can finish this area?  
+MR. PRESIDENT:
+We were supposed to stop at a quarter to.
+MR. HINDS:
+Yes.  But can I just ask this one question and finish? 
+MR. PRESIDENT:
+Yes.
+BY MR. HINDS:
+Q.	Witness, am I correct, when I heard your testimony and you said, the people who were calling themselves Inkotanyi and Inyenzi, were they just one ethnicity, as far as you knew?
+A.	You say people who used to call themselves; do you mean during the attacks in the 1960s?
+Q.	No, I am talking about the people who you say attacked Rwanda, they were called Inkotanyi, Inyenzi, were they of all one ethnicity as far as you know?  Do you know that?
+A.	What I know, the people who attacked Rwanda on the 1st of October 1990, they were, they were made of all ethnic groups, and if you want examples I can give you.
+Q.	But were those the people who were called Inkotanyi, Inyenzi?
+A.	Those who attacked in 1990, I told you that these words, this name Inyenzi was mainly given to them by soldiers, but they, they were called Inkotanyi.
+Q.	And could you just quickly tell the Chamber your understanding of the ethnicity of these -- this group who were called Inkotanyi in 1990?
+A.	All the ethnic groups from Rwanda were represented in this group.
+Q.	And they are, the names?
+A.	It was composed of Tutsis, Hutus as well as Twas.
+Q.	I am finished with this area, Your Honour?
+MR. PRESIDENT:
+Yes.  All right.  You still have some more re-examination to do, Counsel?
+MR. HINDS:
+I hope to wrap up in 15 minutes. 
+MR. PRESIDENT:
+At the beginning of the afternoon session and then we will have the next witness.
+MR. HINDS:
+The next witness is ready.
+MS. OJEMENI:
+Your Honour, just an observation; I notice that in the pre-trial briefs it was said -- the Defence had indicated that it would serve on the Prosecutor the statements of the next witness, and I haven't received any, so I don't know what the position is.
+MR. HINDS:
+I said before, that the next witness was going to be called as an expert witness.  That witness is not an expert; it is a fact witness, and therefore we were -- when we were planning to call the witness as an expert witness, we were going to serve the statement of that witness within 21 days.  But we don't have a statement of that witness because we decided a long time ago not to call him as an expert, but to call him as a fact witness.
+MR. PRESIDENT:
+To call him as fact witness, okay.  Does that not make it clear?
+MS. OJEMENI:
+I am just telling you that, because I noticed going through the pre-trial brief I noticed a further statement would be filed pursuant to Rule 94.  So he just explained it now.  I guess we will --
+MR. PRESIDENT:
+Ideally, in the absence of a statement of an expert, and if they want to call that witness, that will a factual witness. 
+MS. OJEMENI:
+I know, Your Honour.  I am just clarifying this point.  And I guess we are talking of FMB. 
+MR. PRESIDENT:
+Yes.  All right, if there are any things to be raised, they can be raised in the afternoon session.  So until -- we will adjourn these proceedings until 2:30 in the afternoon.  So until 2:30, these proceedings stand adjourned.
+(Court recessed from 1252 to 1442H)
+MR. PRESIDENT:
+The proceedings are resumed.  We will continue with the re-examination of the witness.  Professor Hinds. 
+MR. HINDS:
+Thank you, Your Honour.  
+BY MR. HINDS:
+Q.	Witness, on April 7th of 1994, did you see among the individuals who had gathered at Byangabo, during the time that you were walking and circulating around, anyone wearing banana leaves?
+A.	No, I didn't see anybody wearing such wares.
+Q.	During the time that you travelled to Rwankeri, did you see anyone in that vicinity or any of the people who were carrying out the attacks wearing banana leaves?
+A.	No, I didn't see anybody wearing banana leaves in the attack.
+Q.	You told the Court that your father was one of the leaders of the CDR; is that correct -- CDR party?
+A.	Yes, he was one of the leaders, that is true.
+Q.	And you also told the Court that your father was shot; is that correct?
+A.	That is true.  My father was shot and I witnessed it myself.
+Q.	Do you know whether he was shot before he was tried or after he was tried?
+A.	He was shot on first -- on the night of 1st July in 1997 and he was shot in Kabaya police station.  And by that time he was not yet tried.
+Q.	Witness, you testified about fearing for your security, which caused you to flee Rwanda and other places.  Do you have any such fear for your security having decided to come here to testify?
+A.	When I took the decision to come and testify, I was no longer concerned the way I was when I fled Rwanda and other regions.
+Q.	You have testified concerning events surrounding your arrest and trial while you were in Rwanda.  Did you at any time, while you were in Rwanda, confess or admit that you were an attacker or involved in any of the killings of Tutsis?
+A.	When I was arrested the first time, it was in a very critical situation, and people were abducted and they would disappear.  So when I was arrested, I was taken to the police station of Kabaya, and when I arrived there, the first question was to -- I said that my father had taken part in the killings and I had to testify against him.  So when I arrived, I didn't accept it because it was not true.  Instead, after he was shot I realised that I would be also killed afterwards. So I resolved to agree to whatever they wanted.  
+
+After -- when I was taken to the central prison and went on trial, I tried to say the truth and explain why I had accepted previously and gave them examples which led me to testify against my father.
+Q.	Now, at your trial, you denied your involvement in any crimes; is that correct?
+A.	Yes, I denied it because I definitely didn't play any part in the killings.
+Q.	And is it correct that at your trial, people came to testify against you and who could not identify you as being one of the participants; is that correct?
+A.	That is correct.  Among the witnesses who testified against me, some didn't know me.  And I already gave an example of a girl who alleged that I had raped her, and when she was asked to point at me, she was unable to identify me.
+Q.	And you were subsequently released from prison by the Rwandan authorities; is that correct?
+A.	That is correct.  I was released, and I was released by the Rwandan authorities.
+Q.	Now, you have also told this Tribunal that you have been traumatised by your testimony here that you have given in Court; is that correct?
+A.	It's correct.  Since yesterday when I started giving my testimony, when I reached the place where I stay, I tried to recall what I had witnessed in 1994 and I could not sleep well, and I went to bed almost around two because I couldn't really have my sleep.
+Q.	Can you tell this Tribunal why you came to testify in Kajelijeli's case, in his case in particular?
+MR. PRESIDENT:
+(Microphone not on )
+MR. HINDS:
+I beg your pardon.
+MR. PRESIDENT:
+Does it arise from cross-examination?
+MR. HINDS:
+Yes, between all of the cross-exam -- the question of why he is here, the Prosecution certainly claim that he was a participant, that he was a killer and --
+MR. PRESIDENT:
+Yes, that is - that is part of his evidence, but that question, the way you have put it, does it arise?
+MR. HINDS:
+The question that I am putting, why he is here, why did he come here?
+MR. PRESIDENT:
+No, to testify; you went further than that.
+MR. HINDS:
+No:  Why did he come here to testify in Kajelijeli's case.  I think everybody would want to know that.
+MR. PRESIDENT:
+All right.
+BY MR. HINDS:
+Q.	Witness, you can answer that question.
+A.	The reason why I accepted to come and testify in Kajelijeli case is that I knew very well the events which occurred at Busogo -- in Busogo secteur, and I was informed that this was part of the accusation against Kajelijeli.  And I said -- I told them that if I was asked, I would repeat what happened at Busogo.
+Q.	No further questions of the witness, thank you. 
+MR. PRESIDENT:
+Thank you, learned Counsel.  Judge Ramaroson has questions to the witness.
+JUDGE RAMAROSON:
+(No interpretation)
+MR. PRESIDENT:
+No translation, Interpreter.
+JUDGE RAMAROSON:
+(No interpretation)
+MR. PRESIDENT:
+No translation coming in.
+MR. HINDS:
+I think they are trying to sort it out.
+MR. PRESIDENT:
+Yes, can you wait Judge, perhaps.
+THE ENGLISH INTERPRETER:
+Testing, 1, 2, 3, 4.  Can you hear me?
+JUDGE RAMAROSON:
+Mr. Witness, when you said that you were at the Byangabo market, you were going from one group of youths to another; is that what you said.
+A.	(No interpretation)
+MR. PRESIDENT:
+The translation is not coming through.  Can you start your answer again, Witness MLNA?  Sorry about that.  There is some problem with the interpretation.
+THE WITNESS:
+I said that when I reached Byangabo  --
+MR. PRESIDENT:
+Are you ready?  Yes.  Start, please.
+THE ENGLISH INTERPRETER:
+Can you hear me now?
+MR. PRESIDENT:
+Yes.
+THE WITNESS:
+I said that when I reached Byangabo I was able to move among the people who were there as they were standing in groups and they were all talking about Habyarimana's death.  As I said it earlier, it is true I was able to move from one group to another.
+JUDGE RAMAROSON:
+So, the subject of their conversation -- because a moment ago you referred to them going to attack the Tutsis, so their subject of the conversation was the attack against the Tutsis, was it?
+THE WITNESS:
+The subject of the conversation was Habyarimana's death.  They were all saying that if Habyarimana had been killed, that he could have been killed by Inkotanyi, by UNAMIR, and that was the subject of conversation, but I cannot say that they were planning to attack Tutsis.  The youth were also saying that they must take revenge.
+JUDGE RAMAROSON:
+Do you agree with me that, immediately thereafter, all these people whom you in fact followed went and attacked the Tutsis?
+THE WITNESS:
+After the conversation there was a group of people, the majority of whom were youth from Byangabo, who joined with the conseiller, and they required him to let them go and kill Tutsis, but the conseiller refused.  After his refusal, there was just a short lapse of time, and then came a military vehicle, and when the military vehicle arrived, the youth went and surrounded the vehicle, and after, there was another discussion, they just say that the conseiller had prevented them from going and killing Tutsis, so the military who was on board -- as I noticed it is the one who induced mortation (sic) because when he had finished speaking to them, they went and sought for Rukara and killed him and afterwards they proceeded on to Rwankeri.
+JUDGE RAMAROSON:
+But at that point in time, who distributed the weapons, be they bladed weapons or other types of weapons?
+THE WITNESS:
+The weapons that I mentioned were machetes, spears.  And other people, upon reaching Busogo here, just took stones, and they also had sharpened sticks.  But as for machetes, everyone knows that any people in Rwanda would walk around with a machete and most of the population have spears in their house.  As for sharpened sticks, they just got it on their way as they were going up to Busogo hill, and the stones were available on the top, on the foot of the hill.  So nobody distributed weapons.  Those were their own weapons that they had. 
+JUDGE RAMAROSON:
+How far from the Byangabo market is Kajelijeli's house?  He had two wives; I am referring to the nearest house.
+THE WITNESS: 
+I didn't get your question very well, Your Honour.
+JUDGE RAMAROSON:
+I shall repeat:  How far from the Byangabo market, if it was not on the sketch that you drew, is Kajelijeli's house?
+THE WITNESS:
+I cannot tell the distance between Byangabo market and Kajelijeli's house, because I only heard about it.  I was -- I knew that it was on the road to Nyaruheni (phonetic), but I don't know exactly the place to be able to tell you the distance.
+(Pages 43 to 60 by Judith Baverstock)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1500H
+JUDGE RAMAROSON:
+Wasn't it close to the Mukingo bureau communal, the commune office which is not very far from the Byangabo market?
+THE WITNESS:
+No, not at all.
+JUDGE RAMAROSON:
+A moment ago you testified about a man who was wearing banana leafs and carrying weapons.  What was the role of these men, because they didn't attack.  Were they just parading about without attacking anyone?
+THE WITNESS:
+The persons I mentioned who were wearing banana leaves were those that I met on the road as I was going back home, so they were not in Byangabo.
+JUDGE RAMAROSON:
+But what I'm asking you is what their role was during these events:  Did they do nothing at all, they didn't attack anyone, were they just parading about and wearing their banana leaves and carrying their weapons?
+THE WITNESS:
+When I left Mukingo commune up to my home, I didn't notice any killings.
+JUDGE RAMAROSON:
+So, according to you, they didn't do anything, they were wearing banana leaves, they were carrying weapons, but they didn't do anything; they didn't play any role?  You didn't see them at Byangabo, nor on the Busogo hill or near the houses belonging to Tutsis?
+THE WITNESS:
+The persons whom I referred to that were wearing banana leafs didn't appear in secteur Busogo or Byangabo because I saw them further down when I was near my place of birth.  So most of them were on the last roadblock that I mentioned, which was Mtabumgo.  I passed the roadblock.  They didn't harm me.  I didn't see them do anything else except ask for identity papers and search vehicles.
+JUDGE RAMAROSON:
+I've concluded with my questions, Mr. President.
+MR. PRESIDENT:
+Thank you.  I have one question, for clarification.  Do you recall the answer that you gave when you were asked about Interahamwe?  What did you say?  Do you recall?
+THE WITNESS:
+Yes, I recall.
+MR. PRESIDENT:
+What was it, if you recall?
+THE WITNESS:
+But you remember that there were many questions concerning Interahamwe, so I don't know.
+MR. PRESIDENT:
+You said with the Interahamwe youths of the MRND, I think, they put on funny uniforms, then you went on to describe the banana leafs and the manned roadblocks.  Do you recall that answer?  Do you recall?  Do you recall that answer as being the answer that you gave?
+THE WITNESS:
+When I was asked if I knew what Interahamwe were, and I replied that they were MRND party youth, and when I was asked how I went back home, that's when I mentioned about --
+MR. PRESIDENT:
+No, that's a different matter.  The body of your evidence, before your trip home.  Do you remember?  We would like to get some clarification on that.  Was it not that the members of the youth wing of the MRND and that they wore a funny uniforms and banana leafs and that they manned roadblocks; is that correct?  Do you remember that?
+THE WITNESS:
+Those I referred to as wearing the banana leafs were those I found on the roadblock, and I said it.
+MR. PRESIDENT:
+No, the general definition that you gave, do you remember the definition you gave?  I'm not asking about muto, what is it, Tumungo, no, no, I recall that evidence, but I just want you to recall that -- to qualify that definition or the description you gave about Interahamwe: they have funny uniforms, wore banana leafs and that they manned roadblocks.  Do you recall? 
+THE WITNESS:
+I recall it.  (Answer not translated).
+MR. PRESIDENT:
+That's what I wanted to know.  Another thing I want to know was at the time that you left Byangabo Centre or Byangabo, as you put it in your evidence -- you had already seen the accusation, if at all, made by the youth against the conseiller; is that correct?
+THE WITNESS:
+Yes, I had heard it.
+MR. PRESIDENT:
+And is that your evidence, is it correct to say that they were sitting to kill Tutsis?  Would that be correct?
+THE WITNESS:
+That would be correct because what they were telling them was to go and kill Tutsi and if one -- even if they prevented you from doing it they still resisted him (sic).
+MR. PRESIDENT:
+Let me qualify.  At the time you left for Rwankeri, as well as to Mt. Busogo, had you known that these youths and all these other people were involved, apart from you, of course, were going to kill Tutsis?
+THE WITNESS:
+When I left Byangabo, heading towards Mt. Busogo and Rwankeri, I already knew that those people were going to kill Tutsis.
+MR. PRESIDENT:
+Thank you.  Now, Witness MLNA, this marks the end of your testimony:  we thank you.  We shall have time, at a later stage, to examine and consider your evidence, together with all the other evidence that has been adduced and is going to be adduced in the course of this trial but, once again, we thank you and you may leave once the curtains are drawn.
+THE WITNESS:
+Thank you.
+MR. PRESIDENT:
+Wait until the curtains are flipped.  
+Ready, registry?
+MR. KIYEYEU:
+Yes, My Lord.  Maybe from the Chamber -- the witness had asked me if he could be allowed to greet Mr. Kajelijeli.  I informed him to address the Chamber, so he can be heard after the Prosecutor now.  Maybe he's waiting for me to act or maybe if he can put it for the interim for the Chamber.
+MR. PRESIDENT:
+Yes, well that can be arranged.  Ms. Ojemeni, learned counsel for the Prosecution.
+MS. OJEMENI:
+Your Honour, there is an established procedure we've been following on the procedure.
+MR. PRESIDENT:  
+Yes, it's not a problem.  Of course, it cannot be done right now as the Accused is here in Court, but later I think arrangements can be made by the registry to enable the witness to see and greet the Accused.
+MR. KIYEYEU:
+We have taken note, My Lord.
+MR. PRESIDENT:
+I think there's no problem with that one.
+MR. HINDS:
+Thank you, Your Honour.
+MS. OJEMENI:
+Your Honour, before the next witness comes in, I just have a few issues to clarify.  In respect of the Court proceedings tomorrow, I'm not quite sure if all the motions we have pending will be taken tomorrow or if just the motion in respect of our objections to calling the expert, because we have another motion under -- that we filed under 66(c) and 70.
+MR. PRESIDENT:
+Which one?
+MS. OJEMENI:
+66(c) and 70.
+MR. PRESIDENT:
+Which one is that?
+MS. OJEMENI:
+The motion for disclosure of video.
+MR. PRESIDENT:
+That will be organised later.  I think you will give -- we'll give indication -- we did indicate in our scheduling that it could be orally heard, but certainly not tomorrow.
+MS. OJEMENI:
+Okay.
+MR. HINDS:
+That was my understanding, Your Honour, that tomorrow is limited to the issue of the expert, given time constraints we are dealing with.
+MR. PRESIDENT:
+Yes.
+MS. OJEMENI:
+Your Honour, we also have another motion we intend to raise orally in response of the rebuttal because there's really no element of surprise.
+MR. PRESIDENT:
+The what?
+MS. OJEMENI:
+In respect of rebuttal in our case, we intend to reopen after the defence case and we intend to take it tomorrow orally, subject to the Court's convenience.
+MR. HINDS:
+Your Honour, I think, first of all, that is irregular.  The Prosecutor filed a notice of rebuttal, we are required to respond and we are proceeding to respond.  I don't know if you have a different rule.  We intend to respond and we intend to respond with a brief with case law with respect to that issue of rebuttal, but I don't know what -- if they intend to supplement what they represented with an oral argument.  If that is the case, we will meet the oral argument with an oral argument.  But I thought that they proceeded pursuant to the Rules of Procedure to serve notice on us that they intended to move with the rebuttal case.  They gave us the names of the witnesses and statements.  We, I think, have a right to respond unless the Chamber deems it differently.  I mean I'm not objecting to them seeing anything they want to see in Court, but I just wanted the Court to know that we are responding within the rules based upon when we received the document.  We intend to submit a written response so that the Chamber can deal with this in a reasonable manner.
+MS. OJEMENI:
+Your Honour, I think there is a misunderstanding here.  What we served on the Defence is more or less a disclosure that we made.  We intend to move the Court tomorrow orally because, like I said, there's no element of surprise here.  We had, on the 10th of April of last year, informed the Court that we will be calling witnesses in rebuttal and -- but if it's not convenient for this Chamber, we will file a motion first thing tomorrow morning, but I thought to move the procedure forward it will be best to argue the motion orally.  That's what I'm just informing the Court.
+MR. HINDS:
+But there is no motion, as I understand it, there is a notice that was given to us with respect to the Prosecutor's intent to call a rebuttal with respect to this particular issue, alibi.  We intend to meet that in writing.  I mean, if they want to proceed by way of however they want, that's fine with us.  I just thought that we were required, because we were given notice, to proceed by the way that we were going to proceed to address that issue.
+MR. PRESIDENT:
+Professor Hinds, if we may ask, if you respond, to what will you be responding to and before whom?
+MR. HINDS:
+We intend to file -- we intend to file a motion with this Court with respect to the notice that we've received.
+MR. PRESIDENT:
+I think --
+MR. HINDS:
+Because this is the first time it has been joined, A, not in a speculative way.  The Prosecutor now has served notice with us with respect to the scope of the rebuttal and there are serious legal issues related to it, so we intend to deal with that.
+MR. PRESIDENT:
+I think, to be organised, this is what the Trial Chamber thinks:  We have been informed about notice, it is notice, whatever, I don't know whatever name you can give it.  I think if the Prosecution wants to raise this issue formally before the Trial Chamber, then they must proceed by way of a motion.  You can do it orally but I think we would suggest, in order to enable the parties to prepare themselves and organise themselves, file a motion to that effect, and then the Defence will have the right to reply in the usual manner and then the pleadings will be followed up, and completed and we will certainly see whether the Trial Chamber should have a hearing to ventilate issues because there may be issues to be raised and followed up and for determination.
+MS. OJEMENI:
+Very well, Your Honour, first thing in the morning.
+MR. PRESIDENT:
+So, tomorrow we'll be dealing only with the prosecution motion dealing with the question of the expert testimony and, of course, also the Defence has filed --
+MR. HINDS:
+We -- it has been mischaracterised as a motion but it is really a response in opposition.
+MR. PRESIDENT:
+So we have the pleading, we'll hear the parties on this motion, as rightly pointed out by, I think, both of you, because of the time constraints, let's hear that one.  The witness can possibly be here and then have it determined to see how we go on from there.  So we start with that one tomorrow and have it finalised and then we see, we continue with the testimony of the witness who is going to take the stand in about around this time and then the Trial Chamber will deal with this issue as quickly as possible, so that we all know how we proceed from there.  Can we now have the next witness for the Defence, please?  That will be --
+MR. HINDS:
+Defence calls Witness FMB. 
+THE COURT:
+We have always been -- never been able to know the background of these pseudonyms.  Somebody was asking me about MLNA because in the course of the testimony -- but this has been -- the names changed, we don't have to know the background.
+MR. HINDS:
+In closed session I will tell you because it has some relationship with -- yeah, there is some rhyme and reason to these long pseudonyms, yeah.
+MR. PRESIDENT:
+All right, we have the witness.
+MR. KOSHOPA:
+(Declaration made by Witness FMB in French)
+MR. PRESIDENT:
+Professor Hinds, is Witness FMB familiar with Court proceedings?  We don't need to give him --
+MR. HINDS:
+I think he was given an orientation.  I don't know, I think he's given an orientation with all of the others.
+MR. PRESIDENT:
+Some of them we want to do that because just to give assurance the trial will proceed, that's all, but if he's familiar we can go ahead at any rate.
+
+
+
+
+
+WITNESS FMB
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. HINDS:
+Q.	Witness FMB, how are you this afternoon?
+A.	I feel very well.  Thank you.
+MR. HINDS:
+Your Honour, this witness will be testifying in French so we don't need to deal with Kinyarwanda with this witness.
+BY MR. HINDS:
+Q.	Witness, we are in what is called open session, and so any time we are in open session, you have to be very careful about what you say because it could possibly reveal your identity.  Do you understand that?
+A.	Yes.
+Q.	All right.
+MR. HINDS:
+All right, I am now going to make a request of the Trial Chamber that we go into closed session so that I can ask you some questions that I know may reveal your identity.  So we'll go into closed session, if the Trial Chamber authorises it, and then you will be free to answer the questions freely without fear of disclosing your identity.  Do you understand that?
+A.	(Not interpreted)
+MR. HINDS:
+Your Honour, may we request the registry to move us into closed session.
+MR. PRESIDENT:
+Yes, we'll go into closed session to raise questions to the witness, some of which could have a bearing on his identity.
+(At this point in the proceedings, a portion of the transcript (pages 68 to 79) was extracted and sealed under separate cover as the session was heard in camera)
+
+
+
+
+
+
+
+
+
+	1710H
+BY MR. HINDS:
+Q.	Witness, we are now in open session and I am going to ask some questions.  So you should bear that in mind in terms of any of those answers that may reveal your identity and then you should indicate that to the Trial Chamber and the President will then give you instructions.  Do you understand that?
+A.	How am I to know?
+Q.	Well, I will ask you a question and you will think of an answer and if you think your answer -- the only way that you can answer the question, that may reveal your identity, at that point you will then indicate that you are not able to answer without revealing your identity and the President will then advise you on how we will proceed.  Do you understand that?
+THE WITNESS: 
+	Yes, I understand. 
+MR. PRESIDENT:
+Good. Go on, Counsel. 
+BY MR. HINDS:
+Q.	Witness, you indicated -- you described the restrictions that were placed on the civilian population moving back and forth in the demilitarised zone.  Was that the situation in Kinege? 
+A.	Movement of the civilian population was outside our control once the civilians have gone beyond the roadblocks mounted by the soldiers.  And there, control of the movement of civilian population within the Kinege commune itself was under the control of UNAMIR but we did not know this because once the civilian population had gone through the roadblock controlled by the Rwandan Armed Forces, it was no longer under the control, the civilians were no longer under their control.
+Q.	Now, Witness, you testified that you had deployed, that is, the military had deployed roadblocks; is that correct?
+MR. PRESIDENT: 
+	What is your question?
+MR. HINDS: 
+	Whether or not roadblocks were deployed by the military; was that his testimony?
+THE WITNESS: 
+	Yes, that is my testimony.  And if you recall, I did say that the government, by creating the buffer zone, decided that the Rwandan Armed Forces should stop where they had gotten, and that is how the advance of the Rwandan Armed Forces was stopped.  And there, they established their defence positions, and on the roads, they would erect roadblocks which were made up of huge rocks to prevent movement, be it vehicles moving in the demilitarised zone -- or to prevent the movement of vehicles moving into the demilitarised zone, and at night also prevent the movement of vehicles from the other side into the government areas.
+Q.	Now, Witness, do you have any recollection today of where there were barriers set up or roadblocks on -- on April 6 of 1994 by government forces on roads leading from Mukingo into Kinege commune?
+A.	The roadblocks on the roads from Mukingo to Mukingo (sic) were located in two places; one at Shingiro opposite Susa and very close to - and very close to a second road close to the small village called Tero.  So there was one, let me repeat --.
+MR. PRESIDENT: 
+	Yes, there was one road located at Shingiro opposite Susa, and the other one?
+THE WITNESS: 
+	There is another small road which goes from Kimonyi towards Kinege and a small village whose name I have forgotten.  I might recall that in a moment, that goes to Kinege and on that road as well there was a roadblock.  There was a roadblock.  So two roadblocks on two routes who lead from Mukingo towards Kinege.
+MR. PRESIDENT: 
+	Yes, could you spell please the names of these places, Shingiro, Susa, it is Kamunye?
+THE WITNESS: 
+	S-H-I-N-G-I-R-O.  Susa, S-U-S-A, Kamunyi, K-A. It's Kimonyi, I am sorry. K-I.
+	Let me start all over again, K-I-M-O-N-Y-I, Kimonyi.
+MR. PRESIDENT: 
+	Yes, Counsel.
+BY MR. HINDS:
+Q.	Witness, were you in the -- in Ruhengeri when the -- when you said that RPF attacked and took over the town of Ruhengeri for about three days?  Were you in the vicinity?
+A.	On 8th February 1993 during the RPF attack at Ruhengeri, I was in Ruhengeri at the command post.
+Q.	Witness, do you -- did you conduct any investigations subsequent to that attack?
+A.	Can you clarify the question with regard to the purpose of the investigations?
+Q.	Did you conduct any investigations to ascertain whether any officials were killed during that attack?  I think I will withdraw the question.  Do you know whether or not any officials were killed during that attack?
+A.	Yes, during the attack on Ruhengeri in 1993, there were a lot of civilian deaths in Ruhengeri.  They were the préfecture officials and at the communal level.  And it was during that attack that the bourgmestre of Kinigi was killed.
+Q.	And do you know his name, that is, the bourgmestre of Kinigi who was killed?
+A.	Honestly, I knew his name, but the name has just escaped me.
+Q.	Witness, it happens sometimes, when you just draw a blank.  Let me go to another question and perhaps the name will come back to you.  
+
+Witness I would like you to look at this map and see whether or not you can identify this document?
+
+MR. HINDS:
+Can you show this to the Prosecutor please?  
+BY MR. HINDS: 
+Q.	Witness, I show you a document and ask you whether or not you know what that document is?
+A.	The document is a map of Ruhengeri, administrative map of Ruhengeri préfecture, and it is drawn by the mapping units of Rwanda dated February 1994, February 1984.
+MR. PRESIDENT: 
+	February?
+THE ENGLISH INTERPRETER:
+Nineteen eighty-four.
+THE WITNESS: 
+	The month is February and the year is 1984. 
+BY MR. HINDS:
+Q.	Now, Witness, have you seen or used a map, this map before:  That is, not this identical map, but one like this one?
+A.	Yes, the same types of maps have been used by me on several occasions, not only whilst I was in Ruhengeri, but even earlier than that.
+Q.	Witness, be very careful now with how you answer.  Do not say anything that would reveal your identity in terms of who you are.  
+
+Now, Witness, you have testified before this Tribunal and indicated that you, first of all, that the area of Kinege, the whole area of Kinege had become demilitarised zone in February of 1993; is that correct?
+A.	Yes, that is correct.
+Q.	Are you able to see the outlines of Kinege commune?  Is the lighting poor or --
+A.	No, there is no problem; I am just looking for the boundaries of commune that you referred to.  Yes I can show you when its boundaries are.
+Q.	Witness, we would like you to assist us by taking a marker and outlining the boundary of Kinege for us.  Could you do that?
+A.	Yes, I can do that.
+MR. PRESIDENT: 
+	Tracing the boundaries?
+MR. HINDS:
+Yes, tracing the boundaries. 
+BY MR. HINDS:
+Q.	No, no, hold on to the map, Witness.  Now you also testified that there were barriers established on two areas you said, leading from Mukingo going into Kinege, one from the area named Shingiro and Susa and then there is another place.  Can you locate those roads where barriers were located going from -- in the Mukingo commune between the -- Mukingo and Kinege?
+A.	Yes, I can locate the two places.
+Q.	Witness, can you, first of all, take this  marker which is a different colour, and just highlight the roads going from Mukingo into Kinege where you said that you know roadblocks were established?  Have you highlighted the roads from Mukingo going into Kinege where roadblocks were established?
+A.	I have highlighted part of that road, but the part contained in Mukingo, do you want me to highlight it right up to Kinege commune?
+Q.	Yes, up to the border?
+A.	Okay.
+Q.	Now, can you with the orange or pink marker put an X where the barriers were on those roads, leading from Mukingo going into Kinege?
+A.	I said that there are two roads.  Do you want the markings on one road or on both?
+Q.	On whenever the barriers were located.
+A.	Done.
+Q.	Okay.  Witness, can I see your work product?  Can I take a look of what you have done?
+A.	Yes.
+MR. PRESIDENT: 
+	In the meantime, Witness, can you switch off that microphone?
+MR. HINDS:
+Now, what we would like to do is to -- with the indulgence of the Court, to display what the witness has drawn without - I'm trying to avoid going into closed session.  So we'll have the witness sit where he is and put the map on the easel, and perhaps if our technical crew could also assist, they would zero in on that which then could be displayed on the screens I assume, without dealing with the witness's confidentiality and without as going into closed session.  So let's see if we can do that. Could we put the map drawn by the witness on the -- or are you thinking you can project directly on the screen?  Okay, let's try and see if you can do that.  Right, that's great.  Okay.  All right, now could we now have the screen drawn and I will prepare as long as -- but I don't think we will need this pointer.  We will need a small pointer for him to show certain areas.  So this is better, I didn't know that you would be able to accomplish this.  Okay, could we have the witness go to -- is it possible for him to go there without going into closed session?  Okay.
+MR. PRESIDENT: 
+	Yes, Witness.
+BY MR. HINDS:
+Q.	Okay.  Witness, now could you point out to the Court, well - withdrawn.  The area that is now highlighted, going from left of the map all the way around, that is, a continuous border that you have drawn, that is, the area contained therein, is Kinege commune; is that correct? 
+A.	Yes, that is correct.
+Q.	Okay. Now looking at that map, can you identify the roads that are passable by motor vehicles going from -
+MR. PRESIDENT: 
+	Which area is Kinege and which area is not Kinege here? -- The boundary -- yes for the record.
+BY MR. HINDS:
+Q.	Witness, for the record, can you describe the area that is contained within Kinege?  If you can look, there maybe even - 
+MR. HINDS: , 
+I don't know if you can sharpen it a bit, so he can show of the horizons there.  Even with my glasses it seems fuzzy.  No sharpen it, you have given me fuzzy, I think.  Oh, okay.  All right.  
+BY MR. HINDS: 
+Q.	Okay.  Can you describe the area that is contained within those borders, for the Court record, that comprises the commune of Kinege? I suppose those areas are called secteurs?
+A.	Yes, there is the Kinege bureau communal office, and you can see over there the boundary separating the inhabited zone from the chain of volcanoes and you have Bisate, Nyabitsinde, Kabwende, Kanyamiheto, Nyarugina, Musanze, Gihora, Nyange, Kagano, Gasiza and the Kinige bureau communal.  What can we say else?  There is a road coming from Nkumba which passes through the communal office and goes towards -- it passes the Kimonyi side towards the main road towards the Ruhengeri-Mukingo-Gisenyi.  We also have a road from Kinege which goes along Kanyamiheto, between Kanyamiheto and Musanze, goes through to Nyarugina and ends up at Susa onwards towards Shingiro, Muhingo and Mukingo, same road coming from Kinege also can go through Kabwende and Kanyamiheto to Rushubi to join up the other branch close by Susa to descend down to Mukingo.
+Q.	Witness --
+MR. PRESIDENT: 
+	Counsel, is it -- it's a description of -- you know, of the area that is Kinege commune, would it not be sufficient, maybe you can put a question to the witness that this is the area above and within the highlighted boundaries?
+MR. HINDS: 
+	I will handle it.
+MR. PRESIDENT:
+You see.
+BY MR. HINDS:
+Q.	Is it fair to say, Witness, that the area that comprised Kinege is of all that area that is within the highlighted boundaries that you have drawn and what is called nationale de Birunga is a national -- national mountains?  Is it all the area that is contained within that?
+A.	It's a chain of volcanoes.  Birunga is a name in Kinyarwanda which translates into volcano.  So the zone, the Kinege area includes the markings in pink, the upper part, and the part above the marking. 
+Q.	Okay.  All the way up to the boundary of what is it, Zaire, is that it?  Is there another country?  Does it go up to the boundary of another country, is it Zaire?
+A.	Apart from Zaire, there is Uganda beyond Kinige and beyond Nkumba and Kidaho.
+MR. HINDS:
+Yes.  But is that sufficient, Your Honour?
+MR. PRESIDENT: 
+	I think so, I assume.
+
+BY MR. HINDS:
+Q.	Okay. Witness I draw your attention to the barriers.  The roads, the roads that you have highlighted going towards Kinege, are those the only passable roads by motor vehicle going from Mukingo going into Kinege?
+A.	No, those are not the only ones. I have highlighted those two because they are the ones which come from Mukingo to Kinege, but if you want to go to Kinege,  by going through Musanze, you would leave Mukingo towards Musanze or towards Ruhengeri and then there is Kinege, but there are other possibilities of going through other communes.
+Q.	But in terms of going from Mukingo to get to the area of Susa in Kinege is the road that you have shown where your barrier is; is that the only passable road by motor -- by motor car motor vehicle?
+MR. PRESIDENT: 
+	Yes.  Can you please highlight the area of these indicated roadblocks so that you can see the names Susa if at all they are there, in clear terms?  Registry?
+BY MR. HINDS:
+Q.	Witness, can you point out to where the roadblock was in relation to Susa?  Can you point out that out on a map for the Trial Chamber?  You put in the roadblock which is a dot?  Is that correct?
+MR. PRESIDENT: 
+	And it is possible to have that more focused, registry?  We can have that part of the map now directly concerning the said roadblocks?  Okay.
+BY MR. HINDS:
+Q.	Now, Witness, can you point out the roadblock -- of the two -- which roadblock was in fact the roadblock that is near Shingiro, between Shingiro and Susa?
+A.	Yes, it's the roadblock between Shingiro and Susa, but it's closer to Susa than Shingiro because Susa is a small stream which separates Kinege commune and Mukingo commune.  But the roadblock which I placed here, I did so because this was on the military side.  If you recall, I said that in 1993 the Rwandan Armed Forces who were supposed to stop where they had reached.  So I have highlighted that on the road, the so-called key positions, in other words, the dominant positions.  And the roadblocks, what were they made of?  This has to be described.  
+The roadblock is part and parcel of the military positioning and it's reinforced on the road by stones.  These stones are lined up for more than a 100 metres, in other words, from the points I have marked here in pink, there would roadblocks consisting of large rocks on the road.  But in order to disrupt movement along this trunk up to the Susa stream, there were stones in order to hinder possible movement of vehicles.  So I have only indicated the roadblocks which corresponded, corresponded to the military positions.
+Q.	Witness, was there a community, or village or a community called Susa in the vicinity of that roadblock that you established, and if so, where was it located?  Was it in the Kinege side or Mukingo side or both?
+A.	Generally the villages here would adopt the name of the river Susa, for instance, and as you see here, Tero, on both sides, because the village wouldn't normally respect the administrative boundaries.
+Q.	Well, Witness, now, you described the area in Kinege as the demilitarised zone.  Can you, just using the map, point out where the demilitarised zone encompassed in Kinege?
+A.	The Kinege demilitarised zone, a moment ago I said that during the establishment of the demilitarised zone, the Kinege community, had -- the commune had not been reconquered by the Rwandan Armed Forces.  So not all of Kinege fell under the demilitarised zone as a whole. 
+Q.	The area -- Witness, the area between where you said that roadblock was in the area of Susa, did that fall within the demilitarised zone, that's in Kinege?
+A.	On the Kinege side, the Susa village was in the demilitarised zone.
+Q.	Now, I would now like to ask you --
+MR. PRESIDENT:
+Counsel, if it is convenient you could stop here and then continue tomorrow.
+MR. HINDS:
+That's fine because I am going into a new area in terms of zones, okay.
+MR. PRESIDENT: 
+	Yes.  We well continue from here, from the roadblocks.  We might need smaller versions of this map should it become an exhibit.  Is it possible, registry?
+MR.  HINDS:
+Your Honour, fine.  We are only using that portion that can fit on the screen, so that can be copied, if the registry can facilitate us in copying.
+MR. PRESIDENT: 
+	At a later stage see how things develop.
+MR. HINDS:
+Okay.
+MR. PRESIDENT: 
+	Yes, we will stop here and resume our work tomorrow at 9:00 in the morning.  And witness FMB, since you are still testifying, you should not discuss your evidence with anybody else outside the courtroom until we meet tomorrow here at 9:00 in the morning.  
+
+We intend to start tomorrow with the motion, with the motions rather.  So, maybe arrangements could be made about the arrival of the witness, the registry will be able to do that, but I think he should come normally at 9:00.  Sometimes, it might not take that long you never know.  So the witness should be here by 9:00 in the morning, nonetheless.
+MR. KIYEYEU:
+We have taken note, My Lord. 
+MR. PRESIDENT:
+He might not be in the courtroom but be should be around the premises of the courtroom. 
+
+So until tomorrow at 9:00, these proceedings stand adjourned.
+	(Court adjourned at 1735H)
+(Pages 80 to 87 by Petrus Chijarira)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Geraldine O'Loughlin, Sithembiso Moyo, Judith Baverstock, Rex Lear and Petrus Chijarira, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________		Geraldine O'Loughlin
+
+___________________________		Sithembiso Moyo
+
+___________________________		Judith Baverstock
+
+___________________________		Rex Lear
+
+___________________________		Petrus Chijarira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAJELIJELI	1 APRIL 2003
+
+GERALDINE O'LOUGHLIN - ICTR - TRIAL CHAMBER II - page 26
+
+	KAJELIJELI	1 APRIL 2003
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER II - page 31
+
+	KAJELIJELI	1 APRIL 2003
+
+JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER II - page 60
+
+	KAJELIJELI.	1 APRIL 2003 
+
+REX LEAR - ICTR - TRIAL CHAMBER II - page 67
+
+	KAJELIJELI	1 APRIL 2003 
+
+PETRUS CHIJARIRA - ICTR - TRIAL CHAMBER II - page 87
+
+	KAJELIJELI		1 APRIL 2003
+
+ICTR - TRIAL CHAMBER II
+

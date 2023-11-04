@@ -1,0 +1,1504 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+	
+
+ WEDNESDAY, 15 JUNE 2005
+ 0853H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Gberdao G. Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Dior Fall
+	Mr. Adama Niane
+
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporter:
+	Ms. Donna M. Lewis	
+	Ms. Jean Baigent	
+	Ms. Karen Holm
+	Ms. Wendy Molnar
+
+
+I N D E X
+
+WITNESSES
+For the Prosecution:
+WITNESS ALA
+Cross-examination by Mr. Hooper	2
+Re-examination by Ms. Fall	13
+
+WITNESS GIQ
+Examination-in-chief by Mr. Niane	27
+Cross-examination by Mr. Hooper	36
+Re-cross-examination by Mr. Niane	64
+
+
+EXHIBITS
+Exhibit No. D. 10	25
+Exhibit No. P. 30	28
+Exhibit No. D. 11	37
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everyone.  
+
+Mr. Registrar, could you open the proceedings, please. 
+MR. FRY:
+Yes, Your Honour.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, Presiding, Judge Hökborg and Judge Kam, is now sitting in open session today, Wednesday, 15 June 2005, for the trial in the matter of the Prosecutor versus André Rwamakuba, Case Number ICTR 98-44-C-T.
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Thank you, Mr. Fry.  
+
+Good morning everybody, once more.  I just want to put on record that as we had indicated during the status conference, that we will be sitting under 15 bis without Judge Hökborg until next week, Wednesday.  Special arrangements have been made for these purposes and the proceedings are being video taped during her absence, so we are on camera from now on.
+
+To comply with the general rules and practice of the amount of time that we are permitted to sit under 15 bis we have decided that we will not be sitting on Friday of this week.  So there will be no session on Friday.
+
+Another preliminary matter, we have to note, with appreciation, the ex parte filing by the Prosecutor of the -- of supplemental information concerning the application for witness transfer.  We appreciate the additional information; but as the order has already been made, we consider it moot and there will be no formal response, apart from this acknowledgement.  
+
+Yes, Mr. Prosecutor.  
+MR. WEBSTER: 
+Good morning, Your Honour.  May I begin this morning with an application?  We had planned to present CD ROMs and argue a few points of evidence in relation to the exhibits that were offered through Baghel Upendra.   Unfortunately, we have been unable to assemble all of the materials this morning.  I was hoping that we could adjourn that particular portion of our case until tomorrow morning. 
+MR. PRESIDENT:
+Mr. Hooper.  
+MR. HOOPER: 
+I actually have no objection to that, but may I suggest that maybe it would be better in the circumstances if it was -- that tomorrow morning could be fine, but of course the Judge is not here tomorrow either.  I'm sorry, I have no objection to that at all, whenever it is convenient.  It is not the most pressing matter. 
+MR. PRESIDENT:
+Thank you, very much. 
+
+Mr. Webster, the application is granted. 
+MR. WEBSTER: 
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Mr. Witness, your testimony will continue this morning.  You will be under the same oath that you took yesterday to tell the truth, the whole truth and nothing but the truth. 
+
+Yes, Mr. Hooper.  
+MR. HOOPER: 
+Thank you. 
+WITNESS ALA,
+                    CROSS-EXAMINATION (continued)
+BY MR. HOOPER:
+Q.	Mr. Witness, may you be shown again, please, the list D. 9 which was the list of names that you indicated yesterday.  As appropriate, I will refer to these by their number and it is the quickest and easiest as a point of reference.  And you have indicated there, out of a list of nine names that you know seven of those names, or those people.  And I just want to explore with you your knowledge of them.
+
+First, I want to go to the two names that you have not ticked and just ask you if you do know, in fact, anything about them.  number 2 on the list, are you saying you don't know that man at all?  
+A.	Thank you, Counsel.  The -- 
+THE ENGLISH INTERPRETER:
+The witness has mentioned the name appearing at number 2.  He continues and says, "He does not know the person bearing that name well." 
+MR. PRESIDENT:
+Mr. Witness, it would be preferable if you refer to the persons on the list by the number at their name, because we try to protect their identity.  
+
+Is this a protected witness; do we need to have this name put under seal, Ms. Fall?  
+MS. FALL: 
+Maybe so.  Yes this is a protected witness. 
+MR. PRESIDENT:
+Registrar, the order is made for the protection of this name. 
+MR. FRY:
+Yes, Your Honour. 
+MR. HOOPER: 
+Thank you. 
+BY MR. HOOPER:
+Q.	So number 2, you have not ticked but you do know him to some extent; is that correct? 
+A.	No, I do not have any information about the person whose name appears at number 2.  I do not know that person. 
+Q.	That sounds contrary to your initial reply, the exact words I don't remember, but I thought you said words to this effect that, "You didn't know him very well."  Can I just pause there before you answer? 
+MR. HOOPER: 
+Was that a correct translation?  I wonder if the booth can help?  
+THE ENGLISH INTERPRETER:
+We are doing our job. 
+THE WITNESS:
+I shall repeat, I shall repeat my answer.  I do not believe I know the person whose name appears at number 2, especially because I do not know whether the third name is also a name or whether it refers to his profession, and that is confusing me.  I don't know whether it is referring to his position, his profession or whether it is part of his actual name. 
+BY MR. HOOPER:
+Q.	I think he lives in or near Ndatemwa; does that help you? 
+A.	I know someone who lives in that location and who bears that third name, but as far as I know, the person I know does not bear the first two names.  I do not know whether it is the same person that I know or whether that person that I know is also known under the first two names, but the third name appearing on this paper does bring confusion for me. 
+Q.	Now, there aren't many Tutsis living there.  I believe this gentleman is a Tutsi; does that help you? 
+A.	I am unable to answer your question because Ndatemwa is in Gasabo secteur, whereas I live in ********** secteur.  As for the ethnicity of the person, that was not of any interest to me.  I have never been interested to know who was a Tutsi or Hutu.  More so because the person we are discussing today lived far from where I lived. 
+Q.	How far as the crow flies would that be? 
+A.	In order to get to the secteur where he lived, there are two secteurs, between the one where he lived and the one where I lived, and I would guess the distance would be approximately 12 kilometres between the two. 
+Q.	Can I move to the other unticked name which is at number 6.  Again, please don't refer to the name of the person, just reflect on it yourself and to yourself.  At number 6, that is a woman Tutsi.  Do you know her? 
+A.	If I had known the person bearing those two names I would have said so, so I would have marked that position and I did not do so, which means, therefore, that I do not know that person. 
+Q.	And you have never heard of her? 
+A.	A name of someone can be mentioned to you if it is believed that you know that person.  But that name did not appear during the discussions that I had with very -- various persons.  No one mentioned that person who appears at number 6 bearing those names. 
+Q.	Thank you.  Can I move then to the first that you have acknowledged as knowing, number 3; how do you know that person? 
+A.	I know the person appearing at number 3 because Ndatemwa, which we were referring to, is on a road which is often used, a road which we used to go to Kigali, and the person whose name appears at number 3 -- 
+THE ENGLISH INTERPRETER:
+I'm sorry, Your Honours.  Could we start this over again?  The interpreter in the English booth has lost some of it.
+MR. PRESIDENT:
+Mr. Witness, this is the Judge speaking to you now.  Witness, would you mind just repeating your last answer?  It was lost in translation. 
+THE WITNESS:
+I know the person whose name appears at number 3 because the person lives close by our road which is used frequently; it is a road which we use when we want to go to the main road going to Kigali.  And that person **************************************************, and one can go there from time to time to go and buy a drink or to buy any other food stuff which one needs. 
+BY MR. HOOPER:
+Q.	Have you ever discussed this case with that person? 
+A.	No, we have not had any such discussion because we are not neighbours and we are not -- we do not have any close relationships between us.  
+Q.	Is that person Tutsi? 
+A.	Counsel, I have told you that I do not take much note of the ethnicity of people I deal with, but I do believe that the person in question may possibly be a Tutsi. 
+Q.	Can I go to number 5, jumping number 4 for a moment; do you know that person?  You have indicated that you have.  Can you help us with how you have come to know that person? 
+A.	That person whose name appears at number 5 ************** number 3.  And from time to time, I met them together, and it is under such circumstances that I knew the person whose name appears at number 3 that I came to know the one whose name is at number 5. 
+Q.	And I suppose, like number 3, you suspect that he may be a Tutsi, but that you don't know; is that the position? 
+A.	Yes, that is right, Counsel.  That is what I said. 
+Q.	And have you ever discussed this case with him? 
+A.	No, I never had any such discussion with these persons.  I have never discussed with anyone or either of the two persons in question to tell them that I was a potential witness in the Rwamakuba trial.  Therefore, we have not had any discussion whatsoever concerning this case.  And if they are potential witnesses in this case, they have never revealed that information to me. 
+Q.	Number 4, just going back one, is that someone -- someone you know, and how do you come to know that person? 
+A.	I also know the person whose name appears at number 4.  This person is a native of the secteur in which *************, and it is not surprising that I would know this person who lived in the secteur of which **************.  
+Q.	How long were you **********?  Don't specify any more detail, but how long were you ********? 
+A.	Eight years. 
+Q.	Was that a full-time job or did you have a working job at the same time or another job at the same time? 
+A.	I also worked for the *************** during the last two years.  I was working for the Rwanda **********, and I was a leader. 
+Q.	It is just that on one of the documents giving your occupation, you give it in that capacity of leadership.  Was that because it was, at that time, the only job you had? 
+THE ENGLISH INTERPRETER:
+The witness has mentioned the secteur of which he was *********** and he continues.  
+THE WITNESS:
+I was in that position for eight years and since I was also a worker for the ************* -- 
+MR. PRESIDENT:
+I would like to just thank the translation booth for not mentioning the name.  It has to be placed under seal.
+
+Mr. Witness, as part of the Rules governing your testimony, for the protection of your identity, you are not to mention the secteur from which you are, as it may assist in revealing who you are.  
+BY MR. HOOPER:
+Q.	Can I take you to number 7.  How do you know that person? 
+A.	The person whose name appears at number 7 also lived in the secteur of *********************. 
+Q.	Was number 7 also, like number 4, a Tutsi? 
+A.	Yes. 
+Q.	Number 8, how do you know that person? 
+A.	He lives in the same secteur. 
+Q.	Was he Tutsi? 
+A.	Yes. 
+Q.	Did you meet number 7 in Giti during the war, during the genocide? 
+A.	Yes, the person whose name appears in number 7 stayed with us in Giti for some period of time, but, subsequently, he left and went somewhere else. 
+Q.	How long did he stay with you? 
+A.	I do not think that person stayed for a very long time with us.  Maybe it would be a period of between three weeks and one month, according to my estimate. 
+Q.	Thank you.  Number 9, do you know number 9? 
+A.	Yes.  I, indeed, know the person whose name appears at number 9. 
+Q.	And in what manner? 
+A.	This person lives in an area known as *********** (phonetic).  And his younger brother -- 
+MR. HOOPER: 
+Don't translate any further (Microphone not activated). 
+THE WITNESS:
+When we would be going or coming from Kigali, we would pass by the drinking place, and we would often meet the person whose name appears at number 9. 
+BY MR. HOOPER:
+Q.	And finally number 10, I think you have already said or told us that you know that person because you got information from him; is that right? 
+A.	That is correct, Counsel. 
+Q.	Is he, in fact, the *********** of number 9? 
+A.	That is possible. 
+Q.	Well, don't you know? 
+A.	I didn't actually deny that.  In fact, you are quite right. 
+Q.	So possible was "yes" was it? 
+A.	Yes, Counsel. 
+Q.	And are they both Tutsi? 
+A.	I know that they were (unintelligible) and are survivors of the genocide.  This implies that they are Tutsi. 
+Q.	How do you know they are survivors? 
+A.	It is because I saw them when they were in their place of refuge, and when they came back they had themselves registered amongst the victims and whose houses has been destroyed.  I saw them when they came for the census because I was working for the *********** in that area. 
+Q.	And did survivors, from time to time, meet together? 
+A.	No.  Meetings which are organised were organised in a more general framework and are intended for all Rwandans, so there were no meetings restricted to the genocide survivors. 
+Q.	Just briefly going back to 9 and 10, did you meet them in Giti during the events? 
+A.	No. 
+Q.	I move now to events last night when you were asked to provide a list of survivors from Kayanga health centre, and you provided some names.  Do you have any others, that is, people who were present at the Kayanga centre during the attack at the Kayanga health centre?  Overnight were you able to think of any more names? 
+A.	I was able to remember three other names, but, in fact, there were many survivors who I can't remember, amongst them was one person name Rose Mukamana.  And then there is also a man named Mulinda and an old lady, whose first name was Isabelle. 
+Q.	Thank you, very much, Mr. Witness.  Now, just one final area.  I want to take you back to when you saw the Accused in this case, André Rwamakuba, or you claim you saw him in the third week of January of 1994 in secteur Kayanga, having arrived in a car Peugeot 505 - 505, together with Anastase Gasana and Aloys Munyangazu, and how you went, attracted by the sound of the loudspeaker, the attempt to repair the car, et cetera.  Now, you told us that you were introduced to André Rwamakuba and you shook hands with him.  Did he say anything to you? 
+A.	Rwamakuba told me nothing personally, especially so because he didn't know me.  This was our first meeting.  It was rather Gasana who told me that they had a mechanical problem and he asked me whether I could help them.  So I didn't have any discussion at all with André Rwamakuba. 
+Q.	You described him yesterday as, "He was short, he had thick lips or fairly thick lips."  And you added, "And I had never seen him wearing spectacles."  Do you remember saying that, "And I had never seen him wearing spectacles"? 
+A.	Yes, I remember that, Counsel. 
+Q.	Why did you add that, "And I have never seen him wearing spectacles"?  It is a strange way to describe someone, isn't it? 
+A.	I wanted to distinguish him from the two other persons who were with him in the vehicle.  Gasana wore spectacles, and I don't know whether you have done your investigations to find out whether or not Gasana and Munyangazu did not wear spectacles or not.  I just wanted to make a distinction between Rwamakuba and the two persons who were with him in the vehicle. 
+Q.	Why did you say, "I've never seen him wearing spectacles;" not that he wasn't wearing spectacles, for example, but, "I've never seen him wearing spectacles"? 
+A.	On that day, I didn't see him wearing spectacles.  And even on the occasion where I -- when I saw him passing by in his vehicle, he was not wearing spectacles.  This means that I never saw him wearing spectacles during all of the occasions that I saw him. 
+Q.	So "He is short, he has fairly thick lips, and I have never seen him wearing spectacles," that is your description.  The reference to spectacles, did that come about as a result of your talking about this case to somebody else? 
+A.	No, I have never discussed with anyone this case.  I stand by what I said; I referred to spectacles in order to make a distinction between him and the two other men. 
+Q.	Anasthase Gasana was a man that you knew well; is that correct? 
+A.	Yes, I agree with you. 
+Q.	He was, in 1994, the president of MDR in your commune; is that correct? 
+A.	I don't know about that.  I am not sure whether he was the MDR chairman or not.  You see, normally Gasana did not live in our area.  He lived in Kigali and he was a minister and at the same time he was a lecturer, a university lecturer.  Now with regard to him being MDR chairman, I have to say that I was not really interested in belonging to any political party and, therefore, I cannot be specific -- or rather, I cannot be sure about the fact whether he was an MDR chairman or not.  But from general information I came to know that he was a member of the MDR. 
+Q.	In fact, if I used the word "chairman" as I think I did, that was a mistake on my part.  I apologise.  The word I should have used was president of the MDR for the commune of Gikomero.  I don't ask a question on that, I just correct myself.
+
+Munyangazu, Aloys, who was with him that day, you say with André Rwamakuba, he was the vice president, wasn't he, of the MDR in that commune?  
+A.	I told you that I was not really interested in politics.  If you -- if such and such a person was the president of the MDR or the Liberal Party, that was something that I was not really interested in in finding out.  So, all that I can tell you here is that I am sure that Gasana was a member of the MDR, just as was the case with Munyangazu.  And those two people were often seen at meetings of the MDR.  I received this information from other people who used to attend, or who attended MDR meetings. 
+Q.	I'm just focusing for a moment on this meeting -- or not meeting, whatever you want to call it, this stop at Kayanga with loud speakers in January.  Anasthase Gasana lived in Kigali, but he did have a home, didn't he, quite a relatively substantial home compared to the other houses at the Ndatemwa centre; is that correct? 
+A.	Yes, he had a home at that centre. 
+Q.	And I know you pay no interest in these things, but his wife was Tutsi, wasn't she? 
+A.	I don't even know where his wife hails from.  I saw her passing by, but I do not know her area of origin, particularly since people did not see her often.  She did not frequently visit our home area.  Therefore, I am not in a position to say that she was a Tutsi or a Hutu. 
+Q.	Now, it is accepted that André Rwamakuba was a member of the MDR and that he had an interest in Gikomero.  When you saw him in the third week of January you say he stood there making anti-Tutsi remarks, "Now is the time for the Hutu to get rid of the enemy" and by enemy he meant Tutsi, you understood clearly that he meant Tutsi, that is correct, isn't it, that is what was going on, according to you? 
+A.	Yes, I confirmed that those comments were made by Rwamakuba over the loudspeaker.  In other words, that Hutus should get rid of the enemy and the enemy is the Tutsi. 
+Q.	And the other two, Aloys Munyangazu and particularly the president, as I suggest he was, of the commune MDR, Anathase Gasana stood there next to him, didn't intervene, didn't object, let him carry on, in fact, seemed to be with him on this; is that right? 
+A.	Yes.  You see, you have to understand what I am saying here.  When I got there, each one of them had a bottle of a bear call Primus.  So when Gasana introduced me to the two other gentlemen, and when I opened the bonnet of the car in order to check the parts which had been damaged.  We were under a tree; we were under -- near a house.  So at that time, those people did not really use a microphone.  It would seem that only Rwamakuba had a special message which he wanted to pass on to the people who were there.  And he was the one who used the microphone in order to do that. 
+Q.	I understand that, but Gasana was there and quite plainly a part of that group, wasn't he, according to you? 
+A.	Yes, they were together, that is something that I am not denying, but with regard to who spoke, I repeat that whether it was Gasana or Munyangazu, none of these people spoke.  I don't know whether they spoke at another location.  But with regard to this specific location, only Rwamakuba spoke and called on Hutus who were there.  And they asked those Hutus who were there to get rid of the enemy. 
+Q.	Now, Gasana and Munyangazu were both known, if I can use the word, moderates; isn't that correct? 
+A.	I am only testifying to what I saw; I don't know whether other people know them differently.  I'm just describing what I actually saw and what I heard at that time.  I don't know whether there are other people who know them in a different manner. 
+Q.	And at that time -- excuse me, at that time Anasthase Gasana was the minister for foreign affairs for Rwanda; is that correct? 
+A.	That is correct. 
+Q.	After the events and the genocide, Anasthase Gasana remained foreign minister under the new government of Paul Kagame and the RPF; he remained the minister for foreign affairs; did he not?  
+A.	You are quite right. 
+Q.	He then became Rwanda's representative at the United Nations; did he not? 
+A.	Yes.  
+Q.	And you say that he stood by André Rwamakuba in January, while Rwamakuba said these strong 
+	anti-Tutsi sentiments.  I suggest that is not correct and you are not being truthful about that. 
+A.	I don't know what you are trying to get across to me.  I don't know whether you are telling me that if someone acts in bad faith that he cannot travel with someone who is well-intentioned.  You know, you have someone without possessing what -- let's say someone who is ill intentioned and that                  ill-intentioned person sometimes can travel with a well-intentioned person.  So maybe on that occasion they were traveling together.  But maybe one or the two other people who are with him did not want to reveal his bad intention.  But as far as Rwamakuba is concerned, he openly revealed his ill intentions.  I don't know whether the other two gentlemen had their own intentions, I don't know whether they spoke when they got to other places, but with regard to that specific place, it was only Rwamakuba who publicly expressed what was in his mind. 
+Q.	Just dealing with Aloys Munyangazu, he continues to live and prosper in today's Rwanda; is that correct? 
+A.	Everyone is aware of -- everyone knows what problem he has, but all I know about him is that he is in Rwanda and he is working for the ministry of agriculture and livestock development.  Furthermore, ***********************************. 
+Q.	Neither Gasana nor Aloys Munyangazu have ever expressed any anti-Tutsi feelings or sentiments, have they?
+A.	I never really spent time with those two men.  In other words, I was not with them often.  When they came to their homes and their villages, I did not really meet with them because they did not live close to me.  Munyangazu's secteur is quite close to Rwamakuba's secteur.  I don't live close to Gasana either.  So this means that when these men used to come to their villages, I did not meet with them in order to talk to them or to find out whether they were anti Tutsi or not.  Therefore, I cannot comment on that and I cannot express a position regarding whether they were anti Tutsi or otherwise because I did not have -- I did not spend enough time with those men, and I did not have extended contact with them which would have allowed me to comment on that issue. 
+Q.	Thank you, very much.  In your opinion, among the Hutus living in Gikomero commune in 1994, in April '94, are there among them good, honest, truthful men and women, in your opinion? 
+A.	Yes, there are many people whom meet those criteria. 
+Q.	Now, you said that you had never discussed the case with any of the people whose names you considered on the list that you ticked for me, but I thought you got information, did you not, from  number 10 on the list -- yes number 10 on the list? 
+A.	Yes, number 10 gave me information with regard to rallies which were held by Rwamakuba.  He gave me such information even prior to the commencement of this trial, when that person came in order to collect food aid and we talked about various adventures during the war.  So it was on that occasion -- or those occasions that we met in order to discuss about what had happened in order to discuss our various experiences relating to those events.  This trial had not yet commenced, and I didn't even know at that time that I would appear before this Court.  So I spoke with that person immediately after the war was over. 
+Q.	See, my question was not whether you had spoken to these people recently or in view of this trial, as it were.  But had you discussed these events with any of these people, and you said "none of them." And here is one, *********, yes, you have discussed this.  Any others on the list that you discussed what happened to you? 
+MR. PRESIDENT:
+Mr. Hooper.
+MR. HOOPER:
+I'm sorry. 
+MR. PRESIDENT:
+You put a name to number 10 which I would like to have placed under seal on the record. 
+MR. HOOPER: 
+Yes, sir.  I'm sorry, yes. 
+BY MR. HOOPER:
+Q.	Number 10, I am sorry.  You have just indicated number 10 as being someone you have spoken to about it.  In the same manner, have you spoken to any others about that, yes or no? 
+A.	I never discussed anything with anyone regarding this trial.  We did not know that there would be a trial against Rwamakuba and that we would come to testify at this trial.  I have to admit that I spoke to number 10 when we were at the food collection assistance programme.  I don't know whether that person spoke with his brother later about this, because, you see, something can be passed around by word of mouth.  Otherwise, I did not have discussions with the people who were on the list. 
+Q.	In terms of your own personal family, am I to understand that your wife and children were fortunate to escape the killings and that they still live -- or what is the position, sir? 
+A.	Yes, they survived, all of them survived. 
+Q.	You have seven children, is that right, on which are you to be congratulated?
+A.	Yes. 
+Q.	When you came back to your home after those events, I suppose the fact that you had been someone who had, for however short a time, **************************, must have presented a difficulty to you; is that right? 
+A.	No, I did not have any problem when I got home.  I did not have any problem related to the fact that I had ****************. 
+Q.	You are not one of a number of people who have put their heads together to give false testimony at this Tribunal, are you? 
+A.	I don't know what evidence you have in that respect in order to convince this Court that we are in the process of giving false testimony.  All that I know is that I have come here in order to testify, and that I swore to speak the truth and nothing but the truth.  Therefore, what I am saying is that everything that I am saying or speaking here is the truth.  So I don't know what is your basis for saying that we are here giving false testimony.  I am in the process of narrating events which actually occurred in Rwanda.  I don't know what evidence you can present before the Court in order to show that actually you know all of those events better than I. 
+Q.	Well, as you know, sir, from what you have just said, and I think you fully understand, and I don't give evidence, you understand that, don't you?
+A.	Sure.
+Q.	But I can lead into my question, because it is proper that I should put my case to you, that it is anticipated, sir, that evidence will be provided in this case, that between September and March, September '93 and March '94, André Rwamakuba was thousands of miles away in Belgium.  Now, we haven`t had the evidence of that, but if, in fact, that stands up as evidence, let's just reflect where we are with your evidence.  You are either mistaken or you are lying; could you be mistaken? 
+A.	There is only one Rwamakuba about whom we are discussing, and he is a native of NDUMBA hill in Gikomero commune.  If he had been in Belgium, then he would not have been appointed minister, and he would have not have sworn in as a member of the new government which was then established.  Therefore, he was not in Belgium; he was in Rwanda. 
+Q.	Well, just so to make it clear to you, he came back to Rwanda in March and became appointed to the government.  You see, sir, I suggest you are part of a group with a script, that the script didn't know that Rwamakuba wasn't in Belgium.
+A.	Perhaps people might make up lies as you think.  But you yourself are seeking an alibi.  You are saying that he was in Belgium, but he was not in Belgium, he was in Rwanda.  I can only add this, someone can come to -- from Belgium to Rwanda, do all that he wants to do and return there.  But what I maintain is that he was in Rwanda.
+(Pages 1 to 12 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000H 
+BY MR. HOOPER:
+Q.	Or, you're lying.  That's the two options, isn't it?  
+A.	(No interpretation)
+MR. HOOPER:
+And, those are all my questions.  
+
+Thank you, Witness.  
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  
+
+Mr. Witness, the Prosecutor will now have an opportunity to ask you a few further questions and you'll have to respond again to her.   
+THE WITNESS:
+All right, Mr. President.  
+MS. FALL:
+Thank you, Mr. President.  
+
+Before I begin, I would like to ask, Mr. President, that all the respect that is due to any witness who comes to give testimony be maintained in this Trial Chamber.  Calling the witness a liar without providing proof, I think that the Defence has gone beyond certain limits.  The witness comes to testify freely and it is insulting to call him a liar without providing the proof that he is, in fact, a liar.  
+
+I shall begin my re-examination.  I shan't be long, Mr. President.  I just want to take a quick look at a few points regarding the lists of names, which has been given the name D. 9.  
+
+RE-EXAMINATION
+BY MS. FALL:
+Q.	You said clearly, that you know these people.  You said under what conditions you knew these people.  I would just like you to tell us what your relations were with these people.  I do not want you to talk about all these people; just tell us, in general, what your relations with these people were.  
+A.	With the exception of those two people that I was not able to identify on the whole, I would say that these other ones are survivors.  
+Q.	Tell me about what -- who these people were to you.  Were they acquaintances or friends?  
+A.	To tell the truth, there is -- there are no particular links or friendship between these people.  And I -- this is the sort of person that you meet from time to time and with whom you can share a drink every now and then.  I know these people; they know me.  But there's no special friendship or blood relation between these persons and I.  
+Q.	Thank you, Witness.  I'm sorry.  Now, regarding training, you said that in December 1992 you were **********************; were you not?  
+A.	Yes, that's right.  
+Q.	Can you recall for our benefit, exactly why you agreed to do this?  
+A.	These people were known as Interahamwe.  When this word was used in Rwanda in reference to them it was used positively at the outset.  These people were supposed to form an association with honourable intentions.  When I agreed to train these young people, I was not aware that in due course they would perpetrate killings.  Interahamwe meant something positive; it meant that these were people who were supposed to form an association for positive ends.  That is why ********************* these young people.  
+Q.	So, you do say that *************************************** it was because you realised that they were not working for a laudable cause, as you say?  
+A.	Yes, that's right.  I had just realised -- unfortunately, there are other people now dead.  There are other people now dead, unfortunately, who also realised what was going on and alerted me, telling me that  ********************** people who would kill Tutsis later on and who would turn against me.  And this is what these people told me.  When I heard that, I understood that this was an enterprise of evil-doers who were envisaging the perpetration of killings.  That is how I decided to *****************.  
+Q.	Can you tell us for how long you worked ***********?  
+A.	I didn't do it for long.  I did it for two weeks more -- two weeks.  Moreover, I would say that these trainings took place twice a week, so I'd say I did it four times.  There was an on old man called Munyangaju, who came and told me that these people intended to perpetrate killings.  Amongst other people, this old man was one of those who told me about the objectives of these young people.  
+Q.	Witness, can you tell us whether there is any link, connection whatsoever between the two-week training that took place in December of 1994 and the events that you witnessed in January 1994 -- December 1992?  
+A.	Yes, there is a link between these two things. But during this training, before I stopped it, not much had been done.  But a closer look would lead one to believe that this training can be connected to what occurred in 1994, because it was said that firearms would be brought in and ************************** these young people in the handling of these firearms, and we know that grenades and firearms that were brought, were used during the massacres that occurred in Rwanda.  This training did not only take place in our area, it took place all over the country in all communes.  
+Q.	Witness, you have told us about the link between this brief training and the events of April 1994.  Are you aware -- can you tell us, whether there is any link between this training and the fact that you saw André Rwamakuba speak out and exhort people to come together to fight the enemy.
+A.	The objective of this training was to provide military training to these young people so that they would be able to use these weapons when the weapons would be distributed.  I would say that the training is infused with the message of Rwamakuba who said that people must put their efforts -- as these young people were doing -- so that they would be able to face the enemy.  This message falls in line with this training -- the training that was provided.  It cannot be denied that Rwamakuba knew something about it before he even spoke these words himself.  
+Q.	Mr. Witness, you have told us that in Kayanga health centre there was a place where genocide survivors were gathered; is that correct?  
+A.	Yes, this place is there in front of the Kayanga health centre.  Houses have been built there; the houses were built for these survivors.  
+Q.	Can you tell us when this centre came into being and whether it's still there?  
+A.	You say "centre," is it the health centre? 
+Q.	I mean the centre where the survivors were.  
+A.	Some of these survivors lived near the health centre or its environs.  Afterwards they were gathered together, close to a mass grave, which has been converted to memorial.  A decision was taken to build houses for the survivors and it is planned that a memorial will be built in the same place for -- a memorial to the people who were killed at that place.  
+Q.	Witness, you give us a figure, you said that there were about 32 survivors, and amongst these 
+	32 survivors you give us four names.  And today, you have added three extra names.  I would like you to tell us whether these seven persons were survivors of the genocide or survivors of the massacre that occurred at the Kayanga health centre.  
+A.	The survivors did not have homes or residences after the massacres.  That is how the Swiss Corporation Agency came to the aid of these people.  They asked them to find construction materials and this organisation provided roofing sheets to cover the houses.  
+
+Of course, other people came to join the survivors but these were people who also lived in the area and they came to join the survivors.  But I must add that the people who joined the survivors, built their own houses but their houses are close to those that were built for the survivors.  
+Q.	Mr. Witness, you did not answer my question.  I shall repeat it:  You talked about 32 survivors who were at a given location -- 32 survivors of the genocide, you said, and that you knew seven of these people and I told you to tell me whether these seven persons were survivors of the massacre that occurred at the Kayanga health centre or not.  
+A.	Now I have understood the question.  The people for whom the houses were built are survivors of the massacres and houses were built for these survivors at the Kayanga centre.  
+Q.	If I understand your answer correctly, these seven people whose names you gave were part of the survivors of the genocide then?  
+A.	That's right.  
+Q.	Witness, were you present during the massacre at the Kayanga health centre?  
+A.	No, I wasn't present.  I was not at that location; I was on the other side of Lac Muhazi at the time.  
+Q.	Mr. Witness, we shall move on to something else.  I'd like to come back to your testimony.  You said that you signed only one statement and that was the one of the 11th of February, 1998; is that correct?  
+A.	That's right.  
+Q.	Witness, you acknowledged that people came to see you twice and I was present at the time, and did you sign the statements at that time?  
+A.	You came twice, but after the first time, I think I signed a document at the very first meeting.  I signed the statement which I made in 1998.  As to the others -- the other statements or other documents dated 2003 and 2004, I did not sign those ones.  
+Q.	Witness, yesterday there seemed to be a suggestion that in one of these statements you wished to revise the number of times that you had seen André Rwamakuba.  I'm referring to the statement 
+	of 6th of June 2003.  Is that correct?  
+A.	Are you saying June 2003?  
+Q.	We interviewed you in June 2003; this is one of the statements you did not sign.  You said that you had seen Rwamakuba at that time and the Defence said that you wanted to revise your prior statement; is that correct?  
+A.	There was no change whatsoever in the number of times.  I just wanted to clarify the fact that I had seen him on two occasions, and that on the first occasion I saw him go by on board a vehicle, and I wished to confirm that on the second occasion, I saw him face to face.  And that -- on that occasion, I had the opportunity to shake hands with him.  I just wanted to clarify that the first time I saw him go past on board a vehicle.  You understand, of course, that it is different.  I was not close to him when I saw him on that first occasion.  
+Q.	Witness, for the last time, how many times did you see André Rwamakuba during that time?  
+A.	I saw Rwamakuba twice.  
+Q.	Thank you, Witness.  Now, very quickly I shall return to your main statement of the 11th of February 1998 and you'll tell me whether you agree with me.  When we look at your statements, we realise that there are two (Microphones overlapping)...  
+MR. O'SHEA:
+With all due respect, my learned friend cannot offer an analysis of a prior statement of the witness and then ask the witness to agree with it or not to agree with it.  Certainly not in re-examination.  
+MR. PRESIDENT:
+Yes, Ms Fall.  
+MS. FALL:
+I shall rephrase my question.  I don't want to quarrel; I'll just rephrase.  
+MR. PRESIDENT:
+As I understand the position, the prior statement can be used to show if there was an inconsistency with his testimony.  But it cannot usually be used to show that it was consistent with the testimony that he gave.  So it's only the prior inconsistent statements that would normally be admissible in relation to a prior statement.  
+MS. FALL:
+Mr. President, I am going to rephrase my questions differently, perhaps.  
+BY MS. FALL:
+Q.	Witness, you did tell us that you were informed of meetings that were held by André Rwamakuba -- Nduba, Sha and Musave.  In these three places:  In Nduba, Sha and Musave?  
+A.	Yes, I did receive information to that effect.  
+Q.	You told us that you were told that after he came to your secteur, Rwamakuba went to the trader Rutunga, but that you were not present and that the matter was only reported to you; is that correct?  
+A.	Rwamakuba left in the company of the people who were with him.  He went towards Rutunga to the home of this trader.  I wasn't there, that is true, it is other people who related the events to me.  
+Q.	However, Witness, you told us that you were ready -- you were present at two events.  I shall begin with the first one, which is when you were on board the -- on the shores of Lac Muhazi and you saw massacres being perpetrated on the other side of the lake; is that correct?  
+A.	Yes, I confirm this.  
+Q.	So, you were able to see the events?  
+A.	Yes.  Yes, I was an eyewitness to the events that occurred on the other side of Lac Muhazi.  
+Q.	So, Witness, you affirm that you were present when André Rwamakuba came around January to your secteur?  
+THE ENGLISH INTERPRETER:
+"June" corrects the interpreter, I'm sorry. 
+THE WITNESS:
+Yes, I confirm this.  
+BY MS. FALL:
+Q.	Do you confirm, Witness, that André Rwamakuba was indeed introduced to you on that day?  
+A.	Yes, I confirm that Rwamakuba was introduced to me and he was pointed out to me. 
+MS. FALL:
+Mr. President, I would just like to conclude with the witness.  What the Prosecution is concerned about is the times when he was an eyewitness -- when he did see André Rwamakuba.  I just wish him to repeat that, nothing more. 
+MR. PRESIDENT:
+The comment I was going to make was that -- that it's not necessary for him just to confirm what he said in his examination-in-chief.  That you may ask your question.  
+BY MS. FALL:
+Q.	Yes, Mr. Witness, I just wanted to ascertain that everything was noted properly and I wanted to conclude by saying whether you actually heard André Rwamakuba actually calling upon the Hutus to meet in order to fight and get rid of the enemy.  
+A.	I think that is the purpose of my being here, in other words, to tell you and to confirm that I heard those words said.  I wouldn't have accepted to sign that statement, which contains those words, neither would I have agreed to come and testify here before the Chamber in Arusha.  
+MS. FALL:
+Thank you, Mr. Witness.  
+MR. PRESIDENT:
+Thank you very much.  
+MR. HOOPER:
+I'm sorry to interject at this time with this request but there are just two matters that I'd seek to explore.  One relates to his reaction at learning of the purpose of the Interahamwe; and the second relates to a clarification of the position in respect of survivors and names that he's provided.  
+MR. PRESIDENT:
+I think you should put those questions through me.  
+MR. HOOPER:
+Very well.  The first question I wish to pose to him was that having been told that the purpose of his training sessions was, in fact, to kill, what -- 
+MR. PRESIDENT:
+I'm sorry, I didn't get that. 
+MR. HOOPER:
+The first question is -- he gave evidence just a moment ago that his -- he learnt that the purpose of the Interahamwe was in fact to kill and that was what the training was about, as I understand it.  I'm interested to know what he did with that knowledge.  Did he go to any authority with that knowledge?
+MR. PRESIDENT:
+Mr. Witness, a little while ago you had mentioned that after *************************** the Interahamwe you were told that the purpose of the organisation was to kill.  The question that is being put is:  Did you do anything when you learnt that?  
+THE WITNESS:
+Thank you, Mr. President.  
+
+During this period of time, I would like to tell you that the administrative authorities were allegedly away, because they were the ones who were in favour of the massacres and their planning.  I cannot -- I could not say that to those authorities and to tell the groups who intended to commit these massacres, whereas it was the same authorities who had encouraged the youth to join the -- the party.  I only discussed this with other members of the population and I told them that ******************************************.  But, when I discovered that these -- that the training was for people who were going to commit murders,*********************.  But I didn't know that that wouldn't have any negative consequences for me.  
+MR. PRESIDENT:
+Thank you.  
+MR. HOOPER:
+Thank you, Mr. President and Mr. Witness.  
+
+The second question is this.  I understood the witness yesterday to say that he knew of survivors of the killings at the Kayanga health centre, and I seek clarification of that.  So, first of all, as he said yesterday, as I understand, he was aware that there had been a massacre at the Kayanga health centre.  Does he know the names of any survivors?  I think that's the easiest way to express it.  
+MR. PRESIDENT:
+Mr. Witness, the inquiry at this stage is for clarification about the survivors who are now occupying the -- the residences at the Kayanga health centre.  On the one hand, the Defence was trying to find out from you, whether there were massacres at the -- whether there were survivors of the massacres at the Kayanga health centre.  And in re-examination the Prosecutor was asking you whether there were massacres -- whether there were survivors of the genocide in general.  
+
+Now, this question is really to find out whether you can indicate whether there were massacres -- whether there were survivors of the massacre at the Kayanga health centre and, if so, who they were.  Do you understand the difference?  
+THE WITNESS:
+Yes, Mr. President, I thank you for your question.  
+
+Those people who lived in that village were not survivors of the killings at the Kayanga health centre.  In actual fact, they were survivors who previously lived around the Kayanga health centre.  Otherwise -- about the survivors from the Kayanga health centre, they are not the same survivors who lived in the camps or village which has been built around Kayanga health centre.  The persons living there, are people who previously lived in the neighbourhood of the Kayanga health centre itself.
+THE ENGLISH INTERPRETER:
+Mr. President, may this interpreter take this opportunity to make a correction to an earlier statement attributed to the witness, according to which the authorities could not be denounced because they had left.  What he had indeed said was that the authorities were, at the the same time, judge and jury.  That is why he could not denounce them.  We apologise for that mistake.  
+MR. PRESIDENT:
+Thank you.  
+MR. HOOPER:
+And so my question really is: Can he name survivors of the massacre that occurred at the Kayanga health centre.  I understood -- understand he's provided some names.  But I think this needs some clarification; are these the names of the survivors of the massacre that took place at the Kayanga health centre.  
+MR. PRESIDENT:
+I think you were attempting to give a clarification of the matter, but I think you will have to explain it a little bit more fully.  
+
+Now, the Defence are interested in finding out whether the names that you gave were survivors of the massacre at the Kayanga health centre.  Okay?  Now, I understood you to have attempted to address that question a while ago, but I invite you to give an explanation again, which will make the position quite clear.  
+THE WITNESS:
+The lists of the names that I gave you, is the list of names of individuals who survived the killings which were perpetrated around that centre and who today live at that centre.  Amongst the names of the persons that I gave you, are names of people who were survivors of the genocide, but in killings which took place around the Kayanga health centre.  
+MR. HOOPER:
+Very well.  I don't think we can take it much further.  There's been quite a number of questions and it's there or thereabouts.  The only other matter is this:  I formally need, I think to submit, as I understand is the procedure, statements that are highlighted that where we say that there are contradictions -- this is witness by witness and statements.  With this witness, I've only taken him to two contradictions in his principle statement, and then there's the confirmation report of the enquêteur where I say, the paragraph on its normal interpretation and reading is again in conflict with this witness's testimony and some other statements he's made.  
+
+The two documents are different kinds of documents.  The report of the interview by the investigators is, in fact of course, by policy not signed by the witness.  And the maker of this document who has signed it, is the Prosecutor who is on her feet.  So my difficulty is do I call Ms. Fall to -- to put this document in or is it going to be accepted that this is what it says on the face of it.  Do I need to show this witness any statement or again, is it accepted, that this is a reasonable translation of what he said in English and I'll provide, I suppose in due course, the French.  
+
+I believe at the end of day this is done to assist the Judges because highlighted in that way it's better and easier to see from transcripts and the like what it is that we've been talking about.  And it's certainly going to become a bit of a soup as we go through these witnesses -- very similar areas and very similar grounds.  I understand that is the procedure.  
+
+So, do I need, as a matter of practice here and procedure, to formally show this witness a statement in order to submit it, highlight it, only as to the part that we are dealing with or have dealt with?  And, is it sufficient in respect of the -- I've only got it in French, le rapport des enquêteurs, that that goes in with the agreement of the Prosecution, because this is not a document that the witness has signed.  But, it's a witness whose -- 
+MR. PRESIDENT:
+I think we've got the point. 
+MR. HOOPER:
+Yes, you've got the point, yes.
+MR. PRESIDENT:
+Yes, Ms. Fall.
+MS. FALL:
+Mr. President, I'm somewhat surprised by what Mr. Hooper is saying.  I think that he could have, during his cross-examination, brought out all the contradictions.  He had the ability to do so; he had the possibility to do so, but he failed to.  
+
+Now, I wonder whether in the re-examination there were new elements that I raised which would allow Mr. Hooper to take the floor again, after I have done my re-examination.  I don't think I raised any new points, and if Mr. Hooper had wanted to raise contradictions, he could have done that during his cross-examination.  I think this is what is normally the procedure in the examination of witnesses.  
+MR. PRESIDENT:
+Ms. Fall, Mr. Hooper did not question the witness after you did it.  I allowed him to put questions to me and I put them to the witness; the Court has a discretion to do that.  
+
+Mr. Hooper, with regard to the exhibits, the issues which you've put to the witness, he had admitted.  So the evidence is on the record.  I don't think it would be reasonable for us to admit the documents to show other consistencies, which have not been put in cross-examination.  
+MR. HOOPER:
+No, I understand that.
+MR. PRESIDENT:
+There is already, I think, an adequate record of the matters that you put and his answers.  
+MR. HOOPER:
+I'm afraid it's my fault.  I've -- I've not expressed myself, and I understood that when Ms. Fall was on her feet.  What I've highlighted are the two matters that I raised with this witness. 
+MR. PRESIDENT:
+Yes, but you have already admitted that.
+MR. HOOPER:
+Well, no, one was, for example, one was -- I'll give you an example:  "As regards 
+Dr. André Rwamakuba, I met him two years before the events of April 1994."  
+
+So, that's one of the highlights.  
+MR. PRESIDENT:
+Yes, but -- but you put that to him in his examination-in -- in cross-examination, and he explained his position with regard to that.  So it's already on the record the statement that that was made and his explanation.  So there's no need, really to -- he's not denied that that was on his statement. 
+MR. HOOPER:
+But I'm saying that there's a contradiction between his evidence now, where he only met him October. 
+MR. PRESIDENT:
+Yes, but that evidence is on the record; that is a matter for us to assess.  
+MR. HOOPER:
+Just that the reading of the transcripts -- and I'm entirely in the Court's hands because it may not a procedure this Court wants to adopt -- it seems that in fact having put a contradiction, the practice seems to be second hand, but it's what I see, that then the party who is cross-examined on the document highlights the bits where they say there's contradictions and that goes in with the -- with the papers.  I understand that that's -- that's the way it's done.  It's the only reason -- 
+MR. PRESIDENT:
+I know, but I got the impression from your statement that you had highlighted matters upon which this witness had not been examined. 
+MR. HOOPER:
+No.  Just on those two matters and I only took him to two -- I only raised two contradictions on his statement. 
+MR. PRESIDENT:
+Well, could you show the Prosecutor. 
+MR. HOOPER:
+Yes, certainly.  I will just highlight, I haven't got a highlighter, so I will just put that there; that's the two bits.
+
+Would it be acceptable if in fact because it doesn't -- unless it has to be shown to this witness, perhaps we can pass over that.  
+
+Can I consider the matter over the adjournment and discuss it with my friend and come back to you on this subject immediately after the adjournment?  Would that be a practical -- 
+MR. PRESIDENT:
+The only -- there's one document where we thought it needed to be admitted and that was the -- the list of names that he had written, which was marked for identification.  
+MR. HOOPER:
+Yes.  
+MR. PRESIDENT:
+Do you wish to have that admitted?
+MR. HOOPER:
+Yes, and I understand there's a second list.  
+MR. PRESIDENT:
+No, he cited it. 
+MR. HOOPER:
+He cited it, very well.  It's just the one -- the one list, yes.  If that can be exhibited, yes, please.  Thank you.  
+MR. PRESIDENT:
+We'll do that.  
+
+I think it's reasonable to take the break now.  It's already 10 to 11, so we'll rise now and look at this on our resumption. 
+(Court recessed at 1047H)
+(Pages 13 to 23 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1108)
+MR. HOOPER:
+Over the adjournment, Mr. President, Mr. O'Shea and I had discussed the matter between ourselves and he had taken it upon himself to explain with greater erudition than perhaps I, the basis behind this application.  
+THE ENGLISH INTERPRETER:
+Excuse me, Your Honour, we seem to be missing some interpreters.  
+MR. PRESIDENT:
+We are not quite ready, Mr. Hooper.  
+MR. HOOPER:
+That's my problem, too.
+THE ENGLISH INTERPRETER:
+They're here now, Mr. President.  We apologise. 
+MR. PRESIDENT:
+Thank you very much.  Yes, Mr. Hooper.  
+MR. HOOPER:
+Very well.  Can I just very briefly deal with what I understand to be the sort of logic to support the practice?
+MR. PRESIDENT:
+Mr. Hooper. 
+MR. HOOPER:
+Yes, sir. 
+MR. PRESIDENT:
+There's no doubt that there is normally a practice for the -- if you are putting to a witness that he has made a prior inconsistent statement, you are entitled to prove the prior inconsistent statement, and one method of doing it is by tendering the document which contains the inconsistency, and that would normally be done during the cross-examination.  We don't say there's no such practice, but you didn't do that.  
+
+Now you're making a belated application, and we just think that we should not allow it because you don't suffer any harm by it on this occasion because you read the inconsistency into the record.  The witness acknowledged it that it existed and gave an explanation.  So we are unable to adjudicate on the issue. 
+MR. HOOPER:
+Yes.  Very well.  Thank you very much, Mr. President.  
+MR. PRESIDENT:
+But we think we should admit the document on which he wrote the names.  
+Yes, Ms. Fall.  Ms. Fall, did you wish to say something?  
+MS. FALL:
+Yes, Mr. President.  I thought that this problem had been resolved by the Defence during the tea break because from what they told us, it seemed that they would withdraw their request to tender this document into evidence. 
+MR. PRESIDENT:
+Which document?  
+MS. FALL:
+Rather, the statement which they wanted to tender in relation to inconsistencies, and I had thought that they would no longer tender that statement which highlights contradictions.  So I seek clarification, Your Honour. 
+MR. PRESIDENT:
+I think you misunderstood what I just said.  I just made an order that it would not be admitted, and I gave the reason why.  But I think that the document on which the witness wrote the names, which was admitted for identification yesterday, should be admitted in evidence.  
+
+Mr. Fry, the number.
+MR. FRY:
+Yes, Your Honour, the next Defence exhibit will be D. 10. 
+MR. PRESIDENT:
+D. 10 is admitted into evidence 
+(Exhibit D. 10 admitted) 
+MR. PRESIDENT:
+We don't have any further questions of you, Mr. Witness.  
+
+But before we excuse the witness, Mr. Hooper, I think I should mention that we would, as a Chamber, like to preserve the highest possible level of courtesies to the witnesses and it is possible for you to challenge the accuracy of their statements without using words which could cause offence or hurt to them.  Words such as "liar" or "lie" is considered offensive and we would not wish that that is used in our Chamber.  So we would just like to say that, and I would apologise to the witness because I am quite certain that there was no intention to offend him, and I would just like him to know that we as a Chamber expect that our witnesses are treated with courtesy in our court.  
+MR. HOOPER:
+Thank you, Mr. President.  
+MR. PRESIDENT:
+Mr. Witness, you are now excused.  Thank you for coming to give testimony.
+
+THE WITNESS:
+Thank you, Mr. President.  
+(Witness excused)
+MR. PRESIDENT:
+Could you call the next witness, please?  
+
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Mr. President. 
+MR. PRESIDENT:
+The Registrar will now give you the oath as a witness. 
+(Declaration made by Witness GIQ in Kinyarwanda) 
+MR. PRESIDENT:
+Madam Prosecutor. 
+MS. FALL:
+Thank you, Mr. President.  My colleague, Mr. Adama Niane, is going to lead the witness. 
+MR. PRESIDENT:
+Thank you, Mr. Niane. 
+MR. NIANE:
+Thank you, Mr. President.  Thank you, Your Honour.  Ladies and gentlemen, as my colleague, Ms. Fall said, my name is Adama Niane, and I will lead witness GIQ's evidence.  
+
+Mr. President, with leave of the Court, I would like to start with the identification of the witness, and in order to carry out that exercise, I'm going to show the witness -- give the witness a document titled "witness identification sheet" so that he can look at it and confirm that the information contained therein actually concerns him and such information is correct.  
+MR. PRESIDENT:
+Ms. Fall, with regard to the last witness, I forgot that during the break we had considered that there might have been an issue which may have required redaction.  So I trust that at the commencement of the afternoon session, before the witness comes in, you will remind me to raise that question.  
+MS. FALL:
+Yes, Mr. President. 
+
+
+
+
+
+WITNESS GIQ,
+having first been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. NIANE: 
+Q.	Mr. Witness, before you, you have a document, and as I said earlier, that document has information which concerns you.  Now, please since you are -- I would like to tell you you are a protected witness, so please read this document and after going through it, please tell the Court whether the information contained in that document is correct.  For example, we can start by the names.  
+A.	Yes, the last name is correct. 
+Q.	What about the first name? 
+A.	Yes, the first name is also correct.  
+Q.	Date of birth?  
+A.	Date of birth also is correct.  
+Q.	Sex? 
+A.	I don't see -- oh, yes, I've seen it.  Yes, yes, the sex also is correct. 
+Q.	What about your nationality? 
+A.	Correct. 
+Q.	Ethnic origin? 
+A.	Correct. 
+Q.	Current occupation? 
+A.	Correct. 
+Q.	Your occupation in 1994? 
+A.	Correct. 
+Q.	Your cellule of origin? 
+A.	Correct. 
+Q.	Secteur of origin? 
+A.	Correct. 
+Q.	Your native commune? 
+A.	Correct. 
+Q.	Your préfecture of origin? 
+A.	Correct as well. 
+Q.	Now, I would like to request you to sign this document.
+
+And I'm going to ask the Court to allow that this document be tendered into evidence I would also like to request the Chamber to place this document under seal.  
+A.	Mr. President, I would like to request that if -- I would like to ask someone to remind me what the date is today so that I can include it in this document. 
+MR. NIANE:
+Today is the 14th of June 2005.
+THE ENGLISH INTERPRETER:
+	The Prosecutor corrects:  Today is the 15th of June 2005.  
+MR. PRESIDENT:
+That is admitted into evidence.  Mr. Registrar, what is the number?
+MR. FRY:
+Your Honour, the next Prosecution exhibit is number P. 40. 
+MR. PRESIDENT:
+Exhibit No. P. 40.
+MR. FRY:
+Thirty, Your Honour. 
+MR. PRESIDENT:
+P. 30, and it's placed under seal.  
+(Exhibit P. 30 admitted, under seal) 
+BY MR. NIANE:
+Q.	Mr. Witness.  
+A.	Yes, Mr. Prosecutor. 
+Q.	Where were you living before 1994 -- or, rather, where were you working? 
+A.	I was ***********. 
+Q.	What was your occupation in 1994? 
+A.	I was *********. 
+Q.	Have you ever been tried before a court of law? 
+A.	Yes. 
+Q.	Have you ever testified in any case before a court of law? 
+A.	No. 
+Q.	Have you ever given a statement to the investigators of the International Criminal Tribunal for Rwanda? 
+A.	Yes.  I gave a statement to the investigators of the International Criminal Tribunal for Rwanda. 
+Q.	Did you sign that statement? 
+A.	Yes, I signed the said statement. 
+Q.	Mr. Witness, what level of formal education did you reach? 
+A.	I did six years of secondary studies, secondary school studies. 
+Q.	In what area, or in what field? 
+A.	I studied teaching trades. 
+Q.	Have you ever been a member of a political party? 
+A.	Yes. 
+Q.	Which party? 
+A.	A political party known as PL. 
+Q.	What does PL stand for? 
+A.	PL means Parti Libéral, that is the Liberal Party. 
+Q.	When was the PL established? 
+A.	The PL was created in 1991. 
+Q.	What was the ideology of the PL party? 
+A.	The political ideology of the PL party was the political freedom of every Rwandan? 
+Q.	Who were the leaders of the PL?  Not all of them, just give us a summary.  
+A.	There was Justin Mugenzi, there was Landoald Ndasingwa, there was Pie Mugabo, amongst others. 
+Q.	Was the PL party represented in your area? 
+A.	Yes. 
+Q.	Were there other political parties in your area? 
+A.	Yes, there were other political parties represented in our area.  
+Q.	Which ones were they? 
+A.	There was the MRND, the PSD, there was the Parti Libéral, the PL, to which I belonged.  Those, I think, were the parties that were represented in my area.  
+Q.	Were there political parties that were not represented in your area? 
+A.	Yes.  I would say, for example, UDPR, PDI, PSR, CDR, and other political parties. 
+Q.	Witness, did political party leaders come to your region? 
+A.	Yes. 
+Q.	What did they come to do there?
+A.	They came to find potential members of their respective political parties. 
+Q.	Can you give me the names of political leaders who came to your region to find potential members of their parties? 
+A.	I would give you, for example, Anastase Gasana, Aloys Munyagazu, Landoald Ndasingwa, André Rwamakuba, Pascal Ndengejeho, and others. 
+Q.	You named Anastase Gasana, André Rwamakuba.  Did you know them? 
+A.	Yes, I know them. 
+Q.	Have you ever seen them before? 
+A.	Yes, I have. 
+Q.	Let's start with André Rwamakuba.  Where did you see him? 
+A.	I saw him in Kayanga secteur. 
+Q.	When did you see him? 
+A.	It was in 1992, towards the end of -- and towards the end of the year 1993.  I also saw him in 1994.  
+Q.	Very well.  So you have just told me that you saw André Rwamakuba on three occasions, is that correct, 1992, 1993 and 1994? 
+A.	That is correct. 
+Q.	First in 1992:  under what circumstances did you see him? 
+A.	In 1992 André Rwamakuba came in the company of Anastase Gasana and Aloys Munyangazu, and they were looking for MDR members, and this was before the split within this party that occurred afterwards. 
+Q.	When did the split occur? 
+A.	The split occurred in 1993. 
+Q.	And what happened inside this party after the split? 
+A.	I did not get your question.  Would you please repeat it?  
+Q.	You told the Trial Chamber that you saw André Rwamakuba and Anastase Gasana before the split in their party.  
+A.	Yes. 
+Q.	So my question is as follows:  What do you understand by a split in this party? 
+A.	When I say "split," I mean that wings sprouted within this party.  There was MDR-Power and there was another wing which was MDR moderate.  Some people went to MDR-Power and others went to the moderate MDR. 
+Q.	What does moderate MDR mean? 
+A.	Moderate MDR was the wing of the MDR in which members continued to follow the opposition party ideology.  Amongst them, I remember there was Faustin Twagiramungu, Anastase Gasana, and Agathe, who was prime minister, as well as others whose names I no longer remember.  
+Q.	What does "Power" mean? 
+A.	The Power wing was a wing of the MDR which was allied to the MRND to fight the Inkotanyi and those they referred to as the accomplices of the Inkotanyi. 
+Q.	Did you know any MDR-Power members? 
+A.	Yes, I know some.  Amongst the most influential in the country I would name Jean Kambanda, who was prime minister of the interim government.  There is André Rwamakuba.  There is Froduald Karamira, and others. 
+Q.	You said that you saw André Rwamakuba in your region.  When you saw him, what was he doing? 
+A.	When I saw André Rwamakuba, at the time he was director of the Kigali health region. 
+Q.	I shall put my question again more clearly.  When you saw him in your region, what had he come to do in your region? 
+A.	He had come to our area to find members, to look for members for his MDR party. 
+Q.	How did he look for members for his party? 
+A.	When he came to find -- look for members of the MDR-Power wing, he came on board a white vehicle which was equipped with loudspeakers, and he was playing songs glorifying the MDR-Power Hutu, the earlier one. 
+Q.	Do you know what the songs were about? 
+A.	The songs were asking Hutus to unite, and thanks to this union, they would overcome.  Those are the words I remember. 
+Q.	When you saw him in this car, was he alone? 
+A.	When I saw him on board this car, he was accompanied by Pascal Ndengejeho, who was also minister of information. 
+Q.	When you saw him, about how far away were you from the car? 
+A.	I was standing by the roadside, and between me and the vehicle there were not more than three metres. 
+Q.	When you saw him, did he say anything? 
+A.	I saw him several times, and on some occasions I saw him go past on board his vehicle.  There was music playing through the loudspeakers that were mounted on the vehicle.  But on another occasion I met him at a bar which belonged to a certain Emmanuel Rubagumya, and he was speaking to the people for whom he had bought drinks and he was telling them that they should join the MDR and recruit other members and that they should kill anyone who refused to join this party.  
+Q.	You said you saw him in a cabaret.  What were you doing in this cabaret? 
+A.	I went to this bar to buy drinks, and when I got there, I found them there.
+Q.	So you found André Rwamakuba in the cabaret? 
+A.	Yes. 
+Q.	Who was he with in this cabaret? 
+A.	He was with Emmanuel Rubagumya, the owner of the bar.  There was one Callixte Kabarira.  There  was also one Sebahinzi.  There was also Joseph Ayirwanda and his son Frédéric Turatsinze, and these are the people I remember as being present on that occasion.  
+MR. HOOPER:
+Can we just have those names again rather more slowly so we can note them?  Thank you.  
+MR. NIANE:
+Mr. President, I believe counsel wished us to repeat the names.  Perhaps the Court might ask the witness to repeat the names.  
+BY MR. NIANE:
+Q.	You say that in the cabaret, what were they doing? 
+MR. PRESIDENT:
+As the person who is interviewing him, it might be appropriate for you to ask him to repeat the names. 
+MR. NIANE:
+Thank you, Mr. President.  
+BY MR. NIANE:
+Q.	Witness, would you be so kind as to repeat the names of the people you saw with André Rwamakuba in the bar? 
+A.	I shall repeat the names slowly.  There is the owner of the bar, Emmanuel Rubagumya; there is Callixte Kabarira; there is also Sebahinzi; there is also Joseph Ayirwanda; now, there is Frédéric Turatsinzi. 
+Q.	When you saw André Rwamakuba with these people, what was he saying? 
+A.	I just told you, André Rwamakuba was asking these people to join his party and he was also asking them to recruit other members, and he even said that anyone who refused to join the party would be killed. 
+Q.	Did you actually hear André Rwamakuba say that he would kill anyone who refused to join his party? 
+A.	Yes, I heard. 
+Q.	When did you see André Rwamakuba again? 
+A.	I also saw him in Rutunga and Gasabo, but on these occasions I only saw him go past on board his vehicle.  I heard -- I did not hear him say anything and I did not see him do anything. 
+Q.	Was he with other people? 
+A.	When I saw him, he was standing with Anaclet Ndamage, but this person came from Gasabo secteur. 
+MR. HOOPER:
+I'm sorry, can we have a spelling or just a slower pronunciation of the last person that was named by the witness, please?  
+BY MR. NIANE:
+Q.	Witness, could you call the name of the last person more slowly?  Could you repeat it more slowly?  
+A.	I referred to Anaclet, Anaclet Ndamage.  Ndamage is N-D-A-M-A-G-E, Ndamage. 
+MR. NIANE:
+Mr. President, the names appear on the list that we disclosed to the Defence which is referred to as the spelling list. 
+MR. PRESIDENT:
+It would be helpful if you gave the number, the number on the list.  
+MR. NIANE:
+It is number 87 on the list.  It is number 87 on the list or the spelling list for Gikomero related names and words.  
+MR. HOOPER:
+Sorry to interrupt.  May I just enquire, just in case there was one and I haven't seen it or received it, was there a will-say statement in this?  Because I'm getting details and names that don't appear on statements.  Has there been a will-say statement prepared in respect of this witness?  That's my request.  
+MR. NIANE:
+Mr. President, I would just like to indicate that the witness statement and the investigators' notes were disclosed to the Defence. 
+MR. PRESIDENT:
+Mr. Prosecutor, you understand the question that is really being asked had to do with whether notice had been given of the detailed information which the witness is producing now.  
+MR. NIANE:
+Mr. President, what information is he referring to?  
+MR. PRESIDENT:
+I'm not certain, but I just asked if you understood what his question was and whether your answer addressed it. 
+MR. NIANE:
+I understood the question.  There is no information.  The witness is indicating the people who were with André Rwamakuba in the bar and these names do appear in the statement.  That is what I wish to clarify.  
+MR. PRESIDENT:
+You have answered the question.  
+
+Yes.  Yes, proceed.  
+MR. HOOPER:
+Can I -- sorry to -- there's no list of names that I've been provided with concerning the list of people in the bar.  For example, the list that we had earlier on.  I haven't had a list of names "these were the people in the bar."  And it doesn't appear either in the note des enquêteur, which I have only in French, and it doesn't appear in the statement.  
+MR. NIANE:
+Mr. President, in the statement the witness refers to these people.  It is towards the bottom of the statement.  You can see that clearly. 
+MR. PRESIDENT:
+You are saying the names are in the statement.  
+MR. NIANE:
+I say that the names are in the statement and the witness has just named them.  
+MR. PRESIDENT:
+Yes.  Mr. Hooper, go ahead.  
+MR. HOOPER:
+Yes.  Where in either of these documents do these names appear, Callixte Kabarira, Joseph Ayirwanda, Frédéric Turatsinze, for example?  Where is there a reference to any people other than the bar owner being in the bar?  The information isn't in either of those documents, nor have we heard of André Rwamakuba standing with the last named party, Anaclet Ndamage.  There may be other names.  So of the four names -- we haven't heard many, but of the four names, three don't appear at all in the statement and the reference to any names at all in the statement you can see.  It's a general "the people listed below can assist you in your investigations."  There's no context there at all.  So, in my submission, it's plain from the way the witness is giving evidence that's now at his fingertips that it would have been appropriate to have had a will-say statement.  I think we can carry on, but if there's further information, I'd appreciate notice of it.  And if there is justification in what I am saying now, I hope it is not going to be reflected in future conduct with future witnesses.  It greatly disadvantages the Defence.  
+
+And I should also add, Mr. O'Shea reminds me, we've had no time frame here in any of the witness's testimony so far.  When was he in the bar?  When did he see him?  None of that has been put in, so we don't know again the geography of this evidence.  
+MR. PRESIDENT:
+Yes, Mr. Prosecutor.  
+MR. NIANE:
+I shall proceed.  
+
+I shall talk about the clarification.  I asked the witness how many times and in what circumstances he saw André Rwamakuba.  He said that he saw him go past on the road and then he saw him in the bar.  And this is what I'm going to ask the witness now.  
+BY MR. NIANE:
+Q.	Witness, when did you meet André Rwamakuba in the bar, in Mr. Emmanuel's bar, to be precise? 
+A.	I don't remember the exact date, but it was January 1994. 
+Q.	And you say that he was with some people.  You have named Emmanuel, the owner of the bar.  
+A.	That's correct, I have. 
+Q.	Where is Emmanuel now? 
+A.	He is detained in Kimironko prison in Remera. 
+Q.	And the other people, where are the other people who were with André Rwamakuba in the bar?  Where are they now? 
+A.	Callixte Kabarira and Sebahinze are in prison with Emmanuel.  As to Ayirwanda and Turatsinze, they are both dead.  
+Q.	Was that -- were those the only occasions on which you saw André Rwamakuba? 
+A.	I saw him on several occasions, but I didn't count the occasions so I cannot tell you how many times I saw him. 
+Q.	Do you know whether, apart from the times on which you saw André Rwamakuba, he came to your area? 
+A.	Someone told me that Rwamakuba came to our area during the genocide. 
+Q.	Do you know what André Rwamakuba was doing in that area during the genocide? 
+MR. HOOPER:
+Just before this answer is given -- 
+
+THE WITNESS:
+The person who told me this - 
+MR. HOOPER:
+Please, just before the answer is given.  Yes, I'm sorry to have interrupted.  I see a reference to a hearsay. 
+BY MR. NIANE:
+Q.	Witness, I shall repeat the question.  Do you know what André Rwamakuba was doing there in that area during the genocide? 
+A.	I already answered that the person who gave me this information to the effect that this person saw André Rwamakuba during the genocide told me that Rwamakuba came to sensitise the inhabitants, to sensitise the Hutus to kill the Tutsis. 
+Q.	Where exactly were you during the genocide? 
+A.	I do not know what period you refer to exactly, because I did not stay in the same place all the time. 
+Q.	Where were you on the 6th of April 1994? 
+A.	On the 6th of April 1994, I was at home. 
+Q.	When did you learn of the death of President Habyarimana? 
+A.	I learned of the death of President Habyarimana on the morning of 7th April 1994. 
+Q.	How did you learn of it? 
+A.	I heard the news on Radio Rwanda. 
+Q.	When you learnt of the death of the President, what did you do? 
+A.	When I heard the news, I told my parents and my immediate neighbour. 
+Q.	You said a while ago that during the genocide you did not stay in one place all the time.  Can you give us further detail on that?  When did you leave your area and where did you go to? 
+A.	I left my area on the 12th of April 1994 and I went and sought refuge beyond Lake Muhazi.  After that, I went to a refugee camp in Rutare. 
+Q.	Why did you leave your area? 
+A.	I left my area because the situation wasn't very good.  The atmosphere wasn't good.  People had begun to eat other people's cows, and I saw refugees coming from Rubungo secteur who were coming to our area.  So I concluded that the assailants would come to our area and eat our cattle and kill us, so I decided to seek refuge elsewhere. 
+Q.	Who are the assailants? 
+A.	I was afraid of the Interahamwe, like, Mathias Rubanguka, his brother, Niragira (phonetic), Ephrem.  I was afraid of Emmanuel Rubagumya.  I was afraid of Felicien Kayibanda, and many others.  I was afraid that all these people might come to our homes and kill.
+Q.	When you left your area, where did you go to? 
+A.	I told you that I left my area to go to Giti commune in Byumba préfecture. 
+Q.	Why did you go precisely to Giti commune? 
+A.	Normally, if a person wishes to flee, he doesn't flee to a precise destination or to a particular place.  Your instinct indicates that you should take a particular direction and you take it. 
+Q.	For how long did you stay in Giti? 
+A.	I left Giti on the 6th of April 1994 and I arrived in Butare -- Rutare in the evening.  On the morning of 17th April there was fighting between the RPF and Habyarimana's army.  That is how we returned to Gasabo, where we spent some two days before returning to Rutare, where we stayed 'til the month of September. 
+Q.	And as from September, where were you? 
+A.	From September we returned to our area.  We sought shelter temporarily in the centre that was near us because we did not have homes any more, as they had been destroyed. 
+Q.	Thank you, Witness.  
+MR. NIANE:
+I have concluded, Mr. President, with this witness.  
+MR. PRESIDENT:
+Thank you, Mr. Prosecutor.  
+
+Mr. Witness, you will now have to answer some questions from the lawyer representing the Accused.  So he will ask you some questions now. 
+
+CROSS-EXAMINATION 
+BY MR. HOOPER:
+Q.	Yes, Mr. Witness, I'm the gentleman who is going to be asking you questions on behalf of the Accused André Rwamakuba.  And we know that you're from secteur *********, and any questions that I ask you that may reveal who you are to other people, don't you answer them until you've made it clear of your concern.  Do you understand? 
+A.	Very well, Counsel. 
+Q.	Now, the first thing I'm going to do is going to hand you a piece of paper with a number of names on it, amongst which you'll find your own, which I cross out.  And I'm going to ask you to indicate on this piece of paper if you know any of the names of the people who appear on it.  I'm not going to ask you to utter their names, to pronounce their names in court.  That doesn't matter.  We've all got that piece of paper and we can see eventually what you've indicated.  And so if you have a pen there and if you're willing to oblige me, can you just indicate who you know? 
+THE ENGLISH INTERPRETER:
+Mr. President, the English booth did not get the Kinyarwanda French relay.  The witness has said that "I was going to take my name but I'll refrain from doing that because counsel requested me not to actually tick my name.  So I've completed this exercise in that I've already ticked the names of the people I knew."  
+MR. PRESIDENT:
+Thank you very much, Mr. Witness.  
+MR. HOOPER:
+Shall I just read those out?  Would that be appropriate?  
+MR. PRESIDENT:
+Just the numbers. 
+BY MR. HOOPER:
+Q.	Yes, the seven numbers that you've ticked are number 1, 4, 5, 6, 8, 9 and 10.  And you have not, I can state the negative, ticked 2, 3 and of course not number 7.  
+MR. PRESIDENT:
+Should this document be admitted in evidence?  
+MR. HOOPER:
+It should, in my submission, yes, please.  
+MR. PRESIDENT:
+Mr. Prosecutor -- Mr. Registrar, exhibit number?  
+MR. FRY:
+D. 11, Your Honour. 
+MR. PRESIDENT:
+D.  11.  
+(Exhibit No. D. 11 admitted) 
+BY MR. HOOPER:
+Q.	So can I please now ask you in respect of number 1, how you come to know that person? 
+A.	Mr. President, before answering that question, that is, how did I come to know these people, such an exercise could reveal my identity, so I would like to request the Trial Chamber to move on to a closed session for this exercise.  
+MR. PRESIDENT:
+Mr. Witness, the system of putting a number beside the name of the person would allow you to refer to the person by a number so that the name is not going to be revealed.  But we would know of whom you are speaking because we have a similar paper with a number on it, so I think that is an arrangement which should protect you from revealing identity.  
+
+Mr. Prosecutor, do you have a comment?  Mr. Prosecutor, do you have a comment?  
+MR. NIANE:
+Mr. President, I think that the witness has been very clear.  He said that if he describes rather the circumstances under which he knew those people, his identity might be revealed.  It's not a problem of numbers or letters, because if he is to describe the circumstances under which he knew these people, then there is a danger that his identity might be revealed.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you, Mr. Prosecutor.  
+Mr. Witness, I notice you wish to be heard.  You may say something.  Mr. Witness, you tried to attract my attention.  I allow you to speak.  
+THE WITNESS:
+Yes, I have something to say, Mr. President.  
+MR. PRESIDENT:
+I invite you to say it.  
+THE WITNESS:
+I would like to emphasise on the fact that if I'm to describe how I came to know all these people, because it's a fact that I know some of them professionally, we had a professional relationship.  So if I were to describe the circumstances under which I came to know them, then it's going to be easy to identify me -- or, rather, recognise my identity. 
+MR. PRESIDENT:
+Thank you.  That is usually a good reason for having a closed session.  
+
+Mr. Hooper.  
+MR. HOOPER:
+Yes, I've no objection to that. 
+MR. PRESIDENT:
+About how long do you think this exercise would last?  And in general, we would like the practice to be followed, as far as possible, that all questions that may require a closed session treatment should be grouped together so that we don't have to go into closed session more than once. 
+MR. HOOPER:
+Very well. 
+MR. PRESIDENT:
+Unless an unexpected development arises.  
+MR. HOOPER:
+Yes, very well, Mr. President.  I see the time.  Would it be convenient to rise now and start the closed session at two, in which case it should take, I thought, about 30 minutes?  
+MR. PRESIDENT:
+About 30 minutes.  Well, couldn't we use the ten minutes now and start now?  
+MR. HOOPER:
+Certainly.  We go into closed session. 
+MR. PRESIDENT:
+I should like Mr. Registrar to order that the list of names be placed under seal.  
+
+MR. FRY:
+Thank you, Your Honour.  Yes. 
+MR. PRESIDENT:
+We now go into closed session.  For people in the gallery, it is estimated that this session should last for approximately 30 minutes.  That means that we are likely to be resuming in open session at about 20 minutes past two this afternoon.  Please, closed session.  
+(At this point in the proceedings, a portion of the transcript [pages 40 to 50] was extracted and sealed under separate cover, as the session was heard in camera) 
+(Pages 24 to 39 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT:
+The Court resumes in open session.  
+
+Mr. Witness, we are now back in open session, and I would confirm that you're entitled, at any stage, to draw my attention to a question when the answer might reveal your identity.  
+BY MR. HOOPER:
+Q.	I was asking you how it was that these investigators came to you, and you said, "Well, go and ask them."  Now, you're the gentleman giving evidence at the moment, so let me ask you it again.  Did they come and see you at your home?  Did they just come and knock on the door and introduce themselves?  Did they arrive out of the blue?  What was the situation?  
+A.	They found me where I worked and introduced themselves as employees of the ICTR, and they put questions to me regarding people who were born in my commune, and they asked me whether I had any information regarding these people.  They gave me names of people they knew and asked me if I had any information whatsoever regarding the conduct of these persons.  I answered in the affirmative about the Accused in this trial because it was about this person that I had information of a nature that was likely to be of interest to them.  
+Q.	Did they ask you about anybody else?  
+A.	Yes.  They asked me questions about another person, and I answered that I did know that person, in fact, but that I knew nothing of his actions regarding the period concerned -- or during the period concerned.  
+Q.	And who was that person?  
+A.	It is Jean de Dieu Kamuhanda.  
+Q.	And in respect of him, you'd heard nothing adverse relating to these events?  Is that -- that's correct?  
+A.	Concerning events that occurred, I told you that I fled on the 12th of April and massacres began in our area on the 13th.  I, therefore, did not see this person because I was not there, and I had no information about this.  So I could say nothing to the investigators because I knew nothing about this person.  
+MR. PRESIDENT:
+Mr. Prosecutor, the witness had mentioned a name which is probably on your spelling list.  Can you identify the number, please?  
+MR. HOOPER:
+I can do the spelling there.  It's K-A-M-U-H-A-N-D-A.  
+MR. NIANE:
+We confirm, Mr. President, the name that the witness called is number 47 on the list.  
+MR. PRESIDENT:
+Thank you.  
+BY MR. HOOPER:
+Q.	And aside from events after the 12th or whenever, you'd never heard anything implicating him in distribution of weapons or anything like that; is that correct?  
+A.	Mr. President, one can only give testimony on events that one knows about, and no witness may be forced to give testimony about events he knows nothing about.  
+Q.	Very well.  So I'll take that as a -- as an agreement with my proposition.  
+
+Now, am I to understand your evidence in this case against Rwamakuba, that you first saw him in 1992; is that correct?  
+A.	I did not quite understand your question, Counsel.  
+Q.	When did you first come to know, in the sense of knowing who he was, in the sense of recognition, when did you first know André Rwamakuba?  
+A.	I knew him in 1992. 
+(Pages 51 to 52 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500H 
+BY MR. HOOPER:
+Q.	And how did you know who he was? 
+A.	Leaders of MDR had come, had come to that area with Anastase Gasana as well as Twagiramungu as well as Aloys Munyangazu, I saw them in the courtyard of the Kayanga school.  They had come there in order to recruit members to their party. 
+Q.	Very well.  You knew Gasana before that, you knew who he was, you could recognise him; is that correct? 
+A.	Yes, I knew Gasana even prior to that. 
+Q.	Aloys Munyangazu, you knew him before that and could recognise him?
+A.	Yes, I also knew Aloys Munyangazu. 
+MR. PRESIDENT:
+Mr. Hooper, I think there is a problem with translation, a problem with two questions back.  
+MR. HOOPER:
+One is difficult to recall, two is really a strain.  I asked him did he -- did he know Gasana, Anastase Gasana at that time when he came with the others, including André Rwamakuba, did he know --  did he know and, therefore, recognise Gasana because he knew him before.  And he said to that he did know Anastase Gasana and he said he could recognise him in 1992.  And he said that was the same with Aloys Munyangazu, he recognised him in 1992 when he came because he knew him from before. 
+MR. PRESIDENT:
+All right.  Thank you very much. 
+BY MR. HOOPER: 
+Q.	And I don't think you mentioned this morning in this context, you now add that amongst this group was Faustin Twagiramungu and did you know him to recognise; did you know him from before this opportunity, in order to recognise him?  
+A.	I did not know -- I did not know Faustin Twagiramungu at that point; I knew his voice because he spoke on the radio.  So when he spoke for the first time I immediately recognised him even before he was introduced to us, I recognised his voice, I had heard it on the radio. 
+Q.	And Twagiramungu was a very well-known personality.  He had his own nickname among people; is that correct?
+A.	That is correct. 
+Q.	And at the time did you know that he was, in fact, the president of the MDR, the head of the party; did you know that? 
+A.	I know that he was the party's president, but I did not know during which period and I do not know when actually he had gone to that post.
+Q.	But you can confirm, can't you that he was president of Rwanda under the Paul Kagame RPF government from July of 1994?  He was prime minister -- sorry, prime minister of Rwanda in the       post genocide period; can you confirm that? 
+A.	Yes, I confirm that he was the prime minister. 
+Q.	And can I suggest that the only time he came to Kayanga was in May of 1993, is that correct, not 1992, but May of 1993? 
+A.	I don't agree with you because I was there and I saw him there. 
+Q.	Well, let me put it another way, did you see him come again then in mid 1993, May or June of 1993? 
+A.	I don't remember the month, but I know that he came back there on another occasion.  And that was after the split within MDR and Gasana and Agathe Uwilingiyimana, as well as another minister called Rutaganira was there as well.  Faustin Twagiramungu arrived there later, so the first group had to wait for him to get there.  And he came there in a Mercedes Benz.  And when he arrived there, he asked us to remain calm because the president would be there as well, would come there.  People were surprised because they thought when they mentioned the word "president," we thought that he were talking about the country's president, Habyarimana, but actually we came to realise that the party which was there before him talked about the president and we knew that actually they were referring to Faustin Twagiramungu. 
+Q.	And was that in May and June of 1993? 
+A.	I told you that I do not remember the month, but I do remember that such an event took place, but I did not really pay special attention.  And I no longer remember the exact date, because at that time I did not know at some point in time in the future I would be called to answer such questions. 
+Q.	But that with the personalities you named, was a big MDR rally, wasn't it in Kayanga, it was the biggest rally Kayanga had ever seen, wasn't it? 
+A.	It is true that it was a very important political rally. 
+Q.	Was Agathe at that time prime minister? 
+A.	I don't remember that. 
+Q.	Is it right that André Rwamakuba was there? 
+A.	I did not say that André Rwamakuba came there with that group on that particular day. 
+Q.	Were you there? 
+A.	I was there. 
+Q.	As a Parti Libéral member you were there; is that right? 
+A.	Yes, I was there as a member of the Parti Libéral. 
+Q.	And what was said over that afternoon.  It was an afternoon in your recollection; what was said over that afternoon? 
+A.	Counsel, that rally took place a long time ago, so I don't remember the contents of policies discussed at that rally, on that day. 
+Q.	But nothing nasty was said that would lodge in your memory; is that right? 
+A.	No, I didn't hear any such thing. 
+Q.	And Anastase Gasana, Aloys Munyangazu and Faustin Twagiramungu in your book, in any event, are all moderate MDR politicians; is that right? 
+A.	Yes. 
+Q.	But now you refer to a meeting the previous year in 1992 with Twagiramungu, you say, Gasana, Munyangazu.  Was Agathe there in '92 as well? 
+A.	No, she was not there in 1992. 
+Q.	And someone you say was André Rwamakuba, how did you know it was André Rwamakuba? 
+A.	Those dignitaries were introduced to us. 
+Q.	And how was he introduced?  How was he introduced to you, what was said about him? 
+A.	When the guests were introduced to us we were told that he too was one of our guests, but we were also told that he was someone from there because he was a native of Gikomero and he was from that area.  So those various party dignitaries were introduced to us, and we were told that they were united and that they all actually belonged to the MDR party. 
+Q.	And did André Rwamakuba say anything? 
+A.	On that day he did not say anything.  Only Gasana spoke, and he was the one introducing the guests; and after him Twagiramungu spoke.  
+Q.	So he didn't say anything.  What was it about him that stuck in your memory?  Can you describe him?  
+A.	When I saw Rwamakuba on that day I remember that he was wearing a whitish suit, he was fair complexioned, of medium height.  And these are the features that I remember. 
+Q.	Well, that wouldn't help me pick him out in a crowd, would it?  Anything else about him? 
+A.	Another feature which would help in identifying him is that he had thick lips. 
+Q.	Is that thick lips, or fairly thick lips? 
+A.	I don't know what your criteria are. 
+Q.	Well, were they as thick as my lips?
+A.	Maybe you could give me a reference, criteria. 
+Q.	It is coming to you -- were they as thick as my lips? 
+A.	They were thicker than yours. 
+Q.	And this was a striking feature, was it that you carry in your mind 13 years later, is that right? 
+A.	No.  However, even if I was asked to describe you, I could, for example, talk about your hair and, therefore, give a description which will lead to your identification. 
+Q.	Before quarter past three today, has anyone ever asked you for a description of André Rwamakuba? 
+A.	No, no one. 
+Q.	Anyway, in 1992 at this meeting that you say took place, and you appreciated that it was not a meeting then, it was a year later, I suggest, but you saw this man who was introduced and who you remembered.  And then at some time after that meeting there was, you tell us, a split in the MDR party.  And I want to ask you this: How do you know anything about the MDR party?  Just tell us your sources and how you come by the information to form your views about it.  
+A.	Mr. President, I was able to know something about the MDR party because I was a member of the  Parti Libéral, which shared information with the moderate MDR, moreover, members of the Parti liberal were persecuted because they were considered to be accomplices of the RPF.  Therefore, we gave this information to Anastase Gasana so that we should avoid being victims of evil (unintelligible) so that they could intervene in the event that we found ourselves to be victims of some people who were against the PL party.  And it was on the occasion -- on the occasion of one conversation with Gasana that he told me that there had been a split within the MDR.  And he told me that they did not get along, so the party split into two wings.  And one wing was known as the moderate wing, whereas other people joined a wing known as the Power wing. 
+Q.	And Gasana you always saw as a moderate, is that right? 
+A.	Yes. 
+Q.	You would have been surprised to have seen Rwamakuba and Gasana holding meetings together, would you, in 1994? 
+A.	Yes, I would have definitely been surprised, I mean, if I had seen them together. 
+Q.	And you never heard of Rwamakuba coming with Gasana to Kayanga and with Aloys Munyanguzu in January, in early 1994 with loudspeakers and staying and haranguing people in the centre there, that is not something you ever heard of as a Kayanga residence, is it? 
+A.	No, I did not hear anything about such an event. 
+Q.	And if they had come together and there had been a loudspeaker announcing it is time to get rid of the Tutsis, that is something you would have heard about, isn't it? 
+A.	I don't know whether such an event took place or otherwise, therefore, I cannot assert that such an event did take place, or I cannot say if such an event had taken place I would have known about it.  I cannot say that because I was not an official, and no one was supposed to report such things to me. 
+Q.	What do you think Mr. Gasana's reaction would have been if someone had been speaking into that microphone, a member of his party, in January 1994 saying, "Let's get rid of the Tutsis"?  What do you think his reaction would have been from what you know about Gasana? 
+A.	It is very difficult to assert that one knows someone else.  Even between a married couple, it is very difficult for them to say he or she knows his or her partner 100 percent because each individual has her or his own secrets, and this applies to married couples and between parents and children.  Gasana was an official, I did not discuss a lot with him, I did not spend days with him.  I discussed with him subjects which I had already testified to here before this Court.  So I cannot really talk further about his ideas.  In other words, I don't think I am in a position to answer that question, Counsel. 
+Q.	Now, you told us that you remember this meeting with Twagiramungu, Gasana, Munyangazu, Agathe, in 1993, you can't remember when it was.  When did this conversation about power take place between you and the then minister of foreign affairs Anastase Gasana, when did that conversation take place? 
+A.	I think that my conversation with him took place prior to the rally which I talked about. 
+Q.	And so that would be before there was any split in the party, is that right? 
+A.	What split are you talking about now, Counsel? 
+Q.	Well, you were telling us about a split of two wings.  When do you say you first heard about that? 
+A.	I told you that I learnt about it prior to the last rally.  I think it was rather before -- I beg your pardon, it was before that last meeting. 
+Q.	But you can't help us when that last meeting was, is that right, with Twagiramungu, future prime minister, chairman of MDR party for all of Rwanda, Aloys Munyangazu, vice president in your locality, Agathe, prime minister.  You can't tell us when that was in the political life of Kayanga?  And I know you keep looking over to the Prosecution there, and there are nods and things occasionally.  Please don't worry about anything over there.  You just -- you are here to give the evidence, you think about it, take your time, but it is your questions we want -- answers we want.
+A.	Mr. President, I am not looking at the president (sic), I was looking at the interpreter's booth.  I just wanted to check whether they were still talking because the voice of one of the interpreters had changed, because prior to that I heard a man speak but now I can hear a lady speak, that is why I was looking there. 
+Q.	I take that back.  So, you can't help us as to when these things took place, this meeting took place? 
+A.	I think that when you asked me that question before, I answered you.  And let me repeat my answer, I was not able to retain everything that occurred there because I did not know that one day I would have to come here to testify with this Court.  All that I know is that the meeting took place but I do not know when it was held.  I do not remember the date.  You remember something, when you know that later on, you will be asked something about it.  In other words, I do not remember the date.  
+Q.	Well, it is a long time ago and no one can blame you for that -- a very long time ago, but you see, you refer to André Rwamakuba coming, you say, in order to recruit people for the power, the MDR Power wing of the party; is that correct? 
+A.	I never said that Rwamakuba came there to the same rally where the other dignitaries with whom I mentioned had attended.  In 1993, he did not come to that rally with the people I mentioned. 
+Q.	No, what you said was that then there was MDR Power, and you went on about that, and as I understand it the next time you saw him you said, "When I saw him he came to look for MDR Power supporters.  He came in a white car and playing songs that glorified the MDR Parmehutu."  That is what I am asking you about.  So it is in that context, that as I understand it, you are saying that he came to recruit people for MDR Power.  That's your evidence, is it not? 
+A.	Yes, I agree with you there. 
+Q.	And so when did you first hear the name MDR Power, can you remember?  If you can't, you can't. 
+A.	I told you that it was Gasana who had spoken to me about the split which had occurred within the MDR.  He is the one who talked to me about the power wing. 
+Q.	But the word "power" was used, was it? 
+A.	No, the word was not used before.  In fact, that was the first time that I heard that term. 
+Q.	But then Gasana mentioned it, is that right? 
+A.	Yes, that was the first time that I heard the term used. 
+Q.	Can you remember a tragic incident of the death of the president of Burundi who was then the first elected Hutu to ascend to the presidency of that country, who was killed on the 21st of October, I believe, of 1993; do you remember that incident? 
+A.	Yes, I heard mention made of that, but I didn't take any particular interest in that.  It concerned Burundi.  I wasn't interested in what was happening in Burundi. 
+Q.	You didn't pay any attention to it.  You didn't consider at the time it was a terrible event, given your own country's position; you are honestly saying that you didn't pay any attention to it, is that right? 
+A.	In my opinion this was a major problem, indeed, for Burundi, but as a Rwandan I didn't really follow closely that particular event.  I did not seek to find out more about the event.  I didn't see any interest in my finding out more information about that particular death. 
+Q.	Well, do you remember that a very few days after that tragedy, there was a big meeting in Kigali where Froduald Karamira, who you mentioned, famously, in addressing the crowd used the word "power" for essentially the first time.  Do you remember that, Hutu Power, MRND Power, MDR Power.  PL Power, Hutu Power.  Do you remember that? 
+A.	No, I don't remember that speech.  I didn't attend that rally. 
+Q.	It was broadcast; didn't your friends tell you about it in the PL what had happened? 
+A.	No, I don't remember anything about it.  I don't remember the speech. 
+Q.	What about PL Power, when did that -- when did that start? 
+A.	PL Power began in 1993. 
+Q.	And in which month -- let me put it another way.  When was the first time you heard PL Power referred to in the context of your party, when was that? 
+A.	The first time I heard of the term PL Power was when I was at Landouald Ndasingwa's place.  I had gone to his house in order to fetch party member's cars, and I found other people there.  And it was those people I found there that informed me that the PL had split into two parties.  Someone called Théogene Munyangeyo, who was working for Frodouard, he was the vice chairman of PL in our commune, he is the one who informed me that there had been a split in the PL and that there was a PL Power wing and the ordinary PL wing. 
+Q.	Thank you.  And can you remember -- I appreciate it is a long time ago when that was -- when "power" was first used like that.  If you can't remember, say so.
+A.	No, I can't remember the date, it is a long time ago.  I wasn't retaining this information, nor was I taking notes.  I don't really know what the date would have been. 
+Q.	It is not entirely a memory test, sir, and I well understand.  Now, after the 1992, as you put it, opportunity to see André Rwamakuba, the man with the thick lip on the stand, the next time you saw him, as I understand it, was in the company of Pascal Ndengejeho.  Am I right or am I wrong about that? 
+A.	You are quite right, Counsel. 
+Q.	That is when you were by the side of the road, some three metres away.  And is the position this, that he passed you with Ndengejeho in the car, is that what you are saying?  
+A.	Yes, it was at that time. 
+Q.	And can you remember when that was?  Again, if you can't, say so.  
+A.	Well, I remember is that it was towards the end -- the end of 1993, but I do not remember the date. 
+Q.	And I wasn't clear, exactly, what was going on.  They pass in the car, were they doing anything or just driving passed you? 
+A.	Their vehicle was driving by very slowly, and there were loudspeakers erected on the vehicle so that people could hear.  They passed close by me where I was standing by the road, and the vehicle was going slowly so that people could hear what was being said.  And then they came back towards evening. 
+Q.	And what was being said? 
+A.	They were playing songs, it was not their own voices.  They were playing songs on the MDR Parmehutu. 
+Q.	Were these songs that you recognised when you heard them? 
+A.	Yes, I recognised the songs. 
+Q.	Can you give me the name of any of them? 
+A.	I'm not a specialist in songs, I'm not a singer myself.  All I can say is that the songs were talking about the need for the Hutus to unit.  And that, subsequently, after their union, they were -- the Hutus were going to obtain victory. 
+Q.	I understood you to say that these were old Parmehutu -- MDR Parmehutu songs that dated back to Gregoire Kambanda's days, back in the 60's and 70's.  Is that right that these were old songs that were being played that you heard; is that correct? 
+A.	Yes, they were old songs. 
+Q.	And like many old songs, these 30 or more years old, did you know any of the names, the titles of these songs? 
+A.	No, I do not know the title of the songs that were played at that time. 
+Q.	How did you know they were old Parmehutu -- MDR Parmehutu songs? 
+A.	It is because when I was still young I would hear those songs. 
+Q.	I'm not going to ask you to hum it to us or anything like that.  You can't remember the date when that occurred?  
+MR. PRESIDENT:
+Mr. Hooper, I hope that was an attempt at levity and not a threat to keep us here unnecessarily long.  
+MR. HOOPER:
+No, it was a -- yes. 
+MR. PRESIDENT:
+This has been going on for some time now.  
+
+MR. HOOPER: 
+Yes, all right.  
+BY MR. HOOPER:
+Q.	Can I come to Emmanuel Rubagumya's bar, this was 1994, in January, when you entered the bar and found André Rwamakuba together with the people that you named --  
+MR. PRESIDENT:
+Actually, this may be a good time for us to take a short break now.   
+(Court recessed at 1545H)
+(Pages 53 to 60 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1607H)  
+MR. HOOPER:
+Yes.  Thank you, Mr. President, I've only got two or three areas left, pretty small some of them too,
+so you won't be there very much longer, Mr. Witness, all right? 
+BY MR. HOOPER:
+Q.	And I think we'd come to Emmanuel Rubagumya's bar and in January 1994 you told us, you can't remember the precise date in January, but it was in January; is that correct? 
+A.	That's correct, Counsel. 
+Q.	And in January you go into the -- into the bar and I can see from your statement and, indeed, from your -- the notes that were kept when you were seen by the investigators that you've always said that it was January '94 that you saw him there, in this bar or cabaret.  What happened?  Did you just happen to go in there or were you in there when this man Rwamakuba came in?  Which was it? 
+A.	Before I answer that question I would like to point out that it is not a bar as such, it's just a small country drinking place.  When I got -- when I entered this small drinking place I found him inside. 
+Q.	And how long did you spend in this bar -- this drinking place? 
+A.	I didn't spend long there.  After hearing what the people who were inside were saying, I was forced to leave. 
+Q.	Did the people there know that you were Tutsi? 
+A.	The people who were inside knew that I was Tutsi, except for Rwamakuba who did not know me. 
+Q.	Did you have a drink? 
+A.	I was going to get a drink when I -- but when I saw these people and followed their conversation, I was discouraged and I went away. Their words made me feel ill at ease; that is why I was forced to leave. 
+Q.	And the words you -- you relate that you heard was that Rwamakuba said that they should recruit members and kill anyone who refused to join the party.  Are you sure that's what was said? 
+A.	Yes, I heard him say that. 
+Q.	And by "party", in the context of your -- of your evidence you mean MDR Power; do you? 
+A.	I think you should ask Rwamakuba this instead.  I -- perhaps, I think perhaps, he may have been referring to PL Power because they had formed a coalition with this party.  What is more, I don't know what they had talked about at the beginning of the conversation. 
+Q.	Now, the people you named as being there, as I understand it, are either in prison or they're dead; is that right? 
+A.	That's right. 
+Q.	And the people you said were dead, how did they die and when?  Do you know? 
+A.	Are you referring to the people who were in that small drinking place? 
+Q.	Yes, you told -- told us that two of them were dead, as I recall.  I'm asking you do you know how they died?  When they died? 
+A.	I don't know the date of their death.  When I returned from my place of refuge they were dead.  I don't know how they died. 
+Q.	Yes.  Joseph Ayirwanda and Frédéric Turntsinze.  Is it right that they were both killed by the RPF?  Is that something you've heard? 
+A.	No, I didn't hear anything about the -- the cause of their deaths. 
+Q.	Now, I see you say in one part of your statement in your confirmation process being related to seeing Rwamakuba in that cabaret in January '94.  You relate how he came several times to the secteur afterwards with a loudspeaker playing songs.  But, in particular, that you had one occasion to see him at Rutongo and at Gasabo also after -- well, it's in French, I'm reading this and translating it to myself -- again, at the beginning of 1994; is that correct? 
+A.	I would like you to show me this statement so that I can verify that it is in fact mine, just in case words or a statement made by someone else or said by someone else are ascribed to me. 
+Q.	Well, let's just have your thoughts on it as it were first.  Is it right that you saw or had the opportunity to see André Rwamakuba at Rutonga and at Gasabo again before the events of the genocide and again at the beginning of 1994?  Do you agree or disagree with that?  Forget what's in your statement for a moment.  Do you agree that you saw him, that you had the opportunity to see him at Rutonga and Gasabo at the beginning of 1994; is that correct? 
+A.	That is correct. 
+Q.	Well, that's all I'm putting to you in the statement, so perhaps it doesn't matter that you see it.  I'm merely confirming today that it's something you said before. 
+
+Now, you left the area on the 12th of April you tell us; is that right? 
+A.	That's right. 
+Q.	When you came back later somebody told you, is this right, that André Rwamakuba had visited the commune and more particularly, Gikomero -- i.e. Gikomero secteur in the commune; is that correct? 
+A.	That is correct. 
+Q.	You, of course, live in ***********; is that right? 
+A.	That's right. 
+Q.	Now, when you left and you went to Giti -- I was a little unclear quite what had happened to you there -- but you spoke of fighting between FAR and the RPF forces and I need your help, sir, because I didn't get the date that you were saying.  So, can you tell me again what happened when you left, just very briefly, what happened when you left ************* on the 12th.  I understand you went over to Giti on the other side of Lac Muhazi.  What happened then? 
+A.	I told you that I did leave ************* on the 12th of April.  I went to Giti commune and on the 16th I left that place and went to Rutare commune.  I arrived in Rutare towards evening.  The next morning there was fighting.  That is how we left that place and returned to Gasabo -- in Gasabo secteur where we spent three days.  I don't really remember clearly but I believe we did spend three days there and that is how we returned to Rutare once more, that is where the fighting had taken place.  We stayed in Rutare until September. 
+Q.	Wasn't the position this in fact, that on the morning of Sunday the 10th of April, the RPF chucked the FAR out of Rutare?  There was a firefight and the FAR fled from Rutare.  The RPF took Rutare on the 10th of April, on the Sunday morning.  
+A.	It was not on the 10th; it was the 17th of April because on the 10th of April I was still in my home. 
+Q.	Wasn't it the case that by the 17th of April the RPF had taken your cellule,**********? 
+A.	What date did you say? 
+Q.	17th of April.  
+A.	No, I don't know the date on which the RPF captured our cellule because I was not present in ********. 
+Q.	Thank you very much, Mr. Witness.  I have got no other questions of you, thank you. 
+THE WITNESS:
+Thank you, Counsel. 
+MR. PRESIDENT:
+Mr. Witness, the Prosecutor will now ask you a few questions in re-examination.
+(Pages 61 to 63 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1635H
+BY MR. NIANE:
+Thank you, Mr. President.  As the Defence has stated -- has emphasised that the witness has not changed his position -- did not change his position, I have some questions to put in re-examination.  
+RE-EXAMINATION
+BY MR. NIANE:
+Q.	Witness, you answered the Defence -- a question put to you by the Defence to the effect that the PL was divided into two parts, PL-Power and the ordinary PL, is that correct?  
+A.	Yes, that is what I said. 
+Q.	What wing of the PL did you belong to? 
+A.	I belonged to the ordinary wing of the PL. 
+Q.	You also referred to Landoald.  Who was Landoald? 
+A.	Landoald was a businessman.  He managed a hotel, and he was a member of the ordinary wing of the PL, and he was killed during the genocide. 
+Q.	Why was he killed? 
+A.	He was killed because he was a member of the Tutsi ethnic group and he was an opponent of the MRND. 
+Q.	This is my last question, Mr. President.  You also said that in the cabaret, in the bar, some of the people who were there are dead and others are in prison; is that correct? 
+A.	That's correct. 
+Q.	Do you know why these people are in detention? 
+A.	They are suspected of having committed the crime of genocide. 
+Q.	Thank you, Witness.  
+MR. NIANE: 
+Mr. President, thank you, I have finished. 
+MR. PRESIDENT:
+Now, Mr. Witness, thank you very much for your testimony.  It's now concluded and you are now excused and you are free to go.  
+(Witness excused) 
+MR. PRESIDENT:
+Ms. Fall, this morning, during the testimony of ALA, there was a reference to his employment within a certain international organisation and I wondered whether that should be redacted from his evidence as providing an opportunity for the revelation of his identity.  
+THE ENGLISH INTERPRETER:
+Microphone please, Counsel.  
+MS. FALL:
+Quite so, Mr. President.  We discussed it during the break.  I thought it had been done.  If it has not been done, then it should in fact be redacted. 
+MR. PRESIDENT:
+Thank you. 
+
+Mr. Registrar, can I make the order now?  
+MR. FRY:
+Yes, Your Honour, it's so noted. 
+MR. PRESIDENT:
+Thank you very much:  Yes.
+MR. HOOPER:
+Mr. President, during the witness's testimony, I referred to the fact that there'd been nods and grins or shaking of heads, and the witness should pay attention, really, to his own thoughts.  I haven't discussed this with my friend, but I want to make it plain I'm not suggesting that there was any deliberate attempt to influence the witness's evidence at all.  What I've noticed, though, is that there are nods and shakes which sometimes distract the witness, and it was to that that I was making reference.  We all have our mannerisms in court and sometimes these things happen, but I've noticed a couple of times that the witness has been asked a question and then looking over -- I don't think they've been getting any help or assistance, but more distracted perhaps.  I'm just wondering, perhaps, making it plain -- I'm not making any suggestion or allegation against the Prosecution team.  I want to make that plain.  
+MS. FALL:
+Mr. President, since this is not the first time that Mr. Hooper is acting as such in suggesting that we have some influence on the witness, I would like to say that we -- because what the Defence is saying is very serious and you are impugning our honesty.  You said that the witness was looking at us.  May I finish please?  
+MR. HOOPER:
+It's been lost in translation.  I'm sorry, I was saying quite the opposite.  I'm trying to make clear, without any suggestion from the Prosecution I should do so; it's just something that I've reflected on.  I want to make plain there was no suggestion or allegation of improper conduct on the part of the Prosecution at all.  I've stood up and said that.  I'm making it quite plain.  I've probably aggravated matters rather than helped, but I didn't mean to do that.  I'm saying there was no intent to make any allegation against the team at all.  It's just that there are distractions.  It's as simple as that.  
+MR. PRESIDENT:
+Ms. Fall.  
+MS. FALL:
+Mr. President.  Mr. President.  I don't understand what Mr. Hooper is saying. 
+MR. PRESIDENT:
+(Microphones overlapping) I wanted to tell you.  I wanted to tell that you in his own style, Mr. Hooper was trying to apologise for the remark that he had made earlier.  That is what I understand he was attempting to do.  So I think you didn't understand his meaning, but it was an attempt at an apology.  But he seemed to have annoyed you even more.  
+MS. FALL:
+No, Mr. President.  When you say nodding or moving your head might distract the witness, I don't think it's an apology.  He did say that the way you moved your head and the way the people looked at the witness could distract him.  I think that's very clear.  I think if he wishes to apologise now, I'd be quite prepared to accept his apologies.  But, Mr. President, I should like to say this, that in order that we should have a normal trial with mutual respect on both parties -- of both parties, I think that we should not ascribe intentions to the Prosecution.  We are here to reveal the truth.  We are doing so loyally.  We are doing this within the ambit of the oath we have taken.  I don't think therefore that things should be suggested.  I would like to say this very clearly.  I am asking my learned colleague to have the same intentions, the same attitudes, towards us as we have towards him.  We have never accused him of trying to influence anyone.  We might say something about that.  But I am going to ask the Defence not to make such suggestions, even if afterwards they withdraw these suggestions in saying that it was not the case.  What he said was very clear, Mr. President.  
+MR. PRESIDENT:
+What I would like to say is this:  that we are sitting here as the Bench, and if we notice any impropriety, we will take whatever steps are appropriate.  If there was communication between counsel and the witness, it's very likely that we would notice it and do something about it.  So it is in fact fair for Ms. Fall on the Prosecution to feel upset at the imputation of improper conduct on their behalf.  Now, I had thought that in your style you were trying to apologise, but it is clear that you did not succeed in doing so.  So if you wish to really apologise, you can do so now.  
+MR. HOOPER:
+I'm very sorry.  
+MR. PRESIDENT:
+Ms. Fall. 
+THE ENGLISH INTERPRETER:
+Counsel Fall is saying she did not get the translation.  
+MR. PRESIDENT:
+Ms. Fall, the problem is he now tried to speak in French and apparently did not succeed in doing so either.  
+
+Mr. Hooper, you had better apologise in English so that it can be properly translated.
+MR. HOOPER:
+Well, as the witness said, life, like a marriage, and sometimes in a marriage you can pour what you think is a bucket of water over a situation, only to find that it contained petrol.  I rather feel in that situation this afternoon.  I'd said something earlier today which I thought could be taken as an imputation, but it wasn't actually meant as such, and on reflection, and without anyone prompting me to, I got on my feet, as it were, to make it quite plain what I meant, that I didn't mean that, and it was an apology, wrapped up in words. 
+MS. FALL:
+I accept your excuses, Mr. Hooper, wholeheartedly, although we're not married.  
+MR. O'SHEA:
+Your Honour, I suspect that you may be possibly about to close the proceedings.  If that is the case, I should just mention a couple of matters.  I don't want my learned friends to rush out and I'm not able to seize them before they do.  It might be helpful if I can mention it through Your Honour.  
+
+The first matter is this:  On the last occasion when we were talking about the documents which were to be admitted that we are going to be arguing about tomorrow, I believe that Your Honour had some difficulty opening the Kambanda diary.  We've had difficulty opening it on our CD and the hard copy -- yes, I believe it's only in French, in fact, on the CD, and we've only been able to open the first page, only the first page.  And as for the hard copy, it's in such miniscule writing that very little can be made out. 
+MR. PRESIDENT:
+Mr. O'Shea.
+MR. O'SHEA:
+Yes.  
+MR. PRESIDENT:
+I would prefer if that matter -- that seems to be an administrative and not a judicial matter. 
+MR. O'SHEA:
+Yes.  
+MR. PRESIDENT:
+Would it be appropriate to mention it through our trial coordinator and get it rectified in that manner?  There's little we can do in open court on this matter. 
+MR. O'SHEA:
+Yes, I understand.  I've done the job, as it were, in the sense that I didn't want all the parties to rush off.  
+
+There is one other matter which again is not one for judicial intervention but may be one for judicial influence, which is this:  Your Honours will be aware that Ms. Allison Des Forges is giving evidence in another Trial Chamber.  It's quite important to me that I'm able to see the transcripts of that evidence.  There's quite a lot of it.  At the moment we're facing some obstacles in getting hold of those transcripts, and it just needs to be emphasised how important that is and how difficult it will be to deal with it at the very last minute.  Again, not a matter that I'm seeking any order on but I just wish to raise the difficulty that we're experiencing at the moment in the hope that it might send a message somewhere. 
+MR. PRESIDENT:
+Thank you very much.  We also take note of that.
+MR. MORLEY:
+Your Honour, may I rise to my feet at this stage and introduce the fact that tomorrow we will be hoping to call the witness GLM.  We had been hoping to have him here for Your Honour this afternoon, but a difficulty has arisen in that he's had a very bad toothache.  He's gone to see a doctor, and I understand that before the Court there is a sick note of some description.  We hope he's going to be well enough tomorrow morning, and if he isn't, we're making arrangements to have a different witness.  So that there may be a small high hiatus when proceedings begin tomorrow morning. 
+MR. PRESIDENT:
+Have you taken over of the leadership of the Prosecution?  
+MR. MORLEY:
+I thought I'd rise at this stage to mention GLM as he would have been following naturally at this point. 
+MR. PRESIDENT:
+Ms. Fall.  
+MS. FALL:
+Yes, Mr. President.  I've been sort of surprised by Mr. Morley's intervention in that we are not discussing the issue of GLM, but indeed he's right.  We had anticipated calling GLM immediately after GIQ, but it turned out that we were informed that he had a toothache and that he would not be available here this afternoon.  I think that he could come here, he could be here tomorrow.  That's what we were told.  
+
+In any case, we are going to place -- play our role; in other words, if GLM is not here, in spite of our difficulties in our programme, we will call another witness tomorrow morning because today we had not anticipated this and we did not plan for another witness because GLM at that point in time did not have any problem.  But if GLM cannot come here tomorrow, we will be in a position to call another witness.  
+MR. PRESIDENT:
+Yes, Mr. Hooper.  
+MR. HOOPER:
+Well, I'm grateful for the indication.  It puts us in a difficult position because the factual matrix of this case is such that the deeper you go into the week, the more difficult it is to carry various witnesses in one's head.  So the result is that I'd be preparing tonight for tomorrow and GLM, because of the area that he covers, particularly given his will-say statement which I got last night or had the first opportunity -- or took the first opportunity to read last night, there's an extensive range of evidence.  If he's not here tomorrow it means, as I understand, we will have Witness GIT.  GIT has given evidence before, but rather than making things easier, it rather complicates things in its way because there's quite a significant area of transcript to review.  
+
+Now, the arrangement was, as I understand it, that if a transcript witness gave evidence, i.e., a witness whose given evidence before, and where a reference to his previous transcript is to be employed by the Defence, which is more likely than not to be the case, then the Defence, as I understand it, will have the opportunity to specify those parts of the transcript on a review of the evidence given in court and the previous evidence, and then are presenting the relevant portions of that transcript by page number to court management who are then going to, as I understand it, provide the transcript for use in court, at least as far as I'm concerned.  I think that was the arrangement I understand that's being reached.  So I'm -- effectively, what it comes down to is this:  If GLM gives evidence tomorrow, then I'll be prepared for that.  If it's GIT at this stage, I'd be less prepared, obviously, but if he gives his evidence-in-chief, if I'm going to get an opportunity to then review that evidence in the light of the transcript, which I understand was the hopeful arrangement, then I wouldn't be cross-examining him tomorrow.  But I'm entirely in your hands, Mr. President.  I know you can appreciate from your own experience the kind of difficulties that can arise in this situation.  Most of the witnesses, as I say, are one-day witnesses, but in their own way, there's quite a lot to go through and a reasonable amount of preparation is needed which really does have to be very shortly before the evidence.  
+MR. PRESIDENT:
+Yes, Mr. Hooper, if a witness gets sick, I would expect that the Prosecutor brings the next witness in line.  And I've tried to impress on our court staff that everybody should be ready for contingencies of this nature.  I would expect that if an eventuality of that nature arises, that we'd be forced to have an adjournment.  So I would hope that you would be able to prepare yourself to proceed normally, particularly as we're already going to be losing Friday. 
+MR. HOOPER:
+Yes, I just wonder whether it gave -- very well.  
+MR. PRESIDENT:
+Thank you.  I think we can take our adjournment now.  Until tomorrow morning.  
+(Court adjourned at 1645H)   
+(Pages 64 to 69 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Donna M. Lewis, Jean Baigent, Karen Holm and Wendy Molnar, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+	___________________________	Donna M. Lewis
+
+	___________________________	Jean Baigent
+
+____________________________	Karen Holm
+
+	_____________________________	Wendy Molnar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page i
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 12
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 23
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 28
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 52
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 60
+
+
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 63
+
+
+
+
+
+	RWAMAKUBA	WEDNESDAY, 15 JUNE 2005
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 69
+
+	RWAMAKUBA		WEDNESDAY, 15 JUNE 2005
+
+ICTR - TRIAL CHAMBER III
+

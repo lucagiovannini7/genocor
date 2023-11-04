@@ -1,0 +1,1198 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+THURSDAY, 26 JULY 2007
+0905H
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Ms. Aminatta N'gum
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dow
+	
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	
+Court Reporters:
+	Ms. Kirstin McLean
+	Mr. Sheriffo Jammeh
+	Ms. Sherri Knox
+	Ms. Roxane Meena
+	Ms. Vicki Eastvold
+
+
+I N D E X
+
+WITNESS
+
+For the Prosecution:
+FIDÈLE UWIZEYE
+Cross-examination by Mr. Weyl (continued)	4
+Cross-examination by Mr. Robinson	17
+
+
+
+EXHIBITS
+Exhibit No. D. NG78A and D. NG78B	8
+Exhibit No. D. NG79A and D. NG79B	8
+Exhibit No. D. NG80A and D. NG80B	8
+Exhibit No. D. NG81A and D. NG80B	10
+Exhibit No. D. NZ325	20
+Exhibit No. D. NZ326A, D. NZ326B, and D. NZ326C	22
+Exhibit No. D. NZ327A, D. NZ327B, and D. NZ327C	36
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody.  Welcome to courtroom one.  
+
+Madam Registrar, could you open the proceedings, please.  
+MS. N'GUM:  
+Thank you, Mr. President, Your Lordships.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam, and Judge Vagn Joensen is now sitting in open session, today, Thursday the 26th of July 2007, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al, case number ICTR-98-44-T.  
+
+Thank you, Mr. President, Your Lordships.  
+MR. PRESIDENT: 
+Thank you, Madam Registrar.  
+
+The appearances; appearances are the same?  Yes.  
+
+Mr. Weyl, you may continue with your -- yes, Mr. Robinson?  
+MR. ROBINSON: 
+Yes, excuse me, Mr. President.  I feel like I need binoculars to see you here.  
+
+Mr. President, before Mr. Weyl begins, I would like to make a motion that I think could facilitate our work this morning concerning the closed session testimony from the Akayesu case, which I may also refer to during my cross-examination.  As you know, this witness testified in the Akayesu case with a pseudonym, and has since decided to testify in his true name.  So I'm making a motion that you modify the protective measures in the Akayesu case by allowing the disclosure of those portions of the testimony that are relevant to cross-examination and, indeed, redirect examination in this case. 
+MR. PRESIDENT: 
+Mr. Robinson, do I have power to do that without reference to the Akayesu Bench?  
+MR. ROBINSON: 
+Yes, you do.  I'm going to explain to you under Rule 75(G), it says that:  
+
+"A party to the second proceedings seeking to rescind, vary, or augment protective measures ordered in the first proceeding must apply:  
+
+"(i) to any Chamber, however constituted, remaining seized of the first proceedings or,
+
+"(ii) if no Chamber remains seized of the first proceedings, to the Chamber seized of the second proceeding."  
+
+And there is no Chamber seized of the Akayesu case, so we can apply to you.  
+
+Then going on to H -- Rule 75(H).  It says:  
+
+"Before determining an application under paragraph (G)(ii) above, the Chamber seized of the second proceedings shall obtain all relevant information from the first proceedings, and shall consult with any Judge who ordered the protective measures in the first proceedings if, that Judge remains a Judge of the Tribunal."  
+
+And looking at the Akayesu case, the three Judges were Judge Laïty Kama, Judge Lennart Aspegren, and Judge Pillay, none of whom are presently on the Bench.  So I believe that, pursuant to Rule 75(G)(ii) and 75(H), you have the authority to modify the protective measures without consulting any other Tribunal.  I think you certainly could consult the witness to see whether he would have any problem with that, but if he doesn't, then I think we can proceed in open session, if you can make an oral order modifying the protective measures from the Akayesu case.  Thank you.  
+MR. PRESIDENT: 
+Does anybody else wish to comment on this application?  
+MR. WEBSTER: 
+No, the Prosecution has no opposition, Your Honour.  
+MR. PRESIDENT: 
+Mr. Witness, did you understand the application counsel made?  
+THE WITNESS: 
+Yes, Mr. President.  
+MR. PRESIDENT: 
+Yes.  Well, in order -- before we actually deliberate on it, we wanted to find out whether you would have any objections to having the matter addressed in open session.  
+THE WITNESS: 
+Mr. President, the reasons why I testified in closed session in the Akayesu trial are still alive, unless you can explain to me that the reasons are no longer valid today.  Because, for me, nothing has changed.  Besides, concerning the Defence, I did not really appreciate the fact that the Defence keeps on referring to my testimony in the Akayesu trial, seeming to set aside the other statements which I gave, or the other testimonies which I've given, and I had provided additional information.  
+And the Defence seems to always be suggesting that what I said in my testimony in the Akayesu trial is different from my present evidence.  Let us take, for instance, the list of persons which I referred to -- 
+MR. PRESIDENT: 
+(Microphones overlapping)... you will probably have a chance to explain your position on that, if further questions are put to you about it.  I should indicate that whether it is addressed in closed session or open session, that is a line of questions which the Defence is permitted to undertake.  The purpose of it is to assist the Court to determine whether your testimony in this trial is consistent with things you said in the past about the same incidents.  So that is a legitimate enquiry that counsel is entitled to make.  
+
+What we are interested in deciding now is that -- what has changed, as far as we are concerned, is that in this trial you have agreed to give your testimony under your real name and in open session fully.  Now, normally your previous statements would be put to you in open session.  But we have to respect the order that was made in the Akayesu case, although we do have the power to modify it.  And as we are considering whether to modify it or not at all, it is normal that we would ask you if you have any objection. 
+
+So what has changed, in this context, is the fact that your testimony is being given under your real name.  And so the question is -- it is really related to that issue, as to whether that aspect of your testimony needed to be protected from the public or not.  
+THE WITNESS: 
+If that does not contravene the Rules of Procedure and Evidence, once I am testifying in open session and under my real name, then I don't find any problem with what I said in the Akayesu trial being referred to in this open session.  
+MR. PRESIDENT: 
+Thank you very much.  We will take that into account as we consider our decision, which we will deliberate on later this morning and give our decision during the course of this morning's session.  
+
+Mr. Weyl, you may continue now.  
+MR. WEYL: 
+Thank you, Mr. President.  But...
+MR. PRESIDENT: 
+Yes, Mr. Weyl, we recognise that you probably needed to have a ruling before you completed your cross-examination.  
+
+We have considered the matter, and we have decided, in the circumstances, that we will make the order to modify the protection order in the Akayesu trial to permit reference to sections of the closed transcript -- closed session testimony to which you wish to refer during your cross-examination.  And also, Mr. Robinson as well.  
+
+So, permission is granted for you to deal with that in open session.  
+MR. WEYL: 
+I am obliged, Mr. President.
+FIDÈLE UWIZEYE,
+CROSS-EXAMINATION (continued) 
+BY MR. WEYL:
+Q.	Good morning, Mr. Uwizeye.  
+A.	Good morning, Counsel.  
+Q.	Yesterday, before the adjournment, we were referring to the memorandum which you drafted between June and August 1994, and which you signed in August 1994.  Do you remember that, sir?  
+A.	Yes, I do, Counsel.  
+Q.	And I had pointed out that it was a document which you prepared on your own initiative; is that correct? 
+A.	Yes. 
+Q.	In that document you were not answering any question which may have been leading or really specific.  
+A.	That's correct.  
+Q.	In that document you had written what, to you, were the most significant elements, correct?  
+A.	That is an overview, or a summary.  And as you yourself had said, it was just an aide-memoire which maintained -- which concerned only certain events, certain things.  I could not write everything in it.  That would have required me to take time to develop the points mentioned in that aide-memoire and, if need be, to add new items.  So it was just an overview, a summary.  It is not a comprehensive document.  
+Q.	But we agree, don't we, that when you prepare a document such as that one, you try to write down the most significant events, the most important events?  
+A.	That is not what one does often.  Rather, you write down things which you may rely on subsequently to develop and beef up your analysis, if you intend to review the overview so as to make of it a more comprehensive document.  
+Q.	But in August 1994, that meeting of 18th of April 1994, for you, was not an important thing.  
+A.	With hindsight, if I had to prepare a particular chapter dealing with meetings, I believe I must have included the meeting of the 18th of April.  It is true that in my overview I did not focus on such meetings, on the meeting of the 18th of April.  Rather, I focused on the acts of violence committed, the problems experienced by the various parties, as well as the political state of affairs.  But in that overview I did not focus on meetings.  I am not saying this because I mean to say that the meeting of the 18th of April is not important, but it was not covered in my overview. 
+Q.	Implicating MRND leaders, particularly Édouard Karemera and Mathieu Ngirumpatse, was not something which, for you, was significant in June, July, and August 1994?  
+A.	That was necessary because those people were authorities, chieftains in the MRND political party who had played an instrumental role in the genocide.  That is the reason why I remembered those authorities.  Now, when the question is asked as to those who had the idea of the genocide and who implemented it, then you realise that it is more important than knowing the number of meetings that were organised and the people who attended such meetings.  
+
+So what was of more concern was the conduct of political parties, the conduct of soldiers, and in my overview I included information which tended to point out the responsibility of politicians, rather than focussing on meetings.  Besides, it is for those reasons that I entitled the document "analytical overview".  Please consider my document the way it was drawn up, and take on board the fact that it is an overview.  
+Q.	It is an overview in which you ought to acknowledge that you did not mention any of the national leaders of the MRND.  Do we agree?  
+A.	I talked about groups, I talked about parties which were at the origin of what happened, and I discuss those in general terms.  There was no other way I could have dealt with such points, given that it was an overview.  
+Q.	Mr. Uwizeye, it is not quite what you said on the 6th of April 2005 in the Bizimungu trial.  I have page 27 of the French version before me, lines 15 to 20.  This is what you said:  
+
+"And now I am referring to the main document of August 1994, the most important one.  In that document you can see all the events which took place.  The document talks about politicians and government activities, as well as the activities of certain army officers, the main events, which could help in research."  
+
+Now, if I compare those statements with what you are saying today and the analytical overview, I realise that when you were writing your document in June, July, and August of 1994, you absolutely did not have in mind the participation of Mathieu Ngirumpatse and Édouard Karemera in the events in which only you wanted to involve them in in your statements.  Do you have any comment to make?  
+A.	But, Counsel, do you at least admit that I talked about political parties, that I talked about the MRND and the Interahamwe?  
+Q.	Mr. Uwizeye, you answering my question with a question -- well, do you admit that in 1994, closest to the events, you did not in any way implicate Mathieu Ngirumpatse, Édouard Karemera, or any of the national members of the leadership of the MRND in that meeting of the 18th of April which you are implicating them in today?  Do you admit that, yes or no?  
+A.	You are revisiting the meeting of the 18th of April.  I have already answered a question concerning that meeting of the 18th of April.  I said that in my political overview, I did not include meetings.  Then you talk about Mathieu and Karemera, and you say you did not see their names in the overview.  And I told you that in that document, I made reference to MRND.  If I talked about MRND, it was a political party, and that political party had members and a leadership, and the two persons whose names you have mentioned were members of the leadership of the party.  Even though I did not give the names of those two people, I held the political party responsible.  
+
+That apart, I think we should try to point out the responsibility of each and every one in that party.  But it is true that you can also hold that party responsible as a group.  But when you go and look at the details, you will also examine the responsibility of each and every member, or leader.  I think we are using the same logic, and I believe I have given you a satisfactory answer, Counsel.  
+Q.	Mr. Uwizeye, the document was tendered into evidence by the Prosecutor, and the Chamber has all the data before it in order to assess your evidence.  
+
+Now, regarding the other document, on the first day of your testimony -- or, rather, the second day of your testimony, that is last Friday, the Prosecutor had put the following question to you:  "Do you stand by your report on the events as you drafted it on the 18th of August 1994?"  And it's on page 35 of the transcript of the hearing of last Friday.  And this was your answer:  "Quite.  I do admit that I confirm the contents and the substance of that document, setting aside, perhaps, some information which could be completed -- or, explained by information received subsequently."  
+
+Is it in terms of information or suggestions received subsequently that you did not involve Édouard Karemera in the meeting of the 18th of April 1994 which, in your statements of May 1996, you had not indicated?  
+A.	When I answered the question by saying that I stood by what I had written in my overview in my answer to the Prosecutor, I would say that I would even -- even today I would stand by what I stated in that document.  And when you say that I also added that that overview could be completed, it is because research was done subsequently.  Today, if you ask me the question as to which leaders of the MRND I was referring to, and if you ask me whether I saw him at a point in time, that is the kind of information I am referring to.  Because on each of my appearances, specific questions are put to me and I have to explain certain issues in detail.  Now we can go down to the party as a group and talk about the role of individuals.  
+
+So the situation evolved, and taking into account the various pieces of evidence and the testimonies given in certain trials, we can now talk about individuals and names.  But when I wrote my overview I didn't deem it necessary to include names; I gave general information.  It was in that spirit that I drafted that overview.  
+
+I would tell you today that if I were to write that overview today, I would include such-and-such a point, or take -- you will have such-and-such a format.  So, if there's information and suggestions obtained subsequently, it is quite normal.  This is a document I wrote and published.  And in such a document, facts are taken into account.  It wasn't a story that I wanted to write; it wasn't a tale.  I wanted to talk about facts, and these facts have to do with persons who are identified.  
+Q.	Mr. Uwizeye, I thank you for your long answer.  My question was short and concise, and your answer should have been short and concise as well.  
+
+In light of the new information or suggestions that you -- you said you received after the 10th of May 1996, is it for that reason that we have to wait until March 1997 in order to mention Mathieu Ngirumpatse's name as a person who attended that meeting?  
+A.	What you are saying is not correct, and that is not what I said a while ago.  What I would say -- or, what I would have said regarding Mathieu Ngirumpatse is not new information or new propositions.  You seem to forget that what I stated regarding that person, or those persons, are facts or acts that I witnessed with my own eyes, because I had occasion to meet those persons.  What I say is well founded.  I am testifying to events I witnessed; I am not relying on suggestions or new information that I received in order to come and testify before this Chamber and make statements before this Chamber.  I believe that I properly understood your question and answered it.  
+Q.	Mr. Uwizeye, you are therefore denying that at no point in time you made statements or assertions that were leading or guided, including -- anyway, let me stop here.  I'll ask the next part of the question later.  
+A.	I do not agree with you. 
+THE ENGLISH INTERPRETER: 
+Says the witness.  
+BY MR. WEYL:
+Q.	Mr. Uwizeye, do you have before you the transcript of the hearing of the 3rd of March 1998, French version, page 77, line 11 -- or, lines 11 till the end of the page, and that continues on page 78, line 1?  In that passage, this is what you said:  
+
+"I held two meetings, and the third meeting had to hold precisely on the 18th.  The 18th is a true date, because I myself remember it.  I wrote the date of the 18th because the executives, the inspectors, and Prosecutors -- I do not know who else -- we talked about this in Kigali all with a view to providing guidance.  I do not remember the date.  I said that prior to the 20th because I am aware that the bourgmestre of Muhina (phonetic) was killed on about the 20th or the 21st.  And he was killed, therefore, three days after that meeting.  That is why the date of the 18th, which was given to me, was accepted by me.  And I myself wrote it down because, as a matter of fact, the date in question is that date -- or, perhaps that date, or could be that date."  
+
+Do you admit, Mr. Uwizeye, that your statements are perhaps statements that were dictated to you and which you accepted? 
+A.	No, I do not agree with your assertion.  
+MR. WEYL: 
+Mr. President, may I request that this excerpt of the transcript in the Akayesu case, as I have read out, pages 77 and 78 of the French version, and pages 73 and 74 of the English, be admitted into evidence? 
+MR. PRESIDENT: 
+Mr. Issa?  
+MR. MJUI:  
+The exhibit will be D. NG78, A for French, B for English.  Thank you.  
+MR. PRESIDENT: 
+Thank you, Mr. Issa.  Admitted.  
+(Exhibit No. D. NG78A and D. NG78B admitted) 
+MR. WEYL: 
+Mr. President, may I also request that the excerpt I referred to a while ago, page 27 of Bizimungu's transcript of the 6th of April 2005, 24 for the French and 25 for the English, be admitted into evidence?  
+MR. PRESIDENT: 
+Mr. Issa?  
+MR. ISSA:  
+The next exhibit will be D. NG79, thank you -- A for French, B for English.  Thank you.  
+MR. PRESIDENT: 
+Admitted.  
+(Exhibit No. D. NG79A and D. NG79B admitted) 
+MR. WEYL: 
+And, Mr. President, I crave the Court's indulgence and request that an excerpt of the transcript I used yesterday be admitted into evidence.  It has to do with Mr. Uwizeye's acceptance to go and testify in the Bizimungu trial, as suggested to him by the Rwandan authorities.  It is a transcript of the 12th of April, page 68 of the French version, and Exhibit 6 as I explained yesterday.  
+MR. PRESIDENT: 
+Mr. Issa?  
+MR. ISSA:  
+The next Exhibit will be D. NG80, eight-zero.  Thank you.  A for French, B for English.  Thank you.  
+MR. PRESIDENT: 
+Admitted.  
+(Exhibit No. D. NG80A and D. NG80B admitted) 
+BY MR. WEYL:
+Q.	Mr. Uwizeye, I put it to you that it is because you were asked to involve Édouard Karemera and Mathieu Ngirumpatse that you belatedly involved them in a meeting which they did not attend.  What do you say to that?  
+A.	Thank you.  That is your opinion, Counsel, and you have just said that it is a personal opinion, or a personal suggestion, or proposition.  That is not possible.  You are out on a fishing expedition looking for information. 
+Q.	Mr. Uwizeye, the Chamber will appreciate whether this fishing expedition is a fruitful one.  
+
+I put it to you that it is because you wanted to involve these persons in a meeting which they did not attend, that they did so by using the information you received, and that you do it on each occasion differently, using different words, because you are not able to relay the same story -- the same details coherently and in the same manner.  And that is why your six consecutive statements view the situation differently on each occasion.  What do you say to that?  
+A.	I have told you that that is your proposition, and you are entitled to make your suggestions.  Nevertheless, you are wrong.  This does not reflect my experience -- or, what I experienced or what I witnessed with my own eyes.  It does not reflect the situation I faced.  I am someone who experienced the situation, and now you are reporting what you think, and I am testifying to what I saw with my own eyes.  And that is perhaps why it is difficult for us to see things eye to eye.  You have your personal opinion, and nevertheless let me tell you that your opinion does not reflect the reality of the events as they occurred.  
+Q.	Mr. Uwizeye, let me limit myself to reading your prior statements in detail in order to show how incoherent they are.  I have before me page 50 of your statements of the 3rd of March 1998 in the Akayesu trial regarding the incursions that may have occurred on a date -- or, that occurred allegedly on a date you did not identify.  In your statements on page 50 of the Akayesu trial, this is what you say:  
+
+"Those Interahamwe, when they came to Kamonyi and the rest of it there in Taba, they had already launched an attack on the 9th and the 10th of April.  They had already attacked Runda commune in Bushenyi in the Bushenyi centre.  They went there, they looted, but they did not kill anybody.  They killed nobody, but they looted property."  
+
+It's not what -- not what you stated before this Chamber.  What would you say to that?  
+A.	My remark, Mr. Weyl, would be as follows:  You see, you are a lawyer.  However, it is saddening to know that you do not seem to analyse what I would consider, in French, as the manner in which the events unfolded.  If you were to do such an analysis, you would realise that there is nothing surprising in what I have said.  You are reading a document in which I had referred to killings and looting in (unintelligible) which had started on the 8th and on the 9th.  I subsequently say that Taba commune, headed by Akayesu, was also affected by the looting and killings.  And I said that the attackers had first of all attacked Runda.  
+These are events that came in quick succession, and you would find that the events unfolded in quick succession.  And now you are turning the events around and would seem to put the cart before the horse, as if you did not know the geography of Rwanda, as if you do not know that to go to Gitarama you have to pass through Kigali, and that is from Runda that you go to Taba, and then from Taba to Musambira, from Musambira to Nyamabuye, where Gitarama town is found.  The Interahamwe came accompanying the government that moved from Kigali to Gitarama.  So the events spread from the west to the centre in Gitarama, and subsequently they went further south in Gitarama, in Masango.  You should try to analyse the manner in which the events unfolded, and not try to go fishing and isolate the events.  
+
+I would request the Chamber, in due course, to analyse my testimony and take into account the evolution -- or, rather, the manner in which the events succeeded one another.  As for Mr. Weyl, he is talking about events that do not take into account the reality which we experienced, and it was the Tutsis who were targeted and the attackers wanted to jeopardise the physical integrity of the Tutsi, and also attack the country.  
+MR. WEYL: 
+Mr. President, in order for the Chamber to properly conduct the proceedings -- Mr. President, in order for the Chamber to conduct the proceedings and hear Mr. Uwizeye's testimony, may I request that the transcripts I've referred to in the Akayesu case, 1998, page 60 -- page 50 in the French, and pages 50 and 51 in the English.  It's the 3rd of March 1998 transcript in the Akayesu case.  May I request that all these be admitted into evidence?  
+MR. PRESIDENT: 
+Mr. Issa?  
+MR. ISSA:
+The transcript will be D. NG81, A for French, B for English.  Thank you very much.  
+MR. PRESIDENT: 
+Admitted.  
+(Exhibit No. D. NG81A and D. NG81B admitted) 
+MR. WEBSTER: 
+Your Honour, I would like to offer a thought, and this is going back to something I had started to discuss yesterday.  But overnight I've had an opportunity to go over this witness's testimony in the Bizimungu trial and his testimony in the Akayesu case.  And I was able to isolate around 15 pages in the Bizimungu trial, I think around 10 or so in Akayesu, where the witness talks about this meeting of the 18th of April.  And what I would suggest to Mr. Weyl and to the Defence and the Court is that we take all of the information from those transcripts and make it available to the Court as an exhibit.  Because what we're doing now is taking one page or two in isolation, and it deforms the content of this witness's prior testimony.  And rather than revisiting this in redirect, I think it would be more appropriate simply to find all of the references to the 18th of April, and make them available to the Chamber, and the Chamber itself can assess whether his account is consistent or inconsistent.  But to go -- take -- 
+MR. PRESIDENT: 
+Thank you, Mr. Webster.  
+MR. WEBSTER:
+-- single pages in isolation is inappropriate.
+THE WITNESS: 
+Thank you, Prosecutor.  May I remind the Chamber that I made the same application before this Chamber yesterday.  I have often made such an application.  As far as I am concerned, it is something that is understandable.  We need to take into account all the statements made and all documents used in all statements I made and the testimonies I made in other trials so that we can work on a concrete basis.  If we can rely -- if we have to rely on what the lawyers are saying and on the exhibits tendered into evidence as Defence exhibits, tendered by the Defence, we will not be able to establish the truth as it is.  I believe that the request made by the Prosecutor should be taken into consideration by the Chamber, and I thank you.  
+MR. WEYL: 
+Mr. President, I -- I am very happy to see how Mr. Uwizeye comes to the rescue of the Prosecutor and how the Prosecutor comes to the rescue of the witness.  
+
+The role of the Prosecutor and the role of the Defence are clearly distinguished, as well as the role of the Defence counsel, and I have to lead my cross-examination for Mr. Ngirumpatse as I wish.  In order for the truth of the statements made by the witness be properly understood, they have to look at all the contradictions made by the witness.  The Chamber is free to admit whatever the Prosecutor would like the Bench to admit.  But I believe that to be coherent in my cross-examination, I want -- I would like to proceed as I have been proceeding, and I would therefore request that the Chamber should admit into evidence the excerpts I have referred to exactly as I have requested it to admit them.  
+MR. PRESIDENT: 
+You see, I don't think it's necessary to have these discussions on legal issues reduced to personal remarks about the parties before the Court.  And I -- it takes away a lot from what we are trying to achieve here.  
+
+Mr. Weyl, having said that, though, it is -- to me it would be a more efficient way of managing the trial if the entire transcript that is related to this testimony is introduced in evidence, and then you can cross-examine on each page as you see fit.  But in terms of our work in reviewing the trial, it would be facilitated it if the entire package is introduced as one exhibit.  
+MR. WEYL: 
+Mr. President, I entirely go along with the approach of the -- of the Bench.  Instead of selecting the pages proposed by the Prosecutor, I would propose that we use the manner in which I propose, that we select the pages.  And it is in my bundle, Exhibit 1, as disclosed by Mr. Issa.  
+MR. PRESIDENT: 
+You see, I must say, you have been using the phrase "exhibit" to refer to -- to material which is not admitted in evidence.  And it's a bit confusing.  
+
+Could you identify by date and page number the passage that you wish to introduce in evidence?  
+MR. WEYL: 
+Mr. President, the excerpts I had identified as follows:  Page 3, page 49, 50, page 51, page 77, page 78, 114, 115, 128, 130, 131, 137, 138, 139, 140, 141.  
+MR. WEBSTER: 
+I'm sorry to interrupt, perhaps I misunderstood the Court, but I thought the last comment from the Bench was that if we admitted the whole transcript, then Mr. Weyl could simply make reference to the pages that interested him in his argument, and the Court could look at the entire transcript in assessing this witness's testimony.  And what I would offer is the following thought:  The witness testified one single day in the Akayesu trial.  Can we not simply admit the entire testimony of that day, which is the 3rd of March, and then Mr. Weyl can always go back and forth to the pages that interest him in the French transcript?  And the witness testified in regard to this meeting on three days in the Bizimungu trial.  It was the 6th of April, the 13th of April, and the 19th of April.  And if we simply admit the entire transcript for those three days, I think everyone will be satisfied.  So that's my suggestion, and perhaps Mr. Weyl could consider it.  
+MR. WEYL: 
+No, Mr. President.  That is not satisfactory to me, because there are certain things which I am not interested in what was said on the 3rd of March 1998, and I don't want it to be an item of evidence which will be globally admitted, as such.  I am not taking all the testimony of the 3rd of March 1998 as something of face value.  And if my learned friend wants to introduce as evidence things which are useful and relevant, that is his entitlement, but I want to tender only what is useful and relevant to my case.  
+MR. ROBINSON: 
+Excuse me, Mr. President, if I can just be heard on this.  To me this seems similar to how we deal with prior inconsistent statements made to the Prosecution.  We have used as an exhibit the entire statement, and I think we have the understanding that those portions that are referred to in Court that are inconsistent are going to be used by the Chamber in its consideration, and those portions that are not referred to are really, while part of an exhibit, are of no evidentiary value to the Chamber's deliberation.  
+
+And if that is a correct understanding of how we've been proceeding, it seems that we could admit an entire day's transcript of a witness's testimony with the same understanding, that those portions that are addressed in Court that are inconsistent or alleged to be inconsistent, or if the Prosecutor alleges are consistent, would be evaluated by the Trial Chamber, and those other portions of the exhibit would not -- would be disregarded.  And if that's correct then I think I would agree with Mr. Webster that it would be easier to admit the entire day's transcript, and I think Mr. Weyl's argument would be also satisfied, that there would be no prejudice to us if it's done that way.  Thank you.  
+MR. PRESIDENT: 
+Mr. Weyl, we suggest that you adopt Mr. Webster's suggestion.  The -- the prior consistent statement of the witness is not evidence.  What is relevant is the prior inconsistent statements which will have an impact on our assessment of his credibility.  But sometimes, in order to assess the testimony, it is useful to see it in its context.  So we would think it would be -- facilitate our work if you adopted the -- the procedure of introducing the day's testimony.  The number of pages that you have enumerated are quite substantial, and they're scattered throughout the transcript.  And so the issue of context would become an issue as well, for us, as we review it.  And that might save some time as well.  
+MR. WEYL: 
+Mr. President, subject to the light you have shed and the limitations, I don't object to the entire transcript being tendered into evidence.  
+MR. PRESIDENT: 
+Do you have it packaged properly, or -- if not, we could allow you to tender it at a later -- during today, as the entire package of the -- 
+MR. WEYL: 
+Monsieur le Président -- 
+MR. PRESIDENT: 
+Yes?  
+MR. WEYL: 
+I thank you, Mr. President.  I will do that.  
+
+Yes, Mr. Webster has something to say.  
+MR. WEBSTER: 
+Yes, I just wanted to reiterate a portion of my previous observation.  The witness testified almost ten days in the Bizimungu trial.  I don't think our record needs to be burdened with all of those transcripts.  I only see three days on which this meeting was discussed.  Perhaps the Defence could review the transcripts for the Bizimungu trial and confirm that.  But I have the 6th of April, the 13th of April, and the 19th of April in 2005.  So we really only need three days from the -- from the Bizimungu trial.  And then with Akayesu it's a single day, the 3rd of March 1998.  So perhaps Mr. Weyl could consider that and we can resolve it this afternoon.  
+
+MR. WEYL: 
+Yes, Mr. President.  (Unintelligible) stated concerning Bizimungu, I had actually referred to the 6th, the 7th, the 8th, and the 12th. 
+BY MR. WEYL:
+Q.	Mr. Uwizeye, I am almost done, believe you me.  You told us that when, on the 18th of April, you went to that classroom, you met Mr. Kambanda alone.  I have before me your testimony in the Akayesu trial.  Certainly it is another matter of detail, but it is inconsistent.  It is page 130 of the French version at the bottom of the page.  This is what you say:  
+
+"So we went to the room.  Kambanda was waiting for us there with politicians.  There were a few politicians there.  There were some ministers -- not many ministers, but there were mainly politicians there."  
+
+And when I read your sentence, my understanding is that those who were waiting for you there were waiting for you in the room with Kambanda.  Am I mistaken, sir?  
+A.	Once again, that is your construction.  Honestly, I don't know how you construe things.  What is important is not that Kambanda was seated alone when we entered.  Listen, yesterday I said that when we entered, at the same time there were other people just close by who entered.  I don't know whether what is important is to know at what time, with textbook precision, we entered.  
+
+What we are saying is that the people who were there with Kambanda at the time when the meeting started -- you mean to say that firstly there was Kambanda, then Mathieu, and subsequently others entered?  Well, that is the way you construe things.  But, for me, as someone more concerned by this issue, I think what is essential is to know those who were present at the start of the meeting.  Who convened the meeting?  What was discussed during that meeting?  Who spoke during that meeting?  I think that is the essential, and we can agree on that.  
+
+As for you, you are just toing and froing.  I think that my answer to you is as follows:  Obviously Kambanda was not alone in Murambi; that is impossible.  He had aides, collaborators in Murambi.  Whether they were with him together in the same room, or whether they entered when he was already seated, well, that is a protocol matter.  But protocol issues are not substantive issues.  And I think that the parties here present understand what the situation is.  It is necessary to go to the crux of things, rather than focussing on the exact time, with textbook precision, that the various people entered the room.  
+
+But I am telling you that I was tense at that time, and my concern was not to know who entered the room before who.  My concern was that the meeting which I had organised the previous day had been hijacked, and those people who had come to hijack our meeting were accompanied by armed people -- armed people, armed to the teeth.  And it was said that it was necessary for us to go and see the prime minister, and those people prohibited Tutsi from entering the room.  And you can understand that I was afraid.  When I entered, I greeted Kambanda.  When I looked to my left and to my right, I saw that Mathieu and others were there.  What are the other details which you are seeking, sir?  
+Q.	The end of the meeting, Mr. Uwizeye.  You left before the end.  
+A.	I explained the circumstances under which I walked out.  I said I staged a walkout and left all the other participants in the room.  And I was sort of fleeing, you know, given that it had been requested that I be sacked from my position as préfet.  Others were actually cursing and speaking in loud voices.  I don't know whether the meeting continued or not.  All what I can say is that I walked out of the meeting.  You cannot ask me whether I left before or after the end of the meeting.  Did that meeting have an agenda?  The meeting which I organised had been hijacked, as I have explained, and had been sabotaged.  
+Q.	Mr. Uwizeye, I have before me page 140 as well as page 141 of your testimony in the Akayesu trial on the 3rd of March 1998.  Up until line 14 of page 140 you narrate what you claim to be Mugenzi's utterance, and you continue to line 14 of page 140.  
+
+"That is what I did.  I said to myself I wanted to go out.  Then I said to myself, 'No, we are in a meeting in any case'.  I did so, and then I told the prime minister."  
+
+And that is what you say you told the prime minister after -- afterwards, after Mugenzi's statement.  
+
+Let me continue now on page 141, line 6, right down to line 11:  
+
+"And then what did the prime minister do again?  He repeat -- he continued his speech.  He repeated his speech.  But this time around, he did not read it.  He was just referring to words.  And then he said the meeting was over.  And then what did I do?  I went out; there was some other people who accompanied me out, bourgmestres."  
+
+In the Akayesu trial you said you walked out normally after all the speeches, without banging the door, at the end of the meeting, after the agenda items had been exhausted.  Do you have any comments to make?  
+A.	Look at the other documents and look at my prior testimonies in other trials, and also take on board what I said in my analytical overview.  Then you will have some idea of what happened.  If I walked out of that meeting, it was not with delight.  Until this day, I thank the good Lord that I walked out of that room still alive.  And at the time I was walking out, I was so angry.  I was not allowed to leave.  And if I walked out, it was not the -- at the end of the meeting.  So, please, consider my version and accept the explanations I am giving you concerning the conduct of the meeting.  
+Q.	Mr. Uwizeye, you see, my problem is that if we have to review, item by item, all the versions you are referring us to, we are going to spend hours and hours on end.  Because in each and every one of the questions you have five, six, or even eight different versions.  So my ultimate question to you would be this:  Someone who comes and says things under oath and who never said those things in the same way, is that person a witness or an RPF combatant who is on a commando mission?  
+A.	An RPF combatant on a mission.  My answer, Mr. Weyl, is as follows:  I am speaking to all those who are ready to listen to me and to understand me.  Even if those people don't want to understand me, there are other people of goodwill who can understand.  What I have said before this Court -- what I have said in other courts are not words in the air.  They are not inconsistent utterances.  Rather, they are complementary.  And I should say that even though you have tried always to make things difficult for me so that I can contradict myself, I was able to resist and to make statements which were complementary.  And when my evidence will be assessed, it will be ascertained that what I've said is not the way you want to describe it in this Court.  
+MR. WEYL: 
+Mr. President, Your Honours, I've come to the end of my cross-examination.  And I would like to thank the Bench for having borne with me.  
+MR. PRESIDENT: 
+Thank you, Mr. Weyl.  
+
+Madam Registrar, what is your report on the time?  
+MS. N'GUM:  
+Thank you, Mr. President.  I haven't actually calculated the time as such.  Could I do it after the break, please?  
+MR. PRESIDENT: 
+Yes (unintelligible).  
+
+Mr. Robinson, how much time do you envisage taking?  
+MR. ROBINSON: 
+Approximately one day.  I think I'll complete it within the six hours and 15 minutes or so that I have allocated to me.  
+MR. PRESIDENT: 
+Yeah, okay.  
+
+Okay.  We will take the mid-morning recess now, and Mr. Robinson will commence his cross-examination when we resume.  
+(Court recessed from 1022H to 1056H) 
+
+MR. PRESIDENT: 
+Mr. Witness, you will now be cross-examined by counsel representing Nzirorera, Mr. Peter Robinson.  And he will begin his cross-examination of you.  
+MR. ROBINSON: 
+Mrs. N'gum, would you like to give your report before I begin?  
+MS. N'GUM:  
+Thank you, Mr. President, Your Lordships.  Mr. Weyl, the co-counsel for Mr. Ngirumpatse, has utilised five hours and 33 minutes.  Thank you, Mr. President.  
+MR. PRESIDENT: 
+Thank you, Madam Registrar.  
+MR. ROBINSON: 
+Thank you, Mr. President.  
+CROSS-EXAMINATION 
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, (Kinyarwanda spoken).  
+A.	Good morning, Mr. Robinson.  I am well.  
+Q.	First of all, Mr. Uwizeye, I want to thank you for testifying in your true name without protective measures.  I think you're to be commended for that, and that does truly enhance truth and reconciliation and accountability for witnesses.  And I'm very glad that you're doing that.  
+
+I want to give you a little piece of information before we start that I think maybe can help us understand each other a little better as we go through the cross-examination.  You know, I am a lawyer from the United States and I was appointed in 2002 to represent Mr. Nzirorera.  So I am assigned as his counsel by the United Nations.  And as a Defence counsel, I'm not in favour of genocide; quite the contrary, the role of the Defence lawyer at these tribunals is to assist the Trial Chamber to learn the truth, to make sure the person has a fair trial, and to hope that the judgments that the Trial Chamber renders will be the product of fair and vigorous advocacy on both sides.  That's actually a job that promotes ending impunity for genocide.  And I don't have any personal opinions about what happened in Rwanda, and I don't criticise you in any way by any of my questions.  I'm simply here to elicit information that could help my client, or to cast out on information that could be damaging to him in my role as Defence counsel.  
+
+So I hope you understand that, and I hope you will take my questions to you in the manner in which they're intended, which is not any personal aspersions on you whatsoever.  And fortunately you're not in the position yourself to be accused in this Tribunal, but if you were I could defend you with the same kind of enthusiasm and honour that I defend Mr. Nzirorera.  So, do you understand that?  
+A.	Yes, I understood -- I understand you perfectly, Mr. Robinson.  
+(Pages 1 to 18 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1100H 
+BY MR. ROBINSON:
+Q.	Thank you very much.  
+MR. ROBINSON:  
+Now, Mr. Issa, if you can give the witness document number 1 in my packet of exhibits, I will appreciate that.
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, the first thing I want to ask you relates to this document which bears your signature and it's a document from the Tribunal, the Witness Victim Support Section, which was given to me after they had informed me that they had presented it to you in September of 2006 in which an official request was made by me through them that you and I could meet before you came and give your testimony.  And it is indicated on this form that you do not accept to be met and contacted by the defence counsel.  And there is a signature and a date.  
+
+So, first of all, can you tell me, is that, in fact, your signature? 
+A.	Please, bear with me, my microphone was not on, but I recognised the signature.  Indeed, it is mine 
+Q.	And I note that over the years since 1996, you have met with the Prosecution over a dozen times.  I am wondering if you could tell me why you declined to meet with me.  
+A.	I am going to you explain to you why I do not accept.  
+
+Mr. Robinson, the person who came and explained Nzirorera's problem to me heard my explanations regarding my refusal.  Apart from my problem that he was linked to the MRND, he was one of the leaders of that party, and I have accusations against the MRND as a party.  But he can also bear responsibility as an individual.  Personally, I don't accuse Nzirorera of anything, and that is what I said at that time.  What I mean is that I don't have any other accusation against Nzirorera, save for the fact that he was a member of the MRND and it was his party which planned and implemented the genocide.  So, I said that I had no accusation to level against Mr. Nzirorera as an individual.  
+
+When one has to appear before this Trial Chamber as a witness for or against someone, it is necessary that the information you are bringing to the attention of the Trial Chamber is important.  All what I could say could be said only in relation to the MRND, a member of which Mr. Nzirorera was, but I stand by what I am saying that I have nothing to say against Mr. Nzirorera as an individual.  That is the reason why I did not accept to meet with you.   Please, bear with me and appreciate my position.  When I refused meeting with you, it was because I was of the view that my situation was not comfortable, because I knew nothing about Nzirorera as an individual.  I did not meet with Nzirorera during the genocide.  He was not a member of government and I did not meet with him for me to be able to make any statement concerning him. 
+Q.	Okay.  Thank you very much, Mr. Uwizeye.  No offence is taken.  
+MR. ROBINSON:
+And, Mr. President, I would ask that this document be admitted as Exhibit D. NZ325. 
+MR. PRESIDENT:  
+Admitted.
+(Exhibit No. D. NZ325 admitted)
+MR. ROBINSON:
+And now if Mr. Issa could take the next document number 2 in my packet, excerpts of a Radio Rwanda broadcast, if he could give the Kinyarwandan document to the witness, I would appreciate that.  
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, what -- you have just been handed an excerpt from a broadcast on the 
+	7th of April 1994 on Radio Rwanda, and I want to direct your attention to the paragraph in the middle of that page which has the name, "Fidèle Uwizeye" at the bottom, and the K-number at the top should be K0149004.  And turning to -- I am just going to read you that (sic) from my English version, very brief communiqué.  
+MR. WEBSTER:
+Sorry to interrupt.  The document that I was shown to be given to the witness ends with 448.  I don't think we are looking at the same document that the witness has. 
+MR. ROBINSON:
+Okay, maybe, Mr. Issa could check if this is number 2 in my packet of documents.  
+
+Yes, thank you, Mr. President.  Mr. Webster was correct and Mr. Issa will now show the document that I intended to be shown the witness.  
+BY MR. ROBINSON:
+Q.	Okay, Mr. Uwizeye, now that is straightened out, so again this is a copy of the communiqué broadcast on Radio Rwanda on the 7th of April 1994.  In the middle of the page after the cover sheet in the Kinyarwandan version, there is a paragraph which ends with your name and I am going to read it out in the English version:  It says:  
+
+"Ensure security in Gitarama préfecture:  The bourgmestre must approach members of the population and appeal to them to remain calm and avoid listening to rumours.  In order to enable the people to do some shopping, shops and stores should be open from 9 a.m. to 2 p.m.  Bars and drinking places shall remain permanently closed.  Gatherings are prohibited.  Members of the population shall inform the authority of any unusual incidents which may affect security.  The Gitarama préfectural security council is imposing a 7 p.m. to 6 a.m. curfew.  The announcement is signed by, Fidèle Uwizeye, préfet of Gitarama préfecture."  
+
+So, my question to you, Mr. Uwizeye, is this, in fact, a communiqué which you issued on the 
+7th of April? 
+A.	Mr. Robinson, this announcement was not handed to the radio by me.  I think those were utterances radio journalists were asked to broadcast over Radio Rwanda and give the impression to listeners that the communiqué or announcement came from the préfet.  That is what I believe.  That is my opinion.  
+
+I am saying so, and please bear with me if I have to elaborate.  You see, I don't understand how I could have met the radio journalist to hand an announcement to him.  As you can see for yourself, at that time, the government had not yet set up in Gitarama and I did not know how the radio was operating so that I could give a communiqué from Gitarama.  So I think that such were announcements drafted by radio journalists and then they will subsequently ascribe them to préfets of the préfectures.  This is my opinion, but to be candid with you, personally, I did not cause any announcement to be broadcast -- or, rather, it is not an announcement which I caused to be broadcast.  I know the announcement which I caused to be broadcast thereof, and when we get there, I will give you explanations regarding the announcement.  I don't find anything negative or reprehensible in this announcement which you've showed me.  Once again, I am just saying that I am not the one who caused this announcement to be read over the radio. 
+Q.	But, Mr. Uwizeye, these seems to be a very serious breach of journalistic ethics, to say the least, but also seems to be a very foolish thing for someone to do on the 7th of April.  Everyone in Rwanda was glued to their radios trying to get news, and if a communiqué was ascribed to a préfet, who had not, in fact, made that announcement, it seems likely that that would have come to your attention or you, yourself, might have heard it and I expect would have immediately protested that announcements were being made in your name that were not in fact yours.  Did anyone ever bring this to your attention or did you, yourself, ever protest to Radio Rwanda about the use of your name? 
+A.	The prevailing situation with the radio station based in Kigali, you see, we were experiencing a somewhat abnormal situation.  The right for a préfet or any other citizen to send a disclaimer concerning an announcement which was aired and ascribed to him was something impossible to do at that time.  And as I have already explained to you, I was not listening to radio programmes and I did not really have time to listen to radio broadcasts.  So, in a nutshell, I did not hear this announcement when it was aired. 
+Q.	And no one brought it to your attention? 
+A.	No one and what I am telling you is the truth. 
+Q.	When you did have a communiqué which you wanted to be broadcast on Radio Rwanda, how did you go about getting that to the radio station? 
+A.	I am going to explain it.  On one occasion, I sent a communiqué to be broadcast over Radio Rwanda, and at that time the government had already set up in Gitarama.  So the transmitter was based in Gitarama.  The message or announcement which I sent was towards the end of April.  Please, bear with me if my explanations are lengthy.  In that announcement, I was informing the préfet of Gisenyi that his mother-in-law and three children had been lodged at my place for a number of days.  Those family members of his had left Kigali on foot and I had accommodated them at my place, and I should further state that the lady in question was a Tutsi.  So I sent out a communiqué via Radio Rwanda to inform him that his family members were at my home.  And he came and picked them up from my home.  I, personally, handed the communiqué over to staff of Radio Rwanda.  But concerning official or administrative announcements, let me state that I never caused any announcement to be broadcast over Radio Rwanda.  
+
+I should also add, and this is something I have already mentioned that the director of the radio station at that time was called Bamwanga, was someone who loathes me a great deal and he had said that he would gun me down.  He always carried a weapon, a firearm, and since he had already explained to me that he hated me, I could not dare always go towards the radio broadcasting house.  That, perhaps, is one of the reasons why I did not go to the place where the radio equipment was. 
+Q.	Before the interim government arrived in Gitarama, was there not a Radio Rwanda journalist who was stationed there? 
+A.	Yes, there was a Radio Rwanda staff called Rwakana, but he never came to see me to get any announcement from me.  I did not even meet with him.  I even thought he had already left Gitarama.  I think it was only days later on that I heard him talking over the radio.  I did not know if he was even still in Gitarama, because we did not usually meet and he did not have a fixed office per se.  He was working in a room located behind a store house.  And as I have already told you it was a time of war.  Activities were not being carried out normally.  Certain services were no longer operating.  That is something which you need to know.  Some civil servants like the prosecutor were no longer doing their work and the préfecture services were no longer operational.
+Q.  	Thank you. Mr. Uwizeye.
+MR. ROBINSON:
+Mr. President, at this time, I would offer the Radio Rwanda excerpt as D. NZ326, A for the French, B for the English and C for Kinyarwanda.  
+MR. PRESIDENT:  
+Admitted.
+(Exhibit No. D. NZ326A, D. NZ 326B, and D. NZ326C admitted)
+BY MR. ROBINSON:
+Q.	And, Mr. Uwizeye, I want to ask you a few questions about Joseph Setiba.  Now, we've heard testimony from a Prosecution witness designated as Witness HH that with the exception of a rescue mission which was designed to obtain the release of Interahamwe who had been detained in Rwanda, in another incident in June, were some dead bodies of Interahamwe, were obtained from Gitarama préfecture.  Other than those two incidents, Mr. Setiba never participated in any attack in Gitarama and had never been to the commune of Mugina in his entire life.  Is that true? 
+A.	No, sir.  Let me just say that.  Either the witness did not know exactly what happened or what he said is not what the actual situation was. 
+Q.	Can you tell us what is your information about the instances in which Joseph Setiba participated in attacks in Gitarama préfecture? 
+A.	I can do that, Mr. Robinson, but it would be necessary for you to be more specific.  Do you want me to talk about the precede of April attacks only or do you want me to also include attacks which took place in 1993 because even during that period, there were attacks.  
+Q.	I think if you could limit yourself to that beginning with the attacks in Runda on the 8th of April and going forward after that.  
+A.	Fine.  Setiba launched an attack around the 8th and 9th of April.  He launched an attack in Runda commune.  The first time he launched an attack on an area called Ruyenzi, R-U-Y-E-N-Z-I, but he went a bit further to a brick manufacturing plant and that facility is located on the road.  In fact, in Ruyenzi, there is a petrol station by the tarmac road, but he went further down.  And the following day, he launched an attack against Ruyenzi and went up as far as the Gihara church, spelt G-I-H-A-R-A.  
+Now, this is what I was told by the bourgmestre of Runda commune.  
+
+But I have a second source.  Someone who called me on the phone to brief me of what happened concerning the attacks launched in Mugina commune, it was the bourgmestre of Mugina commune, himself, who during the meeting of the 18th April, and also in other meetings, given that on the 9th, already he had mentioned it to me, he said that Setiba continued crisscrossing Runda commune and he was also advancing towards Mugina commune where had been sheltered many Tutsis coming from Kigali préfecture, amongst others, Butamwa commune, as well as others who had come from Runda commune.  And even others yet who had come from Ntongwe commune.  In his written report and in what he said during the meeting of the 18th of April, the bourgmestre of Mugina, indeed, confirmed that Setiba had launched such attacks and he said that it was with the assistance of the gendarmes who had been placed at his disposal that he had been able to counter Setiba's attacks.  So such were the circumstances under which I was able to learn of Setiba's involvement in the attacks against Ruyenzi and Mugina.  Apart from those two attacks or the attacks of the communes, I did not hear of Setiba in that area again. 
+Q.	And from the information that you received from the bourgmestre of Mugina, did it appear to you that Mr. Setiba himself had been in Mugina commune leading the attack? 
+A.	Yes, sir, that is what I was told. 
+Q.	Thank you, Mr. Uwizeye.  
+MR. ROBINSON:
+Mr. President, it appears that there has been some false testimony given to this Trial Chamber by Witness HH, and thanks to Mr. Uwizeye and the previous witness, Witness FHE, now information about that, and it is my intention to make a motion under Rule 91 for those matters to be investigated on the order of the Trial Chamber, and I would ask if you would like to hear that motion at this time or if you would like me to submit it in writing.  I am perfectly happy to do either whenever it is most convenient for you.  
+MR. PRESIDENT:  
+Put it in writing. 
+MR. ROBINSON:
+Very well.  I will do that.  Thank you.  
+BY MR. ROBINSON:
+Q.	Thank you, Mr. Uwizeye.  
+
+Now, I want to turn to the 11th of April and the meeting of préfets which you attended at the Diplomat hotel in Kigali, and I would like you to be shown Exhibit D. NZ23.  It's a transcript which has previously been admitted.  
+MR. ROBINSON:
+Mr. President, for those that are going to follow this on the French transcript, Exhibit D. NZ23A, I will be referring to page KO260680.  And for those who are following on the English, I will be referring to 
+page KO330134 -- actually, 0136.  It looks like the numbers are little faint. 
+BY MR. ROBINSON:
+Q.	And, Mr. Uwizeye, I am going to ask you in the version that you have in front of you to turn to page -- that has KO144215.  I expect it is the second page.  
+A.	I am there, sir. 
+Q.	Now, this is a broadcast that was made on Radio Rwanda on the 11th of April, the day of the meeting of the préfet and I am going to read the English portion to you, and it is a little bit long, but what I would like you to be thinking of as we are going through it is whether or not there is anything in this broadcast that is inconsistent with the message that you actually received at the meeting itself.  So it starts up by saying that:  
+
+"The minister of defence should cooperate with the minister of interior especially through the Kigali préfecture administration, so that security can be maintained wherever possible, and so that those markets and shops that sell foodstuff can open.  
+
+"Little by little as security returns, other activities will resume, especially in terms of providing assistance to the stricken population and activities related to the security problems that we are facing.  
+
+"The message we would like to send to the préfets, so that they in turn can send it to the local population is not a special message because the problems facing our country are similar.  In reality, there are security problems, although certain préfectures are facing more thorny problems than others.  
+
+"In Kigali, the situation is more critical and it is understandable.  That is where people rose up against one another  causing unrest.  
+
+"The presence of Inkotanyi fighting in Kigali-town also caused some problems.  This means, generally speaking, that there are serious problems, but there are some préfectures which, to the best of our knowledge, are facing serious problems, and the directive cabinet of the ministry of interior seems to have put it in these terms:
+
+"'Préfet acts like the préfet of Gisenyi is not present because of security problems.'  Gisenyi town is a combat zone.  The préfet of Byumba was not present either.  For the same reason, ditto, the préfet of Cyangugu, I was informed that it was because of a precarious situation that he had convened a meeting to restore security.  We hope from the news reaching us, the security has not been seriously disrupted.  
+
+"Another place where there are allegedly problems, but which we do not know because we do not know what prevented the préfet from coming, is Butare, but from the information at our disposal, there are no serious problems there.  But since we do not know why he is absent, there are perhaps some problems.  
+
+"In other préfectures like Kibuye préfecture, I will not speak on behalf of the préfet because he is here.  As for the préfet of Gitarama, we spoke to each other this morning.  
+
+"In Kibungo, it seems that there was unrest in some communes.  Have I left any préfectures?  Yes, Gikongoro.  In Gikongoro too, there was unrest in some communes, but very serious.  
+
+"As regards Ruhengeri préfecture, we are of the opinion that it should be placed in the same category as Gisenyi, Kigali and Byumba because it is also within the combat zone.  
+
+"We think, generally, that one should not say that the security situation is bad in other préfectures where there is no fighting, and those were there is fighting, we can tell you something about it.  You should rule out Kigali préfecture, where the situation has worsened.  It was unusual.  People were not used to that kind of situation.  
+
+"The message that we would like to get across to the population is that we would like you to convene pacification meetings in the communes; in the préfecture headquarters and in the secteurs.  Ask the bourgmestres and conseiller de secteurs to organise meetings and when all activities must have resumed, the heads of department should hold meetings to restore peace and order within the population.  
+
+"Explain what happened, that the death of the head of state; the unrest that took place in Kigali-town and the resumption of hostilities by the Inkotanyi should not incite Rwandans to attack one another.  
+
+"Make them understand that there are three ethnic groups in the country; namely the Hutus, the Tutsis and the Twas, and several regions, and that these ethnic groups and regions are components of the nation and that no one should exclude the other from the country.  
+
+"Tell them to avoid anything that can divide them, behaviour base on jealousy that has been reserved in the attacks and looting.  In reality, one cannot say that it was only the properties of such-and-such ethnic group that were looted for any one who had properties, be they Hutus, Tutsis or Twas, could be victims, regardless of their ethnic group, but because here, she had something more than the others.  So I can therefore conclude that jealousy can divide the people.  They should avoid whatever divides the people like jealousy, regional segregation, but especially ethnic segregation, because that is what seems to have prevailed for sometime now.   
+
+"People should avoid taking the law into their hands and know that the armed forces are there; that the law and authorities are in place.  Tell them that the authority is in place.  The head of state has been killed, but in keeping with the law, we have another president of the republic.  The prime minister has been killed, but in keeping with the law we have another prime minister.  So the authority is there, authority certainly -- currently exists.  The government is in place and it is functioning.  
+The proof is that it has taken more and more decisions to resolve security problems.  
+
+"Urge the population to preserve our tradition of mutually assisting one another.  They should know that when a neighbour is wounded, they should help him or her treated.  They should know that they should help neighbours rebuilt their homes that have been burnt down.  That is normal in Rwandan tradition.  They should make them understand that we are all Rwandans and that this country belongs to all of us.  They should know that when a neighbour is hit by misfortune, they too are, according to the Rwandan tradition of mutual solidarity.  They should come to his or her assistance.  
+
+"In Kigali, it has been observed that some looting has taken place because of the roadblocks, some of which were mounted by the criminals themselves without the authorities' knowledge or permission.  If, therefore, roadblocks should be mounted to help those responsible for security, the authorities must be informed accordingly.  The préfet of the préfecture must have given instructions to that effect.  The conseiller de secteur must have given instructions so that no criminal would start stopping people at the roadblocks and mishandle them under the pretext that we are going through tough times.  
+
+"Let us understand each other very well.  This does not mean that roadblocks must be dismantled as they help maintain the security of the population, but they should be known to the authorities.  They should not be mounted in such a disorderly way that anyone can mount a roadblock."  
+THE ENGLISH INTERPRETER:
+Could counsel slow down a little. 
+MR. ROBINSON:
+Sorry.  
+BY MR. ROBINSON:
+Q.	"In our opinion, security would be restored if we do all in our power so that the population can once again go about its business.  
+
+"Staying at home and knowing what is happening here and there and all activities grinding to a halt, will not get us anywhere.  You should therefore do all in your power in your préfectures so that activities can resume, especially activities considered indispensable and urgent, such as patient care, supplies to the markets, banking, security, et cetera, activities that you consider more indispensable than others.  But it is generally important that you do your level best so that people will go about their business, for that is, in our opinion, one of the conditions for security to return gradually, that will moreover help you bring it about.  
+
+"There are special problems in the combat zones.  What I am saying also applies to non-combat zones.  In combat zones, there are special problems and that is understandable.  
+
+"We have asked the political parties to get in touch with the ministry of defence in order to look into ways and means for sensitising the population, to assist the Rwandan armed forces to provide its security.  Special directives would be sent to them in the coming days to be relayed to the population so that they will know what to do to provide security in these difficult moments we are  going through.  
+
+"These are the specific points which, in our opinion, should be brought to the attention of the Rwandan population that you represent in our préfectures.  They are merely based on ways and means of providing security.  The purpose is to show the Rwandans that they are brothers; to show the Rwandans that in reality nothing should bring them into conflict with one another.  Even if there was this or that, it is not enough reason to bring the people into conflict with one another.  It is this pacification message that we would like you to take to the population whom you represent.  
+
+"But other decisions have been taken and it is good that you will be informed of them, for instance, there is a decision on the duration of national mourning.  
+
+"As from the 6th, we will observe a national mourning period which will go on for 30 days.  We will consider whether the government -- or within the government how we can bury the remains of the personalities indignity.  You will be informed in due course about the role you will play.  You will be informed accordingly in the next few days.  
+
+"I would, without dragging on, like to conclude by asking you to understand very well that the main message from this meeting is a pacification message.  Tell the population that the authorities are by their side and inform them that security is gradually restored in Kigali town.  Tell them that the government is doing its best, so that activities can resume in the country and so that the entire population can go about its business.  
+
+"I thank you"  
+
+	Mr. Uwizeye, was that the message that you heard when you attended the meeting of the préfets on the 11th of April? 
+A.	Counsel Robinson, I believe that we are agreed that I cannot answer your question with a simple yes.  I would rather prefer to tell you that this document looks like an interview.  I say so because it is clear that there are some passages that do not appear on the document.  There are suspension marks on it which give one the impression that it is someone who was being interviewed.  
+
+In the document I drafted, what I said was that we had something which looked like a programme speech, but that does not exclude the fact that some passages in the pro -- in the document that you have just read out may have been in the message I heard, but I note that the document that you showed me does not include some passages that I have heard.  
+
+I understand that the speaker collated information he had received from préfets present and relay them regarding Kibungo.  The speaker said that he forget to mention some of the communes.  The form of the speech gives one the impression that it is rather an interview and not a speech.  Because you wouldn't have suspension marks in a speech.  That is why I think we are dealing with an interview which the speaker had, and in that interview, we had some points mentioned in what I have referred to as a programme speech.  
+
+As you would have observed, that happened 13 years ago, and it is a long enough period to prevent one from thinking he can remember everything that was said in the speech, and for which reason one cannot say that the document contains everything that was said at that meeting. 
+Q.	Thank you, Mr. Uwizeye.  I beg to differ with you on your interpretation in the sense that it appears several times that the prime minister was speaking directly to the préfets, tell them, the préfets, what to tell the population, tell them to avoid anything that can divide them; tell them to -- that authority is in place.  And he refers to "you", showing that he is addressing the préfets; not giving an interview.  And I suggest to you that when you see some suspension marks, perhaps it is because the person transcribing the recording could not understand -- was not legible what was being said during that part of the meeting.  But I put it to you that this is, in fact, a recording or transcript of the recording of the words that Prime Minister Kambanda actually used at the meeting that you attended.  It's normal that you wouldn't remember everything word for word, so I don't castigate you at all for that, but at least it will be for the Judges to determine from the context of the document what was -- what the document really is, but I suggest to you that the document really is a tape recording of the actual remarks that the préfet made to you on the 11th of April.  
+
+But can we agree that the message of the préfet (sic) on that day was, in fact, one of pacification in which he was asking the public and the préfets to avoid the killings that had begun on ethnic grounds? 
+A.	Yes, quite, that speech is by and large not negative.  You would observe that somewhere in it, it talks about roadblocks, and it does not explain the concept of roadblocks.  And I told you that when I left Gitarama to go to Kigali, after crossing the bridge on the Nyabarongo River, I noticed that there were corpses at roadblocks I passed through.  Members of my extended family were killed in Kigali, many members of my extended family.  And when orders are given that roadblocks be set up, whereas at such roadblocks peoples' identity cards are asked for in order that their ethnic origins may be known.  
+
+When the prime minister talks of roadblocks, it is important to bear in mind that many people were killed at those roadblocks.  You would note, Mr. Robinson, that this caused many problems.  We talk about "Kinyanduga", that is the language spoken in Nduga.  These are nice words, but that did not prevent the killings.  It would have been better for him to say that préfets in Kigali were asked to stop the massacres.  I observed that massacres were committed in Kigali.  I did not go to other préfectures.  He would have asked the préfet of Kigali to order those manning roadblocks not to commit killings.  When you used such nice words, you are lying to members of the population.  To tell you the truth, if such a speech had been delivered, and if the government had, indeed, complied with the speech by ordering certain bourgmestres and gendarmes to desist from killing people, the genocide would have not been committed on a large scale nationwide.  People had been killed as had been the case in 1993 in the Bugesera, and in Murambi or among the Bagogwe, and such massacres would have been isolated perhaps where Interahamwe concentrated or where there were concentration of malicious (sic) leaders.  There were massacres committed nationwide and I am talking like someone who was in the country.  We are talking of the massacre of a million people in the space of three months.  This speech or interview, as you refer to it, hides many things.  
+
+Furthermore, I believe that if Kambanda had delivered this speech, he would not have memorised it.  He certainly had a document with him.  If he had used a document, the journalist would have taken that document in order to relay the speech in its entirety.  That is why we are dealing, rather, with an interview and not a speech, an interview that was given subsequently.  I have the impression that in Kambanda's speech, which was quite brief, I did not hear some of the passages which you read out at the time.  I thought he was delivering a short programme speech.  He was very brief.  He said:  
+
+"We are going to implement a programme with a view to upholding security."  
+
+That was a programme speech as I pointed out and it was often broadcast on the radio.  And at the meeting held in Gitarama on the 18th, he delivered the same kind of message.  But he wasn't reading from a document , but the contents were the same.  
+THE ENGLISH INTERPRETER:
+Kinyanduga is spelt as follows: K-I-N-Y-A-N-D-U-G-A. 
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, when you left the meeting of the 11th, on that day did you think that the interim government was trying to prevent the killings or encouraging the killings? 
+A.	When I left Kigali, taking into account the speeches that had been delivered, I understood that those speeches were meaningless with regard to concrete measures that were required to put an end to the massacres.  It wasn't a concrete speech.  No steps were taken and nothing was done to work according to those steps.  There were no provisions for punishing those who wouldn't comply with such steps or orders.  Since I was coming from Gitarama, I observed that there were bodies on the road -- many bodies, and since nothing was said in that sense, I would say that they didn't deal with security.  Why did they not deal with that issue of security, whereas killings were being committed.  Why conceal all that in a mesh of words and rhetoric.  As I said, when I left Kigali, I understood that the government was acting hypocritically.  It was not acting in line with the reality on the ground. 
+Q.	Now, there is some different concepts there.  I asked you if you thought they were encouraging the killings or if they were trying to stop the killings and you seemed to have introduced a third element that they weren't doing enough to stop the killings.  Is that how you felt that the interim government was not encouraging the killing, but they weren't doing enough to stop it? 
+A.	No, what I am saying is that they did not tell the truth, in any case, in this document.  This document doesn't reflect the whole truth.  
+
+Secondly, during the second day of the massacres, they did not take any concrete steps to stop the massacres.  They were preoccupied primarily with fighting on the battle front.  
+As regards security, it was not something of interest to them.  I believe the massacres of Tutsis and accomplices was used by the government as a pretext -- as a strategy to win the war.  So the interim government thought that by killing the Tutsis they could win the war. 
+Q.	And nothing that you heard on the 11th of April caused you such overriding concern that you felt it was necessary to resign your part in the government; correct? 
+A.	No.  First of all, in listening to their programme, since Kambanda had told us that he would give us a specific programme in the initial days in order to state how security should be upheld.  So, we had hoped, even though it was just a flicker of hope.  I was sure that the approach was not correct and that is precisely why in Gitarama I tried to oppose the massacres in the hope that, per chance, the government will sign an agreement with the other belligerents in order to try to stop the confrontations.  I did not encounter any problems in Gitarama and I was hoping that blood will not be shed in my préfecture, but it was a personal failure on my part and it is saddening. 
+Q.	The next day after the speech, you received the interim government and the president and the 
+	prime minister in your home; correct?  
+A.	Correct. 
+Q.	And then you agreed to receive the children of one of its ministers, Minister Ndindabahizi, as well; correct, his wife and children? 
+A.	Correct. 
+Q.	Now, Mr. Ndindabahizi, you've testified in this trial on the 20th of July that you didn't know him before April 1994; is that correct? 
+A.	Correct, indeed, it is. 
+Q.	Mr. Uwizeye, one of the things that we have to do as lawyers is to confront a witness with information that we have that is contrary to what the witness is saying so that we give you an opportunity to comment on that.  And I am going to do that now because Minister Ndindabahizi has testified after you in the trial of Casimir Bizimungu and Justine Mugenzi and the others, and this is what he said about that subject, and I am quoting now from his testimony on the 30th of April 2007 at page 6.  He said:  
+
+"I knew Fidèle Uwizeye even before he became a préfet in Gitarama, and that is because I worked in the ministry of planning between 1985 and 1990.  Préfet Uwizeye was working in the same building as myself, that is, the building of the ministry of planning.  That is where we meet -- we met for the first time.  And I worked there for five years, so I saw him regularly at the place of work.  
+
+Subsequently, when he was appointed to Gitarama, I also knew him.  Gitarama is the place that I visited because it was the home of my in-laws.  They lived in Gitarama and so I knew Uwizeye."  
+
+So, is he right? 
+A.	It seems to me that from what I gather from his testimony, he knew me.  Well, that is possible.  However, I did not know him.  I am saying this because he says that we worked together in the same building in the ministry of planning.  It is true that there was a service -- actually, I was working for another ministry, whereas he was working in the ministry of planning.  Those are two different ministries.  I was working in a geological research project, research on all UNDP funded -- and the project headquarters was far away at a place we called The Roundabout in Kigali.  But below that ministry of the ministry of planning, there was an annex building where we had our laboratory.  And, personally, I was the head of the laboratory, dealing with the processing of iron ore.  We did not work in the same ministry.  So you understand what the situation in the laboratory is.  It is a research laboratory which had nothing to do with the ministry of planning.  Whenever we had a problem or report to present, then we would go to our headquarters at The Roundabout in Kigali.  Mr. Ndindabahizi could know me.  I was coming from Russia and I had learnt -- I had studied petrography.  I was the only Rwandan at the time.  And when I went to Gitarama, once he brought his wife to my place, he said his wife hailed from Gitarama.  But before that time before he came and kept his wife at my place, he had never come to my home.  He had never come to introduce himself to me to say that, "Well my father-in-law lives here, so you need to know that."  But that does not mean that he did not know me.  I am saying that it is possible that he knew me.  
+
+Besides, we did not belong to the same political party.  He was a member of the PSD and it was said that he was finance minister as a representative of the PSD.  I was a member of the MDR party.  At the beginning of multiparty politics in Rwanda, I went to Gitarama and he remained in Kigali.  From that time on, we did not have any occasion to meet during rallies or any other meetings.  So I don't deny that he may have known me better, but I did not know him and I don't see anything wrong with that.  It is possible that someone knows you without you knowing the person.  That is quite possible. 
+Q.	Yes, I agree, Mr. Uwizeye, it is possible, but the thing that seems difficult to understand is that he fled from the war in Kigali and left his wife and five children with you.  I know I wouldn't leave my wife and children with a stranger especially in a time like that.  So I am wondering whether or not, in fact, you really knew him more than what you are saying, but that you find it better at this time to distance yourself from those people who were members of the interim government and have subsequently been in trouble? 
+A.	Mr. Robinson, I don't see what would be the usefulness of doing such a thing.  For me, I do not see why I would be ashamed of saying that I accommodated her, the wife of the finance minister.  For me, that is not any reason for one to be ashamed.  This is known when we are in Gacaca court proceedings.  In our country, people know that.  People know that I housed his family.  I sheltered his wife because he came and introduced himself to me.  He asked me to shelter her.  He said that she has been chased from Murambi because she was a Tutsi and they did not want a Tutsi woman in Murambi even though they considered them as accomplices.  And after a debate in Murambi, it had been decided that the wives and children had to leave Murambi; only the men had to stay there.  So he came to my home and said:  "I am asking you to accommodate my wife at least for five days subsequent to which I will try and see where I can settle them."  So I asked him:  "But why don't you settle her at her parents' place?"   And he said: "No, you see, she is a lady of high society, with five children and there is not enough space.  It wouldn't be convenient for her to go and stay at her parents place."  
+
+Furthermore, there were many other Tutsis at my place whom he found there.  My own sister came to my place naked.  Nine members of her family had been killed and we heard there were other people from Kigali, some of them wounded.  I even had problems and I found out that the situation was normal when he asked me to house his wife.  But I asked him to ensure that his wife won't stay too long at my place because there was not enough space.  If you see the room where I set up his wife, it is not a room which is worthy of a wife of a minister.  It was like a sort of dump and they were sleeping on the bare floor.  I am not lying to you.   What I'm saying is the truth. 
+Q.	And later on in May or June 1994 when it came time for you to choose someone who could shelter your own children, it was Minister Ndindabahizi that you chose for that; isn't that correct? 
+A.	No, sir, that was not what happened.  This is what happened.  You see, at that time, I had gone to a commune.  I was not at home during the day time, and when I returned in the evening, I noticed that the finance minister had spoken to my wife and said:  
+
+"You see, I had a problem.  Your husband is in a situation of insecurity.  He's been considered an accomplice and he may be killed.  You had rendered me a service and it is not proper for you and your children to be killed.  So I have evacuated my wife and children to my place in Kibuye.  If you agree, 
+I am going to take your children and protect them by show of gratitude to what you have done for me and my family, but you should tell only your husband this."  
+
+So when I returned, my wife explained it to me and I thought it was proper.  So the following morning, I met Ndindabahizi, who said, "I sort of stole your children," and I said, "Well, it is good."  And I think it was really a friendly gesture.  I could have encountered difficulties.  My children would have encountered difficulties.  These were very tall children, and on the way, when I was with Ndindabahizi, the eldest of my family called Alex, was nearly killed and Ndindabahizi talked about it to me.  They almost took -- picked him up -- they almost took him away at least with the other children of Ndindabahizi. 
+Q.	Well, Mr. Uwizeye, you are definitely to be commended for the sheltering of the people in your home and for Mr. Ndindabahizi's children.  
+
+Now, you've told us that when the officials arrived in Murambi on the 12th that you went out to get some beverages and when you returned, the people had been gone and you learnt later that they had, in fact, gone to Murambi; is that correct?  
+A.	Yes, this concerns some of the authorities and I have always insisted on the president of the republic.  You may move on, Counsel.  
+Q.	I want to just read to you a -- Minister Ndindabahizi said in the Bizimungu trial when he testified on the 30th of April at page 12.  He said:  
+
+"We arrived at the préfecture of Gitarama and we were welcomed by the préfet.  We were with him in the sitting and he is the one who made the proposal to go to Murambi.  The government and the ministers were asking him where they could settle, because they had just decided to settle in that area and not to go any further.  So they asked the préfet, who knew the area, where the government could settle.  So Uwizeye knew that in Gitarama, the only viable location was Murambi, and that was what he proposed."  
+
+Is that true? 
+A.	No, that was not what happened.  
+
+Mr. Robinson, you see those people arrived there under abnormal and extraordinary circumstances.  However, if that had been done under normal circumstances, then there would have been what was referred to as the presidential protocol.  Given that the president was there, the protocol had to operate.  If President Kagame is going somewhere today, he is not going to ask for audience himself or ask that this or that be done.  That is the duty of the protocol.  So we understand therefore that the situation was peculiar or extraordinary.  
+
+However, I would like to come back to the ministers -- could not reasonably have asked me, "Fidèle, where are we going to?"  There ought to have been some protocol.  They had to follow protocol.  I could not have any discussion regarding the ministers about where they would settle.  That is not how it happened.  I've already explained what happened.  I told you what General Ndindiliyimana told me.  And I think that you have the recording of my testimony.  I don't want to belabour this point.  I am giving you the version to the effect that Ndindiliyimana asked me to go out.  He separated me and he asked me as aside to look for where to settle the government, and I went to Kabgayi.  And when I returned, I realised that they had already gone to Murambi.  So you should understand the situation.  
+
+Furthermore, I am not denying that they came to see me -- to my place, but I did not notice him amongst the people who were at my place.  **********************and three or four other people were together.  So you can understand that those people could not all be in my sitting room.  
+
+Concerning his testimony, he certainly has forgotten what happened.  Perhaps he was tired.  What I have told you in my evidence is what actually happened, Mr. Robinson.  There is no reason why I should not tell you the truth.  I am someone who likes to say the truth without mincing words, and I always acknowledge my faults when I commit any fault, and I am always being told that. 
+Q.	Okay, thank you very much, Mr. Uwizeye.  
+
+Now, I am going to move forward to the 15th of April 1994 and I ask that the registrar show you document number 3 in my packet of exhibits.  It's part of a broadcast that was broadcast on Radio Rwanda that day.  
+MR. ROBINSON:
+Mr. President, for those that are following in French, I am going to be referring to the portion of this exhibit that has K-number K0373826, and the English, it would be K0385119.  
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, I am having you shown the Kinyarwandan version of a broadcast of Radio Rwanda on the 15th of April, and if you could look at the third page -- the second page after the cover sheet, it has the K-number K0144450, and it starts with, "Speaker not identified."  And at the bottom of the page is your name, "Fidèle Uwizeye."  I am going to read the English, rather brief.  It says:  
+
+"With respect to these problems, the following decisions were made: 
+
+"1.  With respect to the people fleeing Kigali through Gitarama to their home area, assistance must be rendered to them in order to ease the travel to their destination.    
+
+"2.  Find a place of refuge as low as means for upkeep for the people who have nowhere to go.  
+
+"3.  Regarding the criminals from Kigali, soldiers and the gendarmes must disarm them and hand them over to the law.  
+
+"4.  It was decided that patrols would be organised in Gitarama and in other areas where this is deemed necessary.  
+
+"5.  With respect to the criminals from the communes neighbouring Gitarama, who are disrupting the inhabitants security, it was decided that those people should mobilise themselves and ensure their own safety in collaboration with communal authorities, and where necessary, call in the gendarmes.  On this matter, the meeting warned all the people from the communes mentioned above, who were arriving with the intention of causing unrests in the communes in Gitarama.  
+
+"Lastly, the participants at the meeting expressed satisfaction at the manner in which the inhabitants of Gitarama organised themselves to ensure their own security and that of their host.  
+"The meeting appealed to the people to remain exemplary in the area of security at this difficult time for our country.  The communiqué was signed by Préfet Uwizeye, préfet of Gitarama préfecture."  
+
+Is this a communiqué that you issued? 
+A.	Counsel, if you take into consideration, your last sentence of that communiqué or what you referred to as communiqué -- actually, it is the last sentence or last paragraph which goes as follows:  
+
+"Lastly, the participants at the meeting expressed satisfaction at the manner in which the inhabitants of Gitarama organised themselves to ensure yours (sic) own security and that of their host.  The meeting appealed to the people to remain exemplary in the area of security at this difficult time for our country."  And that is followed by, "The communiqué was signed."  
+
+Yet, in the paragraph I just read, there is reference to a meeting. So it is someone who followed what we said in the meeting and who went and drafted a communiqué.  Now, in the meeting which I held with the bourgmestres, I mentioned this issue.  What is mentioned in this document corresponds to the items dealt with during that meeting.  That is why I am saying that this communiqué was drafted by someone who followed the proceedings of the meeting.  So, I am asking you to understand what I am saying.  
+
+Furthermore, I have a concern.  I have seen many other documents, alleged communiqués reportedly issued by the préfet, whereas I never went to the Radio facility because Bamwanga, who was the director of that radio station had threatened to waste me.  So, I rather spoke in public.  I did not issue communiqués to be broadcast over Radio Rwanda because I knew full well that Bamwanga did not like me.  
+
+Now to come back to this document, I noticed that it is a summary of issues discussed during that meeting.  There is nothing negative about it.  The only omission is that the communiqué did not mention that I had requested that roadblocks be dismantled.  So, I agree with what is narrated in this document, but I still say that it is a communiqué which I drafted.  The journalist, rather, seems to have followed what was discussed during the meeting, then he went and drafted this document which we have.  
+MR. ROBINSON:
+Mr. President, at this time, I would offer this as Exhibit D. NZ327, A for the French, B for the English and C for the Kinyarwanda.  
+MR. PRESIDENT:  
+Admitted.
+(Exhibit No. D. NZ327A, D. NZ327B, and D. NZ327C admitted)
+
+BY MR. ROBINSON:
+Q.	And, Mr. Uwizeye, we will take this as a faithful account to some degree of the meeting that you told us you had with the bourgmestres, and I just want to ask you about the date, because this was broadcast on the 15th of April.  Is it possible that you held a meeting with the bourgmestres after the interim government had arrived in Gitarama on the 12th? 
+A.	Counsel, I no longer remember the date when we held that meeting because it is not mentioned in this document.  It was a long time ago.  However, I know that I did not organise many meetings during that period.  I may have convened or organised three meetings.  I remember very well that before the arrival of the interim government, I had organised two meetings.  And the third meeting, which I usually referred to is the one of the 18th of April.  However, it is possible that there was another meeting of bourgmestres because it was becoming increasingly difficult to convene bourgmestres to attend the meeting.  However, I don't rule out the fact that there may have been another meeting around the 13th, even though in this document or in my statements and testimonies, I have talked only about three meetings.  Please, if I realise or if it is obvious that there was another meeting, then I crave your indulgence. 
+Q.	It is no problem, Mr. Uwizeye, but I -- just looking at the contents of this summary where they are talking about people fleeing through -- from Kigali, and criminals from Kigali, it seems, from the context, that such a meeting would have been, in fact, been held after the 12th of April, but it's not any problem that you didn't remember it that way.  So we understand that during these times you weren't keeping track of dates and it is no problem.  
+
+Now, I want to turn now to the meeting of the 18th of April, and we are going to do that with the aid of another exhibit.
+MR. ROBINSON:
+But, Mr. President, perhaps this would be a good to begin our lunch recess.  If that is okay with you.  
+MR. PRESIDENT:  
+Yes, we can take our lunch recess.  
+(Court recessed at 1229H)
+(Pages 19 to 37 by Sheriffo Jammeh) 
+
+
+
+
+
+
+
+
+
+(Court resumed at 1414H)  
+MR. PRESIDENT:
+Mr. Robinson, you may continue.  
+MR. ROBINSON: 
+Thank you, Mr. President.  
+MR. PRESIDENT:
+I'm sorry, Mr. Weyl, did you -- were you on your feet?  
+MR. WEYL: 
+I wanted to announce to the Trial Chamber the return among us of Counsel Hounkpatin. 
+MR. PRESIDENT:
+Thank you.  
+MR. ROBINSON: 
+And I'll announce the return of her son and Frédéric's daughter; my interns are back also.  
+
+And, Mr. President, by my calculations, not to usurp the job of Mrs. N'gum, but I think I've used about 
+1 hour and 32 minutes, and I just wanted to let you know that I'm on track.  So, I think things are progressing well so far.  
+BY MR. ROBINSON:
+Q.	Good afternoon, Mr. Uwizeye.  
+A.	Good afternoon, Counsel. 
+Q.	Turning to the 18th of April 1994, you've told us that when the prime minister's secretary came to you to say he wanted to join your meeting, and then when you arrived at the meeting hall and you told us that you expressed some sentiments about the meeting having been hijacked from you -- and I want to just ask you briefly about that.  
+
+From my own information and from my observations of you here, you seem like a person who speaks your mind, but did you really say that to your boss?  
+A.	Yes, I did say that in my preliminary words, and I asked under what circumstances we'd hence been obliged to come to Murambi. 
+Q.	And were you the first to speak at the meeting once it began? 
+A.	Yes, I was the first to speak. 
+Q.	At this time, I am going to ask that you be given Exhibit P. 105.  I see Mr. Issa has made a very timely return, so if he could provide you with Exhibit P. 105C, which is the Kinyarwandan version of the broadcast of that meeting that took place on Radio Rwanda.  
+MR. ROBINSON: 
+And for those that are following in the French, we're going to be beginning on the bottom of the second page, K0273538, and for the English, on the second page, K0275069. 
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, what you have now been given is a broadcast that took place on the 19th of April 1994.  Looking at the Kinyarwandan version, if you could turn to the second page, the first page after the face sheet, it's K0273520.  And on the bottom it begins that, "Yesterday, the prime minister, Jean Kambanda, held a meeting with representatives of various religious organisations in Rwanda, leaders of political parties, all the bourgmestres of the communes of Gitarama préfecture, and all the heads of services in the said préfecture.  The meeting took place in Gitarama.  And Gaspard Rwakana" -- that's R-W-A-K-A-N-A -- "the ORINFOR regional correspondent, then was introduced and made his report. And he began by saying that the purpose of the meeting" -- and I'm now directing your attention to the page that ends in K with a 21.  He said that, "The purpose of the meeting was to consider how all the institutions could cooperate in the maintenance of law and order in the country as a whole, and particularly in Gitarama, which has been become the unavoidable point of transit for most people fleeing Kigali."  
+
+And it then goes on to say that, "Prime Minister Jean Kambanda first briefed the situation since the death of the president from the 6th up until today, and he outlined the efforts made by the government since it was formed in order to restore peace in the country."  
+
+He went on to say that, "In that regard, the government had addressed a message to all those in a position to contribute to the restoration of security.  It was addressed to leaders of political parties, senior officials, foreign nationals residing in Rwanda, as well as to the RPF, since the latter was the cause of the state of insecurity."  
+
+And then he indicated that, "Participants at the meeting were informed of the measures taken to reinforce security, which include, among others, the appointment of the chief of staff and the préfets for those préfectures where the position was vacant and the replacement of some préfets." 
+
+And then it's reported that prime minister stated that, "Since the government had come into office, security was gradually being restored, in spite of the clashes reported in some préfectures, and that the only obstacles to the efforts of the government and various security agencies was the RPF, which persistently stood against an end to hostilities, even though it was aware that military victory was impossible and that Prime Minister Kambanda briefed the participants on the situation on the war front and, on balance, said that the government forces had the upper hand over the enemy."  And then he went on to report about the situation in Ruhengeri, Byumba, Mutara and Kigali.  
+
+I'm going to stop there because the next point is when other people started speaking.  But there's no mention in the report of Radio Rwanda of any intervention made by you before the prime minister gave his address, and I'm wondering if, in light of this report, it's possible that it was the prime minister who spoke first rather than you.  
+A.	Thank you, Counsel Robinson.  I'm sorry.  I was going to say Counsel Weyl.  I mean -- that's why I hesitated.  
+
+What I wanted to say about this report on Radio Rwanda is I don't see any date as to this meeting.  They just narrate the events.  
+
+Secondly, in paragraph 2, K number ending in 21 in the French, K0273521, it says that Jean Kambanda was with certain members of the government, clergymen, all the bourgmestres of Gitarama and heads of department of Gitarama, but it doesn't mention the préfet, if you read it carefully.  And, moreover, I don't see the date.  
+
+And if you go to the fifth paragraph, the K number ending 22, in the Kinyarwanda, the fifth paragraph, it is said, "At the end of the meeting, it was -- each one was urged to do what he could to re-establish public order and return to work in order that the country might not suffer from the continuing circumstances.  And each one was asked to make a special effort in his office."  And then it says, "At the end of the meeting, the members of the government, together with Prime Minister Jean Kambanda, held another meeting with the bourgmestres of the commune in the presence of Fidèle Uwizeye, the préfet of that préfecture."  Therefore, mentioning another meeting between the préfet and 
+Jean Kambanda and the bourgmestres of the commune.  
+
+Maybe the one I'm referring to is the one referred to here in this paragraph.  As to the first meeting of which mention is made, I know nothing about that.  Do you want me to continue reading the document?  But you will see from reading those two paragraphs that mention is made of two different meetings.  Even if no date is given for those meetings, it is only in the second paragraph I read that mention is made of myself, the préfet.  Because you said in your question that I was not mentioned. 
+Q.	Yes, well, Mr. Uwizeye, I think that as we go through this transcript together, you'll see that we're speaking of the meeting of the 18th, as we'll see the content.  
+
+But I want to also tell you that one of your bourgmestres has come and testified in this trial, and he testified that -- as you did, that the préfet arrived at Murambi with the bourgmestres coming from the préfecture office, where they had originally intended to hold the meeting, and that when they arrived in Murambi, they held a meeting with the prime minister and other people from the interim government, and that that meeting took place in the morning.  And then after that meeting, the participants were invited to another meeting which would only be involving the bourgmestres and the préfet, and that took place in the afternoon.  
+And he said that with respect to the meeting that took place in the morning, that when they got there, there was a small opening statement by Callixte Kalimanzira, who he described as acting as protocol officer for the meeting, and that then the prime minister spoke.  And then after the prime minister finished speaking in the morning, in that same part of the meeting, the préfet spoke, that being you, and then called on the bourgmestres to speak, some of them who did.  And then some other people spoke at that meeting.  
+
+So I'm focussing now on the meeting in the morning which I believe this report refers to.  And I want to ask you, first of all, are you sure that -- are you sure that you were the first to speak at the meeting that you had with the prime minister on the 18th?  That's my question.  Are you sure that you were the first one to speak?  
+A.	It's not just a question of being sure.  I'm certain that I was the first one to speak.  Right off the bat I raised my hand and I asked to speak by way of asking a question, more or less, saying, "We planned to hold a meeting of bourgmestres, and you summoned us here."  So I wanted to know what was the context in which I was called.  And he asked me to explain my problem, and I did so.  So I was the first one to speak.  But I think there are two conflicting items of information to be garnered from this document.  Because I didn't know about the meeting with other people such as the leading clergymen.  I am ignorant of that.  I only know the meeting of which I spoke when I attended.  
+
+You showed me once photos of the classrooms -- or the classroom where the meeting was held.  I don't think all those people could have fitted into one of those classrooms.  We are here to help each other to discover the truth.  I realise that the problem is that, apparently, there were two successive meetings.  But isn't it possible that the reporter, the journalist, maybe heard -- or got mixed up?  We began our meeting at 8 a.m.  Maybe there was another one at 7 a.m.  
+
+But, Counsel, I do respect you.  I very much esteem -- hold you in esteem in the way you are questioning me, especially.  I believe you are a sincere man.  Maybe I am mistaken, but when I see you, I see someone who does not stress me, is not confrontational, and want to get to know the truth, which is why I speak to you freely.  You don't prevent me from speaking and I thank you for that. 
+
+But coming back to the point in question, it is clear that -- well, I think it is clear that there were two meetings, but I only attended one and not the other.  Now, you're telling me that at the meeting I was -- Kalimanzira was in charge of protocol and spoke?  Well, it is possible that I would not remember that.  Maybe he did speak during the meeting, but there was no protocol.  We just entered the room and were all curious to know what would happen.  But there wasn't any protocol, and I don't think I had forgotten that.  I really don't have any doubts about that.  There was no protocol.  I remember how I entered the room, went to greet the prime minister where he was seated.  The ministers came in, sat next to the prime minister.  And we were opposite.  There were like benches, benches along the wall, next to the windows, and that's where the ministers were:  Mugenzi, Karemera, Shingiro, and the others.  They were on my left.  I could see them.  I remember it very well.  I have no doubts about that. 
+Q.	Okay.  Let's look through the rest of the broadcast so maybe we could shed some light on this when we talk about what happened afterwards, because the broadcast continues that, "The participants at the meeting were given the opportunity to ask questions, and some of the questions dwelt on the resources required to assist the refugees fleeing the fighting in Kigali, and some others were on the maintenance of security.  And on the issue of security and of relief assistance to refugees, Prime Minister Kambanda said that this could, in fact, be achieved if the RPF were to end the hostilities, and that be that as it may, the government was doing its best to maintain security through messages regularly addressed to the nation.  And it was trying to secure relief for the indigent refugees and that during the meeting it was suggested that a Rwandan delegation, comprising representatives of various religious organisations, proceed to seek assistance for the huge number of displaced persons." 
+
+It goes on to say that, "Before the meeting closed, the participants called on each and every one to contribute to the restoration of security and strive to ensure that the country is not caught in the web of misery."  It goes on to report that, "At the end of this meeting, the members of the government, together with Prime Minister Jean Kambanda, held another meeting with the bourgmestres of the communes of the Gitarama préfecture in the presence of Fidèle Uwizeye, the préfet of that préfecture, and that during that meeting, the bourgmestres reported on problems they were facing with regard to the maintenance of security and that these problems were virtually the same in all the communes.  Indeed, they include the lack of policemen in sufficient numbers, shortage of equipment, lack of vehicles in good functioning state, and shortage of fuel."
+
+Finally, it goes on to report that, "Other problems raised were in regard to the disturbances reported in some communes.  The government promised to assist the bourgmestres and urged them to use their authority to bring about the participation of members of the population in the maintenance of security.  The participants called on the officials of communes and secteurs to ensure that those under their authority do not initiate attacks against one another."  And then it's signed off by Gaspard Rwakana in Gitarama. 
+
+So now that we've reviewed the entire broadcast, can you tell us, do you think you attended either of the morning or afternoon meetings that are described in this broadcast?  
+A.	I have said that I took part in a meeting that began at about 10.  In fact, my bourgmestres arrived early in the morning.  I think my answer is clear.  Really, I have no further comment to make.  
+Q.	Well, I'm trying to reconcile your testimony with the broadcast of the meeting, as well as the testimony of one of the bourgmestres who attended, because it seems like that you're in agreement that in the morning you went to Murambi, you participated in a meeting, but there's disagreement about what happened during that meeting.  And it appears that, according to, at least, the bourgmestre, that the prime minister spoke, he made a prepared address, which I think you also said, and then after that, you spoke and the bourgmestre spoke.  And then he said the bishop spoke at that meeting at which you were present.  And, finally, at the end of the meeting, civil servants spoke, people who were working for the interim government, directors, and addressed the concerns that had been raised by the bourgmestres.  
+MR. ROBINSON:
+And for the benefit of the parties, I'm referring to the testimony of Witness FH on the 19th of July 2007 at page 44 of the draft transcript. 
+BY MR. ROBINSON:
+Q.	So having heard this summary of what one of your bourgmestres said, can you give us some comment on the difference between your recollection, his recollection, and the report of the meeting that was broadcast? 
+A.	I cannot tell you why, but I can make a comment on that.  I can do that.  
+Q.	Yes, you can go ahead, please.  I would like to hear your comment.  
+A.	My comment is as follows:  It appears to me that the radio was receiving information from various sources and disseminating it.  Whenever the radio station had time to do such broadcasts, the journalists did not have enough time to talk about everything.  I believe that we are talking about two meetings held on the same day.  And if you look at the situation rationally, or logically, you would find that, at least as far as I'm concerned, for a minister to convene a broad-based meeting, he needs to hold a preparatory, restricted meeting for purposes of preparing for the broad-based meeting.  Such a restricted meeting would be attended by organisers who would organise the broad-based meeting based on the ideas raised.  
+
+But you can go about it in the other manner.  You could start by organising a meeting attended by many people, the conclusions of which would then be used as a basis for spelling out the steps, the directives or the instructions to be followed.  
+
+However, I do not know the approach followed.  I do not know how the prime minister proceeded.  I am not aware of the alleged meeting, bringing together religious representatives.  If I had been aware of it, I would have told you.  I don't know why I would hide it.  According, to you, do you think I have a reason to say that such a meeting did not take place?  And what would the reason be?  
+
+I can tell you that, as I told you earlier, I stormed out of the meeting.  As far as I was concerned, the situation was crucial.  And after that, I did not go to the venue of the meeting.  I left before everyone.  I didn't go back there.  So it is possible that there was another meeting.  It is also possible that the meeting I had stormed out of continued.  It is also possible that there was a break.  Again, it is possible that there was a meeting, part of which I did not attend.  However, in my opinion, the only meeting I am aware of is a meeting I attended and at which Mugenzi and others took the floor, as I stated before you.  
+
+Counsel, I observe, as you have done, that there is a problem.  There were meetings.  I do not how many meetings were held.  I cannot provide any further explanations on this matter.  
+Q.	Okay.  Well, I want to talk about the meeting that you do remember, and I want to suggest to you, maybe, that you don't remember that meeting quite as well as maybe you think you did.  But, nevertheless, certainly the meeting that you attended did occur.  We're not disputing that.  And it's been 13 years, so we're not disputing that, and I think that it's possible that some of the things that happened at that meeting, there's a reason why there is some conflict in people's memories about what happened.  
+
+But we're trying to get the most accurate recollection of what happened at that meeting, and so if you allow me, I want to just put to you a question about the bourgmestre of Rutobwe, Mr. Mporanzi.  Now, you've told us at this trial that you asked him to take the floor, and he refused.  And I'm referring to your testimony on the 19th of July at page 49 of the draft transcript.  
+
+But when you testified in the Akayesu case in 1998, you testified that the bourgmestre of Rutobwe took the floor at this meeting and talked about those who beat him.  And in this case, I'm referring to your testimony at pages 115 and 116 of the 3rd of March 1998.  
+
+So, can we agree that it may very well be that some of these details of the meeting are now escaping you or that you may not be recollecting them exactly correct after all these years?  
+A.	I do not know whether what you are saying is being interpreted to me faithfully.  It is said that I do not quite understand.  I believe the interpreter is lying.  
+THE ENGLISH INTERPRETER:
+Says the witness.  
+THE WITNESS:
+However, Counsel, you have stated that I do not quite understand or that I have forgotten what happened.  It is possible that I have forgotten, but to say that I haven't understood is somewhat pejorative, and it is not polite on your part to say that I am not understanding. 
+
+But let us go back to Bourgmestre Mporanzi, as you stated.  May I request you to look at my statements or what I said in that regard?  I spoke to the prime minister.  I gave him examples of facts that had been given to me by bourgmestres in previous meetings regarding reprehensible acts that had been committed.  And there were many of such acts.  I even named the perpetrators of those acts.  
+Regarding Mporanzi, during meetings held earlier, he had told me that Callixte had beated him up.  Callixte went to release Interahamwes detained by Mporanzi because they had been attacked somewhere not far from the commune office, and they had burnt down houses.  The bourgmestre told me that, complying with my instructions, he had arrested those wrongdoers.  I had asked him to arrest the wrongdoers in order that it wouldn't be said that the communal or préfectoral authorities were supporting the massacres.  Mporanzi then said that he had been beaten up by Callixte.  
+
+When the latter came with a large number of gendarmes to release those persons, he met them at the commune office and asked him to give him the key -- or, rather, he asked him to open the communal lock-up, and he slapped him on one jaw and on the other, that is, on both cheeks.  And he called him a dog and said he shouldn't arrest Hutus.  
+
+This was something that was during a previous meeting.  Callixte got those persons, that is, the Interahamwe, released and then the Interahamwe subsequently came and took the commune vehicle that Mporanzi had.  
+
+After receiving that report from Mporanzi, I went to Rutobwe before the meeting of the 18th.  I met him in the office, holding his head in his hands, and he was sad.  And I asked him, "Why are you alone?  Aren't there any policemen here any longer?"  He said, "There are no police here.  They have left.  Callixte dishonoured me in front of the people.  I can no longer speak.  Even my commune vehicle was seized by the Interahamwe."  And it is true that there were neither vehicles nor drivers at the commune office.  
+
+Counsel, you should understand that I accepted what he said as the truth, and that is what I said at the meeting of the 18th.  And when I asked Mporanzi to repeat what he had said, he was afraid.  Furthermore, he was not the only one.  Even the bourgmestre of Nyabikenke and others were afraid of speaking.  However, up till date, I believe I am telling the truth.  If there are any discrepancies in what I have said, you should analyse what I have said very carefully.  It is possible that one of us was afraid of speaking the truth.  And it could have been the case of Mporanzi, who certainly was afraid for some reason or the other, but I do not know what he was afraid of. 
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, first of all, I want to assure you that I didn't say that you didn't understand.  So I don't want us to be misunderstanding.  I was suggesting that perhaps you don't remember everything that occurred during that meeting accurately and not that you don't understand.  I'm sure -- I think we're understanding each other very well during this testimony.  But -- 
+A.	No, that is not what you said.  What I said was that the interpreter had not used the right word in translating what you had said.  I believe that I understand you.  
+Q.	Okay.  It's no problem.  But going to my question, you see, my problem is that you testified to two opposite things, you yourself, on two different occasions.  On the Akayesu trial, you said the bourgmestre spoke at the meeting.  At our trial, you say that he refused to speak.  Now, I'm not saying that you're lying about that, I'm saying that this is an example of how you may not really be remembering all of the things that took place during that meeting, and you may not be as sure about what was said as you think and -- 
+A.	Counsel, I remember what was said at the meeting.  However, it is true that I may forget that such-and-such a person spoke at the meeting.  This is an event that occurred a very long time ago.  If you were in my shoes, you wouldn't be able to remember everything.  I believe that you should, rather, focus on the facts.  I testified on the basis of information that had been provided to me by the bourgmestre of Rutobwe concerning Callixte, and I think you should take my word for it in order for us to progress. 
+Q.	Well, the problem is that your word has been two -- you've said two different things on two different occasions.  And also the bourgmestre that came and testified here, Witness FH, also said that Bourgmestre Mporanzi had addressed this meeting.  So I'm having a little bit of trouble.  Not that I'm -- again, I don't think that you're intentionally misrepresenting what took place, but I don't think you remember it as well as you think you do.  And I myself sometimes, in thinking of events that I've experienced, think sometimes that I've -- 
+A.	I have not said anything contrary to what you have said.  I think it would be better to consult all the documents in your possession.  I may have forgotten something.  If someone appeared and talked about it in another document, in that case, you can compare the two versions or three different versions of the same event and try to collate the information.  Even the other witness may have erred with regard to the date.  I believe we should be tolerant and try to be absolute -- absolute about what we are discussing.  This is something that happened a very long time ago, so you need to look at all documents in your possession in order to come up with the true version of the events.  I think we shouldn't lose sight of what I stated in my testimony, even though you have to weigh that against the statements of other witnesses, because I believe this is the kind of work that has been done in order to bring the truth to light. 
+Q.	Okay.  Let's turn to another situation, which is Bourgmestre Akayesu, because you've told us at this trial that he was present but he did not take the floor.  And you said that on the 19th of July as reported in page 49 of the draft transcript.  But when you testified at Akayesu's trial, you said that he did take the floor and he addressed specific problems.  
+A.	Yes, he indeed took the floor, Counsel.  Akayesu took the floor.  You see, this happened a long time ago.  He spoke about lists that had been drawn up, lists of trading centres that had been drawn up. 
+Q.	Okay.  I'll accept that, and thank you for that correction.  So we've cleared that up.  Thank you. 
+
+Now, I want to talk about -- a little bit about Mr. Karemera and Mr. Ngirumpatse, who you also say addressed some remarks at this meeting.  Which one of them was it who talked about the Interahamwe and the fact that other youth wing members were wearing the clothing of the Interahamwe?  Who said that, was it Karemera or Ngirumpatse, according to you?  
+A.	It was Karemera who uttered those words.  Ngirumpatse spoke of the MRND.  He told me, "You, the préfet of Gitarama, since you became préfet of Gitarama, you have not been supporting our political party.  You handicapped our activities by cooperating with Dismas Nsengiyaremye."  And he put the following question to me:  "There are people you call Interahamwe who are committing killings.  Why wouldn't those persons be youngsters of your MDR party dressed in MRND uniforms in order to perpetrate such acts, in order that such acts be attributed to the MRND?"  Those are the words he uttered. 
+Q.	So, was it Karemera or Ngirumpatse who said that the youths of the MDR were dressing as Interahamwe?  Which one of them said that at the meeting, according to you? 
+A.	Ngirumpatse put this question to me:  "Is it not possible that those persons you call Interahamwe are members of other parties, such as your own party, the MDR, and other parties, dressed up as Interahamwe and perpetrating acts that are ascribed to the Interahamwe?"  That is what Karemera -- that's what he said.  And Karemera added his voice to that.  He said more or less the same thing, but he essentially said that the Interahamwe were fighting in the same ranks with soldiers, that they were fighting in order to save the country and that he -- they were not engaged in committing those undignifying acts.  So they -- the message was more or less the same except that one referred to uniforms, whereas the other didn't, but their statements complemented one another. 
+Q.	Now, when you have discussed these incidents before in your prior statements, you have said, and I'm going to quote some -- first of all, in your statement in 1997 on the 16th of March at page 6, you said that, "Karemera accused the MDR youth of dressing in Interahamwe uniforms."  And then in your testimony at the Akayesu case on the 3rd of March at pages 117 and 118, you said that, "Karemera said that the youth committing the atrocities were members of the MDR Power wing disguising themselves as Interahamwe."  And then when you testified in the Bizimungu case on the 6th of April at page 53, you said that, "Karemera had said that people called Interahamwe were really MDR members who were donning MRND uniforms."  
+
+So you've asked us to examine your statements as a whole and in total, and every time that you have spoken of the people wearing MDR -- MRND uniforms, you've attributed that to Mr. Karemera; and yet at this trial, you have attributed that to Mr. Ngirumpatse.  And I'm asking you, isn't this another example of the fact that you don't really remember so accurately what was said at this meeting? 
+A.	My apologies.  I will make a concession here, and I would request you to understand me correctly.  There is something I would call changing things or inverting things.  The statements I gave -- I attributed to Ngirumpatse were made by Karemera, and the statements I attributed to Karemera were actually made by Ngirumpatse.  I crave the Court's indulgence.  I crave the indulgence of the Defence counsel.  It is not my intention to cause confusion in people's minds, because we are in a very important trial before this Chamber, and no one is allowed to ascribe very crucial and serious statements to somebody who didn't make those statements.  
+
+If I attributed any statements to Karemera, I now want the Court to understand that they should be attributed to Ngirumpatse.  And what I said Ngirumpatse said before, I would like the Court to understand that they were actually said by Karemera.  I am sorry for having contributed to such confusion.  I am glad to have remembered what the real situation was and to have rectified the situation. 
+
+You are right, Ngirumpatse did not make a very long speech.  All he said -- all he uttered was just one sentence or a few sentence.  It was Karemera who spoke at length.  Mathieu was the first to speak, and Karemera spoke later -- or after him.  I believe I remember very well now.  
+MR. WEYL: 
+Mr. President.  Mr. President, what has just been said causes a legal problem, because it would mean that my client is being charged with new acts.  So I would like the Chamber to exclude all statements referring to Ngirumpatse at that meeting.  Whatever the case, I believe the two statements are different, and I am now being charged -- or my client is being charged with offences that -- with which he wasn't charged before.  
+MS. DIAGNE-MBAYE: 
+Good afternoon, Mr. President.  May I make a submission?  I'm wondering whether we shouldn't take the cross-examination of the witness, what he said, that cross-examination, and compare them with what he is saying now and the words he is ascribing the one accused person and not the other.  Mr. President, Your Honours, is it not a ploy on the part of the witness to try to solve the legal problem which has been posed to all parties present here?  I thank you.  
+MR. WEBSTER: 
+Your Honour, I find what the Maître Weyl and Madam Diagne have been saying interesting, but this is the inappropriate time address it.  This seems like something that we should do in closing submissions.  There's no legal failing on the part of the witness or on -- in terms of the notice issues.  My suggestion to the Court is that we simply allow Mr. Robinson to complete his examination, I will do my redirect, and if there is anything that needs to be addressed in terms of legal argument, we do it at that time.  But the application, I don't -- I'm not even quite sure what -- what the application is, but it certainly doesn't seem an appropriate moment for this Court to address it.  
+MS. DIAGNE-MBAYE: 
+Mr. President, forgive me for speaking again, but I wish to clarify -- merely to clarify for my learned friend and colleague Mr. Webster.  I don't think it's a problem to solve at the time of final arguments, because if the Trial Chamber decides it's merely confusion on the part of the witness, we'll no longer have him in hand to clarify the situation.  So he is here now where he's made this admission, that the opportunity must be given to the parties to confront him anew which necessarily are new -- on what are necessarily new allegations.  
+MR. WEYL: 
+Mr. President, I'm sorry to speak again.  The legal point I'm raising is the presence in the transcript of new allegations in respect of which I have not been notified, which demonstrates certainly the fragility of this testimony, but from a legal point of view puts the question of the admissibility of this testimony when it includes new allegations in respect of the meeting which I was in no way notified of.  
+MR. WEBSTER: 
+Your Honours, could I just invite the Bench to look at paragraph 47 in the indictment, and I think if the parties and the Chamber were simply to read one paragraph, paragraph 47, in the indictment, that this issue would be resolved.  
+MS. DIAGNE-MBAYE: 
+Mr. President, just to say I've read paragraph 47 of the indictment, and I am obliged to acknowledge that instead of enlightening us and offering a solution to our problem, it adds to the confusion, because what -- the meaning here of 47, which you've just read, Mr. President, adds nothing, quite the contrary, to any solution we might have found here in the Trial Chamber.  That is the position of my Defence team.  
+MR. PRESIDENT:
+We note that the -- this issue arises during cross-examination of the witness.  The matter which has been objected to is, in our view, an issue which will be considered when we are determining what weight to give to the witness's testimony.  If, in fact, there is an issue which may require clarification by further cross-examination, we will consider such an application, if it is made at the conclusion of Mr. Robinson's cross-examination.  But we think Mr. Robinson should continue.  
+MR. ROBINSON: 
+Thank you, Mr. President.  
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, thank you very much for making the correction, and I think it's a good thing that you did.  And I don't -- I hope that you won't be discouraged from doing that in the future if you find that something that you had said is different than how you now remember it.  So I hope you won't be discouraged by some of the objections, and I thank you for making the correction. 
+
+And now I would like to simply ask you to do the best you can and to tell us what it was that you recall Mathieu Ngirumpatse said at this meeting.  So can you tell us, to the best of your recollection now, what it was that Mathieu Ngirumpatse said at the 18th of April meeting?  
+A.	Mathieu Ngirumpatse said, "Our Interahamwe are at the battle front.  They are supporting the Rwandan army.  They are defending our country's territorial integrity."  That, in brief, is what he said.  He said the Interahamwe are not killing.  They are at the battle front, side by side with the Rwandan army.  So it's not them that you see killing or erecting roadblocks here and there.  And then immediately Karemera spoke -- spoke of the uniforms, political parties.  That's how I remember the events unfolding. 
+Q.	Okay.  Thank you.  Now, if you can remember, tell us, to the best of your current recollection, what it was that Mr. Karemera said, as best as you can recall.  
+A.	Karemera -- Karemera said, "You, Fidèle, since you've been préfet of this préfecture, have not let our Interahamwe work under the best conditions.  We have not progressed because of you and because of Nsengiyaremye, Dismas."  He said, "That is why those young people you see running here and there are the young people of your party and other parties who are dressed in Interahamwe uniforms."  That, in brief, is what he said. 
+Q.	Thank you Mr. Uwizeye.  
+MR. ROBINSON: 
+Mr. President, I'm going to leave that matter here, and I would urge that if my colleagues wish to cross-examine on this can of worms that I may have opened, that you allow them to do so.  But I'm not going to go any further at this time with any of the statements of Mr. Ngirumpatse or Karemera.  
+BY MR. ROBINSON:
+Q.	And so, Mr. Uwizeye, I want to now turn to the remarks made by Justin Mugenzi.  And you've told us that he said that the préfet and the bourgmestres didn't want to understand the government policy, and such people should be dismissed.  
+
+Now, I want to read to you what Mugenzi said at his own trial about -- his version of what he said at that meeting.  And I'm going to read to you from the transcript of Mr. Mugenzi's trial, in particular, on the 9th of November of 2005 at page 60 and page 62. 
+
+He said, "I spoke against the killings which were going on in some communes of Gitarama.  And the bourgmestres thought -- or, as I found them, they were in the spirit -- they thought that with the government they would appreciate that they were revenging the president who had died.  That was the spirit they had.  They thought that revenging was the good thing.  I said, 'Come on, no.  This is not what we want.  Listen to the prime minister.  Listen to the speech the prime minister has just made.  The prime minister has outlined the government policy.  This is what the government wants.'  And I said, 'If you are not prepared to follow what the prime minister tells you, you better quit or we are going to dismiss you.  We want you to apply the government policy, and we don't have two policies.  The prime minister has spoken.'" 
+
+And Mr. Mugenzi went on to say that, "I insisted on these bourgmestres applying the government policy which was to stop killing, protect everybody, give shelter to the refugees, and I told them that this business of power that the bourgmestre was claiming to be was not of my interest." 
+So I now give you the opportunity, Mr. Uwizeye, to comment on Mr. Mugenzi's testimony, as he will likely be testifying in this trial.  
+A.	The only positive element -- that he spoke at length, but it's pure lies, everything.  Counsel Robinson, I must tell you that Mugenzi did not speak long.  He says that he spoke to the ministers.  No, but really, did he have any authority over the ministers?  It's as though he was answering in the prime minister's place.  He says to the bourgmestres, "I said to the ministers, I said to the power wings" as though he had some authority over everyone.  Unfortunately, he's just lying.  He didn't even raise his hand.  He just stood up.  No one gave him the floor.  He said, "Mr. Prime Minister, I think you're wasting your time with these people who are calling us killers.  For me, there's only one remedy."  And then he spoke in French and said, "Let the préfet of this préfecture -- let the bourgmestres" -- and then he went on in Kinyarwanda -- "the bourgmestres of this commune that don't understand national policy be destituted, be sacked."  And he stopped there.  
+
+I should like to tell you, dear brother -- I'm speaking to you like that because I find our discussion very candid.  So, allow me to tell you that when Mugenzi spoke, it was the beginning -- it led to people insulting me.  The situation has been turned upside down.  Do you think that I would have spoken in defence of the genocide and Mugenzi spoke in opposition to the genocide?  You must understand yourself that when Mugenzi was speaking at his own trial, was defending himself, he wanted to cover his tracks, but it isn't true.  You must understand that.  
+Q.	Okay.  Thank you, Mr. Uwizeye.  Now, the bourgmestre who came and testified about this meeting has told us that after Mugenzi spoke, the bishop of Kabgayi took the floor and requested permission to be able to broadcast a communiqué on the radio and also asked that gendarmes be sent to Kabgayi for protecting the refugees.  Do you have any recollection of that at all?  
+A.	No.  No.  I tell you I did not see the archbishop -- or bishop there, so I can't speak of anything he said, since I didn't see him.  
+Q.	Okay.  And then also this witness, FH, bourgmestre, said that after the bishop spoke, some of the civil servants took the floor and agreed to immediately send gendarmes to Kabgayi to protect the refugees, but that they did not have any solutions for the other problems that had been raised concerning security of population.  Do you have any recollection of that taking place during the meeting? 
+A.	No, they didn't speak.  And there was something else that hasn't been mentioned.  In what I said, when I spoke to the prime minister, there were 80 gendarmes at the préfecture, so they had closed down the gendarmerie unit in Gitarama.  And I remember saying that to President Kambanda.  There were six gendarmes in Mugina available to the bourgmestre, and they had removed those gendarmes from there, whereas it was being attacked by Setiba.  So, you see, there are some evil men who are fabricating events against me.  
+
+I don't know whether that bourgmestre attended another meeting than the one I attended.  You say that the heads of departments spoke, the archbishop spoke.  I didn't see that.  I did not witness that, and I didn't speak of it in my testimony because I wasn't aware of it.  
+Q.	Were gendarmes sent to Kabgayi after the meeting of the 18th of April?  
+A.	No.  Shortly before, there were some gendarmes based at the junior seminary at Kabgayi church, soldiers, but those soldiers were protecting their injured, wounded colleagues.  When soldiers were wounded at the front, they were taken to one of the secondary schools in Kabgayi, the ESI, sciences infirmières, nursing sciences.  There were other soldiers that were in hospital.  So the soldiers there had the task of protecting their colleagues.  I must tell you that they committed some evil deeds.  
+
+I sent a bus to the people.  They began attacking the people there, so I sent a bus to evacuate them to Kabgayi.  When they arrived in Kabgayi, the soldiers would not allow them to enter.  I had to argue with the soldiers.  There were four soldiers.  They weren't very numerous.  I argued with them until finally they allowed the people in the bus to enter the secondary school.  There were soldiers from a military camp, and this was not after the meeting of the 18th, but, rather, before.  
+Q.	The bourgmestre that came and testified here told us that the interim government had, in fact, sent gendarmes to Kabgayi after this meeting.  Is that not correct?  
+A.	That is not true, Counsel.  I just told you that no gendarme was sent to Kabgayi.  Let me tell you I went several times to Bishop Thaddée.  I would have seen the gendarmes had they been detached and posted there, unless gendarmes were placed at the bishop's disposal to guard him.  I went to see the bishop on at least four occasions.  I only saw the soldiers posted sitting near the church, a bit further on from the church.  There is a -- there's a friary for the Josephite friars, and there were four soldiers posted there.  I think I know the difference between soldiers and gendarme.  I think I can distinguish between them. 
+(Pages 38 to 52 by Sherri Knox)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1530H
+BY MR. ROBINSON:
+Q.	Okay.  Yes, I am sure you can.  
+
+Now, I want to ask you some questions about what was supposedly said at the afternoon portion of this meeting on the 18th.
+MR. ROBINSON:
+But perhaps the President would like to take our recess for the afternoon at this time.
+MR. PRESIDENT:
+Yes, it is 3:30.  We take our mid-afternoon recess now.
+(Court recessed from 1530H to 1603H) 
+MR. PRESIDENT:
+You may continue, Mr. Robinson.  
+MR. ROBINSON:
+Thank you, Mr. President.  Also I'd indicate I think we're on track to complete sometime tomorrow morning.  So I think we're going well so far.  
+BY MR. ROBINSON:
+Q.	Okay.  Mr. Uwizeye, I want to ask you about other portions of this meeting on which we've heard testimony by one of the bourgmestres.  And he testified that in the afternoon the préfet, yourself and the bourgmestres returned to the meeting room and met with ministers, including the person who was head of protocol for the meeting, as he understood it, Callixte Kalimanzira.  At the commencement of the meeting, Kalimanzira said that it was well-known that the bourgmestres of Gitarama were not performing their duties properly and that they were accomplices of the Inkotanyi, among the bourgmestres, and that he was not happy.  
+THE ENGLISH INTERPRETER:
+Please, Counsel, could you slow down a bit.  The French interpreters would need -- 
+MR. ROBINSON:
+Yes, I'm sorry.  
+BY MR. ROBINSON:
+Q.	So, I'll repeat that.  According to this witness, the bourgmestre who testified here, he said that Callixte Kalimanzira had addressed the bourgmestres and yourself, as préfet, in the afternoon of the 18th of April, and had said that the bourgmestres were not performing their duties properly, that they were accomplices of the Inkotanyi among them, and that he was not happy with the way they were performing their job.  And he was speaking as a senior official of the ministry of interior according to this witness.  And I'm quoting from the draft transcript of the 12th of July 2007, at page 15.  
+
+Do you have any recollection of such remarks being made? 
+A.	Counsel Alison (sic), I think we are not understanding one another anymore.  I have already answered that question.  I said I did not attend any meeting held in the afternoon.  What I told you was that I attended the meeting that started at 10 a.m. and that I wasn't aware of the meeting that started in the afternoon.  And you told me that Kalimanzira was in charge of protocol and that he made a statement.  I told you that I wasn't aware of that and that I hadn't heard Mr. Kalimanzira's speech, be it in the meeting that started in the morning or the one that started in the afternoon, which I did not attend.  
+
+My remarks would nevertheless be as follows:  It would appear that he said -- he made a statement different from that of Mugenzi who considered all of us as Interahamwe and who had said that he had come to prevent us from committing killings.  Now you're talking of Kalimanzira who was at the ministry of interior and who had replaced Faustin Munyazisa (phonetic), what (sic) remained in Dar es Salaam and who was director of cabinet to the ministry -- or, the minister of interior and who had continued to sit in for him, which means that in the government there were contradictions.  
+
+One member of the said government considered us as accomplices of the Inkotanyi, whereas the other called us Interahamwe.  So you would find there are inconsistencies here.  It is, therefore, for this reason that I would request you to accept that those meetings did not take place.  If that witness talked about that meeting, it is possible that he attended such a meeting, but I did not attend the said meeting and I'm unable to make any remarks on what statements were made at that meeting.  
+Q.	Okay.  Thank you very much, Mr. Uwizeye.  And I agree with you that there are many contradictions among the descriptions of these meetings on the 18th.  And it is my duty to put to you testimony of other witnesses to give you an opportunity to make it very clear as to what your position is.  
+
+And so also I want to ask you about the bourgmestre of Runda, Sixbert Ndayambaje, because, according to the bourgmestre that testified, he also spoke during the meeting and he said that Inkotanyi had been discovered in his commune and that documents containing lists and plans of the Inkotanyi had been discovered as well, and that these comments created a lot of anxiety and raised the level of tension of this meeting.  Now, do you have any recollection of that? 
+A.	No.  I nevertheless recall that at the meeting I had attended, I heard Sixbert talk about the attacks committed by those persons.  I had asked him about Setiba.  I asked him to talk about Setiba relying on information he had given me in his report.  So I asked him to complement what I had said.  And he spoke very briefly saying the following:  "In our area, there were attacks, but those attacks concerned people who were defending themselves because the criminal investigations officer" -- I think the interpreter should assist me here.  In French, we talk of the l'officier de police judiciaire, that is the criminal investigations officer in English.  Another gentleman called Auxyle Muyombayire had been killed alongside the criminal investigations officer, and a third person whose name I do remember.  So the bourgmestre said that those persons were killed because they were accomplices.  And participants at the meeting started laughing, so he made those comments.  
+
+It is possible that the comments you refer to in your question were made at the part of the meeting I did not attend.  And this makes me say -- or, rather, makes me remember that while -- when I was chairperson of the meeting he spoke very briefly, or it could also be that he made the statements at the other meeting which I did not attend and, maybe, he said that as a follow-up to what he had said at the earlier meeting.  
+THE ENGLISH INTERPRETER:
+Muyombayire is M-U-Y-O-M-B-A-Y-I-R-E.  Auxile is spelt as follows A-U-X-I-L-E.
+BY MR. ROBINSON:
+Q.	Thank you.  Do you recall any mention by the bourgmestre of Runda of having found documents concerning the plans of the Inkotanyi? 
+A.	No, he didn't mention that in the course of the meeting which I attended.  
+Q.	And did you ever learn that this bourgmestre had gone on the radio and had explained these documents and the fact that Inkotanyi were infiltrating in his commune?
+A.	Yes, that I heard about.  I heard it said that he had indeed said that.  
+Q.	Okay.  And then, finally, following up on this meeting, the witness -- the bourgmestre who came to testify here, told us that after Sixbert had spoke that minister André Ntagerura took the floor and made remarks such as, "This proves that we have to fight against the Inkotanyi."  Do you have any recollection of Minister André Ntagerura participating in the meeting? 
+A.	No, I don't see him as one of the speakers in the course of that meeting.  I don't remember that.  
+Q.	Okay.  Thank you.  Now, with respect to the -- how the meeting ended that you attended.  You've told us several times that you walked out of the meeting and -- before it ended -- or, it -- you simply walked out.  And I want to ask you about that.  I know Mr. Weyl covered this a little bit, but you told us that we should look at all your statements in evaluating your testimony, and I have done that on this point.  And I notice that in the first statement that you made to the Office of the Prosecutor, going back to January of 1996, you said that the meeting ended in applause by the people present.  And you made no mention of having walked out of the meeting.  
+
+Then when you talked about this meeting again on the 10th of May 1996, you again said the meeting ended in applause, and you made no mention of having walked out of the meeting.  
+
+Then on the 16th of March 1997, when you talked about this meeting, you said that it ended when Kambanda said his speech was quite clear in answer to your question.  
+
+Then when you made a statement in March 1998, you talked about how the meeting ended and you made no mention of having walked out of that meeting.  
+Then, when you testified in Akayesu's trial, you said that you had the reaction, you wanted to go out but instead you stayed and you spoke to the prime minister and then you left at the end of the meeting with the other bourgmestres.  And that's on pages 119 and 120 of that transcript of the 3rd of March 1998.  
+
+Now, in 2005, when you testified in the Bizimungu case, you did say that you walked out of that meeting, and you testified to that again in this Trial.  
+
+And I'm just wondering whether or not, as the years have gone by, you have, in your own mind, maybe remembered this -- how this meeting ended in a way other than how it really did end, and that you are remembering things about how this meeting ended differently than what really happened.  So, you know -- I know this isn't a very good way to ask a question, but often when I am relaying to my family how I did in the trial, my story gets better every time I tell it.  And, maybe -- I'm wondering if that hasn't happened to you here, that maybe over the years you haven't sort of -- understanding that you were upset at the end of the meeting, exaggerated somewhat, and now are claiming to have walked off this -- in a huff at this meeting when, in fact, that's not really what happened.  So, do you care to comment on whether you really did walk out of this meeting in light of your prior statements? 
+A.	Counsel Robinson, don't spend time on this.  I did leave before the end of the meeting.  And I didn't leave without saying anything.  I said to Kambanda, "Mr. Kambanda, I came to tell you about our problems for you to provide a solution to our problems.  And now you've heard the answer given by your politicians who have gotten to the point of saying, 'let the one who doesn't understand leave the room.'"  And I couldn't put up with it anymore.  I left.  I was very upset.  I left the others there.  You speak of previous statements.  I don't know about them.  I do remember, as they say in French, that I slammed the door. 
+THE ENGLISH INTERPRETER:
+This is a figure of speech. 
+THE WITNESS:
+I left and I considered it as a, sort of, break.  And I never went back to Murambi after that.  In fact, except two days later I did.  I was faced with a big difficulty; people had been killed and I went to beg for some petrol.  In fact, it is petrol that had been taken from me.  I went to ask for petrol and that's when I met Ndindiliyimana and Rusatira who were coming for a meeting.  That I recall.  But I left the meeting and I no longer attended any meetings there.  In the ensuing days, I was busy for several days with the Mugina commune problem.
+BY MR. ROBINSON:  
+Q.	I don't understand why you weren't sacked.  You walked out of a meeting of your boss.  And nothing happened to you? 
+A.	Nor do I understand, but it's the truth.  I left.  I was in tears.  I am a man.  And when you're a man who is reduced to tears, the situation is serious.  When I left the meeting, I thought I would be sacked.  
+Q.	Okay.  I think we can leave this meeting now and turn to another event that took place after this meeting in April of 1994.  And this was a time that you went to see Colonel Rwagafilitia.  
+MR. ROBINSON:
+And that's number 69 on the spelling list.  And also Mr. Boniface Rucagu, R-U-C-A-G-U.
+BY MR. ROBINSON:
+Q.	And I have it from a previous statement that you said that you went to see Colonel Rwagafilitia on the day that you had been denied gendarmes by the commander in Gitarama and that Rwagafilitia had insulted you by saying that he did not feel safe in Gitarama préfecture because it was full of accomplices.  Then you went on to say in your statement that Rucagu said that every family in Gitarama préfecture had at least one accomplice in the family and that the préfet was doing nothing to protect the two of them.  I'm referring to your statement of the 17th of September 1998.  Is that true? 
+A.	First of all, I must correct you to the extent that my statement was not correctly recorded.  The person who took my statement didn't note what I said properly.  Do you agree that I make a small correction, Counsel Robinson?  
+Q.	Yes.
+A.	Okay.  An attack came from Ntongwe led by Bourgmestre Karagwa (phonetic), but it wasn't him who -- it was an Interahamwe by the name of Zamba (phonetic) who really led the attack.  And they attacked Kirengeri, a place called Ajikoma (phonetic).  They were in a minibus, a Hiace minibus.  And a young man who was the director of the print shop in Kabgayi -- and because he came from that area, he came to tell me that one Désiré was attacked there in Kirengeri.  So I went to Mbare (phonetic) to speak to the gendarmes.  And when I got there, I saw that the gendarmerie was removed -- had been removed.  You remember at the meeting of the 18th, I told Kambanda, "You have removed the gendarmerie unit and I no longer have any gendarmes in case of attack."  That shows that the attack on Désiré Ajikomu (phonetic) -- that attack took place, therefore, before the 18th.  I went to Mbare where I found only two gendarmes.  And they told me that one of them was in charge of COMS, communications, and the other one was his assistant.  Before there had been 80 gendarmes, and they'd all gone.  And I remember that among the instructions given to us, when there was no gendarmes, one should refer to the local military commander.  
+
+	So I didn't go to see Rwagafilitia, I went to see the local military commander at Gitarama camp to seek for help for the place that had been attacked.  I had found him at the military -- I couldn't -- I didn't find him to begin with.  They told me to go to the officers' mess, a sort of restaurant for the soldiers.  I went there with a soldier.  And when I got to the mess, I found the local military commander who was eating chicken, you know, barbecued chicken.  But it was the morning, it wasn't yet noon, it was about 9:00 in the morning.  So I greeted the local military commander and I saw another soldier standing next to him whom I did not know immediately, but I subsequently got to know and then a bit further back was Rwagafilitia and Rucagu.  They were all eating.  After having greeted the local military commander, I had to greet the others since they were there.  And the local military commander asked me as follows:  "Do you know this man?"  Pointing to the soldier that I said I did not know, who is in military uniform, of course, whom I just told you I didn't know, and he told me that was General Kabiligi.  So I said, "Forgive me my general, I did not know you."  And it is true, I didn't know him.  And I said, "Congratulations", because he had just been promoted.  I had heard that over the radio.  And I congratulated him.  
+
+	And then Rwagafilitia spoke, and said, "But, Mr. Préfet, we came to seek refuge here, yet we see that you are not ensuring our security.  We as people have come to seek refuge here.  For example, I came with my two trucks from Kigali, and they are at Abdom's, who lives in the direction of Bulinga, a bit outside of -- there was an old man called Abdom, A-B-D-O-M, very influential, very rich.  And he was related to Shingiro Mbonamutwa.  He was, in fact, his father-in-law.  So that is the situation as it was.  I heard -- I've heard that people want to take my trucks to sell them."  So I smiled and said, "Colonel, it's true that that is a problem, but we have security problems.  It's true, but I think you're lucky because you're now in a military camp and the soldiers can help you.  And that is the reason why I am also here.  I am looking for soldiers."  And after having said that, Rucagu said to me, "But, Fidèle, is it possible that what they say about you is true?  As the colonel just said, we've come to seek refuge here, but when we look at the situation closely, we note that you're doing nothing in your préfecture to get rid of the accomplices because we see that your préfecture is full of accomplices and you're doing nothing to get rid of them."  I did not answer that comment.  
+
+	But I spoke to the local commander, the military camp commander, and I asked him to -- I took him aside and asked him for a detachment of soldiers to help Désiré Ajikomu who had been attacked.  I told him that I longed to seek the gendarmerie and found them God.  He told me -- he answered that, "The soldiers are at the front.  We don't have enough soldiers to intervene in the countryside."  So I begged him.  He said, "I don't have any soldiers.  What do you want me to do?"  And then I said goodbye to him without saying goodbye to the others because I was disappointed.  
+
+	So I went to Murambi to see the major commanding the detachment at Murambi and asked him to give me some gendarmes because he had a few available to defend the members of the government.  And he said, "No, the politicians are asking for gendarmes at the -- as they will.  And they need them to accompany them.  I don't want to have to tell them that the gendarmes -- that I've had to send the gendarmes elsewhere and I couldn't ensure the security of the members of the government."  
+
+So then I was a bit lost.  I didn't know where to turn.  I went to see the bourgmestre of Nyamabuye to seek soldiers, but before leaving the major called me back.  He said, "Fidèle, do you see that helicopter flying around?  That is the helicopter of the minister of defence who is going to land in a few minutes.  Wait a few minutes and make your request to him."  When the helicopter landed, the minister of defence came down, but he was in a hurry.  I had followed him to make my request.  
+
+And we went to a building a bit further on where I told him what I needed.  He said to me, "Fidèle, you want this country to fall in the hands of the enemy?  Our task is to fight the enemy and not to rescue peasants who are being attacked."  I said to him, "Mr. Minister, these are members of my family who have been attacked.  I, as a préfet, must save my family.  I beg you.  Help my family."  And then he pointed out a captain and said to him, "Give Fidèle some gendarmes to go and intervene at his place."  So, I was pleased but I had no vehicle to transport them, so I returned to the préfecture to get a pickup and I went back to pick up the gendarmes.  
+
+I went to Harimana (phonetic) and found that they had killed two ladies, but the gendarmes encircled the place and arrested all the assailants.  They even shot the driver of the vehicle that was driving the assailants.  After having shot the chauffeur, they then repulsed the attackers.  That's what happened and that is why I have told you this -- told you this at length so that you should know what happened.  
+Q.	Okay.  Thank you very much.  I think you made that very clear.  And this Rucagu, he was the person who was later the préfet of Ruhengeri in the RPF government? 
+A.	That is correct. 
+Q.	Okay.  Thank you.  
+
+Now, I would like to turn to something that occurred around the 27th of April 1994.  
+MR. ROBINSON:
+And I ask that you be shown Exhibit D. NZ183, which is a letter that was sent to all préfets.  That's D. NZ183.  
+BY MR. ROBINSON:
+Q.	Mr. Uwizeye, while the document is being distributed, I will just inform you that this is a document that's previously been admitted into evidence; it's a letter dated the 27th of April 1994, from Prime Minister Kambanda to all préfets.  And the subject is, "Instructions to restore security in the country."  So I'm going to have you shown the Kinyarwanda version.  And I'm going to ask you, whether or not, you recall having received this letter.  
+
+And while you're reading, and feel free to take your time to read it, I would just like to maybe summarise it for you that after recounting the events, since the death of the president, the prime minister was ordering the instructions to be followed by the préfet which included, number one, to hold without delay and frequent security meetings at the level of the préfecture.  And, secondly, to work with the representatives of the parties and religious denominations and the central administration as well as the army.  And he went on to say that you were instructed to explain to the people to avoid anything that would bring about violence on the pretext of ethnic groups because the violence within the population benefits the enemy and that the enemy is known, it is the RPF Inkotanyi.  
+
+And then he requested that places should be identified where officially recognised roadblocks could be set up and that the people on the roadblocks, and who are doing patrols, should not commit any acts of violence against the population.  And he called upon the army, the prosecution authorities and the judicial authorities to punish severely any person who is guilty of such acts.  Do you recall receiving this letter? 
+A.	Counsel, I do not recall that, but I do not deny receiving such a letter.  I do not recall the contents thereof.  It is possible that I received such a letter, but there's something I would like to clarify.  You're relying on your -- the classical concept of administration which is to the effect that, under normal circumstances, the minister would send a letter which would pass to such-and-such a channel to his destination.  Let me inform you that préfectural services were no longer functional.  The war was raging, people had deserted their work stations, which means that the secretariat did not exist, and there was no one to receive mail and pass it on to the préfet.  When letters were delivered and there was no one in the secretariat to receive it, I wouldn't have been aware of such mail.  You have to understand the situation, the circumstances under which we lived.  The situation wasn't normal.  Mail was not delivered.  There was no one to take delivery of such mail.  No one to register the mail, to give it a number.  Quite honestly, I would like you to know that I did not receive that letter.  I have no problem with that letter as regards its contents, but I did not receive it.  As you see, people were coming and I was running left -- helter-skelter to assist refugees and persons in danger.  I am, therefore, sorry to inform you that I did not receive such a letter.  
+Q.	Well, since you were in Gitarama and the government was in Gitarama, it would seem that if anybody could have received such a letter, you would have been the first to receive it.  But, be that as it may, the bourgmestre who testified here told us he got it -- he got a copy of the letter forwarded to him from you.  So is it possible that you did receive this letter and you just don't remember?
+A.	Let me revert the question to you, Counsel:  Is there any indication on the document that that letter was copied to the bourgmestre?  I do not see any, which means that if the préfet had received such a letter -- the photocopiers were not working.  The préfet did not have a photocopier which he could use to run copies for the bourgmestres.  You are veering the context in which we were as a context in a normal situation, in a normal period.  It is as if I would have been able to do photocopies and send them to the various bourgmestres.  I did not have the time to run copies of that letter and to distribute it to the various bourgmestres.  That was not possible.  
+Q.	Did you hold security meetings after the end of April as had been instructed in this letter? 
+A.	Regarding the security meeting, I do not know whether you want me to tell you who the members of the security council were. 
+Q.	No, actually, what I'm interested in is whether or not after the 27th of April you held security meetings at the level of the préfecture which was one of the requests that had been made in this letter.  So did you hold such meetings after the 27th of April? 
+A.	I am telling you that, as regards to the préfectural security council, that council could not meet because the members of the council were not all there.  The members of the council are the préfet, the sous-préfets, that is the sous-préfet of political affairs, the sous-préfet of administrative and legal affairs, the state prosecutor, the president of the court of first instance, and the area commander and the gendarmerie commander.  Those were the members of the préfectural security council.  Where would you have expected me to fetch members of that council?  There were only a couple of persons present in Gitarama; the others were not there.  The activities that were carried out were occasional activities.  We were running helter-skelter.  The administration wasn't functioning properly.  The person who gave that testimony - or -- testified as if the administration was functioning normally.  
+Q.	Okay.  Now, we've had testimony from other witnesses that after this letter was sent that ministers of the interim government went around to different préfectures and held what they called pacification meetings at which the minister and local officials met with the population or with other officials of the administration to encourage them to stop the killings and to restore security.  Were you aware of any such meetings being held in Gitarama préfecture? 
+A.	To my mind, no minister held such a meeting in Gitarama.  No one came to see me to ask me to accompany him or her in that pacification tour.  Perhaps I could talk of the meeting held by President Sindikubwabo in Butare.  That meeting could have been termed "pacification meeting", and you, yourself, know what kind of speech he delivered in Butare.  He made mention of persons who are irresponsible in his speech.  I, therefore, believe that that speech was delivered in late April and I believe it was during that same period that the letter you're dealing with was prepared.  We talk of a pacification tour.  I believe you are referring to the pacification of the government itself, and not pacification of the people because regarding such pacification, all the government did was to tell members of the population to get rid of the enemy.  
+Q.	Thank you, Mr. Uwizeye.  Now, I want to move on to around the 10th of May 1994 when you've testified that you were informed by the minister of finance, Mr. Ndindabahizi that you were going to be dismissed.  And, again, I want to now turn to the testimony of Ndindabahizi that he gave at the trial of Casimir Bizimungu and Justin Mugenzi.  
+
+So, at first, I'll read a little bit from the 30th of April 2007, at page 71.  He was asked whether on or about the 10th of May he had told you that you were going to be removed as the préfet of Gitarama, but the president, Sindikubwabo, had (unintelligible) it because he thought it would be wrong to dismiss a man who had treated him so well.  And in short, Ndindabahizi said that he did not say such a thing.  
+
+Then on the -- page 72, he was asked, "On or about the 10th of May, did you tell Fidèle Uwizeye that he had been replaced at a cabinet meeting held on the 10th of May?  
+
+And his testimony was:  "I did not talk about replacement issues to Uwizeye at that time because Uwizeye was not replaced before the month of June, so I could not tell him about something that did not occur.  And, besides, if I knew quite frankly that the man had problems on the 10th of May -- it was on the 11th of May that I went to Nairobi and I trusted my children to him.  I could not have left my children with the préfet that the government, in which I was a member, was about to remove.  I could not have left my children with him.  He was living in an official residence in Gitarama and my children were there with him.  If I was aware of that, I would not have left my children with him.  That is not possible.  Uwizeye was préfet until the month of June.  
+
+And then, later on, at page 7, on the 3rd of May, he testified that, "According to the information I received, Uwizeye was dismissed following the capture of Gitarama."  And Kambanda allegedly thought that Gitarama was taken because -- it was of Uwizeye's fault.  And he was replaced by Jean Damascene Ukilikiyeyezu -- which is on our spelling list at number 80 -- who was a soldier, and that whenever it was felt that security was threatened in the préfecture a soldier was appointed as préfet.  I believe that was the same thing in Butare when Préfet Nteziryayo was appointed -- that's N-T-E-Z-I-R-Y-A-Y-O -- it was because the RPF was about the enter Butare town.  So Kambanda claimed that perhaps soldiers would be more courageous than civilians.  So that's what Minister Ndindabahizi has said about your dismissal; that he did not speak to you about it on the 10th of May.  He knew of no talk of you being dismissed at that time, and that the reason you were dismissed in June was because the préfecture had been captured by the RPF and they wanted a soldier in the job.  Would you like to comment on that? 
+A.	Would you like me to remark on what you've said, Counsel?  
+Q.	Yes.  
+A.	Yes, those were the words of the minister of finance.  Kindly remind me of his name.  I've forgotten it.  Yes, I remember, it is Ndindabahizi.  That is what he said relying on his memory or what he could remember.  That was his statement, but I have my own version of the facts, which I could give you in order that you compare my version and his version.  He admits that they wanted to relieve me of my duties, and Ndindabahizi said that it was not proper to dismiss me, but when he appeared before the chamber he said that he didn't remember telling me that, whereas earlier on he admitted to telling me that.
+
+Regarding the 10th, he did not tell me who was going to replace me.  All he told me was that a meeting had been held.  He told me so a few days after the holding of the meeting.  He told me that a meeting had been held and that at that meeting my case came up.  He said the following:  "The persons who were supporting you, abandoned you.  Who were those persons?"  He told me, "All those who had been on your side, who had been supporting you, had abandoned you."  He said that they had decided to relieve me of my duties and that all I could do to save my neck would be to go and see the president of the republic so that the presidential order shouldn't be signed dismissing me.  So he asked me to continue presiding in my commune because if I left it I would risk being killed.  He said he was going to Nairobi and that he was concerned about leaving his children with me, whereas I was about to be dismissed, but during the various testimonies I gave -- I stated that the children of Minister Ndindabahizi and his family left my home around late April.  Perhaps the dates given before this Chamber may vary.  You may find that there are inconsistencies in what has been said before the Chamber, but I have told the truth.  I personally think that you are treating me very fairly.  So his family left my home in -- about the month of May.  Perhaps Ndindabahizi forgot certain details, but regarding the date of the 10th of May I have stated what I saw.  And I know that I'm telling the truth.  His family left my home around late April. 
+(Pages 53 to 63 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H
+BY MR. ROBINSON:
+Q.	Okay, thank you very much, Mr. Uwizeye.  Now, I want to turn to a broadcast again from the Radio Rwanda on the 19th of May 1994, and I'm going to ask if the registrar can give you Exhibit D . NZ316.  
+
+Okay.  Mr. Uwizeye, what is coming to you is a transcript, and I have to apologise that we don't have Kinyarwandan version, we have French and English, so you've been given the French.  And it's a broadcast of the 19th of May 1994.  And I'd ask you to turn your attention to page 10, which has the K number K0181876, and in English it's page 12 with the K number K0181840.  
+
+Now, this was a communiqué that was attributed to you, the préfet of Gitarama, on the 19th of May of 1994.  And you can see that the broadcast journalist, Gaspard Rwakana, begins by saying that "The préfet of Gitarama préfecture, Fidèle Uwizeye, has sent to all bourgmestres instructions to be followed while manning roadblocks." 
+
+Now, the content of this communiqué was read out to you by Ms. Diagne when she questioned you, and I don't want to repeat that exercise.  I just wanted you to see this in black and white, and know the date, which hadn't been mentioned to you.  And I also want to tell you that the bourgmestre who testified at this trial said that he never received such instructions from you.  But I want to give you the opportunity to tell us whether or not you have any knowledge of this communiqué that was broadcast in our name on the 19th of May 1994.  
+A.	What I can say is that if a bourgmestre told you that he never received such instructions, it would mean that such instructions were never issued; or the instructions were issued, but he did not receive them.  
+
+When you tell me that that communiqué was broadcast on the radio, let me tell you that instructions, which is amabwiriza in Kinyarwanda, are not just a letter.  It is a document with a specific format in administration.  It has a date, a reference number, and it is signed.  Such a document has to be passed on to lower-level officials.  So when you write instructions, you cannot go and read the said instructions over the radio.  So the bourgmestres did not receive such an instruction -- or such instructions because those instructions, as far as I'm concerned, were never issued.  Such instructions never existed.  Who was I to issue such instructions?  Besides, during that period, that was when I helped my wife to flee.  I went 40 kilometres away from Gitarama to hide her there.  I was living in Gitarama alone.  I was living alone in Gitarama.  
+
+Let me tell you, in this regard, that you should bear in mind the context in which I was living, the circumstances under which I was living.  If a préfet like myself could write instructions and go to the radio and -- the radio station and distribute them to the various bourgmestres, that is something that could not have happened.  I did not invite them.  Could I not have invited them to my home in order to talk to them instead of going to the radio station to have instructions broadcast?  You, yourself, can ask yourself whether such instructions ever existed.  I do not know this document, I do not recognise it, it never existed.  And my conscience is clear.  When I look at this document, I find that I never issued such instructions.  
+
+In this document, I see a military strategy in play.  I don't see myself, a civilian, issuing instructions concerning military strategies.  If you look at the contents of the document, you'll find that it deals with military strategy.  I, instead, believe it is Ukilikiyeyezu who drafted this document.  Besides, he himself had made himself an authority.  Besides, he was in charge of civil defence.  I do not know what is used in Kinyarwanda for civil defence.  He was a boastful person who was power hungry.  I think if you put Fidèle's name on a document, it's the people in charge of the auto civil defence that manufactured this.  It's a fabrication.  
+
+In any case, I would intervene, especially where there was a problem, where people had been killed.  In any case, in the month of June -- May, I hardly went out any more.  Ever since the minister of finance had warned me to be careful, I never left home.  That's all I have to say.  
+Q.	Did you have any conflict yourself with this person who broadcast the communiqué, Gaspard Rwakana? 
+A.	No.  Gaspard was an employee of ORINFOR, O-R-I-N-F-O-R, which was very important in Rwanda.  It still is today.  A country's radio/television broadcasting service is very important.  When you want to broadcast something, you have to contact the person in charge of ORINFOR in your préfecture, and it's he who decides whether he will come to the meeting, whether he'll give you an interview -- or make an interview with you.  I'm speaking to you under normal circumstances.  When there was a meeting, or something I organised, I'd call them and they'd come.  But during the genocide I never saw that boy anymore.  I think he lived in Murambi, but he never came to see me as préfet.  Even in a few meetings I organised, he did not come. 
+Q.	Now, the contents of this communiqué, speaking about manning roadblocks with brave people, checking identity cards, and fighting the enemy, this certainly doesn't sound like you.  And I was wondering if anybody called it to your attention during that time? 
+A.	Yes, of course, it doesn't come from me.  It's directly contrary to the instructions I gave the bourgmestres.  I never spoke of roadblocks.  It's perfectly clear, when you look at this document, that it is contrary to the instructions I had given.  
+
+And, I must tell you that my principle was the following:  I was telling myself that if we erected roadblocks, it would necessarily lead to killing people, because it was a question of identifying people.  And if someone came with a vehicle that came across the roadblock, that person could very well be killed by the people at the roadblock.  You know, the people who were rich had armed escorts.  And at the roadblocks, many Tutsi were killed, you know, at the roadblocks.  Many Tutsis.  I wouldn't -- couldn't erect roadblocks when my purpose was to defend the Tutsi.  I don't hide that.  I'm not ashamed to say that was my purpose.  So I couldn't erect roadblocks.  Rather, I was against roadblocks.  
+
+As I told you, I went with eight buses to evacuate people from Byimana, Mukingi commune as it was then, and now is in Ruhango district.  In that Mukingi commune, only 350 -- only 351 people were killed.  It's one of the communes where the fewest people were killed, because that's my home commune, and I defended the Tutsi there.  I went with the buses and I evacuated the people there.  And I see that some of the things I did are antipodal, directly opposite, to what is being spoken of.  And if -- these things that I'm accused of is like being slashed with a knife.  It hurts.  
+Q.	I'm not accusing you of this at all.  I'm wondering whether or not anybody mentioned to you in May of 1994 that they had heard this really strange communiqué that had been issued in your name?  Did anyone ever mention that or call that to your attention? 
+A.	No, Counsel, I don't remember that.  
+Q.	Okay.  Thank you.  Now, moving on to the 25th of May 1994, I'd like you to be shown two documents, Exhibit P. 59 and 60, and these are instructions that were given to the préfets on that day concerning the civil defence.  
+MR. ROBINSON: 
+Mr. President, I'm just going to have the witness shown Exhibit P. 59, since I've looked at P. 60 and it doesn't seem to be pertinent.  
+BY MR. ROBINSON:
+Q.	Okay.  Mr. Uwizeye, you're being given a document admitted into evidence as Prosecution Exhibit 59, and it's an instruction to the préfets from the minister of interior, Mr. Karemera at the time, on the 25th of May 1994.  And I'm wondering if you could tell us whether you ever received those instructions?  
+A.	Allow me to read through quickly.  
+Q.	No problem.  That's fine.  
+A.	I've finished going over this document, but I note that I never received this document.  I don't know it.  I did not know of it.  
+Q.	Okay.  Thank you.  That's, actually, all I wanted to ask you about concerning that document, whether you had seen it.  And now I have another question for you concerning some events that took place after that document was issued. 
+
+We have information that there was a meeting of all of the préfets, and the prime minister, Kambanda, and minister of interior, Karemera, on the 28th of May 1994 in Gitarama préfecture.  Did you attend such a meeting?  
+A.	Did you say the meeting was held in Gitarama, or in Murambi?  I'm not sure I correctly understood. 
+Q.	In Gitarama.  Within the préfecture of Gitarama, not at Murambi itself.  Did you attend such a meeting? 
+A.	No. 
+Q.	Okay.  Now, with respect to the official handover of duty when you left the office of préfet, and Major Ukilikiyeyezu took over, can you tell us whether or not you and that major were present together in the préfecture office with Mr. Karemera as minister of interior for the handover of duty?  
+MR. WEYL: 
+Mr. President?  
+THE WITNESS:
+No.  The question was put to me, and I do not remember such an occurrence. 
+MR. WEYL: 
+We need the help of the booth, because we did not get any translation at all of the question.  
+MR. ROBINSON: 
+I'll repeat the question, Mr. President, and then I'll ask Mr. Uwizeye if he could repeat his answer.  
+BY MR. ROBINSON:
+Q.	I was asking if -- whether there had occurred a handover of duty at the préfecture office among yourself, Major Ukilikiyeyezu, and the minister of interior, Édouard Karemera?  So can you give your answer again, because the French people listening didn't hear that.  
+A.	My answer was that the question has already been put to me before, that I understand it.  But that no such thing ever took place.  
+Q.	That's what I wanted to clarify with you.  Because I remember when my colleague, Ms. Diagne, asked you, you said that you didn't recall, which I thought was -- that this was something you would have recalled if it had happened.  So you're telling us that that never took place, is that correct?  
+A.	Quite.  I know nothing about that.  I don't know if there was any official handover, or how it could have taken place. 
+Q.	Okay.  Thank you very much. 
+MR. ROBINSON:  
+Now, Mr. President, I'm about to embark on what will be somewhat of a long area of examination.  I have, basically, two subjects left.  And I was just wondering -- it would be a little bit easier, I think, if we started that tomorrow morning.  I think I'm on track to finish somewhere around the mid-morning break tomorrow morning, well within my allotted time.  
+MR. PRESIDENT: 
+Mr. Webster?  If Mr. Robinson finishes by the mid-morning break, would you be able to complete your examination-in-chief of the next witness tomorrow?  
+MR. WEBSTER: 
+I don't think so.  We don't expect more than two hours, Your Honour, so I guess it is possible, but we were hoping with this witness that we'd finish her testimony in a full day; so that we could start in the morning and complete her testimony in one full -- within a full trial day.  But -- 
+MR. PRESIDENT: 
+So you, in fact, are asking that the testimony starts on Monday?  
+MR. WEBSTER: 
+My original proposal was going to be that we start with her tomorrow morning, and sit the whole day on Friday, but it doesn't look like that's possible, since Mr. Robinson hasn't finished.  Because I wanted to finish her testimony this week.  But we're ready to proceed.  So if we start at the mid-morning break, we'll do the best we can, and hopefully we'll finish her direct then.  It's really left in the Court's discretion, but we're ready to proceed. 
+MR. PRESIDENT: 
+No, no, no.  Our position's very simple, that we want to facilitate the completion of the material which we can do this session, and we want to complete it.  So our schedule is based on your assessment of the best method of achieving that goal.  So we will actually follow you, so long as the end result is as we would like it to be.  
+MR. WEBSTER: 
+My recommendation is that we start her testimony at the very beginning of a day.  So in light of the Court's comments, I would suggest that we start on Monday morning, and plan to finish her by the end of -- by the end of the day on Monday.  Should be a short witness, but I'd rather not interrupt her testimony. 
+MR. PRESIDENT: 
+Okay, thank you.  
+
+Yes.  We can take our adjournment now.  We're adjourned now until tomorrow morning.  
+(Court adjourned at 1726H) 
+(Pages 64 to 68 by Vicki Eastvold)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Kirstin McLean, Sheriffo Jammeh, Sherri Knox, Roxane Meena, and Vicki Eastvold, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	 Sheriffo Jammeh
+
+
+___________________________	Sherri Knox
+
+
+___________________________	Roxane Meena
+
+
+___________________________	Vicki Eastvold
+
+
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 18
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+SHERIFFO JAMMEH - ICTR - TRIAL CHAMBER III - page 26
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 52
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 63
+
+	KAREMERA ET AL	THURSDAY, 26 JULY 2007
+
+VICKI EASTVOLD - ICTR - TRIAL CHAMBER III - page 68
+
+	KAREMERA ET AL		THURSDAY, 26 JULY 2007
+
+ICTR - TRIAL CHAMBER III
+

@@ -1,0 +1,796 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+FRIDAY, 24 FEBRUARY 2006
+0936H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Constant K. Hometowu
+	Mr. Issu Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Mr. Gregory Lombardi
+
+For the Accused Édouard Karemera:
+	Mr. Felix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	
+Court Reporters:
+	Ms. Ann Burum
+	Ms. Karen Holm
+	Ms. Wendy Molnar
+	Ms. Jennifer Spring
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS UB
+Examination-in-chief by Mr. Morley (continued)	4
+
+
+EXTRACT
+Extract	17
+Extract	18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, would you please open the proceedings. 
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding; Judge Emile Francis Short; and Judge Gustave Kam, is now sitting in open session today, Friday, 24th February 2006, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al., Case Number ICTR-98-44-T. 
+
+Thank you. 
+MR. PRESIDENT:
+Thank you very much, Mr. Registrar.  
+
+Appearances, please. 
+MR. WEBSTER:
+Good morning, Your Honours, and good morning to the parties and the registry.  The Prosecutor is represented by myself, Don Webster; Iain Morley; Gregory Lombardi.  
+
+The record should also reflect the presence of our researcher, Elena Rubinov; and crime analyst, Massamba Ndiaye; and our ALO, Takeh Sendze.  Thank you.  
+MR. PRESIDENT:
+Thank you very much.  
+MR. SOW:
+Good morning, Mr. President, Your Honours, ladies and gentlemen of the Prosecution.  
+
+I should like to point out the absence of Ms. -- Madam Diagne, lead counsel, who apologises.  He (sic) is visiting Mr. Karemera (unintelligible) -- Mr. Karemera.  I am Mr. Felix Sow, and I am, therefore, here for Mr. Karemera. 
+MS. HOUNKPATIN:
+Mr. President, Madam -- Your Honours, Chantal Hounkpatin for Ngirumpatse, Mathiew, helped by Anta Guissé. 
+MR. ROBINSON:
+Good morning, Mr. President, members of the Trial Chamber.  Peter Robinson and 
+Leopold Nsengiyumva for Joseph Nzirorera. 
+MR. PRESIDENT:
+Thank you very much.  
+
+I think -- Mr. Sow, I think we have had another medical report concerning Mr. Karemera, and I would just ask the registrar to put it on the record, please.  
+MR. HOMETOWU:
+Mr. President, we received two medical reports in respect of Karemera, one written by Dr. GB Chamba, who is a specialist physician.  The subject:  Detainee Édouard Karemera.  "One:  Following the request from the Chamber, I have reevaluated the detainee, Édouard Karemera.  I have found out that he has reacted to one of the drugs prescribed, which has caused side effect of dryness of mouth and excessive sleeping.  
+
+"Two:  I have decided to stop the medicine which was giving these effects, and an alternative drug has been prescribed which will not cause the above side effects.  
+
+"Three:  During physical and neurological examination, it was noted that his general condition has improved and he is now able to walk with less pain.  
+
+"Four:  Recommendation:  Detainee Karemera should be able to attend court sessions as recommended by Dr. Maya.  
+
+"Submitted for your information.  Best regard to the Presiding Judge, Trial Chamber III, copy to Dr. Adama Dieng, Registrar; and copy to Dr. M. Epée, Chief, Medical Section.  Dated 23rd February 2006." 
+
+Your Honours, the second letter, also dated 23rd February 2006, was written by George Kente, who is a physiotherapist at the Mount Meru Hospital.  "Subject:  Detainee Édouard Karemera.  One:  As requested by the Chamber, I wish to inform you that I have treated -- I have been treating detainee Édouard Karemera with degenerative changes of the lumbar spine.  His main complaints were as follows:  Radiating pain from the lumbar spine downwards to the knee posteriorly to the right ankle.  Treatment given were as follows for five sessions:  Deep heat therapy and massage.  
+
+"After today's treatment, I have noted that there is no additional pain.  He still has mild pain.  
+
+"Submitted for your information.  Best regard."  Addressed to the Presiding Judge, Trial Chamber III, copy to Mr. Adama Dieng, the Registrar, and copy to Dr. M. Epée, Chief, Medical Section.  This is also dated 23rd February 2006.  
+
+Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+MR. SOW:
+Most grateful.  I met Mr. Karemera, and indeed he's getting better.  And I believe that, with the new medication, next week he will be in a position to attend court.  It might be reasonable to -- he told me that he had persistent constipation, and probably that has affected his general health.  But I believe that by next week he should be able to attend court.  
+
+I'm most grateful -- I'm most grateful to this (unintelligible) Court for all that has been done for all these measures to be taken, sir. 
+MR. PRESIDENT:
+Thank you, Mr. Sow.  
+
+I think we will proceed with the testimony.  
+
+Mr. Morley, although we have been considering the -- the matter on which we ended yesterday, we have not as yet reached a decision.  Although it might mean a little bit of alteration of your sequencing, we'd be grateful if you could proceed and come back to this later when we will be ready to adjudicate.  
+MR. MORLEY:
+Your Honours, yes.  The Murambi and Kibungo rallies, we understand, were before the Hutu Power rally, and I'm going to deal with the Hutu Power rally at this point.  So if we do come back to those rallies, Your Honours can fit those rallies into the chronology. 
+MR. PRESIDENT:
+Thank you very much. 
+MR. ROBINSON:
+Excuse me, Mr. President.  Just before we proceed with the testimony, I would just like to note our objection to proceeding today in the absence of Mr. Karemera, for the record, and I would like to also note that I think the medical report you've just received, which indicates that he did have, in fact, excessive sleeping, demonstrated that it was error to have taken the testimony yesterday in his absence.  So I just put that on the record.  Thank you. 
+MR. PRESIDENT:
+It's noted.  
+
+Mr. Witness, your evidence will continue this morning.  I remind you that you're under the same oath to tell the truth that you took when you began your testimony. 
+
+I'm sorry.  I notice that you have just put on your headphone, so I will repeat that your evidence will continue this morning and that you're reminded that you are on the same oath to tell the truth that you took when your testimony commenced.  Do you understand?  
+THE WITNESS:
+Yes, I do, Mr. President.
+WITNESS UB
+EXAMINATION-IN-CHIEF (continued)
+BY MR. MORLEY:
+Q.	Mr. Witness, yesterday we had reached a point where there had been the assassination of the president of Burundi, President Ndadaye, and there had been a gathering of the various political parties at the Nyamirambo stadium.  You mentioned that you had received a telephone call from Ngirumpatse.  Can you remind us what it was that you were told to do, please, in respect of that rally?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I want to object to Mr. Morley.  I believe that Mr. Morley has misstated the evidence.  I don't think he said that he personally received a call from Mr. Ngirumpatse.  And perhaps that can be clarified before leading on that issue. 
+MR. MORLEY:
+If I've misstated the evidence, my error. 
+BY MR. MORLEY:
+Q.	Let me enquire again:  You said yesterday there had been a telephone call from Ngirumpatse.  Did you receive that call, or was it received by others? 
+A.	He called Jean Habyarimana, president of the party at préfectoral level.  Mathieu Ngirumpatse did not call me over the telephone.
+MR. MORLEY:
+Thank you, Mr. Robinson.  
+BY MR. MORLEY:
+Q.	As a result of that call, did you go to the stadium? 
+A.	Yes, yes.  (Unintelligible) what Habyarimana did, he called the members of the préfectoral committee, the party leaders at communal level, and asked us to announce that everybody should go to the regional stadium in Kigali so that the MRND people could come together with the rest of the people at the regional stadium in Kigali, which we did, which we did. 
+Q.	At that rally, can you help us, was Ngirumpatse present or not? 
+A.	Ngirumpatse wasn't there.  The person that made this speech was Jean Habyarimana, the MRND president at the level of Kigali préfecture, sir. 
+Q.	Was either Karemera or Nzirorera there, or not? 
+A.	Yes, sir.  Karemera came by the end of the meeting.  Nzirorera was not there that day.  
+Q.	Was Froduald Karamira there, the leader of the MDR? 
+A.	Yes, yes, he was there.  He represented the MRND party at that meeting. 
+Q.	Was there an expression of Hutu Power that took place at that rally? 
+A.	Yes, sir, that expression was used by the MDR leaders.  They talked about Hutu Power, and they talked about Interahamwe power, PSD Power, PSD Power.  Those were the utterances he said at that rally in Kigali. 
+MR. MORLEY:
+May I mention there may have been a translation error?  Froduald Karamira, in translation, seems to have come out as a member of the MRND rather than the MDR. 
+MR. PRESIDENT:
+Could you -- you can correct it for the witness again...(inaudible). 
+THE ENGLISH INTERPRETER:
+(Unintelligible)...from the Kinyarwanda interpreter. 
+MR. PRESIDENT:
+You are correct that there was such an error, but it's noted now. 
+MR. MORLEY:
+I thank you.  
+BY MR. MORLEY:
+Q.	What was the mood of the meeting with regard to the Tutsi? 
+A.	All the speeches made there talked about Tutsi as the enemy.  It was being said that the Tutsi were behind the death of the president.  And there were various youth wings of various political parties, so one could see that people were against the Tutsi.  And immediately after the meeting, some Tutsi houses were destroyed, at least in the neighbourhood in which I lived.  
+Q.	How long was Édouard Karemera present at that rally? 
+A.	He arrived by the end of the meeting.  Indeed, Habyarimana told us that (unintelligible) was going to come as an MDR national leader, but Karemera did not speak at that meeting.  He simply talked to Jean Habyarimana. 
+Q.	Was Édouard Karemera present for any of the speeches and utterances of an anti-Tutsi nature? 
+A.	I have just told you that he came by the end of the meeting.  By the end of the rally, people were going away.  People were saying (unintelligible) that the Tutsi were going to cause problems for us.  He came when we were going home. 
+Q.	Did anything happen to local Tutsi as people left the stadium? 
+A.	Yes, sir.  I just told you that Nyamirambo, at least, because we'll have to go through Nyamirambo to go back to town -- to go downtown, the Tutsi that lived around that area were beaten up.  Stones were thrown at some of them, and some of the Tutsi houses were destroyed.  And, moreover, other people were hurt.  Some were compelled to flee.  
+Q.	Who were hurting the Tutsi as the rally came to an end? 
+A.	(Unintelligible)...the Interahamwe, sir, together with a MDR youth wing that they used to call Inkuba.  And because of all of that, they went through Biryogo and Nyakabanda to go downtown.  In Giteka, they were beating people up, (unintelligible)...but the most virulent were the Interahamwe that -- and the CDR youth wing.  The most virulent.  
+Q.	Did Karemera have any authority over the Interahamwe as a member of the executive bureau? 
+A.	He was vice-president of the party, sir, and according to the statutes or constitution, he would replace the president of the party.  (Unintelligible)...he had full powers over the Interahamwe, just like the president, sir. 
+Q.	Did you observe him to attempt to exercise any authority over the Interahamwe to prevent them beating up and destroying Tutsis? 
+A.	No, sir.  He didn't do anything.  He did not do anything.  Moreover, even his juniors at communal level didn't do anything.  He went out (unintelligible) his vehicle.  People were applauding him, and people were praising him as one of the leaders of the party.  
+Q.	By the end of 1993, can you give us some idea as to how many Interahamwe there were in Kigali?  Any idea? 
+A.	No.  I wasn't responsible for counting the Interahamwe, but in Kigali there were lots of Interahamwe members.  Now, when the MRND was there, they had a considerable number of members.  MRND was very powerful in Kigali-ville so that the Interahamwe were there in myriads.  
+Q.	On that particular day -- 
+MR. PRESIDENT:
+Excuse me.  The interpreter used a very interesting word.  Could it just be repeated? 
+THE ENGLISH INTERPRETER:
+Myriad, great numbers. 
+MR. MORLEY:
+I'm anticipating that is "myriads." 
+THE ENGLISH INTERPRETER:
+"Myriads," indeed. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	On that particular day at that rally, were the Interahamwe in their uniform? 
+A.	Those who wore uniforms were those that performed physically in rallies.  They performed.  The majority of the Interahamwe and top Interahamwe didn't wear uniforms.  But you could see other Interahamwe according to their ranks.  They wore caps and hats and -- and the Interahamwe wore kitenge uniforms in general. 
+Q.	And were they carrying traditional weapons or not? 
+A.	No, not firearms shown outwardly.  But they were around and wouldn't see firearms.  So we can't say that they wore -- they had firearms.  But some of them had clubs, some type of weapon to show their power.  
+Q.	When you described Tutsis were beaten -- 
+MR. PRESIDENT:
+Just a clarification.  I don't understand.  He said we can -- (unintelligible)...they wore "hat firearms."  You know what that means?
+MR. MORLEY:
+I thought he said we can't say if they had firearms. 
+MR. PRESIDENT:
+That they had firearms? 
+MR. MORLEY:
+That's what I thought he was saying.  My question was about traditional weapons, but in the translation he seems to have assumed I was asking about weapons, which he interprets as being firearms.  And so he's come out with the answer, "can't say if they had firearms," but he's gone on to say they were carrying clubs and other things.  Does that assist?  
+MR. PRESIDENT:
+It does.  
+BY MR. MORLEY:
+Q.	Now, when you described Tutsis were beaten as the Interahamwe left the rally, how severely?  Was anybody killed, do you know, or not? 
+A.	I -- talking from my point of view, because I was reporting to my senior officials, people were hurt.  People had to receive medical treatment.  Some people had their houses destroyed in that area, in that area along the road, not in the countryside.  There the people were -- their houses were destroyed.  I did not see any dead bodies.  But when you look at what was done to the Tutsi on that day, you would interpret it as being that the Tutsi had no value at all.  Nobody came to help.  The gendarme...(unintelligible)...they didn't come.  And along the road, nobody helped, whereas help was being asked for.  Those who were able to go and ask for help were neglected, so to speak.  
+Q.	Can you give us some idea of the approximate number of Interahamwe who attended that rally and then left and engaged beating the Tutsi?  Give us a figure of some sort.  
+A.	(Unintelligible)...Nyamirambo was heavily populated, and in each secteur, you would have 50 Interahamwe coming in to rallies.  And, indeed, five Interahamwe could attack houses without anybody being able to do anything about it.  
+MR. PRESIDENT:
+(Microphones overlapping) 
+THE ENGLISH INTERPRETER:
+Five.  
+THE WITNESS:
+The Interahamwe were at the (unintelligible) Nyamirambo stadium, where 500 -- and that's an approximate figure, taking into account the circumstances at that time.  
+MR. MORLEY:
+Does that assist?  
+MR. PRESIDENT:
+Well, that's what he says. 
+MR. MORLEY:
+Fine.  
+BY MR. MORLEY:
+Q.	Now, Witness, it's a matter of record that there was another rally at the Nyamirambo stadium on the 
+	7th of November of 1993 at which Ngirumpatse spoke.  Did you attend a rally shortly after the one you've just described in which you observed Ngirumpatse speaking? 
+A.	Yes, I did attend that rally in Nyamirambo.  As I explained, I was one of the members of the préfectoral MRND committee in Kigali urban, so when there was a rally in my area where I had a position, we had to prepare ourselves to receive the MRND -- the leading MRND figures, just as one did in any préfecture in the country.  
+Q.	It's a matter of record that Ngirumpatse on the 7th of November said certain things about the Interahamwe, and I am now referring to Mr. Robinson's Exhibit ID. NZ8C.  What I propose to do is read you a short section of it and ask you what he's talking about.  
+
+Mr. Ngirumpatse talks about how the Interahamwe have become infamous in other parts of the world.  And I'm quoting from Mr. Robinson's document.  He says this:  "The young people who are members of the Interahamwe are brave, and the young girls who are members of it are courageous.  Indeed, the Interahamwe were the object of calumnies.  Either in Asia, in America, or in Europe, I believe that the term 'Interahamwe --' there is no European that doesn't know the term 'Interahamwe.'  These calumnies didn't have an effect because, if the Europeans learned to fear the Interahamwe, it is a correct attitude." 
+
+Now, do you understand what I've read to you? 
+A.	Yes, I understood what you just read out.  
+Q.	What is your understanding of why it would be right for people to fear the Interahamwe? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to this as being irrelevant.  (Unintelligible)...we now know exactly what Mr. Ngirumpatse said.  I don't see the relevance of what this witness's understanding of that is.  
+
+And also I would like to state for the record that the exhibit that Mr. Morley referred to was actually -- he had an ID number that he gave at the beginning, but it was later admitted as D. NZ51.  
+MS. HOUNKPATIN:
+Mr. President, I should like to supplement Counsel Robinson's objection because the way in which that speech has been read out is not normal because items have been omitted, and I don't think that as -- that that is the relevant, pertinent way of introducing that document.  
+MR. MORLEY:
+I'm grateful to Mr. Robinson for updating D. NZ51.  As for my learned friend's observation that this is irrelevant, the issue is not simply what was said.  Your Honours know that there is also the question of what the effect of what was said was, how it was interpreted.  And this is a man who was present at the rally.  He can give us some assistance as to what impact these words had.  
+
+As for my learned friend's observation, representing Mr. Ngirumpatse, that the document requires introduction by going through, I suppose, all of it, I respectfully submit the document's in evidence and it is something that I can use, as I did, as Your Honours recall, when reexamining the Witness G to identify sections which are of interest in the way that I just have.  I respectfully submit the second objection is without foundation.  The first objection, I respectfully submit, is not right.  It's not just what was said; it's how it was interpreted.  
+MR. PRESIDENT:
+Yes, Mr. Morley.  You may ask the question. 
+MR. MORLEY:
+Thank you. 
+BY MR. MORLEY:
+Q.	What I'm trying to get at, Witness, is what -- what impression was created in your mind by hearing the leader of the MRND suggesting that it was a correct attitude to fear the Interahamwe? 
+A.	Were I to say that reacted (sic) one day or another it might not be very convincing.  But I can tell you one thing:  We Rwandans often express ourselves in proverbs.  And when people make allusions, we understand what they mean.  So if we say the Interahamwe were feared, we knew ourselves that they were already feared because of the acts -- the criminal acts they had perpetrated.  
+
+The Interahamwe were already redoubtable, and they looked over the interests of the MRND -- MRND.  They were propagandists for the party.  They looked for recruits, and they were feared because of their strength.  So it -- it wasn't in 1993 that they began attacking Tutsi.  Even before that they had begun doing that, and we felt that the leadership, the eminent figures, supported the Interahamwe in their reprehensible acts. 
+Q.	It's a matter of record that on the 11th of January 1994 there was a communication from somebody within the Interahamwe to somebody within the United Nations UNAMIR force.  I want to ask you about some of the contents of what seems to have been said to UNAMIR to see what you make of it.  I'm referring now to Mr. Robinson's Exhibit D. NZ15B, which is also to be found at tab 85 of the hard copy exhibits.  
+MR. MORLEY:
+Your Honours will be familiar with this document.  It's the telegram which was sent by General Dallaire in respect of the informant. 
+BY MR. MORLEY:
+Q.	I don't propose to take you through the entire document.  There are just some aspects of it I wish to ask you about. 
+
+At paragraph 5 of the telegram, it is reported that an informant has told UNAMIR the following:  "Interahamwe has trained 1700 men in RGF military camps outside the capital."  
+
+Just pausing there, from all you understood that had been happening with the Interahamwe, by the 
+11th of January of 1994, do you have any observations on whether the suggestion 1700 people had been trained in military camps might be right or wrong, or do you have any thoughts? 
+A.	I can't say anything with -- in respect of the training.  I can't say any more.  They were trained militarily, as I've stated.  As to the informant, I think that the figure is less than I would have imagined in relation to what I knew.  Otherwise, I also confirm that until 1993 the Interahamwe had been trained inasmuch -- even in my area the Interahamwe had been trained, not only in Kigali but throughout Rwanda, because the Interahamwe were everywhere throughout the country.  
+
+Moreover, in respect of Kigali town, people would leave for the military camps in buses.  We thought that they were the young people selected to be enrolled in the army, but after the training they'd come back to wherever they lived.  As to figures, I can't be exact, but I can confirm that the Interahamwe, the youth attached to the MRND, had been trained until 1993 -- up through to 1993.  
+Q.	At paragraph 6 of the document, it says that the principal aim of the Interahamwe in the past was to protect Kigali from the RPF.  Since the UNAMIR mandate, he, the informant, has been ordered to register all Tutsi in Kigali.  He suspects it is for their extermination.  Example he gave was that in 
+	20 minutes his personnel could kill up to 1,000 Tutsis. 
+
+Now, do you understand what I have read to you? 
+A.	I understand.  
+Q.	Are you aware of any requirement in early 1994 to register the Tutsi? 
+A.	Yes.  That operation did take place because, as I told you, the Interahamwe were present at all party levels, which means that those who were Interahamwe at cellule level would make a census of those people and transmit the results to the superior bodies.  
+Q.	As the Interahamwe were making a census at cellule level of Tutsis, where would the lists eventually end up?  You described them being passed up to the superior levels.  What do you mean by that?  Where did those lists end up? 
+A.	Within Kigali there were Interahamwe and around and about the town.  Each secteur was represented.  Each secteur had a representative.  Now, as to how it worked, at cellule level a census was made.  It was transmitted to the secteural level and so on, all the way up to the national bureau -- national MRND bureau, it being understood in the meantime that there were very many Interahamwe in Kigali.  That is how those bodies functioned -- or, organs functioned.  So at the end all the information wound up at the national level. 
+Q.	Just remind us, what are the names of the people who were at national level who you understand ended up with those lists of Tutsi, please? 
+A.	The members of the national level at the time were Mathieu Ngirumpatse, president; national secretary in charge of daily management, Nzirorera, Joseph.  They were the people who essentially followed closely party activities.  As I've told you, Mathieu was assisted by his vice-president, Édouard Karemera and Kabagema, who was also vice-president.  Those are the four people who made up the national bureau of the MRND party.  
+MR. ROBINSON:
+Excuse me, Mr. President.  I wonder if Mr. Morley can inform me where in the disclosure that this witness has talked about the compiling of lists of Tutsis.  I'm unable to find that in my notes.  
+MR. MORLEY:
+Well, we can break for half an hour whilst I go through what is probably about 50 pages of material, or we can look at it over the break, which is coming up in about 5 minutes' time. 
+MR. PRESIDENT:
+That's a preferable solution. 
+MR. MORLEY:
+Thank you. 
+BY MR. MORLEY:
+Q.	Now, the informant said in that paragraph in respect of the lists, I read the sentence again:  "He suspects it is for their extermination."  
+
+What do you make of that being said to a member of UNAMIR by a member of the Interahamwe?  Do you have any thoughts about that?
+A.	I cannot comment on that information because I was not present when the informer in question talked to UNAMIR.  But at the outset of the genocide, the first few days when people were being killed, they used lists.  The soldiers went around with lists looking for one person or another.  So that shows that the lists had been drawn up in advance, before the killing began.  
+Q.	There's, then, the sentence, "Example he gave was that in 20 minutes his personnel could kill up to a thousand Tutsis."  
+What do you make of that?  Is that right?  Wrong?  Any thoughts? 
+A.	As far as I'm concerned, that's quite possible because when you kill someone who doesn't resist, who doesn't fight back, it's like killing a cow.  You can kill 500 cows, 500 goats very quickly.  Moreover, the Interahamwe had been trained and had materiel.  They had -- at the outset of the genocide, they had firearms, grenades.  And for those conversant in military matters, you could say that you'd throw a grenade and in an instant a hundred people would be killed.  So it's quite possible those people were killed like goats.  They were told to lie down, and they were killed.  So I cannot contradict that because in three days approximately 5,000 people were killed in Kigali town.  So I cannot contradict that information.  
+MR. MORLEY:
+Is that a convenient moment, Your Honour?  
+MR. PRESIDENT:
+Yes.  We'll take the midmorning break now.  
+(Court recessed at 1027H) 
+(Pages 1 to 12 by Ann Burum)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1102H) 
+MR. ROBINSON:
+Mr. President, I just wanted to advise you that I had raised the issue as to whether there was disclosure of the lists of Tutsi, and Mr. Morley has pointed out to me that there is that information in the disclosure, so I have no problem with that.  
+MR. PRESIDENT:
+Thank you, Mr. Robinson.  
+MR. MORLEY:
+May I just thank Mr. Robinson?  The disclosure was at K0357098, paragraph 25.  I know that Mr. Robinson has a job to do, and no doubt the Court observes that he does it very well, but I would invite that insofar as it is possible, before my learned friend leaps to his feet, if it is possible, he's pretty sure of his position.  The reason why I mention that is because it takes me a little time to find what Mr. Robinson ought to have known in any event.  And I almost missed my coffee, and Your Honour will appreciate that if I don't get my coffee, I become a bear with a very sore head.  But I know Mr. Robinson has a lot to do, and I will help him as much as I can.  
+MR. PRESIDENT:
+Thank you, Mr. Morley. 
+MR. MORLEY:
+If I may continue with the witness. 
+MR. PRESIDENT:
+Yes.  
+BY MR. MORLEY:
+Q.	Were you aware of an acquisition of a number of firearms by Turatsinze sometime around early 1994?  
+A.	Yes.  Turatsinze had received weapons before 1994. 
+Q.	Do you have any idea as to how many weapons he received? 
+A.	At that time he received 600 guns. 
+Q.	Where do you understand he received them from?  
+A.	Those guns came from the chief of staff, of the national army, that is. 
+MR. PRESIDENT:
+I'm sorry, Mr. Morley.  
+MR. MORLEY:
+Guns from the chief of staff, 600 in number.  
+BY MR. MORLEY:
+Q.	Now, remind us, who was Turatsinze's boss? 
+A.	That was Mathieu Ngirumpatse who was the party president, at national level, that is. 
+Q.	You've told us that you knew Turatsinze personally and that you knew what his job was.  From your knowledge of him and his job, would he have been able to get 600 guns from the chief of staff of the army on his own, without any reference to anyone in the executive bureau of the MRND?  
+MR. ROBINSON:
+Excuse me, Mr. President.  
+
+Excuse me, Mr. Witness.  May I just make an intervention before you answer?  
+
+Mr. President, Mr. Morley often says I'm bringing the cart before the horse and so I waited for the cart to come, and it never came.  I think, before we go any further with this, there should be some evidence of foundation as to how this witness knows the information that he's just given us that there were 600 guns received by Turatsinze before 1994 from the chief of staff of the national army.  Then I think it would be proper for him to go about explaining the -- his theory of how it could have been done. 
+MR. MORLEY:
+I respectfully agree.  
+BY MR. MORLEY:
+Q.	How do you know that there were 600 guns given to Turatsinze by the army chief of staff?  What is your source of information? 
+A.	I had that information.  Turatsinze himself told me.  He told me that the guns were there, and that the guns had only been distributed to certain people.  Turatsinze was treasurer.  He was coordinator of Interahamwe activities at national level.  He was an agent of the executive bureau of the MRND.  He had an office.  He was paid to do that job.  It was not, therefore, him that went to the chief of staff's office to get the guns.  It was, therefore, the president of the party that asked him to keep the guns -- to get the guns.  He couldn't obtain the guns without the approval of the president of the party.  And, indeed, before the war there were people who had guns, those guns. 
+Q.	Do you know where the guns were kept or moved to when Turatsinze acquired these 600?  
+A.	So far as we were concerned, the guns were not that many to be deposited or kept somewhere.  There were not many.  But the guns were kept in the public works department in Kigali.  It was Habyarimana's brother-in-law that was responsible for that department.  And then the guns were taken to Kimihurura, at Kubwimana, Silas's residence.  He was an MRND leader in the commune of Taba, sir.  
+Q.	Who were the guns for? 
+A.	They were meant to kill people.  They were not destined to kill animals.  There were problems between political parties; that's it.  And then, later, we understood why the guns were distributed.  It doesn't matter how many there were.  They were distributed.  They were used to kill people. 
+Q.	It may be the question that you heard was, "What were the guns for?"  My question was, in fact:  Who were the guns for?  Who were they to be distributed to? 
+A.	Those guns belonged to the MRND party and they were to be distributed to the Interahamwe, sir.  The Interahamwe had already been trained, so they were to be given guns after their training. 
+Q.	As part of the Arusha Peace Accords, which anticipated some power sharing with the RPF, it's a matter of record that the United Nations put in place a United Nations force, UNAMIR, which had the task, amongst many other things, of seeking to disarm militias.  Now, can I ask you, in respect of the Interahamwe receiving guns from the MRND:  Are you aware of what steps the MRND took to ensure that the Interahamwe was disarmed, consistent with the Arusha Peace Accords?  
+A.	Nothing was done, sir, for the following reason.  If those arms came from the military camps and kept somewhere, the MRND didn't want anybody to know that the party had weapons and that the Interahamwe had become militia that had weapons, so that I don't know what the MRND did to disarm those militia and to implement the Arusha Accords, sir. 
+Q.	Are you aware of what would happen when UNAMIR embarked on a search for weapons? 
+A.	No, sir, I don't know what happened, but you would understand that if UNAMIR wanted to disarm the militia, there would have been fighting, but that didn't happen.  UNAMIR didn't disarm the militia. 
+Q.	It's my mistake.  The question was clumsy.  Are you aware of any steps which may have been taken to prevent arms possessed by the MRND falling into the hands of UNAMIR? 
+A.	Could the Prosecutor kindly repeat the question?  
+Q.	When UNAMIR conducted its searches, are you aware of whether any steps were taken by the MRND to prevent the arms being found? 
+A.	Sir, in my opinion, what the MRND did is that the weapons were taken from one location to another to be hidden to another -- in another location so the UNAMIR wouldn't find these weapons.  So far as the MRND -- the strategy or MRND decision was concerned to give back the arms to UNAMIR, that was not done.  The MRND just took the weapons from one location and hid them in another location, sir. 
+Q.	Who would tip off those hiding the weapons that the weapons would have to be moved?  
+A.	If Turatsinze was in the executive office as an agent of MRND at national level.  He was working in the executive office of the MRND.  Now, if there was anyone to make a decision, it would be Ngirumpatse and Nzirorera.  They were the people responsible for the daily running of the party, and they were the people to make decisions to be carried out by Turatsinze.  They were his bosses, sir. 
+Q.	Do you know how it is that Ngirumpatse or Nzirorera would learn that the weapons would need to be moved? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I believe that assumes a fact not in evidence.  The witness has not said that Mr. Nzirorera or Mr. Ngirumpatse had ever learned that weapons needed to be moved.  
+MR. MORLEY:
+It was my understanding of the answer.  If it's an inadequate or an improper understanding, then I'll come at the question from a different angle. 
+MR. PRESIDENT:
+Well, you might as well do that.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Did the executive bureau have relations with the other ministries within the Rwandan government? 
+A.	Yes, sir, the executive bureau was also responsible for relations between MRND and other parties, and MRND and the Rwandan government.  And so far as the other members of the MRND were concerned, the MRND took itself as the major party, the powerful, overbearing party that could have any contacts with any minister.  And the MRND had several ministerial posts in the government, sir. 
+Q.	Was the ministry of defence, in early 1994, an MRND member? 
+A.	Yes, sir. 
+Q.	Did the executive bureau have a relationship with the MRND minister of defence? 
+A.	Yes.  The executive bureau had authority over their ministers within the government, be it the ministry of home affairs, the ministry of defence, and they could all be summoned by the executive committee for one or the other reason -- one reason or the other, sir. 
+Q.	Now, it's a matter of record that if UNAMIR wanted to conduct a search, it had to consult the ministry of defence.  What I wanted to ask you is:  If UNAMIR alerted the ministry of defence that a search was going to be conducted, what would happen to that information, to your knowledge?  
+MR. ROBINSON:
+Excuse me, Mr. President, this is calling for speculation.  
+MR. MORLEY:
+I've come at the question from a different angle.  I've gone around the back door.  I thought I had the answer a little earlier on. 
+MR. PRESIDENT:
+Continue, Mr. Morley; I think the question is permissible.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Okay, so let's ask the question again.  If UNAMIR had to alert the ministry of defence that a search was going to be conducted, to your knowledge, what would happen to that information once the ministry of defence was aware a search for weapons would take place?  
+MR. ROBINSON:
+Excuse me -- 
+JUDGE SHORT:
+Hold on.  Hold on.  
+MR. PRESIDENT:
+Mr. Morley, that last question really is speculative. 
+MR. MORLEY:
+All right.  I've got a third angle.  I'm going in the window now.  
+
+BY MR. MORLEY:
+Q.	Are you aware of any incidents where guns were moved, and if so, what was the source of information that the guns should be moved?  
+A.	By order of the Court, this name has been extracted and filed under seal)
+	(Pages 13 to 17 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H 
+BY MR. MORLEY:
+Q.	What information was given to who, please?  
+A.	(By order of the Court, this portion of the transcript has been extracted and filed under seal)
+MR. ROBINSON:
+Yes, Mr. President, I'm going to ask that that answer be stricken because it is speculation.  In his own language he's saying, if the minister of Defence was informed, he would inform the members of the bureau.  He has no personal information or even second-hand information.  He's just speculating, and I'd ask that it be stricken.  
+MR. MORLEY:
+Stricken, no, but it's a matter of weight, insofar as he knows the way the Rwandan system worked, certain inferences can be drawn that if the MRND minister of defence is alerted that there's going to be a search for weapons, and there's a relationship between the MRND minister of defence and the MRND executive bureau, and that somehow Turatsinze is then communicating to the Interahamwe to move weapons, one can draw inferences, but insofar as this witness is not able to say, "I have an example of specifically on the following day, the following was said," my learned friend has a point.  So it really is a matter of weight, rather than a matter of striking, as the Americans put it, the record.  
+JUDGE SHORT:
+I think it's the responsibility of the Chamber to draw inferences rather than the witnesses -- than the witness.  
+MR. MORLEY:
+If I can do it, I'll get the witness to draw the inference for Your Honours, but insofar as the inference is there, it is always ultimately a matter for the Chamber, but the advocate's job is to try and draw the inference as closely and as tightly as possible to the attention of the Bench.  
+JUDGE SHORT:
+That is speculating, isn't it?  
+MR. MORLEY:
+I would respectfully submit, "speculating" is too wide a word.  He is offering an understanding of the way in which things work, against being unable to say, as his evidence now is, a specific example of something being communicated to him.  He is someone who is familiar with the mechanisms of government and communication within Rwanda, familiar with the fact that weapons were in the hands of the Interahamwe and they were being hidden, and they were not being found as a result of searches because they were being moved.  He's familiar with the fact that Turatsinze would communicate that weapons should be moved.  And it doesn't take an enormous amount of direct knowledge for someone in his position to be able to articulate that there must have been a line of communication from the ministry of defence to the executive bureau and then on to Turatsinze.  It's inferential in his mind and a matter of weight for the Court.  
+MR. ROBINSON:
+Mr. President, I would say that I still persist in my request that this be stricken.  He can lay out all the facts, but when he asks the witness to make the inference, as he did in the last question, by speculating, that is taking it too far.  
+JUDGE SHORT:
+I think we've decided that that evidence should be struck.  
+MR. MORLEY:
+Specifically what evidence, Your Honours?  The -- when one says -- 
+JUDGE SHORT:
+The inference that the witness -- that the witness drew, that this information could have been passed on by the minister to the MRND.  
+MR. MORLEY:
+Very well.  
+BY MR. MORLEY:
+Q.	Who would tell the Interahamwe to move their weapons?  
+A.	By Turatsinze and the Interahamwe under him, which means that he'd received orders from the national party president.  
+MR. ROBINSON:
+Well, I move that that last answer be -- 
+JUDGE SHORT:
+You know the word "would," "Who would tell the Interahamwe to move the weapons," it's either, "Who told the Interahamwe to move the weapons," if the witness knows, or you're asking him, "Who is likely to have told the Interahamwe to move the weapons?"
+MR. MORLEY:
+If I may ask the witness.  
+BY MR. MORLEY:
+Q.	When you say Turatsinze would communicate, do you know whether he did or did not do so, from your knowledge of him and from having speaken -- spoken to him?  
+A.	Yes, he did.  I told you that he knew that he should move the arms elsewhere.  That's the proof.  I spoke with Turatsinze.  I asked him who was supposed to be the beneficiaries of the firearms in my secteur, and I made a report on that subject.  I reported there were Interahamwe who were in the possession of firearms in the secteur and under my control.  
+Q.	Who did he say had told him to move the weapons?  
+A.	I could not ask to know more because Turatsinze was an important person.  It wasn't necessary to ask him for details such as where the orders had emanated from.  All I know is that he was an important figure in the national bureau, and I knew he could not take such a decision without the approval of his superiors.  And as to whether I could ask him who exactly had given him the orders, I could not do so.  We understood each other, but I knew -- and I knew that he couldn't take such a decision without the approval of his hierarchical superiors.  
+Q.	And who were his hierarchical superiors?  
+MR. PRESIDENT:
+Mr. Morley, you have asked that question so often and it's answered so often. 
+MR. MORLEY:
+I just want to be sure that I finally got into the house perhaps by coming down the chimney.  
+MR. PRESIDENT:
+All right.  
+MR. MORLEY:
+If the point is there at this stage and not stricken from the record, I'll move on.  
+MR. PRESIDENT:
+Well, that point is there.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	I want to take you now to what we know on the record is a speech which was made by Mathieu Ngirumpatse on the 16th of January of 1994.  Just pause there for a moment.  This was a rally which took place at Nyamirambo on, I say, the 16th of January 1994.  Do you recall whether you were present at a rally in early January of 1994 of the MRND at which Mathieu Ngirumpatse spoke?  
+A.	Yes, I remember that rally.  It was in Nyamirambo.  Even if it was a Kigali-city meeting, Mathieu took the floor.  Mathieu took the floor as a distinguished visitor on the occasion of that rally.  
+Q.	It is a matter of record as Prosecution Exhibit 14 at what is tab 152 of the hard-copy exhibits, that at page -- 
+MR. PRESIDENT:
+Sorry, tab number?  
+MR. MORLEY:
+Tab 152 -- at page 8, K-number K0244826, in the last paragraph of that page, in the third line -- no -- the second line of that last paragraph, Ngirumpatse says the following -- and I look to Your Honours to see whether the electronic system is working and you have the relevant page.  
+MR. PRESIDENT:
+(Microphone not activated)
+MR. MORLEY:
+Fair enough.
+BY MR. MORLEY:
+Q.	I'm going to read to you just a number of sentences.  Ngirumpatse says:  "All I want to tell you is that today's lesson is that you should cast a glance to the past and see that we are now at a crossroads in the history of our country and that the events of 1959, 1960, and 1961, that we went through are about to re-occur." 
+
+And over the page, page 9, at K0244827, Ngirumpatse says, second line:  "The first vice chairman, Karemera, reminded you that you should never forget -- you will never forget that we are now at a crossroads." 
+
+And what I want to ask you about is, when Ngirumpatse refers to being at a crossroads and says that Karemera says the country is at a crossroads, and both say one should glance to the past, and there is reference to events in 1959, 1960, and 1961, what are the events in the past that Ngirumpatse is telling the people to remember?  
+A.	Mathieu Ngirumpatse -- Mathieu was referring to the events of 1959 because he was a politician -- he had been a politician since 1963.  He'd worked for all governments from the moment we acquired independence.  If he mentioned the events of 1959, it was because it was notorious that Tutsi houses had been destroyed and they had been -- and they had fled into exile.  This is an historical fact.  After 1959, they fled into exile.  Whether it was 1960, 1961, it continued.  When he says, "We're at a crossroads," it's what I was saying before.  Rwandans speak in proverbs.  He speaks in illusions (sic), and the people understand.  What they don't understand, well, that's their business.  In 1960, the Tutsi went into exile.  In '61, the Inyenzi attacked.  In '63, there was fighting, and Mathieu Ngirumpatse was a civil servant.  Rwanda had been independent for a few years.  When he speaks of the crossroads, it's an illusion (sic).  
+
+In 1990, the RPF took up arms and attacked the country which meant -- could mean that the RPF was going to regain power.  Karemera said that they were at the crossroads.  He worked under the Kayibanda and Habyarimana governments.  In 1994, there was still politics.  He was saying, "The Tutsi are coming back and will regain power."  That's what people were saying at the time.  That was the discourse of the time, that the Tutsi were going to regain power and Rwandans would find themselves once more in servitude, and he was saying that one shouldn't make any mistake, as we had in 1959.  That was my understanding.  It was everybody's understanding, moreover.  "Remember the events of 1959."  What does that mean?  In 1959, the Tutsi fled abroad, and now they're coming back.  That was what one was to understand.  
+JUDGE SHORT:
+Just a small point of interpretation.  The witness -- the interpreter said the witness said he spoke in "illusions."  
+THE ENGLISH INTERPRETER:
+I meant "allusions." 
+ 
+JUDGE SHORT:
+Allusions.  
+THE ENGLISH INTERPRETER:
+Yes, sir.  Sorry.  Yes, A- double L.  No, sir, not "illusions."  Allusions.  
+MR. MORLEY:
+And Your Honour may be helped to know that my learned leader with his eagle eye has already written out the two different words, anticipating Your Honour's thought.  
+THE ENGLISH INTERPRETER:
+Sorry for the slack pronunciation.  
+BY MR. MORLEY:
+Q.	You mentioned in your helpful and longish answer that there should not be the same mistake.  What do you mean by that?  What was the mistake which had happened in the past, and how was the mistake not to happen again?  
+A.	When we say that we committed mistakes in 1959 and will not commit such mistakes again, add to that the discourse, according to which we would no longer share power, well, it means that if at that time we had committed a mistake -- we let the enemy seek refuge elsewhere -- well, this time we won't do it because here they are coming back.  It's because they've been able to go into exile and now are coming back.  That's what I understood from what was being said.  
+Q.	So if the mistake was to let the enemy go into exile, how was the mistake not to happen again?  
+A.	After Habyarimana's death in 1994, we set up roadblocks everywhere throughout the country to prevent those people from seeking refuge elsewhere.  Women and children were killed in 1994, whereas in 1959, '60, '61, '63, it is the men who were targeted.  Women and children were let to go.  
+
+I'll give you an example.  In Nyamirambo, we built houses for widows, whereas the men had been killed.  So you must understand that the roadblocks set up throughout the country prevented them from running away.  We killed the women and children.  That was the mistake that should no longer be committed, because in 1994, we killed children and women.  Did I say those people died?  No.  They were killed.  It wasn't a natural death.  They were murdered.  
+Q.	And why was killing the women and children and the civilian population a means of not making the same mistake?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object.  I think again this witness is speculating.  He's now far from Mr. Ngirumpatse's speech.  I think a more proper question would be, was it his understanding at the time when he heard Mr. Ngirumpatse's speech in January 1994, that Mr. Ngirumpatse was advocating that Tutsis should be killed rather than let go back to exile.  Then I think we can proceed from that.  But right now he's speculating on just his general attitude even after the events.  
+
+MR. MORLEY:
+May I welcome the question from Mr. Robinson, which, if I'd asked it, I suspect he'd have been on his feet claiming it was a leading question, but as he's offering it, if I may, I'm going to ask it of the witness.  
+BY MR. MORLEY:
+Q.	Mr. Witness, when you -- when you heard Ngirumpatse talking of being at a crossroads and Karemera saying that the country was at a crossroads, and that one had to look to the past, did you, at the time that you heard that speech, understand that Ngirumpatse was hinting at a massacre of the Tutsis in order to prevent the mistakes of 1959 and the --  
+A.	(Microphones overlapping)  
+Q.	 -- in order to prevent the mistakes of 1959 where the Tutsi population had fled into exile and were now coming back, in order to prevent that mistake occurring again?  Now, did you understand the question?  
+A.	I have understood.  
+Q.	And what do you say?  What's your thought?  
+A.	When I heard that speech, I understood that this was a manoeuvre to sideline the Tutsis from power.  In 1959, the Tutsi had been in power and they fled.  When they speak of the crossroads, it means that there are two different directions.  So one shouldn't make a mistake as to the proper direction for the future of the country.  That is my understanding of what was said.  That is what I understood from Mr. Mathieu Ngirumpatse's speech.  
+Q.	What did you understand was the proper direction?  
+A.	I have answered that.  That was what I was trying to explain.  What I understood from that was the answer I gave you a short while back.  I can't speak for the others present, but I did tell you what I understood at that precise moment.  
+Q.	Well, forgive me for being dim, but can you tell us again, what did you understand was the proper direction that should be pursued?  
+A.	I'm not a legal person.  I did not understand exactly what he meant, but I did understand what he was alluding to when he made his speech.  
+Q.	What was he alluding to?  
+A.	He used a metaphor I couldn't understand exactly.  I told you what I understood, that in '59, the Tutsi fled; so we mustn't make the same mistake again as we did at the time.  What I understood was, they must be set aside; they must be prevented from returning.  
+Q.	And how were they to be set aside, as you understood it?  Spell it out, please.  
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to this.  I think he's asking the witness really to speculate as to what Mr. Ngirumpatse -- we're so far removed from what Mr. Ngirumpatse actually said, that I don't think this is helpful to the Trial Chamber.  
+MR. PRESIDENT:
+Well, apart from that, I think it's pressing the witness too much.  I think he has explained what his view is.  I think his meaning is quite clear, and to force him to go further is putting him under unnecessary stress, I think.  
+MR. MORLEY:
+I don't -- 
+MR. PRESIDENT:
+I think he's answered your question.  
+MR. MORLEY:
+I don't mean to put the witness under pressure.  But for my own part -- and it may be that I'm just not as lively of mind as Your Honour -- I don't understand certain aspects of his answers.  And perhaps with too much Anglo-Saxon clarity, I'm looking for a single sentence which encapsulates all.  If Your Honours feel that the matter has been adequately investigated, even though I've still got question marks in my mind, I'll move on.  
+MR. PRESIDENT:
+The question really is, does the witness have anything else to say?  You see, I thought that he -- he explained his answer, and he repeated it.  And I'm not certain if he has anything else to say.  
+MR. MORLEY:
+Will Your Honour allow me a moment?  
+MR. PRESIDENT:
+Yeah.  
+MR. MORLEY:
+With my learned leader's assistance, I'm going to move on, Your Honour. 
+(Pages 18 to 24 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1200H 
+BY MR. MORLEY:
+Q.	Where were you on the 6th of April in the evening when the president's plane came down? 
+A.	I was at home. 
+Q.	How did you learn of the president's death? 
+A.	It was in the evening at about 8 p.m. and RTLM announced that the president's plane had been shot down, and the president himself was aboard that plane, and the aeroplane caught fire and the president of the republic died. 
+Q.	Did you have any communication with your préfet or your seniors on the evening of the 6th of April?
+A.	I didn't talk to anybody that evening because -- well, I heard the news over the radio concerning the death of the president.  I stayed home.  I stayed with my family at home. 
+Q.	On the 7th of April, did you have any communication with Renzaho? 
+A.	On the morning of the 7th I called Renzaho over the telephone.  But before that, I talked to the bourgmestre of Nyarugenge commune, Bizimana.  I talked to him, Jean Bizimana, and then I talked to the préfet, Renzaho, that is, the préfet of Kigali-ville, sir. 
+Q.	What were you told you should do and await? 
+A.	I asked the Nyarugenge bourgmestre what we should do, and he said he couldn't tell me anything.  I called Renzaho, Préfet Renzaho.  He told me to stay at home and to wait until such a time as the military made a decision as to what we do. 
+Q.	Who did you understand was now in control of the country after the death of the president from what you were told by Renzaho? 
+A.	According to what I felt, I took power to hand to the soldiers. 
+Q.	Did you remain at home and later receive a phone call from a neighbour? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to leading.  This is not an issue that should be led.  The activities of the 7th of April are in dispute. 
+MR. MORLEY:
+Very well, I'm grateful.  Thank you.  That helps. 
+BY MR. MORLEY:
+Q.	Did you remain at home? 
+MR. ROBINSON:
+That's a leading question.  Excuse me. 
+MR. MORLEY:
+He -- either he's at home, he either remains at home, or he goes out.  It's one or the other.  It's not leading.  I think my learned friend knows that there is a development of the story from what's in the witness statements. 
+
+BY MR. MORLEY:
+Q.	So you've talked to Renzaho.  Did you remain at home?  What happened to you, 7th of April?
+A.	I remained at home.  At about 11, one of my neighbours in the ************cellule informed me that his brother-in-law had just been killed by the Interahamwe, who were CDR members, and some soldiers. 
+Q.	As a result of learning of the death of that person's relative, what did you do? 
+A.	I went to that location to see what happened, and I saw that the brother-in-law of one *************(phonetic) had just been killed. 
+Q.	When you travelled to that location, did you make any observations you can tell us about? 
+A.	When I got there, I saw the dead body of that person.  I looked around to see what the situation was there.  At Rubungo, I saw that 20 people had just been killed -- 20 people from five families had just been killed. 
+Q.	Of the 20 bodies that you observed, were they all young men or were they different sexes, different ages?  Can you describe, please, what it is you observed? 
+A.	I just said that all those people came from one family.  Women, there were children, there were men.  There were --
+Q.	Who did you understand had killed the men, women, and children you observed? 
+A.	As soon as I got there, people there told me that those people were killed by the Interahamwe, and the Interahamwe were in the company of the Presidential Guard -- the Presidential Guard.  They were in the company of Habyarimana's Presidential Guard, the Interahamwe. 
+Q.	Is there a -- an institution called the JOC close to your area? 
+A.	Yes, sir*************.  One would pass by that location to go to the secteur office. 
+Q.	What sort of institution was the JOC?  Describe its function, please, and who was in it. 
+A.	The JOC was an institution that accommodated young girls working in Kigali-ville; more than 80 young girls that stayed in that housing facility. 
+Q.	On average, what were the ages of the 80-or-so young girls? 
+A.	They were young girls that were workers, 20 years, a little bit more than 20 years.  They worked in the private sector, and some of them were civil servants. 
+Q.	To your knowledge, did anything happen at the JOC on the 7th of April?
+A.	When I got there, I saw that the young ladies were taken out of their rooms.  They were taken out of their rooms, and they had selected the Tutsi young ladies and told the Hutu young girls to go back into their rooms, sir. 
+Q.	You told us that you had got there; when you were there, what is it you understood had happened to the Tutsi girls who had not been sent back to their rooms? 
+A.	No, sir.  The Tutsi girls were taken away by the Interahamwe and the soldiers.  Some of them were raped, but some of the girls were killed on the spot.  The Hutu girls actually did not go back to their rooms -- their respective rooms.  They were authorised by the soldiers and the Interahamwe to go and join other families, indeed. 
+Q.	How do you know that Tutsi girls were being raped from the JOC? 
+A.	Yes.  If you take a young girl, you take her to your house, you keep her there.  I can't openly tell you that the Interahamwe slept with the girls, but I know some Interahamwe took some of the young girls to their houses and made them their wives, so to speak, by force, indeed. 
+Q.	How do you know that?  What is your source of information? 
+A.	I personally weren't there, but the JOC was*************************, and I was told by the Interahamwe that came to the JOC, and I went to the various houses of the Interahamwe to see whether the young girls were there.  And I visited an Interahamwe and I saw that he was keeping a girl, and the girl was taken away from the JOC. 
+Q.	Did you talk to any of the girls who had been taken away? 
+A.	Yes.  Yes, sir.  I talked to some of the girls I found in the house or the houses that I just mentioned. 
+Q.	What did they tell you had happened to them? 
+A.	They told me that people had attacked their houses and that they came out of their accommodation by force.  They told me what happened to them.  They told me that -- one of them told me that she accepted to consent to that young man to save her skin, and that's what she said. 
+Q.	How many women, who were Tutsi, did you understand were taken away by the Interahamwe? 
+A.	I didn't count.  (Unintelligible)... some of them were killed on the spot.  So they were killed in the course of -- a proportion of things happened.  I can't give you a precise number.  All I know is that I saw that that girl that talked to me went through same thing, said the others that were taken under the same circumstances, sir. 
+Q.	How many?  Can you give us an approximate figure, please?  You told us there were 80 girls at the JOC.  How many of those do you understand were taken away by the Interahamwe, approximately? 
+A.	The girls taken away were 15.  I saw about 15 girls taken away, and taken as wives by force.  The girls did not consent, they were compelled.  I was told there were 15 girls under those circumstances. 
+Q.	Do you know what happened to those girls in the end, having been taken away and compelled to be wives?  What happened to them in the end?  Do you know? 
+A.	I can't tell, because that period was very turbulent.  (Unintelligible)... that period.  It was a turbulent period.  We had to take care of all the various areas.  I tried to report as much as possible to my bosses.  I told them about the events that happened in that particular location, sir. 
+Q.	Did you ever see them again? 
+A.	I did not see them again.  I reported to my bosses.  That's all.  I did not closely monitor the way these girls -- or those girls lived subsequently. 
+Q.	Did you report to Renzaho your observation of the 20 bodies and what had happened at the JOC? 
+A.	Yes, sir.  I did report.  I sent a report to the Nyarugenge bourgmestre.  That was Jéan Bizimana.  I kept a copy for Renzaho, Tharcisse, that is, the préfet, and I also reported about the events, those events, to the gendarmerie group that was in the area, and that was posted in the area, that is. 
+Q.	Did the gendarme do anything about what had happened? 
+A.	No, sir.  They didn't do anything.  I met the (unintelligible) gendarme, the commander, and he told me that he didn't get any instructions to oppose the Interahamwe.  He didn't have the necessary armament to face the Interahamwe.  I also asked him one thing.  I saw -- she (sic) was protecting one of the girls, and I -- I said to him, "Why don't you do that for the rest of the girls?"  He said that that was a matter that was personal and that I had no right to ask him such questions. 
+Q.	Do I understand your answer just then to say you saw a police officer protecting one of the girls and you asked him why he was not helping the other girls, and he told you you had no right to ask that question.  Is that what you were saying? 
+A.	I'm talking about the commander.  After gendarmerie brigade, the Nyamirambo brigade, I was posted just opposite the JOC.  The commander was Bazaruhiza (phonetic).  He was a lieutenant.  He said to me that he couldn't face the killers, the assailants, and that I didn't have any right to ask him any such questions, sir. 
+Q.	So much for the police.  What did Renzaho say about what you reported to him? 
+A.	Renzaho told us that he was going to send vehicles to collect the bodies, the dead bodies, that is, that were taken to public cemeteries.  And four vehicles went around Kigali picking up bodies to take them to cemeteries.  That is what I saw personally.  But I know that in other secteurs they were told the same thing, because there were killings in all the secteurs as well, sir. 
+Q.	Did Renzaho offer any thoughts about how to restore order, to stop the killings, to help the Tutsi, or was he just talking about trucks for removing bodies? 
+A.	At that time, sir, he said that he was going to send trucks to collect bodies.  That was the seven brigade.  But he never said that killings should be stopped.  The trucks took bodies.  It was just like bags of charcoal here and there, sir. 
+Q.	Who was the person who controlled the Kigali police force?  Who was that? 
+A.	The head of the gendarmerie at national level was General Ndindiliyimana.  But in our location, when we talked about police officers at préfecture level, communal level, at that time the head of the gendarmerie was Ndindiliyimana, Jean Ndindiliyimana.  As far as the préfectural police was concerned, was headed by the head of the préfecture of Kigali-ville and assisted by a gendarme based at the préfecture of Kigali-ville, sir. 
+Q.	I was not asking for a list of who was in the police force, I am asking who controlled it.  Did Renzaho control the gendarmerie of Kigali or not? 
+A.	No, sir.  Renzaho was not the head of the gendarmerie as such, but as a (unintelligible) senior official, he had authority over these various bodies called -- the heads of all these various bodies.  He was responsible for the security committee for Kigali-ville, and between all these officials, there were representatives of the army at the level of the préfecture.  So he could call anybody, any of these leaders responsible for security. 
+Q.	To your knowledge, did he ever call any of these leaders responsible for security, the army or the police, and put them on the street on the 7th of April to stop the killings? 
+A.	I wasn't there, sir.  I wasn't at the meeting of the security committee to know whether he'd called anybody to ask for intervention.  My authority had limits.  But I know that he called the security committee meeting and decisions were made.  If, at any rate, he had asked that killings were stopped, we would have seen the results at préfectural level.  We would have seen the will to stop the killings, but decisions were taken at that meeting. 
+MR. MORLEY:
+Is that a convenient moment?  
+MR. PRESIDENT:
+Yes, it is.  Well, we adjourn our session for the week here.  
+
+Mr. Witness, I remind you, as I have done previously, that during this or any adjournment you remain a witness, and you are not permitted to discuss the case or your testimony with anybody.  Do not have any discussion with counsel in this matter. 
+THE WITNESS:
+(No interpretation) 
+MR. PRESIDENT:
+Okay, we take the adjournment now. 
+THE WITNESS:
+Very well, Mr. President, I do understand that.  
+(Court recessed at 1230H) 
+(Pages 25 to 29 by Jennifer Spring)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Ann Burum, Karen Holm, Wendy Molnar and Jennifer Spring, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Ann Burum 
+
+
+___________________________	Karen Holm 
+
+
+___________________________	 Wendy Molnar 
+
+
+___________________________	Jennifer Spring 
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL 	FRIDAY, 24 FEBRUARY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	FRIDAY, 24 FEBRUARY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 12
+
+	KAREMERA ET AL	FRIDAY, 24 FEBRUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 17
+
+	KAREMERA ET AL	FRIDAY, 24 FEBRUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 24
+
+	KAREMERA ET AL	FRIDAY, 24 FEBRUARY 2006
+
+JENNIFER SPRING - ICTR - TRIAL CHAMBER III - page 27
+
+	KAREMERA ET AL		FRIDAY, 24 FEBRUARY 2006
+
+ICTR - TRIAL CHAMBER III
+

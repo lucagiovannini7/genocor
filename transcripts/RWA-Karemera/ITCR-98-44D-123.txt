@@ -1,0 +1,918 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+MONDAY, 12 JUNE 2006 
+0905H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Denis Byron, Presiding
+	Emile Francis Short 
+	Gberdao Gustave Kam 
+
+For the Registry:
+	Ms. Stephania Ntilatwa 
+	Mr. John Tumati 
+
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Allayne Frankson-Wallace 
+	Ms. Sunkarie Balleh-Conteh
+
+For the Accused Édouard Karemera:
+	Mr. Felix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frederic Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Sithembiso Moyo 
+	Ms. Eleanor Bastian 
+	
+
+I N D E X
+
+WITNESS
+
+For the Prosecution:
+WITNESS BTH
+Examination-in-chief by Mr. Webster (continued)...	9
+
+
+EXHIBITS AND EXTRACT
+Exhibit No. P. 30	27
+Exhibit No. P. 31	28
+Exhibit Nos. P. 31A and P. 31B	29
+Exhibit No. P. 32	35
+Extract	1
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody. 
+
+Madam Registrar, can you open the proceedings?  
+MS. NTILATWA:
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Denis Byron, presiding, Judge Emile Francis Short and Judge Gberdao Gustave Kam, is now sitting in open session, today, Monday 12th June 2006, for continuation of trial in the matter of Prosecutor versus 
+Karemera et al, Case No. ICTR-98-44-T. 
+
+Please, Your Honours. 
+MR. PRESIDENT:
+Thank you very much.  The appearances are the same?  
+
+Yes.  Before we start, Mr. Webster, I have been informed that the translations were completed on Friday and that the court staff had to stay until somewhere in the vicinity of two o'clock to achieve that task.  And I would just like to express appreciation of the Chamber to all concerned in that activity.
+
+Mr. Weyl.  
+MR. WEYL:
+Yes, Mr. President, I am honoured to greet you on this Monday morning.  I wish to inform you that Counsel Anta Guissé, our colleague, has returned and is sitting on Mr. Ngirumpatse's team here with us.  Thank you, Mr. President. 
+MR. PRESIDENT:
+Thank you, and welcome back. 
+MR. ROBINSON: 
+Mr. President, I have a couple of matters I would like to raise with you before we get started this morning.  First of all, I want to let you know that I have prepared the exhibits for (By order of the Court this name has been extracted and filed under separate cover) and have given them to CMS this morning.
+MR. PRESIDENT:
+Who is that?
+MR. ROBINSON:
+I am sorry, Witness BTH and --
+MR. PRESIDENT:
+And GAF is the last witness.  
+
+MR. ROBINSON:
+-- and I have given them to CMS this morning and I will ask that they be copied in the meantime while Mr. Webster is completing his direct examination but not distributed until the cross-examination begins.  
+
+The second matter relates to the translation of the material that we received on Friday.  And I have a motion that we receive the witness statements in unredacted (sic) form so that I could use them with 
+Witness BTH during my cross-examination.  What we have is more than 20 statements that were made, not to the Prosecution, but to the Rwandan judicial authorities, and they concern the conduct of 
+Witness GFH -- excuse me, Witness BTH, during the events of the 7th and the 8th of April, in particular, and many of them are inconsistent with his own description of his conduct.  So in order to confront him with those statements, I need to know the identities of the people who made the statements. 
+
+Now, as a matter of fact, on the documents themselves, the identities is blacked out but when in the title of the document that we received on the electronic copy, the witness's name or the partial name is reflected in the title of the document.  So, to some extent, we have a good idea, at least generally, the partial name or sometimes the last name of the person who has made the statement, but I would like you to order that we receive unredacted statements of this Rule 68 material.  
+
+I point out that it is not a new issue for us because you already have decided in your decision on 
+Mr. Nzirorera's motion to compel inspection and disclosure on the 5th of July 2005, that if necessary, that the identities of witnesses who have conflicting information to that of a Prosecution witness be disclosed to the Defence.  That same decision was made in the Bizimungu case, in the decision on Prosper Mugiraneza's motion to compel disclosure of exculpatory evidence, pursuant to Rule 68 --
+THE ENGLISH INTERPRETER:
+Slowly, slowly.
+MR. ROBINSON:
+-- pursuant to Rule 68, on the 10th of December 2003; in the Bagosora case on the decision on disclosure of identity of Prosecution informants on the 24th of May 2006, and I point out one distinction is that these were not witnesses who spoke to the Prosecutor under any promises of anonymity, but they are people who spoke in their true name to the Rwandan officials and it's the Prosecutor who has chosen unilaterally to redact their identities.  So, thank you very much.  
+MR. WEBSTER: 
+Yes, Your Honour, we have a pending motion that goes to the core of this issue.  It is a motion for conditional disclosure.  Our concern is that where the identities of potential Prosecution witnesses are at stake, that the Defence undertakes to honour the protective regime (sic) that is currently in place for Prosecution witnesses in this case.  So our concern isn't necessarily to prevent the Defence from knowing the identities of these witnesses, but we would like to enforce the protective regime across the board for all potential Prosecution witnesses.  
+
+Mr. Robinson or any member of the Defence team -- 
+MR. PRESIDENT:
+Mr. Webster --
+MR. WEBSTER:
+Yes.
+MR. PRESIDENT:
+I would have to ask for clarification of this, please, potential witnesses, bearing in mind the stage of the proceedings at the moment. 
+MR. WEBSTER: 
+Well, the potential witnesses are not necessarily in this case, but in other cases pending before the Tribunal.  So I am not talking about the potential witnesses for the Karemera case, but for other cases that are ongoing or that have run their course.  There are potential witnesses to the extent that they gave information to our office, to OTP investigators.  At the time of giving information to our office, the understanding, both explicit and implicit was that their identities would not be disclosed to the targets of investigation.  We have always maintained that under Rule 39, we are allowed to put in place certain protective measures in order to proceed effectively with our investigations.  This Trial Chamber has commented on that submission and my recollection is that the Trial Chamber was not particularly persuaded by that point, but we maintain it, nonetheless.  We would not be able to conduct our investigations effectively if we didn't assure witnesses that the information they gave us would remain confidential, at least confidential to the extent of not sharing their identities with the target of investigation. 
+
+The witness Mr. Robinson is requesting that we provide him and the other Defence teams with their identifying information because he would like to raise the issues under Rule 68, we have no problem with that.  Our concern is that the protective regime that this Court -- 
+THE ENGLISH INTERPRETER:
+Sorry, please just a bit more moderately.  Sorry.  
+MR. PRESIDENT:
+Mr. Webster -- 
+MR. WEBSTER:
+Yes.
+MR. PRESIDENT:
+We can't make protective orders in the way that you are requesting if they are not going to be witnesses in this case.  It's either it will be that the Defence -- and maybe even to undertake not to publish the identities of these people outside of the purposes of the -- of their Defence work in this case.  That may be a satisfactory solution to this matter. 
+MR. WEBSTER: 
+May I inquire, what is preventing this Trial Chamber from making an order to that effect?  
+MR. PRESIDENT:
+You have just said that they are not related to this trial.  I am not quite certain exactly what are the legal issues involved.  Normally, we make protective orders in relation to witnesses or victims.  Do these come in, in either category?  
+MR. WEBSTER: 
+We would have to go witness by witness, by witness, Your Honour, in order -- 
+MR. PRESIDENT:
+So I was looking for a quick solution.
+MR. WEBSTER:
+For some things, Your Honour, there are no quick solutions, but for some things we have to go through it methodically.  In this case we have released, at least 20 or 30 statements under Rule 68 to the Defence.  With respect to those 20 or 30 witnesses, some of them are witnesses in this case.  With respect to the others, we have to go through it item by item.  But for us the point is the same.  For some witnesses whose information has been -- whose Rwandan CVs have been provided to the Defence, those same witnesses may have given statements to the OTP; I am not sure.  We have to go through it item by item, but our concern is simply to ensure the security of persons whose information is being used in this trial. 
+
+Now, we addressed these issues some weeks ago and in the last trial session when we asked the Defence to make an undertaking that they not communicate directly with these witnesses without going through WVSS.  There was some resistance to that suggestion on our part, and as a result of that, we introduced the motion that is currently pending before the Trial Chamber.  So that is basically where we stand.  We have no opposition to releasing the identities of these witnesses to follow through on the Rule 68 issues, but we are also concerned with how these witnesses will be approached by the Defence once their identities are communicated. 
+
+In terms of an immediate solution to this problem, the Trial Chamber could rule favourably on 
+Mr. Robinson's motion with respect to the pending application which is for this -- the witness statements they were provided under Rule 68 for this particular witness, and still reserve judgment on the larger issue which would govern the rest of the trial.  So that is one way of dealing with the matter effectively without shortchanging the process of looking at the issue with greater care at a later time because the motion is still pending 
+MR. ROBINSON: 
+Mr. President, I think this is what complicated, maybe, even originally the facts because to me, it is very simple.  These people, who are residents of Mukingo commune, were interviewed by the Prosecutor's office there and they gave them statements from 1995 through 1998, and that is all we have.  That is all we have been given, disclosure of under Rule 68.  None of these people appear on the Prosecution's witness list.  So I am very surprised to hear Mr. Webster say that some of them are Prosecution witnesses.  From the way we think, what I can see from the portions of their names that are listed on the electronic versions, none of them are on the Prosecutor's witness list, and, therefore, none of them have been promised -- upon the face of it, have been promised any kind of -- or have even been contacted by the OTP, from the face of it.  All it was is interviews by the Prosecutor's office in Ruhengeri.  So there is absolutely no basis for any kind of protective measures for these people because they never -- as far as the record shows, they have never been contacted by OTP.  They have never been -- they are not in any kind of status here at this Tribunal.  
+
+The second point though is that if, as Mr. Webster seems to be intimating, that OTP has interviewed any of these people, then their statements have not been disclosed to us.  And if they are, in fact, 
+Rule 68 witnesses, then we should have the interviews that they have given to OTP.  So I am now going to make another motion that the Prosecution disclose under Rule 68, the -- any interview reports that they have with any of the witnesses who are mentioned in the Rule 68 disclosure from the Rwandan proceedings.  Thank you. 
+MR. WEBSTER: 
+Let me clarify a portion of my previous submission.  When I stated that some of them are Prosecution witnesses, I had two or three witnesses in mind and those witnesses are witnesses in this case, and some of their statements were disclosed in the materials that were sent to the Defence under Rule 68.  So I had two or three people specifically in mind and those persons are witnesses in this trial.
+
+As for the majority of the witnesses, I have not gone through the list methodically, and I have not had an opportunity to do so.  If Mr. Robinson had alerted me to this motion on Friday or over the weekend, then I would have gone through the material and I would be in a position today to go witness by witness and explain our position, but I am simply responding at -- on the motion to Mr. Robinson's application.  In fact, the whole application could be treated in the manner that's much more methodical and serious if we had been given notice of this issue.  There is no -- I don't quite understand the logic behind starting the session with motions without giving some indication to the Prosecution of what the issues are because we would be in a much stronger position to clarify our position if we had notice. 
+
+I think that is basically the issue.  If I were to look at the list now and go through it and compare to the global listing of Prosecution witnesses, I could provide a more reliable submission on that point.  But when I made that statement a few moments ago, I had two or three witnesses in mind and those two or three witnesses did make statements that were submitted among the Rule 68 material. 
+MR. SOW:
+Mr. President, with your permission, I would like to say a few words in respect of Mr. Robinson's motion.  I, myself, Mr. President, have read the translation made of the documents and it is evident that in the absence of the identity of the witnesses, it's difficult to understand the document clearly.  
+
+At present, Mr. President, in view of Article -- Rule 39 of the Rules of Procedure and Evidence, as the Prosecutor says, these are potential witnesses which presupposes, if such is the case, that he has taken the steps to ask for protection measures.  In my understanding in the instance, there is no Prosecution motion for those protection measures.  So I think that the solution you put forward is indeed the best, because it is evident that even if we say that there are potential witnesses, that is not conclusive; and the Prosecutor himself seems to have difficulty.  He said that it does not necessarily consider the present matter, but I see that there is morose -- maybe they do concern the present matter.  So why don't we apply Rule 39 as a whole and the Prosecution not having requested any measure to tell us who those witnesses are so that we might eventually be able, if necessary, meet them?  
+MR. PRESIDENT:
+Mr. Webster, we are not as well informed as either yourself or Mr. Robinson on the factual background of this matter.  Now, you, however, had made a proposal for solving it.  If you could sort of -- we are willing to give you a couple of minutes to refine the proposition that you made so that we can make a suitable order.  It would be to refresh ourselves with regard to the pending motion.  That is part of the problem that we are not completely -- we don't have a current recollection of the details of the pending motion to which you referred.  So if you could assist in refining the proposal you made, then let us just resolve the matter quickly before us.
+MR. WEBSTER: 
+Could I make another proposal that we deal with this during the luncheon recess, because it's not an issue that has to be resolved before the commencement of Mr. Robinson's cross-examination.  
+MR. PRESIDENT:
+Well, yes.  Well, it would also give us an opportunity to (inaudible) on another matter, this will affect how we proceed this afternoon.  We were trying to have some information on that.  It may very well be that we have a little bit more information now in which the two things could be combined together. 
+MR. WEBSTER: 
+To be dealt with after lunch or -- 
+MR. PRESIDENT:
+There is an issue which may affect whether we sit after lunch or not.  And we had started to give some -- gather some information as to what would be an appropriate way to address us.  We interrupted the information gathering process to start sitting.  But it may very well be that we may be able to address that if we recess for a few minutes now.  We may be able to deal with more issues together because one may impact on the way we will be here this afternoon.  
+
+Mr. Webster, the sole practical issue -- will you be able to resolve this matter now, if we recess for a few minutes now? 
+MR. WEBSTER: 
+I don't know.  I have no assurance of that.  That is why I thought it more prudent to suggest that we take -- that I have an hour to look at it during the luncheon recess.  I would do my best if we rise for a few minutes, but I would be more confident about being able to resolve it fully over the course of an hour during the luncheon recess, but I can look on my computer now and do the best I can with that, Your Honour.  
+
+This is an issue that is really deserving of a -- of a more thoughtful consideration by all of the parties in the Trial Chamber because it goes beyond the simple disclosure issue.  What Mr. Robinson is proposing, and he has done this in the past, is that he conduct his own investigations of the way in which this witness, BTH's investigation was conducted in Rwanda, which is an issue I have tried to raise before with the Trial Chamber, but I don't think -- perhaps I was not as persuasive as I could have been or the issue is not one that the Trial Chamber sees as serious, but these are collateral matters.  
+
+If Mr. Robinson -- if Mr. Robinson takes a Rwandan witness statement and wants to cross-examine the witness on the basis of that statement, if the witness in cross-examination admits to the allegations of wrongdoing contained in that statement, I fail to see where the additional investigation and where the identity of the declarant becomes an issue for this Trial Chamber.  
+
+If Mr. Robinson wants to go behind the back of the Rwandan prosecution of this witness and do a more effective prosecution of this witness than the Rwandan judicial system.  To me, it seems that that would be a collateral matter.  The premise of obtaining the identity of the witness and going and conducting his own investigations would be to call that person as a witness during the Defence case.  And my submission to the Court is that Mr. Robinson wouldn't then be addressing collateral issues; there would not be germane to this proceeding.  So we end up turning around in circles, going for motion practice, doing exhaustive searches, giving information out and it is going to lead us nowhere because our response to Mr. Robinson's attempt to call those witnesses during his Defence case is that they are collateral.  They do not raise an issue that is pertinent to a determination of a material fact in this case.  So we spend a lot of time in motion practice for things that get us nowhere. 
+
+Mr. Robinson went through extensive motion practice to obtain Rule 68 material, the same type of material with regard to Witness T, and where did we end up?  In commencing his cross-examination, Mr. Robinson's submission to the Court - or, to the witness, rather, obviously, he was speaking to the witness at that time, was that he didn't believe the statements that were made against him, that he did his own investigations and he found that Witness T was believable and that the persons that were accusing him were not.  So where does that take us?  It is the same scenario.  
+
+Now, perhaps with respect to BTH, Mr. Robinson would have a different view of these Rule 68 materials.  But my submission to this Court is that this material -- the investigations that he wants to launch is never going to enter into this trial because they are all collateral to the extent that the witness admits his prior criminal activity.  There is no basis to introduce other witnesses to this case to prove that that particular witness, our witness, did things that the Rwandan witnesses are accusing him of doing.  So it is a large issue.  It is going beyond the disclosure issue.  It is going to an issue of what is relevant, what evidence is relevant for this Trial Chamber to adjudicate this trial, and the credibility of our Prosecution witnesses.  
+
+My submission to this Court is that we spend a lot of time on these disclosure issues and it takes us nowhere.  So I would appreciate if the Court gave a deeper consideration to the issue and exercise its discretion to focus the issues in this trial so that we spend time adjudicating issues that are really relevant for a fair determination of the evidence, and that we don't waste time on disclosure issues that pop up in no other trial that I have seen go on at this Tribunal. 
+MR. ROBINSON: 
+Mr. President, first of all, on the question to Mr. Webster about taking the time to resolve this, I am in favour of that.  So if you feel like that's a good thing to do, to rise now or to do it over lunch break.  I think Mr. Webster, when he sees the details of these witnesses, they would probably enhance the specifics of what we are discussing.  
+
+But also, I will -- I can make a very specific showing with respect to (By order of the Court this name has been extracted and filed under seal) -- excuse me, perhaps the redacted witness, BTH.  I can make a specific showing as to exactly why I need to know the identities of these witnesses, but I would have to do that ex parte because it would reveal my cross-examination.  But, essentially, I need the identity -- I need to have the identities so I can ask this witness about the statements that these people have made.  If I don't have their identities, then I have no -- I can't ask Witness BTH about -- to react to what these people have said.  So it is actually a different situation than the ones we have had in the past. 
+
+Also, Mr. President, if I could just add that because these witnesses were never interviewed by the Prosecutor, were never subject to any protective measures or promises or any implied protection, I wouldn't be willing to agree to any kind of protective measures for them, absent to showing that they were warranted.  So I don't think that informally we can agree to protective measures for people who are not witnesses or even potential witnesses.  Thank you. 
+MR. PRESIDENT:
+It seems -- it seems apparent that they have no alternative but to proceed with this witness's testimony in the circumstances and see if the matter can be resolved over the lunch hour.
+
+Madam Registrar, can you bring in the witness, please.
+(Witness entered courtroom)
+MR. PRESIDENT:
+Good morning, Mr. Witness. 
+THE WITNESS:
+Good morning, Mr. President.
+MR. PRESIDENT:
+After the long break between last week Thursday and today, your testimony continues this morning.  I remind you that you are under the same oath to tell the truth that you took when your testimony began, and the Prosecutor will continue his examination.
+WITNESS BTH,
+EXAMINATION-IN-CHIEF (continued)
+BY MR. WEBSTER:
+Q.	Good morning, Mr. Witness. 
+A.	Good morning, Mr. Prosecutor.  
+Q.	On Thursday, when we completed your direct examination - or, that portion of your direct examination, we had stopped at the point where you were telling us about the rape of a certain victim in Busogo and of Interahamwe boasting of the incident that same afternoon of the 7th of April.  So I would like you to pick up from there and continue with your narrative of events.  
+
+As for the second victim that you had mentioned, had you also written her name down on a piece of paper? 
+A.	Yes, indeed, that person's name is at number 2 on the list in question. 
+Q.	Can you tell us what happened to that second victim?  
+MR. ROBINSON: 
+Excuse me, Mr. President, can the paper be distributed to us so we know who we are talking about? 
+MR. WEBSTER: 
+The paper is with the registry, Your Honour, I assume that is what he is looking for now. 
+BY MR. WEBSTER:
+Q.	Mr. Witness, can you tell us what happened to the second victim?  Were you present at any stage during the taking of this woman, and if you were, tell us who else was present and tell us what you know about this particular incident? 
+A.	When that person was attacked I was there.  She was undressed and after that she was stabbed with a knife.  Iyamuremye did that.  One of her breasts was amputated -- cut off.  Then he licked some blood that was on the knife used.  Then the victim was abandoned on the spot.  I and Niyigaba, Michel, were present.  Iyamuremye was also there and many others. 
+MR. WEBSTER:
+For the record, Iyamuremye is number 7 -- number 37 on our list.
+BY MR. WEBSTER:
+Q.	When you say that he licked the blood on the knife, was there any particular significance to that act, if you know? 	
+A.	You know, human blood is something exceptional.  By doing that, he did not want there to be any consequences against him.  You see, when you drink someone else's blood, this is something unusual and in doing it, he wanted to show that he was superior to the person attacked. 
+Q.	Do you know the ethnicity of the victim? 
+A.	She was Tutsi. 
+Q.	Do you know her approximate age? 
+A.	Between 15 and 16 years, not more than 16. 
+Q.	Did this incident generate discussion or commentary in Busogo? 
+A.	Yes, it was talked about for a long time because it was an unusual act.  Those concerned discussed it.  It continued to be discussed. 
+Q.	Did it give rise to the same type of boasting that you described with regard to the first victim that you mentioned? 
+A.	Yes. 
+Q.	And where did that boasting take place?  Was it at the same place, at the same location, at the same time, or was this at a different time and place? 
+A.	You know, when the facts were repeated, we were at the Byangabo marketplace where people would gather.  The events were recounted during the day or at any other time. 
+Q.	Do you know if the authorities in Busogo were present when the boasting was taking place, to hear of the exploits of these Interahamwe? 
+A.	Some of these authorities were present when this was recounted in a bar or restaurant.  Some of the officials were present.  Therefore, they were aware because they would listen to everything said. 
+Q.	To the extent that you can remember, give us the -- I am sorry -- give us the names of the authorities that you remember being present when these incidents were being recounted. 
+A.	There was among others, Jean Damascene Niyoyita, Assiel Ndisetse, Semahani, and Kajelijeli.  I can also add Eliezer Ndangiza.
+MR. WEBSTER:  
+For the record, Ndisetse is at number 61 of our list; Niyoyita is at number 63 of our list. 
+BY MR. WEBSTER:
+Q.	Witness, could you repeat the last name that you just said, please? 
+A.	Ndangiza, Eliezer. 
+Q.	Do you know of any other rapes of Tutsi women on that day, and we are still on the 7th of April here, to the extent that you know? 
+A.	No, not with regard to that day.  I personally only witnessed the events on the 7th.  But, thereafter, I was also a witness to other similar events. 
+Q.	Can you tell us when and where please, with regard to the similar events? 
+A.	At one point a bus carrying refugees came between the end of May and June 1994.  Now, this bus was coming from Kigali in the night and it stopped at the Byangabo centre.  Michel Niyigaba and 
+	Jean Damascéne Habyarimana, nicknamed Bagabo, together with Ndayisaba, Noeli, and others I was not able to identify, got into the bus and made the women come out.  They took the women to their houses.  There was a lot of noise until the soldiers had to intervene to get the women out.  Noeli insisted, refused to release the daughter he had locked up into his house.  Shots had to be fired at Noeli in order to release the woman he had confined to his house. 
+Q.	Mr. Witness, I would like to spend a bit more time with this particular incident.  Now, when you say it took place towards the end of May, early June, what brings that period to mind to you?  I am trying to elicit from you the basis for which you gave that time frame for this particular event.  
+A.	I remember it because at that time we saw refugees who were moving en masse from Kigali, and I know that less than a month elapsed before we took flight.  So I am trying to place it in relation to the events, that is, the coming or passing of the refugees and the time of our flight. 
+Q.	With respect to the women that were on the bus, would you be able to say how many they were, approximately, to the extent that you remember? 
+A.	There were many of them.  I know that Noeli took a girl to his house.  Bagabo and Michel did the same.  There were two girls taken to Bagabo's house. 
+Q.	Would you be able to comment on the ethnicity of these women?  Could you tell if they were Tutsi -- if they appeared to be Tutsi, or if they appeared to be any other ethnicity, to the extent that you know or based on your observation? 
+A.	I cannot say for certain that they were Tutsi or Hutu because they were not asked to produce their identity documents.  What I am saying is that at that time such a fate would not have befallen a Hutu woman in such a cavalier fashion.  I was well aware that Tutsis were primarily the targets of such acts. 
+Q.	Where was the bus stopped, if you could be a bit more specific at the location where this bus came to a halt? 
+A.	In fact, the bus had already arrived and had stopped at the Byangabo centre.  Then young Interahamwes climbed aboard the bus, but the bus had stopped at the Byangabo centre. 
+Q.	Do you recall if there was a roadblock at the location where the bus stopped? 
+A.	No, there was no roadblock at that place. 
+Q.	You mentioned the women being carried off the bus.  Can you tell us who carried them and where they were taken in relation to where the bus was stopped? 
+A.	The bus had stopped at a place and women were taken five metres away.  It is Bagabo and 
+	Jean-Damascéne, that is Jean-Damascéne Habyarimana (sic) and Niyigaba who had taken the women.  Downhill from the road was the house of Noeli.  So I would say between five and 10 metres, the women were taken away from the road side and I tried to give an approximate distance. 
+Q.	Do you recall what, if anything, the women were exclaiming, either when they were being taken away or when they were coming back or at any point during that episode?  I am trying a get a sense from you of what you observed that would lead you to believe that these women were raped.  What did you hear going on that you can recount to this Court? 
+A.	They were taken not just to be looked at.  It was to rape them and this happened.  They were taken for sexual intercourse to be had with them; that is for certain. 
+Q.	Well, tell me what you heard, Mr. Witness?  If you don't remember specifically, then there is no problem, you can simply say that.  But did you hear the women saying anything during -- at any point during this episode? 
+A.	When the soldiers arrived the women had nothing to say.  They were flawed rather.  When the soldiers arrived the women boarded vehicle -- the bus, and the bus took off again.  But as for the women, they had nothing to say. 
+Q.	Well, with regard to the perpetrators, you mentioned Niyigaba, Michel, Gafogo, Noeli Ndayisaba.  Did any of the perpetrators, these three or any other perpetrators that engaged in these activities on that day, did they say anything to you that would lead you to believe that the women were being raped? 
+A.	I spoke to Michel Niyigaba.  We discussed the incident.  He personally told me that when he hid in the bush.  He showed me where he had hidden when the soldiers intervened.  Here I am referring to Bagabo and Michel Niyigaba who went to hide in the bush.  Michel Niyigaba was detained because of this crime and if he is in detention, it is because of that.  I am not the only one testifying against him on that event; other persons did so, too. 
+Q.	And did Michel Niyigaba tell you, either that day or subsequently, that he was raping or trying to rape the women that he had taken from the bus? 
+A.	He told me that.  He confirmed it to me that they had done it.  You know, at the time people were afraid.  If you threatened to kill someone and then told him to do something, he would do it.  They did it.  Besides, after quite a long time the soldiers intervened, but the women were already in the respective houses of the perpetrators of the crime.  The soldiers intervened long after the women had been taken to the houses in question. 
+Q.	Do you know why the soldiers intervened or how it came to pass that the soldiers intervened? 
+A.	In any event, someone must have alerted the soldiers.  All I know is that the soldiers arrived to ensure that the bus continued its trip.  And when they arrived, they inquired as to the location of the persons abducted. 
+Q.	Do you know -- and I am only asking you to the extent that you yourself know -- if there was any relationship between the soldiers and any of the women on the bus? 
+A.	No, I know nothing about that. 
+Q.	With respect to Noeli Ndayisaba, can you remind us of what his relationship was with Joseph Nzirorera? 
+A.	Noeli Ndayisaba was the son of Nzirorera's young brother named Karikutima. 
+Q.	And as for the other perpetrators, and here I am referring to Michel Niyigaba, Bagabo, I think -- can you tell us if they were among the Interahamwe za MRND? 
+A.	Michel Niyigaba was president of the Interahamwe, and Ndayisaba was the secretary of the Interahamwe group.  Bagabo is Nzirorera's cousin. 
+Q.	Was Bagabo also an Interahamwe? 
+A.	Yes, he was Interahamwe. 
+Q.	And now I am referring to the other incident where you mentioned Iyamuremye.  Was that person also an Interahamwe? 
+A.	Yes, Iyamuremye was also an Interahamwe. 
+Q.	Now, in your previous responses, you said that a shot had to be fired at Noeli.  Tell us who fired the shot while the shot was fired and then what happened to Noeli? 
+A.	A soldier called Mburuburengero arrived on the spot and sought to find out where the women had been taken.  The women who were on the bus showed him the houses where the women had been taken to.  And the women in Bagabo's house came out because Bagabo had run away. 
+
+Now, as for the woman taken by Noeli, they went to look for her and when they knocked on Noeli's door, Noeli came out wearing a towel and declared that there was no woman in the house, and the soldier threatened to shoot and Noeli insisted that there was no woman.  He fired a shot, Noeli insisted no woman was in his house and the soldier said -- he fired.  After Noeli died they found the woman in the house.  She was retrieved and taken to the bus which continued on its way thereafter.
+MR. WEBSTER:
+For the record, the name that was mentioned is at number 48 on our list, Mburuburengero.
+BY MR. WEBSTER:
+Q.	Right.  Mr. Witness, with regard to this particular incident, was this something that came to the attention of the authorities in Mukingo to the extent that you are able to comment? 
+A.	I did not see any particular follow-up.  The following day Noeli's body was buried, but I have nothing in particular to say about the matter. 
+Q.	With respect to these three incidents that you have described, the rape of the first two victims on the 7th of April and the rapes concerning this bus load of women, based on your observations, would you say that these rapes were either encouraged by the authorities or tolerated by the authorities? 
+A.	You know, raping someone is a crime punishable under Rwandan criminal law.  If the authorities had not supported such acts, they would have punished the perpetrators of these crimes, but no one was ever punished for this.  So the fact that a Tutsi woman should be raped was of no consequence to them -- did not worry them. 
+Q.	Would you have a basis to say whether or not Nzirorera, himself, was ever made aware of the rapes that were taking place in Mukingo? 
+A.	The only basis I have is that he was aware of everything that went on in the locality.  That is what I can say on the matter. 
+Q.	Well, when you say he was aware of everything that went on, what leads you to say that?  Tell us what you heard, saw or observed, what others told you; give us some indication of why you are able to make that statement. 
+A.	First of all, when Kajelijeli would ask us to do anything, he would add that Nzirorera was aware of what we were about to do.  When there was a mission to carry out, Nzirorera was informed.  Kajelijeli would say that he had discussed it with Nzirorera and what happened was brought to Nzirorera's attention.  There is no way Nzirorera could not have known what was happening in his native secteur.  
+
+Thirdly, if one of his relatives died in the circumstances I have described, it is unthinkable that it would not be brought to his attention.  So he must have been informed about it. 
+Q.	Right.  Mr. Witness, we will come back to this point again later in your evidence.  But I would like to move on in your narrative and I would like you to take us back to the 8th of April.  We had digressed a bit to talk about the rapes, but now I would like you to pick up on the 8th of April.  Right.  Can you tell us what happened on that day in Mukingo? 
+A.	On the 8th the Interahamwe in Mukingo, including myself, attacked Musumba in Nkuli commune and there they killed Tutsis who were there.  This act had actually started in the afternoon of the 7th and Kajelijeli and Baheza had given the order to do this.  They called the Interahamwe.  Baheza provided fuel to the nine vehicles available to the Interahamwe and told them that in Musumba there were Tutsi survivors that were hard to catch and that the Interahamwe should go and kill them.  So we went to Musumba between 6:00 and 6:30 p.m., it was getting dark and then we had to -- we turned back.  That evening a decision was taken to go back the following morning, very early in the morning to kill those Tutsis as we had been requested to do.  So on the 8th we went to that place and those Tutsis were killed. 
+Q.	Do you recall how many Interahamwe went on the 8th to Musumba to launch those attacks, to the extent that you can approximate?  
+A.	They were in nine vehicles and I believe they were more than 200.
+Q.	With regard to the attacks in Musumba, would you be able to comment on whether the killings were perpetrated by Interahamwe or by the local population or by both?  Can you make the same type of analysis with regard to Musumba that you did in regard to Busogo on the 7th? 
+A.	The Interahamwe in Mukingo joined those who lived in that area, who were armed with rifles.  There were also soldiers in uniform, so all these people killed the Tutsis who were in the area. 
+Q.	I am just going to ask you for a point of clarification.  When you say the Interahamwes from Mukingo joined those who lived in Nkuli, are you referring to the local population of Nkuli or to the Interahamwe that were living in Nkuli? 
+A.	No, it is Interahamwe in Nkuli commune who were there.  So those in Mukingo joined those Interahamwe and the soldiers and they then killed the people. 
+Q.	Can you tell us if the local or regional authorities were aware of these killings, either by ordering the killings or by hearing of these killings immediately afterwards? 
+A.	Yes, the authorities were aware.  For instance, I can cite the military authorities.  I know that no soldiers would be allowed to move about if his authorities were not aware of this.  As for us, Kajelijeli had given us the order to go there.  So the local authorities at cellule or secteur level, conseiller, all these knew who the members of the population were and I know that they were supporting these acts.  If they had not supported these acts, the Interahamwe would never have killed and the soldiers would not have joined the Interahamwe to kill people.  We were well aware that these massacres were supported. 
+Q.	Can you tell us who was the bourgmestre of Mukingo commune on the 8th of April; who occupied that position on that date? 
+A.	It was Emmanuel Harerimana. 
+Q.	Can you tell us if you know whether Harerimana himself encouraged the killings? 
+A.	I don't know because I never saw him inciting people to kill. 
+Q.	Do you know what type of reputation he had on the 8th of April 1994? 
+A.	Harerimana was a very kind man; he didn't like to talk much.  He wasn't talkative.  He spoke with everyone.  He had no bias.  He was a kind man who had no problem with anyone. 
+Q.	Based on your perceptions at the time, do you think or do you have a basis to state whether Harerimana shared the same ideology that Juvénal Kajelijeli expressed during those times? 
+A.	No, he did not have the same ideology.  Kajelijeli was a man who hated Tutsi, who was always saying they were the Inkotanyi accomplices.  Moreover, Harerimana was a member of the MRND -- of the MDR, sorry, whereas Kajelijeli was a member of the MRND.  He did not share that ideology.  Kajelijeli was very active and highly implicated in party politics, whereas Harerimana was not terribly interested in all that. 
+Q.	Can you tell us what happened to Harerimana on the 8th of April? 
+A.	Harerimana died on the 8th of April, an unfortunate death.  
+Q.	Do you know how he died? 
+A.	In fact, there were two versions.  Some people said that he was poisoned at a drinking place; others said that he had a heart attack after seeing so many people having been killed -- slaughtered. 
+Q.	What was Kajelijeli's status on the 8th of April? 
+A.	He occupied no administrative position.  I know that he worked at Nzirorera's school.  He was treasurer but he had no public office.  He was no longer bourgmestre. 
+Q.	But when you say he was no longer bourgmestre, do you recall when it was that he ceased to be the bourgmestre in Mukingo? 
+A.	I no longer remember the dates, but it was after the introduction of multiparty politics, because after the introduction of multiparty politics, the other parties complained that it was only the MRND in public office -- holding public office.  It was in '92 or '93. 
+Q.	When Kajelijeli ceased officially to be bourgmestre in Mukingo -- let me withdraw that and rephrase it.  
+
+Did the fact that Kajelijeli ceased to be bourgmestre at some point in Mukingo have an impact on his real -- on his authority in the commune, or how did that impact -- or did it impact on his authority in Mukingo? 
+A.	Nothing changed.  Merely, he could no longer use the communal vehicle, but he was still influential and listened to with respect.  He is someone who liked to give orders and liked to interfere.  He no longer had the official vehicle but he remained influential. 
+Q.	What was the basis of his authority or what was the source of his authority? 
+A.	Because he was member of the MRND, he was supported by Nzirorera.  He was a great friend of his and people listened to him -- respected him.  He was always with Nzirorera and people respected him because of that. 
+Q.	Can you tell us what happened at the Ruhengeri Court of Appeals during the course of April 1994? 
+A.	About the 13th or 14th of April 1994, the Interahamwe and CDR members of the Kigombe commune, the urban commune of Ruhengeri, came in two vehicles.  And when they arrived, they found Baheza and Kajelijeli at the petrol station, at Petrorwanda station that belonged to Esdras Baheza.  When they arrived Kajelijeli called me over and told me to go and fetch strong Interahamwe who should go and help the Interahamwe and CDR members of Ruhengeri to kill the Tutsi who had come from Bushengo sub-préfecture and had found refuge at the court of appeal.  I then went to fetch the Interahamwe who joined those from Ruhengeri and they went to kill those Tutsi.  Afterwards, they went home.  When they arrived, which was about 7 p.m., we heard over Radio Rwanda that Inyenzi-Inkotanyi had fired -- had shot the court of appeal of Ruhengeri, but we knew that it was Interahamwe from Mukingo and Kigombe who had killed the people there.  That is what happened.  
+THE ENGLISH INTERPRETER:
+I think the witness could be invited to speak just a bit more moderately, I am sorry.  
+BY MR. WEBSTER:
+Q.	Thank you for that response, Mr. Witness.  We are going to have to try to speak a bit slower because the interpreters need to hear everything that you are saying so that it could be translated into the two languages of the Tribunal. 
+
+Now, with respect to the conversation that you had with Juvénal Kajelijeli, where did that take place?  It's not clear to me, is this in Byangabo centre? 
+A.	Yes, at Byangabo market; at the service station -- petrol station that belonged to Esdras Baheza. 
+Q.	Did you accompany the Interahamwe to Ruhengeri town that day? 
+A.	No. 
+Q.	Was there any mention of Joseph Nzirorera in relation to this attack against the court of appeals when you discussed the matter with Kajelijeli? 
+A.	No, his name was not mentioned.  He merely told me that I should go and get strong Interahamwe to help those from Ruhengeri to kill the Tutsi at the court of appeal. 
+Q.	Approximately, how many Interahamwe were you able to find and send to Ruhengeri town that day, Interahamwe from Mukingo? 
+A.	Fifteen or so; one-five. 
+Q.	When the Interahamwe came back that day, did they tell you what they had done at the court of appeals? 
+A.	Yes, they did speak of it.  They told us the whole thing.  They told us the whole story. 
+Q.	Based on what they said, were you able to gather how many people had actually been killed to the extent that you were able to learn that information from Interahamwe? 
+A.	According to the information they gave me -- those Interahamwe gave me and the information in Kigombe records, 300 people or so were killed there. 
+Q.	Based on the information that you received, were these people Hutu, Tutsi or a mixture? 
+A.	They were all Tutsi exclusively; old men, old women, children, but only Tutsi exclusively. 
+MR. WEBSTER: 
+Thank you.  Your Honour, we can take a break now and -- 
+MR. PRESIDENT:
+We will take the morning recess now. 
+(Court recessed from 1029H to 1115H)
+MR. PRESIDENT:
+Yes, Mr. Webster, you can resume.  
+MR. WEYL:
+Mr. President, please forgive the temporary absence of Mr. Ngirumpatse, who had to go to the infirmary -- to the clinic.  
+MR. PRESIDENT:
+Permission granted.
+MR. SOW:
+Mr. President, similarly, the case is the same for Mr. Karemera.  
+MR. PRESIDENT:
+And permission is also granted.  
+MR. WEBSTER: 
+Thank you, Your Honour.  I was able to look into the matter that we were discussing earlier during our break, so I can report back to the Chamber now or we can wait until this afternoon as you wish.  
+
+MR. PRESIDENT:
+How are you progressing with your examination-in-chief?  Are you still likely to finish this morning?  
+MR. WEBSTER: 
+If I push ahead starting right now, I can probably finish this morning.  It's not certain, but when we started this morning, if we had kept the regular time table, we would have been finished by 12:30. 
+MR. PRESIDENT:  
+Perhaps you'd better do that.  We were trying to manage an issue with regard to -- with Trial Chamber I which took us some time and it is not a complete result yet. 
+MR. WEBSTER: 
+All right.  What I would like to do at this stage, Your Honour, is to introduce a number of exhibits.  I would like to begin with a booklet of photographs and sketches from Ruhengeri.  This is an item that was tendered in evidence during the first Karemera trial and in that trial it was identified as P. 5 and it was admitted into evidence through our investigator, Tony Lucassen, who had prepared the booklet and taken the photographs and did the measurements and so on and so forth.  
+
+By decision of the 15th of November 2005, this Trial Chamber granted a Prosecution application to accept the testimony of Investigator Tony Lucassen in written form under Rule 92 bis.  So his previous testimony would be filed with this Trial Chamber.  And I believe that the decision of the 
+15th of November 2005 addresses that issue, but the Trial Chamber's decision did not address the exhibits that were introduced through his testimony.  It only referred to his transcripts.  I did communicate with the Defence, I believe, it was on Thursday or Friday.  I only heard back from Mr. Robinson in terms of moving ahead with this booklet of exhibits by consent to have them introduced through this witness.  So I am assuming it won't be a problem, but I just wanted to clarify that for the Court. 
+MR. PRESIDENT:
+Mr. Robinson, he did give his consent?  
+MR. WEBSTER: 
+Yes, he did.  
+
+Shall we look at the time?  It is now 11:17, on Monday, the 12th of June. 
+MR. ROBINSON: 
+Actually, I was very occupied this week and it was the video link from Germany, so I didn't want to bother him with this. 
+MR. WEBSTER: 
+I didn't hear from the other two Defence teams, perhaps because my message was English, but I will proceed on the basis that this is a non-controversial issue.  
+
+So I am going to refer to this book, but when it does -- when it is admitted, it would be admitted as 
+P. 30, and it's a binder we submitted through the registry.  It bears registry numbers as well as K-numbers from the OTP.  The K-number start at K0164878 and they finish at K0167249, but then it continues with registry numbers because the subsequent pages contain two photographs each.  Each of the photographs bear their own K-number.  But just for the clarity of the record, let me indicate that the registry numbers on the top of the following pages begin with 8553 and continue through 8533 and all of the Defence teams have a copy of this.  This was circulated during the first trial.  And for this trial, we put the same items into our electronic exhibit binders, so the Court has them and all of the parties have the same thing, but it is much easier to look at the material in this from, which is why I am trying to introduce this item.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, I'm going to ask you to have a look at the screen, and I would ask my assistant to turn to tab 128, to the first photograph in tab 128, which is the second item down on the menu that comes up when we go to 128.  
+
+And, Mr. Witness, I'm going to go through a series of photographs.  I am going to ask you if you recognise them and to tell us what they are, please.  So looking at the first number, we see the K-number on the screen and this is K-number K0275243.  It is on page 8543 of the booklet.  Can you tell us what you see, Mr. Witness? 
+A.	I see the photographs of the Byangabo, Busogo secteur in Mukingo.  
+THE ENGLISH INTERPRETER:
+	There are two names mentioned; Byangabo and Busogo, and that wasn't clear.  
+BY MR. WEBSTER:
+Q.	When you say Byangabo, are you referring to the Byangabo business centre or business district? 
+A.	That is correct. 
+Q.	This is in Busogo secteur? 
+A.	That is correct. 
+Q.	And the buildings on the right-hand side of the photo, can you tell us what they are please, generally speaking? 
+A.	It is a string of shops belonging to the Byangabo traders. 
+Q.	On the other side of the main road, we see a main road on the left side of the photograph.  Would you agree to that description? 
+A.	That is correct. 
+Q.	Are there also shops on the other side of the road? 
+A.	Yes, it is quite correct; another series of shops are there. 
+Q.	And then with respect to the man that we see walking alongside the main road, his back is to us in this photograph, do you see the man I am talking about?  He is not too far away from the big tree. 
+A.	I can see him -- that person.
+Q.	I am sorry.  What direction is he walking in?  Is he walking towards Gisenyi or towards Ruhengeri? 
+A.	He is walking from the Gisenyi side towards Ruhengeri. 
+Q.	With respect to Nzirorera's mother's house, in what direction would it be, looking at this photograph?  Is there anywhere for you to describe where that house would be if we can't see it in the photo?  Explain to the Court where that house would be, the house of Nzirorera's mother.  
+A.	On the right-hand side of the photograph you see the shops on the right.  Well, the house is behind those shops.  That is where that house is still, in the direction of Ruhengeri. 
+Q.	And with respect to the killing of Rukara that you described taking place on the 7th of April, is there anywhere on the photograph that would correspond to your recollection of where Rukara was actually struck and killed? 
+A.	Rukara lived on the left-hand side of the road, behind the houses on the left-hand side.  You see that yellow building among the buildings on the right -- well, it would be opposite that yellow -- that building painted in yellow, opposite there is where Rukara was killed.
+Q.	When you say opposite, do you mean in front of that building or on the other side of the road?  Because if you say opposite, I think -- we are likely to think you are talking about the other side of the road.  
+A.	No, it wasn't on the other side of the road.  It was in front, in front of that building, in front of the door leading into that building, the yellow building, in front. 
+(Pages 1 to 20 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H
+MR. PRESIDENT: 
+We could probably go up to one o'clock if necessary and then adjourn at that time 
+MR. WEBSTER:
+Okay.  I am sorry, I did not hear.  What time will they convene in Trial Chamber I?  
+MR. PRESIDENT:
+The information I have got is that they will start at 2:30 p.m. 
+
+Mr. Robinson, I think that also concerns you.  We have just been officially notified that the Bagosora hearing will hear Mr. Nzirorera in cross-examination at 2:30 this afternoon. 
+MR. WEBSTER:
+Your Honour, I would like to comment on that, but I would prefer to do it after. 
+MR. PRESIDENT:
+We do not schedule that case. 
+MR. WEBSTER:
+Yes, but you schedule this case.  But I will address it right before the luncheon recess. 
+MR. PRESIDENT:
+Very well.  
+BY MR. WEBSTER: 
+Q.	Can we move to the next photo, please?
+
+	Right.  Mr. Witness, directing your attention to the screen, can you describe what you see, please? 
+MR. WEBSTER:
+And for the record, I'll indicate that it is K0276233, a photograph, and that same photograph would be found in page 8553 of the booklet that will be introduced in evidence.  
+MR. PRESIDENT:
+Mr. Webster, 6233 or 5233?  
+MR. WEBSTER:
+It is 5233 -- 5233, excuse me.  But in the booklet, it is 8553.  The page in the booklet is 8553.  
+BY MR. WEBSTER: 
+Q.	So, Mr. Witness, take a look at the photograph and tell us what you see, please?  
+A.	This is the Ruhengeri court of appeal, located in Kigembe commune. 
+Q.	And when you say Kigembe commune, would that also refer to Ruhengeri town? 
+A.	That is correct. 
+Q.	Is that substantially the way it appeared before the attack on the 14th of April 1994, in terms of its general layout, structure, so on and so forth? 
+A.	Yes, that is the case. 
+Q.	Can we move to the next photograph, please?  And this, again, tell us what it is. 
+A.	First of all, I see the main road from Gisenyi to Kigali.  I also see the building of the court of appeal of Ruhengeri.  Lower in the picture, I see the building of the préfecture office, Ruhengeri. 
+Q.	Mr. Witness, when you refer to the "préfecture office of Ruhengeri", would that be the building at the extreme left-hand side of the photograph? 
+A.	Yes, that is the part of the building of the Ruhengeri préfecture office, to the left ,as you say. 
+MR. WEBSTER:
+And for the record, we are identifying a photograph that is identified as K0275235, which can be found at page 8552 in the booklet. 
+BY MR. WEBSTER: 
+Q.	One more question for you in relation to this photograph, Mr. Witness:  If you were standing in front of the court of appeals, looking across the street from the court of appeals, what building would you be looking at or what would you see?  What I'm trying to ask you is what is opposite:  What is on the opposite side of the street from the court of appeals building? 
+A.	It is currently different, but at the time of the massacres ,opposite to the right, there was the Banque de Kigali.  Now, on the side that faces the court of appeal there was the airfield and Muhosa military camp.  Again, further down, there is an orphanage and the Muhabura hotel. 
+Q.	Is the Muhabura hotel on the same side of the street as the court of appeals or is it on the other side of the street?  The street I'm referring to is the main road.  
+A.	The Muhabura hotel is on the other side of the road. So it is not located along the same line -- along the same side of the road. 
+Q.	Thank you.  Can we move on to the next photo, please?  
+
+Right, Mr. Witness, for the record, we have an image.  The K-number for the image is K0275239.  Can you tell us what you see in this photograph, please? 
+A.	Yes.  Before us we have the office of the Mukingo commune, and next to it was a building housing the CCDFP, that was the nutritional centre. 
+THE ENGLISH INTERPRETER: 
+Says witness. 
+BY MR. WEBSTER: 
+Q.	There is a field or an open space in front of the bureau communal.  Can you tell us if there is anything in your previous testimony that relates to that area in front of the bureau communal?  What does it illustrate in terms of the testimony you have given us so far? 
+A.	Yes, this is where training was dispensed to members of the Amahindure Virunga force association. 
+Q.	Within the complex that is depicted in that photograph, was there an office for the MRND party? 
+A.	Yes.  You see the building that housed the CCDFP, and I see the door to the MRND office.  I don't know how to describe it, but I can see it is at the corner of the houses and that is where the MRND office was located. 
+Q.	Was that a part of the bureau communal or was that a separate private building? 
+A.	Actually, these buildings belonged to the commune -- the communal administration.  The first building has the inscription "Bureau Communal", but it is the other building which housed the office in question. 
+Q.	Did those buildings also belong to the commune?  In other words, were they buildings that belonged to the administration, the ones that housed the MRND office? 
+A.	Yes.  All those buildings in that place belong to the commune.  These buildings do not belong to individuals. 
+Q.	Was this the case up to 1994?  And here I am referring to the MRND having its office within the complex of buildings belonging to the commune? 
+A.	Yes, that is correct. 
+MR. WEBSTER: 
+Q.	For the record, this picture is at page 8550 in the booklet.  
+BY MR. WEBSTER: 
+Q.	Can we move on to the next image, please?  Do you recognise that image, Mr. Witness? 
+A.	I know the place in the picture.  It is the Mukingo commune office. 
+Q.	Is that the same building that is depicted in the picture we have just finished looking at? 
+A.	Yes. 
+Q.	So this is just a close up of the same building; would you agree? 
+A.	That is correct. 
+MR. WEBSTER: 
+For the record, this is identified at K0275238, and it can be found at page 8550 of the booklet.  
+
+You can go to the next image.  You can scroll down, please. 
+BY MR. WEBSTER: 
+Q.	And that is the same image we looked at a moment ago; isn't that correct? 
+A.	That is correct. 
+Q.	Mr. Witness, tell us where is Ruhehe hill in relation to the bureau communal, in relation to the image we see on the screen right now? 
+A.	It is opposite the Mukingo commune.  Do you see the two people, one of whom is wearing a white shirt and the other is wearing a shirt or sweater that is red?  They are coming from the tarred road and very close to the tarred road stands Mount Ruhehe. 
+MR. WEBSTER: 
+And for the record, we're looking now at K0275239.  Can we move on to the next photo? 
+BY MR. WEBSTER: 
+Q.	Mr. Witness, for the record, this is K0275254.  Can you tell us what this is, please? 
+A.	It is Busogo parish, and here before us is the Catholic church of Busogo parish. 
+Q.	Is that the church building that you were referring to in your earlier evidence? 
+A.	Yes, it is. 
+Q.	And this is the location that was attacked on the morning of the 7th of April? 
+A.	Yes.  It is at this church.  Very close to this church, there is a convent for sisters -- Reverend sisters.  
+MR. WEBSTER: 
+For the record, this image appears at page 8542 of the booklet.  Can we move on to the next image?  For the record, this is K0275255, excuse me.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, tell us what you see in this picture? 
+A.	This is the building belonging to the nuns, and this is still in Busogo parish.  That is where the Tutsis were, the Tutsis who were attacked.  And the Tutsis who were then killed in said attack. 
+Q.	Where is this building in relation to the parish church? 
+A.	Both buildings are next to one another. 
+MR. WEBSTER: 
+For the record, this photograph can be found at page 8541 in the booklet.  Can we move on to the next image, please?
+BY MR. WEBSTER: 
+Q.	Can you tell us what this is, please?  For the record this is K0275256. 
+A.	Again, this is the nuns' building.  But this time, the photographer was located at the Busogo dispensary.  We can see a road that goes down descending to the dispensary of the nuns.  You can see a road that goes past the pole and it goes to the ESTP.  Therefore, it is at this building that people were killed. 
+MR. WEBSTER: 
+For the record, this is at page 8541 in the booklet.  Can we move to the next image?  
+
+For the record, this is K0275257.
+BY MR. WEBSTER: 
+Q.	Mr. Witness, do you recognise this image?
+A.	Yes. 
+Q.	Tell us what it is, please? 
+A.	Now, we see the inner yard of the nuns' building within the compound. 
+Q.	Can we move on to the next image? 
+
+Mr. Witness, can you recognise this building or this photo?  For the record, it's K0275264. 
+A.	It is the Nkuli communal office. 
+Q.	Thank you.
+MR. WEBSTER:
+Your Honours, these photographs and several others are in the booklet.  Since that will go into evidence, the Court will have an opportunity to peruse the photographs and the descriptions at a later time.  I'd like us to look at two sketches now.  The first one will be located at Tab 225, and this sketch is also located in the booklet.  The image is not very clear on this.  Perhaps I could suggest that the registry takes this hardcopy up to the witness and if you could show it to the Defence, the Court, and then hand it up to the witness. 
+BY MR. WEBSTER: 
+Q.	Right.  Mr. Witness, you've seen this sketch several times before, haven't you? 
+A.	Yes.  That is correct. 
+Q.	Would you agree with me that the dark line that runs diagonally across the page from the lower left-hand corner to the upper right-hand corner, would represent the main road that travels from Ruhengeri town through Mukingo commune and on towards Gisenyi? 
+A.	Yes. 
+Q.	If we look at where we see a number "2", at the top right-hand corner next to the darkened line which is the main road, if that line were to continue, what direction would it be going towards?  Would it be going towards Gisenyi or towards Ruhengeri town? 
+A.	I see the place where the figure "2" is marked.  If you continue to the right, you will end up in Kigali, but if you go in the opposite direction you will end up in Gisenyi.  That is in the direction of where you see the figure 19. 
+Q.	Right.  Mr. Witness, if you start where the 2 is and follow that road or that line all the way down towards 19, and anywhere you see a number that would identify something that is familiar to you, tell us what it is.  So I'm asking you to be our tour guide, if you were coming from Kigali, from Ruhengeri town, travelling along that road, entering the map or the sketch where the number 2 is, tell us what we see as we travel down that road towards Gisenyi? 
+A.	We are coming from Kigali, and then we go to Gisenyi.  We move from the place where number "2" is marked and at number -- that is where the Court of appeal is located in Kigembe commune, and that is in Ruhengeri town.  Then you go further up to number 3, which marks the office -- the spot where the Mukingo commune office was located.  
+
+At 18, is Mount Ruhehe, where a military position was located, the soldiers in Mukamira camp.  We proceed downhill up to the figure 23, at Gisesero, where there is a football pitch.  At the time there was a school named SEFOTEL, and there is a football pitch.  We continue on to number 9 which marks the ISAE school site, the agriculture and animal husbandry institute.  If we go along the road up to number 10, which marks the spot where Nzirorera's mother's house was located.  
+
+Number 11, marks the Byangabo trading centre.  Moving on, somewhere along the way there is a fork branching off where we see number 12, that is Nzirorera's house.  Moving on, we get to number 13, the Nkuli commune office.  Moving on, somewhere at a distance from a road we see 16, which is the Mukamira military camp.  Further down - or, on, I think 14 marks Ngende (phonetic) locality where there was the Nyirakamadoka (phonetic) roadblock. 
+Q.	Looking at the sketch, can you tell us where the parish church would be positioned?  If you could give us a number for that. 
+A.	I was getting there, Mr. Prosecutor.  The parish is marked by the figure "7" on this sketch.  
+Q.	And then, a little to the side, there is a number 20 and a little circle.  Can you tell us what that would indicate? 
+A.	There where Lucien Rukara and Ratatinya's family members were killed as well as Muhinda's family members.  That is the place where these people were killed.  It is also where Samvura's relatives were killed. 
+Q.	What about the two rape victims that were killed on the 7th of April, would that also describe the location where those incidents took place? 
+A.	It is somewhere in the circle marked 20.  
+Q.	Thank you, Mr. Witness.  
+MR. WEBSTER: 
+If we could now look at Tab 224.  If I could just have the registry show -- hand -- show this sketch to the Chamber and to the Defence and then hand it up to the witness.  
+
+For the record, this is the same sketch that is on the screen now.  It appears at page 8564 in the booklet.  
+
+The previous sketch that we looked at on the screen appears at page 8569 in the booklet.  I'm asking the witness to look at the hardcopy, because it's easier to make out the writing than what we see on the screen. 
+BY MR. WEBSTER: 
+Q.	Mr. Witness, you have seen this sketch several times before, have you not? 
+A.	Yes.  That is correct. 
+Q.	Generally speaking, tell us what it depicts? 
+A.	At "1", one sees the St. Joseph Institute, the Nzirorera school.  We see at this other figure the Josephite Brothers'  residences.  It is the Josephite Brothers who administered the school.  We also see number "2" where the teachers' houses at this school of Nzirorera's were located.  And at number "3", we see marked the priests' houses.  Number "4" marks the Busogo Catholic church.  Number "5" shows the nuns' convent.  
+Q.	What if we go directly to number 8, Mr. Witness? 
+A.	There are many Bagogwe.  It is the Munyemvano compound, where the people killed at the nuns' convent were residing.  At the burial -- the burial of those people, their bodies were transported to that place in the Munyemvano compound.  I think number 7 represents the primary school.  We also have the girl's dormitory.  That is the girls who were studying at the Nzirorera school.  Number 12, shows the beaten earth path.  Number 10, represents the parish leading to Busogo via the ESTB school. 
+Q.	You will have to repeat that last answer, Mr. Witness.  You said it was what leading to the school?  I'm sorry, that was not clear to me when you were referring to number 10.  
+A.	Number 10 represents the road.  On number 11 and 12, there is a dirt path which leads to the volcano forest.  As for 10, that is a road leading to the parish and the ESTB school.  You'll see that the road turns, and even at the Josephite Brothers passes behind the parish, and then loops back to join the previous road.  
+
+In short, you can reach the ESTB school either using the side or the lower side.  Both ways would lead you to the ESTB school. 
+Q.	One last question in relation to these sketches, Witness.  If you look at what you have described as the road, number 10, on this sketch of the Busogo parish, if you think -- if you keep that road in 
+	mind --but now let us direct our attention to the previous sketch, the one of Mukingo commune in general:  This is the sketch we see at page 8569 of the book, the one that you were looking at earlier.  Can you tell us where that road which is number 10 on the sketch of Busogo parish, appears on this larger sketch of Mukingo commune?  You can tell us the number that it's closest to so we can have one sketch correspond to the other.  
+A.	Regarding the road at number 10 of the sketch, we could locate it or place it at number 7.  Lower down you see number 22.  And from number 7, there is a road that passes through there, which would, therefore, correspond to number 10.  As for the road from number 11 to number 12, it is the same road that leads from 11 to 6 and 7.  
+Q.	Thank you, Mr. Witness.  
+MR. WEBSTER:
+Your Honour, at this time I would offer this book in evidence as P. 30. 
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. P. 30 admitted)
+BY MR. WEBSTER: 
+Q.	Mr. Witness, you made reference to a radio broadcast that you heard on the same evening that the court of appeals attack took place.  I'd like you to take a look at a transcription from Radio Rwanda, from a tape that is identified as KT00O422.  This transcription is an excerpt of that tape at 35.17 minutes, and it continues through 39.59 minutes -- or, rather, let me clarify and say that I have a CD-ROM that excerpts four minutes of that particular broadcast from 35.17 to 39.59.  And what I'm handing up to you at this time is the written transcription of a few seconds which is incorporated in that CD-ROM.  
+
+So, I'd like you to take a look at this:  There is a French text, a Kinyarwanda text, and then a Kinyarwanda original text, and tell us -- you can read it to us in the Kinyarwanda, it will be translated into English and French and then you tell us if this is what you heard on the 14th of April.  You can show it to the Court, please, and the Defence first.  
+THE ENGLISH INTERPRETER:
+Will copies be provided to the booth, please?  
+MR. WEBSTER:
+I'm sorry, one copy was given to Mr. Frank this morning and copies were sent to interpreters by e-mail earlier this morning.  So there is only one copy you should have, and it should be with Mr. Frank.  
+BY MR. WEBSTER:  
+Q.	So, Mr. Witness, if you could read for us the Kinyarwanda text? 
+A.	"Yesterday in Ruhengeri, the Inkotanyi using bombs commonly known as rockets, killed more than 260 people.  These people had sought refuge at the court of appeal of Ruhengeri." 
+MR. WEBSTER: 
+I'm not sure what text the translators are using.  Are we translating what the witness is saying or are we reading the text that was handed up? 
+THE ENGLISH INTERPRETER:
+From what I could see they were translating what -- the Kinyarwanda booth -- we don't even have the text.  Yes, they were translating what the witness was saying, not from the text. 
+MR. WEBSTER:
+Okay.  Can we begin again, please? 
+BY MR. WEBSTER: 
+Q.	Mr. Witness, if you could read the Kinyarwanda text? 
+A.	"Yesterday in Ruhengeri, the Inkotanyi using bombs called rockets killed more than 260 people.  These people had sought refuge at the building of the court of appeal of Ruhengeri.  These innocent people had recently found refuge there, since the resumption of hostilities by the Inkotanyi." 
+Q.	Mr. Witness, does the substance of this transcription correspond to your recollection of what you heard on the radio? 
+A.	Yes.  It does correspond to what I heard at the time. 
+MR. WEBSTER: 
+Your Honour, what I would like to introduce in evidence is the CD-ROM with the four-minute recording of that particular broadcast, and this would be P. 31. 
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. P. 31 admitted)
+MR. WEBSTER:
+And for the transcription, I would like to provide that at a later time.  We can give the transcription the number P. 31B, and the tape itself of the CD-ROM can be P. 31A.  Since the translation that we had from the booth is slightly different from what I had recorded previously, I would prefer to retype it up and submit an accurate translation.  
+MR. PRESIDENT:
+Admitted, in that way.  
+(Exhibit Nos. P. 31A and P. 31B admitted)
+BY MR. WEBSTER: 
+Q.	Right.  Mr. Witness, we are going to continue your narrative of the events.  So, we're going to turn our attention away from the exhibits now, and I'd like you to think back to the period in April of 1994.  Did there come a time that you saw Joseph Nzirorera in Ruhengeri after -- after the attack on the court of appeals?  And if so, can you tell us when that was to the extent that you can remember and what the circumstances were? 
+A.	I saw it was in April.  It was when Basile was being invested as préfet, and the ceremony took place at the football field in Gisesero which is above Mukingo communal office. 
+Q.	Mr. Witness, when you say "Basile", do you recall his full name, please? 
+A.	Yes, I know his full name, it was Basile Nsabumugisha.  Basile Nsabumugisha. 
+MR. WEBSTER:
+For the record this would appear at number 65 on our spelling list. 
+BY MR. WEBSTER: 
+Q.	Right.  Tell us what happened on that occasion? 
+A.	On that day, they came to introduce Basile to the local inhabitants after the death of the préfet who died on the 7th or 8th, about then.  So, two weeks after the demise of the president.  I don't remember the exact dates.  That that's when all the local inhabitants were called together.  They responded to the invitation, went to the football field, and the new préfet was introduced and sworn in.  The responsable, the authorities were present.  They had accompanied him for the swearing-in ceremony and that was the purpose of that ceremony. 
+Q.	When you say the "football pitch", can you give us the name of that location again, please? 
+A.	Well, the football pitch was called Mugisesero (sic). 
+MR. WEBSTER:
+For the record, this is number 26 on our list. 
+BY MR. WEBSTER: 
+Q.	When you say the authorities were present, can you tell us who was present?  Give us the names of those persons that you actually remember being there? 
+A.	Inter alia, I remember the minister, Casimir Bizimungu; minister Bicamumpaka and Joseph Nzirorera; General Augustin Bizimungu, also the minister of the interior attended and the bourgmestre.  So then Bourgmestre Semahane who'd been assistant bourgmestre before Kajelijeli also was in attendance and many other invited guests.  I can't remember the names of all those who attended or participated in that ceremony. 
+Q.	Would you be able to estimate how many people attended the ceremony?  Here I'm not talking about the authorities I'm talking about the local population.  Can you estimate how many persons were in attendance for that event? 
+A.	There was a large number of people.  In any case, more than 1,000; I'd say between 2,000 and 3,000.  
+Q.	Do you recall if the Interahamwe of Mukingo were present for this event? 
+A.	Yes, they attended. 
+Q.	Tell us what you recall about any comments that Nzirorera might have made during this event? 
+A.	As his predecessors had, he spoke of the problem of security; he spoke about the MRND and MDR Power, and said that those two parties got on well together.  Coming to the question of security, he said the local inhabitants, everyone should cooperate in order to unmask the enemy and their hiding places, because the RPF and its accomplices had assassinated President Habyarimana, and, therefore, we should seek them out and kill them.  He also mentioned -- also said that MDR Power and MRND collaborated.  We should no longer consider the MDR as our enemy, and in any case, the new préfet was an MDR member.  Those were some of the matters he dealt with and that I remember -- things he spoke about and that I remember. 
+Q.	Based on your observations or your recollection of everything that was said on that date, and bearing in mind the context of the times up until that event, tell us what you understood Nzirorera to mean when he referred to the "accomplices of the enemy"? 
+A.	The Tutsi, that's what I understood by that term, as well as anybody else who was a member of an opposition party; the MDR, the non-power wing, as well as the PSD.  All those people had to be sought out.  When he made that speech, he knew that most of the Tutsi in our area had been killed, and the only people left were hiding here and there.  So he told us to go on hunting down those people, seeking them out to kill them, because he said they had killed President Habyarimana. 
+Q.	Mr. Witness, when you say that he knew that most of the Tutsi in your area had already been killed, tell us what leads you to make that statement.  Do you make that statement on the basis of what Nzirorera, himself, said or was it the context and the setting for the event that leads you to make that statement? 
+A.	It is on the basis of the situation at the time, and I know that he knew, because even beginning the massacres (as translated), I know that Kajelijeli told us that he had spoken to Nzirorera about the massacres.  And in any case, I find it -- I don't know how I could -- I don't understand how people can be born -- can be killed in the area where you were born, and not known (sic) it.  They -- everybody said that they were the accomplices of the Inkotanyi and they had to be killed.  Throughout Rwanda, all the Tutsi had to be killed.  So since two weeks had already elapsed after the beginning of the massacres, so everybody knew that it was the Tutsi who were being slaughtered. 
+Q.	Well, I'm going to ask you to think about and review in your own mind the words that you actually remember Nzirorera pronouncing that day.  And here I am talking about his words made in public at this gathering.  Was there anything in the content of what he said that would lead you to presume that he was aware that killings of civilian Tutsis had taken place before that date?  
+A.	Yes, some things could lead us to believe that.  Everybody was saying everywhere that the Tutsi had to be killed because they were the accomplices of the RPF and the RPF had killed Habyarimana.  And then Nzirorera, himself, told us, "Go and seek out the Tutsi wherever they are, wherever they are hiding and kill them."  He also told us that we should kill the people hiding the Tutsi which proves, therefore, that if we had come to the point where we said it was necessary to seek out, dig out those that were in hiding, it meant that they knew that already some or many had already been killed. 
+Q.	Did you see or speak to Nzirorera in any other location on that date?  Here, I'm referring to the day that this presentation of Basile took place.  Was there any other occasion that you interacted with Nzirorera or that you heard him say anything? 
+A.	No.  That day they were there in Gisesero, then they went to a reception and, subsequently, went to his mother's residence.  On (sic) that time he gave us 100,000 Rwandan francs and asked us to continue ensuring security so that the enemy might not infiltrate.  They gave the money to Michel, our leader, our chief.  We went to the trading centre and even the people who hadn't gone to the investiture ceremony we bought beer and shared it amongst us. 
+Q.	When you say "Michel", are you referring to Michel Niyigaba? 
+A.	Quite. 
+Q.	Were you present when Nzirorera gave the money to Michel Niyigaba? 
+A.	Yes, I was present. 
+Q.	To clarify matters for the record, tell us where this happened?  Where did this encounter between Nzirorera and Michel Niyigaba take place? 
+A.	As I have already said, we found him at his mother's residence. 
+Q.	Tell us again and go into more detail if you can, what it was that he said when he was there with Michel Niyigaba and yourself and mention, if you recall, any other persons who were present for that encounter? 
+A.	His younger brother, François Dusabimana; Michel; me; Noeli; one Muhunbu (phonetic); Rwihandagaza; Bagabo and other Interahamwe.  We were about 20 or 30.  He was in the company of Kajelijeli and Nyabusore and other people whom I no longer recall -- remember.  François Dusabimana went to tell him that we were there, and when Nzirorera came out of the house, we were in the compound and he told us that we must continue to seek out the Inkotanyi's accomplices and that the enemy should not infiltrate, that we should not be discouraged, but continue to hunt them down.  And then he gave that money to Michel, and we went off to the drinking place. 
+Q.	Thank you, Mr. Witness.  
+
+All right.  Following this incident, did you ever become aware of Nzirorera returning to Mukingo commune again?  In other words, after this presentation of Basile, did Nzirorera return to Mukingo and what can you tell us about any subsequent visit of Nzirorera to Mukingo? 
+A.	No, I didn't see him again.  It was only in July that I saw him again, and that was in Congo. 
+Q.	Well, aside from your seeing him again in the Congo in July, was there ever a time after this presentation of Basile that you heard of Nzirorera returning to Mukingo? 
+A.	I was told that when Kajelijeli was sworn in -- I would remind you that at one point Kajelijeli was once again appointed bourgmestre, and it was reported to me at that ceremony -- Nzirorera attended that ceremony.  He was present.  He was present at that ceremony.  
+Q.	Who informed you of Nzirorera's presence at that ceremony? 
+A.	I heard it from a few people, especially Michel Niyigaba who was often with me told me. 
+Q.	How soon after this ceremony took place did Michel Niyigaba tell you about it? 
+A.	I don't remember exactly, but if it wasn't the same day, it was the next day. 
+Q.	How is it that you, yourself, were not present for the ceremony?  Where were you when this ceremony was taking place? 
+A.	Sometimes each one has his own programme, his own schedule.  Maybe I was busy doing something else and that is why I didn't attend. 
+Q.	Did Michel Niyigaba or anyone else who actually attended this ceremony for Kajelijeli tell you what transpired at that event?  In other words, did they tell you the content of anything that was said or described the proceedings that took place?  And if so, will you share that with us, please? 
+A.	No.  I was not informed of that.  I was merely told that there had been a parade.  We were told how the people paraded, because we saw at that time members of the group Amahindure had paraded. 
+Q.	Well, I think you've given us some information in your -- your last bit of your response, but can you go back to that and be a little more expansive.  When you say "parade" are you talking about the local population or are you referring specifically to the Interahamwe, and what kind of parade was this? 
+A.	I thought I had made that clear.  It was a parade by the Amahindure Virunga force. 
+Q.	Was there a reason why they were parading? 
+A.	The reason is simply that Kajelijeli had -- was once more bourgmestre. 
+Q.	Right.  Thank you, Mr. Witness.  
+
+Mr. Witness, we are almost at the end of my direct examination.  I'm just going to ask you a few more questions, but for the most part, your narrative of events is completed so far as my direct examination is complete.  So, I am going to ask you to bear with me for just a few more minutes so I can complete my direct examination this morning.  
+
+Mr. Witness, reflecting on your experience in Ruhengeri during the period 1991 to 1994, but concentrating much more carefully on the events of 1994, itself, can you tell us what was Nzirorera's contribution to the violence and killings in Ruhengeri in 1994?  What did he do to organise it, to encourage it, or conversely, to discourage it and to stop it?  So, I'm asking you to reflect on the events of 1994 and tell us what you think in relation to what you could observe and what you came to know? 
+A.	Thank you.  I will be forthright and do not intend to lie.  Nzirorera was a highly influential person throughout Ruhengeri préfecture, and in particular in Mukingo.  He had been minister for a long time; he'd been a member of parliament; he'd been national secretary of the MRND party.  He was a very influential and respected person.  He had contributed to the development of the local inhabitants, he had enormously helped.  
+
+To answer you, it was he who created the Interahamwe in Mukingo commune.  And I know very well that in Mukingo the Interahamwe were the strongest of all of the Interahamwe in Ruhengeri.  It was he who had given them uniforms, who gave them money, he gave them orders, instructions and if the Interahamwe behaved as they did, it's because of Nzirorera.  People like Kajelijeli, it's because they were under Nzirorera's influence.  So, I hold him responsible for the insecurity that reigned in Mukingo commune whether it is the problems affecting the Tutsi or other problems, it was due to Nzirorera and his protégés.  He created the Interahamwe and the Amahindure.  And it was those two groups that perpetrated the massacres.  
+
+I will tell you that if Nzirorera had prevented them, those groups would not have done what they did.  If they did it, it is because they were under Nzirorera's orders.  So, I hold him responsible for everything that occurred in Mukingo commune.  
+Q.	Mr. Witness, are you familiar with the expression "Les enfants de Nzirorera"? 
+THE ENGLISH INTERPRETER:
+Nzirorera's children.  
+THE WITNESS:
+That term reminds me that Interahamwe to whom he had given uniforms he called his children, as well as others.  I'm not the only one to say so.  It was public notoriety that the local Interahamwe were known as "Nzirorera's children", "Nzirorera's Interahamwe".  
+BY MR. WEBSTER: 
+Q.	Well, when you think back to the period -- to the beginning of April 1994, based on your experience and on your observations, if you could estimate the numbers that we are talking about when we refer to "les enfants" or "the children of Nzirorera".  How many Interahamwe would that refer to?  I ask this question because in your previous evidence, you talked about a battalion of 600 Amahindure and then you broke that down to a -- for us and told us about 300 of them coming from Mukingo.  What I'm asking you to do now, is to reconsider those numbers and tell us how many of them you are referring to when you talk about "les enfants de Nzirorera"? 
+A.	Between 120 and 150. 
+Q.	And when you focus on the 120 and 150, what was significant about those numbers?  Tell us what they did or what they received or what it was about those 120 or 150 people?  What distinguished them in any regard from the larger numbers of militiamen in Mukingo? 
+A.	Their peculiarity was that they had received a (sic) training in the Amahindure Virunga force.  A selection was made among the Interahamwe of those people who should be trained in a group of Amahindure, and they wore Interahamwe uniforms that Nzirorera had given them.  The others in the group had no uniform.  
+Q.	Did these 120 to 1250 Interahamwe have any significant relationship or any relationship that you could discern that linked them to the MRND leadership in your region?  And here, I'm referring to either the president of the MRND at the préfecture level; the president of the MRND at the commune level or the president of the MRND at the secteur level.  How would you describe the relationship of these 120 to 150 people with the hierarchy of the MRND party in your region?  
+A.	Firstly, all Interahamwe were MRND party members.  The Mukingo Interahamwe were the MRND youth.  
+
+Secondly, most of the authorities in that area and influential persons there were members of MRND.  They're the ones who gave instructions and orders.  So there is no distinction between the authorities and the Interahamwe.  You are an Interahamwe and member of the MRND, and a member of the MRND supporting the Interahamwe.  Fundamentally, it was the same thing.  
+Q.	Were these "enfants de Nzirorera" or these Interahamwe also involved in the civil defence? 
+A.	Yes. 
+Q.	Can you explain to us what the civil defence was, and tell us if it was any different when it began in 1991, from the point at which you left Rwanda in 1994?  So, tell us what the civil defence is, and tell us if it changed at all over time? 
+A.	I learnt of that in 1993, when Amahindure force was started.  We were told it was necessary to create an organisation that would ensure civil self-defence.  The training wasn't given to the ordinary inhabitants, but to the Interahamwe.  It was they, therefore, the Interahamwe and the Impuzamugambi who received that training.  And in 1994, those that had the training perpetrated the slaughter of the Tutsis.  They were the authors of the massacres. 
+Q.	Aside from the meeting that was held in front of the bureau communal in 1993, if you think of the period after that meeting, and if you focus especially on 1994.  Do you recall if Nzirorera, himself, made any further comments concerning the civil defence?  
+A.	Yes.  Nzirorera was present at the meeting, and he told us he had spoken to other officials from that region who had decided that the Amahindure group should be replaced.  So, Nzirorera agreed to the idea.  He said he was ready to provide them equipment, which equipment was provided and it was used to kill the Tutsis in 1994 following President Habyarimana's death.  So he said that this group should be set up to combat the enemy and the enemy's accomplices.  And by accomplices one must understand Tutsis within the country.  So he played a role in all that happened, because he subscribed to the idea of setting up the group, training it and providing it with the requisite equipment. 
+Q.	Mr. Witness, when you think back to the beginning of your evidence and everything that you've said thus far, is there anything that you've said thus far that you would like to clarify?  I'm approaching the end of my direct examination so this is your opportunity to correct or to clarify anything you have said so far in response to any of my questions? 
+A.	I do not have much to add; basically to say that no one, no Interahamwe killed Tutsis without receiving orders to that effect.  The orders were given before killings.  The government had the police and military service at their disposal and they should have used them to punish the Interahamwe.  If they did not do so, it is that they were acting with their support.  As for the leaders, those who are thought to be -- considered to be responsible, it should not be primarily the Interahamwe, because if these killings had been prevented no one would have gone on and continued to do so.  And the reason they continued doing it was because it was sanctioned by the authorities.  Therefore, I have nothing further to add to my testimony. 
+Q.	Mr. Witness, has your testimony been truthful to the best of your ability? 
+A.	What I'm telling you is the truth.  I have recounted the events I witnessed.  I have given details as regarding my age.  There is no way I could be mistaken.  This is the truth.  
+Q.	Right.  Thank you, Mr. Witness. 
+MR. WEBSTER:
+	And Your Honours, I've concluded my direct exam (sic).  
+MR. PRESIDENT:
+Thank you, Mr. Webster.  
+MR. WEBSTER:
+There is the matter of another exhibit that should be introduced.  The piece of paper that the witness wrote down two names on, that should be entered as P. 32, I believe is the next number. 
+MR. PRESIDENT:
+Yes, that is admitted. 
+(Exhibit No. P. 32 admitted, under seal)
+MR. WEBSTER:
+And during the luncheon recess I'll reflect on what we have done.  If there is something that needs to be admitted, I will bring it to your attention before we start the cross-exam (sic). 
+MR. PRESIDENT:
+There are two matters that you were to address me on.  
+MR. WEBSTER:
+One is the disclosure issue and the other was the timing of what we will do this afternoon.  I don't think either of those would require the presence of the witness, if that is what the Court had in mind.  
+MR. PRESIDENT:
+Yes.  
+
+Mr. Witness, your examination-in-chief is completed, but you're going to have to be cross-examined by the Defence.  Your cross-examination is going to commence tomorrow morning, and we are going to take the adjournment now, and you'll come back to court tomorrow morning for that purpose.  During this or any other adjournment, as I explained it to you last week, you are not to discuss the case or your testimony with anybody.  
+
+You may leave now, until tomorrow morning.  
+THE WITNESS:
+Thank you, Mr. President.
+(Witness exited courtroom) 
+MR. PRESIDENT:
+Mr. Webster, the P. 32, is it required to be under seal?  
+MR. WEBSTER:
+Yes, Your Honour.  
+MR. PRESIDENT:
+Yes, P. 32 is put under seal.  
+MR. WEBSTER:
+On the first issue which is the disclosure matter, this -- what I'm about to report to the Court is not based on an exhaustive review of the material, I simply consulted my files during one of our breaks.  So this is really on the basis of a ten-minute review of the materials.  I can be more complete tomorrow morning.  What I perceive in the materials that were disclosed in the Rule 68 are statements from at least 24 witnesses.  
+
+Some of those 24 witnesses have made more than one statement that were disclosed.  So the volume of statements actually exceeds 24.  But I've isolated 24 (inaudible) and 24 witnesses.  Of those 24 witnesses, at least four have made statements to the OTP, and what, in fact, was disclosed as Rule 68 material was their statements to the OTP investigators.  Of those four statements, one -- at least one of those witnesses should be subject to some sort of protective measure, because I recognised his name from someone that would have testified in the Kajelijeli trial.  I'm not positive because I'm simply speaking on my own recollection, but I believe that to be the case.  With respect of the other three witnesses who made OTP statements, I have not been able to check our records to find out if they testified in other cases or if there are specific protective orders in effect for them.  But those three other witnesses would come under the umbrella of what I would put forward as are Rule 39 protections that the Office of the Prosecutor tries to implement in order to protect any witness that we come in contact with and from whom we solicit information, with an assurance that information would be kept confidential. 
+
+So, these four witnesses would be the subject of the protective regime that we are trying to introduce through the motion that is currently pending before this Trial Chamber.  In addition to those 24 witnesses who made statements -- who made various numbers of statements that was disclosed, there was one document which was identified as a Rwandan judicial proceeding.  That document contains information from at least eight other witnesses.  Among those eight other witnesses are two protected witnesses in our case.  As Mr. Robinson has clarified, as a practical matter he knows the identity of all of these witnesses because when we made the disclosure even though the text of the statements was redacted, the documents were named in such a manner that the identities are apparent.  That was a lapse on our part, but we were rushing to get the materials out.  
+
+So, to put the issue before the Chamber, what we have are 20 statements that are coming from the Rwandan authorities that presumably there is no Tribunal measure of protection with regard to them; four witnesses who are OTP witnesses, one of whom has testified in a previous case, and another eight witnesses who are coming from Rwanda, but two of those witnesses are actually witnesses in this case.  So that's my understanding of the content of the disclosures that were recently made under the Rule 68.  I do not know if that assists the Court in any way. 
+MR. PRESIDENT:
+Yes, Mr. Webster, the witnesses that are already witnesses are already subject to protective matters.  In relation to the other witnesses, I got the impression this morning that you were proposing that we make an order that we unredact the witness statements for the purpose of our current exercise, on the undertaking of the Defence not to communicate the information, subject to the decision on the motion which is currently pending. 
+MR. WEBSTER:
+That's correct.  And then with respect to any witness that the OTP has had contact with, not to independently contact those witnesses without going through WVSS. 
+MR. PRESIDENT:
+Yes.  Isn't that part of your pending motion?  
+MR. WEBSTER:
+Yes, it is. 
+MR. PRESIDENT:
+So, basically, would that not be covered by our decision to reverse?  
+MR. WEBSTER:
+Yes, it was.  When you just restated our request for relief, I thought you were restricting it to not disclosing their identifying information.  It goes beyond that, not disclosing their identifying information and not contacting them without going through -- 
+MR. PRESIDENT:
+(Microphones overlapping)  Yes.  Is there any opposition to that (inaudible)?  
+
+MR. ROBINSON:
+Yes, Mr. President.  Maybe I could clarify and make this easier for you.  We were only interested in the 20 statements from the Rwandan authorities.  The other material is not of interest to us at this point.  So the question before you is whether the people who gave statements to the Rwandan authorities none of which, to my knowledge, had been interviewed by OTP should have their statements redacted, when disclosed to the Defence.  
+MR. PRESIDENT:
+Yes, what Mr. Webster has proposed is that -- you see, you have the better of us at the moment, because we don't have a current recollection of the pending motion.  We will have to investigate that this afternoon.  So we are not exactly sure what it is.  
+MR. ROBINSON:
+But, I don't think that has anything to do with the pending motion. 
+MR. PRESIDENT:
+We do not know either.  What is proposed is -- it seems to deal with the situation, is that we make an interim order now for the unredacted disclosure of this material, subject to our decision on the pending motion.  (Inaudible)
+
+So, there will be an interim order for the unredaction of this pending material, on the understanding that the information is not communicated outside of the purposes of this trial, and that there's no contact with those witnesses except through WVSS at this time.  We will be looking at the pending motion and dealing with this on this issue as soon as we can. 
+MR. ROBINSON:
+I -- I understand that, Mr. President, but I do not agree that witnesses, people who have given statements in Rwanda should be the subject of protection measures, interim or permanent, by this Tribunal, because it is -- and I thought I understood Mr. Webster to say that as far as the 20 witnesses are concerned there is no protection for them basically.  So I don't know if we even have a disagreement about that. 
+MR. PRESIDENT:
+I do not know. 
+
+Mr. Webster, is that correct?  Is the issue related just to the Rwandan witnesses; is there a problem?  
+MR. WEBSTER:
+The Rwandan witnesses are not covered by the pending motion.  The pending motion really concerns any witness that the OTP has had contact with. 
+MR. PRESIDENT:
+So, do you still need us to make an order for the unredacted -- to unredact those documents?
+
+MR. WEBSTER:
+I prefer that an interim order come from the Court.  As a practical matter, Mr. Robinson will have what he's seeking and then the Court can look at the issue globally, when it addresses the motion, because this issue is related even though it is not in our motion, I would think that the Court would be interested in settling the issue and clarifying -- 
+MR. PRESIDENT:
+Yes, but we just don't know exactly what the question is at this moment. 
+MR. WEBSTER: 
+No, I understand.  But my response is that the interim order satisfies Mr. Robinson.  I would propose that you make the interim order and then address it globally when you have the time. 
+MR. PRESIDENT:
+Yes, but there is no issue of protective measures.  He's only interested in those 20 Rwandan people, so I don't need to make an interim protective order. 
+MR. WEBSTER:
+I would prefer that the Court make an interim order.  If the Court declines to do so, Mr. Robinson will get his way either way.  So it does not matter, Your Honour.  The issue that I'm trying to preserve is one of witness --
+MR. PRESIDENT:
+Yes, I understand the issue.  Well, I don't --  we don't know exactly at the moment the question in your pending motion. 
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+But we will find out this afternoon.  We will address it. 
+MR. WEBSTER:
+The pending motion does not concern those 20 statements, because those witnesses, presumably, have not been contacted by the OTP.  We come in contact with those witnesses for the first time when we ask the Rwandan ministry of justice to send us this Rule 68 material.  
+MR. PRESIDENT:
+Okay.  The second matter?  
+MR. WEBSTER:
+Yes.  The second matter, I think, is the Court usually does not like to entertain matters that have already been decided and it seems to have gone beyond our capacity to influence it at this point, but it concerns the adjourning of this afternoon's session in order for Mr. Nzirorera to complete his cross-examination in the Bagosora case.  And to my mind, this poses problems for case management or trial management for our case and for our Prosecution team, because when we set witnesses up and to testify and when we conduct our witness prep we are assuming that the schedule will proceed unimpeded and I -- this announcement of this morning takes me completely by surprise.  I was aware that Mr. Nzirorera was testifying in the Bagosora case, but I had asked through my colleagues in the Bagosora trial that we be given at least 48 hours' notice when Mr. Nzirorera would be called to be cross-examined in that case.  
+
+Now, I've been in contact with them consistently and I've never heard of anything in relation to mister -- our witnesses here in this trial being interrupted so that Mr.  Nzirorera could testify in another proceedings.  So I see it as being very disruptive and it throws things off for our case preparation and the progress of this trial, so it is not something -- that should not be repeated. 
+MR. PRESIDENT:
+Mr. Webster, we were not part of any negotiations.  And when we were communicated, the Prosecutor in the Bagosora case had already indicated (inaudible).  Now, the issue of the relationship between the different branch (sic) of the Prosecutor, we don't -- we can't control that. 
+MR. WEBSTER: 
+I don't see it as an issue of coordination on the Prosecution's side.  To me it is an issue of coordination on the Chamber's side, because the standing protocol in Trial Chamber I, is that the Prosecution would be given 48 hours' notice.  On Friday morning --  
+MR. PRESIDENT:
+Yes, but, Mr. Webster, you see we can't change what happens in Trial Chamber I. 
+MR. WEBSTER:
+I understand that, Your Honour.  
+MR. PRESIDENT:
+My point is that if the Prosecutor in Trial Chamber I has agreed to a fixture, we can't see that that fixture should be overruled, because the Prosecutor in our case contests what the Prosecutor in that case has done. 
+MR. WEBSTER:
+I'm not contesting what the Prosecution did in Trial Chamber I, but it surprises me that assuming there was consent, it surprises me that consent from the Prosecution in Trial Chamber I ends up being an order upon this Trial Chamber, because I came to court this morning expecting to complete the testimony of this witness.  And I am under the impression that everybody else concerned was assuming that we would proceed with our witnesses.  So I do not understand what a Prosecutor in Trial Chamber I says or does not say ends up ordering the course of affairs in this Trial Chamber. 
+MR. PRESIDENT:
+Mr. Webster, the Prosecutor did not order the course of affairs in this Trial Chamber.  We took into account a request, and after consultation with counsel here, we made the order.  But I got the impression that there was a bit of a -- a faulty lines of communication between you and the Prosecutor in this case. 
+MR. WEBSTER:
+No the faulty -- 
+MR. PRESIDENT:
+But we cannot control that. 
+MR. WEBSTER:
+No, the faulty lines of communication was between Trial Chamber I and the Prosecutor, because on Friday morning there was a communication between the Trial Chamber coordinator in Trial Chamber I indicating to the Prosecution that Nzirorera would be called to testimony on Monday afternoon.  An hour later, that was rescinded and the Prosecutor was informed that no, Nzirorera would not testify because it could not be set up.  And in reliance upon that, that Prosecution team and as consequence this Prosecution team did not prepare for it, because we understood that it was not -- I heard about it for the first time today, but in speaking to my colleagues this morning, I've learned that from what they understood, the cross-examination was not to take place.  And it was only this morning that they were alerted to the fact that it was back on track.  So it puts both Prosecution teams at somewhat of a loss and that -- it seems that the events have already taken their course.  I mean this submission seems pretty pointless when we think about it, but I'm simply trying to indicate to the Trial Chamber, that we need time to prepare, and it takes us -- it puts us in an awkward position to prepare for one thing and then find out that we have to deal with another.  
+MR. PRESIDENT:
+With regard to the issue of the 20 Rwandan PVs, we make the order for unredacted disclosure. 
+
+We don't make any other order in regard to them at this stage.  We will take the adjournment now, until tomorrow morning.  
+(Court adjourned at 1312H)
+(Pages 21 to 41 by Eleanor Bastian)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Sithembiso Moyo and Eleanor Bastian, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Sithembiso Moyo
+
+
+___________________________	Eleanor Bastian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	MONDAY, 12 JUNE 2006
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	MONDAY, 12 JUNE 2006
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 21
+
+	KAREMERA ET AL	MONDAY, 12 JUNE 2006
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER II - page 41
+
+	KAREMERA ET AL		MONDAY, 12 JUNE 2006
+
+ICTR - TRIAL CHAMBER III
+

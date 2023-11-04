@@ -1,0 +1,653 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+	
+
+FRIDAY, 24 JUNE 2005
+ 1050H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao G. Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Ramadhani Juma
+
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Dior Fall
+	Mr. Adama Niane
+
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporters:
+	Ms. Donna M. Lewis
+	Ms. Wendy Molnar
+	Ms. Gifty C. Harding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS GIT
+Cross-examination by Mr. Hooper (continued) .................................................................................  6
+Re-examination by Ms. Fall ......................................................................................................... 16
+
+EXHIBITS
+Exhibit No. D. 17 ....................................................................................................................... 18
+Exhibit Nos. P. 38, P. 39, P. 40, P. 41 ........................................................................................... 18
+Exhibit No. D. 18 ....................................................................................................................... 19
+Exhibit No. D. 19 ....................................................................................................................... 19
+Exhibit No. D. 20 (A) and D. 20(B) .................................................................................................19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, Mr. Registrar, could you --  
+MR. FRY:
+Yes, Your Honour.  
+
+Trial Chamber III of the International Criminal Tribunal For Rwanda, composed of Judge Byron, presiding, Judge Hökborg and Judge Kam, is now sitting in open session, today,                           Friday, the 24th of June 2005, for the continuation of the trial in the matter of the Prosecutor versus Rwamakuba, Case Number ICTR 98-44-C-T.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Good morning.  Before we hear the continuation of the witness there are just two preliminary matters:  First of all, we had originally indicated that the Chamber would not have been sitting today.  And Defence counsel had informed the trial coordinator that sitting this morning has interfered with their plans to visit the Accused at UNDF this morning. 
+MR. HOOPER: 
+No, that is not right. 
+MR. PRESIDENT:
+Isn't it?  
+MR. HOOPER: 
+It hasn't interfered with plans. 
+MR. PRESIDENT:
+So, you don't need special assistance to be able to see the --  
+MR. HOOPER: 
+Well, that is another point -- actually, yes.  Yes, I can see what was said.  In order to get in this afternoon, we needed to have submitted a letter yesterday, and we haven't done that.  If you can lend support for an application to see Rwamakuba today, that would help us.  Yes. 
+MR. PRESIDENT:
+It was suggested to me that in order for you to see him this afternoon, it was necessary for me to ask the registry to facilitate your access to see him this afternoon.  And I was proposing to make such a direction now. 
+MR. HOOPER: 
+Thank you, very much. 
+MR. PRESIDENT:
+Mr. Registrar, is that sufficient? 
+MR. FRY:
+Yes, Your Honour, and so ordered.  
+MR. PRESIDENT:
+Thank you very much.  Now, the other matter is that I would like to give, on behalf of the Chamber an oral decision on the application for the admission of Prosecution exhibits.  And I make that oral decision now:  
+
+On Tuesday, 21st of June 2005, the Chamber was seized of the Prosecution's motion to admit in two exhibits, documents to which the Defence opposed, some documents to which the Defence opposed.  And the Defence described the opposition as follows: 
+
+One, a video clip containing a documentary, narrating crimes of the Abatabazi government, number KV0068, which was marked for identification as Exhibit IP. 9; an audio tape, number KT001092, described as a visit of Pauline Nyiramasuhuko and André Rwamakuba to Ngororero (phonetic) Gisenyi, as part of the pacification campaign on 4th May 1994, which was marked for identification as IP. 10; video tape of the exhumation at Butare Hospital, marked as IP. 11; bundle of transcripts relating to the above-mentioned audio tapes and video clips, marked for identification as IP. 12; a document on civil defence, marked for identification as IP. 3A and B; an Amnesty International report, marked for identification as IP. 6; and the speech of President Sindikubwabo in Butare on 19th April 1994, disclosed to the Prosecution by the Defence on 16th June 2005.
+
+We are now ready to rule on the matter.  As a preliminary matter, the Chamber notes that the Prosecution removed its request to enter the document on civil defence as an exhibit.  So that issue is, therefore, moot now.
+
+With respect to the amnesty international report, the Defence confirms that it only objected to the summary of the report, which appeared on page two, and reads as follow:  "Amnesty International is gravely concerned that the Rwandese Armed Forces and government appear to be responsible for inciting, encouraging, perpetrating or condoning mass killings, particularly of members of the Tutsi ethnic group.  Statements made by the government and other officials since October 1990 were evidently meant to incite the Hutu and to kill all of the Tutsi."
+
+The Chamber notes that the Prosecution has agreed to redact this contentious summary.  This issue is, therefore, also moot.
+
+Pursuant to Rule 89(C) of the Rules of Procedure and Evidence and the jurisprudence of both ad hoc Tribunals, the Chamber has the discretionary power to admit any relevant evidence which it deems to have probative value to the extent that it may be relevant to the proof of allegations pleaded in the indictment."  And this can be deduced, determined from the decision on Pauline Nyiramasuhuko's request for reconsideration delivered by the Appeals Chamber on the 27th of September 2004, at paragraph 11.
+
+It should be recalled that admissibility of evidence should not be confused with the assessment of the weight to be accorded to that evidence, an issue to be decided by the Chamber at a later stage.  The Chamber must also guarantee the protection of the rights of the Accused, including the right to a fair trial without undue delay as described by Articles 19 and 20 of the Statute.  It has, therefore, inherent power to exclude any evidence where the probative value is outweighed by the need to assure a fair trial.
+
+In the present case, the Chamber is of the view that the amended indictment, filed on 9th June 2005, gives sufficient notice to the Accused of charges against him.  It is not disputed, and the Prosecution recently confirmed its intention, that these charges are focused on individual criminal responsibility of the Accused with respect to specific events that took place in Gikomero commune and Butare préfecture.  Any charge of joint criminal enterprise in relation with the interim government which formed the basis of the prior joinder with other accused persons was removed.
+
+The indictment contains allegations on the general political ideology of the Accused.  Without relying on any joint criminal enterprise theory, the indictment pleads in the count of genocide, or, alternatively, complicity in genocide, the involvement of the Accused in the policies of interim government of 8th April 1994, used to implement a vast campaign of violence against the Tutsi.  The fact that some of the contested evidence is admitted facts by both parties, does not mean that the Prosecution cannot adduce evidence on it to reinforce its theory.  
+
+Having reviewed the video clip containing a documentary narrating crimes of the Abatabazi government, the audio tape, described as a visit of Pauline Nyiramasuhuko and André Rwamakuba to Gisenyi, and the corresponding transcripts and the speech of President Sindikubwabo in Butare on 19th April 1994, the Chamber considers that it could be seen as supportive of the alleged general political ideology of the Accused.  And, therefore, they have probative value, and may well be admitted, since it may be relative to prove allegations pleaded in the indictment.  
+
+The Chamber emphasizes that such admission is not an invitation to, or an opportunity for the Prosecution to broaden its case and use evidence which does not directly pertain to the charges against the Accused.  Under these circumstances, the Chamber does not feel that these admissions infringe on the rights of the Accused.  In addition, the Chamber reiterates that admitting the above evidence does not presume the materials' evidentiary value. 
+
+With respect to the video tape of the exhumation at Butare Hospital, the Chamber does not find that it has probative value, and it should, therefore, not be admitted.  
+
+For the above reasons, the Chamber grants, in part, the Prosecution's motion and orders that the video clip containing a documentary narrating crimes of the Abatabazi government, which was marked for identification as Exhibit IP. 9, and the corresponding transcripts, the audio tape described as a visit of Pauline Nyiramasuhuko and André Rwamakuba to Ngororero (phonetic) Gisenyi, as a part of the pacification campaign on 4th of May 1994, which is marked as identification as IP. 10, and the corresponding transcripts; the bundle of transcripts relating to the audio tapes and video clips, marked for identification as IP. 19; the speech of President Sindikubwabo in Butare on 19th April 1994, disclosed by the Prosecution to the Defence on 6th June 2005, and the Amnesty International report, marked for identification as Exhibit IP. 6, subject to the above-mentioned redaction; and, two, denies the remainder of the motion, rejecting the admission of the Prosecution exhibit described as a video tape of the exhumation at Butare hospital, previously marked for identified as IP. 12.
+
+Now, Mr. Registrar, I don't know if you could assist now with the exhibit numbers.  
+MR. FRY:
+Your Honour, the next Prosecution Exhibit P. 38, if that is of some help. 
+MR. PRESIDENT:
+Yes, Mr. Webster.  
+MR. WEBSTER: 
+I'm sorry.  Good morning, Your Honours, I may have written down something in error but, according to my notes that I took when we last convened, IP. 12 is the bundle of exhibits.  I don't have an IP. 19, but the registry can confirm that for me where the discrepancy is.  I believe the Court just identified the bundle of transcripts as IP. 19.  I have it as IP. 12. 
+MR. PRESIDENT:
+I don't know if my pronunciation was effective.  
+MR. WEBSTER:
+Okay. 
+MR. PRESIDENT:
+But my note has IP. 12. 
+MR. WEBSTER: 
+Okay. 
+MR. PRESIDENT:
+If it came out as IP. 19, I apologise. 
+MR. WEBSTER: 
+All right.  And as for the speech of Sindikubwabo, that is -- the transcript of that is included in the bundle of transcripts and is identified on our exhibit list as number 35.  I don't know what IP number it had, but as a practical matter it is included in the CD-ROM of audio recordings and in the bundle of transcripts.  So, it will be covered by those IP numbers. 
+MR. PRESIDENT:
+Thank you very much.  Mr. Registrar, could you assist now by giving exhibit numbers to each of these exhibits?  Do you need some time to do that?  Do you need a copy of my notes? 
+MR. FRY:
+Thank you, Your Honour. 
+MR. PRESIDENT:
+Thank you.  
+
+Yes, Ms. Fall, are you ready with the witness?  Can we have the witness brought back in for continuation -- Mr. Webster, if you wait just a few minutes, the registrar will give numbers, but I think we can start with the examination in the meantime.  
+
+Yes, Mr. Hooper, what were you saying?  Did I --  
+MR. HOOPER: 
+No, except there is still GLM's statement (inaudible) and will-say to be formally exhibited.  And the registrar has been provided with those copies yesterday, and this witness's tick list gets --  
+MR. PRESIDENT:
+That can be dealt with during his examination.  
+
+I thought there was no objection to that.  They were more or less agreed to be admitted.  So, I will ask the registrar to admit the statements for GII, and he will also assist in assigning the appropriate identification numbers -- exhibit numbers.  
+MR. FRY:
+Your Honour (Microphone not activated)
+MR. PRESIDENT:
+Good morning, Mr. Witness. 
+THE WITNESS:
+Good morning, Mr. President. 
+MR. PRESIDENT:
+How are you feeling this morning?  
+THE WITNESS:
+(No translation) 
+THE ENGLISH INTERPRETER:
+I'm sorry. 
+MR. PRESIDENT:
+You will continue your testimony this morning on the same oath to tell the truth that you took when your testimony commenced.  Do you understand me?  
+THE WITNESS:
+You are quite right, Mr. President. 
+MR. PRESIDENT:
+Thank you very much.  Yes, Mr. Hooper. 
+WITNESS GIT
+              CROSS-EXAMINATION (continued)
+BY MR. HOOPER:
+Q.	Good morning, Mr. Witness.
+A.	Good morning, Counsel. 
+Q.	Yesterday we were dealing with the MDR and your knowledge of it.  And I want to put to you an answer that you gave on a previous occasion to this question and ask you whether you still stand by your answer.  The question that was put to you was this; "Would it be fair to say, sir, that you know very little about the MDR?" And your reply was this, and I will read it in full, slowly: "What I know with respect to the MDR is what I was able to see in our secteur with respect to the rallies that were organised there.  So, it is on the basis of what I know about those rallies that you can ask me questions.  But if you ask me questions about matters that took place out of our secteur, I can't know anything about it.  You can ask me questions that concern the events that occurred and that I saw in our secteur." 
+
+Now, do you remember saying that and is that your position? 
+A.	(No interpretation)
+THE ENGLISH INTERPRETER:
+I'm sorry, Mr. President, I'm having a technical difficulty here.  I can't hear my colleague. 
+MR. PRESIDENT:
+Mr. Witness. 
+THE WITNESS:
+I said that I had explained what I had seen in my secteur and at the time I was answering the question saying that I was going to rely on the events I experienced and which occurred in my secteur. 
+MR. PRESIDENT:
+Now, Mr. Witness, had you finished your answer?  I interrupted you because there had been a bit of a technical problem during what you were saying.  Did you complete your answer?  
+THE WITNESS:
+Mr. President, that was the answer I had to the question.  I had, indeed, finished.  
+MR. PRESIDENT:
+Thank you.  
+BY MR. HOOPER: 
+Q.	And dealing with the rallies, you told us that you saw André Rwamakuba come to the rallies on five occasions; is that correct? 
+A.	(No interpretation)
+MR. HOOPER: 
+I'm sorry; I am not getting a translation on that, on that short answer. 
+MR. HOOPER: 
+Is there a difficulty?  I think there may be. 
+THE ENGLISH INTERPRETER:
+Apparently, in this Chamber the Kinyarwanda was working into English and the wires - or, whatever, have been configured that way, and the situation is that our team of interpreters in Kinyarwanda are working into French.  So, we may need to have the technicians do something, or switch channels. 
+MR. FRY:
+Just one minute, Your Honour.  Just one moment, Your Honour. 
+(Pages 1 to 7 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1124H
+MR. PRESIDENT:
+Yes.  Mr. Hooper, are you ready?  
+BY MR. HOOPER:
+Q.	Mr. Witness, I'm not going to read that passage back to you again, but I think it was translated to you, and can we have your comment on it, please?  You were saying effectively, remember, that you only knew about the MDR in your secteur and that was all that you could speak to; is that correct?  
+A.	I told you -- 
+THE ENGLISH INTERPRETER:
+When I switch on my microphone, I can't hear my colleague.  I'm afraid I can hear my colleague before he's -- before I switch on my microphone.  When I switch on my microphone, I can't hear him anymore.  I'm sorry, Mr. President.  
+MR. PRESIDENT:
+Mr. Registrar has suggested that we should rise for just a few minutes, which he thinks would be sufficient for the complete correction of the problem.  So we'll take a short break now. 
+(Court recessed from 1126H to 1153H) 
+MR. PRESIDENT:
+Mr. Fry, the problems are all solved now?  
+MR. FRY:
+Yes, Your Honour, I believe we fixed the problem.  
+MR. PRESIDENT:
+Thank you very much.  
+
+Yes, Mr. Hooper.  Mr. Hooper, how much time do you think you're going to need?  
+MR. HOOPER:
+I'll be as quick as I can.  
+MR. PRESIDENT:
+Now, we -- we -- the judicial panel has an official commitment at 1:00.  So we must adjourn by 12 --    by 12:45.  
+BY MR. HOOPER:
+Q.	You saw André Rwamakuba coming to these MDR Power rallies on five occasions; is that correct?  
+A.	That is correct.  
+Q.	You would see him, as I understand it, when you were at your home, as the vehicle passed your house; is that correct?  
+A.	Yes, that is what I said.  
+Q.	You said that he was the one who was driving the vehicle, a red pickup; is that correct?  
+A.	Yes.  
+Q.	And that on these occasions he'd be with others, including Interahamwe; is that correct?  
+A.	Yes, that is correct.  
+Q.	And were these Interahamwe wearing what we know to be their distinctive kitenge uniforms?  
+A.	Yes.  
+Q.	And can you help us as to why the MRND Interahamwe would be with anyone associated with the MDR at this time?  
+A.	As I said in my testimony, I saw that the Interahamwe were with Rwamakuba and other party members.  As to their organisation and their joint program, I can't say anything more than that.  What I can say is, I used to see them together.  I can add nothing to that.  
+Q.	And when was the first time you saw them together?  Which month was that?  
+A.	I told you that I saw such rallies being organised in August '93, and afterwards, I kept seeing them together from the time when the Power-wing rallies began.  
+Q.	Were these rallies, or some of these rallies, in the months of October, November, December, January and February, in the course of those five months?  
+MS. FALL:
+Mr. President, Mr. President, I would like to verify something Mr. Hooper said, that during these rallies organised in October, November, December, January, but I think witness said that he saw rallies being organised from August '93.  So if we took five months into account, it would be from August and not from October as Mr. Hooper said.  So I just wanted to point that out.  
+MR. HOOPER:
+Thank you very much.  
+BY MR. HOOPER:
+Q.	I'm asking about rallies in the period specifically of October, November, December, January and February.  How many of these rallies were held in that time?  
+A.	You're asking me when the rallies were organised.  I did not expect to have to answer questions like this, you know, questions involving dates.  What I can say is that at that time, there were some rallies organised, and they were organised.  That is all I can say.  I did not expect to have questions put to me regarding precise dates.  
+Q.	Well, I'm very surprised that it's a surprise to you.  Can you confirm that some of these meetings that you talk about, where you saw André Rwamakuba driving the vehicle past your house, with the other people, to the rallies, occurred during the period October, November, December, January or February?  Can you confirm that?  
+A.	I want to give you one final answer to this question.  I confirmed that I saw five rallies -- rallies being organised from August '93 to March 1994, during that time.  I saw five rallies organised at that time.  That is my answer to that question.  
+Q.	Well, were these rallies held sort of every month, or what?  What sort of period elapsed between each rally?  Can you help us as to that?  
+A.	They could organise a rally and then organise another one a month after that.  It even happened that a rally would be held a couple of months after the first one.  But what I -- what I can say is that I was aware of rallies that were organised.  
+THE ENGLISH INTERPRETER:
+The Kinyarwanda booth has just made a mistake.  The witness said five rallies, and I made a mistake.  I said two, says the Kinyarwanda interpreter.  He apologises.  
+BY MR. HOOPER:
+Q.	I'm unclear where we are.  There are five rallies; is that right, sir?  
+A.	I think I said -- I have said five rallies at least ten times in this courtroom.  
+Q.	Right.  Now, let's start with the rally at Sha.  How many rallies were there at Sha?  
+A.	I have already said that there were two rallies organised there.  I think you are repeating your questions.  
+Q.	I am, and for a purpose.  Just please answer the questions.  When were those rallies, in which months?  
+A.	I don't remember.  
+Q.	Kayanga, you told us there was one rally.  When was that?  
+A.	I already told you that I don't remember the months.  I know that in Kayanga there was one rally.  Even if there were others, I am not aware of that.  What I'm saying is that I know at least one rally being -- I know at least of one rally being organised in Kayanga.  
+Q.	And I'm only asking you about your five rallies.  So don't worry about any others.  Nduba, two rallies -- in which months were those two rallies?  
+A.	I told you that I did not know the specific months.  I know that in Nduba there were rallies, two rallies in Nduba and another in Kayanga.  So I know the period when these rallies were organised, but I cannot say exactly in what months they occurred.  
+Q.	So let me come back to this question.  Were any of the rallies in October, November, December, January or February, that large period of five months?  Were any of these rallies in that period, or were none of these rallies in that period?  Which is it?  
+A.	It's possible.  It is actually true, but I cannot tell you that one rally or such-and-such rally took place in such and such a place in such and such a month.  All I know is that during that period I was aware of five rallies being organised.  
+Q.	Are you saying that though you can't remember the dates, it's true that some of those rallies were in the months of October to February?  Is that what you're saying is true?  Yes or no?  
+A.	Yes, they were.  But I cannot tell you that in such a month there was such and such a rally in such and such a place.  I am trying to give you approximate information based on the date from which the MDR organised rallies, that is, from August '93 to March '94.  I can say that I'm aware that five rallies were organised.  
+(Pages 8 to 10 by Wendy Molnar)
+
+
+1210H
+BY MR. HOOPER:
+Q.	Well, your -- 
+A.	I know that during this time rallies were organised. 
+Q.	And you saw André Rwamakuba driving past your house; that's right, isn't it? 
+A.	That's right. 
+Q.	Now, your brother lives next door *******************************, and I'm going to ask you something about that.  He tells us that he saw André Rwamakuba pass your house, going to a rally at Nduba, and that was in October.  Do you think he is right about that? 
+A.	I can talk about my testimony.  It is my testimony which is what I can depend on.  I cannot depend on explanations given to you by other people.  Please give -- ask me questions regarding my own statements. 
+Q.	But, from your knowledge of your brother, is he a reliable man for this sort of information or not? 
+A.	But I am telling you that I remember that rallies were organised.  I have added that it is entirely possible that other rallies were organised that I am not aware of.  That he is my brother does not imply that we observed the same things.  It is quite entirely possible that someone may know an event and his brother is entirely unaware of that same event; that depends on who saw what.  Please ask me questions only on what I said. 
+Q.	Well, I'm just seeing if I can jog your memory, you see, with your brother 's evidence.  For example, that in November, he saw André Rwamakuba come by your house where you live, with loud speakers, a lot of noise, in November.  Does that sound about right to you or not? 
+A.	We didn't discuss it.  But if it were necessary, I might ask him about it.  I really do not have any authority.  I really cannot talk about things or events that everyone -- someone else has talked about.  When he said those things to you, I was not with him, I was not with you, so I have no comment to make about that matter. 
+Q.	And, finally, Kayanga, you heard the megaphones, and that was in January, for the Kayanga rally.  Does that jog your memory, loud speakers on the far hill, right away from your house, not coming by your house but on Kayanga hill, right, the other side of the valley; is that how you remember that one? 
+A.	I am going to repeat what I said.  He told you things.  I was not there when he said these things.  I was not there when they occurred.  I can explain to you a great deal about what I know, but what someone else says is not my affair.  I may weigh the information as you wish, but please put questions to me about what I told you. 
+Q.	Thank you.  And just finally, the great deal about what you can tell us about what you saw doesn't extend to the dates at all, does it? 
+A.	That is true.  I did not memorise the dates.  I did not think I should write down these dates to refresh my memory afterwards.  So, as to this question, I can only ask you to accept what I have told you about it.  If you want to know more about it, I think you can meet Rwamakuba, you can ask him what he has to say about this.  It is he who organised these rallies. 
+Q.	Now, you didn't note any dates, but you were told that he had said, by people who came to tell you these things that, "The time had come to eliminate the Tutsis."  Is that right? 
+A.	Yes.  People told me what he had said, yes.  Furthermore, in the vehicles on board which he was, they were singing -- there was singing, and the word that was used repeatedly was "eliminate". 
+Q.	Did you discuss this with your brother next door? 
+A.	I think I am answering this question for the second time.  He is my brother.  We've gone through hard times.  We were facing people who wished to exterminate us.  On the whole, we talk, we discuss this situation, not in relation to Rwamakuba, as such.  This is common knowledge in our country.  The genocide covered the entire country.  They talk about it practically on a daily basis.  Even other people who are not my brothers, talk to me about this, so there is nothing extraordinary in people discussing the situation.  Rwandans talk about this all day. 
+Q.	That wasn't the question or wasn't the answer to the question I put.  I will put the question again:  Did you and your brother discuss these meetings that André Rwamakuba was holding where he was talking of exterminating your people? 
+A.	I have answered your question.  I told you that in general, either for rallies or what was said in the rallies or reported in the press, anything that was -- that presented a risk to us we discussed.  He was not the only person with whom I discussed such problems.  I discussed them with other people.  I think I have answered the question.  When we were able, we talked about it. 
+Q.	Did your brother tell you what he'd learnt had been said in Kayanga, in Nduba and Shango, about eliminating Tutsis by André Rwamakuba; yes or no, please? 
+A.	You are asking me whether he talked about it to me?  If he had information, he could share it with me, or think that I myself had already received this information, especially as these people went passed my house.  He could see them as I saw them.  Everybody wondered who are these people?  Where are they going?  Where are they from?  This is the sort of thing you can talk about if it is necessary or if you have the opportunity to did so -- to do so.  
+
+You are asking me to give you details as to what I discussed with my brother.  I get the feeling that you are interfering in my private life, in my relations with my brother.  I am not -- I cannot tell you about it.  Generally, we used to discuss matters that presented a risk to us.  I think I have answered your question.  And I'm asking the Trial Chamber to forbid you to put such questions to me because I have answered them. 
+Q.	Well, may I -- I'm going to move on, but may I suggest that you've done your very best not to answer my questions; that's right, isn't it? 
+A.	I answered your questions to the best of my ability.  That is what I could do. 
+Q.	From these meetings you heard that André Rwamakuba spoke of exterminating the Tutsis.  Why didn't you speak that in your statement to the investigators? 
+A.	I think I mentioned these rallies in my statement.  The role of Rwamakuba in raising awareness for committing extermination, I think was -- was included in my statement, even though the statement was taken down in French.  I think awareness-raising or sensitisation is on -- in the statement, and this sensitisation also includes what was done during rallies.  Rather, I have had the opportunity to mention this when I talked about the rallies.  However, this term, sensitisation, can be found in my statement. 
+Q.	Karenga, Arcade, you mentioned, is he an honest and truthful man, in your opinion? 
+A.	I know this is a gentleman, a respectable man.  He has never lied to me.  If he has lied to someone else, I wouldn't know, but I think he is respectable. 
+Q.	Thank you very much.  **************** (phonetic), is someone you told us told you about 
+	André Rwamakuba.  Is that right? 
+A.	Yes, that's correct. 
+Q.	Would it surprise you to know that I have a statement that he made to the Prosecutor in 1999, which contains these words:  "I do not know Dr. André Rwamakuba, I have never seen him."  Does that surprise you? 
+A.	I know nothing of it.  I don't know about the document that you've just read from.  I am saying what he told me.  I attach no importance to that document because I don't know it. 
+Q.	Let's come to events after you leave, and we touched on that last week, or earlier this week, I should say.  And you told us how you left on the 9th, you fled alone, and you went up to Rutungo.  Did you go, in fact, down to Jabana, J-A-B-A-N-A, after going to Rutungo? 
+A.	Yes, I went to Jabana. 
+Q.	Did you go there with the RPF, the Inkotanyi? 
+A.	No. 
+Q.	After you went to Jabana, where did you go? 
+A.	We went to Byumba. 
+Q.	And where did you go in Byumba? 
+A.	The town of Byumba -- the centre of Byumba town. 
+Q.	And where did you stay there, was it a refugee camp or what? 
+A.	I will tell you that we were in a refugee camp because there were many of us in this camp.  We were people fleeing the massacres.  We stayed there because it was safe. 
+Q.	And what date did you get there? 
+A.	I remember that it was in April, at least as far as I'm concerned.  We did not all arrive there at the same time.  I found other people there, there are other people who met me there.  That's all I can tell you about dates.  I can only tell you that it was in April, in the middle of the month.  I don't remember very well.  In any case, I can say that it was before the 20th of April. 
+Q.	And how long did you remain there? 
+A.	I left that place towards the end of July 1994. 
+Q.	And you tell us that while you were there you listened to a broadcast made by André Rwamakuba; is that right? 
+A.	Yes, I followed that programme. 
+Q.	And I'm going to repeat the words as best I have them, which I think is accurate, of what you say he said:  "We have come from Butare.  There is no longer any problem of security.  We have exterminated the Tutsis in Butare.  Butare is safe.  All the enemies have been set aside."  Were those the words as you said them earlier this week, a correct recollection of what he said? 
+A.	Yes.  Yes, I said that. 
+Q.	"We have exterminated the Tutsis," did you hear him say that? 
+A.	Yes, with my own very ears. 
+Q.	Whose radio was this? 
+A.	Radio Rwanda.  There were two radio stations in Rwanda, Radio Rwanda and RTLM, but I heard it on Radio Rwanda. 
+Q.	Which -- whose radio was it that you were listening to?  Was it your own radio? 
+A.	No, I did not have a radio set with me.  The radio set belonged to someone who was one of the refugees who had had the good fortune to flee with his radio set.  You know, in a refugee camp -- refugee camp people are mixed, so it is not surprising that a person might be able to follow what is said on the radio -- on a radio set that belonged to someone else.  I did not myself have a radio set. 
+Q.	But this person would extend to you the kindness of letting you listen to his radio from time to time; is that the position? 
+A.	Yes, when it was possible. 
+Q.	And what was that person's name? 
+A.	I no longer remember this person's name. 
+Q.	Was he a refugee there? 
+A.	Yes, he was one of the refugees and I remember that he had come from Mount Jarie in Kigali.  I know that that's where he lived before he came to seek refuge, Mount Jarie in Kigali. 
+Q.	Apart from André Rwamakuba, what other politicians did you listen to and what did they say on the radio? 
+A.	As I have explained to you, we were in a refugee camp.  I don't know whether you have had the opportunity to be a refugee to see how the situation is in refugee camps.  But there are so many activities in a refugee camp that one doesn't have the opportunity to listen to the radio for the news.  You have to go and fetch water, fetch wood, you have to cook, so listening to the radio is not a priority.  Rather, one spends one's time looking for food.  Listening to the radio is only a pastime, and when I had the opportunity to listen to the radio, I would listen to what such and such said.  It depended on opportunity.  Maybe somebody spoke on the radio and I didn't know the person, but since I knew 
+	André Rwamakuba and since his name was given, I listened to what I said, and that's what I'm confirming here and now. 
+Q.	What other politicians can you remember listening to and what did they say? 
+A.	I don't remember having heard any other politician. 
+Q.	So you just happened to be listening to the radio when André Rwamakuba made this announcement about exterminating the Tutsis in Butare; is that right? 
+A.	Listen, you shouldn't say that one morning I just woke up in order to go and listen to this broadcast.  You could listen to the radio if you had time.  And when I had time to listen to radio programmes, I myself heard Rwamakuba's voice.  I heard him speaking on the radio.  He said those words, and I heard him do so.  Now, you are asking me the circumstances under which I was listening to the radio.  I seem to have a -- the impression that you are asking me a pointless question because whenever I had the opportunity I would listen to the radio and I would be able to listen to broadcasts in which there was news, there was music, depending on the free time I had.  You must remember that I was in a refugee camp.  I have the impression that you've never had the misfortune of being a refugee for you to know what that entails. 
+Q.	When was this broadcast? 
+A.	What do you want to know exactly, the day, the date, the month, the time?  I don't know; I'm not quite following you. 
+Q.	Is that your answer?  
+A.	I asked you to be clearer in your question.  If you tell me when, that's quite broad.  I'm trying to have you be more specific in your question. 
+Q.	Well, I'm trying to get you to be more specific in your answer.  When was the broadcast, when did you hear it?  It's your evidence, not mine.  
+A.	I remember that it was between the 20th and the 28th of April.  It's during that period of time that I heard that broadcast. 
+Q.	Was this in the morning or the evening or what? 
+A.	Sometimes a news came on the radio before noon or afternoon, but when I listened to that broadcast, it was in the afternoon.  And in the days that followed, the broadcast was broadcast again.  But when I was following it, when I was listening to it, it was in the afternoon. 
+Q.	In the afternoon, all right.  Can I ask you this, sir, is it right -- is it right that sadly -- 
+A.	Let me repeat my answer.  No, don't consider it as having been in the afternoon; it was at the end of the day, just after sunset because you know one can make a distinction between the afternoon and evening. 
+Q.	So which is it, the afternoon or after sunset? 
+A.	It was in the evening, towards nightfall. 
+Q.	And this was on Radio Rwanda.  Do you remember saying on previous occasion, "It was the national radio and RTLM which announced this news."  Do you remember saying that? 
+A.	I told you that I heard the broadcast for the first time on Radio Rwanda in the evening.  And I also told you that at a point in time, Radio Rwanda broadcasts and RTLM broadcasts were not different.  And if I have said that I had heard it on RTLM or on Radio Rwanda, I wouldn't deny that.  But for the first time I heard the broadcast on Radio Rwanda, and it was re-broadcast again later. 
+Q.	Was your brother's son killed in Butare?
+A.	Can you please give me his name?  I am asking you to give me the name of my brother and his son's name. 
+Q.	No, I'm not going to do that, we are in open session.  I think the question is quite clear and specific.  Was your brother's son killed in Butare?  And what an extraordinary response from you, sir, if I may say so.  
+A.	I know that my brother's son was killed in Butare.  You are quite right. 
+Q.	Is your position -- are you, in fact, an active member of Ibuka in your commune? 
+A.	I'm not the chairman of Ibuka.  I'm not a member of any Ibuka committee in my commune.  I'm not a member of any of the bodies that belong to Ibuka. 
+Q.	Are you a member of Ibuka? 
+A.	Yes, I'm a member of Ibuka.
+Q.	And I have no other questions.  Thank you.
+A.	Thank you, Counsel. 
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  
+
+Ms. Fall?  
+MS. FALL: 
+Thank you, Mr. President.  If I take into account the constraints, I think there is very little time left for me to go into a re-examination.  However, I shall try and stick to the time allotted and I hope that if I go over that time by two or three minutes you will not hold it against me.  
+MR. PRESIDENT:
+Mr. Fall, I will give you two or three minutes if it is possible to complete today.  We are not pressing you, but if you could complete, we will wait on you.  
+MS. FALL: 
+Thank you, Mr. President.  
+RE-EXAMINATION
+BY MS. FALL:
+Q.	Mr. Witness, I'm going to put to you a few small questions because I believe that the questions that I put to you in my examination-in-chief have been repeated.  Now, you told us that you lived not far away from your brother.  
+A.	Yes, that's correct. 
+Q.	During the events that you spoke of here, you were close neighbours, you and your brother? 
+A.	Yes, we were neighbours. 
+Q.	Were you your brother's only neighbour? 
+A.	No.  There were many of us brothers who were living as neighbours, and there were also other people who were our neighbours. 
+Q.	Is it possible that those other people who were your neighbours during this time that you were living together, is it possible that they would have experienced the same events as you did? 
+A.	For most of them, yes. 
+Q.	Is it possible that these people who were neighbours who experienced the same events or incidents, could they -- could it be possible that at a given point in time they were able to see what was happening in your secteur during these events? 
+A.	Yes, these people were witnesses to the same events. 
+Q.	You told us over and over again that you were an eye witness to the fact that André Rwamakuba passed by five times from August 1994 (sic) in the framework of rallies that he was organising? 
+A.	Yes, that is correct. 
+Q.	Is it possible that these people who were living not far from you would have been able to see 
+	André Rwamakuba, maybe during other times, as he was going to organise the rallies? 
+A.	Yes, that's possible.  Those people saw him, and there were other people who knew him as well and who say so. 
+Q.	Thank you, Mr. Witness.  Yesterday when you were being asked when you got to know André Rwamakuba, the Defence put it to you, "Did you know that Rwamakuba was a student at Le Vent from 1970 to 1974?"  You heard that reference made by the Defence counsel, did you? 
+A.	I don't know about that -- I don't know whether, indeed, during that period of time Rwamakuba was a student at Le Vent.  I never got to know about his studies there. 
+Q.	Can you tell us when you met Rwamakuba, André Rwamakuba, for the first time? 
+A.	I met Rwamakuba for the first time in 1977; however, it was during that year that I met Rwamakuba and got to know that that person I was meeting was Rwamakuba. 
+Q.	So, if I were to refer to what Defence counsel said about his studies at Le Vent, this would be -- your meeting would be three years after 1974? 
+A.	Yes, that's correct.  
+MS. FALL: 
+Mr. President, I believe I have no further questions for this witness.  Thank you.  
+MR. PRESIDENT:
+Ms. Fall, you stuck to your promise.  Thank you, very much.  
+MR. HOOPER: 
+Mr. President, can we formally exhibit the tick list of this witness?  
+MR. PRESIDENT:
+Yes.  
+MR. HOOPER: 
+Which would be exhibit -- Defence exhibit?  
+MR. FRY:
+D. 17, Your Honour.
+MR. PRESIDENT:
+Yes, Mr. Registrar, the tick list is admitted as an exhibit?  
+MR. FRY:
+D. 17, Your Honour.
+(Exhibit D. 17 admitted)
+MR. HOOPER: 
+And reference is being made to the statement, and I think that should be exhibited -- or I apply for that to be exhibited too.  
+MR. PRESIDENT:
+It probably already has been exhibited.  Are there -- do you have numbers for the matters exhibited this morning?  Could you read them into the record, please?  
+MR. FRY:
+Your Honour, I have the numbers for the Prosecution exhibits and there are several Defence exhibits.  I'm not sure if you want to handle it today or on Monday.  
+
+Regarding the Prosecution exhibits from this morning, we've determined that P. 38 will be identical to IP.  6, but with the summary portion of the Amnesty International report redacted, or excluded.  
+Exhibit P. 79 will be identical to Exhibit IP 9.  Exhibit P. 40 will be the same as IP.  10.  Exhibit P. 41 will be the same as IP.  12, however, excluding the videotape of the Butare Hospital exhumation.  That's how I have noted the exhibits for the Prosecution, Your Honour.
+(Exhibit Nos. P. 38, P. 39, P. 40, P. 41 admitted)
+MR. PRESIDENT:
+The exhibits for the Defence, you have them identified?  Do you have them in your possession?  
+MR. FRY:
+I have them in my possession, yes, Your Honour.  
+MR. PRESIDENT:
+And they have been marked for identification?  
+MR. FRY:
+No, Your Honour.  
+MR. PRESIDENT:
+Do you wish to do that now or do you want to do that on Monday?  You'll put them in on Monday morning?  
+MR. FRY:
+I think we could handle it now, depending on the schedule of the Chamber.  
+
+MR. PRESIDENT:
+How long would it take? 
+MR. FRY:
+About 5 minutes, Your Honour 
+MR. PRESIDENT:
+Well, then I think we should do it now.  
+MR. FRY:
+Your Honour, the will-say statement for witness GLM will now be marked as D. 18.  The interview report, which is the notes des enquieteur, dated 14 February, we will mark as D. 19.  And the witness statements of the 11th February in English and French, would now be D. 20(A) and (B). I think that's all, Your Honour. 
+(Exhibit Nos. D. 18, D.19, D.20(A) and D.20(B) admitted)  
+MR. PRESIDENT:
+First of all, Madam Prosecutor, that -- you are satisfied that all the Prosecution exhibits have been dealt with satisfactorily?  
+MS. FALL: 
+I have no problem, Mr. President.  Thank you.  
+MR. PRESIDENT:
+Mr. Hooper, are you satisfied that all the Defence exhibits have been -- 
+MR. HOOPER: 
+Has GIT's statement been put in --  
+MR. PRESIDENT:
+Mr. Registrar?
+MR. HOOPER:
+-- given an exhibit number?  
+MR. FRY:
+The statement of GIT of 11th February 1998, is that the one you are talking about?  That will now be as 20(A) and (B), D. 20(A) and D. 20(B), Your Honour.
+MR. HOOPER: 
+That was GLM that went in as 20(A) and (B) a moment ago.  That was 21 -- sorry, perhaps I can sort it out after we've risen.  
+MR. PRESIDENT:
+Mr. Registrar, could you just confirm with the record, please.  
+MR. FRY:
+Your Honour, I have to check whether this is for GLM.  Just one moment.  
+
+Your Honour, this one is for GLM, 20A and 20B, that means GIT's statements are not yet a Defence exhibit.  
+MR. PRESIDENT:
+Do you have the statement, Mr. Hooper?  
+MR. HOOPER: 
+I will provide one on Monday and put it in.  
+MR. PRESIDENT:
+Ms. Fall, can we deal with that on Monday morning, the GIT statement?  I don't suppose there is any objection to its going into evidence?  
+MS. FALL: 
+No objection, Mr. President.  
+MR. PRESIDENT:
+Then we can deal with it on Monday morning.  
+
+Mr. Witness, you have come to the end of your -- of your evidence.  I'd like to thank you for coming here and giving testimony in this trial, and you are now free to leave and return to your home.  I would just enquire, has your medical treatment been completed?  
+THE WITNESS:  
+Yes.  I have taken my medication and that's why I am feeling much better today. 
+MR. PRESIDENT:
+I'm glad about that.  Well, I would just like to say that you are now excused, and we express our thanks for your attendance at court and for giving testimony in this trial.  
+THE WITNESS:  
+Thank you, Mr. President.  
+MR. PRESIDENT:
+We now -- I'm sorry.  
+
+Is there anything, any other matter to be addressed by counsel?  Madam Prosecutor, any other issues you wish to deal with now?  
+MS. FALL: 
+Mr. President, given the time, I don't think I will dare to have you stay here any longer.  
+MR. PRESIDENT:
+Mr. Hooper?  
+MR. HOOPER: 
+No, nothing else.  Thank you.  
+MR. PRESIDENT:
+We can take the adjournment now until Monday.  And, Mr. Registrar, we resume in which courtroom? 
+
+MR. FRY:
+Courtroom 4.
+MR. PRESIDENT:
+We resume in courtroom 4, on Monday morning, 8:45.  
+(Court adjourned at 1259H)
+(Pages 11 to 21 by Gifty C. Harding) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Donna M. Lewis, Wendy Molnar, and Gifty C. Harding, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+	___________________________	Donna M. Lewis
+
+
+____________________________	Wendy Molnar
+
+
+	_____________________________	Gifty C. Harding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	FRIDAY, 24 JUNE 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page i
+
+	RWAMAKUBA	FRIDAY, 24 JUNE 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 7
+
+	RWAMAKUBA	FRIDAY, 24 JUNE 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 10
+
+	RWAMAKUBA	FRIDAY, 24 JUNE 2005
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 11
+
+	RWAMAKUBA		FRIDAY, 24 JUNE 2005
+
+ICTR - TRIAL CHAMBER III
+

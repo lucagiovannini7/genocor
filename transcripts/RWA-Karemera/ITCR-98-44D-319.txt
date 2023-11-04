@@ -1,0 +1,1747 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44D-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	CALLIXTE NZABONIMANA
+
+
+MONDAY, 31 MAY 2010
+0906H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Solomy Bossa, Presiding
+	Bakhtiyar Tuzmukhamedov
+	Mparany Rajohnson
+
+For the Registry:
+	Ms. Marianne Ben Salimo
+	Mr. Edward Matemanga
+	
+For the Prosecution:
+	Mr. Paul Ng'arua 
+	Mr. Elvis Bazawule
+	Ms. Memory Maposa 
+	Mr. Simba Mawere
+	
+For the Accused Callixte Nzabonimana:
+	Mr. Vincent Courcelle-Labrousse
+	Mr. Philippe Larochelle
+
+Court Reporters:
+	Ms. Sithembiso Moyo
+	Ms. Judith Kapatamoyo
+	Ms. Eleanor Bastian
+	Ms. Rebecca McCoy
+	Ms. Sherri Knox
+	Ms. Lisa Smith
+	
+
+
+
+
+I N D E X
+
+WITNESSES
+
+For the Defence:
+JEAN-MARIE VIANNEY MPORANZI
+Cross-examination by Mr. Ng'arua (continued)	....................................................7
+Re-examination by Mr. Courcelle-Labrousse	48
+Further cross-examination by Mr. Ng'arua	49
+
+WITNESS T25
+Examination-in-chief by Mr. Larochelle	65
+
+EXHIBITS
+
+Exhibit No. P. 55 	61
+Exhibit No. P. 56 	61
+Exhibit No. D. 34	62
+Exhibit No. D. 35 	67
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MADAM PRESIDENT:
+Good morning, everyone.  The proceedings are resumed.  
+
+Could we have the appearances of the parties for the record before we call in the witness.  
+
+Prosecution, please.  
+MR. NG'ARUA:
+Good morning, Madam President, Your Honours.  The Prosecutor is represented as follows:  
+Memory Maposa, appeals counsel; Simba Mawere, assistant trial attorney; Mr. Bazawule, legal officer; Diana Karanja, associate legal officer; our two interns, Jamet Marion and Igor Barilik; and myself, 
+Paul Ng'arua, senior trial attorney.  As the Court pleases.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Could we have the representation of the Defence, please.  
+MR. COURCELLE-LABROUSSE:
+Good morning, Madam President, Your Honours.  The Defence team today comprises 
+Philippe Larochelle, a lawyer; and Nathalie Leblanc, lawyer; Nzabonimana, Erick Sullivan, intern; Célestin Kagango, investigator; Charles Brozille, intern; Élise Legall, intern; and a new intern who should stand up so we can recognise her, Ms. Angia Kortenaar.  Maybe I should spell that name.  
+Angia, A-N-G-I-A; Kortonne K-O-R-T-E-N-A-A-R.
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+We would like to welcome the intern to these proceedings.  
+
+And before the witness is called in, we wanted to finalise the question of the schedule in this case.  
+
+Prosecution, the Trial Chamber has a question for you because you are the only party who so far says you will not be available at the resumed session between 5th and 15th July.  We want to know whether you are to reconsider that because otherwise, the Trial Chamber has no other time to address this case for the rest of this year, apart from the October session.  
+MR. NG'ARUA:
+Madam President, we worked very hard since -- 
+MADAM PRESIDENT:
+Yes.  Registry, could you please discuss quietly because you are interrupting the proceedings.  
+Yes, Counsel.  
+MR. NG'ARUA:
+Madam President, we worked very hard on this matter and we are pleased to inform the Court 
+that we are able to meet the schedule as previously discussed.  We are able to be here on 
+5th to 15th of July 2010, so I don't think there is any problem.  
+MADAM PRESIDENT:
+Thank you very much, Counsel, for your consideration.  It appears now we will be able to sit between the 5th and 15th of July.  So that is now confirmed.  
+
+Defence Counsel, is that okay? 
+MR. COURCELLE-LABROUSSE:
+Yes, quite okay, Madam President.  
+MADAM PRESIDENT:
+We would like to thank you both, Counsel, for being flexible on this matter.  
+
+Could we have in the witness now, Registry.  
+MR. COURCELLE-LABROUSSE:
+Madam President, with your leave, I would like to say a word to the Chamber.  A lawyer -- a counsel 
+of the Tribunal was arrested on Friday in Kigali, our colleague, Peter Erlinder, a law professor, 
+a lawyer who is registered before this Tribunal.  That lawyer was going to Rwanda to be part of the Defence team of the opposition figure, Victoire Ingabire, and he was arrested on Friday and thrown in prison where, I believe, he still is at this time, and according to the latest information, he is supposed to be arraigned before a judge this morning.  
+
+What is extremely serious in this arrest of that American lawyer is that the Rwandan authorities arrested him on the basis of that lawyer's statements or his positions before this Tribunal as part of the defence of an accused person or in the context of his writings or lectures that he may have given, notably, 
+last week in Brussels.  So according to information in our possession, he was not arrested for any offence that he may have committed in Rwanda, but by the very fact of his stances outside Rwanda and, especially before this Tribunal.  
+
+The attorney general of Rwanda stated to Agency France Press that he was someone who denied the genocide in his writings and in his speeches.  Worse than that, he has become an organiser of negationism.  
+
+I would like to remind the Chamber that in December 2009 the minister of justice of Rwanda stated 
+that this Tribunal had become a legal theatre and the major organisation of survivors had called for defence teams to be prohibited from entering Rwanda, as well as their investigators to the extent that we disseminate a genocide ideology and negationism.  
+
+I believe that his arrest is a clear illustration of the problem that we have been facing in this case from the very beginning because, I would like to recall the Chamber that my co-counsel and myself -- or 
+my investigators were arrested in Rwanda in 2008 and expelled from that country.  It also illustrates the difficulties that we encounter, our legitimate fears or the legitimate fears expressed by many witnesses here.  If you can imagine that an American lawyer is arrested, what then can be the enormous fear of simple Rwandan citizens, peasants, who have to come and testify before this Tribunal.  
+
+At any rate, the Defence of Callixte Nzabonimana would like to express its support publicly right here forthwith and solidarity with Peter Erlinder in his present difficulty and solidarity with all the lawyers who are mobilising themselves today to obtain his release.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Prosecution?  
+MR. NG'ARUA:
+Madam President, very briefly.  Of course, the rule of law must be observed by all, including lawyers, myself included.  
+
+Now, we well know that Peter Erlinder was a Defence counsel in Major Aloys Ntabakuze's case.  
+But from all new sources that we have we know that he was not arrested for his participation or for comments made in that case.  In fact, that case, as we well know, ended up in the conviction of 
+Aloys Ntabakuze.  He was convicted and jailed for life and found guilty for genocide and war crimes.  
+
+Now, when counsel mixes up these things like oil and water, clearly, he causes confusion.  One might think that this gentleman has been arrested for that -- for his participation in this trial, but that is not the case.  We can make available to this Chamber the news report that is widely circulated by the international press.  
+
+Secondly, he then -- my learned friend then finds an angle to push in his own arrest.  Actually, 
+Counsel Labrousse was not arrested in Kigali for his participation in this case.  I remember very 
+well because I know he was arrested for failure to have gone there with a valid visa along with his investigating officer, Mr. Batard.  So again, you can see a deliberate confusion and amalgamation of various shreds of informing to come up with this idea that if somebody goes to Rwanda and he is a lawyer, he is for the Defence, he is likely to be arrested.  
+So far as I am aware, counsel for the accused person, Mr. Callixte Nzabonimana, has not, to 
+my knowledge, filed with the Registrar of this Tribunal any information to show that he has been harassed.  So all these things he says are not backed up by anything, save that we listen to him, sometimes we sympathise with his position, but it is wrong at least for somebody to say that 
+Peter Erlinder has been arrested because of his participation in this case.  In fact, it is a crime in Rwanda to deny the occurrence of the genocide of the Tutsis, just as it is a crime in Germany to deny the Holocaust of the Nazi -- of the Jews.  
+
+So if somebody comes to Kigali and publicly denies this genocide, he is most likely going to be arrested, whether he is a lawyer, whether he is a doctor, whether he is a peasant, because the law, as we know, does not discriminate.  
+
+In any event, My Lords, that is not our main issue.  We have great sympathy with Peter Erlinder's plight, but the issues brought forth by the Defence do not bear out the facts on the ground, and he has also found a way of linking that situation to his own witnesses before this Chamber.  We find that most disturbing, most misleading and we, as the Prosecution bench -- as the Prosecution bar are willing to cooperate with the Defence to ensure that no person who appears before this Court, be it a Defence witness or a Prosecution witness, or a witness called by the Court is in any manner subjected to any harassment or any intimidation in any country and we shall file the necessary documents if this matter arises for protection to be applied.  
+
+So let us not play to the gallery, try to get information out in the wrong manner, that probably the Defence is more concerned about witnesses than the Prosecutor.  We are very, very concerned.  
+
+A good example is the witness before this Court.  This witness, CNAO, was a Prosecution witness, 
+as you know, gave us two statements at various times in 1998 and 2003.  And, subsequently, 
+he disappeared from our radar only to emerge from the Defence side.  And he told us in last week's proceedings that he was induced to write a certain letter by the Defence, which was used in this Chamber in support of a motion for protective orders and not in the manner that Defence counsel had said it that he, himself, got in touch with the Defence.  He says that the Defence got in touch with him.  So all these things cause confusion, especially in light of what my learned friend has said with regard to the unfortunate arrest of Erlinder in Kigali.  
+
+So, My Lords, all we submit is that some of these things had better be given the proper 
+legal perspective and not given a political angle, because we, as the Prosecutors, are not a 
+political party.  We only deal with facts and law, and we find ourselves extremely embarrassed when counsel comes to court with that kind of information.  
+My Lords, I would wish to submit to you so that you see that we are not talking from the air, an article from the New York Times about the arrest of Mr. Erlinder.  As the Court pleases.  
+
+Registry, if you can help us.  
+MADAM PRESIDENT:
+Thank you, Counsel.  Are you done?  
+MR. NG'ARUA:
+Yes, Madam President, we are done.  
+
+Defence, briefly please.  
+MR. LABROUSSE:
+Madam President, we are pleasantly surprised at the Prosecutor's position, which clearly illustrates the difference in the situation of the Office of the Prosecutor and that of the OTP that cooperates habitually with the Rwandan authorities and that of the Defence which clearly is not in the same situation.  
+
+I just wanted to express the solidarity of lawyers with Peter Erlinder.  It is incorrect to say that the present state of information that we have Erlinder committed an offence in Rwanda.  All of the dispatches that have followed keenly all through the weekend show that Peter Erlinder was arrested 
+for his positions outside Rwanda.  At no time was it alleged that he had made any statement in Kigali and, in fact, the Rwandan authorities were not able to state that during this or that meeting on 
+Rwandan territory he uttered statements that were liable to be treated as a criminal offence in Rwanda.  
+
+Furthermore, the Rwandan prosecutor or the police spokesperson, I can't remember who he was, stated that Peter Erlinder should have -- expected what happened to him when he was coming to Rwanda and it was actually for his statements and positions before the Tribunal because for years Peter Erlinder has not denied the genocide, but his position has been fiercely opposed to the 
+ruling regime in Rwanda, that is, the RPF.  In addition to the fact that he is an American lawyer, 
+since Americans have been great allies of the ruling regime in Rwanda so far, that is what the 
+Rwandan authorities cannot stand.  And it was stated clearly that he was arrested for his positions and his writings and those positions were expressed in the context of the defence of an accused person before this Tribunal.  
+
+As to the fact that my investigator and myself encountered difficulties, as the Prosecutor made it sound, I may simply recall that I had called him for help on his mobile telephone while I was on remand in custody -- in custody in Kigali and we were expelled from Rwanda because the Rwandan authorities refused to grant us a visa, whereas that visa is habitually given to passengers upon arrival and including the French -- French citizens.  And even though we had an introductory letter from the Tribunal.  And in spite of the intervention of the Tribunal, we were detained for 12 hours in remand and, in fact, Fernand Batard was interviewed at midnight to understand the reason for his visit in Rwanda, whereas, I was waiting outside on a plastic chair.  That is a clear illustration of the great cooperation of the Rwandan authorities with the Defence teams.  
+
+As for the report on the conditions in which we carried out our investigations, I would like to remind the Prosecutor that our investigator, Claude Misano, had to flee Rwanda, even though the trial is not over, even though we did not formalise before the Chamber because we thought that we did not have enough time for that.  We had information to the effect that our team was monitored or tailed in Rwanda.  Persons exerted pressure on one of our witnesses.  And since the Prosecutor says before the Chamber that everything is all right for the Defence in Rwanda, it is completely false.  
+
+Now, to complete on Peter Erlinder, I would not like to take too much of the Chamber's time with this.  This is a dispatch from an article in the New York Times on Friday:  
+
+"Mr. Erlinder arrived in Kigali on Sunday to defend Victor Ngabire, an opposition leader, who is trying to stand as a candidate against the president but who was recently accused of assisting a rebel group and of espousing the genocidal ideology.  
+
+"Human Rights organisations claim that the Rwandan government has vaguely defined the concept of a genocidal ideology which is used to punish political opponents and persons who have a different version of the 1994 genocide in which hundreds of thousands of Tutsis and a smaller number of moderate Hutus were killed.  
+
+"The police spokesperson, Eric Kayingare, knows that Mr. Erlinder is accused of denying the genocide and of negationism on the basis of statements that he made before the Arusha Tribunal and statements that he has made in his books and in his articles."  
+
+So subject to the accuracy of the New York Times' article, this is what the 
+Rwandan police spokesperson has said.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+These are the observations of the Trial Chamber on this issue.  We note the information provided by both parties on this arrest.  And, secondly, we need to restate that should the Defence encounter any problems in the preparation of their case, we urge them to continue apprising the Trial Chamber of these immediately and any other appropriate organs of the Tribunal.  That is all the Chamber can say at this particular moment.  
+
+Can we have the witness brought in court.  
+(Witness entered courtroom)
+MADAM PRESIDENT:  
+Could the registry assist the witness adjust his ear set to his head.  
+
+Witness, good morning.  
+
+The ear set is bugging him, if you could assist to try to fit.  
+
+Witness, can you hear the Trial Chamber?
+THE WITNESS:
+Yes, I can hear you very well, Madam President.  
+MADAM PRESIDENT:
+Good morning.  Welcome back and we hope you had a nice weekend.  
+THE WITNESS:
+Good morning.  
+MADAM PRESIDENT:
+Yes.  How are you feeling this morning? 
+THE WITNESS:
+I have quite enough energy, Madam President.  Thank you.  
+MADAM PRESIDENT:
+Thank you, Witness.
+
+Prosecution, you may continue. 
+JEAN-MARIE VIANNEY MPORANZI, 
+CROSS-EXAMINATION (continued)
+BY MR. NG'ARUA:
+Q.	Good morning, Witness.  
+A.	Good morning, Counsel for the Prosecution.  
+Q.	May I request the registry to give you your statement of 25th August 1998.  It is in French.  
+MR. NG'ARUA:
+My Lords, it is found in tab number 2 of your folders.  
+
+My Lords, tab number 1 is the English translation of that statement.  
+
+MADAM PRESIDENT:
+Counsel, which date is the statement? 
+MR. NG'ARUA:
+My Lord, it is dated 25th August 1998.  
+BY MR. NG'ARUA:
+Q.	Witness, just to remind you where we are, last week you took us through the lies and the exaggerations that you made in that statement; is that correct? 
+A.	Yes, indeed, that is true.  
+Q.	Now, Witness, I want you to -- sorry.  I want you to look at the last paragraph of that statement where it says, "Callixte made threats towards me." 
+
+Did you find the passage, Witness?  
+A.	Yes, Counsel for the Prosecution, I have found the passage.  
+Q.	Could you kindly read that paragraph to the end.
+MADAM PRESIDENT:
+Counsel, please, switch off the microphone.  
+THE WITNESS:
+"Callixte made threats towards me when he was trying to have me replaced.  He told me I had done nothing.  Otherwise, how could I explain the fact that the Tutsis fleeing his commune were not 
+harassed in Rutobwe.  He thus assumed that I was working for the RPF.  One of my police officers had Tutsi features and Callixte criticised me for having a Tutsi in my police force.  I remained bourgmestre of Rutobwe commune until it was captured by the RPF in June 1994.  That is all I have to say for the time being."
+BY MR. NG'ARUA:
+Q.	Witness, can you tell the Court from that passage that you have read, can you point out the lies that you imagined and also point to us the information that was given to you by Gahunde.  
+A.	"Callixte made threats towards me when he was trying to have me replaced."  And that is my own lie.  "He told me I had done nothing.  Otherwise, how could I explain the fact that the Tutsis fleeing his commune were not harassed in Rutobwe.  So he told me I had done nothing."  That is not a lie.  
+	How could I explain the fact that the Tutsis fleeing his commune were not harassed in Rutobwe.  
+	It is true that Tutsis who were fleeing his commune were not being harassed, but it is not true that Callixte reproached me for that.  So there is partial truth in that portion of the sentence.  Some of it is true and another part is a lie.  He didn't blame me for this, but it is, indeed, what had happened.  
+	He, thus, assumed that I was working for the RPF.  That is my own lie.  One of my police officers had Tutsi features.  And Callixte criticised me for having a Tutsi in my police force due to that fact.  
+
+So it is true that I had Tutsis in the commune police force, and it is true that I had policemen who had Tutsi features, that is also true.  What is not true, however, is that Callixte criticised me for that.  
+Callixte criticised me for having a Tutsi in my police force is my own lie.  I remained bourgmestre for Rutobwe commune until it was captured by the RPF in June 1994; that is true.  That is all I have to say for the time being.  I can't say anything about that.  
+Q.	In short, Witness, the entire passage that you have read contains very many lies, is that not so, save for the fact that Tutsis were not harassed in Rutobwe and that you remained bourgmestre of Rutobwe until RPF took over in June; is that correct? 
+A.	No, that is not quite correct.  You need to make a distinction between the periods of time.  So the fugitives from Nyabikenke commune went down towards Kabgayi on the 9th and 10th and then isolated elements or number thereof on the 11th and the 12th.  So during that period of time it is, indeed, true that those who were passing by were not being harassed because I was in control of the corridor that we used to pass by.  But later on, in other words, when I was overwhelmed and that killings began in my own commune, at that point in time I could no longer control those fleeing who were lately looking for their friends in May.  So I was unable to control that situation.  It was just the reality of the situation at the time.
+Q.	Witness -- 
+MADAM PRESIDENT:
+Counsel, sorry to interrupt you.  But what did the witness say about the 11th?  We are not very clear about what he said about the 11th and 12th, and also if he could mention the month.  He said, "There were people fleeing from Nyabikenke towards Kabgayi on the 9th and the 10th."  But what did he say about the 11th and the 12th?  
+BY MR. NG'ARUA:
+Q.	Witness, you heard the President.  Can you kindly explain what happened on the 11th and the 12th, and please state the year and the month.  
+A.	We are still in April 1994.  So after President Juvénal Habyarimana's plane was shot down, I said in respect of the IDPs from Nyabikenke that most of them -- most of those IDPs, internally displaced persons went to Kabgayi -- towards Kabgayi on the 9th and the 10th.  But since people do not hide in the same place, they hide in homes of friends and they don't all leave at the same time.  On the 11th and the 12th there were people who continued to go down towards Kabgayi.  That is what I intended to say.  
+MADAM PRESIDENT:
+Thank you, Witness.  
+BY MR. NG'ARUA:
+Q.	Witness, all I am asking you is that in that passage that you have read, you have mixed lies with a 
+	few spices of truth to make that passage believable; is that correct? 
+A.	I don't agree with you, but I cannot contradict what you are saying neither.  
+Q.	Yes, Witness.  Witness, this is a lie that can only come from a sophisticated intellectual like you; 
+	is that not correct? 
+A.	That is your assessment; it is not mine.  
+Q.	Yes, Witness.  
+
+Witness, let's talk about the threats that you invented against Callixte Nzabonimana.  Did you hear it said by Gahunde or anyone else that Callixte had threatened you during the genocide? 
+A.	Yes, I read the testimony of the préfet of Gitarama who -- his testimony to the Ruhango Gacaca court which confirms that Mr. Callixte Nzabonimana came to the commune office and threatened me and insulted me.  Also in some reports that I have read there is a reflection of the story concerning the slap which I, myself, did not confirm in my statements.  
+Q.	So, indeed, your are telling this Court that when you say that Callixte made a threat towards you, you are referring to the incident -- the alleged incident that you were slapped by Callixte; is that correct? 
+A.	No, I am not referring to the slap.  
+Q.	So it is correct, isn't it, Witness, that the threats you are referring to in the passage of your statement that you have just read was not just a lie from you, it was something that was said; is that correct? 
+A.	I didn't mention the slap.  I mentioned threats and those are different, distinct from a slap.  
+Q.	Witness, I am not talking about the slap, please.  I am talking about the threats.  You have clarified to Their Honours that it is not about the threat -- about the slap, you are talking about threats.  And I am putting it to you -- I am asking you that is it not true that this is something that was said, particularly by Fidèle Uwizeye at the Ruhango Gacaca; is that correct? 
+A.	The testimony of Fidèle Uwizeye was made in 2003 and he spoke of events that took place in 
+	April 1994, and he makes mention of threats by Callixte Nzabonimana towards me, but doesn't mention the slap.  
+Q.	Thank you, Witness.  
+
+In short, what you are saying is that the entire passage is a concoction by you against Callixte Nzabonimana that goes well beyond what Gahunde had instructed you to say; is that correct? 
+A.	It doesn't go beyond what he asked me to say because he had asked me to look for arguments which may hold water before the ICTR.  So it is in that context that I needed to respond or act.  
+Q.	Thank you, Witness.  
+
+Now, Witness, I would like you to read the preceding paragraph where it says, "I did, in fact, hear the rumours that Callixte had slapped me."  
+A.	In fact, I heard that Callixte had slapped me and I must say that this story is pure fabrication.  In fact, I had arrested and detained in the commune jail demonstrators who had destroyed the homes and ate the cows of some Tutsi.  And when he was informed, Callixte came in person and released the detainees.  However, he did not find me there.  
+Q.	Thank you, Witness.  
+
+Now, Witness, did you hear it said that Callixte in that incident had slapped you four times on both cheeks with his forehand and his backhand in a very contemptuous manner, did you hear it said? 
+A.	No, I did not hear the number of slaps.  It is the frequency that is exaggerated. 
+Q.	Witness -- 
+A.	The slap incident, I did not confirm it but I believe that it appears in the reports in -- of Human Rights defence groups.  So it also appears allegations that Bourgmestre Gahunde had given me -- so I did not confirm that passage containing the slap incident because it appeared unlikely, implausible to me.  
+Q.	Witness, your testimony on the 25th and 26th of May 2010 you caused this Chamber to believe that you were under threat of the imprisonment, an imminent death, if you actually did not say what Gahunde wanted you to say to incriminate Mr. Callixte Nzabonimana.  Is that correct? 
+MR. COURCELLE-LABROUSSE:
+Objection.  
+MADAM PRESIDENT:
+Yes.  Can the witness leave the courtroom for a while.  
+(Witness exited courtroom) 
+MADAM PRESIDENT:
+Yes, Defence Counsel.  
+MR. COURCELLE-LABROUSSE:
+Yes, Madam President, Your Honours.  I believe that the Prosecutor's proposition is not correctly worded because it attributes words to the witness that he did not make last week.  The witness did not say that he had been expressly threatened with imprisonment and death by someone, as the Prosecutor puts it.  So I would like him to rephrase his proposition without stating that it was the witness who said so because that is not what he said last week.  
+MADAM PRESIDENT:
+Prosecution Counsel.  
+MR. NG'ARUA:
+Madam President, I would request that this ruling -- this objection be overruled because I put it to the witness that the threat that was operating on him was that of imprisonment.  And you recall very well he said that he was afraid of imprisonment for one thing that he was sure that if he went to jail, it would result in his death and that is why in what I put to him I said that he was under the threat of imprisonment and the ultimate death that would result from that imprisonment.  So it is not something that I am creating.  It is something that the witness can easily answer and understand, and I do not think that it is misguiding the Court or the witness.  So I would submit that this be overruled and that the witness clearly stated in his testimony in-chief that his main fear of imprisonment, per se, but the fact that he knew that if he went to jail, he would lose his life and that his children, who are young and needed him, would lose his support.  So I do not think I have overstated anything.  
+
+The witness clearly made a clear distinction about the threat that was over his head and that that 
+threat did not come directly from Gahunde.  It was implied.  This is not the point that I am making.  I am making the point that this is what was operating on his mind, yet the very thing that he was told to do, he refused to do it.  A very dramatic incident which has been reported all over.  He refused to do it.  This clearly negates the threat of the ultimate death resulting from imprisonment.  I think that counsel is being over sensitive about this.  If he refers to his notes, I am sure he would find that all those components are present and his objection is not merited and should be dismissed. 
+MADAM PRESIDENT:
+Briefly, Counsel.  
+MR. COURCELLE-LABROUSSE:
+Yes, Madam President.  I am not disputing the fact that the witness said that he felt threatened.  Conversely, the Prosecutor's proposition states -- I am reading from the French transcripts 10/05.  Question:  "Mr. Witness, on 25 and 26th, you misguided the -- you made the Chamber believe that you were threatened with imprisonment."  Then it refers to something implicit.  The rest of the sentence goes on as follows:  "So you were threatened with this, if you did not agree to repeat what Gahunde had told you."  
+
+So it is that proposition that I am disputing because the witness had never said that he had been explicitly and objectively threatened with imprisonment and death.  Just like someone may have told him:  "Sir, if you don't say this, we will imprison you."  The witness did not say so and it is only that part of the proposition that I do not accept because it attributes to the witness words that he did not say.  
+MADAM PRESIDENT:
+Perhaps Counsel, it would save the Chamber's time if you did refresh the memory of the witness as to what he said and then put the question.  
+MR. NG'ARUA:
+As the Court pleases.  Yes, in the interests of time.  
+MADAM PRESIDENT:
+Yes.  And, Learned Counsel, you could break it down in part, as learned counsel has pointed out, so that there is no misunderstanding about exactly what you are saying.  
+(Witness entered courtroom) 
+BY MR. NG'ARUA:
+Q.	Welcome, Witness.  
+
+Now, Witness, on the 25th and the 26th of May last week you told the Court that you gave 
+your statement of 25th August 1999 because you were under the threat of imprisonment; is that correct?  If you did not cooperate; is that correct?  And the statement is of 1999 -- I beg 
+your pardon -- 1998, sorry.  
+MADAM PRESIDENT:
+Witness, did you hear the question? 
+THE WITNESS:
+Well, what he said did not appear as a question to me.  
+MADAM PRESIDENT:
+Counsel, perhaps you should repeat your question.  
+BY MR. NG'ARUA:
+Q.	Yes, Witness, I will repeat my question to you.  It is a question for you to tell the Court.  Witness, on the 25th and 26th of May last week you told the Court that you gave your statement of 25th August 1998 because you were under the threat of imprisonment; is that correct? 
+A.	That is correct.  
+Q.	Witness, you were also afraid, as you told this Court, that such imprisonment would result in 
+	your untimely death; is that correct? 
+A.	Yes.  
+Q.	Witness, my question is this:  Given that one of the allegations that Gahunde asked you to confirm was a question of whether Callixte had slapped you, why is it then that you expressly did not follow his directions when you gave this part of the statement to the Prosecutor? 
+A.	I followed his recommendations except for the slap incident that I did not confirm.  
+Q.	Yes, Witness.  That is the question.  Can you tell the Court why is it when you are under such a threat, you decided not to do his bidding? 
+A.	That is because he had given me some latitude to rearrange the data or the information.  
+Q.	Is that all, Witness? 
+A.	That is all.  
+Q.	Thank you, Witness.  
+
+Witness, I put it to you that when you made this statement to the Prosecutor, you were actually under no threat whatsoever to your life or limb? 
+A.	Are you referring to the statement that I have before me or the first one? 
+Q.	Witness, you only have one statement before you and we have been discussing only one statement, haven't we, Witness? 
+A.	Yes.  
+Q.	And, Witness, what do you say to my proposition that you were under no threat in making that statement? 
+A.	It is the original duress that was still wearing on me.  But on the side of the investigator, there was no threat.  The threats came from the initial situation.  It did not stem from my contact with the 
+	investigators of the Prosecution.  
+Q.	Witness, at the time you made this statement, had you informed members of your family that you were being coerced and threatened to implicate Mr. Callixte Nzabonimana in a crime that he never committed? 
+A.	My family was made up of myself and my children, who were minors.  So the issue was too complex for children -- my children, because they were still minors, so that was my family.  My parents were too old, so I did not deem it necessary to inform them thereof.  
+Q.	Witness, is it not correct that when the very pleasant tactful beautiful lady from the Prosecution 
+	who came to see you in July 2008 saw you, you had a good opportunity to tell her that you had some worries about the statement, isn't it? 
+MADAM PRESIDENT:
+Learned Counsel, who is this beautiful lady you are referring to?  
+MR. NG'ARUA:
+It is the creation of the -- of Mr. Mporanzi.  But if you want to know, Madam President, it is 
+none other than Memory Maposa, who is sitting next to me here.  
+MADAM PRESIDENT:
+If the witness understands the question, he can answer.  
+THE WITNESS:
+The July 2008 statement, is that what you are referring to?
+BY MR. NG'ARUA:
+Q.	No, please, it is the meeting with the Prosecutor, the last meeting with the Prosecutor in Gitarama.  
+A.	I remember that in July 2008 a team came to fetch me and they asked me for confirmation and explanations on the two statements that I had provided.  So what had to be done was to confirm and 
+	I confirmed my two earlier statements.  
+MADAM PRESIDENT:
+Witness, did you inform them about the threats which were operating on your mind?  That was the question.  
+
+Is that so, Mr. Prosecutor?  
+MR. NG'ARUA:
+Absolutely.  
+THE WITNESS:
+No, I did not inform them about them because with the passing of the years and since I was also preparing for my departure, I did not want to reveal them because it would have caused a problem.  
+BY MR. NG'ARUA:
+Q.	Yes, but do you agree with me that that was a good opportunity to clear your conscience about the lies you had told? 
+A.	No, it was not a good opportunity for me because with the incidents that had occurred before, I did not entirely trust the investigators that they would not go and inform the intelligence services because I had doubts.  I was mistrustful and, in fact, I have the impression that the intelligence services were collaborating with the investigators.  So I was being very careful.  I did not want to open up to persons who could not solve my problems.  
+Q.	Thank you, Witness.  
+
+Now, Witness, with the help of the registrar, I will give you your statement of 2003.  
+MR. NG'ARUA:
+My Lords, it is tab number 3 and 4.  Tab 3 is the English version and 4 is the French translation.  So I would request tab number 3 -- number 4, which is the French original, to be shown to the witness. 
+MADAM PRESIDENT:
+Counsel, the date of the statement is 13th August?  
+MR. NG'ARUA:
+That is correct, 2003.  
+BY MR. NG'ARUA:
+Q.	Yes, Witness, do you have your statement, a statement dated 13th August 2003? 
+A.	Yes, Counsel for the Prosecution, I have that statement.  
+Q.	Do the particulars contained in paragraph 1, identification, refer to you? 
+A.	Yes, it is accurate. 
+Q.	And you signed that document on 8th of -- on the 15th of August 2003; is that correct? 
+A.	Yes, that is correct.  
+(Pages 1 to 15 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1030H 
+BY MR. NG'ARUA:
+Q.	Now, Witness, kindly turn to page number 4.  Do you see your signature there? 
+A.	Yes. 
+Q.	That is indeed, your statement; isn't it? 
+A.	Yes, Mr. Prosecutor, it is mine. 
+Q.	Now, Witness, may I request you to turn to page 3 of the English version, paragraph -- paragraph 3.  
+	In the French version, you will look for the paragraph that starts with the words:  "It should be recalled that the day after the president of the republic -- the death -- after the death of the president of the republic, on the 7th April 1994."  Do you see that paragraph, Mr. Mporanzi?  It's paragraph 3 on 
+	your French statement, page 3.  
+A.	Yes, I am there. 
+Q.	Can you kindly read to the Court that statement -- to the end of the statement -- to the end of the paragraph, ending with, "On 6 April 1994."  
+A.	"It should be recalled that the day after the death of the president of the republic, on 7th April 1994, Callixte Nzabonimana came to Rutobwe.  His presence did not go unnoticed.  The reason I emphasise this is because before the president's death, Callixte never stopped in Rutobwe to talk to the 
+	local population.  Surprisingly, as of 7th April 1994, he stopped there often and talked to the people.  
+	He tried to meet me on two occasions.  He even came sometimes to the commune office for that purpose, but I was away.  I was in Gitarama attending administrative -- ordinary administrative meetings held with the préfet of the town.  Today, I still affirm that Callixte Nzabonimana was aware of the killings and massacres of the population in his own native area of Nyabikenke after the death of the president on 6th April 1994." 
+MADAM PRESIDENT:
+Learned Counsel, before you pose the next question to the Witness, we heard:  "I was away in Gitarama attending an administrative meeting held with the préfet of the town."  And that's not what we see in the translation.  Could that be clarified?   
+MR. NG'ARUA: 
+As the Court pleases.
+BY MR. NG'ARUA:
+Q.	Now, Witness, you want this Court to believe that what you have said in that statement is nothing but a pure fabrication; is that correct? 
+A.	There's information there which is true and some which is not; so which are in other words, lies. 
+Q.	Can you kindly point to the lies?  Also, inform the Court the fabrications, and also inform the Court, the information you were fed by any other person, including Gahunde. 
+A.	You should recall that the day after the death of the president of the republic, in other words, the 
+	7th of April 1994, Callixte Nzabonimana came to Rutobwe and his presence was so very noticeable.  So that was a lie on my part.  I am saying this in full awareness of the fact that that is also a lie on 
+	my part.  
+
+	Paradoxically, from the 7th of April - surprisingly, as of the 7th of April 1994, he stopped there often and talked to the people.  That is also a lie. 
+
+	"He tried to meet me on two occasions, he even came by the commune office but I was away.  I was in Gitarama attending administrative meetings with the préfet of the area."  Today, I am saying there, that this is, once again, lies on my part.  
+
+	"Today, I still affirm that Callixte Nzabonimana was aware of killings and other massacres of part of 
+	the population in his own native commune of Nyabikenke, after the death of the president on the 
+	6th of April 1994."  Once again, this is a lie on my part. 
+Q.	Witness, you agree with me that this is a pure fabrication from your side.  So you want this Court to look at this as a pure fabrication from your side; is that correct? 
+A.	Yes, the larger portion of this paragraph are lies fabricated by myself.  But the fact remains with regard to Callixte Nzabonimana coming to Rutobwe, this is drawn from the allegations concerning the campaign that Callixte Nzabonimana allegedly came to Rutobwe in order to sensitise people to commit genocide. 
+Q.	Now, with regard to Callixte Nzabonimana's presence in Rutobwe, were you given these facts by Gahunde or by somebody else, and if so, can you say who? 
+A.	This appeared in the allegations that Gahunde gave to me. 
+Q.	But if you recall very well, Witness, that in the allegations given to you by Mr. Gahunde, this was not one of them.  What he had asked you to say was, firstly, about incitement; that Callixte had incited people.  Secondly, that Callixte had threatened and slapped you.  And, thirdly, was that Callixte had released prisoners.  Where does this fit in now?
+A.	The fact does not appear in this passage because during the interview I was always answering questions put to me by the investigators.  And it was the investigators who directed the interviews orientations.  So it is true that -- well, all the allegations do not appear in this paragraph but they appear elsewhere. 
+Q.	Witness, what you have told the Court is a lie; isn't it?  You cannot make this up, Witness.  You cannot make up that somebody is at a certain place on the 7th when you, in fact, did not know where he was; could you? 
+MADAM PRESIDENT: 
+	Witness can you answer. 
+THE WITNESS:
+	I don't know where -- yes -- there's a confusion which appeared in the question.  I don't know how to place it.  When you say that I didn't know where Callixte Nzabonimana was on the 7th, I had told you already that that was a lie. 
+BY MR. NG'ARUA: 
+Q.	Witness, you cannot answer that question because what you have said there is the truth; isn't it? 
+A.	Your series of questions and their acrobatics, they require means how to expend a certain amount of energy.  Thus far, I am kind of lost. 
+Q.	Witness, there's some water in front of you, you can please make yourself at home and have a drink.  Now, Witness, can you look at paragraph 1 of your statement?  Have you seen it, Witness? 
+A.	Yes, I have. 
+Q.	Can you read it to the Court, please? 
+A.	"This is the second time I have been afforded the opportunity to speak to the investigators of the International Criminal Tribunal for Rwanda regarding the events of 1994.  I believe I already gave a statement between 1998 and 1999.  We spoke of Callixte Nzabonimana.  However, I have no objection to talking about him, once again, in order to clarify any points you think need clarification.  As to whether I can testify before the Tribunal in Arusha, that will depend on my receiving better treatment from both, the Rwandan association, Ibuka, and the ICTR." 
+Q.	Thank you, Witness.  Now can you tell the Court, did you tell lies in that statement? 
+A.	I would like you to specify whether it's just the paragraph I have just read or the whole statement?  
+Q.	Just the paragraph you have read? 
+A.	Yes, that is the truth. 
+Q.	At this point in time when you made this statement were you still under the threat of imprisonment from the Rwandan authorities? 
+A.	Yes, because the initial constraint or coercion was still there.  It had not been removed, so we were still in the same context as we were initially. 
+Q.	Yes, but here you are not talking like a Mickey Mouse, you are talking like a lion.  You are saying that unless you receive better treatment, you will not cooperate; is that not the case? 
+A.	It's not what I am saying, but if you allow me time to explain what the mistreatment entailed, you would be in a better position to understand me. 
+Q.	But, first, answer whether or not you are giving conditions for your cooperation. 
+A.	Here we are not dealing with conditions that I am expressing to the investigator, rather, this is a different situation -- another situation.  So here, it's necessary for me to explain if you allow me to do so. 
+Q.	Witness, I will allow you to explain later, but for now just answer my question.  Have you now received the treatment you sought from the Prosecutor -- from the Defence for whom you are now testifying?  Can you tell the Court? 
+MADAM PRESIDENT:
+Counsel, your question is not very clear to the Trial Chamber 
+
+MR. NG'ARUA: 
+I will clarify, My Lords.  I understand that. 
+BY MR. NG'ARUA:
+Q.	Witness, have you now received the treatment you did not receive from the Prosecution -- from the Defence Counsel, or from the Defence of Callixte Nzabonimana to testify for Callixte? 
+MR. COURCELLE-LABROUSSE: 
+Objection. 
+MADAM PRESIDENT:
+Witness, hold on.  
+
+Yes, and could you kindly leave the courtroom so that we -- 
+MR. NG'ARUA: 
+Madam President, maybe I can in the interest of time, Mr. WVSS (sic).
+
+I will try and save time and rephrase the question so that -- 
+MADAM PRESIDENT: 
+All right.  Let's hear your rephrased question. 
+MR. NG'ARUA: 
+Yes, yes. 
+BY MR. NG'ARUA:
+Q.	Witness, what treatment did you demand from the Prosecutor in order for you to testify for him in 
+	this trial? 
+A.	You are asking me questions outside the context of the present situation.  I have requested that I be allowed to explain the context and I don't see why my request is being rejected.  So here we are dealing with the situation that has to be explained.  So when you are asking questions, they come outside the context to which I am referring here in this sentence.  When I have made reference to better treatment from both, the Rwandan association, Ibuka, and the ICTR, please, allow me the time explain to you what the situation is.  
+Q.	Witness, you will explain.  I certainly will make sure that you have time to explain.  But all I want you 
+	to tell this Court is what is the better treatment you expected from the Prosecutor; can you say that? 
+A.	I am not going to answer unless I am allowed to explain the situation -- in which I found myself in 
+	this particular situation. 
+MADAM PRESIDENT:
+Yes, Witness, you can give the answer and the explanation together.  Can you answer the question, what better treatment?  And explain.  
+THE WITNESS:
+Here we are dealing with attitudes that are to be adopted towards me.  So it's not material treatment but it is more psychological or moral treatment that I am dealing with. 
+BY MR. NG'ARUA:
+Q.	Can you tell the Court now whether -- what attitude did you want the Prosecutor to approach you with? 
+A.	The explanation that I can provide is linked to the explanation that I can also provide to 
+	the Ibuka association.  So, they go together.  These explanations go together.  I cannot explain one part and leave aside another. 
+Q.	Witness, we will come to Ibuka.  Can you give to the Court the explanation as to what attitude you expected the Prosecutor to approach you with? 
+MR. COURCELLE-LABROUSSE: 
+Objection. 
+MADAM PRESIDENT:
+Witness, would the Trial Court -- you should assist the Trial Chamber with answers because we want to understand your evidence, we want to understand what motivated you at any given time to do what you did.  So this is a simple question.  What attitude did you expect the Prosecution to adopt towards you? Because you have said, it was not a question of material things, it was attitudes.  So we want to know; what attitude was it that you expected from the Prosecution?  It's a simple question, then after that, you can explain about Ibuka, when you are asked to do so.  
+THE WITNESS:
+From the ICTR investigators I expected them to treat me with politeness.  They were to treat me with understanding within the scope of my readiness or availability.  And above all, not always to go through the intelligence services in order to locate my residence, because the intelligence service personnel were being of a disturbance to me. 
+MADAM PRESIDENT:
+Thank you, Witness. 
+
+Yes, Counsel 
+BY MR. NG'ARUA:
+Q.	Witness, you expected the Prosecutor to approach you with the attitude that the lady Prosecutor approached you with when he (sic) saw you in July 2008; isn't it? 
+A.	With an attitude which is polite, courteous.  And the last investigator was characterised by that attitude and the first investigator also, even the second, but there were incidents which occurred with others, otherwise the last investigator was very courteous. 
+Q.	Witness, you agree with me that within the Prosecutor's office there's capacity for courteousness, respect, and tactfulness as displayed by the lady Prosecutor who came to see you; isn't it? 
+MR. COURCELLE-LABROUSSE: 
+Objection. 
+
+MR. NG'ARUA: 
+Madam President, I will pass that question.  I will leave it in the interest of time. 
+MADAM PRESIDENT:
+All right, continue, Learned Counsel 
+BY MR. NG'ARUA:
+Q.	Now, Witness, can you tell the Court what or when - when, before you made this statement, had you talked to Mr. Gahunde? 
+A.	No, I didn't speak with Mr. Gahunde. 
+MADAM PRESIDENT:
+Counsel, we have approached the time for break.  
+MR. NG'ARUA: 
+It's a good time to pause, My Lord.  
+MADAM PRESIDENT:
+Witness, we are taking the morning break.  You are still testifying, so do not discuss your evidence with anyone.  
+
+The proceedings are adjourned to 11:30 this morning.
+(Court recessed from 1100H to 1130H) 
+MADAM PRESIDENT:
+Good morning, once again, Witness.
+
+The proceedings are resumed.  
+
+Prosecution Counsel, you may continue.  
+MR. NG'ARUA: 
+Thank you, Madam President.  
+BY MR. NG'ARUA:
+Q.	Witness, you want this Court to believe that your cooperation with the Prosecutor was a desired goal of the Rwandan authorities.  Would it be true that the presence of the Prosecution officials clearly sent the right signals in your favour to the Rwandan authorities? 
+A.	I don't quite understand the scope of your question. 
+Q.	The question is very simple.  Witness, you have told this Court that the Rwandan authorities wanted you to cooperate with the Prosecutor of the Tribunal; isn't it? 
+A.	Yes, that's right. 
+Q.	It follows, therefore, that it's true, isn't it, that the presence of investigators with you at your home would send the right signals to the Rwandan authorities.  What do you have to say to that? 
+A.	I don't quite understand the last part of your question.  "The appropriate signals."  I don't quite really understand what you have to say. 
+Q.	Witness, the Rwandan authorities would have known that the Prosecution investigators, according to you, had come to your house; isn't it? 
+A.	I am in a relationship with only one single authority, and that was the bourgmestre of 
+	Rutobwe commune.  So it's not with several persons in authority; just one. 
+Q.	Witness, did the bourgmestre have an intelligence service under him? 
+A.	But no.  At the time when I made that second statement Mr. Gahunde had stepped down a year earlier.  So he stepped down in 2001.  And then also for one to know where I was living, the investigators had to go through the intelligence service in order to find me, because after Gahunde resigned, he went to live in Mutara, which is further to the north east of the country. 
+Q.	Witness, if your assertion is true that the authorities wanted you to cooperate with the Tribunal, does it not follow, Witness, that the presence of investigators at your doorsteps would have been more of a favour to you than a curse, as you want this Court to believe? 
+THE ENGLISH INTERPRETER:
+Madam President, could counsel please be requested to repeat his question, especially the last portion which is not clear to the interpreters in question.  Thank you.
+MADAM PRESIDENT:
+Counsel, the interpreters are asking you to repeat your question which was not clear to them, especially the last part of it.  So if you could kindly repeat the question?  
+BY MR. NG'ARUA:
+Q.	Witness, if your assertion is true that the authorities wanted you to cooperate with the Tribunal, does it not follow, Witness, that the presence of investigators at your doorsteps would have been more of a favour to you than a curse as you try to make the Court to believe? 
+A.	I don't think so. 
+Q.	Yes, what don't you think, Witness; can you tell the Court? 
+A.	I don't think that the situation in which I found myself -- in other words, that of collaboration or cooperation with the ICTR and the regime in power should have necessity to be favourable to me because the initial circumstances had changed. 
+Q.	Witness, are you telling this Court that the fear you felt of reprisals if you did not implicate 
+	Callixte Nzabonimana and gave a statement against him to the Prosecutor, that that threat was only personal to Mr. Gahunde and not to the Rwandan government? 
+A.	I believed that Mr. Gahunde, who was a person of authority who knew me, represented the powers that be.  But apart from Gahunde, I didn't get in touch with any other authority or person of authority. 
+Q.	Yes, so in other words, Witness, you are telling this Court after Gahunde left his position as bourgmestre, then you were free to express yourself truthfully to the Prosecutor at the time when you made this statement; isn't it? 
+A.	I was not free, because in order for them to find me, the investigators still had to go through the intelligence department.  So Gahunde's resignation doesn't necessarily mean that I was safe in respect of the coercion that I had been a subject of, initially. 
+Q.	Witness, I must say that your answer does not add up.  Now, can you turn to page 4 of your statement?  The statement of 2003, it's -- the English is tab 3 and the French is tab 4. 
+THE ENGLISH INTERPRETER:
+Your microphone, please Counsel. 
+MR. NG'ARUA: 
+Is tab 4.  
+BY MR. NG'ARUA:
+Q.	Witness, can you turn to the place where it says:  "He left and went to visit other small localities after addressing the people."
+MADAM PRESIDENT:
+Counsel, do we have the paragraph for the record, please, both in French and in English.
+MR. NG'ARUA: 
+Yes.  The paragraph in English is the first paragraph of page 4 at K0283233.  And in the French, I believe, it's paragraph 2 at K0500325. 
+BY MR. NG'ARUA:
+Q.	Can you kindly read to the Court that paragraph. 
+A.	"He left and went to visit other small localities after addressing the people.  I call that a 
+	sensitisation campaign and rightly so.  In short, after that, between the 17th and 18th April 1994, the people of Rutobwe organised themselves to seize the cows of Tutsis.  They would slaughter and eat them.  
+	
+	"On another occasion, Callixte Nzabonimana came and told the people in the small Butare locality 
+	that they had not eaten enough cows.  That it wasn't sufficient to eat the cows.  According to him, 
+	it was necessary to eat, 'the owners'.  By 'eat', Callixte Nzabonimana meant that the people were to exterminate, massacre or kill the owners of the cows; namely, the Tutsis.  Those who were unable to get their hands on the cows grabbed the belongings of their Tutsi neighbours who ransacked 
+	their houses.  As such, houses were, for the most part, abandoned by their owners who had sought shelter with their neighbours or acquaintances.  Hence, when the situation erupted in Rutobwe between the 19th and the 24 of April 1994, with the large-scale killings of Tutsis, Nzabonimana was seen there less frequently." 
+Q.	Witness, is that information within your knowledge or are these - or, is this information given to you by somebody else? 
+A.	No, these are things which I was told to say.  But it is information on those who ate cows.  So here, I am an eyewitness.  I saw them do so, because I stopped them from eating the cows.  But there's also other information which arises from my own fabrication.  Those who ate the cows, I was a witness to them, that, indeed, the cows were eaten.  
+
+	And as for the other statements, the last sentence -- in other words, all the other statements up to the end of this paragraph, this was my own making.  So they are not true.  They are lies.  
+
+	Now, the second last paragraph, the last -- the last sentence.  "Hence when the situation erupted in Rutobwe between 19th and 24th April 1994, with a large scale killing of Tutsis, Nzabonimana
+	was seen there less frequently."  This last sentence -- something in it which is not true is that, in 
+	Rutobwe commune, the genocide did not begin after the 19th, but it began on the 14th.  So what I am saying is that it began on the 19th.  So that is not true.  So here I merely wanted to highlight the meeting of the 19th -- of the 18th, I beg your pardon; the meeting of the 18th. 
+Q.	Now, Witness, that can be the case.  Now, can you tell the Court, the turn up of this last statement, where you say that, "Between 19th and 24th April 1994, with a large-scale killing of Tutsis, Nzabonimana was not seen there -- was seen there less frequently."  Does it not suggest, Witness, that you are trying to remove away Callixte Nzabonimana from the large-scale killings of Tutsis when you are supposed to be implicating him.  What do you say to that? 
+A.	That is not true.  That's not what I want to say, what I mean. 
+Q.	Can you tell the Court what you mean by saying that Nzabonimana was seen there less frequently between 19th and 24th April? 
+A.	First of all, it was a gratuitous statement that I made to give the impression that Nzabonimana, Callixte, having completed the sensitisation to the commission of genocide, that it was no longer necessary for him to come back to the Rutobwe commune.  But it also is a lie by wanting to prove that 
+	Mr. Callixte Nzabonimana, through his sensitisation campaign, played a major role in the 
+	Rutobwe genocide -- or the genocide in Rutobwe commune.
+Q.	Witness, we will come to that.  
+
+	Now, Witness, if you were pressed by the intelligence services of Rwanda to say what you mean, by the statement that Callixte Nzabonimana was seen there less frequently, what would you tell them? 
+A.	The intelligence services limited themselves to making the link between myself and the 
+	Tribunal's investigators; otherwise I don't remember that I was supposed to report to them what I had said or statements that I had given.  So this intelligence service was exerting pressure so that I receive the investigators, but they didn't insist on the content of my statements to the investigators, as had been the case with Bourgmestre Gahunde 
+Q.	So you are saying, Witness, that you were at liberty once you met the Prosecution investigators to tell them the truth; isn't it? 
+A.	No, I needed to remain with the initial context.  In other words, continue to fabricate information right up to the end. 
+Q.	Witness, I put it to you that the difficulty you are having in explaining this statement is because it is true and you want it to appear to be false.  What do you say to that? 
+A.	That is your own assessment and I have nothing to say. 
+Q.	Thank you, Witness.  Now, look at the next paragraph where you talk about Mr. Isaac Kamali.  Can you read that part to the end? 
+A.	"Isaac Kamali, a slender man, with a light complexion, was a prominent, wealthy civil servant.  I saw him during the genocide in May at a locality in Butare, in Nyabikenke.  He was dressed like the 
+	five Interahamwe who were his bodyguards.  They all wore military jackets and civilian trousers.  
+	Isaac Kamali, himself, was carrying a firearm, a rifle, of which I don't know the exact make, and so were his Interahamwe -- each of his Interahamwe. 
+Q.	Now, Witness, with regard to Isaac Kamali, what can you point out in that paragraph that you made up or are lies and what is in that paragraph that you were told by other persons? 
+A.	There was a matter of erroneous identification in respect of Isaac Kamali and misidentification.  In fact, the image or the person, Kamali, I didn't know him physically at all.  But the person who passed by the place where the brigadier and I had parked the pickup, that person stopped.  He greeted us because he realised that this was a state vehicle.  He asked us whether we had a problem.  I said; no, we didn't have any.  And after his departure I asked the brigadier, "Do you know this person?"  The brigadier answered, "Yes.  He looks like one, Kamali from Nyabikenke."  But, in fact, I had never seen Kamali.  So I don't know him.  And if the description I am making here of the man that I saw, a slender 
+	man with a light complexion, this is actually the description -- it's really not a description.  It's a type of physical person.  But it is not Kamali, but it wasn't him.  It was a case of misidentification which is -- this is the information which I received from the brigadier who knew people somewhat. 
+Q.	Witness, do you agree with me that one of the instructions that you had been given by Gahunde 
+	was only to lie against Callixte Nzabonimana.  Why is it then that you are lying against Kamali now?  
+	Is it fear? 
+A.	No, here the investigator asked me whether I knew Kamali.  And I remembered that someone who had been taken to be - or, mistaken to be Kamali in the past had come by.  So it is information which I was providing to the investigators, but information for which I could not grant its exactitude. 
+Q.	But my question, Mr. Mporanzi, is not what you have answered.  My question is this:  Why would you 
+	lie to the investigator about Kamali, whereas, you had not been mandated to do so?  Why would you 
+	do so? 
+A.	I didn't lie about Kamali.  I lied about the person who had come to me who was in my presence.  I am describing the person whom I saw and people who were with him when I saw him.  But the confusion arises from the fact of the identification which was provided to me by the brigadier.  So I cannot certify that that information is correct, as to whether it was, indeed, Kamali or some other person.  But as I am describing this other person and the people with whom he was, that is a correct image.  I still have it in my mind.  What I wasn't sure about is whether it was, indeed, Kamali or not. 
+Q.	Witness, correct me if I am wrong.  The question that the investigator put to you in order to elicit this answer was, "Mr. Mporanzi, did you know Isaac Kamali?"  Is that correct?  
+A.	No, that is not the question that they put to me.  They asked me whether I had heard people talking about a certain Isaac Kamali.  That is all. 
+Q.	But here, we are not describing about people talking about Isaac Kamali.  You are saying: I saw him. 
+	A slender man with a light complexion.  Surely, Witness, you are misleading this Court; aren't you? 
+A.	I think it is still the problem of false identity that was provided to me by the brigadier. 
+Q.	Witness, this person -- whose false identity you gave to the Prosecutor -- he was accompanied by 
+	five Interahamwe; isn't it? 
+A.	Yes, that is correct. 
+Q.	And he had a firearm and you did not know the make; is that correct? 
+A.	Yes, that is my statement. 
+Q.	And his Interahamwes were armed; isn't it? 
+A.	Yes, they were armed. 
+Q.	Can you describe to the Court how you knew the five persons with Mr. Kamali were Interahamwe? 
+A.	Okay, I was able to judge from their judgement -- from their clothing because the Interahamwe dressed differently from the soldiers of armed forces, the FAR, and they did not wear berets on their heads, berets that have the seal of the republic.  So that is what I rely upon to say that the persons who were with him were Interahamwe. 
+Q.	Witness, would you say that during the genocide there was a lot of beer drinking in various centres; would you say so? 
+A.	Sorry. 
+Q.	During the genocide, would you say that people met at various places, shopping centres and drank beer, especially banana beer? 
+A.	Yes, it is the tradition of Rwandans.  Those are meeting points.  So one can go there to take a drink or to buy some other good or item, but it is true that the small centres were meeting points. 
+Q.	Witness, why are you avoiding my question?  It's a very simple one.  During the genocide was it common for people to congregate at those centres and have beer; yes or no, or you don't know?  
+A.	Yes, it was common.  It was a common occurrence.  The centres continued to function as usual. 
+Q.	Witness, and the beer during the genocide was bought by people who were sensitising the drinkers to kill Tutsis; is that correct, would you say so? 
+A.	No, that is not true.  People could buy drinks from their own pockets or they could take drinks offered to them by their friends or family members. 
+Q.	What about inciters who came to get these people, idle people drinking beer, to kill Tutsis; was that not the exact place where the best effect could be had? 
+A.	That is not true. 
+Q.	Witness, turn to page 3 of your statement and look at the last paragraph. 
+MR. NG'ARUA: 
+My Lords, in English it will be page 3, the last paragraph as well, where it starts with a sentence:  
+	"One day we were passing through Rutobwe." 
+MADAM PRESIDENT:
+Yes, Counsel, for the record, we are still referring to the statement of -- 
+MR. NG'ARUA: 
+Of 2003, My Lords.  13th August 2003. 
+BY MR. NG'ARUA:
+Q.	Can you read for the benefit of the Court what you told the Prosecutor?  Can you read it aloud, please? 
+A.	"One day while passing through Rutobwe, Minister Callixte Nzabonimana stopped to buy beer for people in a small trading centre in Butare.  This was something he was not known to do habitually.  There were almost 50 people at the centre in the afternoon.  Those were the people Nzabonimana addressed on 7th, 8th and 9th April, 1994, saying:  'You seem to be asleep.  You don't realise the enormity of the current events in Rwanda.  I think you have forgotten the 1959 revolution and do not yet realise the danger facing you.'" 
+Q.	Witness, is that something within your knowledge?  Is it a fabrication or is it something that somebody told you? 
+A.	First, it is a lie because Callixte did not offer beer to people to incite them to kill Tutsis.  So this is still part of the allegations that I made against him to the effect that he had sensitised people to commit the genocide.  So right up to the last paragraph, nobody told me what I had said in this statement.  So apart from his stopover in Butare, and the purported stopover in Butare to sensitise people to commit the genocide, the rest of the passage right up to the end of the paragraph is an invention on my part. 
+Q.	Witness, notwithstanding the invention on your part and the lies, did you hear it said, at any time, that Callixte bought beer for people in a small trading centre -- in a small trading centre in Butare during the genocide? 
+A.	The idea of offering beer to people was made up by me because in Rwandan culture if you want to speak to people to obtain something, beer plays a major role. 
+Q.	So, Witness, you agree with me, don't you, that during a political crisis, the drinking of beer becomes a very popular thing; is it correct? 
+MR. COURCELLE-LABROUSSE: 
+Objection. 
+MADAM PRESIDENT:
+Yes, Counsel, what is the basis for your question?  
+MR. NG'ARUA: 
+My Lords -- 
+MADAM PRESIDENT:
+The witness has said:  "In Rwandan culture if you want to speak to people to obtain something, beer plays a major role."  So you should start from there.  
+MR. NG'ARUA: 
+Yes. 
+BY MR. NG'ARUA:
+Q.	Witness -- 
+MADAM PRESIDENT:
+Counsel, if the question was rephrased, would that take care of your concern?  
+MR. NG'ARUA: 
+He seems to be saying yes; isn't it?
+MR. COURCELLE-LABROUSSE: 
+Yes, I think the question should have some basis. 
+BY MR. NG'ARUA:
+Q.	Witness, beer is an important part of the political process.  Would you say, Witness, that during the genocide there was more drinking of beer than before the genocide? 
+A.	Beer does not play a role in political context.  That -- I stated that it plays a role in a cultural setting, not in the context of politics. 
+Q.	Right Witness, the record will bear you out.  So Witness, during the genocide there was a lot to be spoken about; isn't it? 
+A.	Who had to say what, where?  I didn't see any reference to time and space in your question. 
+Q.	Witness, never mind.  I will move to the next question.  Witness, is this the first time you were telling the Prosecutor that Callixte was involved in the buying of beer during the genocide? 
+A.	The impression I have -- I really -- I don't remember all the details in the first statement.  Sometimes, there are differences between the first and the second statements.  But here I do not know if it is the first or the second time. 
+MR. NG'ARUA:
+	May I ask registry to give you your statement of 1998. 
+BY MR. NG'ARUA:
+Q.	 Witness, I put it to you that this is one of the -- this is one of the items that you have consistently told the Prosecutor in your interviews; is that correct? 
+A.	I do not deny it.  It is possible.  I have trouble with the details.  I have trouble remembering them quickly, so it is possible.  Be it what, I don't know whether it is the first or second time.  But what I know is that I stated that Mr. Callixte Nzabonimana's method of approach towards people to sensitise them was by means of beer. 
+Q.	Yes, Witness, can you refer to page 4 at the top of the paragraph where you say: "In hindsight."  
+MR. NG'ARUA:
+	In the English translation it is page 3 and it's about paragraph 4. 
+
+MADAM PRESIDENT:
+Counsel, and we are referring to the 1998 statement?  
+MR. NG'ARUA: 
+Yes, now we are referring to the 25th August 1998 statement, Your Honours. 
+BY MR. NG'ARUA:
+Q.	Yes, Witness, have you found the place? 
+A.	Not yet. 
+Q.	Have you found page 4 of your French statement?  The number at the top is K0058820.  
+MADAM PRESIDENT:
+And in English, Counsel?  
+MR. NG'ARUA: 
+Yes, in English it's page 3.  The K number is K009 -- it starts with K0097508.  And it's a small paragraph, number 4 in hindsight.  In French the first word is:  "Analyse."  
+THE WITNESS:
+	Yes, I have found the passage. 
+BY MR. NG'ARUA:
+Q.	Please read it to the Court? 
+A.	"In hindsight, it is clear that Callixte Nzabonimana took advantage of the people's poverty to unleash them against one another, notably, by buying them as much beer as they wanted when he came by.  
+	He never invited me to his sensitisation meetings.  Moreover, he did not meet me because he was a minister and I, a mere bourgmestre.  In addition, he was with the MRND and I with the MDR.  He never trusted MDR bourgmestres.  He was more at ease with a bourgmestre who belonged to his party."
+(Pages 16 to 29 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1230H 
+BY MR. NG'ARUA:
+Q.	Thank you, Witness.  Now, Witness, does it jog your memory that this item has not only been stated here but it has been repeated in 2003, when Gahunde was not in power; do you agree? 
+A.	It is true that it is repeated, but it is difficult for me to know exactly where.  
+Q.	Witness, is it true that during the genocide Callixte took advantage of the people's poverty to unleash them one against another? 
+A.	This is false; it is a lie that I made up. 
+Q.	Witness, is this a lie that was told to you by Gahunde or is it a pure fabrication for -- on your part? 
+A.	I stated that it was my own lie.  So, it was not Gahunde who asked me to say that Nzabonimana took advantage of the people's poverty.  So, this is something I invented as an argument that could hold water. 
+Q.	Witness, can you tell the Court why is it that when you are coerced -- or, allegedly coerced to give false testimony, you go to excesses in order for you statement to be believed; can you explain why you do the complete opposite? 
+A.	I do not know why. 
+Q.	It is because you are lying now; isn't it? 
+A.	That is your opinion.  I have nothing to add thereto. 
+Q.	Now, may I ask you to put aside those documents; we go on to the next matter.  Are you in a position to proceed, Mr. Witness?  Would you like some -- glass of water? 
+A.	I will continue with the bit of energy that I still have.  Maybe I do not have more energy than I thought. 
+Q.	Please, do not hesitate to inform Their Honours if you feel in any manner uncomfortable; do you understand? 
+A.	I've understood you perfectly well, Counsel for the Prosecution.  
+Q.	Thank you, Witness.  
+
+Now, Witness, let us discuss about the 18th of April 1994 at Murambi.  You did not record in a diary the events that took place on 18th of April 1994 at Murambi; did you? 
+A.	I have a good recollection of the events that happened on that day at the Murambi meeting. 
+Q.	But in your testimony on the 25th and 26th, you could not remember everything, could you? 
+A.	The investigators did not refer to it; that is all.  
+Q.	Witness, when you met with Mr. Don Webster, senior trial attorney in the Karemera trial, you told him that you were too ill to remember the details of that meeting; isn't it? 
+A.	I would need to read that statement.  I need to read the paragraph from which you are drawing what I, allegedly, said to Mr. Don Webster.  
+Q.	Can you now tell the Court what you told to Mr. Webster with respect to the meeting of 
+18th April 1994? 
+A.	I believe I said that Mr. Webster came to my home, that he questioned me on the Murambi meeting, and that I gave him the little information in my possession but said that I was not the person to provide him with all the information he required, if my memory serves me right.  
+Q.	The little information you had on the -- in 2007 with respect to the meeting of 18th April 1994, has vanished with time; hasn't it? 
+A.	Even he had specific points.  He was making investigations regarding the Édouard Karemera trial; who else was with him; and two other ministers of the MRND.  And the people he was talking to me about I actually did not know.  Had he asked me how the day had proceeded I would have been able to provide him with that kind of information; otherwise, on the specific items or points of information that he wanted, I didn't have them. 
+Q.	Witness, I'll be kinder that everyone else who has interviewed you about this.  I'll remind you of a few things that happened and you can tell the Court whether it is true or false.  Witness, during Mr. Kambanda's speech, did you get the impression that he was reading a speech that was prepared before the meeting? 
+A.	Before the meeting I wouldn't be able to say because I saw the prime minister, Kambanda, at the meeting; I did not see him before. 
+Q.	But that's what I'm asking you, Witness.  I'm sorry if I may have been inaccurate.  But I'm asking you to tell the Court, was it your impression at the meeting that Mr. Kambanda was reading a prepared speech? 
+A.	No, I didn't have that impression.  So, he was speaking calmly, slowly.  So, I didn't get that impression that he was reading a speech which was written down.  I didn't get that impression at all. 
+Q.	Yes.  Did you get the impression, Witness, that the speech Mr. Kambanda, Jean, gave at that forum did not in any way address the issues that you bourgmestres and the préfets are facing on the ground? 
+A.	Yes, for some problems, but no for other problems.  
+Q.	Witness, the prime minister, rather, talked about general policies of government; isn't it? 
+A.	Yes.  I remember specifically that he spoke of the priorities of the government.  But to my recall, he didn't go into other programmes.  So, he limited himself to expounding on the priorities but 
+without -- without going any further. 
+Q.	Yes.  And at the meeting -- the first meeting in Murambi, before the bourgmestres and others went to a private meeting, he talked about the strategies government had established or wanted to implement to fight the Inkotanyi; isn't it? 
+A.	No, I don't remember that he went into a consideration of the strategies that was going to be used to fight against the Inkotanyi.  I think that, instead, he limited himself to our concerns and provided us with some advice.  But he did not go far too much into the strategies. 
+MADAM PRESIDENT:
+Counsel.  
+MR. NG'ARUA:
+Yes. 
+MADAM PRESIDENT:
+The first questions you asked about the Murambi meeting, to which meeting did they refer to?  
+MR. NG'ARUA:
+Madam President, Your Honours, they referred to the meeting on 18th April 1994 at Murambi; 1994 at Murambi.
+MADAM PRESIDENT:
+Yes, our recollection is that there were two meetings. 
+MR. NG'ARUA:
+Yes, there are two meetings; the first -- the first meeting. 
+MADAM PRESIDENT:
+And was that the understanding of the witness in answering the first three questions about whether he had a recollection of what happened and the investigation of the ministers and so on? 
+BY MR. NG'ARUA:
+Q.	Kindly answer.  
+A.	Counsel for the Prosecution asked me whether Mr. Callixte Nzabonimana seemed to be reading during the first question -- or, rather, during the first meeting -- 
+THE ENGLISH INTERPRETER:
+Corrects the witness.  
+THE WITNESS:
+-- and whether the prime minister may have spoken of a -- a -- a -- from a written speech at the meeting.  With regard to the second meeting, he asked me the question about whether Mr. Kambanda spoke of the strategies to be implemented in order to fight the patriotic front.  
+
+I believe that was more or less what the questions entailed -- the questions put to me by him.  
+MADAM PRESIDENT:
+Yes, but we had Callixte Nzabonimana in one of the answers.  
+MR. NG'ARUA:
+Madam President, may I suggest that the witness steps out -- 
+THE WITNESS:
+(No interpretation)
+
+It was supposed to be the prime minister, not Callixte Nzabonimana.  So, maybe that was a slip of the tongue, and I do apologise.  We were referring to Prime Minister Kambanda.  
+MADAM PRESIDENT:
+Yes, thank you.  
+We just wanted to make sure that the witness understood which meeting you were referring to, Counsel.
+
+And our CaseView, in English, at least mine, does not seem to work.  I think that is the same with Judge T.  Could that matter be looked into, Registry?  We need to follow the proceedings as and when they happen.  
+
+Yes, Counsel for the Prosecution, you wanted to address the Chamber or you have abandoned that line? 
+MR. NG'ARUA:
+I have abandoned that line.  Thank you. 
+MADAM PRESIDENT:
+Yes.  Proceed. 
+BY MR. NG'ARUA: 
+Q.	Witness, it is true, isn't it, that at the meeting of 18th April 1994 --
+THE ENGLISH INTERPRETER:
+The witness did not have his headphones on.  That was the intended alert by counsel for the Defence.  
+MADAM PRESIDENT:
+Yes, Counsel, you may have to repeat your question. 
+MR. NG'ARUA:
+Yes.  
+BY MR. NG'ARUA:
+Q.	Witness, in the meeting of 18th April 1994, the first meeting, the prime minister, Mr. Jean Kambanda, talked about the need for civil defence and the need to teach the population to defend their communities, didn't he? 
+A.	That is not what I retained from what he said. 
+Q.	Yet, Witness, but you didn't have a diary, did you? 
+
+Now, Witness, the prime minister was unable to respond to the local problems raised by the 
+préfet of Gitarama; that is correct, isn't it? 
+A.	I believe the answer he gave to the Gitarama préfet was not pleasing to the latter, the 
+préfet of Gitarama, who became angry, by the way.  He was not satisfied.  That is the answer he gave.  I cannot discuss that answer; it was his answer.  
+Q.	The préfet was dissatisfied with Mr. Kambanda's answer because Mr. Kambanda was unable to respond to the préfet's concern when he raised the question of massacres, lootings and 
+general insecurity; is that correct? 
+A.	I think that is why he was angry.  I think he was not satisfied, and he had the right to show his dissatisfaction.  
+Q.	Witness, were you satisfied with Mr. Kambanda's answer to the massacres, looting and general insecurity raised by Mr. Fidèle Uwizeye? 
+A.	It is true that what the prime minister gave as an answer to Mr. Fidèle Uwizeye, the Gitarama préfet, was not up to our expectations, because we were expecting for a detachment of the gendarmerie to help us ensure security; we were thinking of logistical support.  So the initial reaction was that he had not met with our expectations and he suggested other advice to us.  
+Q.	Witness, after Préfet Fidèle Uwizeye had raised those hard issues, the prime minister, at about 
+12 noon, left the meeting saying that he was busy and had other things to do; isn't it? 
+A.	I have the impression that you're mixing the first and the second meeting.  Your question, does it concern the first or the second meeting?  Because I have the impression that you're confused.  Please, let me know, are you dealing with the first meeting or the second meeting that this event took place? 
+Q.	I'm dealing with the first meeting, Witness, not the second; the first.  
+A.	Right.  During the first meeting, the minister did not leave.  He left at the end of the meeting after listening to the questions and answering them from the floor.  But, during the second meeting, the restricted meeting for the bourgmestres, he did not continue with us.  He apologised and he withdrew.  And we remained with four members of government who were -- had accompanied him, so that they could provide us with further information.  So, that is the difference when it comes to the presence of the prime minister -- or, attendance of the prime minister of the two meetings. 
+Q.	Witness, I put it to you that it is your version about the second meeting -- about the first meeting that is wrong:  The prime minister left at noon and you were informed that those issues raised 
+by Mr. Fidèle Uwizeye would be answered in a subsequent meeting later; what do you say to that? 
+A.	That is not true.  I do not remember that. 
+Q.	Yes, it is because you did not have a diary, Witness.  
+
+Witness, you told us earlier on that you are a Catholic; isn't it? 
+A.	Yes, that's what I told you and it is true. 
+Q.	Yes, that is correct.  
+
+Witness, you forgot, when you spoke to the Court on the 25th and the 26th, that Bishop Nsengiyumva of Kabgayi was present at that meeting and that he spoke; isn't it? 
+A.	I didn't mention that bishop because he wasn't there.  And the clergyman I mentioned was a protestant; he wasn't a Catholic.  And he's the one who asked for the floor to ask a question which he held dear. 
+MR. NG'ARUA:
+Madam President, on the list of proper nouns, Bishop Nsengiyumva is number 23.  
+BY MR. NG'ARUA: 
+Q.	Witness, I put it to you also that the pastor spoke, but also Nsengiyumva spoke.  He said, when he took the floor -- and you should remember -- he said that the refugees coming to Gitarama could be accommodated at his dioceses, provided that the interim government guaranteed their safety; do you remember now? 
+A.	No, I don't remember seeing the Kabgayi bishop at the Gitarama meeting.  I remember that I saw the protestant pastor who spoke, but I don't remember having seen Monseigneur Nsengiyumva, no. 
+Q.	Witness, it's because you have forgotten.  Do you agree with me, Witness, that the bishop of Kabgayi was a big stakeholder in the events that were taking place and that his dioceses was being used anyway by refugees? 
+A.	Yes, I don't agree with you in respect of his presence.  But what you're saying, indeed, he did have refugees at the Kabgayi parish or dioceses, but the bishop -- the Kabgayi bishop may have discussed the problem with the government but he wasn't there at the meeting.  So my recollection, that I still have now, is that of the protestant pastor who asked a question, a very delicate issue, and that's why I remember it.  But I don't remember the Catholic bishop being present at the Murambi meeting. 
+Q.	Witness, can you be as kind as to tell us who represented the Catholic church at the Murambi meeting of 18th April 1994, if it was not Nsengiyumva? 
+A.	In the Catholic system, the bishop has people who represent him at meetings when he did not deem it necessary for him to attend.  And since there was no formal introduction, I wouldn't be able to tell you.  I wouldn't be able to remember who represented him.  There were no introductions, so I cannot know. 
+Q.	Witness, do you want this Court to form the impression that in such a delicate time, when the government had moved barely 5 kilometres from Kabgayi, that the bishop, Nsengiyumva, would send a proxy to that meeting; is that what you want this Court to believe? 
+MR. COURCELLE-LABROUSSE:
+Objection.  
+THE ENGLISH INTERPRETER:
+Says counsel for the Defence. 
+MADAM PRESIDENT:
+Yes, Counsel move on.   We have allotted -- 
+MR. NG'ARUA:
+Yes, I will move on.  
+
+I think the reaction is noted.  
+BY MR. NG'ARUA:
+Q.	Now, Witness, you confirm, don't you, that the prime minister's first meeting lasted for about an hour; is that correct? 
+A.	It could have been a little more, when you include the time from when he began to speak, and, well, as well as the other people who spoke from the floor.  So the meeting lasted about two hours, in all.  
+Q.	Now, do you agree with me that, in fact, during the second meeting, that the bourgmestres also took the floor and expressed their worries about the current situation of insecurity? 
+A.	Yes, I agree with you that some bourgmestres took the floor in order to talk about the situation that effectively prevailed in the communes.  
+Q.	Also, in this meeting it was raised that the problems of people like Interahamwe and soldiers, who had come from Kigali along with the interim government, had brought firearms and in their wake, insecurities; was -- do you recall that? 
+A.	No, I don't remember that at all.  The bourgmestres spoke -- all the bourgmestres did not have similar problems, but there were common issues with regard to the Interahamwe in Murambi and so on and so forth.  So I don't remember that any such a matter was discussed.  So, we limited ourselves to issues at the level of our communes. 
+Q.	Yes, Witness -- 
+MADAM PRESIDENT:
+Counsel -- 
+MR. NG'ARUA:
+Yes.  
+MADAM PRESIDENT:
+-- it is 1:00 p.m., and if this is a convenient moment, we would like to stop here for now.  
+MR. NG'ARUA:
+I think it's a convenient time to stop.  
+MADAM PRESIDENT:
+Yes, the Witness might also need a break.  
+
+Witness, we are taking the lunch break; you are still testifying so don't discuss your evidence with anyone.  You may leave now.  
+(Witness exited courtroom) 
+MADAM PRESIDENT:
+Yes, Counsel, we want to plan for the next witness.  Where exactly are you? 
+MR. NG'ARUA:
+I think I am 45 minutes to the touchline.  And I think if it was not for the very important matter raised by my learned friend this morning that touches upon one of our colleagues, I think I would be able to have finished by 1 o'clock.  I had really organised my work as you had advised, but this was an intervening matter I could not have foreseen or avoided.  
+
+So, My Lords, I request for about 45 minutes this afternoon.  It could even be a bit shorter, but 45 minutes is not disappointing to -- to anyone.  As the Court pleases.  
+MADAM PRESIDENT:
+Yes, Counsel, we recall that we started the proceedings at five minutes past nine, and you argued back and forth until about twenty to ten.  And that gives you approximately 35 minutes.  So, that is all we are giving you, Counsel.  
+MR. NG'ARUA:
+Madam President, I'm sure your judgment will be tempered by mercy when my 35 minutes are up, but I hope to beat that time.  
+MADAM PRESIDENT:
+Yes, you had better, Counsel.  And let's have the next witness at around that time, 
+Counsel for the Defence.  
+MR. COURCELLE-LABROUSSE:
+I believe the witness is already there; isn't he?  He came in during the break.  The witness is there.  And I just wanted to remind the Chamber that we have asked the Prosecution, in respect of re-examination, that he discloses to us copies of documents that he had shown to the Judges and to the Defence at the beginning of his cross-examination of Mr. Mporanzi, the current witness.  It is a document that he used, so he should disclose it to the Defence, so that the Defence -- and this is an email.  So if necessary -- if need be, the Defence can use it in order to re-examine the witness on that document.  
+MR. NG'ARUA:
+My Lords, clearly, that document was not used.  This is an email between parties.  And if my learned friend recalls very well, we only showed him this document to dispel any feeling of hypotheses, any allegation that we are just speaking just out of the blues.  This was with respect to 
+a phone call and to remind the witness that there is a phone call that was made between himself and our investigator, Mr. Djibo.  And it was used only to refresh the memory.  It was not given to the witness.  And in order to save time, we showed it to the Court and to the Defence counsel so that 
+they may see the basis upon which we were putting the question, because the question had been objected to.  Subsequently, the Court was -- allowed this question.  And the Court, if my learned friend remembers, held that that, in their ruling, that that email was not disclosable.  So, therefore, unless 
+my learned friend is just being litigatious, if he requires any detail involving that email, he can come to us and we can write it out to him on a piece of paper in abundance of graciousness to him.  But we object to disclosing that email to him in the manner that we got it from the email machine.  
+MADAM PRESIDENT:
+Yes, Defence Counsel, briefly, please.  
+MR. COURCELLE-LABROUSSE:
+Yes, Madam President.  I don't believe the Chamber ruled on this issue, so we are asking for it now.  So it's not even an email between the parties because we were not to receive this document; it wasn't meant to us -- it wasn't meant for us.  
+He was putting it to the witness that he had information and the information is in that email, and the email was shown to the Chamber.  And matters pertaining to it were continued with afterwards.  So, it is a document which exists, and if it was necessary to have it shown to the Chamber and then to the Defence, and for him to be able to use it in further questions being put to the witness, the Prosecutor should give us this document.  And I don't know why he took this document back from the Chamber and from the Defence counsel after having shown it.  So there was a whole line of questioning which was based on the information contained in that email.  Therefore, we need that document for our re-examination.  
+MADAM PRESIDENT:
+The Trial Chamber recalls making a ruling that this was an internal document in accordance with Rule 70, but we need to refresh our memory too, so we'll look at the transcripts and give a ruling at the beginning of the afternoon session.  
+
+The proceedings are now adjourned to 2:40; 2:40 in the afternoon.  
+(Court recessed from 1310H to 1440H)
+MADAM PRESIDENT:
+Good afternoon, everyone.  
+
+We have a ruling to make before the witness is brought in, and it concerns a document which was in issue on the 27th of May 2010.  We recall that we made a ruling after examining the document that this was a rule -- a document envisaged by Rule 70 of the rules and, therefore, it was not subject to disclosure.  
+
+We only want to reiterate that ruling.  We notice from the record that after we had made that ruling, Defence counsel made -- stood up to make submissions asserting that he wanted that document, but because the witness was coming in, we couldn't finalise that issue.  
+
+Now that we have had occasion to look at the transcripts, we reiterate the ruling we made, that, having looked at the document, it is not a document that is disclosable under that -- under Rule 70.  That is the ruling of the Trial Chamber.  
+
+Registry, could you bring in the witness, please.  
+(Witness entered courtroom) 
+MADAM PRESIDENT:
+Good afternoon, Witness.  
+THE WITNESS:
+Good afternoon, Madam President.  
+MADAM PRESIDENT:
+Are you comfortable with your ear set or does it need adjustment? 
+THE WITNESS:
+I can hear well.  Maybe, the only problem is that I -- I had my hair cut.  
+MADAM PRESIDENT:
+Okay.  If you have any problem of it falling on and off, the registry can assist.  
+
+Prosecution, can we continue. 
+MR. NG'ARUA:
+Yes, yes.  
+BY MR. NG'ARUA:
+Q.	Good afternoon, Witness.  
+A.	Good afternoon, Counsel for the Prosecution.  
+Q.	I must say that your haircut suits you very well; you look very young.  
+
+Now, Witness, you have forgotten, haven't you, that, with respect to illegal weapons, 
+the prime minister said that he did not know the situation and that the minister of defence, who would have outlined the question of the illegal weapons, was absent; do you recall that, Witness? 
+A.	I do not recall that. 
+MADAM PRESIDENT:
+Learned Counsel, so that we --
+MR. NG'ARUA:
+Yes. 
+MADAM PRESIDENT: 
+-- situate ourselves properly where we are, could we, for the record, remind ourselves which meeting we are addressing. 
+MR. NG'ARUA:
+I am talking about the second meeting of the 18th of April 1994.  
+MADAM PRESIDENT:
+At Murambi? 
+MR. NG'ARUA:
+At Murambi, that is correct. 
+BY MR. NG'ARUA:
+Q.	Witness, do you also recall that Prime Minister Jean Kambanda at that second meeting of 
+18th April 1994 -- that he talked about fuel; do you remember? 
+A.	No, I do not remember. 
+Q.	Do you also remember that the prime minister said that the fuel could be obtained from Ruhango petrol station? 
+A.	I do not recall. 
+Q.	And, Witness, do you remember that the prime minister, after this, left the meeting and he left you in the hands of the members of the interim government; do you recall that? 
+A.	The statements that you are referring to were not made by the prime minister.  But, it is true that after he said something else, which you are not referring to, he went.  
+Q.	Yes.  But you did not -- you do not recall because you did not have a diary; isn't it? 
+
+Witness -- 
+A.	Sorry, Mr. Prosecutor.  As for the diary, let me remind you that since I had fled to the Congo, conditions of movement in the forest after the destruction of the camps -- well, even I lost my certificates there.  So you should understand the circumstances, and to talk about a diary together with all the other documents that I had, these are all things that remained in the Congo forest. 
+Q.	Witness, after Mr. Kambanda, Jean, the prime minister, left the second meeting, Mr. Donat Murego, a member of your party, spoke first after Kambanda left; isn't it? 
+A.	I remember the ministers who were there and who were introduced by the prime minister.  And amongst them there was no one called Donat Murego.  
+MR. NG'ARUA: 
+Yes.  Donat Murego is number 1 on the list of proper nouns. 
+BY MR. NG'ARUA: 
+Q.	Witness, can you clarify to the Court:  Did you know Donat Murego before the 18th of April 1994? 
+A.	I knew him by name as someone who had long experience as a magistrate in the legal profession, but I had never seen him.  
+Q.	Yes, but you had seen his -- his photograph in the newspapers; hadn't you? 
+A.	It is possible.  But sometimes photographs are not a true reflection of someone's reality.  It could give maybe false appearances sometimes. 
+Q.	Yes, but not for Donat Murego.  Donat Murego, if you can recall, Witness, is not just an ordinary person.  He was an intellectual like you; isn't it? 
+A.	Yes.  To know people in the political scene, you must be acquainted with them.  Since I had spent all my years in front of children's -- school children and the blackboard, it is not surprising that I did not know many of the political personalities.  Furthermore, I had not spent more than a year at that service, at that post.  So you should understand that if I do not know the political personalities, it is simply because I was not acquainted with them. 
+Q.	Yes, Witness, that's what you want the Court to believe.  But you know very well, Witness, don't you, that Donat Murego was also the secretary of MDR, and a person of considerable standing among the MDR members.  He was well identified as a person who tried to challenge the legitimacy of Mr. Twagiramungu; do you remember that? 
+A.	I do not remember. 
+Q.	Well, let me remind you further that Donat Murego, at the second meeting, introduced Barayagwiza; do you now remember that? 
+A.	That is not true, because in the classroom where we, were the four ministers who were present were introduced.  Donat Murego and Barayagwiza were not there.  And I am referring to the second meeting which concerned the bourgmestres. 
+Q.	But I'm telling you, Witness, that is what you want this Court to believe.  But you know very well that at that meeting, the second meeting, Donat Murego told the bourgmestres and the préfets that if there were only three like Jean-Bosco Barayagwiza the situation in Gitarama would not be as it was; do you remember that, Witness? 
+A.	That is not true, because neither Murego nor the préfet -- neither Murego nor the préfet, nor -- neither Barayagwiza, that you are referring to, were there at that meeting.  There were only four ministers, and I was able to retain their names.  Amongst the other people who were there, those two you refer to were not there. 
+MADAM PRESIDENT:
+Yes, Counsel. 
+BY MR. NG'ARUA:
+Q.	Yes, Witness, did you know Jean-Bosco Barayagwiza from the press or from the media? 
+A.	Personally, I did not know him.  I had not seen him, so it was like the others, the other political figures who were quite new to me.  
+Q.	But he was representing the CDR party at that meeting; what do you say to that? 
+A.	Given that the meeting involves the bourgmestre of the préfecture -- the Gitarama préfecture, and that 14 out of 17 bourgmestres were from the MDR, and the others from the MRND, he could not have been present because there was no bourgmestre who represented the CDR party.  
+Q.	Correct, Witness.  But that is what you want this Court to believe; Mr. Barayagwiza was representing a party, and that is the CDR.  Now, Witness, do you know Eliezer Niyitegeka? 
+MR. NG'ARUA:
+He is number 7 on the list.
+THE WITNESS:
+I did not know him physically, that is, I had not seen him, but I knew him by name because he had been a journalist in Radio Rwanda.  So I cannot describe him physically to you. 
+BY MR. NG'ARUA:
+Q.	Yes, Witness, but you had seen his picture in the media; isn't it? 
+A.	That is possible but, in spite of all that, I still cannot describe him. 
+Q.	Yes, Witness, he was also a member -- a founder member of your party, the MDR, and the president of MDR in Kibuye, and in 1994 he was appointed to be minister of information; do you remember those details? 
+A.	Nonetheless, since I was a floor member -- a member without any other additions -- I never had occasion to come into physical contact with the senior officials of the MDR.  So, my meetings -- within the context of the MDR -- were limited to my jurisdiction, that is, the commune which I headed.  And all through my tenure, the MDR in Rutobwe was never visited by senior officials of the party. 
+Q.	Yes.  Witness, that's what you want the Court to believe:  Eliezer Niyitegeka was present at that meeting and, indeed, he was the one who introduced Sixbert Ndayambaje, the bourgmestre of Runda, who came up with a list of RPF documents showing that there was infiltration of RPF into the préfecture; have you forgotten that, Witness? 
+A.	The first part of your statement is not accurate because there was no presentation or introduction of bourgmestres, first.  But, effectively, the bourgmestre of Runda showed documents relating to RPF members.  That point is correct. 
+Q.	Yes, the only thing you're running away from is that Ndayambaje was introduced by 
+Niyitegeka, Eliezer, and, subsequently, after that introduction Ndayambaje took the floor and the rest you have told the Court; isn't it? 
+A.	I have said what Sixbert Ndayambaje showed, but I did not say that he was introduced by some other person. 
+MADAM PRESIDENT:
+Counsel, could we have the spellings --
+MR. NG'ARUA:
+Yes. 
+MADAM PRESIDENT:  
+-- of those names, please.  
+MR. NG'ARUA: 
+Ndayambaje on my notes is --
+MADAM PRESIDENT:
+(Microphones overlapping)  And the long one afterwards.  
+MR. NG'ARUA: 
+Yes, Ndayambaje is number 11.  
+BY MR. NG'ARUA:
+Q.	Let me remind you, Witness, that also present was Mr. Jérôme Bicamumpaka, a native of Ruhengeri, and well-known member of MDR; isn't it? 
+A.	I insist on -- I would like to recall that at the meeting with the bourgmestres, there were no more than four ministers.  I remember that there were four ministers.  
+
+And, now, those -- that list that is growing longer is false.  Maybe there is some mixup with the first meeting, I don't know.  But this long list is useless, because I remember a number of ministers who came.  They were not all the ministers but some ministers, and there were four in number, and four whose names I remember very well. 
+Q.	Yes, Witness, that is what you want the Court to be misled to believe.  
+
+Witness, you did not keep a diary.  And may I also remind you, at the second meeting Callixte Nzabonimana, the man you have come to defend, also took the floor and he accused you, administrators, bourgmestres and préfets, of supporting the accomplices of Inkotanyi; do you remember that? 
+A.	That is not true, Counsel for the Prosecution. 
+Q.	In fact, at that meeting -- 
+A.	That is not true, Mr. Prosecutor. 
+Q.	Yes, Witness, it is true.  That meeting, Witness, ended at 3 p.m.; is that correct? 
+A.	No, the smaller meeting ended at around 5:30 p.m. 
+Q.	Again, Witness, may I remind you that Mr. Mugenzi spoke, and he said that you had forgotten, meaning the local administration, the bourgmestres and the préfet of Gitarama, that your residents knew who the enemy was and challenged you by asking you:  From whom are you then asking or requesting for security?  Isn't it, Witness? 
+MR. COURCELLE-LABROUSSE:
+I'm sorry. 
+THE WITNESS:
+I agree with you that Mr. Mugenzi was there, but he did not make any such statements.  But I believe that you are very wrong in that regard. 
+BY MR. NG'ARUA: 
+Q.	Tell me, Witness -- 
+MADAM PRESIDENT:
+Just a moment, Defence Counsel. 
+MR. NG'ARUA:
+Yes. 
+MADAM PRESIDENT:
+Yes, Counsel.  
+MR. COURCELLE-LABROUSSE:
+Madam President, without trying to be discourteous with the Prosecutor, I think the questions deserve to be clearer, all the more so, as it is generating translation difficulties, because in the French translation of the previous question it was really difficult to understand the purport of the question.  
+MADAM PRESIDENT:
+Yes, Counsel, be mindful that the witness is present in the court.  The question could be repeated, and we will get the answer if there is any problem in the translation.  The question as we have it is that:  May I remind you that Mr. Mugenzi spoke and you had forgotten.  And then he talked about what he said.  
+
+Witness, is that -- did you understand the question to mean that? 
+THE WITNESS:
+I understood the question very well.  But, the statements attributed to Mr. Mugenzi, that is not what he told us.  So the Prosecutor is attributing some statement to Mugenzi that he did not make.  
+BY MR. NG'ARUA:
+Q.	Yes.  Witness -- 
+MADAM PRESIDENT:
+Thank you, Witness. 
+MR. NG'ARUA:
+Thank you, Madam President.  
+BY MR. NG'ARUA:
+Q.	Witness, you cannot recall because you did not keep a diary.  
+
+Witness, can you tell the Court that it is true, isn't it, that following that meeting which members of the interim government bullied the bourgmestres and préfets, things in Gitarama turned for the worst and killings started to happen; is that correct? 
+MR. LAROCHELLE:
+Objection.  
+MADAM PRESIDENT:
+Yes, Witness, can you leave the courtroom so that we can hear an argument by counsel? 
+(Witness exited courtroom) 
+MADAM PRESIDENT:
+Yes.  And, Prosecution Counsel, avoid comments so that we can gain time.  Just put your questions and that should be all.  
+
+Yes, Defence Counsel. 
+MR. LAROCHELLE:
+The Prosecutor is amalgamating several things.  The witness has already refused many of the propositions that were put to him.  And this is a perfect example.  He started by saying that the bourgmestres were bullied and then he talked about the -- he suggested that massacres occurred.  I think he should be requested to break his questions to make sure that there are no ambiguities when the witness provides the answer.  So, first, were the bourgmestres bullied?  Second, did massacres occur afterwards?  Otherwise, it's completely unfair for the witness and it makes for long narratives and long responses which consumes everybody's time. 
+MR. NG'ARUA:
+Madam President, I don't think that objection has any merit.  It would be merited if we were dealing with a child or a person of very low sophistication.  This is a leader of men; a mayor.  He is able to see the two issues clearly:  That they were bullied and killings started after that.  So I think that that objection would have carried the weight and meaning if it was in a different situation.  But here I think it's clear and the witness can be able to answer without any ambiguities.  However, if the Chamber finds that the witness is embarrassed, which he has not declared, then I could rephrase it in a simpler manner.  But, in my view, there is no merit in this objection. 
+MR. LAROCHELLE:
+What kind of submissions are those?  
+
+Each and every one of the witnesses who come before this Court should be treated in the same manner, and the first thing the Prosecutor should be advised about is to refrain from starting each and every of his questions with comments:  You did not have an agenda, therefore, you forgot.  And then roll on to the next question.  
+MADAM PRESIDENT:
+Counsel, we have already done that.  So, just reply to the submissions...(Microphones overlapping)
+MR. LAROCHELLE:
+So I think the gist of my comment is that all of the witnesses should be treated fairly and equally and the question should be broke up so that each suggestion of the Prosecutor be clearly put to him and he had -- and he be given the opportunity to respond to each and every one of the submissions or propositions, rather than the Prosecutor creating constructions from bits and pieces that he would like the witness to positively answer. 
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Yes, Learned Counsel for the Prosecution, we would -- first of all, we would like to remind you about the time you have left.  Secondly, we are of the view that the witness has not admitted to being bullied nor has he admitted that after the bullying the killings worsened.  So you will have to put these suggestions to the witness, broken up into two, so that the witness knows what he's answering to.  And, therefore, for those reasons we sustain the objection.  
+MR. NG'ARUA:
+As the Court pleases.  
+MADAM PRESIDENT:
+Yes, and where are you as we bring in the witness, Counsel?  Because we -- 
+MR. NG'ARUA:
+Very, very close.  Very close.
+MADAM PRESIDENT:
+What does that mean?  
+MR. NG'ARUA:
+It means that I have like three questions -- 
+MADAM PRESIDENT:
+All right.  
+MR. NG'ARUA:  
+-- and about three suggestions.  
+MADAM PRESIDENT:
+Learned Counsel, you have five minutes to do that.  
+
+Yes, can the witness be brought in, please.  
+(Witness entered courtroom) 
+MADAM PRESIDENT:
+Witness, can you hear the Trial Chamber? 
+THE WITNESS:
+Yes, Madam President, I can hear you.  
+MADAM PRESIDENT:
+Okay.  Well, we will continue with your testimony.  
+
+Prosecution.  
+MR. NG'ARUA:
+Yes.  
+BY MR. NG'ARUA:
+Q.	Witness, I will withdraw the previous question that I put to you.  
+
+Now, Witness, you are a very bitter man because of what the RPF has neglected to do to you; is that correct? 
+A.	I do not agree with your assertion.  
+Q.	Witness, I put it to you that you are bitter with the RPF because the current government caused you to flee your country at the height of your career and you lost everything that you had; is that correct? 
+A.	I did not know about that.  
+Q.	But it is a fact, isn't it?  You lost your wife and your health, isn't it? 
+A.	I do not see how my private life is involved or is connected to this testimony.  If I mentioned it, it should not be given -- it should not be blown out of proportion.  It is part of my private life. 
+Q.	And, Witness -- 
+
+MADAM PRESIDENT:
+Yes, Counsel, your last two questions. 
+MR. NG'ARUA:
+Yes.
+BY MR. NG'ARUA:
+Q.	Yes, Witness, when you came back from exile, the RPF government did not acknowledge the meritorious service that you had given to the people of Rutobwe, did they? 
+A.	I did not know about that.  All what I know is that in contact with the bourgmestre, there were no actions or measures taken against me, and up until the time I left the country, there was no negative action taken against me.  I left the country simply because I wanted, first, to come and testify; that is the overarching reason.  There are other secondary reasons, but the primary reason is to testify.  
+
+And as at now -- or, when I left the country, there was no problem.  There was no action taken against me.  
+Q.	Yes -- 
+MADAM PRESIDENT:
+Learned Counsel, last question. 
+MR. NG'ARUA:
+Yes.  
+BY MR. NG'ARUA:
+Q.	Witness, you've come here to fight a political war and to use this Court, in open session, as an international platform to disgrace the Rwandan government; isn't that correct? 
+A.	No, Counsel for the Prosecution.  You state things that are not accurate.  I have clearly explained 
+why I came to testify here.  But if you do not believe me, please do not add -- add things that are 
+not true at all.  
+(Pages 30 to 47 by Eleanor Bastian)
+
+
+
+
+
+
+
+
+
+
+
+
+1530H 
+MADAM PRESIDENT: 
+Yes, Counsel, that should be the end.  
+MR. NG'ARUA: 
+Yes, that would be the end.  
+MADAM PRESIDENT: 
+Yes.  Thank you, Counsel.  
+
+Defence, any re-examination?  
+MR. COURCELLE-LABROUSSE: 
+I have two questions.  
+RE-EXAMINATION 
+BY MR. COURCELLE-LABROUSSE:
+Q.	Mr. Mporanzi, I would like us to dip into two points.  
+
+On Thursday 27 May the Prosecutor asked you whether between your two statements, that of 1998 and 2003, you had faced threats and intimidations from the Rwandan government.  You started explaining but you did not continue.  You said that you had trouble with the investigators -- that you did not want to receive.  And that three days later officers from the intelligence services came to see you.  That is what you said on the 27th of May 2010.  
+
+Briefly, could you explain to the Chamber the circumstances surrounding that matter.  Did it -- what happened with the intelligence officers?  
+A.	Yes, that incident occurred.  But it was between me and the investigators who came and who wanted 
+	to impose their schedule on me.  They did not want to consider my availability.  They wanted to open a new file, whereas, I expected that we would continue with the file that was open, that is, the case of Callixte Nzabonimana.  And since I was not ready to receive them, and since they had not made a 
+	prior appointment with me, they came at 8 a.m. when I was preparing to go to my service.  I mentioned my -- the problem of availability to them.  They would not listen.  One of the investigators got angry.  I got angry too.  And so they left.  I went to my place of work.  
+
+A few days later, I received a visit of intelligence officers in my home, so they asked me to provide an explanation for my attitude and so I explained how things actually transpired.  But since they were young persons who were, apparently, new in their profession, they understood my explanation.  And they told me, "You're perfectly right, the investigators have to consider your availability.  But you must also understand that every Rwandan is bound to testify to what he saw and what he knew when they were visited by investigators."  So they left and never came back, I believe.  
+Q.	Mr. Mporanzi, a second question which was not discussed to some length, is your statement of 2003 to Prosecution investigators in which you said as follows:  "However, I find no inconvenience in discussing him, so I can provide clarifications to some points that you may consider necessary.  Regarding my possible testimony before the Tribunal in Arusha, it would depend on the better treatment that I receive from the Rwandan association, Ibuka, and from the ICTR."   
+
+So this time can you explain the meaning of the restriction that you imposed?  
+A.	After 2001, the mayor of Gahunde resigned and went to work in Mutara -- in Butara.  
+THE ENGLISH INTERPRETER:
+Correction.  
+THE WITNESS:
+As he was leaving, he left along with the good note he had -- notes or marks he had given me.  I do not know whether the Ibuka association was in agreement with the good assessment.  But after Gahunde left, the Ibuka association, as an organ, did not tell me anything.  So I do not know the fate reserved me by the Ibuka association.  The fate could be good, that is what I was hoping for.  It could be bad.  Considering the trials in which I had testified, pleasant and unpleasant surprises could still arise.  But I felt it would depend on the treatment.  That is what I was trying to clarify.  
+
+If the Ibuka association were to show up with false accusations and if I were in prison, my collaboration would have to stop.  
+MR. COURCELLE-LABROUSSE: 
+Thank you, Mr. Mporanzi, for your testimony.  
+MADAM PRESIDENT: 
+Thank you, Counsel.  
+
+Before the Judges ask questions, Madam Prosecutor (sic), what we heard in English and what appears in the CaseView is:  "After 2001, the mayor of Gahunde resigned".  And the question is:  Was it 
+mayor of Gahunde or what was it?  Because we did hear from the evidence of the witness that he was the bourgmestre of Rutobwe, Mr. Gahunde.  
+MR. NG'ARUA: 
+May I request the witness to respond?
+FURTHER CROSS-EXAMINATION
+BY MR. NG'ARUA:
+Q.	Witness, was Gahunde the mayor or was Gahunde the place?  
+A.	In 2000 and 2001, the Rwandan government carried out an administrative restructuring.  And in the course of this administrative changes, which consisted in combining communes and splitting up 
+	other communes, this ended with the appointment of bourgmestres, so districts were set up and at the head of those districts there was going to be a steering committee headed by the mayor.  And Mr. Gahunde was -- who used to be bourgmestre of the Rutobwe commune, now became mayor of 
+	the Kiyumba district.  So the term bourgmestres were done away with.  So we have to differentiate the appellations that were used by the former administration and the ones that were adopted after the administrative reforms.  
+MADAM PRESIDENT: 
+Thank you, Witness, for that clarification.  
+
+Judge Rajohnson has questions for you, Witness.  
+
+Judge Rajohnson.  
+JUDGE RAJOHNSON:  
+Thank you, Madam President.  
+
+Good day, Witness.  
+THE WITNESS: 
+Good day, Your Honour.  
+JUDGE RAJOHNSON: 
+Regarding the questions I have for you, if I understood you well, you stated on Tuesday or Wednesday that you were no longer in Rutobwe when you were proposed as an MDR candidate for the position of mayor.  
+
+This is my question:  Even today, you also stated that you had no contact and never hung out with the leaders of your party.  My question is, therefore, as follows:  By what miracle, therefore, were you proposed to be a candidate for the MDR in the Rutobwe commune?  
+THE WITNESS: 
+Let me say that in the first part of your question there are a few things which are not correct.  At that time we were still dealing with the positions of bourgmestres, so the position was that of bourgmestre.  To say that I had left Rutobwe and was elsewhere, that is not true.  Simply, my job required me to be near my place of work.  
+
+As to the question that you asked, to know how I became bourgmestre, actually, the senior leaders did not have to take any decisions because they -- they could only take decisions afterwards.  The system involved, first of all, an extended council of the commune which had to, first of all, give its opinion, through elections.  The results had to be sent to the ministry of the interior for confirmation of the appointment.  My candidacy was simply solicited by the MDR committee in the commune.  And this was the grass roots committee of the party.  So I cannot consider them as senior officials of the party of the MDR.  They were grass roots authorities at the commune level.  
+JUDGE RAJOHNSON:
+Thank you, Witness.  A second question.  
+
+During your examination-in-chief, when asked whether the replacement of mayors was mentioned at the Murambi meeting, you immediately responded that -- that it was mentioned not as a threat but in terms of responsibility and capacity.  
+
+Defence counsel neither mentioned threats nor capacities.  Why did you immediately talk about threats?  
+THE WITNESS: 
+So your question only concerns that term?  
+JUDGE RAJOHNSON:  
+Let me explain myself.  
+
+The question that was asked by the person who asked the question was to know whether in Murambi the replacement of bourgmestres was mentioned.  And immediately you answered that it was mentioned but not in terms of threats but in terms of responsibility and all capacities, but the reasons were not asked and you clarified that it was mentioned but not asked or in the form of threats.  So I wanted to know why you decided to add threats or to talk about threats.  
+THE WITNESS: 
+During the small meeting of the bourgmestres there were no threats.  But by mentioning that the bourgmestre who would be incompetent in managing the situation -- who would not be able to make sure that with the limited resources they could protect people and take them to a place where their safety could be assured, since there were 17 of us, some people could interpret that as a threat, 
+	each person in their own situation.  But I did not take that as a threat.  
+JUDGE RAJOHNSON:  
+I was not really dialoguing with you.  But you are not really directly answering my question.  
+
+I wanted to know, because Defence counsel never mentioned threats.  He simply asked you whether that issue was mentioned.  And immediately in your response you said it was, indeed, mentioned but not in the form of threats.  And I'm asking you why you answered in that manner and why -- does this mean that there were some threats?  
+THE WITNESS: 
+I was not certain that there was a threat.  But some -- but when someone talks about replacing bourgmestres, someone must be worried, especially when the criteria to be followed are not very clear or precise.  
+JUDGE RAJOHNSON:  
+Next question.  
+
+Still talking about the Murambi meeting, you did not want to raise the matter of your prisoners in the communal jailhouse.  Could you tell us why you did not want to raise the matter, whereas, that was the ideal moment to find together with the government solutions to this insecurity.  
+THE WITNESS: 
+I did not raise the matter, first of all, because when I was talking my turn was interrupted.  When the prime minister said he was leaving, he said he was leaving us in the company of the ministers.  But the prime minister had given some advice.  And since he had given advice already, it was useless for me to raise the matter of the prisoners because he had responded, in part, to my concerns when he said that we should stay out of danger and should avoid confrontations with the masses.  
+JUDGE RAJOHNSON:  
+You decided to release the suspects who were being kept in your communal jailhouse.  Did their release have any spillover effects?  For example, did this pose any security problem?  
+THE WITNESS: 
+The security did not have to depend on the release.  The security of people who were being threatened did not have to depend on the release of prisoners.  So I released the prisoners, first of all, because in the advice that had been given, while describing the situations that could endanger us, as pointed out by Minister Murenzi, imprisoning people could put us in confrontation with the masses.  And also due to the fact that I could not keep the prisoners for more than one week, the procedure was that for 
+	criminal matters a bourgmestre could not keep prisoners for more than five days, I believe.  And in addition, the prosecutor's office which had to receive the case files had stopped working.  So I decided to release the prisoners in consultation with Father Michel Gigi and also taking into account the advice that had been given to us by members of government who were present in the small meeting.  
+MADAM PRESIDENT: 
+Judge, we have a small mistake in the English CaseView.  We heard Minister Murenzi, is that what you said?  What is the name of the minister, Witness, who told you about the dangers of imprisoning people?  
+THE WITNESS: 
+It was Minister Mugenzi who was giving us examples of situations that had to be avoided.  So it was Minister Mugenzi.  
+MADAM PRESIDENT: 
+Thank you, Witness.  
+
+Judge, you may continue.  Sorry to interrupt you.  
+
+JUDGE RAJOHNSON:  
+Thank you, Madam President.  
+
+With that question, I would like to conclude.  One last question, Mr. Witness.  
+
+During your two testimonies with the -- during your interviews with the investigators of the 
+Prosecution team, and also as you confirmed here, you never mentioned the famous slapping incident.  Because, as you said, it was not at all credible, it would have been ridiculous for you to talk about it.  
+
+You did not have any other lies -- did you not think that since it was your goodwill -- since it was 
+your decision to give the statement to the Prosecution team, did you not think that to the contrary, this issue of the slap, if you had mentioned it, would have reaffirmed -- or, rather, this would have been the opportunity -- 
+THE ENGLISH INTERPRETER: 
+Madam President, we lost Your Honour.  Could he please repeat his question.
+MADAM PRESIDENT: 
+Judge, sorry, the English interpreters lost you.  So, unfortunately, you have to repeat the question for us to have it in English.  
+JUDGE RAJOHNSON:  
+Let me repeat.  
+
+You said, and reaffirmed several times, that it would have been ridiculous to talk about the famous slap, in that no one would ever have believed that the minister had slapped you.  Considering the fact that it is out of fear that you gave that statement to the Prosecution, it is out of fear that you decided to testify for the Prosecution, even now -- even though now you are here for the Defence.  Would it not have been wiser for you to talk about the slap?  That way, your testimony will be ridiculous because everyone would know that that incident could not be taken for the truth.  So you would be actually stating things in the favour of the Accused, because your testimony in that case would not have been credible at all.  
+THE WITNESS: 
+The way I perceived the slap -- the reasons I mentioned for not confirming the slap -- well, that is the way I reflected.  We are still dealing with fabrication.  But since I had been given some opportunity to fix things, that is the way I decided to think and do away with the allegations.  I decided to sort amongst the allegations -- to sort out the allegations and throw out the slap.  
+JUDGE RAJOHNSON:  
+I thank you, Witness.  
+
+Thank you, Madam President.  
+MADAM PRESIDENT: 
+Thank you, Judge Rajohnson.  
+
+Thank you, Witness.  
+
+Judge T.  
+JUDGE TUZMUKHAMEDOV: 
+Thank you, Ma'am.  
+
+Witness, thank you for bearing with us.  It's been a very long time that we've subjected you to this inhumane treatment.  But I just need one small clarification.  
+
+This morning while you were having one of the dialogues with the Prosecution, the Prosecution asked you about a meeting that you've had with one of the members of their team.  And the Prosecutor asked you about your failing to use the opportunity of that meeting to indicate that you decided not -- no longer to be the witness for the Prosecution but, rather, to become a witness for the Defence.  
+
+And to that query you responded that you did not want to open up to a person or persons who were not able to solve your problems.  So my question is:  What problems of yours you were referring to.  
+Thank you.  
+THE WITNESS: 
+The problem of coercion from the onset was that I was summoned -- I was invited and forced to participate in the preparation of false testimony.  That was the first coercion.  
+
+And the second coercion was the fact that I was visited by intelligence officers.  
+
+The third coercion -- or, rather, the third problem was intimidation from some people -- some investigators, particularly from the side of the team that I did not want to receive.  
+JUDGE TUZMUKHAMEDOV: 
+Mr. Witness, then the further question is:  Had you been treated properly, courteously, politely, had the Prosecutors been able to solve the problems that you are alluding to now.  Would that mean that these days you would be testifying on the side of the Prosecution?  
+THE WITNESS: 
+The investigators that I received, that I met with, I clearly stated that those investigators were polite, be they investigators from the first group or investigators from the second group, even other people whom I was told were not investigators but messengers from the Prosecutor.  
+The problem that I faced was when I was not willing or available to receive the investigators.  You also want to know whether the problems had been resolved by the Prosecutor -- if the problem had been resolved by the Prosecutor, I would have come to testify for the Prosecutor.  Is that what you are saying?  
+
+I'm sorry to say that even though there was the problem of pressure or coercion -- even if there was no coercion, I would still be left with the problem of regrets concerning the fabrication that had been imposed upon me.  I was still looking for the opportunity to leave the country to withdraw that testimony -- to withdraw my statements.  I think the opportunity to do so has finally arrived.  And that is what I have done.  But I had no intention to come and testify for the Prosecution.  I wanted to save time and find the right opportunity to change the course of things.  
+JUDGE TUZMUKHAMEDOV: 
+Thank you very much, Witness.  And I hope that my reference to a particular kind of treatment, which has a very specific meaning in law, you didn't take it seriously, and it could be considered in 
+	huge, huge quotation marks.  Thank you very much.  
+MADAM PRESIDENT: 
+Thank you, Judge T. 
+
+I believe Judge was referring to the long time you have been held here testifying in this case.  But we are grateful that you have been able to find the time.  
+
+Witness, I also have some questions for you.  But I would prefer that you give me short answers because you are tired and you need a break.  So let's have short, precise answers.  
+
+You testified that Minister Mugenzi told you that you should not keep prisoners for more than five -- for more than a week in jail.  Now, where did Mr. Mugenzi tell you -- where and when did Mr. Mugenzi give you this advice?  
+THE WITNESS: 
+That is not how it went.  So your statement is not actually accurate.  If you give me the opportunity, I will restate and clarify what happened.  
+MADAM PRESIDENT: 
+Yes.  Very briefly, Witness, you can clarify.  
+THE WITNESS: 
+Yes.  Mr. Mugenzi did not know that I, personally, had prisoners in the commune jail.  But as he wanted to compliment and add something to the advice provided by the prime minister, that is when he cited examples.  I believe he cited four examples of cases where the bourgmestres could come into conflicts with the -- with the masses.  So it is different from what you've said.  
+MADAM PRESIDENT: 
+Was this at Murambi?  And if so, which meeting?  
+THE WITNESS: 
+Yes, precisely, it was in Murambi during the second restricted meeting.  
+MADAM PRESIDENT: 
+Of 18th April 1994?  
+THE WITNESS: 
+Yes, that is correct.  
+MADAM PRESIDENT: 
+Yes.  If you could remind us, what had these people who were in your jail done?  You had arrested them for some offences during that period.  What was the offence -- what were the offences for which you had arrested them?  
+THE WITNESS: 
+I cannot remember their names.  But there were 12 or 13 of them.  Four of them were detained in connection with the murder of Didace and for assaulting the teacher, Gaspard Ruzindaza.  I had arrested the others on the 16th and 17th for slaughtering cows belonging to Tutsi.  So there were 
+	two offences here; eating cows belonging to the Tutsis and assaulting people in the night.  
+MADAM PRESIDENT: 
+Yes.  And was it your evidence that after you released them they became involved in and committed further offences?  
+THE WITNESS: 
+After deliberations, if they had committed -- or after their release.  
+THE ENGLISH INTERPRETER:
+Correction.  
+THE WITNESS:
+I do not know whether they committed other crimes or not.  Because the week that followed the Murambi meeting, that was the week during which I was -- I was busy with the security of the Tutsis.  So any possible offences that the Hutus could have committed, and since we have been advised not to get into conflict with them, they did what they wanted to do; eating cows, destroying houses and they were acting openly and I could not do anything.  
+MADAM PRESIDENT: 
+Yes.  So my final question on this incident is:  
+
+You have testified that you are Catholic I believe.  Have you had opportunity to apologise to the people of your commune for releasing these prisoners who -- some of whom were murderers, robbers and some of who had destroyed people's homes, publicly?  
+
+THE WITNESS: 
+I released them because that is how the situation was.  It never occurred to me to make such an apology when I returned from exile.  So that is how the situation was.  
+MADAM PRESIDENT: 
+Thank you, Witness.  Now, I want to move on to another subject.  
+
+In your capacity as a bourgmestre, would you know -- or did you know the civil servants who worked in your commune?  
+THE WITNESS: 
+What level of civil servants?  
+MADAM PRESIDENT: 
+It's better you advise us.  We don't know what type of civil servants you had in your commune, whatever the level was.  
+THE WITNESS: 
+In my commune there were heads of services.  All the services that were required in a commune had a service head.  And during my tenure I had the hierarchal authorities when I was being sworn in -- inaugurated in my functions.  But later on, in the month of May, when the sous-préfet of 
+	Kiyumba préfecture was appointed, he also came and held a meeting.  So the authorities could visit Rutobwe where the sous-préfet, the préfet -- but the préfet did not come during the genocide of April 1994, he visited before.  
+MADAM PRESIDENT: 
+So these are what you'd refer to as the senior civil servants in your commune?  
+THE WITNESS: 
+Actually, the sous-préfet is not a civil servant of the commune.  The civil servants of the commune are the assistant bourgmestre and the heads of services.  That is all.  That is how the 
+	commune administration appears.  
+MADAM PRESIDENT: 
+And did you know all these civil servants of your commune?  
+THE WITNESS: 
+Yes, I knew all of them back then.  But it is not possible for me to remember all the names.  But at least I can remember one of those names.  
+MADAM PRESIDENT: 
+So was Kamali one of them?  And if I've incorrectly pronounced the name, you can correct me.  
+THE WITNESS:
+I'm sorry, Madam President, what name did you mention?  
+MADAM PRESIDENT: 
+Let me check the name.  Kamali, Isaac.  
+THE WITNESS: 
+There was no one bearing that name, Kamali, Isaac, among the civil servants in my commune, never.  
+MADAM PRESIDENT: 
+Thank you, Witness.  Now, let's move on to the Interahamwe whom you saw carrying guns.  
+
+And you said you were -- you stated as follows:  "The Interahamwe dressed differently from soldiers, so I was able to judge from their clothing.  They had no berets."  Was that your evidence?  
+THE WITNESS: 
+Yes, I believe I made that statement.  
+MADAM PRESIDENT: 
+So how did they dress?  
+THE WITNESS:
+As I was able to observe -- are you referring to the Interahamwe in general or those I was able to see in the passing Pajero vehicle?  
+MADAM PRESIDENT: 
+Those you were able to see whom you described to the Chamber.  
+THE WITNESS: 
+They did not have any special uniform -- half way civilian, half way military.  That was the feeling I had at the time.  
+MADAM PRESIDENT: 
+Thank you, Witness.  
+
+Now, on the Tutsi in your commune, when did they go into hiding?  Which date in 1994?  
+THE WITNESS: 
+I have trouble with that verb "to hide".  Was that within the commune or their movement or displacement to Kabgayi?  
+MADAM PRESIDENT: 
+When did you, as bourgmestre, consider that the Tutsi were in danger and that they needed to be assisted, by yourself or any other person?  
+THE WITNESS: 
+When the first victim of the genocide fell, I felt that I had to be vigilant and watch out and ensure that the Tutsis were not assaulted and killed.  So it was from the moment that I was certain that the genocide had started.  That was on the 14th -- the night of the 14th.  That is when the genocide started.  But I knew about it in the morning 14 April 1994.  From that point on I punished all forms of aggression that came to my notice or when any of the conseillers brought such an attack or assault to my knowledge.  
+
+I have forgotten part of the answer.  When did the Tutsis of Rutobwe start going into hiding?  I would like to tell you something.  The Hutus and Tutsis of Rutobwe were related in marriage, so those marriage links were very solid.  Some Tutsis had married the daughters of Hutus and Hutus had married the daughters of Tutsis.  So from experience of the disturbances of 1973, when people were protected by their friends and the members of their extended families, and members of their 
+families in-law, the same thing happened.  When the Tutsis felt threatened, when people started eating their cows, they went to hide with their friends, with their brothers and parents in-law.  And it was when their cattle were eaten and some of their homes were destroyed by the Hutus, so the Tutsis had no choice.  They went to spend their nights with friends.  
+MADAM PRESIDENT: 
+Yes.  And my final question is this, Witness:  
+
+Between Nyabikenke and Rutobwe communes, where did the genocide occur first, if you know?  
+THE WITNESS: 
+Between Nyabikenke and Rutobwe commune, the genocide started first in Nyabikenke commune.  
+MADAM PRESIDENT: 
+Thank you very much, Witness.  
+
+We would like to commend you for your resilience and we hope that you will get better.  We thank you for the testimony you have just given, which has just come to an end.  We thank you for sparing your time to come and enlighten the Chamber on the events in your commune.  And we'll have an opportunity to consider it, alongside other evidence that will be adduced in this trial, at the end before we give a verdict.  So we thank you and you may now leave.  
+(Witness excused) 
+MADAM PRESIDENT: 
+Yes.  Before we take the break, who is the next witness, Defence Counsel?  
+MR. LAROCHELLE: 
+It will be Witness T25, Madam President.  I don't know if we will start immediately after the break?  
+MADAM PRESIDENT: 
+Just a moment, Counsel.
+(Pages 48 to 59 by Rebecca McCoy)
+
+
+
+
+
+
+
+
+1630H 
+MADAM PRESIDENT:
+Yes, Prosecution?  
+MR. NG'ARUA: 
+Yes, Madam President.  I have some documents to tender in in evidence, two documents, basically.  The statement of 25th August 1998 in French with English in translation.  My Lords, the motivation for this production of exhibits dated 26 May 2010 was served on the Defence along with the exhibits, and we would request that it be tendered in as the next Prosecution exhibit. 
+MADAM PRESIDENT:
+Which language is the statement, Counsel?  
+MR. NG'ARUA: 
+My Lords, the statement is in French, and the translation is in English.  That would be reflected on 
+your folders as item number 1 and number 2, number 1 being the English translation and 
+number 2 -- tab number 2 being the French original statement.  
+MADAM PRESIDENT:
+Is the statement underlined?  
+MR. NG'ARUA: 
+Yes, I have underlined the -- on the margin of the -- of the document the relevant portions.  
+
+If registry can assist.  
+MADAM PRESIDENT:
+Defence Counsel?  
+MR. LAROCHELLE: 
+No objection, Madam President.  
+MADAM PRESIDENT:
+The statement of the witness of 28th (sic) August 1998 in French and it's free translation in English and the motivation dated 26th May 2010 are entered as one exhibit for the Prosecution.  
+
+And it is Prosecution exhibit number, Registry?  
+MR. MATEMANGA:
+P. 55.  
+MR. NG'ARUA: 
+Yes, one correction, Madam President.  I think in the Live Note we got that this is a document of 
+25th August -- 28th August 1998.  It's supposed to be 25th August 1998.  Thank you, My Lords.  
+
+Mr. Matemanga, please.
+
+MADAM PRESIDENT:
+Subject to that correction, the document is entered as an exhibit, Prosecution P. 55.  
+(Exhibit No. P. 55 admitted) 
+MADAM PRESIDENT:
+Kindly switch off your microphones, for the registry and the Prosecution, as you confer. 
+MR. NG'ARUA: 
+The next exhibit is a statement of Mr. Mporanzi dated 13th August 2003.  The original of that statement is in French and an official translation in English.  They are both found in tab 3 and 4 of your folders.  The motivation for this document was disclosed to the Defence on the 26th of May 2010.  And we request that the statement be admitted in evidence. 
+MADAM PRESIDENT:
+Defence Counsel?  
+MR. LAROCHELLE: 
+No objection.  
+MADAM PRESIDENT:
+The statement of the witness dated 13th August 2003 in French, the unofficial translation of that statement in English and the motivation dated 26th May 2010 are entered as one exhibit for the Prosecution.  
+MR. NG'ARUA: 
+One correction, Madam President.  The translation is official.  It's from language section.  
+MADAM PRESIDENT:
+Subject to that correction, exhibit is Exhibit P. 56.  
+MR. MATEMANGA: 
+Yes. 
+(Exhibit No. P. 56 admitted) 
+MADAM PRESIDENT:
+Any documents from the Defence?  
+MR. LAROCHELLE: 
+Yes, if the registry could assist.  
+
+We have -- Your Honours will remember that during his examination-in-chief at some point the witness wrote some names on a sheet of paper.  This is the document we would like to tender as a Defence exhibit.  I have a justification, although I'm not sure if it's necessary, but the justification is dated 
+27th May 2010, and it refers to the written document of the witness.  
+MADAM PRESIDENT:
+Yes.  Counsel, do you remember the date of the examination-in-chief at which this request was made to write the names, the date of the examination-in-chief?  
+MR. LAROCHELLE: 
+If I remember well, it was on 25th -- the date of where (sic) it happened is indicated on the document, so it's 26th May 2010.  If you remember, the witness wrote the date alongside his signature.  
+MADAM PRESIDENT:
+Any objection, Prosecution?  
+MR. NG'ARUA: 
+None.  
+MR. LAROCHELLE: 
+Obviously, we would require that document to be under seal as it identifies people who shouldn't be mentioned in open session.  
+MADAM PRESIDENT:
+The names of people written by the witness in examination-in-chief on the 26th of May 2010 -- the document on which the names of people written by the witness in examination-in-chief on 
+26th May 2010 is tendered as Defence exhibit.  
+MR. MATEMANGA:
+D. 34.  
+MADAM PRESIDENT:
+As Exhibit D. 34.  
+MR. MATEMANGA:
+Yes. 
+(Exhibit No. D. 34 admitted, under seal) 
+MADAM PRESIDENT:
+Is there any other document?  
+
+We are proposing that we take the break at the end and go through the preliminaries and any examination-in-chief we can squeeze in and finish the proceedings at ten past five.  Is that acceptable, Counsels?  
+MR. NG'ARUA: 
+No problem, Madam President.  
+MR. LAROCHELLE: 
+No problem on this side either.  
+MADAM PRESIDENT:
+Okay.  Let's have the next witness brought in after the curtains have been drawn.  
+
+Counsel, what is the pseudonym of the witness?  
+MR. LAROCHELLE: 
+T25.  
+MADAM PRESIDENT:
+Thank you.  
+(Witness entered courtroom) 
+MADAM PRESIDENT:
+Registry, could you arrange to administer the oath to the witness, please. 
+(Declaration made by Witness T25 in Kinyarwanda) 
+MADAM PRESIDENT:
+Witness, good evening.  
+THE WITNESS:
+(No interpretation)  
+MADAM PRESIDENT:
+Yes, if you could come closer to the microphone, Witness, and learn to switch it off when you are not speaking.  The microphone is open, and it shouldn't be on when you are not speaking.  So kindly switch it off.  
+
+Registry, could you assist the witness do that.  
+
+Witness, in which language are you going to testify?  Is it Kinyarwanda or French or any other language?  
+THE WITNESS:
+In Kinyarwanda.  And I would also like to seize this opportunity to request that I be able to give my testimony in closed session.  
+MADAM PRESIDENT:
+Witness, we are about to give you a briefing, and we want you to listen very carefully to what we are going to say.  
+
+As we said at the beginning, the first thing we want you to learn is to switch on your microphone when you are going to speak and to switch it off when you are done.  And if you are answering a question, as you are going to speak in Kinyarwanda, count up to three after the question has been asked before you begin to speak into your microphone.  
+
+Now, we'll go to the procedures that obtain here.  You will be questioned in examination-in-chief by 
+the Defence, which is seated on your left hand.  If you look on your left, you will see the Defence team.  When the Defence has finished asking you questions, the Prosecution in turn will ask you questions 
+on the evidence you have given and on any other relevant matters.  The Prosecution is seated on 
+your right in front of the translation booths.  
+
+Have you seen the Prosecution team, Witness, on your right?  
+THE WITNESS:
+Yes.  
+MADAM PRESIDENT:
+Witness, you have to speak slowly, clearly and briefly.  Answer the questions directly to enable translation in all the languages that are followed here.  Your evidence will be translated and recorded in those languages, so you need to be clear, and you also need to be brief and direct.  
+
+You have to answer all questions put to you by all the parties.  If the question is not proper, the 
+Trial Chamber will say so.  If it has not said so, you have to answer the question.  The Judges may pose any questions to you at any time during the proceedings.  If a question has not been made clear to you, you may ask for it to be repeated or for it to be clarified.  
+
+We conduct sessions here -- we conduct trial in open and closed sessions, and it is the Trial Chamber which makes the decision whether you are going to testify in the public -- in open session or in 
+closed session.  When we are in open session, the public is allowed to attend the proceedings and to avail themselves of the record made of those proceedings.  So we will be warning you when we are in open session not to mention any names of places that may identify you.  And we repeat, it's only the Trial Chamber that will make that decision.  
+
+When we are in closed session, you will be warned again.  And here you may give all the information, even if it may identify you, because in closed session the public will be excluded and the record made of such session will not be available to the public.  
+
+We require you to be courteous to all the parties in these proceedings and to all our staff present here.  And likewise, we expect them to extend the same courtesy to you.  
+
+Witness, we believe that if you follow these simple directives, we will quickly end your testimony and then you can go back home.  
+
+We would now like to know whether you have understood the directives or instructions we have given you.  If you have not understood anything, you are free to ask for clarifications.  
+THE WITNESS:
+I have understood.  
+MADAM PRESIDENT:
+Thank you, Witness.  
+
+Defence Counsel, we are in open session.  
+MR. LAROCHELLE: 
+Yes, I will keep that in mind, Madam President. 
+WITNESS T25,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. LAROCHELLE:
+Q.	Good day, Witness.  
+A.	Good day, Counsel. 
+Q.	You have before you a document.  Are you able to read that document and to confirm that the information therein contained is accurate?  
+A.	(No interpretation) 
+Q.	No, no.  In your head.  
+MR. LAROCHELLE: 
+Of course, Madam President, I will be requesting that the name mentioned by the witness be transferred to the closed session transcripts.  
+MADAM PRESIDENT:
+Yes, Counsel, we'll deal with that matter briefly -- shortly.  
+
+Has the witness finished reading the information on the sheet?  
+
+Witness?  
+THE WITNESS:
+It's done, Madam President.  
+MADAM PRESIDENT:
+Can we go into a short closed session, Registry.  
+
+Members of the public, we regret you have to leave at this particular moment because the matters we are going to discuss may disclose the identity of the witness.  
+
+Witness, please switch off your microphone.  
+(At this point in the proceedings, a portion of the transcript [pages 66 to 70] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 60 to 65 by Sherri Knox) 
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Sithembiso Moyo, Judith Kapatamoyo, Eleanor Bastian, Rebecca McCoy and Sherri Knox, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Sithembiso Moyo
+
+
+___________________________	Judith Kapatamoyo
+
+
+___________________________	Eleanor Bastian
+
+
+___________________________	Rebecca McCoy
+
+
+___________________________	Sherri Knox
+
+
+
+
+
+
+
+
+	NZABONIMANA	MONDAY, 31 MAY 2010
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 15
+
+	NZABONIMANA	MONDAY, 31 MAY 2010
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 29
+
+	NZABONIMANA	MONDAY, 31 MAY 2010
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 47
+
+	NZABONIMANA	MONDAY, 31 MAY 2010
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page 59
+
+	NZABONIMANA	MONDAY, 31 MAY 2010
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 65
+
+
+
+	NZABONIMANA		MONDAY, 31 MAY 2010
+
+
+
+ICTR - TRIAL CHAMBER III
+
+
+
+
+

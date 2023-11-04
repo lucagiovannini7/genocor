@@ -1,0 +1,874 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+WEDNESDAY, 18 NOVEMBER 2009
+0912H
+CONTINUED TRIAL
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'Dow
+	Mr. Arif Virani
+	Mr. Takeh Sendze
+	Ms. Sunkarie Ballah-Conteh
+	Mr. Eric Husketh
+	
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Rebecca McCoy
+	Ms. Sherri Knox
+	Ms. Eleanor Bastian
+	Ms. Tanya West
+	Ms. Jean Baigent
+		
+	
+	
+
+
+I N D E X
+
+WITNESS
+
+For the Defence:
+DISMAS NZANANA 
+Examination-in-chief by Mr. Nimy	5
+
+
+
+
+EXHIBITS AND EXTRACT
+Exhibit No. P. 389A, P. 389B and P. 389C	2
+Exhibit No. P. 390A, P. 390B and P. 390C	2
+Exhibit No. P. 391	2
+Exhibit No. D. NZ682	5
+Exhibit No. IP. 48 (marked for identification)	29
+Exhibit No. P. 392	30
+Exhibit No. P. 393	30
+Exhibit No. P. 394	30
+Exhibit No. 395	31
+Exhibit No. 396	31
+Exhibit No. 397	31
+Extract	31
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session, today, Wednesday the 18th of November 2009, for the continuation of the trial in the matter of 
+the Prosecutor versus Karemera et al, Case No. ICTR-98-44-T. 
+
+Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+
+The appearances are the same? 
+MS. DIAGNE-MBAYE:
+Good morning to all the parties.  Mr. President, Your Honours, good morning.  I am back and so our team -- there has been a variation in our team.  Our client, Mr. Karemera -- and we have other colleagues who will be joining us shortly in the courtroom.  Thank you.  
+MR. PRESIDENT:
+Thank you.  And welcome back, Ms. Dior.  
+MR. VIRANI: 
+Your Honour, just before we get started with this witness, if I may briefly address the matter of the admission of documents.  
+MR. PRESIDENT:
+Please do. 
+MR. VIRANI: 
+Thank you.  Your Honour, I've had some discussions with Mr. Robinson, and he has no objection to the documents that I'm proposing to mark as exhibits.  And I've spoken with Mr. Issa regarding the 
+exhibit numbers.  
+
+There are three documents.  The first document that relates to the -- these all relate to the cross-examination yesterday of the witness, **********************.  The first document is a pro justitia statement dated the 16th day of November 2006, provided by the witness to the 
+Rwandan office of the prosecutor.  I have three versions of it in English, French and Kinyarwanda.  And Mr. Issa has indicated that the next exhibit number would be P. 389.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. P. 389A, P. 389B and P. 398C admitted)  
+MR. VIRANI: 
+Thank you, Your Honour.
+
+The second is a document dated the 23rd of October 2008.  It is a transcription of 
+Joseph Karorero's appeal, wherein the appeal was heard orally.  And it is a full transcription of that appeal hearing.  It is provided in both English, French and Kinyarwanda.  And the exhibit number for this document would be P. 390.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. P. 390A, P. 390B and P. 390C admitted)  
+MR. VIRANI: 
+And the final document, Your Honour, is a transcription of the investigator's notes of interview of a l'enquêteur -- ***************************, on the 24th and 26th April 2007.  This is the interview that he provided to investigators with the Setako team.  It is provided at this point in English only.  We have requested a French translation and will provide that to the Court as soon as it is prepared.  This document number would be P. 391.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. P. 391 admitted) 
+MR. VIRANI: 
+Thank you, Your Honour.  
+MR. ROBINSON: 
+Yes, Mr. President.  Also, I had an exhibit that I would like to offer from the far table.  It's number 5 in the packet of the Prosecution.  And what it is, is a transcript of an RTLM broadcast in June of 1994.  And on page 12 of the English version of that broadcast, it's indicated that the journalist reports that in the commune of Mukingo the Amahindure has been established by this Bernard Suku.  And we think that that has some probative value.  It's typical of broadcasts that we have admitted without the foundation of -- necessity of having been recognised by a witness.  In fact, *************, when I spoke with him, had not heard this broadcast, was not in a position to speak to it. 
+
+This was shown to Witness BTH during the course of the trial and was given the number ID. NZ28.  And at this time I would ask that the documents be actually admitted as a full exhibit.  Thank you.  
+MR. WEBSTER:
+Your Honours, this is a matter that we discussed with Mr. Robinson this morning.  What I advised him, through my colleague, and thought we had agreed upon was that the Prosecution would consider his application; that we'd address it at a later time, which is what I'd prefer to do.  
+
+I understand the reasoning behind his -- Mr. Robinson's submission.  But the exhibit should have been put to the witness.  And we had intended to do that, and we didn't get to it.  But it really may be a bit misleading to simply rely on the radio announcement without asking the witness about the timing, which is the central issue.  So it's really left to the Court.
+
+I understand the legal argument or basis of Mr. Robinson's submission.  This is something I'd like to think about a bit more.  So that is basically our response.  I didn't expect this application this morning.  I thought we were going to discuss it and review it a bit further.  So at this point we oppose it.  But it's not something that we -- it's not a position we insist upon.  It's simply something I wanted to give more thought to.  
+MR. ROBINSON: 
+Yes, Mr. President.  I'm sorry.  I may have well misunderstood the Prosecution.  But they did ask me to -- for some time to review it.  I don't object to that.  But I, nevertheless, thought this was the opportune time to move to admit the exhibit.  So perhaps we could revisit this at the beginning of the business tomorrow.  
+MR. PRESIDENT:
+Mr. Webster, we didn't quite understand the position that you were expressing.  Is it that you wanted to put a question to the witness on this document? 
+MR. WEBSTER:
+Yes, Your Honour.  The document mentions something that is started in Ruhengeri called the Amahindure.  It's an RTLM broadcast that we've identified as the 3rd of June 1994.  The witness's response and the series of questions that we would have addressed to him would have brought out that the Amahindure must have been created before June, given the substance of what's contained in the broadcast.  But that would not be immediately apparent from just reading the broadcast.  It really requires some response and a series of questions put to the witness.  
+
+We didn't get to it yesterday during the cross-examination.  So we had pretty much abandoned the document.  I didn't recall that Mr. Robinson had used that transcript earlier and it was marked for identification apparently.  But for us the document really doesn't have much probative value unless the witness can answer some questions about how the Amahindure was organised.  It doesn't really require him to have heard the broadcast in June of 1994.  
+
+So at this point, I don't think it's a particularly good idea to admit the transcript.  But I wanted to give the matter some more thought.  But I realise that the Chamber has admitted transcripts of radio broadcasts without a witness laying foundation for them.  So the legal principles that Mr. Robinson is advancing are not novel to us.  But it's simply something I wanted to think about a bit more.  And that's the position that I thought we'd arrived at this morning.  So I was a bit surprised when Mr. Robinson tried to move it into evidence.  
+
+So I'm simply stating, you know, that I'd prefer to wait a bit.  But the Court is certainly in a position to make a decision on his motion, if it is inclined to do so.  
+MR. PRESIDENT:
+No.  We can grant an opportunity to address it tomorrow morning.  
+MR. WEBSTER:
+Okay.  
+MR. PRESIDENT:
+So that is I think what we will do.
+MR. ROBINSON: 
+Thank you, Mr. President.  
+
+Mr. President, at this time we're prepared to begin the testimony of our next witness.  He is before you.  His name is Dismas Nzanana.  He is prepared to testify openly without any protective measures.  Thank you.
+(Witness entered courtroom)
+MR. PRESIDENT:
+His number on your witness list is? 
+MR. ROBINSON: 
+Eighteen.  
+MR. PRESIDENT:
+Number 18.  Thank you.  
+
+Good morning, Mr. Witness.  
+THE WITNESS: 
+Good morning, Mr. President.  
+MR. PRESIDENT:
+Before you begin your testimony, you have to take an oath to tell the truth, and the registrar will now assist you to do that. 
+(Declaration made by Dismas Nzanana in Kinyarwanda) 
+
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Witness, you will now give your testimony by responding to questions put to you by counsel.  You will begin, first of all, with counsel for the Prosecution -- for Joseph Nzirorera, who will now begin his examination of you. 
+MR. NIMY: 
+Thank you, Mr. President, Your Honours.  As we have just told you, this witness is not a 
+protective witness and is not seeking protective measures.  We are, therefore, going to examine him in open court.  
+
+But I would like to start by asking Mr. Issa to kindly distribute the personal information sheet of the witness to the parties and, subsequently, place a copy thereof before the witness.
+DISMAS NZANANA, 
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. NIMY:
+Q.	Witness, do you have the personal information sheet before you? 
+A.	Yes, Counsel.  
+Q.	Well, can you peruse it, and if you find that the information on it is correct, you date it -- today is the 
+	18th of November 2009 -- and append your signature to it.  Have you understood me? 
+A.	Yes, Counsel.    
+Q.	Are you done, Witness? 
+A.	Yes, I'm done, Counsel.  I've already signed the PIS.
+MR. NIMY: 
+Mr. President, I would like to move that this PIS be admitted into evidence.  And I think it will be assigned Exhibit No. D. NZ682.  
+
+	Is that right, Mr. Issa? 
+MR. MJUI: 
+Yes, you are right.  Thank you.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. D. NZ682 admitted)  
+MR. NIMY: 
+Thank you, Mr. President.  
+BY MR. NIMY:
+Q.	Witness -- Mr. Witness, can you tell the Court about your educational background.  
+A.	I thank you, Mr. President, Your Honours.  I did my primary schooling in Nyarubuye in Gisovu commune from 1963 up until 1970.  The first part of my secondary education lasted up to 1973.  And I studied in Birambo.  And I did the second part of my secondary education in the Butare Groupe scolaire up to 1977.
+MR. NIMY:
+As far as the names are concerned, Mr. President, I think it would be advisable for the names to be spelt in order to facilitate the work of stenographers.
+BY MR. NIMY:
+Q.	Now, Witness, can you spell out the names that you have just mentioned, Nyarubuye and Birambo.  
+A.	Nyarubuye is spelt N-Y-A-R-U-B-U-Y-E, Nyarubuye.  
+Q.	Birambo.  
+A.	Birambo is spelt B-I-R-A-M-B-O.  
+Q.	Very well.  Witness, what is your professional background? 
+A.	From 1977 up to the end -- up to March 1983, I worked in the ministry of finance and the economy in Kigali.  And from March 1982 up until the end of 1986, I was sous-préfet in the Ruhengeri préfecture -- the Ruhengeri préfecture office.  And from that date up until 1994, I was the sous-préfet of 
+	Busengo sous-préfecture, which is part of the Ruhengeri préfecture.  
+Q.	Thank you, Witness.  And in 1994 what happened to you? 
+A.	From 14 July 1994, because of the war that was rocking the country, I fled to what used to be Zaire at the time and which today is the Democratic Republic of Congo.  
+Q.	And what is your current status? 
+A.	I am in detention in the Ruhengeri prison.  
+Q.	Can you explain to the Bench how you became a prisoner in the Ruhengeri prison upon your return from exile in Zaire.  
+A.	I fled to the Bukavu camp, but at some point in time the refugee camp was attacked and we had to flee towards the Congolese forest.  But in 1999, that is, in March, I was arrested by the soldiers of the RPA who repatriated me to Rwanda.  I was first detained in the DMI facilities from where I was transferred to the Kigali central prison later. 
+Q.	And after your transfer to the Kigali prison, what happened after that? 
+A.	I stayed in the Kigali central prison from the 5th of April 1999 up until the 30th of May 2000.  And it is on that date that I was transferred to the Ruhengeri prison, for the reason that I used to live in Ruhengeri prior to the war and the offences with which I was charged were committed in that Ruhengeri area.  I don't know if you want me to stop here, or I wonder if you need further explanations.  
+Q.	Yes, Witness.  Did you remain in the Ruhengeri prison from that time till now? 
+A.	When I got to Ruhengeri, I stayed there for about a year.  And in 2000, February 2000 -- I'm not 
+	too sure.  It could have been February or May -- I was transferred to the Gisenyi prison, where I spent about two months.  And I came back to Ruhengeri in February 2003.  But in March 2005, once again, I was transferred to the Mpanga prison where I spent three years.  And on the 11th March 2008, I was sent back to the Ruhengeri prison once again where I am for now.  
+Q.	Witness, let me come back to your first transfer from the Ruhengeri prison.  
+MR. NIMY: 
+Thank you, Mr. Issa.  
+BY MR. NIMY:
+Q.	Witness, I was saying that I want to come back to your transfer from the prison -- from the 
+	Ruhengeri prison to the Gisenyi prison.  
+
+Why were you transferred to Gisenyi? 
+A.	Thank you, Counsel.  When I was transferred the first time from Ruhengeri to Gisenyi, the administration did not give me any explanation.  I had just had some medical care, and they told me to climb aboard a vehicle, and they took me to Gisenyi.  But, subsequently, I was told that there were 
+	two trials who were -- which were going to take place, and these were trials of detainees who have pleaded guilty.  
+
+	And the accused persons had been asked to implicate authorities who incited them to commit the offences that they committed.  And the authorities thought that those accused persons were not going to be able to accuse us when -- if we were present.  I realised that I was transferred together with the former préfet, Basile, and the one who was the bourgmestre of Ndusu.  This transfer was made to allow the accused persons to accuse us in the course of their trial.  
+Q.	But you, personally, did they accuse you? 
+A.	Yes, because their confessions were not going to be accepted if they did not implicate me in the acts that they had been accused of and to which they were confessing. 
+Q.	But let me come back to this issue.  Why did you have to be taken away? 
+A.	Thank you, Counsel.  I'm not able to answer that question.  But I think that it was an agreement between the accused persons and the department of public prosecutions.  I did not have any power or any authority to influence the statements of the co-accused persons.  But if the authorities decided to take us away, it must have been to enable these persons to accuse us falsely without any worries, because that would have happened in our absence.  
+Q.	Who else, apart from you, was transferred to Gisenyi for the same reasons and under the same circumstances? 
+A.	Thank you, Counsel.  I have already told you that when I was transferred to Ruhengeri, I was transferred at the same time as Basile, who was préfet of Ruhengeri, as well as 
+	Jean Sauveur Bigirimana, who was bourgmestre of Ndusu.  
+Q.	Very well, Witness.  Where were you on the 6th of April 1994? 
+A.	Thank you, Counsel.  On the 6th of April 1994, I spent the day in Kigali.  I went there on 
+	official assignment. 
+Q.	And until when did your official mission to Kigali last? 
+A.	I left Kigali in the evening around 1800 hours.  And I got to my house in Busengo around 2030 hours.  
+Q.	Witness, how did you get to know about the death of president -- President Habyarimana? 
+A.	Regarding the news of the death of the president, that information got to me on radio.  Initially, it said that the plane had been shot down.  But we did not know that the president was aboard that plane.  It was the following day that we had additional information to the effect that the president died together with other persons who were on board the plane.  
+Q.	And when the radio announced the news relating to the attack on the president's plane, what did you do yourself immediately thereafter? 
+A.	Initially, I was saddened and worried by the news, by this unfortunate news.  But as I already said, we did not know immediately that the president had died.  And later on when the news was confirmed, it was a great worry.  And then there was an announcement that everybody should remain home.  And since I could not move around, I remained in that situation, unable to communicate with any person.  
+Q.	As an official, were you not -- did you not have to deal with security issues? 
+A.	Thank you, Counsel.  On the 7th I could not think of any security problem.  We were just concerned about the death of the president, and I tried to contact other persons on the telephone, unsuccessfully.  The then préfet of Ruhengeri lived in Ruhengeri.  And since there was only one sous-préfet at the 
+	préfecture office, he was absent.  He had gone to Kigali to see his family.  So at the préfecture level, I had no one I could turn to for information.  At the military level, I tried to contact some military officers, unsuccessfully, because I was told these people were at the war front and could not be reached.  So the whole day, I was not able to contact anyone who could give me additional information on the prevailing situation.
+(Pages 1 to 8 by Rebecca McCoy) 
+
+
+
+
+
+
+
+
+
+
+
+
+0950H 
+BY MR. NIMY:
+Q.	If I understand you clearly, this was on the 7th of April? 
+A.	That is the case, Counsel. 
+Q.	No one encountered security problems in your secteur, to your knowledge, on that day?  
+A.	Thank you, Counsel.  In the evening of that day there was an -- there was something.  In the evening I went to the office, which was not far from my house, and I met some persons who lived on the 
+	Ruhinga hill, the hill opposite the préfecture office.  And these persons told me they were being persecuted and being chased by members of the population who wanted to kill them.  I asked them why these people wanted to kill them, and they just told me that they were targets of attacks.  When I asked them to identify the attackers, they told me that these were members of the population and soldiers.  
+
+But since there was a military position not far from there, I thought these two persons had a conflict with the soldiers on guard that day, and that wouldn't be the first time we were encountering this kind of problem.  But since it was already late, I asked them what they thought we should do.  And they told me that all they wanted was to be in security.  And I asked them to find somewhere to spend the night so we can deal with the issue the following day.  I asked them why they didn't go to the communal office, and they told me that they found a lot of people coming from the préfecture office.  These two persons therefore spent the night at the préfecture office.  
+
+The following day, I had to get up and deal with their problems.  I received a phone call from the group commander, Léandre.  And he told me that there were news to the effect that people had been killed in Bwisha.  Initially, I thought this was the same problem that I was dealing with that was the problem that had been presented to me.  I asked him to give me a bit of time to seek some information from these two persons that I met the previous day.  
+
+I had no policemen with me and I had nobody to protect me.  So I asked Léandre to come so that we go and examine the problems of the Bwisha people.  Even if these people came to me under normal circumstances, it should have been -- they should have addressed themselves though the grassroots authorities.  I therefore went to the communal office of Nyarutovu to inform the bourgmestre about the problems.  I did not see him.  And I saw the police inspector, and I left a message for the bourgmestre with those two persons.  
+
+In the interim, I asked the group commander to meet me so we can go to Bwisha, but he had already gone there and was back.  But since he did not inform me, I wanted to go there to acquaint myself with the situation in Bwisha.  On the way, the people stopped me and told me that Tutsis had been killed there and that the commander who attempted to go there turned back because he couldn't get there and he didn't have enough soldiers.  So I came back to the sub-préfecture office.  I don't know if you want me to continue to talk -- to tell you about that day.  
+Q.	Witness, first of all, I would like you to spell three names for the stenographers from the testimony you've just given.  First of all, the Ruhinga hill.  Can you spell that, Ruhinga?  
+A.	Ruhinga is R-U-H-I-N-G-A.  I must add that this was Ruhinga 2, because there's Ruhinga 1. 
+Q.	Thank you for the clarification.  And then the Bwisha locality, can you spell that? 
+A.	Bwisha is B-W-I-S-H-A. 
+Q.	And the Nyarutovu communal office, can you spell that? 
+A.	Nyarutovu is N-Y-A-R-U-T-O-V-U.  
+Q.	Let's move on to something else, Witness.  You've made reference to these two persons who came to you to ask for assistance.  Tell the Court, who are these two persons.  
+A.	When they came to look for me, I did not seek to find their ethnic identity, but subsequently I got to know that they were Tutsis. 
+Q.	Very well.  Can you continue with your account.  What did you do subsequently?  
+A.	When I got back to the sous-préfecture, after I failed in my attempt to go to Bwisha, I tried to call the group commander, Léandre, who managed to get to the place.  He had soldiers or armed elements with him, but he failed in his mission.  And I know that since he had a Tutsi wife from Bwisha, it's possible that they would have killed members of his -- that they would have killed his in-laws.  
+
+In the afternoon he managed -- he gave me information relating to the prevailing situation in that place.  And he requested the population, those who were looking for a place to hide, to come to the préfecture.  Indeed, in the evening, I saw people arrive and who spent the night in the bush.  Meanwhile, in the course of the day there were other persons who came from the Gakenke secteur and in the 
+Gatonde commune.  These persons were organising a wedding, and they had to go to Bwisha. 
+Q.	I do not want to interrupt your account, but let me just advise you that each time you mention a name, a proper name, please spell it to facilitate our work.  Can you spell Gakenke and Gatonde? 
+A.	Thank you, Counsel.  Gatonde is G-A-T-O-N-D-E.  Gakenke is G-A-K-E-N-K-E. 
+Q.	Thank you, Witness.  I'm sorry I had to interrupt your account.  So you can continue now.  
+A.	I got to the point where I was saying that people -- there were people who had come from Gakenke.  These people were preparing to celebrate a wedding.  But following the news of the death of 
+	the president, they realised that where they were taking the married woman there was a problem of insecurity because persons had already been killed there.  So these people took the direction of the sous-préfecture.  And all those persons came to the sous-préfecture office in the evening of that day, that is, the 8th.  And these persons spent the night at the sous-préfecture office.  We accommodated them in the premises of the sous-préfecture.  
+Q.	They spent the entire night there, Witness; is that what you want to say? 
+A.	From that day on they remained there till later.  The following day I had to go to Nyarutovu to look for the bourgmestre, because the attackers had come from the Nyarutovu commune.  Therefore, the communal authorities should take measures to prevent the killings or take other measures that will restore security.  Before I left the sous-préfecture office I realised that there were young persons, mothers, and I asked one of my assistants to go and look for the conseiller of that locality so we can discuss how to assist these persons who spent the night there and had not eaten.  
+
+Up until that point there was no -- there had not been any problem in the Busengo secteur, particularly since there were no Tutsis in that secteur for us to think that they might encounter any problems.  This was a relatively poor area, but we did everything possible to get them some -- some (inaudible).  And before I left, I asked the area commander that there were these people at the sous-préfecture, and he should send people to come and ensure their security.  And indeed gendarmes were sent to the place to protect them.  I, therefore, went to Nyarutovu, but I was not able to meet the bourgmestre.  He had spent two years there. 
+Q.	I'm sorry, Witness.  I just want to clearly understand what you just said.  Were you the one who asked for these Tutsis to be protected and for food to be found?  Were you the one who made that request for food and security?  
+A.	Yes, indeed, Counsel.  Thank you.  I am the very person who asked the conseiller and members of the neighbouring population to do everything to come up with food for the refugees, and indeed food was found for them. 
+Q.	Very well, Witness.  You may continue.  So you went and saw the bourgmestre of Nyarutovu you said? 
+A.	Yes.  I went and saw him.  And I asked him to do everything he could getting assistance from the commune conseillers and policemen in order to solve the problem of insecurity, beginning with the secteurs where the insecurity was escalating.  
+
+On my way -- when I was returning, there were members of the population of Gishaka (sic) who sought to chase the refugees right up to the office of the sub-préfecture.  
+
+Now, the assailants were repelled as they sought to chase them with stones.  But in the afternoon, the members of the population learnt that there were now gendarmes in the -- at the place.  Later, there were many more assailants than in the morning, and the gendarmes intervened and fired into the air and even wounded some of the assailants. 
+Q.	I really would like to request that you speak slowly, because you are giving an account that is of importance to me.  Take your time and speak slowly so that the interpreters can faithfully translate what you are saying instead of merely summarising it.  Do you understand me?  Now you may proceed, Witness.  
+A.	Thank you, Counsel.  I was saying, therefore, that when I returned to Nyarutovu I was informed that assailants had sought to attack the refugees but that the assailants had been repulsed.  In any case, the refugees who had tried to prepare food outside were worried -- or were molested.  And in the afternoon, the assailants came back.  But, fortunately, there were gendarmes on the spot, and the gendarmes repulsed the assailants.  
+
+In the meantime, the assailants had wounded some 30 persons or so because there were exchange of shooting with stones between the refugees and the assailants.  No one was killed, though.  It was a Saturday.  And the date was the 9th.  The following day, that was Sunday, there were gendarmes.  And I asked the group commander to send reinforcements in the form of gendarmes, and so he sent us 
+six gendarmes, and so we now had 12 at our disposal.  
+
+Up until the 11th we had no problem at all.  The only problem, probably, was how to find food and to provide them with appropriate hygienic conditions.  And I was looking for ways of finding the CI -- the Red Cross staff that was -- that were in the area.  And we were trying to contact them so that they could come to our assistance.  But since it was a Sunday, I was unable to get in touch with them.  We, therefore, had to wait until Monday.  So throughout Sunday we didn't have any problem insofar as security was concerned.  
+
+In the meantime, however, there were rumours circulating to the effect that the population of Bwisha were blaming me because they had lost their Inyenzi.  So those Bwisha members of the population wanted to finish with those Inyenzi.  So the following day, that is, on Monday, I went to see the bourgmestre to ask him why he was unable to stop those -- those activities.  I asked him whether he needed some assistance in order for security to prevail.  But when I got to the commune office, the bourgmestre was not there.  He certainly was facing problems.  
+
+I have told you that from the day that the presidential plane was shot down, hostilities had resumed and the Inkotanyi were not far from Nyarutovu.  There was a hill on which the two protagonists were fighting each other.  So the people of Nyarutovu were scared because they were fearing for the lives of their family members, in particular, the lives of those who were living at Gatonde.  
+
+So the bourgmestre had problems because his family was in Gakenke.  In any case, I pointed out to him that there was a problem that he was not solving, and I asked him to call on the soldiers, if necessary.  And he told me that even if the killings intensified, he would try to restore security in that area.  And upon my return, we continued to hear that the Inyenzi had attacked that locality, in particular, at Gungo (sic).  And Gungo is spelt -- Rwungo is spelt R-W-U-N-G-O.  Rwungo is a trading centre that is not far from Bwisha.  
+
+And so those rumours that were being peddled held that there were Inyenzi in the vicinity who were seeking to go and have the refugees that were in the sub-préfecture office to be released.  So I returned to the sub-préfecture office in order to enquire about the situation.  
+
+And, in the meantime, as I passed by the Cyabingo commune office -- Cyabingo is spelt C-Y-A-B-I-N-G-O -- so I was -- passed by the Cyabingo commune office on my way to Nyarutovu.  So I went there at around midday, and I found people who had gathered there and who were looking towards Busengo.  And I heard sustained gunshots on the side of Busengo.  And I heard the explosion of grenades and even bombs, for those who are versed with ballistics.  
+
+But I didn't quite understand what was happening, and I thought that indeed it was possible that there might be fighting around my place, because I couldn't know how those people had attacked that area.  So I tried to telephone my house, to no avail.  I also made a phone call to Ruhengeri.  I also made a phone call to the sector operations commander, that is, the O-P-S, ops.  And the ops means the operations sector, and that is where the command was.  And we told them that we had a problem and that they needed to come and bring us assistance.  
+
+Now, those who received my phone call told me that they were informed of the situation and that they were doing everything to send people there to bring us assistance. 
+Q.	Now, can you tell us at what time all of this was happening?  What you're explaining, what date was it and what time was it? 
+A.	That was Monday, the 11th of April, after 3 p.m. 
+Q.	And what happened thereafter? 
+A.	I waited on the spot.  I waited for the reinforcements so that I could leave with them.  I waited for a long time.  And at about 5:30 p.m., 6 p.m., I saw soldiers who were coming on foot and who informed me that the vehicle in which they had come had broken down at Mashya.  And Mashya is spelt M-A-S-H-Y-A, Mashya.  Mashya is in Cyabingo commune.  It was a truck, and the truck had broken down.  
+
+So as they came on foot -- well, they tried to make some -- to advance towards our destination.  I had a small jeep with me, a Suzuki jeep, which was -- which wouldn't help us.  So I borrowed a truck -- a pickup from the commune, and I took them to Busengo.  At some 500 metres -- or at some 
+1,000 metres from Busengo we realised that the road had been blocked by assailants, so we left the vehicle there, and I continued on foot.  It was nightfall.  And although the road had been blocked and we were on foot, we didn't have any problem.  At the préfectoral office, that is, when we got to the office of the sub-préfecture, the fighting had ceased.  
+
+I saw an inhabitant of the locality who informed us that the gunshots had ceased but that the assailants were not far, because the assailants were certain that there would be reinforcements, and they were prepared to face the reinforcements.  As far as we were concerned, well, it was nighttime and we could not locate the operation where the enemies were.  So we tried to circumvent the préfectoral office and its vicinity.  And I talked to my watchman, and he talked to the gendarmes, because we were afraid that the gendarmes might shoot at us believing that they were under attack.  
+
+Now, the soldiers who had accompanied me got some information, and we knew that those who had sought refuge at that location had been attacked and massacred and that nobody had survived there.  It was a major problem.  So the soldiers got into the premises of the sub-préfecture, and they were able to realise that there were some survivors within.  And I should point out that this was during the night. 
+Q.	And what date was that, Witness? 
+A.	We are still on the 11th of April 1994 in the evening. 
+Q.	And what did you do?  What happened? 
+A.	The soldiers remained at the scene, but during the night they told me that they had been deployed only for a certain period and that they had to go back to Ruhengeri in order to find out whether they had to extend their stay there or whether other forces were going to be sent to replace us.  
+
+So it was at about 2 a.m. that they asked me to transport them to Ruhengeri, and they reassured me that there wouldn't be any attacks during the night, because up until that time the assailants hadn't showed up.  
+
+I, therefore, drove them during that night to Ruhengeri.  And when I got to Ruhengeri, I spent the night in the house of a certain Schuman.  I don't quite know how the name is spelt, but I think the spelling is S-H -- or, rather, S-C-H-U-M-A-N.  He was an Austrian who was working for a project, that is, CARBEN, spelled C-A-R-B-E-N, the CARBEN project.  And this is an acronym which stands for the 
+Austrian Rwandan cooperation for the development of the north.  It is, therefore, a project that has replaced another -- that has superceded another project that had been in operation in that area.  That is, the CYGAND project, S-Y-G-A-N-B (sic).  And the -- the CY stood for Cyabingo; GA, Gatonde; and B, Nbuso (sic).  It was a social development project.  That is, C-Y-G-A-N-B (sic).  
+
+So I spent the night in the house -- in Schuman's house, because I wanted to change my clothes and -- Tuesday and go to Ruhengeri to make some contacts in order to -- to examine with the local préfectoral authorities what we could do.  In fact, I was facing a problem, a specific problem, because the préfectoral authorities were virtually absent.  And when I sought to talk to the military authorities, the person who took my calls told me that the officers were absent.  
+
+Fortunately, that Tuesday I was able to contact Sous-Préfet Ntarwanda, N-T-A-R-W-A-N-D-A.  And he had just returned from Kigali.  So I told him the problem that I was facing.  And we agreed that he was going to try to contact the services that could help us solve the problem.  The following morning, that is, on the 13th of April, I went to see him very early and I realised that he had convened a security meeting at the préfecture.  
+
+Usually, those who take part in such meetings included the préfet, who was the chairperson, and then the service heads that were in the area, beginning with the area commander or the commander of the operational zone.  The presidents of courts also take part in the meeting.  We talk about the presence of courts in the area, and in Ruhengeri we had the president of the court of appeal, as well as the 
+public prosecutor of the public prosecution department.  There was also the president of the court of first instance, as well as the public prosecutor at the court of first instance.  There was also the head of the intelligence service of the préfecture, as well as the person in charge of the emi -- immigration services in the préfecture and the director of the prison.  Those were the persons who customarily take part in préfectoral security council meetings.  
+
+On that occasion, that council could be extended to include the sous-préfets and the bourgmestres and even other persons whose presence was required, depending on the problems that they had to examine.  When I got there, I realised that the sous-préfet, Ntarwanda, had convened a préfectoral security council meeting, and he had also invited the bourgmestres concerned.  But when I arrived, the bourgmestres had not yet arrived.  And I told them that the problem was a problem that had to be sorted out as a matter of urgency.  
+
+And on that occasion we learned that Préfet Bariyanga had died in Kigali and that he had been killed around the 7th.  We, therefore, had to consider other security problems that had arisen.  But since I had the feeling that the area I was in charge of was the most affected area, I asked that priority be given to the Busengo problem, because some persons had been killed in the office of the sub-préfecture, and nothing had been done for the survivors.  And so the security problem had not been solved.  
+
+Those participating at the meeting did listen to me, and so we considered the Busengo problem as a matter of urgency and as a priority matter.  And so I explained to those participating at the meeting that there were certain persons that had to be provided assistance.  There were corpses that had to be buried and that the soldiers also had to be deployed so that they could try to restore calm in the area.  
+
+At the end of the meeting, the decision was taken to the effect that the displaced persons that were still in Busengo had to leave the location because they couldn't be provided assistance there, especially as we couldn't have enough armed forces to ensure their security since the soldiers had been sent to the war front.  The members of that council, therefore, proposed that the displaced persons should, rather, come to be accommodated in the premises of the Ruhengeri court of appeal.  And since there was a fence surrounding the premises of the Ruhengeri court of appeal, it was felt that the displaced persons could be more easily protected there and that it would be easier for the Red Cross to bring assistance to those refugees once they would have been settled in the premises of the Ruhengeri appeal court.  
+Q.	I'm sorry, Witness.  So now we are discussing the stage where the refugees -- or the Tutsis that were being persecuted had to be taken to -- or were taken to the Ruhengeri court of appeal premises; is that correct? 
+A.	Thank you, Counsel.  I was talking to you about a decision that had just been taken.  The decision was taken to the effect that the displaced persons had to be transferred to the Ruhengeri appeal courts where they would be better protected or where it would be easier for assistance to be given to them. 
+Q.	Very well, Witness.  We are going to proceed after the recess, and I will request the President to decide that we take the recess now, because apparently it is 10:30 already.  
+MR. PRESIDENT:
+Thank you.  We'll take our midmorning recess now.  
+(Court recessed at 1030H) 
+(Pages 9 to 16 by Sherri Knox) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(Court resumed at 1058H)
+MR. NIMY: 
+Thank you, Mr. President. 
+BY MR. NIMY: 
+Q.	Witness, we are going to resume discussion of what happened at the Ruhengeri court of appeal on that 14th April. 
+
+Now, how did the Tutsis get to the appeal court, which means did they use to get there? 
+A.	Thank you, Counsel, but I should remind you we were not yet discussing the 14th of April, we are still discussing the 13th of April, which is the date on which the préfectoral security council took the decision to accommodate those displaced persons in the premises of the Ruhengeri appeal court.  It was, therefore, deemed necessary for the sous-préfet or sub-préfet to come and see those displaced persons at Busengo.  And so I went with him and the bourgmestre of Nyarutovu.  And since those two figures of authority had pickups, we felt that those two vehicles could carry the survivors, and -- but when we got there we realised that they were too many and the two pickup trucks were not enough and, therefore, we could not carry them in batches, for the displaced persons that would have remained behind would have been scared.  So we took the decision to go and requisition a bus and a vehicle of the CARBEN project, so that they can come and carry the displaced persons and take them to Ruhengeri. 
+
+And those displaced persons had to arrive at Ruhengeri -- in Ruhengeri at around 7:30 p.m.  And it was at the court of appeal that those displaced persons spent the night of 13th to the 14th of April, that is, at the Ruhengeri appeals court premises. 
+Q.	Thank you, Witness.  But, please, I would like to remind you, once again, to be as slow as possible and as clear as possible, so that the interpreters and the stenographers can do their job properly. 
+
+Please, speak slowly.  Do you understand me? 
+A.	Yes, Counsel. 
+MR. PRESIDENT:
+Yes.  Mr. Nimy, I wanted to thank you for that. 
+MR. NIMY:
+Thank you. 
+MR. PRESIDENT:
+The interpreters had, in fact, requested that I make a similar intervention and I would just like to thank you.   And I emphasise the importance of following the advice that Mr. Nimy has given you. 
+THE WITNESS:
+My pleasure, Mr. President. 
+BY MR. NIMY: 
+Q.	So, Witness, those refugees were taken to the court of appeal by the CARBEN and Red Cross vehicle, as you have just said; is that correct? 
+A.	Thank you, Counsel.  I explained that there were two buses, and that the person in charge of the CARBEN project also came with his Pajero vehicle, whilst the person in charge of the Red Cross had a big pickup truck.  And those are the four vehicles that were used to transport the displaced persons. 
+Q.	Very well, Witness.  How about you, yourself, where did you go?  Did you also go to Ruhengeri? 
+A.	Thank you, Counsel. 
+
+ I was telling you that when those refugees went from the Busengo sub-préfecture to Ruhengeri it was already late and the vehicles were escorted by gendarmes. 
+
+I had already talked to you about the difficulties that I had had earlier on because the assailants had blocked the roads.  So that evening I remained in Busengo because I did not want to move about in the night for fear of having problems. 
+Q.	Okay.  That is very good.  But did you learn about what happened at the Ruhengeri appeals court?  I mean, what happened to the refugees there? 
+A.	Yes, I learnt of it and it was rather very sad news. 
+
+When those displaced persons arrived some of the injured ones were taken to the hospital, and the other displaced persons had started being given assistance.  And it was only over the radio that I learnt the sad news, that is, the news of what had happened to them.  There is a communiqué that was read over the radio announcing that the displaced persons that had been accommodated at the Ruhengeri appeals court had been riddled with rockets by the ill-fate -- by the Inkotanyi. 
+Q.	Who put out that communiqué, Witness? 
+A.	I heard that information over Radio Rwanda. 
+
+I am not in a position to repeat the exact terms that were used when the news was being read, but it was said that -- information from Ruhengeri indicated that the displaced persons that had been accommodated at the Ruhengeri appeals court premises had been massacred.  It is therefore a journalist who was giving that information over Radio Rwanda.  But I am unable to tell you what were the sources of the journalist who was speaking over Radio Rwanda from Kigali. 
+Q.	Did you learn any other thing that might have taken place at the Ruhengeri court of appeal? 
+A.	Thank you, Counsel.  I haven't quite understood your question.  The news that was broadcast over the radio was not correct.  On the day following the date on which that information was broadcast I went to check out things myself, because things were rather suspicious.  And I realised that those displaced persons hadn't been killed by rockets or bombs, and that it weren't the Inkotanyi who had bombarded them as indicated by the information.  Rather, we realised that it were the thugs and hoodlums of Ruhengeri town that had attacked and massacred those displaced persons. 
+Q.	And did you learn exactly what happened to those hoodlums that had massacred the displaced persons? 
+A.	The news that I had heard had come before the effort that I had made to ask for assistance for the displaced persons.  And when I got to Ruhengeri and realised that it was the members of the local population that had perpetrated the massacre, I was really scared.  And I understood that I, myself, might have problems.  And so, I immediately returned to Busengo.  And I wasn't even thinking of coming back to Ruhengeri anymore. 
+
+But insofar as the information that was being peddled is concerned, we heard that some of the hoodlums that had perpetrated the massacres had been arrested and put in detention.  But the truth be told, I was shocked by that massacre and I am still in shock today.  And, personally, I told myself that nothing could be done to repair the damage that had been done.  And as from that date, I, myself, was scared, and I didn't take any risk, the risk of going to Ruhengeri. 
+Q.	Witness, did you learn that some of those assailants who had been arrested were later released; did you learn this? 
+A.	That's information that I got to learn subsequently as well.  But, personally, I didn't have any more interest in that, because the crime itself was a very serious one.  And, personally, I didn't want to have any interest in what had been done by the courts to prosecute the persons who had perpetrated the massacres. 
+Q.	Witness, did you learn whether Nzirorera played any role whatsoever in all that you have just said? 
+A.	No.  Rather, it is today that I am learning for the first time that there may be such a theory. 
+Q.	Did you have a telephone at the Busengo sub-préfecture? 
+A.	Yes, we had a phone. 
+Q.	And was it in working order the telephone in question? 
+A.	The telephone line of the office wasn't operating -- it wasn't working. 
+Q.	Did you learn that Nzirorera made a phone call to that sub-préfecture? 
+A.	And who could he have called at the sub-préfecture, Counsel? 
+
+Personally, I didn't receive a call from him, and nobody told me that he or they received a phone call from him. 
+Q.	Not even the person who was in charge of receiving phone calls; he didn't tell you anything about that? 
+A.	I would be hard put to explain to you how our office was configured.  But when the displaced persons came we settled them.  We set them up in the corridors that separated the various rows of offices. And from the time that the displaced persons arrived, the staff no longer used the offices, that is, the employees of the sub-préfecture. 
+
+I, myself, didn't have access to my office anymore.  And so when you told me that the receptionist -- the telephone receptionist -- might have received a phone call from Nzirorera, that comes to me as a surprise because we did not have any person who acted as a receptionist for phone calls as such. 
+
+By the way, we were understaffed.  Even the few civil servants that were posted at the 
+sub-préfecture office stopped coming to the office from the 7th -- and it was towards the end of the week -- and then the offices were closed.  There was therefore no civil servant that might have received Nzirorera's phone call. 
+Q.	Thank you, Counsel.
+
+Mr. President, I am done with the examination-in-chief of this witness.  And I thank you. 
+MR. PRESIDENT:
+Thank you, Mr. Nimy. 
+
+Any of the other Defence teams wish to examine this witness? 
+
+No. 
+
+Mr. Witness, you will now have to respond to the Prosecutor who will be cross-examining you. 
+
+Mr. Prosecutor. 
+MR. HOMETOWU:
+Mr. President, the examination-in-chief lasted 1 hour 16 minutes. 
+MR. PRESIDENT: 
+Thank you. 
+MR. SENDZE: 
+Good morning, Mr. President, honourable members of the bench, fellow colleagues on the Defence end, Mr. Witness, and every other person in the courtroom. 
+CROSS-EXAMINATION
+BY MR. SENDZE: 
+Q.	Mr. Nzanana, my name is Takeh Sendze, and I'm a Prosecutor representing the Office of the Prosecutor -- Prosecution.  Sorry.  And I'll be asking you a few questions in cross-examination. 
+
+I want to clarify a few facts for the record in relation to the times when you were in prison within Rwanda.  Am I correct to say that from April 1999 to May 2002, you were imprisoned in Kigali? 
+A.	What you say is correct. 
+Q.	And then you were transferred to the Ruhengeri prison? 
+A.	That is correct, Mr. Prosecutor. 
+Q.	And you stayed there for one year, approximately.  So you were transferred from the Ruhengeri prison sometime in February 2001; is that correct? 
+A.	Can you kindly repeat the date, Mr. Prosecutor? 
+Q.	Were you transferred from Ruhengeri prison sometime in February 2001? 
+A.	I told you that I can no longer remember the month, but I do know that in 2001, that is, either in February or in May, I was transferred to Gisenyi. 
+Q.	Okay.  Thank you.  Now, in relation to your time spent in the Ruhengeri prison, what you have been able to tell this Court during your testimony is that you were moved from the Ruhengeri prison to the Gisenyi prison alongside two of your fellow detainees.  And this was supposed to be a move calculated to enable the detainees in Ruhengeri prison to freely accuse people like you; is that correct? 
+A.	That is correct. 
+Q.	And the sole basis for this assertion from you is that this is what you thought had happened.  You do not have any concrete information supporting this assertion; is that correct? 
+A.	I don't agree with you, Mr. Prosecutor. 
+
+I do not know whether you know the Rwandan prisons, if you have been able to pay them a visit. These are prisons that are very narrow, and if we take the example of Ruhengeri, which this prison --  which should have accommodated 400 detainees, is holding 2,600 inmates.  And there are very few incidents that occur in prison that are not known outside the prison.  And, very often, the detainees themselves talk about what happens within the prison.  And even when some of the detainees are separated from the others, and that they are involved in any specific programme, when they return to the prison yard they discuss with their inmates and that is how information is disseminated. 
+Q.	So you testified that when you were transferred to the Ruhengeri -- from the Ruhengeri prison to the Gisenyi prison, you were afforded no explanation as to why you were transferred.  You only got to -- get wind of why you were transferred when you returned to the Ruhengeri prison and, like you say, heard other people talk about what had happened; is that correct? 
+A.	That is correct, Counsel for the Prosecution. 
+Q.	So you, yourself, never witnessed any incidents of persons being compelled or encouraged to give false testimony against others; correct? 
+A.	Mr. Prosecutor, there are times when it so happens that people don't tell the truth that they say -- that they ignore the truth that they see.  This is a problem that cannot be raised in the prisons where we live.  I understand that this International Tribunal cannot be compared to Rwandan prisons, but when a detainee decides to have recourse to the confession and guilty plea procedure, and if he doesn't implicate former dignitaries or figures of authority in their (sic) confessions, such confession might not be accepted.  And the confessions were not confidential. 
+
+And during meetings that were organised, the prison administration authorities told us that the genocide had been planned by the figures of authority in the country.  And it is the 
+prison administration members who added that they couldn't understand why the detainees were not speaking of the role played by former authorities so that they could be released.
+
+And so when these detainees made confessions, they absolutely had to make false testimonies against the former figures of authority.  And when a detainee gives information regarding a former figure of authority, and that such information is correct, the figure of authority concerned wouldn't be in a position to refute such information.  But when information that was given is not true, the said figure of authority is incapable or is not in a position to defend himself against such allegations, no matter how untrue they are. 
+(Pages 17 to 22 by Eleanor Bastian)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H 
+BY MR. SENDZE:
+Q.	So are you now telling this Court that you were personally involved?  Had you been contacted by anyone or asked by anyone within the prison cell to engage in this exercise of false accusations? 
+A.	Maybe you're asking this question deliberately.  That's what I think.  
+
+When people are asked to implicate former authorities in events that occurred -- and if you take into account the fact that I was an authority at the time, was I one of those -- I was one of those that false accusations were supposed to be made (sic).  They can, therefore, not contact me for me to participate in those activities.  
+
+There are some officers of the Tribunal who came to see me, request me to come here as a Prosecution witness.  I remember when I was in Gisenyi somebody came to contact me to testify against a detainee.  And then later on they came to ask me to testify against Nzirorera, and I said that I did not have any evidence, or I do not know anything to testify against these persons.  
+
+I cannot say that these persons forced me to testify against those persons.  But I think they thought that I will accept to testify against them. 
+Q.	So who is it who was forcing other people to come and testify falsely against the Accused? 
+A.	In any event, it was the department of public prosecutions that was organising this.  And then they'd agree on the charges that were to be brought against the former authorities. 
+Q.	But these prosecution authorities did not talk to you personally, did they? 
+A.	They didn't need to contact me, because I was one of those against whom accusations had to be fabricated. 
+Q.	So where or when did you ever hear any of these prosecution authorities say these things to any other detainee? 
+A.	Counsel, I don't know if we are understanding each other.  I've told you that, regarding the events that occurred in prison, I do not need to be an eyewitness to get to know.  Very often the persons involved in these kind of activities will boast about them on other occasions.  Illiterate detainees will use other detainees to draft documents for them.  
+
+I never said that I was an eyewitness of any such discussions.  But that does not mean that what I'm telling you is not the truth. 
+Q.	Okay.  So there was no public sensitisation programme within the Ruhengeri prison encouraging detainees to falsely accuse persons of authority within Rwanda during the genocide.  Are we agreed? 
+A.	Thank you, Counsel.  Rwandans can be very complicated.  Two of us can have a discussion here, and, even in your presence, you will not understand what it is we are saying.  
+I am not against the fact of urging detainees to tell the truth or to revert to the confession and guilty plea procedure.  But the problem lies in urging people to confess and falsely accuse other persons and specifically requesting them to include X or Y in their confession or have their confessional statement rejected.  As far as I am concerned, you don't need any other evidence to assert -- to assert that.  
+
+When suddenly someone you have lived with for a long time -- when you hear suddenly that that person is accusing you and at the same time you get information from other co-detainees that this person has told them that he is going to accuse you -- now, when you put all these together, you draw your conclusions.  
+
+I did not come here to tell you that I have been detained illegally.  I'm telling you what is happening.  You can take it into account.  I'm just recounting to you things the way they happened. 
+Q.	Thank you, Witness.  You testified in direct that you were moved from the Gisenyi prison -- sorry -- from the Ruhengeri prison to the Gisenyi prison alongside a guy named Basile and another guy named Bigirimana; is that correct? 
+A.	That is correct, Counsel. 
+Q.	For clarity of the record, could you please let the Court know what Basile's other name is? 
+A.	Nsabumugisha.  And that is spelt N-S-A-B-U-M-U-G-I-S-H-A.  Nsabumugisha, Basile.  
+
+Jean Sauveur.  And that is J-E-A-N, the other one, S-A-U-V-E-U-R.  
+Q.	Thank you.  Were there any other figures of authority within the prison -- within the Ruhengeri prison that you were aware of? 
+A.	I did not quite understand your question. 
+Q.	You were a figure of authority in Busengo.  And Basile and Bigirimana were also figures of authority; correct? 
+A.	That is correct. 
+Q.	Okay.  So what I want to find out if -- if -- is if there were any other such persons of authority within the Ruhengeri prison that you were aware of? 
+A.	Yes.  There were other former bourgmestres who had been detained in that place. 
+Q.	Do you recall any of their names? 
+A.	Well, I hope you will not hold it against me if I forget some of them.  There was the former bourgmestre of Ruhen -- Ruhengodo (sic).  His name is Nsabimana, Jean-Baptiste.  Nsabimana is N-S-A-B-I-M-A-N-A.  And Jean is J-E-A-N.  Baptiste, B-A-P-T-I-S-T-E.  
+
+And then there's Gatsimbanyi.  Gatsimbanyi, Dominic.  Gatsimbanyi is G-A-T-S-I-M-B-A-N-Y-I, Dominic.  I don't know if I need to spell Dominic.  
+
+The other one was called Maniragaba, Fabien.  Maniragaba is M-A-N-I-R-A-G-A-B-A, Fabien.  
+
+Another one was Hatangimana, François.  Hatangimana is H-A-T-A-N-G-I-M-A-N-A.  Hatangimana, François.  And others whose names I cannot recall for now. 
+Q.	Thank you, Witness.  You mentioned a name, Ruhengodo.  Is that correct?  Could you spell it for the -- for the record, please.  Ruhengodo.  
+A.	It was the Ruhondo commune, R-U-H-O-N-D-O.  Ruhondo. 
+Q.	Thank you.  Now, does the name Uwurukundo, Révérien make any sense to you? 
+A.	I'm sorry.  I had forgotten that name.  But he was also detained at that place. 
+Q.	Does the name Michel Bayunga (sic) make any sense to you? 
+A.	I did not get the name.  It's Michel what?  
+Q.	Bayunga.  
+A.	I can't recall who this is. 
+Q.	Thank you.  Let's conclude with your time in prison.  You are currently serving a jail term, and you have been convicted for genocide; is that correct? 
+A.	The procedure is not yet concluded.  It is true that I have been convicted at one point in time.  But that is not definitive.  It's not definitive until I've exhausted all the appeal procedures.  At the secteur level you can appeal the decision.  And if I recall correctly, you could even request for a review of the judgement.  So there are other stages in relation to the procedure. 
+Q.	Okay.  Mr. Nzanana, we are now going to be discussing the attacks on the Tutsi refugees at the court of appeal in Ruhengeri.  Understanding your evidence in chief, I believe the only time you set foot at the court of appeal -- on the court of appeal premises was on the 14th of April 1994? 
+A.	No.  It was on the 13th. 
+
+Let me tell you one thing.  The court of appeal premises is located next to the prefect -- the Ruhengeri préfecture office.  I was at the préfecture office on the 13th. 
+Q.	It is on the 13th at about 7:30 p.m. that the Tutsis from Busengo were moved to the 
+	Ruhengeri court of appeal; is that correct? 
+A.	It was around that time.  I think it was around that time that they got into the premises of the court of appeal. 
+Q.	So after they had been attacked, the following day on the 14th of April 1994, did you visit the premises of the court of appeal? 
+A.	After what moment were you referring to?  I did not quite -- quite get it.  I did not quite understand the question.  After what?  After what -- which incident?  
+Q.	When the Tutsis who were refuged (sic) at the court of appeal in Ruhengeri were attacked on the 14th of April 1994, you were not present at the court of appeal during attacks; correct? 
+A.	No.  I was not there. 
+Q.	When was the first time you set foot on -- at the court of appeal premises after these attacks had taken place? 
+A.	I got there following an announcement to the effect that refugees had been killed. 
+Q.	And when you arrived at the court of appeal, how long did you spend -- how much time did you spend within the court of appeal premises before returning to Busengo? 
+A.	First of all, I would like -- I'd like to apologise for a detail that I overlooked.  To err is human.  
+
+The day after the arrival -- or, let me say the evening of the arrival, it was said that there was one wounded person who had been left in my office and who was hiding in the -- in the shelf -- book shelf in my office, and I was told that there was a wounded person who had been left behind.  I was called that evening.  And I told the person to come the following morning, because I did not have a vehicle that would take the wounded person -- that would take the wounded person to Ruhengeri. 
+Q.	Witness, I'm sorry to interrupt.  But it would be preferable if you would answer the question.  Maybe at the end of the cross-examination, we would find time to add some more details to your examination-in-chief.  
+
+What I'm simply trying to understand is how much time you spent at the Ruhengeri court of appeal when you went there on the 14th of April 1994 to verify what had happened to the Tutsis.  
+A.	Honestly, I did not stay in town for a long time.  This information got to me, and I went out of town.  And when I got to the préfecture office, I heard that these Tutsis had been killed.  And then I went back home.  
+
+I had already -- I have already explained to counsel for the Defence that, after I heard this information, I was afraid for my own life.  So I did not stay there for a long time. 
+Q.	You would agree with me, Mr. Nzanana, that you did not see those who had been arrested after the attacks on the Tutsi; correct? 
+A.	I did not see them. 
+Q.	You would also agree that you do not know the circumstances under which they were released from prison; correct? 
+A.	I do not know the circumstances under which they were released.  But I heard about the -- the event. 
+Q.	It, therefore, follows that you cannot say with any degree of certainty that Mr. Nzirorera had nothing to do with the release of those who had been imprisoned; correct? 
+A.	I don't know if you understood me clearly.  I said I was not in a position to know the circumstances of their released -- of their release.  I never said that I knew the circumstances under which they were released.  That's what I've always said. 
+Q.	Thank you.  Now, we are going to leave the court of appeal.  
+
+And I'm going to try to ascertain from you, Mr. Nzanana, that, between the 7th of April and the 14th of April 1994, you made several phone calls to various persons on different days; correct?  
+A.	Counsel, I did not say that. 
+Q.	Did you not try to call the OPS commander on the 12th of April? 
+A.	What I said was that during that period -- well, you said I tried to call several persons.  I told you that I tried to contact the préfecture authorities.  That is what I did.  I tried to contact the préfecture authorities, and that is how come I -- I phoned the camp.  
+Q.	Yes.  Mr. Nzanana, that's what I'm -- that's what I'm trying to say, that, between the 7th of April 1994 and the 14th of April 1994, you tried, on several occasions, to try -- to contact a good number of local administrators so that they could assist you to deal with the problem in Busengo; correct? 
+A.	That is correct. 
+Q.	What telephone did you use to try to reach these people? 
+A.	I used the telephone in my house. 
+Q.	But you testified in direct -- I cannot recall the exact date of April 1994 -- that you tried to call your house.  Am I to assume that you used the telephone in your house to try to call your house? 
+A.	Thank you, Counsel.  But if you go back to that portion of my testimony, I was rather in the Cyabingo préfecture (sic) office, and it's from the office of that commune that I was attempting to call my house. 
+Q.	Okay.  So we agree at least that the phone lines were up and running between April -- 7th of April to 14th of April 1994; correct? 
+A.	Yes; regarding the line in my house. 
+Q.	Mr. Dismas Nzanana, on behalf of the Prosecution, we thank you for coming to testify.  Your evidence has been helpful to the Court.  And we wish you a safe journey back to where you are coming from.  
+MR. SENDZE:
+Mr. President, I have no further questions for the witness. 
+MR. PRESIDENT: 
+Thank you, Mr. Prosecutor. 
+
+Mr. Robinson, any redirect?
+THE WITNESS:
+(No interpretation) 
+MR. PRESIDENT: 
+Sorry.  I do apologise, Mr. Nimy.  Mr. Nimy, any redirect?  
+MR. NIMY: 
+It is the same thing, Mr. President, but no redirect.
+(Pages 23 to 27 by Tanya West)
+ 
+
+1200H 
+MR. NIMY (continued):
+But may I request that, before the witness leaves, he be allowed to see Mr. Nzirorera, Mr. President. 
+MR. PRESIDENT:
+Okay.  Mr. Witness, your testimony has been concluded.  And we thank you, as we do all witnesses, for assisting the Tribunal in its work.  But you're now free to return.  Arrangements will be made by the registry to allow you to see Mr. Nzirorera before your departure.  
+THE WITNESS:
+I thank you, Mr. President and Your Honours.  Thank you. 
+	(Witness excused)
+MR. ROBINSON:
+Mr. President, I know you're going to be disappointed in me, but, unfortunately, I don't have a 
+back-up witness at this point.  I took the chance of bringing another witness here today for the purpose of proofing him, since I was a little behind in my witness proofing.  And so the witness, who is here, is not really in a position to testify yet.  He's actually going to be coming back next session to give his testimony.  So the next witness is still at the UNDF, and I'm not in a position to have him brought within the next 30 minutes, and I apologise for that.  But you'll be happy to know we are running a little bit ahead of schedule. 
+MR. PRESIDENT:
+Ahead of whose schedule, Mr. Robinson?  
+MR. ROBINSON:
+My schedule.  
+MR. PRESIDENT:
+I don't know if the registrar has already indicated to you that we'll not be sitting next week on Thursday.  
+MR. ROBINSON:
+Yes, Mr. President.  We have two more witnesses from Ruhengeri prison, each of whom are expected to take approximately two days.  So we should be able to complete those two witnesses before Wednesday.  
+MR. PRESIDENT:
+Thank you.  
+MR. WEBSTER:
+Your Honour, we can still use some of this time productively.  The Chamber issued a decision on the 11th of November 2009 to admit certain documents that the Prosecution had used in its cross-examination of Édouard Karemera.  And I've been in conversation with Mr. Issa, and he has the copies that we've provided of all those documents now, so he could actually just give them numbers and the Chamber could place them on the record, and we could, at least, use five or six minutes to productive ends. 
+There is one other matter I wanted to address in relation to that motion in the Chamber's decision.  
+The Chamber did not admit the draft letter of Préfet Kayishema, which was part of our application, and that document is not identified for the record.  So I've provided a copy to Mr. Issa, and I would request that the Court give it an IP number so that we can keep track of it.  That wasn't suggested the last time that I addressed this issue.  So if the Court would agree with that and then Mr. Issa can give us the numbers for the other five exhibits that actually were admitted.  
+MR. PRESIDENT:
+We agree it can be given an IP number.  
+
+Mr. Issa, could you assist.  
+MR. MJUI:
+Thank you, Your Honour.  The document will be IP. 48.  Thank you. 
+(Exhibit No. IP. 48, marked for identification) 
+MR. PRESIDENT:
+Thank you.  Mr. Issa, are you in a position to give numbers to the exhibits that we ordered should be admitted?  
+MR. MJUI:
+Yes, Your Honour.  I'm in a position to do so.  
+MR. PRESIDENT:
+Okay.  Please.  
+MR. MJUI:
+Document number 1 will be P. 392, which is Karemera's letter to General Augustin Ndindiliyimana dated 24th June 1994.  
+MR. WEBSTER:
+(Inaudible)...to interrupt, but before Mr. Issa goes on, I have to correct the date of the letter.  It was an error in the motion, but it's clear from the ERN numbers on the document and the exhibit number that it bears in the Ndindiliyimana case that we're talking about the letter of the 26th of April 1994.  So I apologise for the mistake in our motion, but clearly the document is the one that we refer to -- the document that I've actually given to Mr. Issa.  If the Defence wants to see it, he can certainly bring it over to them, and they'll see that it's the same thing that we used in our cross-examination.  
+MS. DIAGNE-MBAYE:  
+If I may, Mr. President.  The Defence for Mr. Karemera would, indeed, like to see the document so that there's no confusion subsequently.  It is not prudent on my part to have documents admitted without having actually agreed that it is, indeed, the letter by Mr. Karemera to Mr. Ndindiliyimana on the 
+26th of April.  
+
+We know of no letter of the 24th of April, so it's probably a typographical error.  But I think it would be better for us to ascertain this, Mr. President, before the said documents are admitted. 
+MR. PRESIDENT:
+Yes.  Mr. Issa, can you show counsel, please.  
+
+Ms. Diagne, it's -- Ms. Diagne, is it okay?  Is it in order? 
+MS. DIAGNE-MBAYE:
+Yes, Mr. President, and thank you.  
+(Exhibit No. P. 392 admitted)
+MR. MJUI:
+The next document is the report of the International Commission of Investigation on Human Rights Violations in Rwanda since 1st October 1990, which will be P. 394 (sic).
+(Exhibit No. P. 393 admitted) 
+MR. MJUI:
+The third document will be (French spoken)...which will be P. 396 (sic).  
+(Exhibit No. P. 394 admitted)
+MR. MJUI:
+The next document is -- 
+MR. WEBSTER:
+I'm sorry, but we're skipping numbers.  We missed 393, and we jumped from 394 to 396.
+MR. MJUI:
+Sorry.  It will be 395 (sic).  
+
+The next document will be --
+MR. WEBSTER:
+And then there's 393 that we jumped over.  So maybe you could give the next document 393.  
+MR. MJUI:
+So that means that the first document, Karemera's letter to General Augustin Ndindiliyimana, dated 26th June 1994 will be -- 
+MR. WEBSTER:
+I just corrected that date; it's the 26th of April 1994. 
+MR. MJUI:
+Yes.  The 26th -- the 26th of April, it will be P. 392.
+
+The second document, the report of the International Commission of Investigation of Human Rights Violations in Rwanda since October 1st 1990, will be P. 393.  Ninety-four will be document number 3, which is the declaration, which I have read in French.  
+
+Document number 4 will be P. 395, which is US State Department document number 1, an outgoing telegram dated 29 April 1994.  
+(Exhibit No. P. 395 admitted)
+MR. MJUI:  
+And document number 5 will be P. 396, which is declassified US State Department 
+document number 2, fax dated 2 June 1994.  
+(Exhibit No. P. 396 admitted)
+MR. MJUI:
+And the sixth document, which will be P. 397, is the FIDH letter dated 18 January 1993.  
+(Exhibit No. P. 397 admitted)
+MR. MJUI:
+Thank you, Your Honour.  
+MR. PRESIDENT:
+Thank you -- thank you, Mr. Issa.  
+
+Is there any -- 
+
+Mr. Robinson?  
+MR. ROBINSON:
+Yes, Mr. President.  Actually, I had intended to raise one matter tomorrow morning, and I notified the Trial Chamber coordinator.  I don't know if it's reached you, but there's two applications for admission of documents pursuant to Rule 92 bis that I would suggest could just simply be handled by the Chamber ordering the registrar to give them an exhibit number.  
+
+The first one involves testimony in another trial by an individual who is on our list, (By order of the Court, this portion of the transcript has been extracted and kept under separate cover).  And the Court has already granted our application that his testimony be admitted under Rule 92 bis and left to me the option of whether to offer that testimony or to call him as a live witness, indicating that it wasn't prepared to make any concessions; that the weight of his testimony would be the same as if he had testified live.  
+
+And so I opted to have his testimony admitted.  And I indicated that in a pleading on the 20th of October, which hasn't been objected to by the Prosecutor nor has it been dealt with by the Chamber.  So I would ask simply that you order that that testimony be admitted, and that can take 
+of that written filing that I had made.  
+
+Also last week I made a motion to admit the written statement of a witness who died, 
+Ildephonse Ndatije.  And yesterday the Prosecutor filed a response indicating they had no objection to that.  So if it is okay with the Chamber, it might be easy also if you could simply order that statement be admitted under Rule 92 bis and given an exhibit number, and that would save some paperwork from the Chamber, if you're so inclined to do that.  
+MR. PRESIDENT:
+Yes, Mr. Robinson, we have, in fact, started considering it.  And we think we'll probably be in a position to deal with it tomorrow morning. 
+MR. ROBINSON:
+Thank you very much, Mr. President.  
+MR. PRESIDENT:
+Is there any other business?  
+MR. WEBSTER:
+Since we have the time, I was going to address the Chamber tomorrow morning on the ID. NZ28 document that Mr. Robinson raised earlier today, and I did have a conversation with him over the break, and my suggestion to him is that we simply wait until Juvénal Kajelijeli testifies -- or one of the other two witnesses that we'll hear before the end of this session.  And that document will probably go in, in cross-examination, with one of those three witnesses.  So it shouldn't be a controversial matter.  My preference is simply that we admit that particular exhibit when we have testimony on it, and I think Mr. Robinson has agreed.  So that will dispense of the matter we were going to address tomorrow morning. 
+MR. ROBINSON:
+Yes, Mr. President, that's correct.  And if I could also take this opportunity to ask you to give us the date of the commencement of the next session, that would be helpful for our planning. 
+MR. PRESIDENT:
+Okay.  We are, in fact, actually considering that quite actively.  The date we would prefer to start is the Monday the 11th of January.  So that's what we're thinking of.  Yeah.  And we're thinking of a session -- we're thinking of discussing the -- having a session which would run to approximately the 18th of March, with a one-week break at -- towards the end of February.  We'll probably try to get that clarified and finalised by -- during the course of this week.  
+MR. ROBINSON:
+Okay.  Thank you, Mr. President.  We received a draft calendar from the Chamber, and we'll prepare for that.
+MR. PRESIDENT:
+Yeah.
+MR. ROBINSON:
+So that would be fine with us.  But I would ask you to really allow us to start on the 18th of January because it's going to be difficult.  We have to proof our witnesses first so -- which means we would have to arrive here almost right after the new year to begin doing that a week before the session starts.  And then the first week, when Mr. Webster wouldn't be here -- and I don't want to deprive the Prosecutor of its best weapon for the cross-examination.  So I think -- 
+MR. PRESIDENT:
+Ahem, ahem.  
+MR. ROBINSON:
+I think it would be better for all of us if we started the session on the 18th in good order.  Thank you. 
+MR. PRESIDENT:
+Mr. Webster.
+MS. HOUNKPATIN:
+Mr. President?  
+MR. WEBSTER:
+I -- I -- I'm assuming that's a compliment, so I thank Mr. Robinson.  But I did indicate in a message to the Trial Chamber coordinator that I'd request respectfully that we start on the 18th.  It would make things much easier for us in terms of planning.  And I did hear back from the Ngirumpatse team, who also endorsed that position.  The only one -- member of the party that hasn't responded to my enquiry was the Karemera team, but they're here now, so I'm sure they can be vocal on the issue.  And I think we'd all be better organised to move forward if we started on the 18th, so I certainly endorse Mr. Robinson's suggestion, Your Honour.  
+MS. HOUNKPATIN:
+Mr. President, I think there's probably a translation problem.  I believe I told my learned friend, Mr. Webster, that the date of the 18th of December -- of January will also be convenient for me because of our calendar in Paris, which is such that on the 18th --  it will be more convenient for us to be here on that date instead of the 11th of January.  And from the email that he sent to the coordinator of the Trial Chamber, I think he did admit there that I had concurred with him insofar as that date is concerned.  
+
+I think at the time it is the Karemera team that has been unable to offer its opinion.  But in any case here I'm confirming what I told him, and I think it would be more practical for us for the trial to resume on the 18th of January, Mr. President.  
+MR. PRESIDENT:
+Yes, Ms. Diagne, I notice you want to address us.  We have one question though, if we -- we're concerned to some extent about what would be a fair period to sit continuously.  Now, if we started 
+one week later, would counsel agree that the session could last continuously until the middle of March without the break that we had planned in February?  Because that was really the purpose of having that break in February.  
+
+MR. ROBINSON:
+Yes.  We have no problem with that.  
+MR. PRESIDENT:
+Yes, Ms. Diagne, you're -- I was trying to attract your -- 
+MS. HOUNKPATIN:
+Mr. President, I apologise for taking the floor once again before Ms. Diagne.  When you say "continuously", what do you mean by that?  Are you talking about full days or half days? 
+MR. PRESIDENT:
+No.  At the moment, we're only sitting half days.  If Mr. Ngirumpatse's health improves and we are advised by the medical practitioner that he can stay for full days, then we would reconsider our scheduling.  But as at the moment, we are planning on the basis that we're sitting half days, four days a week.  
+MS. HOUNKPATIN:
+Thank you for the clarification, Mr. President. 
+MS. DIAGNE-MBAYE:
+Mr. President, as far as we're concerned, we merely would like to say that we would like that we resume on the 18th of January.  As a matter of fact, we didn't deem it necessary to give an answer when the issue was raised because we received a scheduling order of the Trial Chamber that had indicated that the Trial Chamber's preference would be the 18th of January.  And, in general, it is difficult to have the Bench change its opinion, and that is why, in our minds, we had the date of the 18th of January as the date on which we'll be resuming.  
+
+So I'm sorry if I'm showing some surprise that you wanted to bring the date of resumption forward by a week -- that is, to the 11th of January.  Whereas, in our minds, we already knew that we were going to resume on the 18th of January.  Thank you.  
+MR. PRESIDENT:
+Well, I don't think that we have made a scheduling order yet.  What we've been doing -- and we've been consulting with the parties in preparation to make our decision.  We think we'll probably be in a position to do that tomorrow morning though, and we'll let you know unequivocally what our proposed scheduling for the next session will be.  
+
+Is there any other business? 
+
+Okay.  Then we can take our adjournment now until tomorrow morning.  
+(Court adjourned at 1222H) 
+(Pages 28 to 34 by Jean Baigent)
+
+
+
+
+C E R T I F I C A T E
+
+We, Rebecca McCoy, Sherri Knox, Eleanor Bastian, Tanya West and Jean Baigent, 
+Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Rebecca McCoy
+
+
+___________________________	Sherri Knox
+
+
+____________________________	Eleanor Bastian
+
+
+____________________________	Tanya West
+
+
+	_____________________________	Jean Baigent
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 18 NOVEMBER 2009
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	WEDNESDAY, 18 NOVEMBER 2009
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page 8
+
+	KAREMERA ET AL	WEDNESDAY, 18 NOVEMBER 2009
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 16
+
+	KAREMERA ET AL			WEDNESDAY, 18 NOVEMBER 2009
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 22
+
+	KAREMERA ET AL	WEDNESDAY, 18 NOVEMBER 2009
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 27
+
+	KAREMERA ET AL	WEDNESDAY, 18 NOVEMBER 2009
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 34
+
+	KAREMERA ET AL		WEDNESDAY, 18 NOVEMBER 2009
+
+ICTR - TRIAL CHAMBER III
+

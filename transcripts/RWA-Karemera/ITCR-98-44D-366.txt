@@ -1,0 +1,847 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+WEDNESDAY, 28 OCTOBER 2009
+0845H
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dou
+	Mr. Arif Virani
+	Mr. Takeh Sendze
+	Ms. Sunkarie Ballah-Conteh
+	Mr. Eric Husketh
+
+For the Accused Édouard Karemera:
+	Mr. Moussa Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Lisa D. Smith
+	Ms. Judith Kapatamoyo
+	Ms. Rebecca McCoy
+	Ms. Claudette Ask
+
+
+I N D E X
+
+WITNESS
+
+For the Defence:
+WITNESS 6
+Cross-examination by Mr. Don Webster	3
+
+
+
+
+EXHIBITS AND EXTRACTS
+Exhibit No. P. 363	8
+Exhibit No. P. 364	12
+Exhibit No. P. 365	14
+Exhibit No. P. 366	18
+Exhibit Nos. P. 367A and P. 367B	45
+Extracts	7, 8, 9, 10, 13, 14, 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. HOMETOWU: 
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session, today, 28th of October 2009, for the continuation of the trial in the matter of the Prosecutor vs. Karemera et al, case number ICTR-98-44-T.  
+
+Thank you.  
+MR. PRESIDENT: 
+Thank you, Mr. Registrar.  
+
+The appearances are the same.  
+
+Before we start with -- on the resumption of the testimony of this witness, we would like to deliver the oral decision.  And this is the decision on Joseph Nzirorera's sixth notice of Rule 66 violation, and 
+17th notice of Rule 60 violation, Witness 6.  
+
+On 27th October 2009, Joseph Nzirorera made an oral application for a finding that the Prosecution violated Rule 66(B) of the Rules of Procedure and Evidence by failing to disclose or allowing inspection of documents IP. 41 through IP. 44, and violated Rule 68 by failing to disclose document IP. 45.  
+
+Nzirorera's oral motion was preceded by a written notice, which he filed on the same day.  The Prosecution opposed the motion in its entirety, both oral and in writing, also on the 
+27th of October 2009.  
+
+The Chamber recalls that it is well-established that Rule 66(B) disclosure obligations must be triggered by a specific Defence request for materials that are within the custody or control of the Prosecution.  In Niyoyita judgment, the Appeals Chamber held that something which is not in the possession of, or accessible to, the Prosecution cannot be subject to disclosure, because no one is bound to an impossibility.  
+
+Further, the Chamber already stated in its 30 March 2009 decision, concerning 
+Prosecution Witness ALG that a document which is not in the custody or control of the Prosecution when a Rule 66(B) request is made cannot be subject to inspection.  Moreover, the Chamber also stated in that decision that the Prosecution does not have an ongoing obligation under Rule 66(B) to disclose all information that comes into its custody or control regarding a particular witness simply because a request was made at a particular moment in the past.  
+
+Therefore, even if the Chamber were to find that the four Rule 66(B) requests Joseph Nzirorera points to in his motion are not impermissibly broad, it notes that they were made over seven years ago, and that the Prosecution stated in its response that it only came into possession of the documents at issue in March of this year.  Thus, it is clear that the documents at issue were not in the custody or control of the Prosecution when Nzirorera made his Rule 66(B) request.  
+
+Accordingly, and noting that the Appeals Chamber has clearly stated in a 25th September 2006 decision in Bagosora et al that Rule 66(B) does not create a broad, affirmative obligation on the Prosecution to disclose any and all documents that may be relevant to its cross-examination of 
+Defence witnesses, the Chamber does not find that the Prosecution has violated its disclosure obligations under Rule 66(B) regarding documents IP. 41 through IP. 44.  
+
+Regarding Joseph Nzirorera's claim that the Prosecution has violated its disclosure obligations under Rule 68, the Chamber notes that Nzirorera argues that document IP. 45 is exculpatory because it contains information that Bagogwe Tutsi were moved to ISAE to be sheltered in February 1993 at the request of Juvénal Kajelijeli.  According to Nzirorera, this information allegedly contradicts the testimony of Witness BTH and GBU, that Kajelijeli was part of a joint criminal enterprise to exterminate the Tutsis and had ordered Tutsis to be hunted.  
+
+The Chamber has reviewed the excerpts of the testimony of Witness BTH and GBU, which were attached to Nzirorera's written notice of this motion, and concludes as follows:  
+
+Witness BTH excerpt contains absolutely no claim that Kajelijeli was involved in the transfer of Bagogwe Tutsi to ISAE in February 1993.  Moreover, Witness GBU's excerpt does not even mention Kajelijeli by name.  Thus, the Chamber does not consider that the Prosecution has violated its disclosure obligations under Rule 68 regarding IP. 45 -- IP. Four-five.  Accordingly, Joseph Nzirorera's motion is denied.  
+
+Now, before we move on, the Chamber would like to comment on a matter of increasing concern.  
+
+Yesterday the Defence of Nzirorera presented an oral motion to the Court, which, unfortunately, was not limited to substantive legal arguments.  During its presentation, the Defence for Nzirorera chose to make a series of disparaging comments that displayed open contempt for these proceedings, where in no uncertain terms the lead Prosecutor was accused of misconduct and the Judges of the Bench were accused of bias.  
+
+The Chamber would like to consider this an isolated incident, but, unfortunately, it has noticed that Nzirorera's written submissions have also begun to contain increasingly belligerent and insulting rhetoric directed at this Bench.  
+
+The Chamber would like to inform the Defence of Nzirorera that it will no longer tolerate disrespectful or unprofessional outbursts such as these, which undermine the proceedings and foster an unnecessarily combative atmosphere.  
+
+Now we can proceed to our day's business. 
+
+Good morning, Mr. Witness.  
+THE WITNESS: 
+Good morning, Mr. President.  
+MR. PRESIDENT: 
+Your testimony will continue this morning.  I remind you that you remain under the same oath to tell the truth that you took when your evidence began.  Mr. Webster will continue his examination.  
+THE WITNESS: 
+Very well, Mr. President.  
+MR. WEBSTER: 
+I begin by saying good morning to the Bench, to the parties, the registry, and to you, Mr. Witness.  Good morning.  
+THE WITNESS: 
+Good morning, Mr. Prosecutor.
+WITNESS 6
+CROSS-EXAMINATION (continued) 
+BY MR. WEBSTER:
+Q.	I'd like to go back to a statement that you initially discussed with Mr. Nimy.  It's your statement of the 23rd of September 2002.  In direct exam, when you were -- Mr. Nimy was asking you questions, you told this Court that you were coerced and pressured to mention Joseph Nzirorera and 
+	Juvénal Kajelijeli in that statement.  But, nonetheless, those were your statements.  Isn't that so?  
+A.	I thank you, Mr. President.  As I have already explained, and as the Prosecutor has reiterated, that was my statement.  And, as I have already explained to the Trial Chamber, I had to include information that was suggested to me, or that I was compelled to include in the statement.  
+Q.	Well, I'd like to go -- I'd like to go through that statement with you methodically.  
+MR. WEBSTER:
+And for the parties and the Chamber, it can be found at tab F in my bundle.  It's the first statement in tab F.
+BY MR. WEBSTER:
+Q.	And, Mr. Witness, I do not have a copy of the statement in Kinyarwanda, so I'm just going to read the English text.  I can -- if you'd like to follow it with me, we can ask the registry to place it in front of you, but I don't think it serves much purpose.  I'm just going to read it.  If I misread or mischaracterise, 
+	I'm sure Mr. Nimy or Mr. Robinson will alert all of us. 
+
+So in the second paragraph you say as follows:  "I'm a native of ********** secteur In ************ -- in ********************.  Sometime in November 1993 I was recruited and trained as an Interahamwe by retired adjutant ***********, at the commune office.  We were trained in batches, and our group had almost 150 trainees."  
+
+Is that statement true?  
+A.	Thank you, Mr. President.  
+
+As I have always repeated in respect of statements that I gave from the year 2000, that information is not correct, because they are statements that were fabricated.  They are fabricated testimonies, the sole purpose of which was to implicate Nzirorera in the crimes that were committed during that period.  
+Q.	Mr. Witness, I want you to listen very carefully to my question.  For the next series of questions, I would prefer if you simply respond yes or no.  I'm going to read a portion of your statement to you, and you just tell me if it's true or not; okay?  You will be able to explain how the statement was coerced or why it was coerced afterwards.  But I just want to establish, for your benefit, the content of which is recorded in your statement of the 23rd of September 2002.  
+
+So let me ask you again:  Your statement that you're a native of *****************, and that sometime in November 1993 you were recruited and trained as an Interahamwe by ********** at the commune office, is that true or false?  
+A.	Thank you, Mr. President.  
+
+I would like to apologise to the Prosecutor, who is asking me to answer by yes or no.  But, since I'm not his witness, I think he should let me give the necessary explanations.  And if there is need, he can put further questions to me so that I clarify things.  
+So, in answer to his question, I will tell him that, although I am the author of the statement, I would like to repeat once again that the information that I included in that statement was information that was suggested to me by the public prosecution department.  
+Q.	Your statement continues:  "The training was sponsored by Joseph Nzirorera, who was, by then, minister for public works.  He would come himself to give us uniforms, Ibitenge (phonetic), and also cash to be distributed amongst the trainees.  These were handed over to me."  
+
+That's what you told the investigators in September of 2002; am I right?  
+A.	Thank you, Mr. President.  
+
+That is what my statement contains.  But, once again, it is a statement that was fabricated beforehand for the sole purpose of including evidence against Nzirorera.  
+Q.	Yes, Mr. Witness.  But my point to you is that you're the person that provided this information to the investigator.  Can we agree on that? 
+A.	Thank you, Mr. President.  
+
+I have already shed light on that point.  If I said that to the investigators of the Tribunal, this means that it was done under duress.  I have said that I have got -- that even though I said that to the investigators, this is because I had been coerced into saying that earlier on, and so I had to be consistent in repeating the same thing.  
+Q.	Thank you.  Your statement goes on and you say:  "During the training we learned how to operate rifles, how to organise patrols, and also how to set up roadblocks.  We were told to be ready to kill any Inyenzi who would try to escape to our area."
+
+Is that statement true?  
+A.	Thank you, Mr. President.  
+
+My answer will be the same as the one that I gave for the previous question.  I don't have anything new to add to my answer.  
+Q.	You also state in the following paragraph that:  "Minister Nzirorera used to organise weekly meetings on Saturdays in his house before the death of President Habyarimana.  I did not attend these meetings, but I was briefed on the outcome by Juvénal Kajelijeli in order to implement the decisions which were arrived at during the meeting.  Among those who used to attend these meetings, I recall Colonel Bizimungu, Nyabusore, Baheza, Niyoyita."  And there are some other names.  
+
+You also said that to the investigators; right?  
+A.	Thank you, Mr. President.  My answer remains the same.  I have said that this statement is a statement that had been dictated to us by the public prosecution department for the sole purpose of putting together information and evidence to be used against Nzirorera before the Tribunal.  
+Q.	And then you go on to state, Mr. Witness, at the bottom of page 3 in the English text that:  "I remember after one such meeting in October of 1993 we were ordered to arrest all Tutsi in our area and detain them at ISAE.  They were guarded by gendarmes.  These Tutsi were set free, but they did not survive the genocide of 1994."
+
+You also told that to the investigators; did you not?  
+A.	Thank you, Mr. President.  
+
+My answer remains unchanged.  And it will be the one that I have always given to the Prosecutor in answer to the previous questions.  
+Q.	And then on the following page, you go on to talk about the events of the 7th of April.  And you say that at around 8:30 a.m. on April 7th, Lieutenant Mburuburengero of Mukamira camp found you at the Busogo centre and told you -- actually, you're referring to "us", referring to your group, "to kill all Tutsi in our commune on that very day.  A few moments later the younger brother of Nzirorera, called Dusabimana, came to tell us that he had received a telephone call from Nzirorera, telling everybody in the commune to avenge the death of Habyarimana.  I was in the company of around 40 Interahamwe and we had six AK-47 rifles, which were given to us after the training." 
+
+You said all those things to the investigator; not so?  
+A.	Thank you, Mr. President.  
+
+My answer remains unchanged.  This statement was dictated to me by the public prosecution department, because it needed evidence to be used against Nzirorera so that his conviction can have justification.  
+Q.	And I'm not going to read all of the statement to you, Mr. Witness, but you go on to say -- to describe the attacks.  And during those attacks, you state that:  "We used petrol provided by the soldiers and forced them to attempt to flee", referring to the Tutsi that you attacked.  
+
+"We took advantage to kill them.  I will also state that some girls were raped by the youth before the attack.  I recall the name of one girl called Joyce, who was raped by one Mbonankira, nickname Corporal, and Nteziyaremye, who was also known as Rugumire.  Both Mbonankira and Rugumire are detained in Ruhengeri prison.  About 60 to 70 Tutsi were killed during this attack, which lasted about five hours."  
+
+You also said that to the investigators; right?  
+A.	Thank you, Mr. President. 
+
+The contents of this paragraph are correct and true.  As we were asked to do, we tried to implicate ourselves in the events that occurred.  And with respect to the crime of rape, the two persons mentioned were recently tried and convicted for the crime of rape.  So this proves that what is said in this paragraph is true and reflects the reality.  
+Q.	Well, thank you for that information.  
+
+And then at the bottom of page 4, in the English text, you state that:  "The following day" -- here, I'm assuming you're referring to the 8th of April, "ex-bourgmestre, Kajelijeli, found us at the ********** commercial centre and ordered all businessmen to contribute money for our group to show his appreciation for the attack at the parish."  
+
+Is that true?  
+A.	Thank you, Mr. President.  
+
+This is another example of the kind of things that the prosecution department asked us to do by implicating former officials in the crimes that were committed in Mukingo commune.  
+Q.	And the last thing I want to address in this statement is the very last page, which bears your signature, Mr. Witness.  
+MR. WEBSTER: 
+And if I could ask Mr. Issa to hand the statement, the English statement, to the witness -- that's the one that he signed -- and turn it to the last page and place it in front of him.  
+BY MR. WEBSTER:
+Q.	And, Mr. Witness, on that last page, which bears the title, "Witness acknowledgment", there is a portion in Kinyarwanda.  And under it is your name and signature.  Can you just read to us the Kinyarwanda text.  
+A.	Thank you, Mr. President.  I am going to read it.  
+
+"I am duly qualified and (By order of the Court, these words were extracted and kept under separate cover).  The statement was read to me in Kinyarwanda.  It is correct and reflects the reality.  And I gave the statement of my own volition, of my own free will, without any coercion.  I know that this statement can be used in judicial proceedings before the International Criminal Tribunal for Rwanda, and that I can be called to appear in a public -- in open court in a Trial Chamber of this Tribunal.  I am also aware that all testimonies that are lies may entail my being -- entail proceedings being situated against me by the same Tribunal."  
+Q.	And that is your signature and the date, 23rd September 2002, right underneath that paragraph; 
+	is it not, Mr. Witness?  
+A.	Yes, that, indeed, is my signature, Mr. Prosecutor.  
+Q.	And the date is correct; right?  
+A.	Yes.  
+Q.	And we agree that you had an opportunity to read that little paragraph before you signed your name? 
+A.	Yes.  
+Q.	(By order of the Court, these words were extracted and kept under separate cover), you appeared before another Trial Chamber and gave evidence; not so?  
+A.	That is correct.  
+Q.	But before giving evidence, you authored an affidavit suggesting that someone had fabricated this statement; isn't that true?  Didn't you accuse the ICTR investigators of fabricating your statement and attributing to you things you did not say?  
+A.	I thank you, Mr. President.  
+
+I said a short while ago that the Prosecutor probably did not read (By order of the Court, these words were extracted and kept under separate cover).  But when I gave testimony, I explained the role played by the public prosecution department in Rwanda, and the role played by the office of the Prosecutor of this Tribunal.
+MR. WEBSTER:
+If I could ask Mr. Issa to provide the witness with a document in tab E, it's a handwritten document in Kinyarwanda; it's Appendix 1.  The last three documents in that tab are the same document; one handwritten in Kinyarwanda, one in English, and one in French.  
+
+So if you could place the Kinyarwanda documents in front of the witness, and the rest of us can look on in French and English translation.  And maybe I can use this gap.  
+
+You can read through that, Mr. Witness, please.
+
+Can we move the statement of September 23rd of 2002 into evidence, please, under seal.  That's the statement I just addressed in my last set of questions.
+MR. PRESIDENT:
+Mr. Issa.  
+MR. MJUI:
+Thank you, Your Honour.  The document will be P. 363. 
+MR. PRESIDENT: 
+Admitted.
+(Exhibit No. P. 363 admitted, under seal) 
+BY MR. WEBSTER:
+Q.	Mr. Witness, you recognise your handwriting, don't you? 
+A.	Yes, Mr. Prosecutor.  
+Q.	You wrote this statement on the 1st of November 2002, a month and a half after you gave your statement to the OTP.  
+And in your affidavit you state at paragraph 4 that:  "On the 23rd of September, the representatives of the Arusha Tribunal requested me to testify in the Augustin Bizimungu case, and I agreed to do so."  
+
+Then at paragraph 6 you said:  "I then answered the questions put to me by the officers of the Arusha Prosecutor" and that "never did I mention Kajelijeli or Nzirorera at any time in the statement I gave them."  
+
+You continue at paragraph 7 that:  "During that interview the officers of the Arusha Prosecutor questioned me in English" and that "the interpreter was interpreting the questions to me in Kinyarwanda and I was answering in the same language, since I did not understand English." 
+
+And then you continue at paragraph 8 that:  "The officers of the Arusha Prosecutor informed me that they had recorded the statement I gave them in Kinyarwanda in English, and I could, therefore, sign it."  
+
+Continuing at paragraph 9, you go on to say that:  "(By order of the Court, these words were extracted and kept under separate cover), and it was then that my statement, which was recorded in English" -- that we just went over, Mr. Witness -- "on the 23rd of September was read to me in Kinyarwanda."  
+
+And at paragraph 10 you say:  "I felt bad and surprised at the additions that the officers of the Arusha Prosecutor had made to my statement, since I had never spoke to them about Kajelijeli or Nzirorera."  
+
+And at the last paragraph you say that:  "I swear that my deposition, as contained in this document, is true" and further that "I'm aware that making a false deposition is an offense punishable by law."  
+
+And there's your signature.  And it's witnessed on the 4th of November by a judicial officer.  I believe it's a Mr. Richard.
+
+So what do you have to say about that, Mr. Witness?  You just told this Tribunal that you were pressured to say everything that you did about Kajelijeli and Nzirorera in the statement that was recorded on the 23rd of September 2002.  And here we have your affidavit, used in another trial, accusing investigators of the Arusha Tribunal of fabricating evidence to be used in a trial.  How do you explain that?  
+A.	Thank you, Mr. President.  
+
+(By order of the Court, these words were extracted and kept under separate cover), we, first of all, discussed that certificate.  And I talked about the deputy prosecutor at the prosecution department in Rwanda, who was called Rukira, and who had been in touch with me (By order of the Court, these words were extracted and kept under separate cover), and who told me that I had to make a complete testimony.  
+
+And the truth is after meeting with Rukira, the investigators of the OTP of this Tribunal came and asked us to repeat the testimony that we had given before the prosecution department of Rwanda.  And with respect to what I said concerning Nzirorera and Kajelijeli, I insist that these are pieces of information that I had been forced to include in my testimony -- my statement.  
+
+And, in my opinion, I felt that the OTP of the present Tribunal and the prosecution department of Rwanda had agreed for us to make a statement in view of implicating Kajelijeli and Nzirorera.  And that is the reason why the investigators of the OTP asked us to repeat the statements that were given to the prosecution department of Rwanda, as both institutions were collaborating closely.  
+
+And in my opinion, that statement is a statement which had been concocted by the 
+Rwandan prosecution department and which had -- which had been alleged to have been said by me.  
+Q.	Mr. Witness, (By order of the Court, these words were extracted and kept under separate cover).  You accused them of including information in your statement that you didn't give them.  That's what your affidavit says; isn't that so? 
+A.	Thank you, Mr. President.  
+
+All of that was done in various manners.  And I already stated this to the prosecution department.  And those people came and asked me to make a statement.  But the prosecution department had already recorded these right reports somewhere.  As a matter of fact, the OTP wanted my signature to state that they had met a given witness, otherwise the report had -- the statement had already been written.  
+Q.	Mr. Witness, you're avoiding the point.  
+
+On the 1st of November 2002, you lied in an affidavit that you knew was going to be used in court and you told the Court, through your affidavit, that an OTP investigator slipped information into your statement that you did not provide to him.  So you lied; right?  
+A.	Thank you, Mr. President.  
+
+When you see how the prosecution department had prepared that testimony with regard to that statement of 23 September 2002, I would like to say that everything that is therein was not made by me.  These statements have been prepared by the prosecution department of Rwanda.  
+Q.	On the 23rd of September 2002, you gave the ICTR OTP investigator information about Kajelijeli and Nzirorera.  That's what you just told this Court ten minutes ago.  You gave them that information on the 23rd of September 2002.  And then one month later you filed an affidavit stating that they manufactured that information.  You lied to the Court.  
+A.	No, I didn't lie to the Court, because we discussed about that letter before the Trial Chamber.  I've always stated before the Chamber that, firstly, the prosecution department (inaudible) and we made a statement which was recorded -- recorded by the OTP investigators from Arusha.  And those people became fully aware of the content of the statement.  And, as I have insisted continuously, all that they needed was the formality to state that there was a witness who had made a statement -- a given statement -- while they were -- they had been aware of the content of that statement all along, even before they met us.  
+Q.	Mr. Witness, I want you to think about the affidavit now, the affidavit that you signed on the 1st of November 2004 (sic), that was witnessed on the 4th of November 2002 -- excuse me, 2002.  
+
+What did you think that statement was going to be used for?  
+A.	Thank you, Mr. President.  
+
+I couldn't have done otherwise.  I would like to tell the Chamber that the content of the statement was not made by me.  It was fabricated.  I didn't have any other means of going about it.  I just want to tell the Chamber that this was a false testimony.  Be it at the OTP in Arusha, be it at the prosecution department, all I wanted to do was explain that this was not done by me.  I don't want the Chamber to consider that statement as being attributable to me.  
+Q.	Mr. Witness, I'm talking about -- 
+A.	Consider that I did not make that statement.  
+Q.	I want you to direct your attention to the affidavit, to the handwritten statement, the one that you wrote in your own hand, and just think about my question and answer my question.  
+
+What did you think that statement was going to be used for?  
+A.	I wrote that letter to show that a statement which had been attributed to me did not come from me.  I was trying to explain the collaboration between the OTP of the ICTR and the prosecution department.  I was trying to state that they were fabricating statements.  That is what I was seeking in writing that letter.  
+Q.	Did you know that the attorney, the Defence attorney on that case, was going to use your affidavit to accuse the Prosecutor's office of wrongdoing?  Did you know that back in November of 2002?  
+A.	Thank you, Mr. President.  
+
+I am not knowledgeable in matters of law.  I don't know what is the procedure.  I quite simply wrote a letter, but I was unaware whether that letter was going to be used by Defence counsel in one way or another.  
+Q.	The Defence counsel in that case did not explain why that statement was going to be used or how that statement was going to be used?  
+A.	Thank you, Mr. President.  
+
+I was shown a statement that had been -- was attributed to me, but I told them that it was a false -- a fabricated testimony.  And after we discussed, I wrote that affidavit.  But with respect to what happened subsequently, that is to say, the manner in which the affidavit was going to be used, we didn't discuss about that.  We were -- I was told -- I was asked, quite simply, to state the people who had met me before, the people who were an obstacle and who were stopping me from coming to testify.  That is what we talked about.  But we did not talk about how the letter was going to be used subsequently.  
+MR. WEBSTER:
+I'd like to have the affidavit moved into evidence as P. 364 under seal.  
+MR. MJUI:
+Thank you, Your Honour.  The document will be P. 364.  Thank you.  
+MR. PRESIDENT: 
+Admitted under seal. 
+ (Exhibit No. P. 364 admitted, under seal) 
+BY MR. WEBSTER:
+Q.	Now, Mr. Witness, even though the Trial Chamber that you appeared before in November relied on your affidavit to criticise the prosecutor's office and to make a decision in that case, they didn't rely on your testimony.  In fact, according to paragraph 527 of a judgment that was delivered on 
+	the 1st of December 2003 -- 
+MR. WEBSTER:
+And this can be found at tab G in the bundle in both English and French.  It's the first document in 
+tab G.
+BY MR. WEBSTER:
+Q.	It's a lengthy paragraph, but at the very beginning, it says:  "The Chamber has assessed the credibility of witness" -- and then it identifies you, Mr. Witness -- "and finds him not to be a credible witness with regard to his testimony on the presence of the Accused at any of the events with which this trial is concerned." 
+
+And it goes on to say:  "Although informative to the Chamber in its consideration of the events and their surrounding circumstances, especially where other witnesses corroborate, the Chamber is convinced that this witness" -- referring to you, Mr. Witness -- "this witness's mission in testifying was to remove the Accused from the events in which the Prosecution charges him." 
+
+What do you have to say about that?  
+A.	Thank you, Mr. President.  
+
+That is the sovereign decision of the Chamber.  But, as far as I'm concerned, as an eyewitness of the events, I would like to insist on my version of the facts.  I cannot interfere with the Chamber's decision.  But, with time, I -- I'm -- I hope that things are clearer and that today, based on various investigations, the present Chamber would arrive at a true and fair decision.  
+Q.	Based on your eyewitness testimony?  
+A.	Yes, that's what I was saying, Mr. Prosecutor.  
+Q.	And yesterday you recall that you told this Chamber that you didn't participate in the killings at the convent on the 7th of April; right?  
+A.	Thank you, Mr. President.   I never said that.  I didn't say that I participated in the attack; rather, the Prosecutor was saying that I was the leader of the assailants who attacked the parties at the convent.  And it was based on that -- he was saying I was the leader.  But I confirmed that I did participate in the attack.  I was among the assailants who killed those people, but I was not a leader of the assailants. 
+Q.	But back in November 2002 -- 
+MR. WEBSTER:
+And this is excerpt 2, and I'm going to move on to excerpt 3, which is in that same tab G from this witness's previous testimony --
+BY MR. WEBSTER:
+Q.	-- you were asked if you -- if there were any attacks that took place at the nuns' convent on 
+	the 7th.  And your response at that time was, "No, I'm not aware of any attack on the convent." 
+
+Then you were asked about the corpses that littered the hillside.  And your answer at page 7 in the English -- and this is from excerpt 2:  "Since there were no dead bodies, we couldn't give instructions regarding the burial of bodies.  There were no instructions or orders to that effect."
+
+(By order of the Court, these words were extracted and kept under separate cover), Mr. Witness, (By order of the Court, these words were extracted and kept under separate cover), that you claimed there wasn't even -- you didn't even know about an attack at the convent when you testified before the other Trial Chamber, and that you didn't even know about dead bodies.  
+A.	Thank you, Mr. President.  I wonder how that document is being used.  I am not saying that somebody noted something I didn't say.  I was asked if Kajelijeli had led an attack or if he had held a meeting to incite us to attack the Busogo secteur or the convent.  I stated that Kajelijeli never led any attack whatsoever, but I never denied the existence of any attack.  
+MR. WEBSTER: 
+Your Honour, I'd like those two excerpts to be admitted into evidence.  
+BY MR. WEBSTER:
+Q.	(By order of the Court, these words were extracted and kept under separate cover).
+MR. PRESIDENT: 
+Mr. Issa?  
+MR. MJUI:
+Thank you, Your Honour.  
+
+The two excerpts are the same document -- of the same date, that is, 19th November 2002.  So I will give them one number.  So the document will be P. 365.  Thank you, Your Honour.  
+MR. PRESIDENT: 
+Thank you.  
+(Exhibit No. P. 365 admitted) 
+BY MR. WEBSTER:
+Q.	All right.  Mr. Witness, I want to look at another document that you actually mentioned last week when you were being examined by Mr. Nimy.
+MR. WEBSTER:
+And this can be found in tab D of my bundle.  It's the last document in that section.  And there are actually two documents that we should look at.  One is a fairly thick document in Kinyarwanda, and it's preceded by a short excerpt, which is actually a bit of the document, but it's easier to look at in its excerpted form.  So if we could direct our attention to those two documents, the last two documents in section D of the bundle, and if the witness could be given the thick Kinyarwanda document, direct his attention to the last page.  The English translation that's provided on the excerpt is an unofficial translation.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, this is a document that you looked at initially with Mr. Nimy.  And you agreed back -- I think it was Thursday of last week -- that that's your signature on the last page; right?  
+A.	Yes, indeed, it is my signature, indeed.  
+Q.	And on the other side there is the signature of -- I believe it's the first substitute prosecutor, the person that you've mentioned before.  I think you would do better pronouncing his name than I will.  Tell us his name, please.  You mentioned him in your affidavit, actually.  
+A.	His name is Rwisegenya.  But with respect to the person who signed here, it is Rwegura (phonetic).  But at some other point in time I had talked about Rwisegenya.  
+Q.	This signature looks like the signature of Muhizi to me, the same person you mentioned in the first paragraph of your affidavit.  
+
+Can you look at it again and tell us if you agree.  And if not, we'll move on.  
+
+Isn't that Rukira Rwamuhizi?  
+A.	Yes, it is Rukira Rwamuhizi. 
+Q.	Thank you.  And now I want you to look at the page immediately preceding your signature page, where there's a summary of your interview.  Let me just read that.  And can you follow in the Kinyarwanda.  
+
+It says:  "(By order of the Court, this name was extracted and kept under separate cover) said that they first killed Rukara on the 7th of April 1994.  He said that they killed him after the end of the meeting chaired by the former bourgmestre of Mukingo, called Kajelijeli, and a businessman called Baheza, Esdras and a director called Nyabusore, who were inciting us to kill Tutsi in order to avenge Habyarimana.  
+
+"Dusabimana, who was in the meeting and brother of Nzirorera, gave us weapons.  We killed 
+Lucien (phonetic), and after that we went to Rwanketi (phonetic) at Rudatengya's (phonetic).  We continued to the sisters' convent and we killed people who had taken refuge there, and who were more than 150 persons, using grenades, clubs, spears and knives, and axes and petrol.  It is right that we collaborated with soldiers who were on the position close to the church.  And after we finished to kill them, the commune buried them.  
+
+That is the information that is contained in that handwritten Kinyarwanda text on that page.  Am I right, Mr. Witness?  Or, if you think that my summary is incorrect, you can correct me in what that passage actually says.  
+A.	Thank you, Mr. President.  
+
+As our opinions have always diverged with respect to that, I would like to ask on what date that document was made, because I can see a distinction between -- because I make a distinction between documents I made before and after 2000.  So I would like to know on what date this document was established so that I should answer with respect to that date. 
+(Pages 1 to 15 by Lisa D. Smith)
+
+
+
+
+
+
+1000H 
+BY MR. WEBSTER: 
+Q.	My questions to you, Mr. Witness, was quite simple.  Did what I said -- did what you heard of my summary, just two minutes ago, add up to what you read, yourself, in the Kinyarwanda text?  That's all I am trying to find out at this point? 
+A.	Thank you, President.  I am going to read it myself.  
+Number 6 said that we begun by killing Rukara on the 7th of April 1994.  We found him -- we took him away from his house and we killed him -- and he was killed.  That took place after a meeting led by Kajelijeli, Ndateda Bahiza a businessman.  Bahiza and the director, Nyabusore, ordered us to kill people to avenge the death of President Habyarimana.  Nzirorera's younger brother, 
+	Minister Joseph Nzirorera gave us firearms which we used to kill Lucien after which we went to Rutandinya in Ruhengeri and subsequently we carried on and went to the convent to kill refugees who had sought refuge there.  There were more than 150 people.  We used grenades, machetes, axes and even petrol to kill those people.  It's true that we corroborated with soldiers who were posted not far from the church.  After having killed those people, the commune buried the corpses of the victims.  
+
+	That is the paragraph of the document that I have.  I am done. 
+Q.	Thank you very much, Mr. Witness.  That was a much better solution.  Now did you ever say those things to someone in the Rwandan prosecutor's office?  I am not asking you if the content is true, but I am asking you if you ever said those things. 
+A.	Thank you, Mr. President.  I asked you what was the date on which this document was drafted.  If the staff of the public prosecution department scrutinized the entire file, well, I do remember that we were questioned by at least ten officers of the public prosecution department.  And if you refer to all those documents you will realise this.  But for me to give an explanation, I would like to know the date on which this letter was drafted because I have already said that prior to 2000 I wrote letters, and also wrote some after the year 2000.  But as to your explanation concerning the two categories of letters, they would be different on the basis of the date on which the letter would have been written. 
+Q.	So then you agree that the things that were recorded in this document are things that you actually said to an officer of the Rwandan prosecutor's office at some point, right?  We will get to the issue of when, but these are some things -- these are the things that you said. 
+A.	Thank you, Mr. President.  I have one excerpt before me.  If I had the entire document, I would probably be able to tell whether the document is from me because I would have signed it if it was a statement that I gave to the public prosecution department.  And at the time, all confessions were recorded in a document -- in the same document.  And after reading this passage, I can say that this is not written by me.  But if I can nuance my answer it is possible that I might have given this statement because at some point in time I was coerced into giving false statements in which I implicated Kajelijeli. 
+Q.	All right.  Let's look at the first page, Mr. Witness.  
+MR. WEBSTER: 
+And for the record the first page bears the K number K0343857. 
+BY MR. WEBSTER:
+Q.	The very first page.  Are you there?  And you will see one third of the way down, it makes a reference.  And this is in Kinyarwanda Hitegeko Genda No. 40/2000 Rwihokuba.  And then it's given the date 
+	26th of January 2001.  And I believe that this is suggesting that this is a document in regard to a certain piece of legislation that bears that number.  Would you agree - or, perhaps you can just read what's written there in Kinyarwanda and the translators will translate it? 
+A.	I agree with you.  You indeed read what is in the first page of this document. 
+Q.	So you would agree that this is a document that was produced in a Gacaca jurisdiction, right? 
+A.	Thank you, Mr. President.  How could this document have been drafted by a Gacaca court whereas this document goes along the lines of statements that are fabricated?  If this document emanated from a Gacaca court it would have borne the seal of that court.  I also know that when documents are forwarded to a Gacaca court, it remains in the custody of that Gacaca court and doesn't come 
+	back to the public prosecution department.  I would like the Prosecutor to show me the seal or stamp of the Gacaca court because all that I have seen here is a signature of a certain Rurangwa who is an officer - or, who is a public prosecution department officer.  Now, can the Prosecutor under the circumstances claim that this document was prepared by a Gacaca court whereas there's no evidence that ascertains that.  Personally -- well, my opinion is that no value should be attached to such a document whose origin cannot be established even. 
+Q.	Mr. Witness, what I am suggesting to you is that this is a document that was generated after 2001, because it is referring to legislation of 2001.  So when you were reviewing it with Mr. Nimy and claiming that it was produced in 1997 that was in error.  That's what I am suggesting to you.  Would you agree with me now?  Noting at the bottom of the page where there's a date, **********************************, that only refers to the date of your arrest, it's not the date of the document.  The document has to have been generated after 2001.  Can we agree on that? 
+A.	Thank you Mr. Prosecutor.  Are you seeking to demonstrate that this document was drafted before 2001?  I have insisted that you should give me the date on which this document might have been drafted so that I can explain and clarify my position because my position changed depending on the period.  If this is a testimony or a statement that I gave after 2001, I would have given the document under specific circumstances that I should be able to explain.  As far as I am concerned, the date on which this document was drafted is not clear.  And to enable me to clarify my position, I would like to know the date on which it was draft. 
+Q.	Let me see if I can help us along, Mr. Witness.  When you thumb through this document, I think we have both done that and I believe the Defence has done that -- Mr. Nimy has done that as well.  It does not bare a date, so we cannot tell from the face -- from the text of the document itself what date this information was recorded.  So I can see that point, Mr. Witness.  What I am suggesting to you is that this is a document that records your confession in May 2002 because it was generated after the Gacaca law was introduced in 2001 and your case was not sent to Gacaca until the 12 of July 2002.  So that this document must have been something that was generated between the 12th of July 2002 and your release in **************.  And if you look at the document, we go through it page by page.  On the first sheet is your identifying information, then it goes through and lists the various co-perpetrators.  They are so many that they have to slip in pages.  And it goes through and it lists the various victims of your crimes.  And they are so many that blank sheets have been inserted so that all the names can be recorded, which is why the document is so thick, because there were so many people acting along with you and there were so many people that you killed.  And then we get to the end, and there's the summary of what you told the Prosecutor.  And on the final page is your signature and his signature.  Does that sound like a fair description to you, Mr. Witness, when you look at the document page, after page, after page?  The only thing that was slipped into this document were pages to allow an accurate reporting of all the people that you killed and all the people that were working along with you. 
+A.	Thank you, Mr. President.  I would like to invite the Prosecutor to read what is on page 4, where mention is made of the identity of the co-authors, co-perpetrators of the alleged crimes.  The Prosecutor claims that this document is correct.  But when you read what is on page 4, and compare it to the names that appear with the document that we are discussing, he would realise that there are some differences.  And if the document in question contains my confessions, he will understand that there's information that might have been slipped into this document that I am not author of.  If you compare the list of persons who participated in the crimes to the list that we discussed previously, the Mr. Prosecutor himself will realise that there are some differences. 
+MR. WEBSTER: 
+I would like to move this document into evidence, under seal. 
+MR. MJUI: 
+The document will be P. 366, Your Honour.  Thank you.  
+MR. PRESIDENT:
+Admitted, under seal.
+ (Exhibit No. P. 366 admitted, under seal) 
+BY MR. WEBSTER: 
+Q.	Mr. Witness, were you ever accused of committing rapes?  
+
+	I am going on to another subject now, Mr. Witness.  Were you ever accused of participating in rapes sometime in early May 1994, which involved a bus load of women that were travelling through 
+	Byangabo center?  
+A.	Thank you, Mr. President.  I was accused of that offence and I was arrested the following day. 
+Q.	And this was in 2004, your arrest? 
+A.	Yes, that is correct, that was in 2004. 
+Q.	And this concerned an incident where one of your group, Noel Ndayisaba was killed by 
+	Lieutenant Burogero.  Isn't that so? 
+A.	That is correct. 
+Q.	Were you present during that incident when Noel was shot, sometime back in early May 1994? 
+A.	Thank you, Mr. President.  I arrived at the scene soon after Noel had been shot down.  And when I arrived at the scene his body was still bleeding.  So I must have arrived less than 30 minutes after the incident. 
+Q.	And did you learn that women -- Tutsi women -- on that bus had been raped by the Interahamwe in Byangabo which triggered the shooting incident that claimed the life of Noel?  Did you learn that when you arrived? 
+A.	Thank you, Mr. President. When the bus arrived there, I, myself, was at the Byangabo center.  But I left later.  And upon my return, Noel had been shot down. 
+Q.	Did you learn that the Interahamwe had attacked the women on the bus and raped them.  That's my question to you? 
+A.	Thank you, Mr. President.  This is another illustration, another example of a fabricated Prosecution testimony.  When the bus arrived at Byangabo, I was present.  And the bus got there at about 6 p.m.  it stopped.  And the bus was coming from Gitarama and transited through the Mukamira camp.  And this happened in May on a date that I can no longer recall.  Of course, it was in May 1994.  So in that bus there were ladies but there were also men with them.  And this was at the time that the fighting had escalated in Kigali town and the inhabitants of that city were fleeing.  Now if there are people who have alleged that Interahamwe allegedly raped women that were in that bus, I would tell you that that is a lie.  It was still daytime and there were many people at the Byangabo center who can confirm what I am saying because even before Gacaca courts it was never established that the ladies that were in that bus were raped.  And I am telling you that that bus was carrying Hutu women as well as 
+	certain men who were injured.  
+
+	The first lady who alighted from that bus is a lady who was called Félicité Nyiraruhugu, as well another lady called Delphine Winenza.  Félicité today lives in Byangabo and her husband used to be -- or, was a soldier.  I did not remain at the scene because I left it immediately.  But when I returned or came back to the Byangabo center, Noel had already been shot dead.  I learnt that Noel and the members of his group had entered the bus in order to inspect the documents of those that were in the bus, but the passengers had answered back that they were fleeing Kigali.  That they were fleeing from the fighting.  That they were known since they were natives of the region.  
+
+	Subsequently, Lieutenant Buregero was called up and when he arrived at is the scene, the passengers of the bus explained to us that they had been intercepted by the youths of that center, who were asking them to produce their identification papers.  Thereafter, Lieutenant Burugero told Noel that he didn't understand why the bus had been intercepted, whereas the passengers were coming from the Mukamira camp and that they were well known.  
+
+It would appear that Noel was drunk and that he tried to put up a resistance and that is how 
+	Lieutenant Buregero gave the soldiers the orders for Noel to be shot dead.  
+
+To summarise what I have just said, Mr. President, I would say that there are a number of people who are using this incident to give false testimony by claiming that the ladies that were in that bus were Tutsi and that they were raped.  I do not understand how Lieutenant Buregero could have shot down Noel if he had intercepted Tutsi ladies and raped them, because this would been -- this would have fallen in line with what Lieutenant Buregero was wishing.  The truth is that the persons that were in that bus were people who were fleeing the fighting in Kigali. 
+Q.	Well, Mr. Witness, let me tell you what the information that we have about that incident and see how you respond to that.  
+MR. WEBSTER: 
+And here I refer the Court and the parties to Tab N.  In my bundle there's -- my question is drawn.  
+	"From the Rule 67(d), notice that is dated the 23rd of March 2007.  It's in the bundle both in English and French.  And at the bottom of page 3 in the English text, I am not going to read everything.  
+BY MR. WEBSTER:
+Q.	I am going to summarise it to you Mr. Witness.  There's a certain witness who claims that she heard gunshots on the night that that bus was attacked.  And that the very next day, she was in Byangabo centre which was -- and there was a gathering spot where a number of people had congregated including you, Mr. Witness.  And she identifies.  She also talks about Musamfiri and Gakuru and Byangabo and several others were discussing the events of the preceding day amongst themselves in a loud voice, with no apparent concern for being overheard by anyone else.  And that you were all talking about the rapes that had been committed a day before and the death of Noel.  What do you have to say about that?  We are not talking about someone who is filing a false report in 2001.  We are talking about an eyewitness who was there on the day following that incident, overhearing you.  And what  do you have to say about it?  
+MR. ROBINSON: 
+Excuse me, Mr. President.  I apologise for interrupting, but I think it would only be fair for Mr. Webster to give, on a written piece of paper, the name of the person who made that statement to this witness.  I think given the other materials in that Tab, it's obvious why that will have to be done to be very fair to this witness and not to be simply making attributions to someone without identifying to him who the person is who is making those statements, given the history. 
+MR. WEBSTER: 
+I think that's a legitimate observation on the part of Mr. Robinson.  What I was actually going to do, Your Honour is request that we go into closed session for my next line of questioning because it's going to concern that bundle.  And rather than -- I was trying to keep as much -- in open session as much as possible, but it may be more efficient to simply deal with this issue in closed session.  And that would be with -- the rest of my cross-examination would be in closed session and I will conclude after the closed session. 
+MR. PRESIDENT:
+How long do you anticipate that will take?  
+MR. WEBSTER: 
+To be realistic, I think it's going to take at least a half hour.  So perhaps we could take the break now and return in closed session and that will be the end of my cross. 
+MR. PRESIDENT:
+You realise that it goes beyond the time you estimated yesterday?  
+MR. WEBSTER: 
+Yes, I do, Your Honour.  I apologise for that but there's two of those essential points that I would like to get to you.  We don't -- I don't see it going beyond 20 or 30 minutes.  And I would appreciate it if you would allow me to do so in closed session after the break. 
+MR. ROBINSON: 
+Mr. President, I am going to support Mr. Webster on this.  I think its a legitimate cross-examination that he is going to embark on.  I don't think he has wasted the time that he has had so far.  So I would ask that he be given the time to complete his cross examination. 
+MR. WEBSTER: 
+And I thank Mr. Robinson for his comments. 
+MR. PRESIDENT:
+Mr. Webster, although happily in respond to Mr. Robinson's comments, we have decided to grant the time that you requested.  I do want to draw your attention to the importance of managing of the time and the agreed fixed months.  We intend to take this pretty seriously although we do not intend to apply it in a manner which will compromise the interest of justice, but you did undertake yesterday to organise the material which you had told us by 10:30. 
+MR. WEBSTER: 
+Yes.  
+
+Well, thank you, Your Honour.  Perhaps I could -- the Court's concern by explaining that this is a very significant witness and I have covered a lot of material through this witness that will relieve us of the obligation of going into the same type of material with other witnesses that will be coming.  So taking a long time with him is actually allowing us to be more efficient with some of the other Defence witnesses that will come.  But I will make every effort to complete within half a hour when we resume. 
+
+MR. PRESIDENT:
+We did make those observation and we entertain these expectations as well.  
+
+We will take our morning recess now.
+
+For the benefit of the public, this witness has been the beneficiary of a protection order for his security and one of the important elements of that protection order is that his identity should not be revealed to the public.  We have just been informed that the next line of questions that will be put to him may elicit information which could reveal who he is.  And so that section of his testimony will be in closed session.  
+
+We have been told that it will last for about 20 to 30 minutes.  We are going to take a 15 minutes 
+recess now and that would mean that we will probably be resuming in open session not before the next 45 minutes.
+  
+We will take our morning recess now. 
+(At this point in the proceedings, a portion of the transcript [pages 23 to 27] was extracted and sealed under separate cover, as the session was heard in camera)
+(Court recessed at 1030H)
+(Pages 16 to 22 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1115H  
+MR. PRESIDENT:
+We are in open session now.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+
+Mr. President, this will be my 18th notice of Rule violation, and it concerns Witness GAY, whose testimony was admitted pursuant to Rule 92 bis.  And as Mr. Webster has accurately said, she accused this witness of having raped her.  That rape is being -- her statement was offered so that that rape could serve as part of the crime base for Mr. Nzirorera's conviction of rape, which the Prosecution hopes to achieve.  
+
+We have been now given, for the first time, in the bundle connected with this witness, after the witness's testimony in chief, a report from the investigator of the OTP, as well as another statement of Witness J -- GAY.  The subsequent statement is dated the 19th of June 2009.  And it's the basis of our motion for Rule 68 violation, which requires that exculpatory evidence or material which affects the credibility of a Prosecution witness be disclosed as soon as practicable.  Again, the statement is 
+19th of June 2009.  Today is the 28th of October 2009.  
+
+And in her signed statement she says that she accepted **************************************of this witness to recant her allegations that he had raped her.  
+
+Now, if that isn't exculpatory information, I don't know what is.  And so it should have been disclosed to us long before the direct examination of this witness commenced.  And even if this witness never testified, it should have been disclosed to us, because it affects the credibility of a Prosecution witness.  
+
+And so on that basis, I'm asking you for remedial and punitive measures if you find that a violation has occurred.  And I will ask to be heard on what those remedial and punitive measures might be once you've determined whether or not there is a violation.  Thank you.  
+MR. PRESIDENT:
+Yes.  
+
+Any other submissions, Mr. Webster?  Yes, Mr. Webster. 
+MR. WEBSTER:
+Let me provide a bit more contrast.  
+THE ENGLISH INTERPRETER: 
+Microphone, please.  
+MR. WEBSTER:
+I'm sorry.  I think this merits a bit more context in order for the Court to appreciate the situation.  
+
+This is a witness whose statement was admitted as P. 111.  She made several other statements and we filed 67(D) notices for her.  Sometime in -- I'm not sure of the date, but probably a month or so before the memo Mr. Robinson mentioned, the Prosecution discovered a statement from that witness recanting her testimony, or words to that effect, somehow withdrawing her charges.  It's the -- it's withdrawal or acknowledgement that either the rape did not occur -- I don't have the statement in front of me.  But that was disclosed to the parties.  It's a handwritten statement.  
+
+When we became aware of that handwritten statement, we sent an investigator to meet with the witness and to ask her what the story was behind this recantation or this acquittal for the witness that was just testifying.  And as a result of that interview, this statement that Mr. Robinson refers to of the 19th of June 2009 was signed.  
+
+When I read this statement of 19th June 2009, I don't see this as raising a Rule 68 issue, quite frankly.  It's not a Rule 66(A)(ii) issue.  Mr. Robinson hasn't made that application.  But this Chamber has already ruled on disclosure of witness statements after the witness has given evidence.  Witness statements of Prosecution witnesses subsequently given witness statements are not disclosable under Rule 66(A)(ii) and there's jurisprudence from the Appeals Chamber on that.  But when I read the statement, I don't see a Rule 68 issue.  
+
+The witness is saying -- is explaining -- the witness is not recanting.  In fact, she is saying she's explaining the circumstances under which the exculpatory statement, the one that we disclosed, came to light.  So, I mean, Mr. Robinson and I simply have a difference of opinion on how this statement would be characterised.  And that's where the Court will have to give us its views.  
+MR. PRESIDENT:
+Thank you.  
+MR. ROBINSON:
+Mr. President, first of all, our team is trying to recover where we've had this disclosure of the recantation.  We -- neither myself or Mr. Nzirorera remember having seen that.  But let's just put that aside and assume that it has been disclosed to us.  
+
+This says that the witness received money in exchange for that recantation, ******************************.  We've confronted the same situation before with GBU.  He also received money for his recantation.  You thought that that was -- warranted recalling the witness.  And then we found out the whole circumstances.  And then he denied again that his testimony had been false.  But it certainly affected his credibility, otherwise, you wouldn't have brought him back in the first place.  
+
+And this is the first information we've had here that this witness, GAY, received money and agreed to make false -- make a false recantation, if in fact that's what it was.  It certainly affects her credibility.  
+
+So I think -- if this is Mr. Webster's -- the way he applies Rule 68, I think we have a big problem.  Thank you.  I won't say more.  
+MR. PRESIDENT:
+Thank you.  
+MR. WEBSTER:
+I mean, Your Honour, my concern is the statement has to be read wholistically and we can't simply excise the sentence where the witness states that Niyigaba's wife gave her 15,000 francs and assume that that statement in isolation qualifies the entire document.  
+
+What she states is that she confirms that she was raped by the witness that just testified, that she felt intimidated by the judicial process and by the Court.  And I don't want to read the entire content of the statement into the record, but when the statement is read as one integral thought, I don't see this as raising a Rule 68 issue, particularly in light of the disclosure that made -- that prompted our return to the witness for further clarification.  
+
+So this is something that the Court is simply going to have to look at and make a decision on.  
+MR. ROBINSON:
+Mr. President, you know, we've been to the Appeals Chamber on mixed exculpatory/inculpatory information.  And they held that a document which contains both inculpatory and exculpatory material has to be disclosed.  So why are we here now hearing from Mr. Webster that just because there's some exculpatory material in the document, it didn't have to be disclosed?  
+MR. PRESIDENT:
+Mr. Webster, just as a point of clarification, you referred to an Appeals Chamber decision which said -- which indicated that disclosure need not occur after the witness had testified.  
+MR. WEBSTER:
+Yes.  
+MR. PRESIDENT:
+Now, the problem is that we have a recollection of such a decision referring to Rule 66(A).  
+MR. WEBSTER:
+Yes.  That's correct.  
+MR. PRESIDENT:
+We don't have any recollection of such a rule applying to Rule 68.  
+MR. WEBSTER:
+No.  I agree Your Honour. 
+MR. PRESIDENT:
+Oh, okay.  
+MR. WEBSTER:
+That -- perhaps I confused things by going off into 66(A)(ii) when Mr. Robinson hadn't raised that.  But, yes, my understanding is that there's a continuing obligation under Rule 68 that never stops, even at the appeals stage, so --  
+MR. PRESIDENT:
+Okay.  Thank you.  
+MR. WEBSTER:
+Actually, Your Honours.  To put the entire issue in a bit more context, I do realise that I have a copy of that initial statement that was disclosed, if I can show it to Mr. Robinson.  And the Court can have this copy and I'll print out another one in my office.  But if you could -- 
+MR. PRESIDENT:
+Mr. Webster, we are not sure what you want us to look at.  But I can tell you at the moment that what we have considered up to now is that an admission that a witness had accepted money to vary their statement is a credibility issue and would, under normal circumstances, be a Rule 68 disclosure.   
+MR. WEBSTER:
+Well, I accept the Court's reasoning.  I think looking at the statement that was disclosed puts the issue in greater context.  But in my evaluation of the entire progression of Witness 6's involvement with this particular person, it did not appear to me to raise a Rule 68 issue.  
+
+Aside from raping her repeatedly in 1994, there is documentation in witness statements in 2004 of his threatening her, of her withdrawing her charge, a will-say statement that goes back on that very same issue.  
+
+Finally, sometime this summer we received another document -- or, we went looking for documents and found this one where she, once again -- and it -- I'll read the English in unofficial translation.  "I", and then she gives her name, "on the matter related to rape carried out by the witness", number 6, "declare not having any information about it because he never raped me.  But what I know about him is that he participated in the attacks launched at our home or in our area."  And then she signs it.  And this was disclosed.  
+
+And as soon as we realised the content of this document, we sent an investigator to find out what the story was behind it.  And, again, she complained of being threatened and harassed by the same individual.  
+And as a practical matter, aside from respecting the rights of the witness that's on the stand, of the rights of the Defence, there's an issue of how much witness tampering should the Prosecution invite simply by continuing to disclose this witness's allegations of rape.  
+
+And when I look at the statement that was generated, I believe it's on the 19th of June 2009, which is just before we were supposed to start the session.  In my evaluation, this did not raise a Rule 68 issue.  And it ran the risk of subjecting this witness, once again, for probably the fourth time, to abuse by this same witness when it doesn't raise issues that had not been raised in terms of credibility matters by the three or four other back and forth statements about whether he raped her or not and whether she withdrew the charges or was intimidated to withdraw the charges.  
+
+So that's the context in which the decision was made.  But I will abide by the Court's ruling.  
+
+But looking at this particular witness and all of the documentation that had been generated surrounding her rapes and her abuse by this particular individual, it didn't seem to me appropriate to invite yet another volley of intimidation and threats from this same person because of the abuse she suffered at his hands back in 1994.  
+
+So in terms of raising credibility issues, clearly, what she said to the Court on the 
+5th of November 2008 that generated the acquittal for this witness is the -- is what would be of benefit to the Defence in challenging her credibility.  
+
+I did not intend to go into the statement that we took in 2009 with the witness since the recantation wasn't raised -- or the last recantation wasn't raised by Mr. Nimy in his direct examination.  But even without this last statement from the witness, from June of 2009, there are two other statements from her dealing with the issue of intimidation from the witness back and forth that would provide this Chamber an opportunity to learn what she said and what she took back, and what she said again and what she took back again.  So I don't see how that one statement of June of 2009, in the context of all that, raises a Rule 68 disclosure violation.  
+
+But I will live with the Court's -- and I will abide by the Court's guidance on this point and I will accept whatever -- whatever sanction the Court thinks is appropriate.  And then we can address the issue of remedy.  Certainly, evidence does not need to be excluded.  P. 11 is already in evidence.  Cross-examination doesn't have to be limited.  I don't even have to go into this last statement; I didn't intend to.  So that is my submission, Your Honour.  
+MR. ROBINSON:
+Mr. President, if I could just point out.  Whenever we're dealing with victims of a sexual assault, or people who claim to be victims of sexual assault, obviously we have to be careful.  And if this last point that's raised by Mr. Webster that somehow he felt that by disclosing this statement, which, nevertheless, he doesn't believe comes under Rule 68, would have caused a problem for the witness, then his obligation was under Rule 68(D).  "The Prosecutor shall apply to the Chamber sitting in-camera to be relieved from an obligation under the rules to disclose information in the possession of the Prosecutor, if its disclosure may prejudice further or ongoing investigations, or for any other reason may be contrary to the public interest or affect the security interests of any State, and when making such application, the Prosecutor shall provide the Trial Chamber (but only the Trial Chamber) with the information that is sought to be kept confidential."  
+
+So I don't think that Mr. Webster's correct in raising the spectre of problems that this witness may have had from the disclosure.  At the minimum, he was obligated to provide the statement to the Chamber and the Chamber make that decision.  Thank you.  
+MR. PRESIDENT:
+Yes.  
+
+Mr. Robinson, do you wish to address us now on the issue of...(microphones overlapping)?  
+MR. ROBINSON:
+Yes, Mr. President, I do.  Thank you very much.  
+
+I was thinking about that as we were going along.  And I guess I'm trying to think of what I would have done if I had the statement in June or early July of 2009.  And I think what I would have done is -- was made a motion to call Witness GAY for cross-examination.  I think that that's a very logical thing in light of all these events.  You have a statement in evidence that is essentially untested.  And now we have many, many grounds to test it, particularly the fact that the witness accepted money to change her testimony.  
+
+And so I think the remedy aught to be the recall of Witness -- or the calling of Witness GAY for cross-examination and having us put these matters to her, and the suspension of cross-examination of this witness on the topic of the rape of this woman, until such time as she's given her evidence, which is basically part of the Prosecutor's case, and then at that time, to recall this witness for further cross-examination on this issue.  That's my remedial measure.  
+
+I also request that punitive measures be imposed on the Prosecutor for so many in a string of violations of the disclosure rules.  And I would ask that that punitive measure be that the Prosecutor be required to bear the cost, personally, of the expense of recalling the witness for further cross-examination.  And if he didn't want to bear that cost, then perhaps he could decide not to have the witness recalled.  
+I think that's along the lines of the punishment that I've had to undergo when I've been found to have made a frivolous motion or a motion that abused the process.  This is an abuse of the process to have not disclosed this information.  Thank you.  
+MR. WEBSTER:
+Well, as far as interrupting the cross-examination of the witness that's on the stand now and recalling him, I don't think that would be necessary, because I'm willing to abandon any further cross-examination on this particular point and simply stay -- abide with the record that has been generated up until this point with regard to the rapes.  And I'll move on to something else.  
+
+So I do not anticipate any -- 
+MR. PRESIDENT:
+I thought you said this was the last issue that you had.  
+MR. WEBSTER:
+No.  I said closed session issues.  There's one more issue to get to.  So for the cross-examination, it should not present a problem.  
+
+For the recall of Witness GAY, this is a witness that we wanted to hear orally anyway.  So I don't really see that as a problem.  I'm not sure if it's the best use of the Court's time, given the scope of the issues.  But it's not an application that I am opposing.  And in terms of the monetary remedy, my recollection is that there was an Appeals Chamber decision that did not allow the Court to exact monetary damages from Mr. Robinson when the Court found him in violation or sanctioned him.  So I'll have to go back and revisit those decisions.  But I don't think a monetary penalty is appropriate, so I would oppose that.  And I think the jurisprudence does not support it.  
+
+So that's my submission, Your Honour.  
+MR. PRESIDENT:
+Mr. Webster's abandonment of further cross-examination removes one issue of controversy.  
+
+We also think that in the circumstances it would be appropriate to order that Witness GAY be recalled -- be called for cross-examination on her statement.
+
+I think that's it.  
+MR. ROBINSON:
+Mr. President, I would like to ask for a finding on the record that Rule 68 has been violated.  That should have been part of my motion.  If I didn't make it explicit, I apologise.  But I believe it's important that there be a finding.  Thank you.  
+
+MR. PRESIDENT:
+I think it's there.  I think if we didn't use the word "finding" I think it's quite implied in what I said.  But if you wish to hear me say it, I can confirm that we have found that there has been a violation.  And we gave the reason as to why we thought it was a violation.  
+
+Mr. Webster, you said you had one other issue you want to raise.  
+MR. WEBSTER:
+No.  It's a closed session issue.  
+MR. PRESIDENT:
+How long will that last? 
+MR. WEBSTER:
+Maybe 15 minutes.  This is the last line of questioning, Your Honour.  I had 15 minutes when the clock stopped, I believe, when the witness was excused.  It was at the very beginning of the inquiry.  It shouldn't be long.  
+MR. PRESIDENT:
+You should wear a stopwatch.  
+MR. WEBSTER:
+No, I will.  
+MR. PRESIDENT:
+For the benefit of the public -- I notice you are the same public or part of what we've seen earlier.  We have now completed our open session business and we have to resume in closed session for another 15 minutes.  So we go back into closed session now. 
+(At this point in the proceedings, a portion of the transcript [pages 36 to 42] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 28 to 35 by Rebecca McCoy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. WEBSTER:
+Your Honours, with respect to ID. NZ69, I'd move that that be a Prosecution exhibit under seal.  
+MR. ROBINSON:
+Excuse me, Mr. President.  Actually, I was going to do that myself but that hasn't been shown to the witness or yet verified as a statement.  That's something I was going to cover in my redirect, so perhaps we could leave that and I will do that.  
+MR. WEBSTER:
+That's not a problem.  
+
+I believe there was also the amicus report, which I renew my request that it be offered in evidence now that we have put a portion of it directly to the witness, which contains his own statement.  
+MR. ROBINSON:
+And, Mr. President, we have no objection to that portion of the amicus report coming in for the purpose in which it was used, but we continue to insist that if the report itself is received in evidence that it not be admitted for the truth of any of its conclusions but only for impeachment of witnesses that are testifying before the Chamber.  
+MR. WEBSTER:
+My suggestion is that it's more efficient to simply put the entire report in.  Ultimately the Chamber is the last arbiter of what evidence is to be believed and to assess its weight and its credibility, so I don't see how this differs from any other document that we place in evidence.  I don't think we need that particular disclaimer.  That's presumed for anything that's admitted in evidence.  So I don't think we need a disclaimer.  The document should simply be admitted and the Court will use it as it sees -- in the best manner that it sees fit. 
+
+The other documents that I have used, I think everything has been offered already, but I'd like to reserve an opportunity to come back to this point after Mr. Robinson completes his redirect if there is something that I have missed that I have actually used in the cross-examination.  
+MR. PRESIDENT:
+Mr. Webster, we are still not of the view that we should admit the amicus report in its entirety, and the reason is that we have not really admitted third-party statements and it contains many third-party statements.  
+
+Now, to some extent the portion of the report that you relied on for impeachment is already on the record.  But at the same time, we think we can admit that section on the record for the purposes of impeachment.  So we will make that order.  
+MR. WEBSTER:
+Your Honour, there are general conclusions that I wanted to raise with the witness, and I didn't do that because I assumed that the whole thing, or those three excerpts, could go into evidence.  But my colleague did review general conclusions, specifically paragraph 117 (B)(ii), I believe it is, with the last witness.  So what I propose is just that these three excerpts could be marked as an exhibit.  They are one page each -- one sheet each with two pages on each sheet.  And that may facilitate matters.  
+MR. ROBINSON:
+Well, Mr. President, I was just going to observe that those can be marked for identification, like any other third-party statement, but it's only the prior statement of the witness, which isn't contained in the amicus report, that should be actually an exhibit.  
+MR. PRESIDENT:
+I'm not sure what your application is, Mr. Webster. 
+MR. WEBSTER:
+The issue of admitting the entire report is pending from the last witness that we examined, because we made the application and the Court was going to consider it.  During the examination of that witness, my colleague read the paragraph of general conclusions.  So my suggestion is just for facilitating, going back to that portion of the report, we simply put that in evidence.  It's a two-page document:  The statements of this witness to the amicus, the amicus's explanation of how he conducted his interviews and the general conclusions.  It's two pages each.  And that could be admitted in evidence.  
+MR. PRESIDENT:
+Mr. Webster, we can only admit -- in our view, we can only admit it to the extent that it is used for impeachment purposes.  So the documents that were used for that purpose we will admit for that purpose.  And which documents are they?  
+MR. WEBSTER:
+I can actually hand them up to the Court.  It's page -- in the English text it's paragraph 117(2) and (3), paragraph 22 and paragraphs 71 and 72 and 69 and 70.  And I actually did reproduce them, so I can hand them to Mr. Issa.  He can show them to the Court and to Mr. Robinson.  
+MR. ROBINSON:
+I didn't mean to interrupt you, Mr. President, if you were going to say something.  
+MR. PRESIDENT:
+No, no.  
+MR. ROBINSON:
+I think we have apples and oranges in that little crate that you are being given.  The apples are the prior statement of this witness, which he confirmed.  That's an exhibit.  That can be an exhibit.  That's admissible.  The oranges are conclusions of the amicus curiae, a third party, put to the witness for his comment.  That's a document for identification, just like a third-party witness statement that's put to a witness and he comments on it.  
+
+So I think you have to treat them differently, so that you can weigh the oral testimony for impeachment and you can refer to the documents and ID if it helps you to understand exactly what was put to the witness.  But I think that's the extent of it.  
+MR. PRESIDENT:
+You know, probably what might be the most practical way of addressing this issue, we accept the legal proposition that the document is not admissible for the truth of its contents, and only those sections of the document which have been used, have been put to a witness for impeachment purposes, can be used, and only for that purpose.  
+
+Now, we think that in order to minimise time and have minor conflicts that it might be better for us to admit the document on the clear understanding -- or on the clear -- with the clear directions that the document is not admitted for the truth of its contents and that the only parts of the document which will be of relevance are those sections which are put to the witness, and they are to be reliable only for the purposes of impeachment.  So we can admit the document with those ancillary directions.  
+MR. WEBSTER:
+That satisfies the Prosecution, Your Honour, and I do have two copies of the English and the French prepared, so I can give these to Mr. Issa.  
+MR. MJUI:
+Your Honour, the document will be P. 367A for French, B for English.  Thank you.  
+MR. WEBSTER:
+Under seal.  
+MR. PRESIDENT:
+Yes under seal.
+ (Exhibit No. P. 367A and P. 367B admitted, under seal)
+MR. PRESIDENT:  
+Now, Mr. Webster, we have to note that your timing was very elastic.  We have now come to the end of the day, and this witness is now completed.  
+
+Mr. Robinson, how much time do you envisage you need for re-examination?  
+MR. ROBINSON:
+I'd like to reserve two hours, Mr. President.  
+MR. PRESIDENT:
+We will take our adjournment now.  
+
+Mr. Witness, we have come to the end of the day's proceedings, and I remind you, as I have done on each previous day, that during this or any adjournment you're not to discuss the case or your testimony with anybody.  
+
+We take our adjournment now.  
+(Court adjourned at 1240H) 
+	(Pages 43 to 46 by Claudette Ask)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Lisa D. Smith, Judith Kapatamoyo, Rebecca McCoy and Claudette Ask, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Lisa D. Smith
+
+
+___________________________	 Judith Kapatamoyo
+
+
+____________________________ 	Rebecca McCoy
+
+
+____________________________	Claudette Ask
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 28 OCTOBER 2009
+
+LISA D. SMITH - ICTR - TRIAL CHAMBER III - page 15
+
+	KAREMERA ET AL	WEDNESDAY, 28 OCTOBER 2009
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 22
+
+	KAREMERA ET AL	WEDNESDAY, 28 OCTOBER 2009
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page 35
+
+	KAREMERA ET AL	WEDNESDAY, 28 OCTOBER 2009
+
+CLAUDETTE ASK - ICTR - TRIAL CHAMBER III - page 46
+
+	KAREMERA ET AL	 	WEDNESDAY, 28 OCTOBER 2009
+
+ICTR - TRIAL CHAMBER III
+

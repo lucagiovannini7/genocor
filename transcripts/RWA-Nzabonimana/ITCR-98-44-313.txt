@@ -1,0 +1,1538 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+TUESDAY, 28 NOVEMBER 2006
+0908H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+
+For the Registry:
+	Ms. Rose-Marie Kouo
+	Mr. Issa Mjui
+
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Mr. Saidou N'dow
+	Ms. Gerda Visser
+
+
+For the Accused Édouard Karemera:
+	Mr. Moussa Félix Sow
+
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+	
+
+Court Reporters:
+	Ms. Ann Burum
+	Ms. Sherri Knox
+	Ms. Donna M. Lewis
+I N D E X
+
+WITNESS
+For the Prosecution:
+FRANK CLAEYS
+Re-examination by Mr. Morley	11
+Further cross-examination by Mr. Robinson	49
+Further re-examination by Mr. Morley	61
+
+EXHIBITS
+Exhibit No. D. NZ221	44
+Exhibit No. D. NZ222	44
+Exhibit No. D. NZ223	44
+Exhibit No. D. NZ224	44
+Exhibit No. D. NZ225	44
+Exhibit No. D. NZ226	44
+Exhibit No. D. NZ227	44
+Exhibit No. D. NZ228	44
+Exhibit No. D. NZ229	44
+Exhibit No. D. NZ230	44
+Exhibit No. D. NZ231	44
+Exhibit No. D. NZ232	44
+Exhibit No. D. NZ233	44
+Exhibit No. D. NZ234	44
+Exhibit No. D. NZ235	44
+Exhibit No. D. NZ236	44
+Exhibit No. D. NZ237	44
+Exhibit No. D. NZ238	44
+Exhibit No. D. NZ239	44
+Exhibit No. D. NZ240	44
+Exhibit No. P. 49	49
+Exhibit No. P. 50	49
+Exhibit No. D. NZ241	51
+Exhibit No. D. NZ242	61
+Exhibit No. P. ID. 4 (marked for identification)	49
+Exhibit No. ID. NZ59 (marked for identification)	54
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+MR. WEYL:
+Good morning, Mr. President.  I wish to present my respects of being happily returned amongst you.  
+MR. PRESIDENT:
+Welcome back, Mr. Weyl.  I hope your happiness continues.  
+
+Madam Registrar, can you open the proceedings. 
+MS. KOUO:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding; Judge Emile Francis Short; and Judge Gustave Kam, is now sitting open session today, Tuesday, the 28th of November 2006, for the continuation of trial in the matter of the Prosecutor versus Karemera, et al., Case Number ICTR-98-44-T.
+
+Thank you.
+MR. PRESIDENT:
+Thank you.  Appearances are the same.  
+
+Yes, Mr. Morley. 
+MR. MORLEY:
+May it please, Your Honour, appearances are the same.  Mr. Webster is here in spirit, and he will be here, physically, shortly.  
+
+Your Honours may recall that yesterday afternoon we set about the process of trying to sort out the UNAMIR documents relating to the period after the president had been assassinated, and Mr. Robinson and I had a, I hope he will agree, fruitful conversation in the sense that we distilled, in a very loyally fashion, what it is we disagree about.  And it's always nice to actually finally understand each other.  
+
+The short point is this, Your Honour:  Mr. Robinson has a variety of UNAMIR documents which, on their face, have a peculiar characteristic of admissibility because they are United Nations documents.  The difference between us is what use can the documents be put.  The difficulty is as follows:  What the Prosecution suggests is that the documents can be admissible en masse, and that would include all UNAMIR documents, as evidence of a gathering of information and reports of a contemporaneous nature, reflecting the thinking of UNAMIR at a particular time.  
+What Mr. Robinson would like to be able to use the documents for, although he probably articulates it better than me, is evidence of the truth of their contents; in other words, none -- none of the documents would need to be formally adopted or agreed to by a witness, but that the content of each document, of itself, is capable of being considered by the Tribunal, untested before any witness as being true, so that in time Mr. Robinson might be able to address Your Honours in closing submissions that the content of certain UNAMIR documents impeaches witnesses, demonstrates -- 
+MR. PRESIDENT:
+May I ask a question?  It's slightly facetious, but it -- it -- it's a way of asking what's in mind.  It's a way of asking the point I am thinking about.  
+
+Is he suggesting that -- that the UNAMIR documents have this kind of status as an adjudicated fact?  Has a judicial notice been taken of the truth of their contents?
+MR. MORLEY:
+It's probably best Mr. Robinson to articulate his position.  But my understanding is he would be able to hold up a document and say, "Your Honours will recall hearing from Witness X.  Here is a document which shows that what Witness X said is not true because the document says the event happened on Monday when the witness says the event happened on Tuesday.  You can rely on the document and disregard what X has said."  
+
+And this is the problem which arises between us.  My submission is that the UNAMIR material amounts to what Your Honour will recall from the common law jurisdiction as a species of real evidence; in other words, it's business records being generated at the time of an event.  But it doesn't mean that the document contents amount to impeachment material unless there is a witness who speaks to their truth.
+
+Now -- 
+MR. PRESIDENT:
+(Microphones overlapping) 
+THE ENGLISH INTERPRETER:
+Please moderate the speed.  Sorry.  
+MR. PRESIDENT:
+Why I made my slightly facetious comment was, if that is the extent of the difference between you, I think we have already made our position quite clear on the point.  
+MR. MORLEY:
+Your Honour, yes.  And it, therefore, leaves us in this difficulty -- well, Mr. Robinson in this difficulty.  If he wants to be able to use the truth of the content of the documents, he would need a witness to speak to their truth, and, therefore, he would need to be able to put the material in front of Colonel Claeys to see whether he can speak to its truth.  
+
+Now, Mr. Robinson and I were at pains yesterday to try and speed up the process, but the bottom line, after a little bit of fencing, legally speaking, was that, if these documents go in as exhibits, Mr. Robinson wants to be able to use the documents for the truth of their content.  If so, Your Honours may agree he would need to put the documents in front of Colonel Claeys, although that will take a little time.  We don't think it will take a lot of time, but it may take a little time.  
+
+Now, I'm conscious I've been speaking for Mr. Robinson, who I know is very quick to say he doesn't like that, and it may be he has his own observations to assist Your Honour. 
+MR. PRESIDENT:
+So one other point, Mr. Morley, and it might -- it might be just a simple quibble, I don't know.  But you have suggested that the UNAMIR documents would go in en masse -- could go in en masse.  Now, we have a slight problem with that on the issue of relevance because we also are conscious of not overloading the record with matters which are not related to the trial.  So we'll have wanted some assistance in ensuring that the -- those aspects of the documents which went in were relevant to our trial. 
+MR. MORLEY:
+That must be right, I respectfully agree.  Thinking about that position, in principle, what could happen is we could have before Your Honours, as happened in another case in which I'm assisting, the case of Bikindi in front of Judge Weinberg de Roca, a period of an hour or hour and a half in which documents are shown to Your Honours and the relevance of the documents offered, if the documents are admissible of themselves, so that if the documents are admissible of themselves, as a species of real evidence, the only criterion for admissibility being relevance and probative value, probative value being part of relevance, then if admissible of themselves, we could have, effectively, a paperwork exercise in front of Your Honours at a date to be agreed.  
+
+That is one way of proceeding with UNAMIR documents.  But it would still mean the documents are going in as a species of real evidence rather than as evidence of the truth of their content.  Mr. Robinson's concern, and I fully understand it, is he wants the documents to impeach witnesses.  
+THE ENGLISH INTERPRETER:
+Excuse me.  Message from the English booth.  Could you please slow down, please, for the purposes of the French interpretation.  Thank you. 
+MR. MORLEY:
+I always like to hear from Ms. Seymour in the morning.  
+
+So, short point, the exercise this morning, unhappily, for truth of content to be on the record, would require the documents to go under Colonel Claeys' nose.  However, I concede that the documents are admissible because they are UNAMIR documents, as any UNAMIR document is admissible subject to relevance.  The issue between Mr. Robinson and myself, and it could be important in time, is can he use them, unadopted by any witness, to impeach witnesses.  
+MR. PRESIDENT:
+Yes, Mr. Robinson. 
+MR. ROBINSON:
+Yes, Mr. President.  I'm not here to reargue the pleadings that were made that led to your decision for admission of UNAMIR documents, but simply to execute that decision.  So the Prosecutor -- I want these documents admitted.  The Prosecutor isn't prepared to agree, so I'm ready to proceed to execute the decision you've already made.  
+MR. PRESIDENT:
+I think this late in your answer I understood, from what Mr. Morley said, that he was not objecting to the admissibility.  
+MR. ROBINSON:
+Well, then -- then, maybe we could -- they could just be admitted. 
+MR. PRESIDENT:
+Yeah, but -- but -- but there's an issue here on the issue of the use to which the -- and I thought that Mr. Morley had managed to put the position to the Court, I think fairly, fairly, when he indicated that we would want to consider their weight and the use of these documents when all the evidence is on record.  
+MR. ROBINSON:
+Right.  I agree. 
+MR. PRESIDENT:
+Okay. 
+MR. ROBINSON:
+I'm asking that documents be admitted, and the weight to be given to the documents is something that you have to decide in your deliberations.  I don't see the need right now to put any restrictions on the admissibility of the documents. 
+MR. PRESIDENT:
+All right.  Well, I think that's the position that was -- that we all have at the moment. 
+MR. ROBINSON:
+Okay. 
+MR. PRESIDENT:
+Do you want do it through Witness Claeys or are you going to do it (unintelligible) without the witness? 
+MR. ROBINSON:
+I'm going to do it without the witness first because I think under paragraph 11 of your agreement -- of your decision I'm entitled to do that.  If you find some flaw in that, I'll try it with the witness.  
+MR. PRESIDENT:
+Okay. 
+MR. ROBINSON:
+So -- okay. 
+MR. PRESIDENT:
+Yes, Mr. Morley. 
+MR. MORLEY:
+I have listened carefully to all Mr. Robinson has said, careful as always with his words.  The short point is that, if Mr. Robinson invites admission of the documents of themselves, Prosecution position is that, unless the content of the documents is adopted, it would not be right for Mr. Robinson later to use the documents as instruments of truth with which to impeach witnesses.  Now, he hasn't said to Your Honours that that is what he would like ultimately to be able to do, and it may assist Your Honours to ask him whether that is right, that that is ultimately what he would like to be able to do.  
+
+And I don't criticise him.  I fully understand why he would want to be able to do that, but it would be perhaps a misunderstanding of the position for Your Honours to think that Mr. Robinson and I are ad idem.  His position is, as soon as those documents go into evidence, he can use them as he chooses, obviously subject to Your Honours' views about the documents.  And we are saying no, you can't.  
+
+Now, what I anticipate may happen -- and Your Honours will recall, I think yesterday, Mr. Robinson said that in time he will file a written motion about the use to which documents can be put.  And what the Prosecution is anxious to avoid at this point is the documents' going into evidence, it being uncertain, presently, what the use is to which they can be put, there being a later written argument which is successfully put forward by Mr. Robinson, that the content of the documents can be relied on for closing submissions as impeachment material.  And we, on the Prosecution part, have not ourselves sought to find from the witnesses whether the truth of the documents can be relied on.  
+
+The short point is, Your Honours may be assisted if Mr. Robinson were to tell you that if those documents go into evidence it is his position that he can invite you to use them to impeach witnesses.  
+MR. PRESIDENT:
+Mr. Morley, I'm not certain if that course of action is helpful because certainly people can change their opinion.  He can make a statement today -- and basically you have to rely on the Court's decision-making power because counsel are entitled to make any submissions that they wish.  We have indicated to you -- and that is not to say that the Court itself can't be persuaded to reconsider its position, but you have heard us say, that in our view, the -- these documents represent a contemporaneous record for an official UN establishment.  We do not think that the law regarding the contemporaneous records requires us or permits us to assume that the content of those documents are true.  That's our understanding of the law, and it is a legal principle that we would apply.  
+
+I don't think we need to force or request anybody to make a statement of position at this stage.  One has to rely on the legal principles.  And Mr. Robinson will be entitled, if he wishes, to try to persuade us that the law is something different.  And if he does so, that we'll make our ruling after considering the submissions that he makes. 
+MR. MORLEY:
+Very well.  The position is, therefore, clear.  I'm grateful for Your Honour's concise description of it.  In those circumstances, one anticipates the documents will go in.  
+
+May I say that it would follow that there may be other relevant UNAMIR documents which we can dig up, which could be admitted under the same principle.  And what I indicate to Your Honours now, as I have reflected on it overnight, may not make sense to do it with Claeys.  I stress he was no longer a member of UNAMIR from the 6th of April.  
+
+We will seek to condense the UNAMIR file, which has been disclosed, to a series of additional relevant documents and make an application in due course identifying relevance and adding to the UNAMIR material, subject, of course, to Your Honours' saying that the material is not relevant.  
+
+Does that assist Your Honours?  
+MR. PRESIDENT:
+It does.  
+
+Yes, Mr. Robinson. 
+MR. ROBINSON:
+Yes, thank you, Mr. President.  
+
+With respect to the document which was identified as ID. NZ32, a UNAMIR weekly sitrep dated the 
+5th of April 1994, I'm asking that this be admitted as Exhibit D. NZ221.  Would you like me to make further argument as to relevancy and probative value? 
+MR. PRESIDENT:
+No, no, not at this stage.  How many -- how many documents do you have? 
+MR. ROBINSON:
+Around 20 or so.  
+MADAM PRESIDENT:
+Mr. Robinson, this seems to be a purely administrative exercise.  The registrar has agreed to assist, and so she will collect the documents from you during the break, and we will admit them, with her assistance, immediately after we resume.  
+MR. ROBINSON:
+That's fine, Mr. President.  I think there has to be some oral recitation of the conversion of the ID number -- 
+MR. PRESIDENT:
+Yes.  The registrar will do that for us -- 
+MR. ROBINSON:
+Okay. 
+MR. PRESIDENT:
+We think that that might save time if she collected them from you, organised them in that manner, and then made the announcement immediately on our resumption. 
+MR. ROBINSON:
+Very well.  Thank you.  
+
+Mr. President, I have a couple of other issues I would like to raise with the Trial Chamber.  The first is I want to make a formal motion that the Trial Chamber make an order that a party not state in the presence of the witness factual basis for an objection that might be reasonably used by the witness to formulate his answer in the event that the objection is ruled upon.  
+
+I've asked a few times now about this, and it -- 
+MR. PRESIDENT:
+(Microphones overlapping)...Mr. Robinson, I don't think a formal order is necessary.  I think we all know that that's improper conduct for counsel to do.  Now, I suppose once or twice I have thought that the way counsel approached the situation may have been undesirable.  
+
+The -- the issue which triggered your motion, the issue that occurred yesterday afternoon, I did not think that it fell into that category.  But I think your having made the point, we will assure you that we will be watchful of this matter and try to make certain that it doesn't occur.  But I don't think it's necessary for a formal motion for an obvious point of this nature to be made.  
+MR. ROBINSON:
+Well, I hadn't thought so either, but, to me, the situation keeps recurring.  And I think it's -- it's best that everybody be more cautious in asking that the witness take the headphones off or leave the room before subjecting themselves to that kind of criticism.  But I'll leave it with your discretion at this point.  
+
+And, finally, I would just like to just raise the issue, as the Prosecution is now bringing more witnesses to come this session, that I would like you to again to remind you to make an interim order that would prohibit them from proofing any witnesses.  We've already lost the opportunity on the next two witnesses who are going to testify, and I would like to have at least some interim measures until you've made a ruling on the motion. 
+MR. PRESIDENT:
+Well, we have been considering this matter.  We anticipate that our ruling -- well, we anticipate that it will be during the course of today. 
+MR. ROBINSON:
+Okay.  Thank you very much.  
+MR. PRESIDENT:
+Well, let me not put on the record "today," but we are dealing with it now, and we expect our decision to be out shortly. 
+MR. ROBINSON:
+Very well.  Thank you.  
+MR. MORLEY:
+Your Honour, I'm on my feet at this stage to ask whether or not Mr. Robinson has finished his cross-examination.  Because, if he has, I'm still awaiting the return of some paperwork from the photocopier.  
+MR. PRESIDENT:
+Yes, Mr. Robinson -- 
+
+Good morning, Mr. -- Colonel Claeys, Mr. Witness.  
+THE WITNESS:
+Good morning, Your Honour. 
+MR. PRESIDENT:
+We are now ready to complete.  We are sorry we had such a late start this morning, but there were a few legal issues to resolve before your evidence continued.  
+
+Mr. Robinson. 
+MR. ROBINSON:
+Yes, thank you. 
+
+Colonel Claeys, because we were able to have these documents admitted without showing them to you one by one, I don't have any further questions for you.  But I would like to thank you very much for your service in Rwanda and for your service to this Tribunal.  Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Robinson.  
+
+Yes. 
+MR. MORLEY:
+A confession:  A number of documents which I'm going to propose to use with the colonel in re-examination have been the subject of photocopying.  The difficulty I had this morning was that the printer wasn't working, and we've hooked up to a different printer.  We've got documents printed, and now they're being photocopied.  I wasn't entirely sure whether Mr. Robinson would be going through the exercise we anticipated he would, and in that time these documents would come back to me -- 
+MR. PRESIDENT:
+Mr. Morley, how much time do you need? 
+MR. MORLEY:
+Well, I'm surprised they're not back.  They've been gone for half an hour. 
+MR. ROBINSON:
+Mr. President, we would also need time, since there has been no disclosure of this.  So we would like to have a chance to look at these documents before the redirect commences. 
+MR. MORLEY:
+Some of the documents are new, and -- the exact number I think about five, and other documents are documents that the witness has already seen.  But the problem at the moment is I don't even have my own copies.  My copies have gone to the photocopier.  I apologise for this, Your Honours.  I don't quite know why we haven't had the material back.  It was just a photocopying exercise.  
+MR. PRESIDENT:
+Would 25 minutes be sufficient? 
+MR. MORLEY:
+That would certainly be sufficient for the copies to come back and my learned friends to have a look at them.  
+MR. PRESIDENT:
+Mr. Robinson? 
+MR. ROBINSON:
+Yes, Mr. President, thank you.  
+MR. PRESIDENT:
+And, Mr. Morley, in case Colonel Claeys has to consider whether he needs to make fresh reservations, how long do you anticipate this exercise to last?  
+MR. MORLEY:
+I would hope I will have finished by around lunchtime, certainly before the second -- the break in the afternoon.  Certainly if we start at half past 10 and we run through to half past 12, I think there's a fighting chance we will have succeeded in finishing Colonel Claeys. 
+MR. PRESIDENT:
+Okay.  Well, we will take our midmorning recess now, and we resume at 10:30.
+(Court recessed at 0950H)
+(Pages 1 to 10 by Ann Burum)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1052H) 
+MR. PRESIDENT:
+Are we set to continue?  
+MR. MORLEY: 
+We are, yes.  Thank you.
+MR. PRESIDENT:
+Okay.
+MR. MORLEY:
+I hope Your Honours have copies of two bundles.  One is a bundle of documents Your Honours have already seen being used by the Defence.  I simply put them together into a paginated bundle.  And the other is a bundle of new documents, which I will be offering to the witness, subject to argument, for his comment.  But if I may begin.  
+MR. PRESIDENT:
+You may. 
+MR. MORLEY: 
+Thank you. 
+FRANK CLAEYS (continued),
+RE-EXAMINATION 
+BY MR. MORLEY:
+Q.	Colonel, you've been cross-examined now by three Defence counsel about a number of matters, the primary feature of which has been Turatsinze.  And the basic question which is alive before the Court is whether Turatsinze was reliable.  Do you understand what I've said?  
+A.	Yes, I do. 
+Q.	Did you have confidence in what Turatsinze was saying to you? 
+A.	Yes, until this moment I'm -- I have confidence in what he said. 
+Q.	And why is that?  
+A.	Even with hindsight, it appears that what he brought us was not all available in other documents or sayings that were brought to my attention, and apparently even being for some people only a driver with documents that were brought to my attention during my testimony.  Apparently he had a lot of influence, being able to call in some Interahamwe secteur heads through Radio Mille Collines, which apparently I'm not able to do in my country. 
+Q.	Help the Judges with his manner and his behaviour when he met with you on the ten or so occasions over a period of between 14 and 18 hours.  Describe his behaviour.  Was he nervous, anxious?  Or, describe him as you saw him, please.  
+A.	Yes, indeed his body language didn't show any hesitation, any sign of anxiousity (sic) about what he was telling us -- to us.  It appeared that he had well thought about the steps he was doing in regards to bringing this information to UNAMIR. 
+Q.	In all your meetings with him in which he gave you information, to your knowledge or recollection, did he ever contradict himself and show himself to be inconsistent in what he said? 
+A.	No, I have no recollection about contradictions. 
+Q.	There was a statistic, which famously is recorded in the 11th of January 1994 fax, that there was an ability to kill 1,000 Tutsi in 20 minutes.  What did you make of that statistic? 
+A.	My assessment was that with a described organisation within the préfecture of Kigali city, once orders would have been given to launch the depicted scenario, it would take 20 minutes all over the préfecture of Kigali, and only in Kigali, to be able to kill thousand persons.  I didn't understand -- I didn't understood it as being a scenario that would go on for hours and hours, because I assumed that if this occurred, UNAMIR -- at least UNAMIR would be able to start any operations to put a halt to these happenings. 
+Q.	Can you help Their Honours with your assessment of when Turatsinze described an ability to kill 1,000 Tutsi in 20 minutes?  Was he describing a plan that was calculated would happen or a capability if the circumstances arose?  What was your assessment of what he was saying? 
+A.	My assessment was that this was a capability in case this would occur. 
+Q.	And help Their Honours again with, what was it Turatsinze was saying could be the trigger for that sort of slaughter where the capability existed?  
+A.	To my understanding, the trigger was an order that he would have given when he was ordered from his superiors within the organisation he was belonging to from the MRND, in this case.  And in the other way, it was also a possible event due to the escalation after the demonstrations of the 8th of January.  But that was only one of the possible triggers.  It could have been ordered later on also. 
+Q.	The killing of a thousand in 20 minutes being a capability, what was your assessment of Turatsinze's concerns as to whether the implementation of that capability might be expected? 
+A.	My understanding was that they were still in the process of finalising this capability. 
+Q.	We're all familiar with the idea of doomsday, may happen, may not; Armageddon, may happen, may not.  My question is, from your dealings with Turatsinze, was Turatsinze describing a possibility or a probability in the political circumstances emerging in Rwanda? 
+A.	For me, he was describing a possibility. 
+Q.	And how prepared for doomsday did you assess Turatsinze to be saying the Interahamwe were? 
+MR. ROBINSON: 
+Excuse me, Mr. President, I'd like to impose an objection.  I think that the witness should be required to tell us what Turatsinze said but not to speculate on his assessment of what was said.  Thank you.  
+MR. MORLEY: 
+The difficulty is that, understandably, Colonel Claeys has been cross-examined on the reliability of Turatsinze which begs his opinion on what it was that he was being told by Turatsinze.  So I respectfully submit that whatever weight attaches to the colonel's opinion, it's still an admissible line of questioning. 
+MR. ROBINSON: 
+Mr. -- 
+MR. PRESIDENT:
+I think the line of questioning is appropriate, but I think the question itself does require to be rephrased.  There are a number of pejorative terms, the least of which is "doomsday".  
+MR. MORLEY: 
+I'm sorry if "doomsday" seems pejorative.  I don't mean it that way, but it might be thought that what happened in Rwanda wasn't very different to certain biblical terms.  However, I understand 
+Your Honour's point.  
+BY MR. MORLEY:
+Q.	What I'm trying to drive at, Colonel, is how ready for slaughter did you understand the Interahamwe were from what Turatsinze told you? 
+MR. ROBINSON: 
+Mr. President, again, this is in a realm of speculation.  If he can tell us what Turatsinze told him, then you can decide, yourself, to evaluate that.  
+MR. MORLEY: 
+I'm going to help.  I'm going to move on.  It seems to me that, to some extent, there's a degree of rhetorical questioning. 
+BY MR. MORLEY:
+Q.	It's been suggested to you there was only ever one meeting on the part of General Dallaire with the defendants Ngirumpatse and Nzirorera, who were, respectfully, the MRND president and the MRND general secretary.  One meeting was Dallaire with Booh-Booh, and that is the only meeting.  What is your comment on that, please?  
+A.	As stated before, I have only the recollection of, let's call it, my meeting with the force commander and the two involved persons.  When General Dallaire has written his book, I was not involved.  When Mr. Booh-Booh has reportedly also written a book, he only speaks about this meeting which he attended with the force commander.  I can only recollect from my memory that there was a meeting and that I taped it, and that this was in a certain room in the HQ in UNAMIR, as described in my testimony.  To my understanding, the meeting with the force commander, Mr. Booh-Booh, Dr. Kabia, and the two responsibles from the MRND didn't take place in the HQ of UNAMIR.  So these were two different meetings on two different places, and I have never been aware until testimony about the meeting at the MRND seat before my meeting, as depicted before.  
+Q.	We know from the correspondence from New York that Dallaire and Booh-Booh were encouraged by New York to hold a meeting with, among others, the MRND leadership and from that correspondence, we can see that there appears to have been a meeting, Booh-Booh and Dallaire, at the MRND seat on the 12th of January.  Remind us, what was the reason for your meeting with Dallaire you say the next day? 
+A.	The reason for this meeting was that we then had visited one of the weapons caches earmarked and indicated by Jean-Pierre.  So we had, through the eyes of a UNAMIR officer, an objective, concrete, cross-checked information from the informant.  I think that was the point that the general wanted to put forward to these responsible leaders.  
+MR. MORLEY:
+With Mr. Issa's assistance, please, I have two bundles of documents.  Mr. Issa, being careful, thank you.  Let me see.  Yes, thank you.  
+BY MR. MORLEY:
+Q.	Now, if you might have those documents placed in front of you, you will see there are two bundles.  The first bundle has the title "MRND/Interahamwe" on the front page.  Do you see that? 
+A.	Yes, I have it in front of me. 
+Q.	And to assist you, this consists of documents you have not been shown so far; do you understand? 
+A.	Yes, indeed. 
+Q.	And for ease of reference, we'll simply call that bundle "MRND" bundle.  Do you understand? 
+A.	Yes, I do. 
+Q.	It does not mean that the material is all MRND; I'm simply giving the bundle a name. 
+
+The second bundle begins with a -- is a bundle of documents you've already seen because they were put in front of you by the Defence.  Do you understand?  
+A.	Yes. 
+Q.	And it has a front cover with reference to the sénat de Belgique.  Do you see that?  And for ease of reference, we'll call that the senate bundle; do you understand? 
+A.	Yes. 
+Q.	I want to ask you about Major Hock.  Did you ever meet Major Hock in Rwanda? 
+A.	No. 
+Q.	Was Major Hock, to your knowledge, working in Rwanda at a time toward the end of 1993 and in early 1994? 
+A.	Not to my knowledge. 
+Q.	Do you know where Major Hock was based in late 1993, early 1994?  
+A.	Yes, he was in charge of the so-called Africa desk at the intelligence service. 
+Q.	Where was his desk, literally speaking? 
+A.	In Brussels, Belgium. 
+Q.	Did Major Hock ever meet Turatsinze? 
+A.	No.  
+Q.	If we look at the helpful document produced by counsel for Ngirumpatse in the senate bundle, we see on what is page 2 of the bundle, left-hand side, Major Hock explaining to the senate who he is, and he reports, and I will read in French:  "I am an analyst at the Africa and Middle East desk of the central intelligence service.  I am -- have been the longest one in service -- in active service, and my field of activity is Zaire, Rwanda, and Burundi."  What does SGR stand for, please? 
+A.	SGR stands for Service général des renseignements, general intelligence service. 
+Q.	Thank you.  The enquiry at which Major Hock appeared, conducted by the Belgian senate, was specifically for what reason? 
+A.	First, there had been an internal military investigation about the deaths of the ten paras in Kigali.  As their conclusions were produced, the government was not satisfied with what came out from the military enquiry, and because there was still some fuss in the public opinion, parliamentary enquiry started to look for responsibilities, both in military as in political organisation in Belgium, still on the death of the ten Belgian military. 
+Q.	When you say the enquiry was to look for responsibilities into the ten deaths, was the enquiry to examine whether anybody within the Belgian military contingent might be held accountable for those ten deaths? 
+A.	To my knowledge and opinion, this was not the aim.  The aim was to draw lessons, to avoid this occurrence of incidents in the future.  And the results of this enquiry, to be summarised, was that Belgium wouldn't send any armed force under UN flag anymore to its former colonies. 
+Q.	If we look at page 3, left-hand side of the senate bundle, you will recall there was a section read by counsel for Ngirumpatse about Jean-Pierre, and it is said, second sentence, and I'll read in French:  "If we analyse this person, one notes that in the beginning he -- or to begin with, that he was part of the presidential security services and had an unfortunate reputation.  He was a deserter; therefore, a priori, not reliable.  Do not forget that disinformation exists.  There are people who systematically offer their services for financial advantage or in the hope of obtaining the statute of candidate to be a political refugee." 
+
+Now, Major Hock there seems to be saying that Turatsinze was a deserter.  Was that your understanding?  
+A.	No, it never appeared to me that he had deserted whatever military organisation. 
+Q.	It seems to suggest that he may have been looking for financial reward.  Was that your understanding? 
+A.	No, that was not my understanding. 
+Q.	It seems to suggest he may have been looking for the status of a political refugee.  Was that your understanding? 
+A.	He never used these words.  He was just asking for protection, whatever it could mean to him, was a security for him and his family. 
+Q.	It seems to suggest that Turatsinze was not fiable, which I understand is reliable.  Was that an opinion that Major Hock, do you think, not having met Turatsinze, could properly offer? 
+A.	Yes, indeed, as he apparently -- as he stated, he made analyses, being an intelligence expert, and through the system of analyse and the origins of the informant, in his words, his credibility was very poor. 
+Q.	That appears to be what Major Hock is saying to the senate in 1997 during an enquiry into the ten Belgian deaths.  Was -- has your sense of the reliability of Turatsinze been affected in any way by what Hock said at the senate enquiry? 
+A.	No, it hasn't. 
+Q.	One of the features of the fax of the 11th of January at paragraph 2 is, as you've told us, the general, Dallaire, put in his own language a concern about ten Belgian soldiers being killed.  You'll recall that from the 11th of January fax.  
+A.	Yes, I remember.  
+Q.	Let me correct myself.  The actual words were, "Belgian troops were to be provoked, and if Belgian soldiers resorted to force, a number of them were to be killed and thus guarantee Belgian withdrawal from Rwanda."  You will recall that in the fax, yes? 
+A.	Yes, indeed. 
+Q.	Did that piece of writing in the fax cause, to your knowledge, any difficulty for military personalities when the question of whether or not there might be military responsibility within the Belgian contingent for the loss of the ten soldiers?  
+MR. ROBINSON: 
+Excuse me, Mr. President, I think this is calling for speculation.  He's trying to undermine the credibility of Major Hock by having this witness speculate on his motives or giving the testimony that he did.  I think that's beyond the knowledge of this witness.  
+MR. MORLEY: 
+The question had within it "to your knowledge".  I'm asking the witness whether, to his knowledge, that section of the 11th of January fax, which we've heard evidence was, in fact, a writing or contribution from General Dallaire, may have caused problems with regard to apportioning military responsibility for the later ten deaths.  In my respectful submission, he can answer that question because I'm asking for his knowledge.  
+MR. ROBINSON: 
+Well, Mr. President -- Mr. President, simply phrasing something as "your knowledge" doesn't mean that the witness wouldn't be speculating or wouldn't be giving his opinion.  
+
+But, in any event, I'm also going to object that this goes -- falls beyond what was raised in cross-examination.  
+MR. MORLEY: 
+It doesn't go beyond what was raised in cross-examination because what was raised there was whether Turatsinze was reliable.  This piece of evidence was offered by counsel for Ngirumpatse to suggest that Turatsinze was not reliable, and what we are exploring with the witness is whether or not, in the context of an enquiry three years later into who's to blame for the Belgian deaths, Major Hock may have had reason to downplay the significance of Turatsinze.  
+
+MR. PRESIDENT:
+We think the witness can answer the question.  
+BY MR. MORLEY:
+Q.	To your knowledge, would there have been any reason to downplay the significance of Turatsinze at that senate enquiry?  
+A.	If I understand the question rightly, there was no reason.  The way is -- what was put forward in the fax and later when I was even questioned about that in the senate myself, it was not the security of the Belgian soldiers that we are prevailing in this mission.  So we didn't take this into account to bring this information to New York.  And this was not used later in the enquiry to put any fault towards Belgian military authorities. 
+Q.	Major Hock in 1997, not having met Turatsinze, suggested he was not reliable.  You've told us you found him to be reliable.  Can you help us, who is right?  
+MR. ROBINSON: 
+Mr. President, I don't even think I have to state the reasons for an objection to that question.  
+MR. PRESIDENT:
+It's rhetorical.  
+MR. MORLEY: 
+It's not rhetorical.  I mean, I thought I was going to be asked -- it was going to be said I was cross-examining.  I don't think I am.  I'm asking for the witness to tell us how, on the one hand, there can be an analyst who says he's not reliable and yet this witness, who has met Turatsinze, would say he is reliable.  And Your Honours may want to find how the two positions can -- if they can be reconciled or not.  If you don't want me to deal with the matter, I can move on. 
+MR. PRESIDENT:
+The -- the subject matter is legitimate, but you're asking the witness to say whether his version should be preferred to somebody else's. 
+MR. MORLEY: 
+Yes.  
+MR. PRESIDENT:
+Well, it's unnecessary.  It's an unnecessary question.  
+MR. MORLEY: 
+It's not the biggest point in the world.  I mean, technically, it's probably allowable, but if Your Honours aren't interested, I can move on. 
+MR. PRESIDENT:
+You see, I suppose he could comment on the inconsistencies, but it's obvious what his answer is going to be, so I just thought the question was unnecessary.  But you can ask it if you wish.  
+MR. MORLEY: 
+No, if it's unnecessary, I'll move on.  
+BY MR. MORLEY:
+Q.	Have you met Major Hock since you were in Rwanda? 
+A.	I've seen him one or two times before he was then appointed, to my recollection, in '98 to be defence attaché in Bujumbura, where he only remained for a short time and then left the intelligence service and even withdraw from the armed forces some years later.  He never spoke about this matter with me.  
+Q.	Who, to your knowledge, was supplying Major Hock in Belgium with information about, for example, the Interahamwe and, for example, Turatsinze? 
+A.	Your Honour, I am -- I must say I'm very pleased with this question, because if we go on on the same page with the declarations of -- or the questioning of Major Hock, there's some extra information how he was fed with information.  He's speaking at a certain time on page 3 of a Vincent, which was 
+	Colonel Vincent, head of the cooperation -- military technical cooperation in Rwanda, which, to my knowledge, didn't meet Jean-Pierre.  They are also speaking about different sources, which is the same term as informants, within Rwanda, to feed the desk of Major Hock in Brussels for his analyses.  
+
+At the end of page 3, he's also speaking about the way they were analysing and way of evaluation of the sources.  He was also speaking about -- or he was questioned about the objectivity of the Belgians being too long on the ground and the evaluation of their sources, which is ongoing on the next page. 
+Q.	If you now look at the MRND bundle, at page 2 we see here a report dated the 2nd of February of 1994 which has been compiled by Major Hock, the subject is "Rwanda, the Interahamwe militia" and there is a circulation which includes senior members of the military and the command of the paracommando brigade.  Do you see that? 
+A.	Yes, I see it.  
+Q.	Have you seen this report before?  It is in English at page 2, and we find it in French at page 12.  
+A.	This document has been brought to my attention in a former testimony.  I hadn't seen it before, neither during my stay in Rwanda.  
+Q.	Having had sight of it during former testimony, did you have an opportunity to look at its contents? 
+A.	I remember that some parts were brought to my attention during the cross-examination.  
+Q.	Remind us, Major Hock was doing what sort of work in Belgium?  
+A.	He was head of the Africa desk in the intelligence service and was supposed to produce analysis based on information which were provided to him. 
+Q.	If we look at the document, it begins with an observation.  "There is no doubt that there are currently in Rwanda militia groups which form the armed wing of the extremist Hutus who look back with nostalgia at the former regime and are opposed to the implementation of the Arusha Accords.  These militia groups are linked to the MRND youth wing, a structured group within the former single party of extremist militants belonging to the president's sphere of influence."  Did he get that right? 
+MR. ROBINSON: 
+Excuse me, Mr. President, before we go too far with this exhibit, I'm wondering what is the purpose of these questions, because if they -- they're opening a situation where this document was not offered by the Prosecution during its direct examination, and there's a number of things in this document that constitute new matter that we would want to cross-examine on.  I'm not sure if the point of this is to somehow discredit Major Hock or to corroborate this witness, but I think before we start using the document, we ought to have a clear idea of what it's being used for and how it relates to the cross-examination.  
+MR. MORLEY: 
+The document refers to information -- 
+MS. HOUNKPATIN: 
+Mr. President, I would like to support the comments provided by my learned friend, Counsel Robinson.  I did not stand up at an earlier stage because I am not in the habit of raising objections, but I believe that the way in which my learned friend Mr. Morley is conducting his cross-examination is, in fact, a way of catching up on his initial examination-in-chief, and he is raising the subject attached to documents that we were not aware of.  
+
+Now, these elements that he is now raising is enabling him in so -- to reconduct his examination-in-chief, but I believe that we need to be able to respond to this.  
+MR. MORLEY: 
+Major Hock was put in the picture by my learned friend for Ngirumpatse, and he was offered as a voice to suggest that Turatsinze was unreliable.  This is a document produced by Major Hock, and when one looks at it, there is a plethora of information in this document which relies on the information from Turatsinze.  The document is dated the 2nd of February of 1994, which is three years before the unhappy senate enquiry.  And it's my respectful submission that if Your Honours are to evaluate whether Turatsinze was unreliable, because Major Hock offered that opinion during an enquiry into the ten Belgian deaths, Your Honours need to see what Major Hock wrote and distributed throughout the entire senior brass of the Belgian army in relation to information he had coming back, in large part, from Turatsinze.  
+
+It's my respectful submission this document, of itself, shows that the information being provided by Turatsinze was being used and relied upon for distribution to Belgian senior brass by a senior intelligence officer, not simply an information officer, as this witness, Colonel Claeys, was.  And it puts in perspective the throw-away line during the senate enquiry that Turatsinze may not have been reliable.  
+
+If I can take Your Honours, for example, to page 3 -- 
+MR. PRESIDENT:
+That's not necessary, Mr. Morley.  We will permit the question.  
+MR. MORLEY: 
+Thank you.  
+MR. ROBINSON: 
+Excuse me, Mr. President, if I could just comment briefly on that, I think Mr. Morley has made a good point, but I think that his questions have to be related to information coming from Turatsinze.  The question that he just asked was reading some conclusion or some general introduction and asked, did he get it right.  It's not consistent with the purpose for which he articulated, so I think he should ask a different question on this document and we can proceed. 
+MR. MORLEY: 
+That's a fair point.  
+BY MR. MORLEY:
+Q.	If I can take you to page 3 of the bundle, under the section D, how the Interahamwe operates, the third paragraph from the bottom begins, "One informant is reported to have told UNAMIR that he was an agent in the presidential security apparatus and was placed in charge of military training for the Interahamwe in collaboration with the chief of general staff."  Who was the informant?  
+A.	Was that a question to me?  
+Q.	Sorry, yes.  It's pretty obvious, but we want it on the record.  
+A.	The only possible informant was, of course, Jean-Pierre. 
+Q.	We go on to observe that Major Hock is reporting to the senior brass, "Hence, the Interahamwe are reportedly using training facilities and have the cooperation of RAF instructors."  Now, I would be surprised if that stands for Her Majesty's Royal Air Force, but what is RAF?  We've had RGF referred to in other documents.  
+A.	This is probably a translation.  I should look at the French original text, because Major Hock was French speaking and French writing, and here it's probably Rwandese armed forces.  
+Q.	In French it appears as FAR, and that helps, does it, to show that it was the governmental forces in Rwanda; is that right? 
+A.	Yes, because in those days we were still speaking about the FAR, Forces armeés rwandaises.  It is only due to UNAMIR that we started to use RGF. 
+Q.	The document goes on, "It is reported that their members are therefore receiving basic military training.  Some sources" -- plural -- "talk of 1,300 Interahamwe youths undergoing training in camps outside Kigali, of whom at least 300 are reported to have completed the training since the deployment of UNAMIR.  There are also reportedly at least 800 Interahamwe in and around Kigali." 
+
+Now, we know Turatsinze gave information about numbers of Interahamwe.  You've told us that.  Are you aware of what other sources Major Hock may have had from his independent position?  
+A.	No, because I was not involved in that system, so I was not aware whoever could provide them -- or which sources were brought to his information (unintelligible). 
+Q.	We've observed a moment ago that at the senate enquiry he described having other sources.  How would that happen?  How would there be information going to him from other sources? 
+A.	In every diplomatic mission assisted or not by a military diplomatic mission, it is publicly known that information transits from the diplomatic post back to the capital and vice versa.  It's with hindsight that I learned that the head of the military mission in Rwanda was the point of contact for the intelligence service.  Who they were referring to for information, I do not know, but I suppose, for example, that when the ambassador had been informed through the force commander about the information given by Jean-Pierre, that this responsible man also informed the head of the military mission of Belgium, being Colonel Vincent, and that this man, through his communication channels, informed Major Hock. 
+Q.	If we can continue to look at the document on page 3, referring to the military training, last paragraph, they are reportedly transported in vehicles belonging to ONATRACOM, state public transport service, including at least five buses per day from a pickup point located north of Kanombe."  There's then reference to some camps, Gako, Gikoro, Gishali, Murambi, Nyungwe forest.  And there is information there about how the camps were created, what their coordinates are.  
+
+And it goes on to say, "It is likely that they" -- the Interahamwe -- "are using Rwandan armed forces communication facilities."  That piece of information, did you hear that or something like it from Turatsinze?  
+A.	He didn't report all these camps, but part of them came from him and, of course, the communication he was speaking about in the organisation of his demonstrations.  
+Q.	If we look on page 4, second paragraph, second sentence, it says, "The organisation has reportedly" -- it's referring to the Interahamwe -- "been charged with the task of locating all Tutsi families.  There is talk of planned killings of Tutsis in areas where there are high concentrations.  During demonstrations, the Interahamwe sometimes carry machetes, clubs and stones.  They are also said to be secretly distributing weapons to the population." 
+
+Was that consistent with what you had heard from Turatsinze?  
+A.	Yes, indeed. 
+Q.	On the bottom of page 4 at paragraph F it says, "There are also reports of weapons caches and of weapons distribution.  Little reliable and usable information is available regarding this question."  Taking each sentence in turn, you told us that Turatsinze told you of arms caches; that's right, isn't it? 
+A.	Yes, it is. 
+Q.	From your experience with Turatsinze, was his information about arms caches unreliable or unusable?  
+A.	It was unusable at that point, except the ones we had seen in the MRND seat.  
+Q.	First word, was it unreliable?  
+A.	Not unreliable.  Unusable.  
+Q.	If we go through toward the end of the document, there is an annex 2, at page 10 of the bundle.  
+	Annex 1 is a history of various assassinations or attacks, and annex 2 refers to arms caches.  I'm sorry, pause there for a moment.  Yes, annex -- it's called attachment B, forgive me.  It's on page 11.  
+A.	I have it in front of me. 
+Q.	And do we see there a section entitled "Information Regarding Weapons Caches" and the first item is, "There are reportedly at least four weapons caches in Kigali, the main one being the headquarters of the Interahamwe in the Kimihurura neighbourhood.  Several dozen firearms were seen there by an African member of UNAMIR."  Was that Captain Deme? 
+A.	Yes, it was him, the African member of UNAMIR. 
+Q.	Thank you.  Now, we're still on the question of the reliability of Turatsinze.  When I was asking you questions at first, you were referred to documents that you had had an influence in creating or which you had written yourself.  You will recall my asking you questions some days ago, yes? 
+A.	Yes, I do. 
+Q.	You've been asked a lot of questions about other people's documents, which you yourself have not penned, you'll remember that, during cross-examination.  That's right, isn't it? 
+A.	Yes, it is. 
+Q.	If you go, please, to page 25 in the bundle, you see there a document dated the 13th of February of 1994, marked to the force commander from military information officer, and then there's some handwriting, and there is a title referring in French -- I will read it, "Summary of subversive activities."  Do you know who created this document? 
+A.	This was Captain Deme who created this document. 
+Q.	Have you seen it before, to your recollection? 
+A.	Yes, I have. 
+Q.	Did you see it as part of your duties in Rwanda or did it come to your attention later than that? 
+A.	I've seen this as part of my duty. 
+Q.	Remind Their Honours, please, the relationship between you and Captain Deme? 
+A.	To situate Captain Deme, he was a military observer from the UNOMUR mission that was -- and he was appointed to the headquarters UNAMIR to work together with me in the military information office. 
+Q.	The contents of this document refer to information in respect of the Interahamwe.  If you peruse it for a moment, please.  
+A.	Yes, also. 
+Q.	Can you help with the source of this information? 
+A.	As Captain Deme had been on the ground before me and lived in Kigali in a private house, he was able to meet more Rwandese persons, which were able to provide him with information that was available in the population.  So he saw different persons in different secteurs of the préfecture and made some reports about that.  
+Q.	To assist Their Honours, the information in this report, which you've seen as part of your duties as a military information officer working with Captain Deme, did that information come from Turatsinze or from other people? 
+A.	It didn't come from Turatsinze.  
+Q.	Now, looking at the question of Turatsinze's reliability and whether he can be cross-referenced with other information, if we look at paragraph 1, the document begins by referring to how it is offering information about the Interahamwe.  Is that right? 
+A.	Yes, it is right.  
+Q.	And paragraph 2, and I'll read it my -- I'll tell you what, it's much better, can you read paragraph 2?  I think your French is better than mine.  
+A.	"In March '93, rumours already began concerning the distribution of weapons in communes by the ministry of defence, MINADEF, ministry of defence.  In a written letter, number 1409/06.1.9, 
+	20 April 1993, the ministry of defence, MINADEF, ministry of defence, gave the plan of distribution.  Hence, in the communes of Mutura, Rubavu, Karago, Rwerere, ministry of defence issued 521 rifles and 34,300 cartridges.  Other weapons were already -- were also given by the ministry of defence and the MRND in Bicumbi, Gikomero, and Shyorongi communes." 
+Q.	Was this information from other sources consistent with what you were hearing from Turatsinze? 
+MR. ROBINSON: 
+Excuse me, Mr. President, I'm going to object to this document being used in this way.  This refers to a distribution in March of 1993, almost one year before Turatsinze gave information to UNAMIR.  And the document deals with the whole history of civil defence or distribution of weapons by the Rwandan government.  And if it's going to be questioned, we're going to have to have a re-examine -- recross-examination on these issues.  
+
+So I don't think that it's a fair question to bring in unrelated incidents that happened a year earlier and ask them if it's consistent with the information.  And if you do allow that, I will be asking for opportunity to recross-examination on these issues.  Thank you.  
+MR. MORLEY: 
+I respectfully submit this is obviously relevant, because the thrust of cross-examination from two of my learned friends has been to suggest that Turatsinze's information was unreliable because it was not cross-referenceable.  There is cross-referenceable material in two reports from Captain Deme with which Your Honours can assess Turatsinze's reliability.  
+
+Secondly, as for the distribution of weapons in March 1993, Your Honours will have in mind that the document refers, from the first paragraph, to distribution to the Interahamwe.  And that sets in context how there can be accurately 1,700 Interahamwe in Kigali distributed in cellules 40 strong, as reported by Turatsinze in January 1994.  
+
+What this document does is it helps Your Honours see how the Interahamwe developed as an institution which had distributed to it a large number of arms.  For example, it might be commented, in due course, by my learned friend Mr. Robinson, that 135 weapons distributed throughout Kigali is no big deal, because that is information which was reported by Turatsinze.  But when one then weighs Turatsinze's description of the murder of a thousand in 20 minutes, it is of importance to see the background as it developed from prior to Turatsinze speaking to UNAMIR in January 1994.  
+
+So I respectfully submit that this material is all naturally relevant, because it arises out of a challenge to the reliability of Turatsinze's information.  The comment which will be made, I anticipate, in closing speeches, you can't rely on anything he said, there was no expectation of a slaughter of Tutsis because his information was deficient and it wasn't cross-referenceable, and 135 weapons wouldn't have led to a genocide.  
+
+The picture is bigger than that, and because the cross-examinations by my learned friends have thrown open reliability and there has been examination of this witness with documents which he, the witness, has not prepared, it is open in re-examination and not subject to further cross-examination for the witness to have other documents which he is familiar with, but which I could not lead through the witness because they were not his documents in the first place, in re-examination for him to offer the material which he knows exists within those documents from his work as a UNAMIR military information officer.  
+
+I respectfully submit that this line of questioning is entirely appropriate and when Your Honours see the amount of material which cross-referencing Turatsinze in the two documents which follow from 
+Captain Deme, it may be Your Honours will well understand why Mr. Robinson wants to stop me using these documents.  They show him to be cross-referenceably reliable.  
+MR. ROBINSON: 
+Well, just to follow up that long speech with a very brief comment, Mr. President, the question that I objected to deals with information about activities by the army in March of 1993.  I don't see the link between how that makes Turatsinze reliable, giving information in 1994 about weapons cache by -- by the Interahamwe or the MRND.  If Mr. Morley has something more relevant from this document, I think he should ask it, but this question is objectionable.  Thank you.  
+MR. MORLEY: 
+The material refers to the distribution of weapons to the Interahamwe by the army and the MRND.  It's relevant.  
+MR. PRESIDENT:
+We allow the question.  
+MR. MORLEY: 
+I can't remember what the question was.  I'll move on to the next section of the document.  
+BY MR. MORLEY:
+Q.	If we look at paragraph 4, there's reference there -- let's look at paragraph 3.  There's reference there to 110 guns distributed amongst the commune of Karago, which the population would not return when those guns were sought to be returned by the government.  Do you see that? 
+A.	Yes, I've seen that.  
+Q.	In paragraph 4 -- 
+MR. ROBINSON: 
+Excuse me, Mr. President, I think asking a witness a question whether he sees something in a document and moving on is useless.  I'd ask that that be stricken and there should be no -- if he's not going to use anything from that paragraph, it ought not to be part of the record.
+MR. MORLEY: 
+My learned friend is right.  I mean, it's cured by simply saying, "Is this information consistent with your understanding of the scale to which the Interahamwe were in control of holding on to their weapons?"  
+MR. ROBINSON: 
+Mr. President, excuse me, this is really misleading.  There's is no Interahamwe in Karago.  This is a commune in Gisenyi préfecture.  This weapon -- this is a whole story of distribution of weapons in which the minister of defence then recalled them afterwards has nothing to do with the Interahamwe, and there was no Interahamwe even in this location.  So for Mr. Morley to ask a question like that is very misleading, and I don't think that this paragraph has anything to do with Turatsinze's information or reliability and shouldn't be characterised by Mr. Morley as relating to the Interahamwe.  
+MR. MORLEY: 
+The document begins with paragraph 1 as a description, and I read in French, "We can mention armament and the activities of the Interahamwe militia."  This document is referring to the distribution of weapons to Interahamwe.  My learned friend announcing that there was no Interahamwe in Gisenyi, well, you may want to tell that to the people of Gisenyi, because Your Honours know that there is a plethora of evidence about events that took place with Interahamwe involvement in Gisenyi.  So the short point is all of this material relates to the build-up of armament of the Interahamwe.  
+MR. ROBINSON: 
+Mr. President, I'm sorry.  You know, Mr. Morley doesn't know his case.  There's a whole story about the -- this distribution of weapons in March of 1993 after the attack of the RPF in the area -- Ruhengeri and Gisenyi area.  A decision was taken to distribute arms to some members of the population as part of the civil defence.  When the minister of defence, James Gasana, returned from being abroad and found out about this, he rescinded that decision and asked that Colonel Bagosora and others arrange for the return of these weapons from members of the population.  
+
+This has absolutely nothing whatsoever to do with the Interahamwe.  And if it's necessary, we'll bring evidence to that.  Mr. Morley just doesn't know -- you know, he's making representations that are not -- that are not founded in fact.  And I don't know what he expects this witness to say, but to imply to the witness that this somehow relates to distribution of Interahamwe is actually setting up a wrong foundation for whatever answer the witness will give.  
+
+So, I think Mr. Morley should go to a portion of this document that he can show relates to something that Turatsinze said.  And I note that this didn't take place in Kigali and Turatsinze gave information to this witness about the events of the Interahamwe in Kigali.  So I don't see any link that can be made between this information, which has nothing to do with the Interahamwe, and Turatsinze, and I don't think the question is proper.  Thank you.  
+MR. MORLEY: 
+Well, I look forward to the day that Mr. Robinson steps into the witness box to give evidence.  His description of events in Gisenyi is not accepted by the -- 
+MR. PRESIDENT:
+Please, Mr. Morley, just -- we can't have this back and forth.  The problem is that as the Chamber, we are not in a position at this stage to make any assessments on the accuracy of the factual statements that either of you make.  We have to rely on counsel, who we expect to be functioning with the appropriate professional standards.  
+
+Mr. Morley, if you assure us that this is relevant, we will allow you to examine on this matter, and in due course, we will have an opportunity to make our evaluation. 
+MR. MORLEY: 
+It's relevant, but it's not central.  I don't accept what Mr. Robinson has said about circumstances in Gisenyi.  What I want to do, if I may, is move on to the fourth paragraph.  
+BY MR. MORLEY:
+Q.	Do you see in the fourth paragraph, Colonel, there's a reference to the government hiding heavy armaments in a variety of places?  
+A.	Yes, I see it.  
+Q.	If we look at paragraph 5, can you read the first two sentences, please?  
+A.	"The links between -- between Rwandan government forces and, more particularly, the 
+	Presidential Guard and the MRND, in respect of support is doubtless, is in no way doubted.  The MRND has ample firearms and is arming its members, profusion of firearms, a plethora of firearms."  
+Q.	Thank you.  That's helpful.  
+MR. MORLEY:
+I'm just reflecting on the helpful interpreter.  I did distribute earlier copies of the documents, and I'm wondering whether you, in fact, have copies of the documents in front of you.  
+THE ENGLISH INTERPRETER:
+Yes.  
+MR. MORLEY:
+Thank you.  
+THE ENGLISH INTERPRETER:
+The word in the French is "profusion", "possède des armes à profusion," has many, many firearms.  
+BY MR. MORLEY:
+Q.	If we look a little further down this paragraph, there appears to be reference to Turatsinze's information.  Do you see the sentence beginning "Quatre autres endroits"? 
+A.	Yes, I have it. 
+Q.	Can you read from there to the end of the paragraph, please? 
+A.	"Four other places revealed themselves to be arms -- MRND arms caches, totalling several hundred.  One place has 15 firearms, another 20, and another with more than a hundred.  The hiding places change every six or seven days.  Those arms are often transported by -- in military vehicles or party vehicles or national security vehicles.  The distribution of firearms individually to the Interahamwe began in the first weeks of -- the first week of the month of January.  The arms caches are even in the huts of the displaced persons and refugees from the war.  Incidents occurred in the course of the month of January, (explosions and fires)."   
+Q.	To your recollection, is that information received from Turatsinze? 
+A.	We had heard this kind of information already through Turatsinze, yes. 
+MR. ROBINSON: 
+Excuse me, Mr. President.  I'm not -- very unclear about what we're doing here, because if the exercise was to corroborate Turatsinze with other information, what we have just had is a repeating of Turatsinze's information by an officer who's been present during his debriefings, and I don't see how this is relevant to advancing what were the purported reasons for using this document during re-examination was. 
+MR. MORLEY: 
+It's becomes apparent in the next sentence of the document.  
+BY MR. MORLEY:
+Q.	Paragraph 7, we have Captain Deme reporting some of what Turatsinze said in the context of other information about armaments generally, and at paragraph 7 it begins -- can you read the sentence, please? 
+A.	"In the month of December came the effective confirmation of the training of Interahamwe." 
+Q.	The paragraph goes on, does it not, to identify Kanombe, Bigogwe, Mutara, Bugesera, Gako, and the Nyungwe forest as training points? 
+A.	Yes. 
+Q.	On the face of the paragraph it refers to information in December of 1993.  And remind us, when did you first meet Turatsinze? 
+A.	We met Turatsinze on the 10th of January. 
+Q.	This -- 
+MR. ROBINSON: 
+Excuse me, Mr. President.  
+MR. MORLEY: 
+Mr. Robinson knows what's coming next.  
+MR. ROBINSON: 
+Yes, but I have the right to make an objection now.  
+
+Mr. President, I think this is a very misleading exercise.  In this paragraph, which Mr. Morley is trying to attribute to sources other than Turatsinze, the very same information provided by Turatsinze is included in the training in these places in the forest, 300 people from CDR, which is an exact figure that he gave to Colonel Claeys and Deme, when he was meeting with them, 1,700 Interahamwes are trained.  
+
+So what Mr. Morley is doing is corroborating Turatsinze with Turatsinze, and I don't think that this is a proper exercise in re-examination, and I don't think that he's being accurate when he characterises an entire paragraph in as corroborating Turatsinze when, in fact, it's Turatsinze's own information.  
+MR. SOW: 
+Mr. President, I find it most bizarre, moreover, that in the month of December '93 that information was available and subsequently on the 10th of January 1994.  The information provided by Turatsinze is presented as being fresh, new information that could not be cross-checked.  I think this is a manipulation.  You can't have the information in December '93 and then come on the 
+10th of January '94 to say this is new information that we haven't yet cross-checked.  It smells of manipulation.  
+MR. MORLEY: 
+The observations by my learned friends, particularly Mr. Robinson, amounts to a comment.  A question I have for the witness is, "Was there an independent source of information in December of 1993?"  And what Mr. Robinson is seeking to do is to preempt the answer by saying no, all this information is actually from Turatsinze.  
+JUDGE SHORT: 
+Mr. Morley, this information that you are reading from page 25, what is the source of this information?  
+MR. MORLEY: 
+That is part of my enquiry of the witness.  He's already told Your Honours that Deme had independent sources because he, Deme, had been on the ground for longer than Colonel Claeys had been on the ground.  So Deme was in receipt of other information from other sources over and above and beyond Turatsinze.  
+JUDGE SHORT: 
+You are saying that this information was not provided to Deme by Turatsinze but by people other than Turatsinze; is that your position?  
+MR. MORLEY: 
+On the face of the document, the information was -- in the first sentence there is information which was provided in December of 1993, and that was before anybody knew about Turatsinze.  And going back to the document, I might just mention -- and I'll be corrected if I'm wrong -- I don't recall any document referring to Turatsinze saying there was training in the forest of Nyungwe.  That is reflected in the paragraph that Your Honour is looking at.  And, secondly, looking at the document, it refers to confirmation -- effective confirmation of the training of Interahamwe.  
+
+Now, I want to ask the witness whether there were other sources of information prior to Turatsinze that there was training.  And Your Honours may recall, although it was some time ago, the witness said that they -- there had been the suggestion of training, because Your Honours will recall the evidence, for example, of Colonel Claeys saying he saw the Interahamwe speed marching and in discipline formations.  And, as I recall it, he also said that there was information about training, but it was Turatsinze who, for him, Colonel Claeys, put matters in the sharpest focus.  We're looking at 
+Captain Deme's report, and I want to ask Claeys what he understood was the position regarding information about training prior to meeting Turatsinze.  
+MR. ROBINSON: 
+Mr. President, first of all, if I can correct Mr. Morley, who said that there was no information about training in the forest of Nyungwe, if he looks at the document in his original bundle, at page 25, when Captain Deme and Colonel Claeys met Turatsinze, he told him that Interahamwe were trained in the forest of Nyungwe and Gishwati by Israeli forces.  That's in paragraph 2.  It's my submission that this paragraph contains information that came from Turatsinze, and maybe -- maybe the first sentence is separate from the rest of it, but everything after the first sentence is information that came from Turatsinze.  And so, Mr. Morley is presenting information as corroborating Turatsinze when, in fact, he was the source, and that's not fair.  
+MR. PRESIDENT:
+I think that the matter should be resolved by asking the witness, and then we'll have some evidence upon which we can make a finding.  
+MR. MORLEY: 
+Your Honour, yes.  And may I say, I take Mr. Robinson's point.  He is right.  There was reference to Nyungwe in the document of the 10th of February.  I've seen that.  Thank you.  
+BY MR. MORLEY:
+Q.	So, Witness, you heard all of that.  Was there information going round prior to meeting Turatsinze that there was military training of Interahamwe? 
+A.	Yes, this information was going around about this training.  
+Q.	If we look at paragraph 10 -- no, let's look at paragraph 8.  There is reference in paragraph 8 to an organisation called Inyange, I-N-Y-A-N-G-E.  Did Turatsinze ever mention that organisation to you? 
+A.	Not to my recollection. 
+Q.	Can you read paragraph 8, please? 
+A.	"Within the Interahamwe militia itself, an elite group has emerged, baptised Inyange, and made up of -- of notorious killers and agitators. 
+MR. ROBINSON: 
+Excuse me, Mr. President.  How does this corroborate Turatsinze?  That, I don't -- I'm not understanding it.  What Mr. -- so far, we've been through eight paragraphs of the document; we haven't seen anything to corroborate Turatsinze other than they heard about some training.  I think all that's being done is this document is being put into the record without any legitimate purpose for -- accomplishing any legitimate purpose for re-examination.  So, I don't believe that this question was appropriate, and I ask that all of this material be stricken until we have something relevant from it.  
+MR. MORLEY: 
+Paragraphs 2 and 3 show the distribution of arms.  Paragraph 4 shows how the government was hiding heavy arms.  Paragraph 7 shows how there was information about military training prior to Turatsinze.  Paragraph 8 shows how, within the Interahamwe, there was an elite body of murderers.  It's my respectful submission that that is information not coming from Turatsinze but which supports his concern and reliable concern that the Interahamwe, with army support and government MRND support, were capable of being a murderous band slaughtering Tutsi civilians, and it is -- I hesitate to use the word -- disingenuous for my learned friend to stand up and say there's been nothing in the document independent of Turatsinze.  It's plainly wrong.  
+MR. PRESIDENT:
+Okay, it's 12:30.  How far are you with your re-examination?  
+MR. MORLEY: 
+One hour left.  
+MR. PRESIDENT:
+Okay.  I just want to remind you that this is re-examination.  Now, as I am -- we had mentioned earlier, the -- allowing the cross-examination does not imply -- or, the re-examination does not imply what weight or significance will be attached to it.  We are not in a position at this stage to make any evaluations on the factual statements that have been made.  So we will allow the question now, and in due course, when we come to deliberate, we will determine what, if any, weight to attach to it and whether or not it's worth -- or worthy of consideration in our deliberations.  But as at the moment, we will rely on your assurances, and we will have the preliminary threshold of allowing the testimony to continue on this basis.  
+MR. MORLEY: 
+Thank you, Your Honour.  Before Your Honour rises, can I finish this document?  There's only one other section on it.  
+MR. PRESIDENT:
+Yes.
+BY MR. MORLEY:
+Q.	Colonel Claeys, in paragraph 9 there's a repetition of some information from Turatsinze about, in essence, the demonstration of the 8th of January, but if we look at paragraph 10, there's reference to the discrete carrying of 6.35 millimetre pistols and grenades at political meetings.  Is that information received from Turatsinze? 
+A.	I have no recollection that we got this information from Jean-Pierre Turatsinze.  But if I might help the Court to understand this document, it might bring some help in understanding the document.  The title is "Report on the subversive activity." (Microphones overlapping)...understanding is a summary of all what we had gathered, Captain Deme and myself, until the 13th February, about subversive activities.  
+
+In this light, I think this document is more understandable.  We are putting forward evidences brought to us by Turatsinze and new evidences which were not mentioned in other documents before.  This is a complete document upon the 13th of February, and then, of course, you see document -- or information that we get from Jean-Pierre and other sources.  And it has been drafted in French by Captain Deme, who was a French-speaking African officer. 
+MR. MORLEY: 
+On that note, is this a convenient moment?  
+MR. PRESIDENT:
+Yes.  Yes, we take the luncheon adjournment now.  
+(Court recessed at 1237H) 
+(Pages 11 to 31 by Sherri Knox)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1410H) 
+MR. PRESIDENT:
+Good afternoon. 
+MR. MORLEY:
+May it please Your Honour? 
+MR. PRESIDENT:
+You may continue. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Colonel Claeys, can you now turn to page 29 of the MRND bundle? 
+A.	Is it 25 you said?  
+Q.	29, please.  You will find there a document in French to the force commander, Dallaire, from the military information officer, dated the 22nd of February of 1994 entitled, in French (French spoken).  Do you have that?
+THE FRENCH INTERPRETER:
+Distribution and weapons caches training camps. 
+THE WITNESS:
+Yes. 
+BY MR. MORLEY:
+Q.	Who prepared this document? 
+A.	It is also a document that has been prepared by Captain Deme to my knowledge. 
+Q.	Did you see its contents as part of your duties in Rwanda? 
+A.	Yes, indeed. 
+Q.	While the document identifies material that we have seen in the previous document, the                    13th of February document, what I wish to do is to take your attention to paragraph 6 on page 30.  Paragraph 6 is a long paragraph and I don't propose to simply read it, it would be far too many spelling difficulties.  But the short point is that in the first part of paragraph 6 there is repetition, is there not, that the MRND building is hosting some arms? 
+A.	Yes, that is clear. 
+Q.	And that was information from Turatsinze, is it not? 
+A.	Indeed. 
+Q.	The second paragraph under paragraph 6 refers, in fact, by name to Jean-Pierre Turatsinze; is that not correct? 
+A.	This is correct. 
+Q.	And there is a description which follows of the arms which Turatsinze had identified to you and    Captain Deme over subparagraphs 3 and 4? 
+A.	Yes, indeed. 
+Q.	It is the following information which may be of interest, subparagraph 5 refers to a man called Kabuga, K-A-B-U-G-A, as a well-known Interahamwe and resident of Remera.  And it suggests that he is in possession of 12 rifles of the R4 category and the 9 millimetre pistol.  Is that information received from Turatsinze? 
+A.	No, this came by another source. 
+Q.	Subparagraph 6 refers to a Karegya, K-A-R-E-G-Y-A, said to have a rifle and grenades.  Is that information from Turatsinze? 
+A.	No. 
+Q.	Subparagraph 7 refers to a Mr. Candali, C-A-N-D-A-L-I, said to have a rifle and grenades.  Is that information from Turatsinze? 
+A.	Still not. 
+Q.	Subparagraph 8 refers to a Mr. Kavura, K-A-V-U-R-A, said to have a 9 millimetre pistol and grenades.  Is that information from Turatsinze? 
+A.	No. 
+Q.	Subparagraph 9 refers to a Mr. Ntilivamunda, N-T-I-L-I-V-A-M-U-N-D-A, said to be the director general of MINITRAP, and said to have a stock of arms at his home.  Is that information which came from Turatsinze? 
+A.	No, it isn't. 
+Q.	What is MINITRAP, can you help me? 
+A.	I think it is a private company, but I don't know the origin of the company. 
+Q.	Might it be the ministry of public works; do you know? 
+A.	This is possible if we look at MINI for ministry and then TRA for travel and P for public. 
+Q.	Thank you.  At subparagraph 10 there is a reference to a Mr. Kagibangabo, K-A-G-I-B-A-N-G-A-B-O, said to be part of the Banque Nationale du Rwanda, said to have a stock of arms.  Did that information come from Turatsinze? 
+A.	No, it hasn't. 
+Q.	Subparagraph 11 refers to Mr. Nishyrembere, N-I-S-H-Y-R-E-M-B-E-R-E, said to be the sous-préfet of Kaduha, K-A-D-U-H-A, said to have a stock of arms in his home.  Did that information come from Turatsinze? 
+A.	No. 
+Q.	Subparagraph 12, Mr. Mburanumwe, M-B-U-R-A-N-U-M-W-E, also said to have some arms.  Did that information come from Turatsinze? 
+A.	No, it hasn't. 
+Q.	Do you know what KOPIMAR stands for, K-O-P-I-M-A-R? 
+A.	I have not the slightest idea. 
+Q.	Subparagraph, I think, 13, Mr. Twahirwa T-W-A-H-I-R-W-A.  And I'm asked to read into the record his first name, Seraphin, S-E-R-A-P-H-I-N, Seraphin Twahirwa, from the ministry of public works, said to be the president of the Gicondo Interahamwe, G-I-C-O-N-D-O, said to have a stock of arms at his home.  Did that information come from Turatsinze? 
+A.	No, it didn't. 
+Q.	Subparagraph 14 a Mr. Degal (phonetic),said to be a driver and brother of Twahirwa, Seraphin, and to have a stock of arms.  Did that information come from Mr. Turatsinze? 
+A.	No, it didn't. 
+Q.	Subparagraph 15 a Mr. Gervais, G-E-R-V-I-S (sic), said to be, and I use the French word,             (French spoken) to Joseph Nzirorera, identified as the secretary general of the MRND said to be holding some arms.  Did that information come from Turatsinze? 
+A.	No, it didn't. 
+Q.	What -- can you help me with my schoolboy French -- is the meaning of the word (French spoken)?
+A.	I don't know the real English term but I would say financial advisor. 
+THE ENGLISH INTERPRETER:
+An accountant. 
+MR. MORLEY:
+Grateful to the translators. 
+BY MR. MORLEY:
+Q.	Subparagraph 15, a Mr. Benda, B-E-N-D-A, said to be associate with the MDR Power wing, said to hold some arms.  Did that come from Turatsinze? 
+A.	No, it didn't. 
+Q.	A Mr. Kagimbangabo, K-A-G-I-M-B-A-N-G-A-B-O, préfet of Cyangugu, said to have a stock of arms.  Did that information come from Turatsinze? 
+A.	No, it didn't. 
+Q.	Reference then in subparagraph 18 to the -- and I use the French, (French spoken), said to be in possession of 7 rifles brought at Rukara.  Did that information come from Turatsinze? 
+A.	No. 
+Q.	And can you help me, or perhaps the translators, with what the, (French spoken), means in English, please? 
+A.	It's the director cabinet -- chief of cabinet of the minister of public transport. 
+Q.	And then subparagraph 19 reference to Madam Kamashara, K-A-M-A-S-H-A-R-A, said to be the conseiller of the Kimisagara secteur, K-I-M-I-S-A-G-A-R-A, said to have a cache of arms at her home and in a place 500 metres from her home on the main road.  Did that information come from Turatsinze? 
+A.	No, it didn't. 
+Q.	Do you know where all of the information in relation to those 14 subparagraphs came from? 
+A.	This was brought to our attention by people meeting or being met by Captain Deme. 
+Q.	On page 31 paragraph 7, there is reference to a date, the 20th of January of 1994 it is recorded that orders were given by the general secretary of the MRND to proceed with the distribution of arms to the party militants.  Did that information come from Turatsinze? 
+A.	Not to my recollection. 
+Q.	We are still on the question of whether Turatsinze is cross-referenceable to other sources of information.  I would like you, please, to have a look at the document on page 33 of the MRND bundle? 
+A.	I have it in front of me. 
+Q.	If we look at page 32, it appears that this document is prepared by a Marc Nees, N-E-E-S.  Did you know that person? 
+A.	Yes, I know him. 
+Q.	Who was he to UNAMIR in 1994? 
+A.	He was the intelligence officer of the Belgium battalion within UNAMIR, having its headquarters close to the Méridien. 
+Q.	There follow two documents, that one typewritten, dated the 10th of March of 1994, and over the page, at page 34 of the bundle, there is a handwritten document.  First of all, is this a document from Turatsinze? 
+A.	No, I never received any handwritten or whatever document from Jean-Pierre. 
+Q.	What is this document as a matter of observation, please, page 34? 
+A.	It is a handwritten document in French with some information.  And to my assessment this has been brought to Lieutenant Marc Nees. 
+Q.	Is this the document of an informant or of a member of UNAMIR, to your assessment? 
+MR. ROBINSON: 
+Excuse me, Mr. President, I would like to object to this.  This is the document he has never seen.  It bears no marking of anything and it is just speculation on this witness's part. 
+MS. HOUNKPATIN:
+Mr. President, if you look at page 34 you will find that there is a portion which has been blotted out, or redacted and which shows that we have absolutely no knowledge of the origin of the document. 
+MR. MORLEY:
+That's right, we don't know where the document comes from but we know that it lurks within the UNAMIR Nees file.  And we know that Nees was an intelligence officer.  So what emerges from the document of possible interest concerns.  
+BY MR. MORLEY:
+Q.	Do you recall, Colonel Claeys, in the 11th of January fax there was reference to how Turatsinze reported at paragraph 7, that he "believes the president does not have full control over all elements of his old party/faction."  Do you recall that, in fact, the fax? 
+A.	Yes, I recall that. 
+Q.	If we look at the handwritten document which is then turned into a report at page 33, there is reference at paragraph 3 -- I'm sorry -- no, I'm right.  
+MR. ROBINSON: 
+Excuse me, Mr. Morley.   Mr. President, I've already made an objection to this document being used, I see Mr. Morley is forging ahead.  But perhaps you can make a ruling.  And I point out to you that there is no reference on this document to any -- to Lieutenant Nees.  In fact, the document bears no signature, no markings of UNAMIR.  And if you look closely on the top of the document, there is a fax number from the United States, 17168812758, and then the initials ALD.  And I suggest to you that this is actually a document faxed by Alison Des Forges from Buffalo, New York to somebody.  And I don't think that this is -- there has been a sufficient showing.  All we have is, basically, an anonymous document, unsigned.  And I don't think that this witness can be questioned about an anonymous document.  Thank you. 
+MR. MORLEY:
+Technically, a very good point.  My understanding is that the pages 32 to 34 are the same document.  Page 32 is the cover note, page 33 is the report, page 34 is the handwritten note upon which the report is based.  It is not the biggest point in the world. 
+MR. PRESIDENT:
+Just a minute, this is a criminal trial.  It is really a far reach. 
+MR. MORLEY:
+Well, it is on the face of the KIBAT document.  Now, at an earlier stage it has been my understanding that the UNAMIR documents and KIBAT was part of UNAMIR, they all have a -- a quality of admissibility -- 
+MR. PRESIDENT:
+Yeah, but is this really an UNAMIR document?  
+MR. MORLEY:
+My understanding is, yes.  The same point could be taken with every document we produce.  My learned friend, Mr. Robinson, decides to take a point with this one for the first time.  This document, as I understand it, is a three-page KIBAT report. 
+
+It is not the biggest point in the world, Your Honour.  The only point of the document is that there is reference to unhappiness in the MRND to President Habyarimana in Kampala making certain concessions with regard to the peace accords.  And there is an aside on the part of the reporter -- 
+MS. HOUNKPATIN:
+Mr. President, I would like it to be requested of my learned friend that he not force the issue.  He is trying to present you with a document that is, obviously, a setup.  He does not know where the original manuscript document comes from, that is page 34, and that makes no reference whatsoever to another source.  On page 3 it would appear that the same text appears typed up.  And in the faxed version with the reference ALD, as my learned friend, Counsel Robinson, pointed out.  And on page 42, as a totally independent page, we have UNAMIR KIBAT, where we see the name Marc Nees.  I believe that it is something that has been pieced together.  And I believe that that objection should be upheld, because we do not know what the origin of said document is.  
+
+And I do not believe that we can pass this document off as a UNAMIR document.  This is a manuscript document that has no reference whatsoever and does not provide any identification. 
+MR. ROBINSON: 
+And, Mr. President, if I can just point out that the document submitted by Mr. Nees, all of the ones that we submitted bore his signature and, in fact, were in Flemish.  And I would also point out the absence of any K numbers on this document, which is also a very unusual occurrence.  If, in fact, it was a UNAMIR document it would have been recorded as such by the OTP.  Thank you. 
+MR. MORLEY:
+These are all good points in terms of continuity.  I hope nobody on the other side of the room thinks that I have created this document by piecing together bits and bobs from the office of the OTP.  Insofar as the point is technically made, it is a well made point.  I'm going to move on.  
+BY MR. MORLEY:
+Q.	Colonel Claeys, dealing still with the issue of reliability, you will recall that when you were asked a question by counsel for Ngirumpatse that you were shown the contents of the statements of Turatsinze's wife, whose name I will not read into the record.  But you may recall that you were invited to look at a witness statement, which was dated the 3rd of April 2003, and which can be found at     page 5 of the senate bundle? 
+A.	I have it in front of me. 
+Q.	You will recall that your attention was drawn only to the suggestion that Turatsinze had been merely a driver who got himself involved in some politics.  What I would like to draw your attention to, please, to complete your understanding and for proper context from this statement is to the third paragraph on page 7.  You will recall that what was drawn to your attention was the opening lines of that paragraph.  "How my late husband got involved in politics, particularly the MRND party, although I'm not exactly sure in which year this was."  
+
+My invitations to you is to look a little bit further down and we see a sentence which begins, "he further told me that if" -- do you see that?
+A.	Yes, I can read it. 
+Q.	In fact, I would like to take you to the sentence above it.  It reads, does it not, "My late husband did not come from any of the two warring parties.  And according to what he told me, the party" -- that is the MRND within the context of the paragraph -- "was planning to commit some massacres of people.  He further told me that if he remained within the MRND, it would mean that he would start by killing me and his mother, because I am Tutsi and his mother was Tutsi.  I understood this to mean that the massacres were going to be against the Tutsi population."  Was that consistent with what you understood was Turatsinze's concern when he saw you? 
+A.	This is completely consistent to me. 
+Q.	To complete the picture, counsel for Ngirumpatse helpfully provided us all with also an interview report dated March and July of 2006 of Turatsinze's wife.  And we see that at page 19 of the senate bundle that your attention was not drawn to this document, but we are looking at the extent to which his wife, Turatsinze's wife, contradicts your understanding of Turatsinze's role with the Interahamwe.  
+
+If we look at page 20, do we see paragraph 6, where it says:  "After their installation in Kigali" pausing there that refers to their move to Kigali in 1990.  You can see that is referred to in paragraph 5, "they" being the family.  "After their installation in Kigali, the wife noted that Turatsinze was no longer working the presidency" pause there.  
+
+Paragraph 5, we see that in 1990 Turatsinze's job had been to be a driver of one of the chief intelligence service located at the presidency.  Coming back to paragraph 6:  "He was no longer working with the presidency but with the MRND, and was driving two MRND cars; one white Suzuki and one mini-bus, khaki.  The vehicle that you recall Turatsinze was in possession of when you collected him from the Kigali Night car park, what sort of vehicle was that? 
+A.	To my recollection, it was a white car, sedan type, so four doors.  And it was from a Japanese mark or brand or origin, let's say. 
+Q.	The statement goes on:  "Nevertheless, she does not know" -- and I'm looking at the second item that she does not know, "what were his exact MRND functions and activities."  If she thought he might be a driver and you learned from him certain things, might it make sense that she did not know what his real MRND activities were? 
+MR. ROBINSON: 
+Mr. President, that is a rhetorical question.  I'm going to object. 
+MR. MORLEY:
+Very well. 
+BY MR. MORLEY:
+Q.	If we turn the page to page 21, paragraph 8, second line, do we see it reads there:  "After their installation in Kigali, Turatsinze used to attend MRND meetings in Kigali and elsewhere in the country, and he detained MRND documents"?  Does that seem consistent with him merely being a driver, or is that a rhetorical question? 
+MR. ROBINSON: 
+That is a rhetorical question. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Paragraph ten, just to help Ms. Hounkpatin, do we see there that Turatsinze's wife said:  "From time to time Turatsinze informed his wife that he was going to Mathieu Ngirumpatse's house, located in Kicuciro," K-I-C-U-C-I-R-O.  "And even one day together they paid him a friendly visit."  I won't ask the rhetorical question.  
+MR. ROBINSON: 
+May these last comments by the Prosecutor be stricken then?  If there is no question from it, he is simply reading an inadmissible document into the record. 
+MR. MORLEY:
+Well, I will ask the question, rhetorical or not.
+MR. ROBINSON:
+Well, if it is a rhetorical question, it is objectionable and you are not going to get anywhere.  So it seems if there is a legitimate question to be put to the witness from these paragraphs it should be done; if not, there is no business reading these into the record from an inadmissible document. 
+MR. MORLEY:
+Strictly -- it is not rhetorical, it is obvious what the answer is, but it does not make it rhetorical.  If I ask the witness, "does this information that you have been given seem consistent with him merely being a driver," just because you know what the answer is that is coming doesn't make it a rhetorical question.  So in order to satisfy Mr. Robinson's concerns to put on the record the witness's assessment of what the wife was saying, bearing in mind that is precisely what the witness was asked by counsel for Ngirumpatse, to make an assessment of what the wife was saying, it is a legitimate question, even though the answer is obvious. 
+MR. PRESIDENT:
+Please, the witness can answer the question. 
+BY MR. MORLEY:
+Q.	Short point, does visiting Mr. Ngirumpatse and making a friendly visit with his wife on the face of it seem consistent with him simply being a driver?
+MR. ROBINSON: 
+Really, Mr. President, I object to that,  that's -- that's -- even there -- there is no logical answer to that question, even if there could be -- even if it wasn't rhetorical. 
+MS. HOUNKPATIN:
+Mr. President, I would like to intervene in the discussion at this stage because I am being provoked by Mr. Morley.  It is obvious that the question that I put to the witness was with reference to the post that Turatsinze occupied.  And Turatsinze did say -- Turatsinze's wife said that he was the driver.  However, if the Prosecutor intends to make use of the documents that I used as an introduction in order for the witness to assess the reliability of the information, then it would be up to the Prosecutor to bring, to have appear as a witness, Mrs. Turatsinze.  So I believe that this debate is somewhat premature in view of the fact that the interested party is not, in fact, present. 
+MR. PRESIDENT:
+You see, as I understand the legal principles here, the document has not been admitted into evidence.  And I doubt if there is a basis for it to be admitted into evidence at this stage.  But if a party cross-examines a witness on a document, it allows the other party the right to re-examine the witness on the entirety of the document.  So, I think counsel has got the right to re-examine on the document.  
+
+The particular issue that was being raised was that he wasn't being asked real questions about the document.  And Mr. Morley has the right to examine the witness on the entirety of the document.  But I did agree with Mr. Robinson that that wasn't a real question, there was no logical answer to the question. 
+MR. MORLEY:
+There was a logical answer, it was just a bit obvious, and that was the problem.  
+BY MR. MORLEY:
+Q.	Turning to the witness, if I may.  Do we see at paragraph 11, on page 21 of the document, Turatsinze's wife says, "Turatsinze was also an Interahamwe."  Is that consistent with what you have been told by Turatsinze? 
+A.	Yes, it is consistent. 
+Q.	It goes on at paragraph 12, "Turatsinze had a pistol, she thinks was provided by the MRND."  Was that consistent with what you learned from Turatsinze? 
+A.	He, indeed, had a pistol. 
+Q.	At paragraph 13, it records, according to his wife, "among Turatsinze's documents there were lists of Interahamwe and there are two names off it -- three, a man called Kajuga, a man named Ndayitabi" I'll spell that, N-D-A-Y-I-T-A-B-I "and one Twahirwa, Seraphin," T-W-A-H-I-R-W-A.  Pausing there, the idea that Turatsinze might have lists of Interahamwe, would that be consistent with what you had heard from him? 
+A.	Yes, it does. 
+Q.	Now, this is a rhetorical question.  Is it right that we last saw a reference to the name Twahirwa, Seraphin, in the report of Captain Deme, 22nd of February 1994, bottom of page 30, said to be a man with a stock of arms within his house? 
+MR. ROBINSON: 
+Yes, Mr. President, I object to that and ask that it be -- that statement be made during his closing submission. 
+MR. PRESIDENT:
+Yes, Mr. Morley, my complaint is that we are a panel of judges.  You know, we are a panel of judges.  I mean that evidence was given just a few minutes ago, we do recall it.  It is already ten to three now. 
+
+MR. MORLEY:
+Thank you. 
+BY MR. MORLEY:
+Q.	If I take you, please, to page 33 of the bundle you will recall that this is a document shown to you by my learned friend, I think, Mr. Robinson, an outgoing code cable to Annan from Booh-Booh?
+A.	Yes, it is. 
+Q.	You will see at paragraph 4, on page 33, your attention was drawn to how the RPF were poised to behave badly.  I invite your attention to page 34, paragraph 5.  Just to complete the picture, is there a paragraph there about how the RGF is poised to behave badly? 
+A.	Yes, it is. 
+Q.	If we now go to another document produced, helpfully, by my learned friend Mr. Robinson, an outgoing code cable of the 3rd of February 1994.  There was reference in that from Dallaire to New York about how everybody seemed to be trying very hard to be helpful.  You may recall your attention being drawn to that? 
+A.	I recall it. 
+Q.	Paragraph 8, does it record the words:  "Although the force commander has developed a healthy skepticism of Rwandese bearing gifts, the fact that all of those involved in security matters have today publicly asked for help from UNAMIR to support their efforts in crushing the violence and (unintelligible) in Kigali."  Do you see that paragraph? 
+A.	I do. 
+Q.	Did General Dallaire, to your knowledge, have a healthy skepticism of Rwandese bearing gifts, and if so, why? 
+A.	If I understand the way he is putting it in this sentence, it is the same word, or just the same meaning as promises and then, indeed, he has a healthy skepticism. 
+Q.	Why was the good general skeptical about promises from the various Rwandan parties? 
+A.	Because we are at this point one month later on the swearing-in of the president.  And all of the meetings were -- apparently, goodwill was promised, they didn't come to any substantial result until now. 
+Q.	Was there ever a demonstration, an act, a concrete act that you can tell us about of goodwill being shown by the MRND towards the peace process and the investiture of the new government?  Rather than simply words and saying "hurray", was there ever an act that you recall? 
+MR. ROBINSON: 
+I object, I don't think the witness is able to speak to that. 
+MR. MORLEY:
+Well, the witness can tell us what he knows or doesn't know.  What he can't do is say that if he didn't experience any goodwill act doesn't mean there wasn't one.  But as he was involved in seeking to secure the goodwill, and I'm now specifically talking about the MRND, knowledgeable on his part that there were arms caches associated with the MRND, it might be thought he would have been paying attention to whether there was a positive act, as opposed to words of goodwill.  And whatever answer he gives may be of interest to Your Honours. 
+MR. PRESIDENT:
+I think the witness can answer the question. 
+THE WITNESS:
+I haven't seen any concrete measures.  
+BY MR. MORLEY:
+Q.	Page 37, please.  Mr. Robinson has drawn your attention to what we in the army called a nice piece of KIT, SA7, a SAM, surface to air missile.  Are you familiar with that weapon? 
+A.	Only through pictures. 
+Q.	Can you describe how you use it?  Is it vehicle launched or shoulder launched? 
+A.	This missile is supposed to be launched from shoulder. 
+Q.	Does it make a noise when it is launched? 
+A.	Yes, it makes quite a big noise when it is launched. 
+Q.	Does it generate any light when it is launched? 
+A.	On the backside of the tube when the rocket or the missile is propelled.  And then when it hits the target, normally it should give quite some fire and light. 
+Q.	Obviously when it hits the target, that is the point it is supposed to give some light and fire, but when it is launched, just so it is clear, what is the florescence? 
+A.	I don't know how to express that, but it will not appear or it would be impossible not to observe it. 
+Q.	Thank you.  Page 38, we had some contribution from the head of the gendarmerie,                    Augustin Ndindiliyimana.  Is it right that in his document on page 33, at the end of the first paragraph he does, in fact, say that there was a rumour that on the 8th of January the governmental institutions would be put in place? 
+A.	Yes, this is put in paragraph -- in the first paragraph on this page. 
+Q.	You have been cross-examined to the effect that there was no plan to invest the government on the   8th of January.  Plan or not, did it appear to you that there was a demonstration of people who thought there may be an investiture that day? 
+A.	Yes, indeed. 
+Q.	Finally this, and I'm aware of my time mark, if we look, please, at page 23 of the MR -- I'm sorry, the senate bundle, with some fanfare you were cross-examined in the sense that your attention was drawn to the last paragraph of the United Nations report of late 1993 about how successful Rwanda was going to be, and how everybody was playing fair and trying their best to secure peace.  You recall the lines at the end of the report:  "Thus have Namibia and Cambodia, Rwanda is on the way of becoming another success story of the United Nations peacekeeping operations."  Are you familiar with the expression, famous last words?
+A.	Peacekeeping operations or the complete paragraph?  
+Q.	I was drawing your attention to the last paragraph in the report.  I haven't copied the whole report, but you were cross-examined to the effect that this was a document which shows that everyone, and by implication, MRND, Interahamwe were trying their best to secure peace, because the United Nations' document says everybody was trying hard.  And if one looks at the last paragraph, it says -- do you have it, the last paragraph?  
+A.	Yes, I have it and my attention was brought to it during the cross-examination. 
+Q.	And it simply says, and it is perhaps the saddest line in this sorry tale:  "Thus after Namibia and Cambodia, Rwanda is on the way of becoming another success story of the United Nations' peacekeeping operations."  Now, very simply, do you think that report is all that reliable, given what you know happened and you observed happened in Rwanda after it was written? 
+A.	To my opinion, at the time when it was written, and I don't recall when Mr. Booh-Booh came on the ground, but it was quite some time after the start of the mission, when he sent this report, at that point in time it might have looked that way, but they changed, of course, with the time going on, as we learned later. 
+Q.	And who was the first person to warn you that there was a change coming, last question? 
+A.	Our informant, Jean-Pierre Turatsinze. 
+MR. MORLEY:
+Thank you, Your Honour.  I have no further question of this witness.  I note the time.  I think I was within the hour, because we sat at five past two. 
+MR. PRESIDENT:
+Congratulations. 
+MR. MORLEY:
+I always like to hear that from Your Honour. 
+MR. PRESIDENT:
+Yes. 
+MR. MORLEY:
+There are some documents we need to offer into evidence, but I don't know if we need to detain the witness. 
+MR. PRESIDENT:
+Yes. 
+MR. ROBINSON: 
+Yes, excuse me, Mr. President.  We would need to detain the witness because if some documents are admitted, I feel I would have the right to do some recross-examination on documents being admitted for the first time on re-examination.  So, we need to hear what documents are offered, whether they are admitted.  And then you can -- it is possible that I may make an application for re-examination. 
+
+MR. PRESIDENT:
+Well, perhaps we better do this in order.  We will admit the documents for cross-examination first.  
+Madam Registrar, would you kindly indicate the documents and their exhibit numbers. 
+MS. KOUO:
+Thank you, Mr. President.  
+
+List of Nzirorera documents, previously marked for identification and now admitted into evidence:        ID. NZ32 is admitted as D. NZ221.  ID. NZ33 is admitted as D. NZ222.  ID. NZ34 is admitted as          D. NZ223.  ID. NZ35 is admitted as D. NZ224.  ID. NZ36 is admitted as D. NZ225.  ID. NZ37 is admitted as D. NZ226.  ID. NZ38 is admitted as D. NZ227.  ID. NZ39 is admitted as D. NZ228.   
+ID. NZ40 is admitted as D. NZ229.  ID. NZ41 is admitted as D. NZ230.  ID. NZ42 is admitted as          D. NZ231.  ID. NZ43 is admitted as D. NZ232.  ID. NZ44 is admitted as D. NZ233.  ID. NZ46 is admitted as D. NZ234.  ID. NZ47 is admitted as D. NZ235.  ID. NZ48 is admitted as D. NZ236.  
+ID. NZ49 is admitted as D. NZ237.  ID. NZ52 is admitted as D. NZ238.  ID. NZ53 is admitted as 
+D. NZ239.  And lastly, ID. NZ13 is admitted as D. NZ240.  
+
+Thank you, Mr. President. 
+(Exhibit No. D. NZ221 admitted)
+(Exhibit No. D. NZ222 admitted)
+(Exhibit No. D. NZ223 admitted)
+(Exhibit No. D. NZ224 admitted)
+(Exhibit No. D. NZ225 admitted)
+(Exhibit No. D. NZ226 admitted)
+(Exhibit No. D. NZ227 admitted)
+(Exhibit No. D. NZ228 admitted)
+(Exhibit No. D. NZ229 admitted)
+(Exhibit No. D. NZ230 admitted)
+(Exhibit No. D. NZ231 admitted)
+(Exhibit No. D. NZ232 admitted)
+(Exhibit No. D. NZ233 admitted)
+(Exhibit No. D. NZ234 admitted)
+(Exhibit No. D. NZ235 admitted)
+(Exhibit No. D. NZ236 admitted)
+(Exhibit No. D. NZ237 admitted)
+(Exhibit No. D. NZ238 admitted)
+(Exhibit No. D. NZ239 admitted)
+(Exhibit No. D. NZ240 admitted)
+MR. PRESIDENT:
+Thank you, Madam Registrar.
+
+Yes, Mr. Morley, what are your documents?  
+MR. MORLEY:
+It is -- my application arrives from the re-examination to offer into evidence, firstly, the report of       Major Hock which Your Honour will find is at pages 2 to 24 of the MRND bundle.  In English marked A, in French marked B.  And I'm hoping for the Prosecution exhibit number.  I think we are at 49, am I right? 
+MR. ROBINSON: 
+Before we give it a number, Mr. President, I want to express my objection to this exhibit.  First of all, I would like to note it is not a UNAMIR document, so, therefore, it does not come within your decision.  In fact, it is a document from the Belgian government, a document that this witness has never seen before.  And so there is no -- basically, there is no basis to do anything other than to admit this for identification, or mark it for identification if the Prosecutor thinks that later on he will connect it up with some other witness.  But from the fact that this witness didn't recognise its content and the fact that it is not a UNAMIR document, I think puts it in a category of being marked for identification only.  Thank you. 
+MS. HOUNKPATIN:
+Mr. President, I am going to make the same request just expressed to you on account of the way this document was being introduced.  If it is being put in for identification purposes, then I have no objection. 
+MR. MORLEY:
+It is my respectful submission it is an admissible document, not as evidence of the truth of its contents, to ring that familiar bell, but as evidence of the fact that the Turatsinze information became part of the Belgian army's assessment of the Rwanda Interahamwe position, and that that helps Your Honours when weighing the extent to which the opinion offered by Major Hock at the senate enquiry in 1997 that Turatsinze may have been unreliable is persuasive to Your Honours. 
+MR. PRESIDENT:
+Mr. Morley, what do you make of the circumstance that the senate enquiry document was not admitted into evidence?  So the document that you are introducing to rebut, is not part of our evidential record. 
+MR. MORLEY:
+	The senate enquiry document was not offered into evidence by my learned friend, as I recall it.  However, the information within the document is before the Court, namely, the major expressed a reservation about Turatsinze's reliability.  And in those circumstances, it may be of assistance to     Your Honours to know, and to be able to peruse a comprehensive document which relies in significant part, on the Turatsinze information, then dated the 2nd of February 1994.  So senate enquiry, not in evidence, not asked for, information is on the document, allows Your Honours to weigh what is in evidence through the questions of Mr. -- or Colonel Claeys. 
+MR. ROBINSON: 
+And Mr. President -- excuse me, Mr. President, this is no different than some 40-some-odd documents that have been marked for identification, when the witness didn't know the content of the document.  So, yes, it would be of assistance to you.  And if you find that you want to admit anything that is of assistance to you in evidence, you can admit this document and all of my ID documents, as well.  Add then everything that might possibly be of assistance to you can be admitted.  But if we are going to follow the rules that you have established, then this document does not qualify for admission. 
+MR. MORLEY:
+But the problem here is that Mr. Robinson says Colonel Claeys has had no knowledge of the document.  He told us that he was cross-examined on it in previous testimony.  He is familiar with its contents.  It is not right entirely to say that he doesn't know what it is.  And, secondly, he, Colonel Claeys, has -- and I use the term strictly legally -- adopted portions of its content as being reflective of what it is he,   Colonel Claeys, knew and could agree with the accuracy of the material recorded in the document.  So the document has had a measure of adoption and it is not unknown to the witness. 
+MR. PRESIDENT:
+Mr. Morley, what are the other documents that you wish to put in?  
+MR. MORLEY:
+I'm not going to try to put in the witness statements of Turatsinze's wife.  I think that helps my learned friends who are, no doubt, holding their breath.  
+
+The next document that I would offer is at page 25 of the MRND bundle, dated the 13th of February, the note from Captain Deme, which shows information which originates from other sources, while cross-referencing Turatsinze. 
+MR. PRESIDENT:
+Mr. Morley, how many documents do you intend to offer?
+MR. MORLEY:
+Not many. 
+MR. PRESIDENT:
+How many?  What I am proposing, actually, is that we take the mid-afternoon recess now. 
+MR. MORLEY:
+There is only one other. 
+MR. PRESIDENT:
+All right.  
+MR. MORLEY:
+I have Your Honours' similar aversion to too much paperwork.  
+
+The only other document is the 22nd of February, French document, at page 29 of the bundle from Captain Deme.  May I mention before Your Honour does rise, if that is what -- in the -- 
+MR. PRESIDENT:
+You see, the Captain Deme documents are in a particular category.  These two documents, the UNAMIR documents, I don't anticipate that there is any objection to their admission.  Is that correct?  
+MR. ROBINSON: 
+That is correct, Mr. President, but I do believe I am entitled to cross-examine if they are admitted. 
+MR. PRESIDENT:
+All right, I understand that.  
+MR. MORLEY:
+Thank you.  Now, the only remaining thought to offer Your Honour is that it may be that although I am trying to offer the Hock report through the witness, as having, to some extent, adopted it, of itself it is indistinguishable from the UNAMIR document because it is generated by the UNAMIR mission.  This is material that the witness has told you that has been produced as a result of communication to the Belgian command from the UNAMIR Belgium contingent.  And in consequence, it has a measure of contemporaneousness to it, which allows Your Honours to peruse the way in which the information from Turatsinze was being assessed at the relevant time.  So, effectively, it is admissible under the same principles that my learned friend Mr. Robinson has offered for admitting all of his documents a few minutes ago. 
+MR. PRESIDENT:
+Mr. Robinson, the issue is that you intend to address, if you are granted the opportunity to further cross-examine, what is -- what are they and what is the duration of your anticipated examination. 
+MR. ROBINSON: 
+I think the duration would be ten or 15 minutes.  And I would like to answer your first question outside of the presence of the witness.  
+MR. PRESIDENT:
+We are thinking of taking the mid-afternoon recess now, but it might be useful just to hear what you intend to examine the witness on, first.  
+
+And so we would excuse you now, Mr. Witness, and you return at the end of our mid-afternoon recess. 
+(Witness exited courtroom)
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Yes, Mr. President, what I would propose to do with respect to these two documents is to try to parse which information came from Turatsinze and which information came from other sources.  I believe the bulk of it came from Turatsinze.  And with respect to the second document, I want to ask whether or not it was ever verified that any of these people listed in the document, in fact, had weapons or was it simply just another piece of information, something along those lines. 
+MR. PRESIDENT:
+Okay.  Okay, we will take our mid-afternoon recess now. 
+(Court recessed at 1525H)
+(Pages 32 to 48 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1550H) 
+MR. PRESIDENT:
+We have decided to admit the two UNAMIR documents prepared by Captain Deme. 
+
+Madam Registrar, what's the number?  
+MS. KOUO:
+P. 49 and P. 50. 
+(Exhibit No. P. 49 admitted) 
+(Exhibit No. P. 50 admitted) 
+MR. PRESIDENT:
+With regard to the Hock report, we have reserved a decision on that. 
+MR. MORLEY:
+Might it make sense to give it a marked-for-identification number for the moment?  
+MR. PRESIDENT:
+Yes.  
+
+Madam Registrar. 
+MS. KOUO:
+P. ID. 4. 
+MR. MORLEY:
+Thank you. 
+MR. PRESIDENT:
+Thank you.  Marked for identification. 
+(Exhibit No. P. ID. 4, marked for identification) 
+MR. PRESIDENT:
+Now, Mr. Witness, we have given permission to Mr. Robinson to ask you a few questions on the two Deme reports which we have admitted into evidence. 
+
+Mr. Robinson. 
+MR. ROBINSON:
+Thank you, Mr. President. 
+RECROSS-EXAMINATION 
+BY MR. ROBINSON:
+Q.	I think I wished you good luck a little prematurely, Colonel Claeys, but I don't think this will take too long.  
+
+Do you have in front of you what Mr. Morley referred to as the MRND packet? 
+A.	It's in front of me now. 
+Q.	Okay.  Thank you.  And if you could turn to page 25, this is the first of the reports, 13th of February.  And you see on paragraph two and three it makes reference to some correspondence and decisions within the ministry of defence concerning distribution of arms in 1993, correct? 
+A.	That is correct. 
+Q.	And turning to page 29, the second report, paragraphs one through four make reference to the same topic, correct? 
+A.	This is the same topic, yes. 
+Q.	And I want to ask you some questions about the extent to which this information is corroborative of information you received from Turatsinze.  So my first question is, do you have any information that the MRND had anything to do with the distribution of arms in 1993, in March or April '93, as reflected in this -- these paragraphs? 
+A.	To my opinion, yes, because we made report -- or, Captain Deme made this report.  In both document it was a summary of what had happened in the past, and we made a complete survey about what happened, starting in '93, to understand the situation, where we were at that point in time on the 
+	13th and on the 22nd of February. 
+Q.	Yes, I understand that.  But I'm asking you whether you had information -- there's definitely information about distribution of weapons through the ministry of defence, but my question is whether you had any information that it was -- that this involved the MRND, these distributions going back in 1993, 
+	March and April.  
+A.	If I read the first paragraph of the second document you are referring to, yes. 
+Q.	And do you have information that these weapons were distributed to Interahamwe in 
+	March or April 1993? 
+A.	Again, yes, referring to this first paragraph on the second document. 
+Q.	Okay.  Well, let's -- you see the third paragraph refers to a letter of the prime minister requesting that the arms that had been distributed be returned, correct? 
+A.	Yes, that is clear. 
+Q.	And that's a letter of the 25th of March 1993? 
+A.	Indeed. 
+Q.	And it's indicated as number 202 slash 02.3.5, correct? 
+A.	Yes. 
+Q.	Okay.  I'd like to have you shown that letter.  
+MR. ROBINSON:
+I have a copy of it, and if the registrar could be asked to distribute copies to the parties as well.  
+THE ENGLISH INTERPRETER:
+Message from the English booth:  Could the interpreters possibly have access to that letter as well, please.  
+BY MR. ROBINSON:
+Q.	Colonel Claeys, did you receive your copy of this exhibit yet? 
+A.	Not yet. 
+Q.	No?  You should have been the first one to get it and you're the last.  So if that could be done.  
+
+Now, this is a letter that purports to have been signed by Prime Minister Dismas Nsengiyaremye -- that's N-S-E-N-G-I-Y-A-R-E-M-Y-E -- the prime minister, directed to the minister of defence concerning the illegal distribution of arms to the civilian population.  And I'm wondering if you can help us, since it's a short letter, if you could slowly read the letter in French so those Anglophones here can understand its contents.  
+A.	"Subject:  Illegal distribution of weapons to the civilian population.  Minister of defence.  In its session dated the 10th of March 1993, the council of ministers decided to immediately retrieve all weapons illegally distributed over the last few days to the civilian population in specific communes of the country and has given you the mission of implementing the decision.  
+
+"At the moment in time when the decision should have been implemented, the préfectoral -- the 
+Gisenyi préfecture security council that met on the 15th of March 1993, chaired by the préfet, the interim préfet of this préfecture, and also addressed to the bourgmestres of Mutura, Rubavu, Karago, Rwerere, Nyamyumba, and Kayove communes, recommended to extend the distribution of weapons to all the communes of Gisenyi, of which four are already in possession of weapons, that is, Mutura, in brackets, 130; Rubavu, in brackets, 151; Karago, in brackets, 100; and Rwerere, in brackets, 130.  
+
+"I would request that you implement the decision of the council of ministers and immediately retrieve all the weapons that are already being illegally distributed to the civilian population of all the communes of Gisenyi préfecture and from all the communes of the préfectures within the country.  You will then formally forbid any further distribution and will make sure that this instruction is implemented.  You will then report to me on this subject before the date of the 31st of March 1993."  
+
+And sent copies to the president of the republic and on all the ministers.  
+BY MR. ROBINSON:
+Q.	Thank you very much, Colonel Claeys.  
+MR. ROBINSON:
+Mr. President, I would offer this as Exhibit D. NZ41 (sic).  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. D. NZ241 admitted)
+ 
+MR. ROBINSON:
+241, 241.  I may have misspoken.  Thank you. 
+BY MR. ROBINSON:
+Q.	Now, Colonel Claeys, can -- do you agree that what is being discussed here is a distribution of arms to the civilian population?  Correct? 
+A.	Yes. 
+Q.	And there's no mention made of distribution of arms to Interahamwe or to the involvement of any political party, including the MRND, in the distribution of arms, correct? 
+A.	That is correct. 
+Q.	And, in fact, it seems to be that the distribution of arms was recommended or discussed by the communal authorities, the bourgmestres in -- within Gisenyi préfecture, correct? 
+A.	Yes. 
+Q.	And did you know that Dr. Dismas Nsengiyaremye, the prime minister, was a member of the 
+	MDR party? 
+A.	Probably I knew that in those days, yes. 
+Q.	And would you agree that, if the MDR party or the prime minister had information that this distribution of arms had been involved in the MRND or the Interahamwe, they would have been motivated to make that claim, given that they were an opposition party to the MRND? 
+A.	That's a possibility, yes. 
+MR. ROBINSON:
+Now, Mr. President, I have one more document.  I have to apologise.  I made this -- copies of this document on very short notice, and the copier jammed.  So I only made seven copies, so if we -- I'm not going to have it read verbatim, so if we could distribute the copies, at least to the parties and the interpreting booth, I'd appreciate it.  So if the registrar could collect these from me.  And I'll try to read very slowly in case not everyone gets a copy.  
+
+And, Mr. President, I'll indicate that I have an English version, and it's apparently a translation of the document because on the bottom of it there's a K-number given for another version, which was either in French or Kinyarwandan.  But in the short time it was available to me, I didn't have time to find to see if I had the other version.  So what we're working from is a translation into English of this document by the language section at the request of the Prosecutor.  And there's a K-number on both the document and on the bottom, indicating that the original and the translation have been done and provided to us through the Prosecution.  
+BY MR. ROBINSON:
+Q.	Colonel Claeys, what's been placed in front of you is a meeting of the -- is minutes of a security council meeting on the 24th of March 1993.  That's the day before this letter written by the prime minister.  And it's, I suggest, a meeting of the security council of the préfecture of Byumba and indicating in number B among the participants being Augustin Bizimana, the préfet at that time in Byumba.  
+
+And I just want to direct your attention to the third -- to the third page of this, which is actually page 4, and number two talks about civilian self-defence training programme.  And it indicates that "We have received 300 weapons from the ministry of defence."  
+
+Let me say that again because I think there was a mistranslation.  
+
+"We have received 300 weapons from the ministry of defence and have distributed them to the communes of Murambi; Bwisige, B-W-I-S-I-G-E; Ngarama, N-G-A-R-A-M-A; Gituza, G-I-T-U-Z-A; Kinyami, K-I-N-Y-A-M-I; Rutare, R-U-T-A-R-E; Kibal, K-I-B-A-L; Buroga, B-U-R-O-G-A.  
+
+"Part of the population received training from communal policemen supported by soldiers from Ops Byumba.  Each secteur and cellule should ensure its own safety as there are insufficient numbers of policemen."  
+
+And it goes on to say that "Approximately a thousand peasants have been trained, but the weapons have just been withdrawn following a government decision.  Indeed, some communes had not followed préfecture instructions with respect to weapons distributions to the population.  The basic premise was to reinforce the communal police in the secteurs and cellules.  The idea was misinterpreted.  The ministry of interior and communal development, through its communal police, is willing to assist the communes in reinforcing the communal police with well-organised civilians, well trained in weapons handling."  
+
+And then there's a handwritten comment, "Weapons handling training for civilians."  
+
+Now, first of all, Colonel Claeys, are you familiar with where Byumba is in Rwanda? 
+A.	Yes, I am. 
+Q.	And was that along the border where the RPF was attacking -- or, was involved in -- in the civil war? 
+A.	At a certain point in the war between RPF and the RGF, Byumba had been taken over by RPF, but they had to withdraw.  And at the time we were in Rwanda with UNAMIR, there was a buffer zone, the DMZ, between the front line south at Byumba, north of Byumba; and, at a certain distance, another front line at the north of the DMZ where RPF positions were earmarked and monitored, to my knowledge, by UNOMUR.  
+Q.	And would you agree from the minutes of the security council meeting in March of 1993 that it appeared that, at least in Byumba, the weapons had been received from the ministry of defence and distributed to members of the population and that the people who had been trained are described as peasants? 
+A.	Yes. 
+Q.	And would you also agree that there's no reference to any involvement of the MRND and the Interahamwe in this distribution of weapons in March of 1993?  Correct? 
+A.	There is no mention of Interahamwe, indeed. 
+MR. ROBINSON:
+And, Mr. President, I would ask that this document be admitted as D. NZ242, and I'll try to find another -- a language -- the other version and advise the Trial Chamber.  
+MR. MORLEY:
+It may be there's one rule for Mr. Robinson and a different one for me.  The witness has simply been asked to confirm what's in the document, and he's not, on the face of it, been asked to confirm whether its contents, to his knowledge, are or are not true.  And it's my respectful submission this is plainly a document to be marked for identification.  
+
+He, the witness, firstly, cannot speak to whether it's a correct document, and, secondly, he hasn't actually been asked that.  He's simply been asked to confirm that on the face of the document there's no reference to the Interahamwe, there's no reference to the MRND, there is a reference to peasants, and he's simply been told that it's an English translation of a security council meeting.  It's to be marked for identification, I respectfully submit. 
+MR. ROBINSON:
+Yes, Mr. President.  I don't have any problem with that.  I offered it for admission.  If there's an objection to it, I think Mr. Morley's correct and it's -- should be marked for identification.  So I would mark it as ID. NZ59, with your permission. 
+MR. PRESIDENT:
+It will be marked for identification. 
+(Exhibit No. ID. NZ59, marked for identification) 
+BY MR. ROBINSON:
+Q.	Now, Colonel Claeys, returning to the two documents that you identified as having been prepared by Colonel Deme (sic), going back to page 25, the first report on the 13th of February 1994, we've talked about paragraphs one, two, and three, but I want to direct your attention to paragraph four, which talks about arms that the government had apparently placed around the country.  Do you know what the source of that information was? 
+A.	I can't say precisely who was the source or what source, but we were informed through our meetings, as I explained in the beginning of my testimony, with people in the population living in Kigali.  So we gathered it wherever we would collect information, and this was put in the summary.  
+Q.	And did this information concern the Interahamwe in paragraph four? 
+A.	I -- I can read that two times, that a member of the MRND and with the civilian member of the MRND. 
+Q.	And were all members of the MRND members of the Interahamwe? 
+A.	We were never informed how the distinction, except by clothing, was made possible. 
+Q.	Were you informed that the Interahamwe was the youth wing of the MRND? 
+A.	This was our initial understanding of it, yes. 
+Q.	Now, if we could turn to paragraph number five, can you tell us who was the source of information for that paragraph? 
+A.	As I stated before the lunch recess, this was a summary of different informations.  And what is written here in paragraph five, for me, is mainly information coming from our informant.  The only new item that is included in this paragraph are the last sentence, or two sentences, where we speak about huts and refugees, or places where refugees live where also apparently weapons are stored.  
+Q.	Now, looking at paragraph seven, I guess there is no paragraph six, can you tell us what the source of that information was? 
+A.	This is clearly the information from Jean-Pierre. 
+Q.	Okay.  And then paragraph eight, do you know what the source of that information was? 
+A.	No, I have no idea. 
+Q.	And what about paragraph nine? 
+A.	It's a reformulation of the information we got from Jean-Pierre. 
+Q.	And paragraph ten? 
+A.	This didn't come from Jean-Pierre. 
+Q.	Do you know what the source was? 
+A.	Not to my knowledge now, no. 
+Q.	And paragraph 11? 
+A.	These were all the incidents that happened and that we were aware about due in time because they were reported in the local press at every moment.  So we just kept an -- or, kept records of them.  And there was hearsaying, as I said, two different talks, that there was a connection with the involved parties, MRND, CDR, and Interahamwe, if you would consider Interahamwe as a party.  
+Q.	And the first place listed under that 17, 18 November, Nakumba (phonetic), do you know where Nakumba (phonetic) is? 
+A.	Not by recollection. 
+Q.	Do you remember an incident that occurred on around the 17th, 18th November 1993 in which MRND officeholders who had been elected in the demilitarised zone had been assassinated? 
+A.	I don't recall it, no. 
+Q.	But I -- I'm sure you do recall killings in the demilitarised zone because the UNAMIR launched some big investigation and which apparently never came to a conclusion; do you recall that? 
+A.	Yes, I recall that. 
+Q.	And those investigations never determined that the Interahamwe were responsible for that incident, correct? 
+A.	I can't confirm that.  I haven't read any conclusions about it. 
+Q.	Okay.  Now, turning to paragraph 12, can you tell us what was the source of that information? 
+A.	Not to my recollection -- 
+Q.	So you don't -- 
+A.	-- but it was not Jean-Pierre. 
+Q.	Okay.  But you don't know the source?  It's talking about a press conference held by the RPF at the Hotel Diplomat.  Do you recall anything about that press conference? 
+A.	To my recollection, Hotel Diplomat was often used for press conferences, so it must have been one amongst others. 
+Q.	Now, then, turning to paragraph 13, do you know the source of that -- the information in that paragraph? 
+A.	I remember that Jean-Pierre gave some information about that, but the precise figures that are written in paragraph 13 didn't come from Jean-Pierre. 
+Q.	Are you sure about that? 
+A.	To my recollection, yes.  Jean-Pierre just spoke about it in general terms.  
+Q.	If you could be shown the packet of information that was originally prepared by Mr. Morley in his direct examination, and I'm going to ask you to look at the report you made of the 10th of February 1994 of your interview with Turatsinze.  You'll find it on page 25 of that packet.  
+
+And direct your attention to paragraph two.  You see that -- 
+A.	Yes. 
+Q.	-- he provided you the precise number of 122 people trained by the Israelis, correct? 
+A.	Yes.  Okay.  So it was also from Jean-Pierre, then. 
+Q.	Verbatim, right? 
+A.	Yeah. 
+Q.	Okay.  And then paragraph 14, can you tell us what the source of that was? 
+A.	It was not Jean-Pierre, anyway, although, yes, it's also in this report of the 10th of February.  
+Q.	So it was Jean-Pierre the source of -- 
+A.	Yeah. 
+Q.	-- 14, correct? 
+
+Okay.  And 15, do you know who the source was for that? 
+A.	To my knowledge, not from Jean-Pierre. 
+Q.	Jean-Pierre did speak of the grenade attack on Major Kamanzi, did he not? 
+A.	He spoke about it.  And I visited the place to see if we could find any pieces of evidence by the grenade being used, but it was impossible. 
+Q.	But did -- didn't Jean-Pierre tell you that the MRND was responsible for the attack, the grenade attack on Colonel Kamanzi -- Major? 
+A.	If it is in one of my reports, yes.  And, as I stated, this is a summary of all the incidents.  So part of it is from Jean-Pierre and others -- and other sources. 
+Q.	Okay.  But I'm going to suggest to you that the entirety of paragraph 15 is from Jean-Pierre.  And I think if you looked at paragraph five of your report of the 10th of February, you'll find all of that information came from Jean-Pierre.  
+A.	Okay.  As I said, it's a summary.  We haven't taken the complete paragraph to bring it back in this summary.
+Q.	But all the information in paragraph 15 came from Jean-Pierre, right, because you can tell that by looking at your own paragraph five, correct? 
+A.	Yes. 
+Q.	Okay.  
+A.	"Sixty weapons in this compound," yes. 
+Q.	The date, the number of weapons -- 
+A.	Yeah. 
+Q.	-- it's the same, right?  
+
+Okay.  Now, number 16, do you know where that came from? 
+A.	Not -- not from Jean-Pierre this time. 
+Q.	Okay.  Do you know the source of that? 
+A.	Probably somebody we met, yes. 
+Q.	Okay.  And it doesn't deal with weapons or training but with the fact that people are the beneficiary of protection from governmental personalities and aren't being prosecuted, correct? 
+A.	Yes. 
+Q.	And then paragraph number 17, do you know where that information came from? 
+A.	I think this was even related in the local press.  I needed no informant for this information.  
+Q.	Okay.  And what about number 18? 
+A.	It's reference to a list that we were given, and it's probably the list that's in -- referred to in the next document -- 
+Q.	Well -- 
+A.	-- but it didn't come from Jean-Pierre. 
+Q.	Okay.  Jean-Pierre did talk to you about the escadrons de la mort, or the Death Squad, on the 
+	17th of February, didn't he? 
+A.	Yes, indeed.  
+(Pages 49 to 57 by Ann Burum)
+
+
+
+
+
+1630H 
+BY MR. ROBINSON:
+Q.	And do you know who provided any other information to you about that, or was that also something that was picked up from public -- publications? 
+A.	To my recollection, there was a Belgian journalist, Colette Braekman, who had -- at that point in time was writing articles about the squadrons and the reseau zéro, like she called it.  
+Q.	Okay.  And then as to paragraph 19, do you know what the source of information for that was? 
+A.	It was not Jean-Pierre. 
+Q.	Was that also -- 
+A.	It was the conseiller who brought this to us. 
+Q.	Was it also something that was in the public domain? 
+A.	Not to my knowledge. 
+Q.	In any event, it didn't deal with weapons distribution or training, did it? 
+A.	No. 
+Q.	Okay.  Now, if we could look at the second document, your second report, which is on page 29, and we have already covered the materials in paragraphs 1 through 4, but turning to paragraph 5, can you tell us what your -- what was the source of information for that? 
+A.	It didn't come from Jean-Pierre. 
+Q.	Do you know what the source is? 
+A.	Not to my recollection. 
+Q.	Now, paragraph 5 is the same as paragraph 4 in the previous document, so we'll skip over that.  
+A.	Mm-hmm. 
+Q.	We'll go to paragraph 6.  Can you tell me what was the source of that paragraph? 
+A.	It was not Jean-Pierre. 
+Q.	Well, let's see if we can break that up.  The first paragraph I -- it was my impression when you testified in answer to Mr. Morley's question that within six, the first four paragraphs were information -- or, at least, maybe the first three paragraphs were information you received from Jean-Pierre; is that correct? 
+A.	I wouldn't say it that way.  It was information that was brought by another source and that we put on the file, and the first one that was written on this list was also speaking about -- or the first four were speaking about the different places that had been earmarked before. 
+Q.	Well, can you just read the first paragraph of number 6 so we can have the English translation? 
+A.	Immediately after number 6?  
+Q.	Yes, just "the last siege to MRND," if you could start with that, just that first paragraph.  
+A.	"The headquarters of the MRND, whose building belongs to the chief of staff of the gendarmerie, is full of arms, full of weapons, more than 50 weapons, AK-47, FAL, and G3, as well as sealed ammunition crates. 
+Q.	Can we agree that that's the information that you received from Jean-Pierre, as confirmed by 
+	Captain Deme, when he went on the 12th and saw that? 
+A.	In great length, yes, but I have never spoken about ammunition. 
+Q.	I thought you testified that Captain Deme had observed, in addition to these 50 weapons, some boxes of ammunition.
+A.	Then I should read the fax to be clear about that, but I'm not sure. 
+Q.	I'm not sure either, actually, but why don't you look at the fax and -- we can both look at it, but that was my recollection.  I think if you look at the fax on page 17, which is the fax of the 12th of January, and paragraph 8.  
+A.	Okay, yeah. 
+Q.	Do you see where it says about 50 rifles of AK-47 -- 
+A.	(Microphones overlapping)... yeah. 
+Q.	It's the same exact information, isn't it? 
+A.	Okay.  
+Q.	Okay.  So looking at the second paragraph of number 6 at -- where it talks about at Kanombe by the airport that Jean-Pierre Turatsinze is in possession of arms of the same type, where do you suppose that information came from? 
+A.	Well, it is earmarking of the places that he has indicated to us, so as I said, he earmarked his own house at Kanombe. 
+Q.	Okay.  And Kimihurura, the next paragraph -- 
+A.	Mm-hmm. 
+Q.	-- did he -- isn't that also some information he gave you? 
+A.	Yes, these are the exact locations, to my recollection.  I should look on the map of Kigali to see if it is this place, but yeah. 
+Q.	And Kacyiru also probably refers to information provided by Jean-Pierre, correct? 
+A.	Well, this is referring, if I'm right, to this incident with a grenade attack on Major Kamanzi. 
+Q.	Yes.  Okay.  And then there follows a list of names beginning with Félicien Kabuga and going all the way down to Rose Karushara, and I understand that your testimony was that that information was provided by a source other than Jean-Pierre Turatsinze. 
+A.	Yes. 
+Q.	And do you know who that source was? 
+A.	To my recollection, there were different persons bringing this information to us, depending on the area where they were referring to. 
+Q.	And did UNAMIR ever verify that any of these individuals, in fact, had weapons? 
+A.	No.  That was stated before.  
+Q.	Then turning to number 7, paragraph 7, if you could actually read that paragraph in French, that would be good.  
+A.	"On the 20th of January 1994, orders were given by the national secretary of the MRND party to distribute weapons to the militia of the party.  On that same day, Colonel Téraho (phonetic), préfet of Kigali, personally assisted in distributing the weapons from a Peugeot vehicle that was blue in colour." 
+Q.	Do you know where that information came from? 
+A.	Rings me a bell that I have seen this in another report somewhere else. 
+Q.	And would that be your report of the 20th of January of your meeting with Turatsinze in the second paragraph? 
+A.	That's quite possible, yes. 
+Q.	Okay.  And then turning to number 8, can you tell us where that information came from -- actually, that's the same information that was in your previous report, so I think you've answered that question.  
+
+And then looking at paragraph 9, I believe that's also a -- well, maybe we -- maybe that's not exactly reported in the other report, so we can go through that.  Do you know where -- what was the source of the information in paragraph 9?  
+A.	Well, it is partly information from Jean-Pierre and partly information from other sources. 
+MR. MORLEY: 
+And if it helps my learned friend, this paragraph does appear in the other document. 
+BY MR. ROBINSON:
+Q.	Okay.  And just to finish with that, do you know any of the other sources of information from the -- in this paragraph? 
+A.	I don't have any names, but it was, as I said before, information provided by other persons that we met in Kigali, the same as you have seen attached in handwriting into a report of Deme that sent it through the appropriate channels to the force commander. 
+Q.	Okay.  Well, so we've basically seen that these reports were a combination of information from Jean-Pierre and from sources, the identity of which you don't know, correct? 
+A.	Which I can't recall, yes. 
+Q.	Okay.  And would you agree that the information from the other sources related to training and distribution of weapons by Interahamwe -- or to Interahamwe but not to extermination of Tutsis? 
+A.	As it is put forward in this document, yes. 
+Q.	And I would suggest to you that that is because there was some distribution of weapons and training of Interahamwe, but there was no plan to exterminate Tutsis.  Do you have any comment on that? 
+A.	My only comment to that is that they didn't need, with hindsight, these weapons to kill people.  They had enough household material to do it. 
+Q.	Thank you very much, Colonel Claeys.  I have no further questions.  
+MR. ROBINSON: 
+Mr. President, I do have one other document I would like to offer, and that is my previously -- it's marked as ID. NZ55.  It's the communiqué of the broadcast on the RTLM by Turatsinze on the 
+11th of January 1994.  It was referred to in the re-examination by Colonel Claeys as some evidence that Turatsinze was more than a driver since he -- the communiqué was signed by him in his capacity as president of the Kigali Interahamwe.  So to that extent, I think it's been somewhat adopted by the witness.  I think the Prosecution probably should also want the document admitted into evidence for that point, and so now that we've had this additional testimony, I would move that document ID. NZ55 be admitted as D. NZ242. 
+MR. MORLEY: 
+No objection.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. D. NZ242 admitted) 
+MR. MORLEY: 
+Very briefly, two minutes. 
+MR. ROBINSON: 
+Excuse me, Mr. President.  You -- I believe that leave has to be asked for re-re-direct examination, some showing has to be made, unless we're applying rules that are different for the parties.  I had to make a showing of why I was entitled to re-cross-examination.  I don't think Mr. Morley should be so presumptuous as to think he can automatically do re-re-direct.  
+MR. MORLEY: 
+Forgive me if I've been presumptuous, but my experience elsewhere has been, if there's been further cross-examination, re-examination can arise, and it naturally flows from cross-examination.  If 
+Your Honour wishes to know what I want to re-examine on, it is simply the document which appears marked the 24th of March of 1993, and I have two questions on it, and that is all.  
+MR. PRESIDENT:
+Leave is granted.  
+MR. MORLEY: 
+Thank you.  
+FURTHER RE-EXAMINATION
+BY MR. MORLEY:
+Q.	Colonel Claeys, last round.  Do you have the document dated the 24th of March of 1993, minutes of the security council meeting, relating to what took place in Byumba? 
+A.	Yes, I have it in front of me. 
+Q.	Now, the document suggests that the weapons have been distributed to merely peasants by the ministry of defence.  Pausing there.  The distribution of the 300 weapons, supposedly to peasants, resulted in a letter from the prime minister to the ministry of defence, which you will recall reading into the record.  Do you remember?  
+A.	I remember, yes. 
+Q.	And do you recall that the letter from the prime minister described the ministry of defence as illegally distributing those weapons?  
+A.	Yes, that word was used. 
+Q.	Do you have any idea whether it is true that the weapons were given to peasants as opposed to Interahamwe?  
+A.	No. 
+Q.	And, finally, the préfet who convened the meeting, his name, as appears on the record, was 
+	Augustin Bizimana, on the 24th of March 1993, then the préfet of Byumba.  Were you aware that in 
+	July of 1993, as a member of the MRND, he became the minister of defence in Rwanda and remained so throughout the genocide? 
+A.	I remember that the same names were the names of -- or the Christian name and the family name was the name of the minister of defence in Kigali during UNAMIR. 
+Q.	Thank you.  I have no further questions.
+MR. MORLEY: 
+Can I assist Your Honour further, or can the witness assist Your Honour further?  
+MR. PRESIDENT:
+No, we don't have any questions for the witness. 
+
+Colonel Claeys, I think this has come to the end of your testimony before us.  We thank you for being a witness at our Tribunal.  You are now excused, and we wish you well as you leave.  
+THE WITNESS:
+Thank you.  
+(Witness excused)
+MR. ROBINSON: 
+Mr. President, before we bring the next witness, I don't know if you're thinking of doing that, but I have a motion to make that deals with the next witness, and that is that I'm asking that you postpone the testimony of the next witness, GBU, or you give us your decision, orally or otherwise, concerning the adjudicated facts number 16 through 24 and 31 through 64.  Because this witness deals with the same matters that have been testified to in the Kajelijeli case, and I'm concerned if you deliver your decision, either in the midst of the witness's testimony or afterwards, the situation will be different than it stands now.  
+
+So, as you know, one the components of adjudicated facts, or one of our arguments have been that you ought not to take adjudicated -- take judicial notice of adjudicated facts, which have been subject of testimony.  And if you hear testimony from Witness GBU, we'd be asking that you withhold decision on these adjudicated facts until we could further brief the impact of the testimony that you heard on whether -- on the issues that are the subject of adjudicated facts.  
+
+On the other hand, if you're able to tell us the disposition of your decision on those adjudicated facts, it may shorten the testimony or at least give us some parameters as to what issues remain in dispute or at least not judicially noticed.  
+
+So I would ask either that you tell us the disposition of those adjudicated facts or postpone the testimony until you can do that, or you postpone rendering a decision on the judicial notice motion as to those facts until after the testimony of GBU and after I can brief to you the impact of that testimony upon the motion.  Thank you.  
+MS. VISSER:  
+Your Honours, I do understand Mr. Robinson's concern, and the Prosecution has the same concern, and we would urge the Chamber to decide on the motion as soon as possible.  But I would like the Court to proceed with this witness and his testimony in court, as the legal issue is already raised, as BTH has testified on similar facts.  Concerning our next witness, GK, it is, though, important to get a decision as quick as possible, so I do not think that a postponement of the decision is requested.  
+MR. PRESIDENT:
+I didn't quite understand.  There was -- I didn't understand the reference to BTH and GK.  
+MS. VISSER:
+With -- the reference with BTH is that he has already testified about similar facts that this witness is going to testify about, and because that witness has already testified, I think it is best to proceed.  The -- Witness GK is going to testify about different issues, and for this witness it would be very good to have the decision on the adjudicated facts in advance.  
+MR. PRESIDENT:
+We think we ought to consider this application.  We'll take the adjournment now and resume tomorrow morning.  So we'll take our adjournment now.  
+(Court recessed at 1654H) 
+(Pages 58 to 63 by Sherri Knox)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Ann Burum, Sherri Knox and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Ann Burum
+
+
+___________________________	Sherri Knox
+
+
+___________________________	Donna M. Lewis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL 	TUESDAY, 28 NOVEMBER 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	TUESDAY, 28 NOVEMBER 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 10
+
+	KAREMERA ET AL	TUESDAY, 28 NOVEMBER 2006
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 31
+
+	KAREMERA ET AL	TUESDAY, 28 NOVEMBER 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 43
+
+	KAREMERA ET AL	TUESDAY, 28 NOVEMBER 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 57
+
+	KAREMERA ET AL	TUESDAY, 28 NOVEMBER 2006
+
+SHERRI KNOX - ICTR - TRIAL CHAMBER III - page 62
+
+	KAREMERA ET AL		TUESDAY, 28 NOVEMBER 2006
+
+ICTR - TRIAL CHAMBER III
+

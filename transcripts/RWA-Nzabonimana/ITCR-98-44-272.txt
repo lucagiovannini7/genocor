@@ -1,0 +1,941 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+MONDAY, 5 JUNE 2006
+0902H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Nouhou Madani Diallo
+	Ms. Stephania Ntilatwa
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	
+For the Accused Édouard Karemera:
+	Mr. Felix Sow
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frederic Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	
+Court Reporters:
+	Ms. Karen Holm 
+	Ms. Ann Burum
+	Ms. Eleanor Bastian
+	Ms. Roxane Meena
+	Ms. Sithembiso Moyo
+	Ms. Donna M. Lewis
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS ZF
+Cross-examination by Ms. Hounkpatin (continued)	7
+Cross-examination by Mr. Sow	16
+
+
+EXTRACTS
+Extracts	9, 38, 49, 66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Madam registrar, could you please open the proceedings, please?  
+MS. NTILATWA:
+Trial Chamber III of the -- I'm sorry, there were some interruptions with interpretation.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Emile Francis Short and Judge Gberdao Gustave Kam is now sitting in open session, today, Monday, 5th June 2006, for continuation of trial in the matter of Prosecution versus Karemera et al, Case Number ICTR-98-44-T.
+
+Please, Your Honours. 
+MR. PRESIDENT:
+Thank you, Madam Registrar.  The appearances, appearances are the same?  
+
+Mr. Robinson, we are informed that there was something you wished to address us on. 
+MR. ROBINSON:
+Yes, thank you very much, Mr. President.  Good morning.  Good morning to members of the Trial Chamber.  
+
+Mr. President, first of all, I want to advise you that the CD-ROM that you ordered us to receive on Friday has been received by me, approximately one minute ago.  I waited till 6:30 p.m. on Friday to receive it, in my office, and never did receive it.  And I just wanted to report to you that.  I'll take a look at it to see what is contained with respect to Witness GFA, but there is likely to be some request for delay in commencement of his testimony as a result of the late disclosure.  And I don't know if you want to try to obtain any explanations for the failure to obey your order, but I'm advising you of the situation.  
+
+The next thing on my agenda is that we are unable to resolve with Mr. Webster, through informal communications, an agreement concerning the order of witnesses for the rest of the session.  And I've told him that if we didn't -- couldn't agree by this morning, I would have to bring it to the attention of the Trial Chamber.  So I now bring it to your attention.  Mr. Webster is unwilling to give us the definitive order of witnesses for the rest of this session.  
+
+You will recall that the order that we were given before the session, we were told that we would have Witness ZF and T and then be followed by XBM, Mr. Serushago, ALG, and AWB.  But Mr. Webster chose to insert Witness GFA out of order, and that was okay with me and we were willing to proceed that way.  But when I've asked him what's the remaining order of witnesses, he is unable to, or unwilling to, confirm.  So we're in a situation where we don't know who to prepare for and when.  And I don't think that's fair.  So I'm asking the Trial Chamber to order Mr. Webster to provide a definitive order of witnesses today so that we can be organised for the rest of this session.  
+
+The next issue that I have for you involves Witness ZF.  As you know, I completed my cross-examination, but we have a pending motion concerning the material from the witness-victim section regarding our request that they be ordered to disclose the amount of money that they've paid him, given that he's said that he received nothing from them.  And so I would ask that the Trial Chamber resolve that today so that we can conclude my cross-examination of this witness in the event that there is further disclosure upon which I would be cross-examining. 
+
+The next issue I would like to raise to the Trial Chamber concerns Witness T.  It's my request that we not proceed with Witness T's testimony until the matter with respect to the material that has been withheld from us has been fully resolved.  And as you recall, the Prosecutor was to look through the material that was redacted to determine whether or not there's going to be any additional Rule 68 disclosures.  And we haven't had any report on that yet.  
+
+I also have some other related motions with respect to that incident.  I've been thinking about it over the weekend, and there's some additional submissions I want to make with respect to that.  I think it will take some time for me to do that, and perhaps you would want to hear that after the testimony of ZF.  If you prefer, I could do it now, but it's up to you; but maybe it will take me about 30 minutes or so.  So those are the things I have to start the week.  Thank you.  
+MR. PRESIDENT:
+Thank you very much.  
+MR. WEBSTER:
+Yes, good morning to the Trial Chamber.  Good morning to the rest of the -- to the other participants in the trial.  I'll take the -- Mr. Robinson's observations one by one.  With regard to the disclosure of the CD-ROM, I think we had discussed this briefly at the conclusion of Friday's session.  I had brought it to the Court's attention that we would need, perhaps, some special attention from CMS because it would likely -- it would be likely to take us a bit of time to make the filing, and usually when things are filed with CMS it takes an additional period of time to get it to the Defence.  Unfortunately, the reproduction did not go as quickly as I had anticipated.  We actually completed burning a new CD-ROM at two o'clock, and that was taken down to CMS.  
+
+My instructions initially were to disclose all of the non-problematic materials right away and to print out the redacted T statement that was problematic, but that also became a logistical impossibility because the document would not print with the electronic redactions.  So, we were forced to burn a new CD-ROM.  That was done, but it took us until two o'clock to do that, and it was brought down to CMS at that time.  
+
+I'm informed by my colleague that CMS did receive it.  There was some discussion about the urgency, but, unfortunately, it did not make its way into the hands of the Defence.  And for that we offer our apologies, but it's really a responsibility we share with CMS.  It took us longer than expected, but at the same time the item was filed with CMS for delivery to the Defence.  I did get an email from Mr. Robinson later that afternoon and a telephone message from Mr. Weyl.  I did attempt to return Mr. Weyl's call and I tried to look into the situation but, unfortunately, we're left with the reality that these materials were only disclosed this morning.  
+
+With respect to the second item, which is the order of witnesses, I'm a bit surprised by Mr. Robinson's submission because, indeed, I responded to his emails; those were copied to the Trial Chamber coordinator.  I did provide a listing and an order of priority of the witnesses.  When we first addressed this issue, Omar Serushago was supposed to testify as the third witness.  When we substituted GFA, my communication to the parties was that GFA would replace Omar both in terms of the order of testimony and as a witness for the session.  So, relying on that communication, which is still how we intend to proceed, GFA will follow Witness T, and once we complete the re-direct or the cross-examination of ZF.  So GFA will be the next new witness for the Trial Chamber.  After GFA, there will be XBM, which is also consistent with the first submission I made on this point.  The hitch, or the query, that I raised -- and I thought I had fully explained it to Mr. Robinson -- is that we are determined to complete testimony from ALG this session.  So we have two additional witnesses in addition to XBM, whose testimony we'd like to complete this session.  
+
+Given the fast pace that we've adopted given -- since T's testimony was much shorter than expected, we would actually prefer to take ALG -- excuse me, prefer to take AWB before we start ALG.  But, now, in light of the potential of delay, what I can confirm is that we will take GFA as the next witness; XBM will follow GFA; then we'll go directly to ALG; and if we have time at the end of the session we will complete AWB.  So, I think the issue has been resolved now simply because of the delay -- the potential of additional delay.  But we had hoped that we would finish this session with ALG.  So I don't see that as an issue that the Court needs to address; it should be clear to all of the parties.  
+
+The third issue was Mr. Robinson's application to have some sort of disclosure from WVSS.  I would oppose that application.  I think my opposition is already on the record, and my recollection -- the Court can correct me if I'm wrong -- is that I would be allowed to complete my re-direct of this witness, and if it was still an issue that needed further action from the Court, that at that time the Court can make a determination of what disclosures, if any, WVSS would be invited to make.  So I would encourage the Court to wait until we have completely terminated our evidence with ZF, and then we can have further discussion on whether additional orders should be required in order to get additional information from WVSS.  
+
+I think the last application has to do -- has to deal -- excuse me, has to do with the disclosure with respect to T.  We've gone through that material.  There are only two potential sticking points in terms of our disclosure obligation.  One concerns HH, which is the witness that Mr. Robinson mentioned in his submission on Friday.  The other concerns another witness whose pseudonym, I believe, is HAF.  That witness was a -- initially on our list of witnesses some two years ago, but we have withdrawn that witness, and that withdrawing his name from our witness list was done before we even restarted this trial in 2005.  So he is not really at issue, although his name once figured among the witnesses that would be called, but this is going back around two, two and a half years ago.  So with respect to the only statement that seems to be at issue, it's a statement from HH that Mr. Robinson made reference to.  
+
+In Mr. Robinson's submission, he seemed to be under the impression that the HH statement was an OTP statement that was used to question Witness T.  That turns out not to be the case.  It appears that the state did their own investigation and spoke to this particular witness and generated some sort of documentation of their interview with the witness.  This statement was among the materials that was handed up to the Trial Chamber when we made our application under Rule 66(C), and the Trial Chamber's order was that the identities of the witnesses did not have to be disclosed.  I believe the unredacted materials were provided to the Trial Chamber.  I'm almost -- I'm quite confident that when we made that application we did not bring HH's statement specifically to the attention of the Trial Chamber.  That may have been an oversight, or we may not have been aware of it, or -- I'm not quite sure because I do not have a detailed account of how the materials were actually submitted the Trial Chamber.  But as a matter of -- in terms of the submission, the only thing that is at issue is the statement from HH.  
+
+Now, Mr. Robinson claims that this statement is Rule 68 material with respect to T.  I would disagree, but in any case, it is a document that arguably is a Rule -- is a Rule 68 or Rule 66 statement with respect to HH.  The Court order is for us not to disclose that material.  I think we would have to revisit that aspect of the Court's order in order to make the disclosure.  I have looked at the statement.  It is something that should be given to the Defence, but in relation to Witness HH, not necessarily with respect to Witness T.  So, I believe the Court has those materials.  I can make additional copies and hand it up to the Court during the break, and the Court can look at the statement itself.  
+
+With respect to Witness HH, the statement should be disclosed in relation to him, but our contention is it is not necessary to disclose that statement in respect to Witness T.  So I do not see that as an impediment to concluding our examination of Witness T.  And I would think that there is no issue that stands between our moving ahead with the completion of ZF's cross-examination and the completion of Witness T's re-direct.  
+
+Concerning the materials for GFA that is included on the CD-ROM, those materials are not Rule 66 materials.  All of the statements of GFA have been previously disclosed.  That was disclosed some time ago.  The new materials with respect to GFA are Rule 68 searches.  Since the Court's decision on our -- on the -- on Mr. Robinson's motion from several months ago, we undertook to re -- to re-examine our evidentiary holdings with a broader definition of Rule 68, adopting a view of Rule 68 that's more consistent with the way Mr. Robinson sees it, and as a result of that, we've been making additional disclosures.  For the most part, those materials are already available in the EDS, but we have taken the effort -- undertaken the effort to find more material that, broadly speaking, may affect the credibility of Prosecution evidence.  We don't concede that point because I think the Court is aware that we have appealed that Rule 68 decision, or the decision on the EDS.  But we are undertaking to follow the Court's instructions.  We are doing additional Rule 68 searches, and as we do those searches we disclose the materials.  So our position is that those additional materials for GFA should not prevent us from moving forward with his testimony.  We gladly make it available to Mr. Robinson and the Defence.  And, based on his submission this morning, he has them.  How helpful they will be to him, I don't know, but these are additional Rule 68 materials for GFA.  All of his previous statements were disclosed some time ago.  
+
+I think I've addressed all of Mr. Robinson's concerns.  If there is anything that I have not responded to, I'm sure that either he or the Court will bring it to my attention, because I would like to respond to everything that is on the plate for this morning.  
+MR. ROBINSON:
+Mr. President, just very briefly.  With respect to the CD for GFA, we'll have to examine that, but when I looked at it on Friday, it appeared to be roughly 20 statements in Kinyarwanda language.  So, it's going to be some time before we're able to look through those and be in a position to deal with them.  There -- Rule 68 is as important, if not more important, than Rule 66.  So simply to say that we've given you Rule 68 material but you don't need to read it, you don't need to use it, I don't think that that's consistent with how a trial like this should proceed.  So we'll be in a position to advise the Trial Chamber later as to how much time we believe we'll need before we can commence our cross-examination of Witness GFA.  
+
+With respect to the -- Witness ZF, if the Trial Chamber wants to wait for Mr. Webster's re-direct, we don't have any problem with that, but we would like to just make it clear that we reserve our right to complete the cross-examination when the material is delivered to us and if it has some value for cross-examination.  
+
+I think Mr. Webster has clarified the order of witnesses now, so I won't say more than that.  
+
+With respect to the Witness T material, I don't know if you want to hear -- I have a lot to say about that, but I'll let you decide if you want to hear it now or sometime later in the day.  Thank you.  
+MR. PRESIDENT:
+Please just give a few minutes.  
+THE ENGLISH INTERPRETER:
+You microphone, Mr. President.
+MR. DIALLO:
+Mr. President, I should like to merely bring a clarification as to the disclosure for which the registry bears the responsibility for the delay.  It's true we had received the material Friday.  Normally, when the Trial Chamber asks us to ensure disclosure the same day, we try very hard to do so, and I was aware that the instruction was issued in the morning, in time; so it is, in fact, the registry's responsibility if the document was disclosed tardily.  I can confirm that.  And I also assure you that every step will be taken for such a delay not to occur again.  Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Diallo.  
+
+Many of the matters raised require a little bit more consideration before we give our final ruling on them.  I appreciate that all of them require attention soon, and we hope that we will be able to deal with them during the course of today.  I think that the best way to proceed now is for us to continue with the cross-examination of ZF, and as the day develops, we will come back to you one by one on the matters that have been raised.  
+
+We'd also like to hear Mr. Robinson on the matters he intends to address us on.  We think that we could fix two o'clock as a suitable time for that to take place, immediately after lunch; that's the matter in relation to Witness T.  
+(Witness entered courtroom) 
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Your Honour.  
+MR. PRESIDENT:
+Well, a long time has elapsed since you were last here, but we have been using the time to take the evidence of another witness, where the issue of the time had been predetermined and we were obligated to use the time in that manner.  Now, your testimony will continue.  I remind you that you're under the same oath to tell the truth that you took when your testimony began.  You may recall that the stage of your examination is the cross-examination by counsel representing Mr. Ngirumpatse, Ms. Hounkpatin.  
+
+Are you ready to continue now?  
+THE WITNESS:
+Yes, Mr. President, I am ready.  
+MR. PRESIDENT:
+Ms. Hounkpatin.  
+MS. HOUNKPATIN: 
+Thank you, Mr. President.  
+WITNESS ZF,
+CROSS-EXAMINATION (continued)
+BY MS. HOUNKPATIN:
+Q.	Good morning, Witness.  
+A.	Good morning, Counsel. 
+Q.	For the next hour or so, we shall deal with a number of questions that I intend to raise with you relating to your testimony.  Allow me to remind you that last time we were talking about the meeting purportedly held in 1992 at the MRND palace, and we had virtually concluded on the questions surrounding that meeting.  And in your testimony, you said that you had seen Mr. Ngirumpatse initially, and then you went on to say that, as a matter of fact, this information was only related or told to you because you were not present at the meeting yourself and that, indeed, you had not seen him with your own eyes.  Would that be a proper summary of where we ended up, Witness? 
+A.	Counsel, I would rather you proceed point by point in detail because that summary tends to confuse me. 
+Q.	Well, then, Witness, it is very simple.  It is a simple matter.  You talked about two periods relating to when you saw Mr. Ngirumpatse:  The first period was prior to the 6th of April 1994, and in respect of that period, or that time frame prior to 6th April 1994, you testified that you saw him twice, that you saw him for the first time in 1992, and you saw him a second time in 1993.  In respect of the 1992 testimony, it was your position at the end of the day that you had not seen him with your own eyes because you were not present at the meeting, but that somebody else, or someone else, reported to you on that meeting; is that correct? 
+A.	No, Counsel.  
+Q.	Witness, could you, therefore, tell the Court how you met Mr. Ngirumpatse in 1992? 
+A.	Counsel, to answer your question, maybe it would be best to talk about the period prior to April 1994, whether it be in 1992 or 1993, I believe my testimony was that Mr. Ngirumpatse came to Gisenyi on several occasions.  Now, as far as seeing him goes, I did see him sometime in town; I saw him at the camp; I saw him at the préfectoral office.  Now, to determine whether I saw him or not would be a matter of location.  So I said that when he came to Gisenyi, the purpose of his visit was to conduct meetings, and those meetings took place in the multi-purpose hall of the MRND.  So on those two occasions when I saw him before the 6th of April 1994, that is within that time frame, I did not see him conducting meetings as such, but it does not mean that I did not see him with my own eyes.  So, to say that this information was narrated to me by other persons, that would only refer to the meetings that were held at that time.  And it is during those meetings that I saw him in Gisenyi town and got interested in what was happening, but I did not see him in the meeting halls.  
+
+My interest was to find out what the purpose of the meetings were, and I was told that the first meeting was to meet préfet, bourgmestres and heads of services as well as Interahamwe leaders and others who were involved in MRND activities.  So the purpose was to meet them in that hall, with a view to looking at matters of discipline, mobilising the Interahamwe, and above all, support for the armed forces as they continued to fight the accomplices and Tutsi.  
+
+On those two occasions -- or, rather, on the second occasion, the purpose of the meeting was the same.  I do not -- I did not mean that I saw him only twice or that he came only twice.  I saw him, however, twice with my own eyes in Gisenyi town.  And I wanted to find out what had happened at the meetings and -- because I was busy elsewhere, I could not attend those meetings.  So it is not only those two occasions.  There were other occasions when he came to Gisenyi and I would go back to the ***********in the evening, or at the préfectoral office; or somewhere else.  You know, wherever I went, I would be told that he had come to Gisenyi because he was someone who would not come to Gisenyi unnoticed because the dignitaries of the town and the youth would know that such-and-such a person was in Gisenyi.  I hope I have answered your question.  
+Q.	You have, indeed.  But your answer contradicts your previous testimony.  How many times did you see Mr. Mathieu Ngirumpatse in the time prior to the 6th of April 1994? 
+A.	Counsel, I have told you that I saw him twice in Gisenyi town. 
+Q.	Just a minute ago, Witness, you said that you saw him more than twice, that you saw him several times.  Yet, as you went on to expatiate, you said that you did not see him at the meetings because you did not attend the meetings.  Could you please clarify that point, Witness?  
+A.	Counsel, maybe my French is not too good, but I said that there were times when I saw him and there were times when I was told that he had come to Gisenyi.  So there's a distinction between the two.  
+Q.	Who told you that he was in Gisenyi, given that you didn't see him, ultimately? 
+A.	Counsel, I had several sources. 
+Q.	When you were being led in-chief, it was your testimony that it was Bizumuremyi who was your main source.  Today you have added other sources to that main source.  Could you give us the names of your sources, Witness?  
+A.	Well, Counsel, you have talked about Lieutenant Bizumuremyi.  Let me say that, amongst other things, he was somebody with whom I was often in contact.  And since I referred to other sources, let me say that whenever he came to Gisenyi, as I said, he was a figure of distinction within the MRND, particularly in Gisenyi.  I also talked about being at the officers mess and talking about it.  Many officers would be there and would talk about his presence in Gisenyi.  
+
+I also told you that when I went to my office at the work - (By order of the Court, this name has been extracted and filed under separate cover) and at the préfectoral office, I also gathered some information.  There are colleagues there who provided me such information.  I do not know whether you want me to provide the names of all those persons, but I may not be able to recall all the names.  In town, wherever I went even to drinking spots, everybody who knew that he was there would talk about that.  So if I talked about Bizumuremyi, it should be enough.  That is an example of a source amongst several other sources.  So I cannot give you the names of all my sources.  And I do not have in mind all the names of all those persons who talked about him at different times at that time. 
+Q.	Let us proceed year by year, Witness.  In 1992, how many meetings did Mr. Ngirumpatse conduct in Gisenyi? 
+A.	Counsel, I'm sorry, I was not able to -- or I'm not able to follow -- or, rather, to recall exactly the number of times he came per year, but I know that he came several times.  So I am not in a position to tell you about the dates, and I can't be any more specific than that.  
+Q.	1993, do you still have a memory lapse for 1993, Witness?  
+A.	I think so, Counsel. 
+Q.	So it is your testimony today that for 1992 and 1993 you no longer recall whether you actually saw Mr. Mathieu Ngirumpatse; is that correct? 
+A.	Counsel, it has been my testimony that I do not remember the number of times he came, but I also said that at some point in time during that time frame I did see him. 
+Q.	When he came to conduct those meetings, were you aware of the purpose of the meetings? 
+A.	Counsel, I believe that I am not in a position to state that I knew because at that time and in the area where I lived, there were things that I saw and things that I heard and others things that I found out about.  And these are different matters entirely.  So I cannot tell you that I knew or I was aware of the agenda, because when I use the word "to know", then you would end up asking me whether I was present or not at the meeting, so we would get into some issues of terminology.  Or is it semantics?  
+
+So what I am saying is that the two occasions about which I raised questions relating to the agenda of the meetings conducted in Gisenyi when he came by, I told you that it was mainly to meet MRND members, to meet the préfet, to meet the heads of services, and military officials in charge of coordinating the Interahamwe, Interahamwe leaders themselves, and the purpose was to discuss matters of discipline within the MRND and the Interahamwe, as well as guidance and, I believe, if my memory is correct, support and assistance to the security forces and the soldiers and the gendarmes.  And there was also instruction to manhandle the Tutsis who were the enemy, as well as the accomplices to the enemy.  
+Q.	Witness, at the beginning of your answer it was your position that you did not know the purpose of the meeting, but you ended up spelling out the purposes of that meeting.  Aren't all those just presumptions? 
+A.	No, Counsel. 
+Q.	What was not discussed?  What was discussed -- rather?  What did Mathieu Ngirumpatse say at those meetings?  What was discussed?  You said that the préfet, the sous-préfets and the bourgmestres, Interahamwe, heads of services, were present at the meeting.  What was discussed and what was the position of those stakeholders at the meeting? 
+A.	Counsel, I cannot provide a specific answer to the statements that were made by any of these parties, given that I was absent; I wasn't present at the meetings. 
+Q.	As far as you know, Witness, how long were those meetings?  How long did they last? 
+A.	Counsel, I do not know. 
+Q.	Let us move on to the meeting that took place after the 6th of April 1994.  During examination-in-chief, it was your testimony that you saw Mathieu Ngirumpatse after the 6th of April 1994.  You saw him come to attend a meeting.  Can you explain to the Court how he arrived at the venue of the meeting, given that you saw him? 
+A.	Counsel, where would I have seen him?  Could you please tell me the location that you are referring to?  
+Q.	Why should I tell you where you saw him, since you're the one who testified that you saw him?  Witness, can you tell the Court where you saw him? 
+A.	Counsel, I saw him driving around town.  I saw him at the ops Gisenyi camp.  I saw him as he went by the préfectoral office.  I hope I've answered your question. 
+Q.	You no longer recall whether you saw him after the 6th of April 1994, attending a meeting which you described so well during your examination-in-chief.  Is that the case, Witness?  You are the witness, sir.  You are the one to provide the Court with information so that the Court may determine and assess your credibility, or the credibility of your testimony.  
+A.	Counsel, I am only answering the questions that you have put to me.  I don't know what else I need to explain when I am not aware what question I'm dealing with exactly. 
+Q.	My question relates to the meeting, the meeting which you -- or, rather, the meeting which you described to the Court, saying that Mr. Mathieu Ngirumpatse had attended that meeting after the 6th of April 1994.  You asked me to break up my questions into two time frames, with 1994 being the benchmark and the periods being prior to that date and after that date.  
+
+We have already discussed that prior to 1994 it is difficult for you to state clearly those areas where you saw Mr. Ngirumpatse.  So now we have moved to the period after 1994; that is, the second time frame.  And the question to you, Witness is the following:  Where did you see him, and how did he get to that venue?  It is not for me to tell you what your testimony is.  You know what your testimony is, and you have testified that you saw him, and you talked about this at length.  
+MR. WEBSTER:
+Actually, I'm sorry to interrupt but I would like clarification on this point as well.  Could -- perhaps, Hounkpatin's assistant could look for the reference in the direct exam, because I don't recall this portion of the witness's direct testimony.  I could -- I could go on.  I don't want to steer the cross-examination off course, but I have a specific recollection of what the witness said, and I can state that for the record.  But if we could have a reference to the direct exam to clarify a meeting that did not take place at the ops Gisenyi, I'd appreciate it.  
+MS. HOUNKPATIN:
+I'm referring to the witness testimony of the 6th (sic) of May, Tuesday, 6th of May, transcript page 36, from lines 19 to 34.  In that excerpt of his testimony, and I'll read his testimony -- well, I believe that it is not necessary to read that excerpt because the witness must be aware of what his own testimony was, Mr. President, the issue being the venue of that meeting.  Whether he's not aware of it and accepts this is a fabrication and we do not lose any more time, or he confirms simply and spontaneously what his previous testimony has been.  
+BY MS. HOUNKPATIN:
+Q.	May -- let me proceed then, Witness, although I haven't had any answer to my question.  
+MR. WEBSTER:
+You know, I'm sorry to interrupt again.  Could you give me the reference again?  Because what I heard in the English was the 6th of May and this witness didn't testify on that day.  So if you could just tell me --
+MS. HOUNKPATIN:
+16th of May.  
+MR. WEBSTER:
+When I look at the transcripts, I still don't understand what the problem is because the witness, in his last response, mentioned seeing Ngirumpatse at the ops centre in Gisenyi, and your question to him was, can he tell us of a meeting that took place, and I think there's an ambiguity there because your previous questions were about meetings, large-scale meetings that took place at of the MRND palace, and you're directing him to an area of his direct exam where he's not talking about a big meeting of the public.  So, if you were specific in your question, you could get the witness to be responsive.  
+MS. HOUNKPATIN:
+Dear colleague, I think I put the question very clearly and specifically.  When I began the questioning as to the meetings where he saw Mathieu Ngirumpatse, I was speaking of two different epochs, the first epoch 1992-'93, and clearly I situated the question I'm putting to him.  I did specify that I'm asking him to speak of the meeting in the course of which he saw Mr. Mathieu Ngirumpatse after the 6th of April 1994.  Either he'll repeat what he said and we'll have finished, or from the answers he's given, I'm going to understand that the meeting did not take place, and then I also think we will have quickly finished because he cannot -- he is incapable of explaining to me the context in which he saw Mr. Mathieu Ngirumpatse.  I spoke of a specific meeting which he described very clearly in the course of the examination-in-chief.  So he is speaking of a meeting, but he doesn't remember that took place after the 6th of April 1994, with the ops commander, ops commander where -- at which Mr. Ngirumpatse, Mathieu, allegedly had that meeting with the commander, and I should like him to develop again the context of the meeting, how Mr. Ngirumpatse arrived.  And that was the first question I put to him.  
+THE WITNESS:
+Madam Counsel, may I answer? 
+BY MS. HOUNKPATIN:
+Q.	Of course, Witness.  
+A.	Madam Counsel, as you have specified two periods, before April 1994 and after April 1994, that period after April, after the 6th of April 1994, I saw with my own eyes Mathieu Ngirumpatse twice at Gisenyi camp.  I'd see him very often at the préfecture and other places in town, but I did not know the purposes of those visits.  
+
+As regards the twice he came to the camp, the first time I don't know whether it was a meeting or an interview.  Sometimes I use words that are perhaps not in their right place.  But he had a discussion with Lieutenant Colonel Nsengiyumva and the other officers, because I didn't participate in the meeting.  And after that meeting of the two occasions on which he came, that was the second occasion.  
+
+On coming out of the meeting he stood on in the courtyard, the tarmac, with Colonel Nsengiyumva and there was awaiting his driver -- or maybe they had words to exchange.  And amongst what they were saying -- I was outside; I was there; I was present.  They were speaking of the situation on the war front, which was already unfavourable to the government of the time, and they said that if the soldiers' friends could perhaps do all they might to recover the zone Gitarama-Ruhengeri-Gisenyi, and that place would be clear of all Tutsi and all Ibyitso, or all Tutsi accomplices, and that zone would be in the hands of the government national salvation.  That was the second time.  Perhaps that is the meeting you are referring to.  
+
+On the first occasion he came -- he started a discussion with Nsengiyumva and the -- in a circle of officers, and I did not seek to know the agenda of what they discussed, but at the mess there was talk of the situation on the war front.  Those are the two times I saw him at the ops camp in Gisenyi, and the others saw him also.  
+
+The other time I saw him was in Gisenyi, and I don't know where he was coming from or where he was going or what he was up to. 
+Q.	Witness, under examination-in-chief you said that after the 6th of April 1994 you saw him once.  And now today you're telling us that, in fact, there were two meetings he attended and that, apart from that, you saw him several times in Gisenyi.  Can you clarify, please? 
+A.	Madam Counsel, I think that under examination-in-chief I answered a specific question that had been put to me and now, here, I'm answering another question, a different question.  And I don't see why they both should be the same.  
+Q.	The question you answered under examination-in-chief is the same one I'm putting to you now.  On page 35 of 16th of May, for my learned friend.  
+THE ENGLISH INTERPRETER:
+I presume that's the French transcript.  
+BY MS. HOUNKPATIN:
+Q.	"Did that happen on one or on several occasions?"  And you answered:  "I think I saw him once."  And you explained the meeting with the commander.  You didn't say that you'd seen him at another meeting.  Can you tell us, once and for all, how many meetings after the 6th of April 1994 did Mr. Ngirumpatse attend at that place, so that we have a clear idea of your testimony?  
+A.	Madam Counsel, perhaps it's a problem of vocabulary, because if I say that I saw him and I answered that I'd seen him only once, it is only once that I saw him on the tarmac with Lieutenant Colonel Nsengiyumva.  I didn't say that I only saw him once throughout the period after the 6th of April.  If the question is global, an overall -- covers the whole period, it's a different thing.  But as to seeing him standing with Colonel Nsengiyumva on the tarmac, it was only once.  The other time I just saw him come out and go.  I can't confuse the first and the second or the third time.  But the question intrigues me.  I don't really understand what you want me to explain to you, madam. 
+Q.	Well, this discussion you described on the tarmac, how long did that last? 
+A.	I cannot give you an estimate, madam. 
+Q.	To hear what you heard, how far were you from the two discussants? 
+A.	I was very close, Madam Counsel. 
+Q.	Well, I suppose you must have been near one or the other to be able to tell us so precisely what the tenor of the discussion was.  Now, here I'm here, standing here.  When Mr. Ngirumpatse speaks to my colleague, I can hear him and I can report on what they discuss, or where my friend Felix Sow is or where Mr. Robinson is.  And what was their tone of voice so that you can hear and report so precisely the tenor of the conversation?  
+A.	Madam Counsel, as to the distance, well, of course, I was close because I was in the verandah, and the tarmac is in an internal courtyard, and the two people were talking together, out loud, and they felt perfectly safe and secure, and the distance -- I was very close.  I prefer to say very close.  I was very close. 
+Q.	So you were participating in the conversation, Witness? 
+A.	Madam Counsel, I prefer not to speak of participation, but it was a conversation I overheard by chance. 
+Q.	Witness, the words you heard spoken by two people who are of high rank, whereas they had a discussion, one on one discussion, and what you describe is that you are near them and they forget confidentiality, the confidentiality they had to observe in their meeting and were speaking as you have just described.  I think, Witness -- I put it to you that the meeting never took place, that the conversation that you say you overheard never -- never took place, and that it is easy for you to answer that you were nearby from the three possibilities I suggested to you. 
+A.	Madam Counsel, you should know that the meeting did take place and the discussion between Nsengiyumva and Ngirumpatse also took place.  And as to intimacy or confidentiality or whatever -- I don't know -- safety, security of their conversation, I think that it was not an issue because there was no one in the ops camp at the time who could be considered someone who could spy on what they were doing or what they were saying.  That is all I can tell you, Madam Counsel.  
+Q.	How, therefore, did they -- no, wait, before that question -- 
+THE ENGLISH INTERPRETER:
+Counsel corrects herself.  
+BY MS. HOUNKPATIN:
+Q.	-- I should like you to tell me:  So this is after the 6th of April 1994 that you heard this being said, but on what date, more precisely?  Because you are saying very specific things, so you should have some precise memory of when those things were being said.  
+A.	I no longer remember the date, madam. 
+Q.	Was it in April?  May?  June?  Or July?  
+A.	It was after the 6th of April.  
+Q.	After the 6th of April, was it nearer to April or to July? 
+A.	Sorry, Counsel, I really wish just to leave it at that.  
+Q.	Witness, at the end of the questions I have been putting to you on the meetings where you have stated that you saw Mathieu Ngirumpatse, I put it to you that whatever the period of time, the epoch to which you refer firstly, before the 6th of April 1994, you spoke of two meetings, one allegedly held in '92, the other in '93, but also you're incapable of telling us how -- of where those meetings took place after April 1994.  We have the same results.  So I am putting it to you that you never saw Mr. Ngirumpatse, whatever period you are referring to, all the more so as Mr. Ngirumpatse attended no meetings, none of the meetings to which you refer in the places you mention.  
+A.	Madam Counsel, well, that's what you think, but I'm speaking of what I saw.  If you want me also to speak of what I think, it would not be normal for someone of his rank to spend all that time without visiting a zone like Gisenyi throughout the period, as you say, '92, '93, all that time before the 6th of April 1994, and then after the 6th of April until the 7th of July. 
+
+As far as I'm concerned, I think it is normal that he would visit not only Gisenyi, but all the préfectures of the country, either in working visits or to sensitise awareness, promotion, inasmuch as he was the head of a very large organisation.  That is all I have to say I think, Madam Counsel. 
+Q.	Thank you, Witness.  From your answer the Trial Chamber understands that these are suppositions you have put forward in your testimony.  
+MS. HOUNKPATIN:
+Mr. President, I have finished with the witness.  
+MR. PRESIDENT:
+Thank you, Ms. Hounkpatin.  
+MS. HOUNKPATIN:
+And I think it's time for a break.  
+MR. PRESIDENT:
+That's correct.  But I just need to advise the witness that when we return from our mid-morning break, your examination will continue.  On this occasion you'll be examined by Mr. Sow, who is representing Édouard Karemera.  We take the -- 
+THE WITNESS:
+I'm ready, Mr. President.  
+MR. WEBSTER:
+Just one last question for clarification.  A few days ago I had filed an additional Rule 68 notice with respect to this witness, and this was after Mr. Robinson had completed his cross-examination.  And what I'd like to know, for the record, is, is Mr. Robinson going to want to put further questions to the witness or can we assume that I will start my re-direct immediately upon the conclusion of Mr. Sow's cross-examination?  
+MR. ROBINSON:
+Yes, Mr. President, the material -- I did receive the material.  It indicates that a certain witness was interviewed by the Prosecutor, and provided some information.  I don't think I'm in a position to cross-examine on that material at this point.  I asked the Prosecutor to give me the contact information for the witness, and I'll have my investigators contact that person.  So I don't think it's necessary for me to do any more cross-examination on that point with this witness.  If something comes, I will bring the witness that was interviewed by the Prosecutor in our case.  Thank you.  
+MR. PRESIDENT:
+Thank you.  We take our mid-morning recess now.  
+(Court recessed at 1030H)
+(Pages 1 to 15 by Karen Holm)
+
+
+(Court resumed at 1101H)  
+MR. PRESIDENT:
+Mr. Sow.  
+MR. SOW:
+Thank you, Mr. President.  
+CROSS-EXAMINATION 
+BY MR. SOW:
+Q.	Witness, good morning.  
+A.	Good morning, Counsel. 
+Q.	Witness, you can simply say "Counsel."  You don't like -- it is not necessary to say "Mr. Counsel."  I will be satisfied to be called "Counsel" directly.  
+
+I am Counsel Félix Sow, co-counsel for Édouard Karemera, who is accused before this Tribunal, in connection with his charge before this Tribunal, for being responsible for joint criminal enterprise in relation to the events of April 1994.  
+MR. SOW:
+Mr. President, I have two lines of questions which would be best conducted in closed session.  That is why I would like to apply for a closed session initially, to deal with matters relating to the family and the professional context of the witness's life.  So, for those reasons, Mr. President, I would like to apply for a closed session.  
+MR. PRESIDENT:
+Yes.  For the -- 
+
+We will grant your application, Mr. Sow. 
+
+For the benefit of the public, the -- many of the witnesses in this trial have received orders made in their -- on their behalf, to grant them protection because they are witnesses in a matter of this nature.  One of the -- the features of the protection orders is testimony -- is protection of their identity.  And the counsel has just indicated that he is going to pursue a line of questions which could reveal the identity of the witness.  We are going to have to go into closed session and excuse the members of the public from this section of the proceedings. 
+(At this point in the proceedings, a portion of the transcript [pages 17 to 34] was extracted and sealed under separate cover, as the session was heard in camera)
+(Page 16 by Ann Burum)
+
+
+
+
+MR. PRESIDENT:
+Yes.  We go back to open session, now.  
+
+Mr. Robinson, we can -- we can hear you, now. 
+MR. ROBINSON:
+Thank you, Mr. President.  
+
+Mr. President, I had a chance over the weekend to reflect over the events of Friday in which we were given, by mistake, the unredacted material from the state in which Witness T is being held.  And as a result of that I have some submissions I want to make.  I want to make one big motion, because I know you like it that way.  I have several alternative pleas for relief.  And I'd just like to go back to the history of this issue of the materials from the state, because on the 12th of July of 2004 I wrote a letter to the Prosecutor asking him to provide all of the statements that Witness T had made to the state jurisdiction in which he was present, and on the 31st of August 2004, the Prosecutor declined to provide any of those documents.  So on the 6th of September 2004, I made a motion to request the cooperation of that state, pursuant to Article 28.  And the Prosecutor opposed that motion; and the grounds for their opposition was that Rule 66(C) should apply to those materials and the Prosecutor should have the right to redact the materials before they were turned over to the Defence.  
+
+In this decision on Joseph Nzirorera's motion to request the cooperation of the state, dated 23 February 200, at paragraph 6, the Trial Chamber said that with respect to the Prosecutor's counter-motion, to request authorisation to apply the measures set forth in Rule 66(C) of the Rules, the Chamber notes that this provision applies only to the Prosecutor.  Moreover, the measure is of no interest to the Prosecutor.  Consequently, the Prosecutor's request is inadmissible.  However, though neither the Statute nor the Rules expressly provide for this, states can always plead exceptional circumstances based, for example, for security in order to be relieved of the obligation to cooperate.  And it is for the requested country to mention this and refer the matter to the Chamber.  
+
+So you were very clear.  And you also ordered that when the country provided the material to the Defence it was to be shared with the Prosecutor.  After this decision, the Prosecutor went on its own, and they took the initiative to obtain these records from the state directly in contravention of your order.  And they came back and picked through the material, put it into essentially three piles; something that we should see; something that we should not see; and something that we should never see.  And the things that we should not see, on Friday, were finally seen.  
+
+So the Prosecution took upon itself, contrary to the decision of the Chamber, the responsibility of doling out what the Defence should see.  And now that we have seen the material, we know that they have breached that responsibility, because at least the statement of one witness, Witness T, contradicting another witness, which is Witness HH, is so clearly Rule 68 material that you have held on so many occasions, and even the Appeals Chamber has held that when one witness contradicts another that has to be disclosed.  And the Prosecution knew full well that these two witnesses, both members of the same organization; these two individuals would be witnesses.  
+
+And Mr. Webster is, once again, flat wrong when he says this is not Rule 68 material for Witness T.  It most certainly is, because I want to ask Witness T about the things that Witness HH has said, and get on the record that they're lies so that when Witness HH comes you will already have evidence in the record from which you can determine whether Witness HH is a credible witness, and especially given Witness T's circumstances, this is going to be my only opportunity to do that.  So we need that material, and it was a clear breach of the Prosecution's duty under Rule 68 to have withheld it, and because it is a statement also of HH, that, apparently, we have not seen, and because it was in the possession of the Prosecutor they have also violated Rule 66(A)(ii) because they are obligated to give us all of the statements in their possession of Witness HH.  
+
+I also noted when I -- I did not realise this until I went and checked this weekend, but a lot of this other material, in fact, a great bulk of this material that was in the unredacted CD also should have been disclosed to us, because I believe that the same witnesses who were being questioned about Witness T, and who were providing information about Witness T which was then being put to Witness T during these interviews, are the very same 13 witnesses who you already ordered not only should their identities be disclosed to us, but we should be given the opportunity to interview those witnesses.
+
+So I believe that in addition to the material for Witness HH, what has been withheld from us are statements of witnesses whose identity we already knew, and, in fact, whose permission we have already had of the Chamber to interview them, because in your decision on Joseph Nzirorera's motion to compel inspection and disclosure of 5 July 2005, at paragraph 20, you indicated that the Chamber was of the view that the identity of the 13 witnesses is inextricably connected with the substance of their statements and their identification should, therefore, be disclosed to the Defence in accordance with the Prosecutor's obligation under Rule 68 of the rules.  
+
+So, you essentially have in this redacted material the Prosecutor hiding from us statements from the very same witnesses that you had already ordered be disclosed, and so I feel that what has occurred here is -- I couldn't use any other word other than "cheating".  That is the word that comes to mind.  The Prosecutor is cheating.  And the question is what can be done about it, and what should be done about it?  You know, we're all used to redactions.  We can look at statements that have been redacted, and disclosed in redacted form.  I'm sure your Chambers are full of them.  And I've never, in four years of working with this Tribunal, seen redactions where 217 pages of material are in existence and only 25 are unredacted, and the rest of it is redacted.  It is all -- 90 per cent of the material is redacted.  
+
+Normally, we see material where the name of the witness is blacked out and maybe a paragraph here or there that might identify that witness, because he states his occupation, his place of residence, something that is unique to the witness.  But never do we receive, quote "redactions" that black out the entire substance of what the witness has said.  And that is what happened here.  We have 217 pages and, essentially, 192 of them are blacked out.  It's -- it's the redaction of the century at this Tribunal.  I do not think there has ever been a redaction of this magnitude in relation to materials ordered to be disclosed by a Chamber.  
+
+So, we feel this is an extremely serious breach of my client's right to a fair trial, and that the Prosecutor has, once again, violated his obligations of disclosure in a major, major way.  And I have to say, also, that we feel that the Trial Chamber has failed in its responsibility to our clients.  And I'm sorry to say that, but ex parte proceedings, you know how we feel about those.  They create a higher duty on the Trial Chamber to act on behalf of the Accused, because we're not present.  I could see in five minutes that this material was -- contained items where two witnesses were accusing each other; where witnesses who have been already disclosed, are now being hidden.  And I can understand why the Trial Chamber might not be able to see that very readily, because you don't have access to all of the material I have, and you don't have the same knowledge of the facts of things that have not yet been presented in court.  But when you do take on the responsibility of deciding to keep things from the Defence and act along with the Prosecutor, jointly, the two of you reviewing and determining things and while we are in the dark, I think that the Trial Chamber has to exercise that responsibility with tremendous care.  And I think that should have involved a greater degree of enquiry about the nature of the redactions, given that they are so massive, and the identity of the witnesses whose statements are being redacted.  
+
+And I'm just very sorry that this has occurred and I have to say that I feel that my clients have been somewhat let down by -- by the Trial Chamber who went ahead and simply blessed the Prosecutor's redactions, without even making one single change or alteration to what they had proposed.  And I recognise that this was done at a time when, perhaps, the trust of the Trial Chamber and the Prosecutor was greater than it is now, as the Prosecutor has continually been caught cheating in this trial.  
+
+So, with that factual background, I want to make my first motion, which is a motion for a mistrial.  To say that we have defective disclosure in this case from the beginning with almost every witness would be an understatement.  Every time we have a witness, we're provided material in the middle of his testimony that we should have had 60 days before the trial, if not immediately upon its coming under the possession of the Prosecutor under Rule 68.  And now we have had five witnesses, and here we are with Witness T, and we have a huge amount of redacted material that should have been in our hands.  And I just think that we can't conduct a trial under these circumstances that is fair to my clients.  And I can't be expected with every witness to read material at the last minute without any opportunity to investigate with this promise or hope that somehow I'll get it right.  We are at an international tribunal here.  We are at the highest levels of international justice, and we are receiving the bottom of the barrel in terms compliance with disclosure.  
+
+In addition to defective disclosure, we have a defective indictment.  How many times already during the course of the trial have you ruled that material which has been the subject of testimony is admissible, because the Prosecution has, although failing to include the material facts in the indictment, has cured that defect by providing us with sufficient disclosure?  The thrust of the testimony of the first witness, Ahmed Mbonyunkiza, were meetings in February of 1992 of the Interahamwe, which were never put in the indictment.  The thrust of the testimony of Witness ZF, whom you have just heard, are meetings in (By order of the Court, this name has been extracted and filed under separate cover) camp in 1992, that are seen nowhere in the indictment.  I should say at location A. So, perhaps, that could be redacted.  
+MR. PRESIDENT:
+Yes, I redact the name of the place. 
+MR. ROBINSON:
+Thank you.
+
+And I could probably give you at least a half a dozen other examples, of meetings, rallies, through which you have admitted evidence - through which were not contained in the indictments.  So we have a defective indictment, and we have defective disclosure.  And I think the way this trial has gone, a motion for a mistrial by the Defence is a gift to the Prosecution, especially with respect to the testimony of Witness T, because they are totally failing, not only to provide a fair trial and the rudiments of a fair trial for our clients, but they are totally failing even to keep their own story straight and to have a cohesive story which is supported by evidence.  
+
+So, I believe that a mistrial is warranted for those reasons and also because a radical restructuring of this case is needed.  I think President Møse is going to go, this week, to the Security Council and tell them that the Tribunal is on track to finish its work by 2008.  And I think that we all need to be very honest that there's no way that this case can finish by the end of 2008 in its present form.  
+
+If you ask the Prosecutor when he thinks he is going to rest his case, and he gives you an honest answer, I do not think he will tell you no sooner than the end of next year, the end of 2007.  It is going to take us approximately 18 months to put on our case:  The kind of evidence that you've heard already, Witness ZF, with his meetings.  You can see I have 12 or 13 witnesses ready to come and testify that there were no such meetings.  Mr. Mbonyunkiza, and his meetings, you can see from my motion concerning his false testimony, I have 13 witnesses to say that his testimony is false.  
+
+The Defence in this case is going to take a very long time.  It's going to be a major undertaking and we're not going to finish the trial by the end of this Tribunal's mandate, and somebody needs to say that out loud; somebody needs to deal with it and deal with solutions whether it be transfer of this case under Rule 11 bis to another jurisdiction, severance, so that there are separate trials or something, but to continue to go on this way is absolute suicide and it is going to be a betrayal of the Security Council if everybody pretends that this trial can finish at the end of 2008, because it can't. 
+And so I ask that you consider at this time granting a mistrial, and taking some steps to find a solution to this problem.  
+
+My second motion in relation to these facts is that you, once again, reconsider your decision on the Defence motion to report the government of a certain state to the United Nation's Security Council and on the Prosecution motions under Rule 66(C).  And that you review the material that we have now seen in its unredacted form, and with the information that I have provided you and that the Prosecution has confirmed with respect to Witness HH, and with the information concerning the identities of the 13 witnesses whom you have already disclosed and you review this material carefully and that you now disclose to us all of the material that falls within Rule 68 and falls outside of the rationale of the Trial Chamber when it allowed the redactions, which was to protect Witness T's right to a fair trial by exposing us to individuals who we, otherwise, would not have known about, who were making accusations against Witness T.  So that's my second motion, that you reconsider your decision; that you review carefully the redactions, and that you give us a fair shake and that you disclose the material that we are entitled to.  
+
+My third motion is that I be allowed to conduct re-cross-examination on the new material, particularly that with respect to Witness HH, so I can put those statements to Witness T, get his -- get the contradictions on the record so that when Witness HH comes we have that evidence available to us.  
+
+My fourth motion is that you order the Prosecution to immediately return all CDs received from the state and that you order them to delete from their computers all of that material that they obtained from the state.  My reason for that is that things have now completely switched around.  
+
+Mr. Morley, tomorrow, will embark upon the effort of impeaching his own witness and the Prosecution will now be taking the position that it is Witness T who is not credible, and now they are the ones with the interest that conflicts with Witness T's right to a fair trial that justified your redactions in the first place.  You did not want the Defence to have the sight of this material because if we used it to impeach Witness T, it would defeat his right to a fair trial.  But it is now the Prosecution who is wanting to impeach Witness T.  
+
+They came into possession of this material illegally.  They never should have had it in the first place.  If the state had wanted it to be protected, as the Trial Chamber had ordered, they would have delivered it to the state -- to the Trial Chamber in two CDs.  The Trial Chamber would have disclosed one and kept the other out of the sight of both the Prosecutor and the Defence, but, instead, by cheating, they took possession of the CD with all of the impeaching material, and now they have it to themselves and they're in a position where they have used this material in their preparation for a redirect-examination.  
+
+So, I think it is only fair that you take it from them, and you order them to return it forthwith before they leave the courtroom as you ordered us to return the CDs on Friday.  I also request that the redirect-examination be ordered to be conducted by someone who has not had sight of this material, because the material is inextricably intertwined with all of the other preparation that has gone into the redirect by Mr. Morley, and it would be an unfair advantage for the Prosecution to take ill-gotten material and use it as the basis of preparation for redirect-examination to impeach Witness T.  
+
+And, finally, my fifth motion is a motion for sanctions under Rule 46(A) against the Prosecution.  When you denied the motion for stay of proceedings on the 16th of February, you told the Prosecutor that was the last straw, and look what has happened.  You said that it was necessary to point out that the administration of justice depends on the integrity of the Prosecution, and if it subsequently turns out that the declarations made by the Prosecution were inaccurate, the Chamber would revisit the issue to consider whether there has been misconduct on behalf of the Prosecution.  And now it would seem that the Prosecution's representations to you in providing the redacted material were inaccurate.  
+
+You said that the Chamber was very concerned about some of the explanations given by counsel for the Prosecution in open court, that difficulties in the Prosecution in searching their database or other deficiencies in research were not satisfactory explanations.  Yet that's the very explanation that has been offered as to why the HH material was not given to us.  You strongly recommended that the Prosecution improve its management of disclosure in the case, and you warned that lack of diligence or other default may require the Chamber to consider whether this is conduct which willingly interferes with the administration of justice, obstructs the proceedings, or is otherwise contrary to justice.  
+
+The Prosecution in this latest fiasco concerning the redacted materials through Witness T, has let the Trial Chamber down, has obstructed justice and has interfered with the right of the Accused to a fair trial, and we are waiting for you to do something about it.  Thank you.  
+MR. WEYL:
+Mr. President, before Mr. Morley replies, I'd like first of all to tell the Chamber that we share all of my friend Robinson's concerns.  Obviously, we support his various motions.  I do not want to lengthen the debate by supporting the arguments raised by Mr. Robinson.  But, yes, we must stress there is a need for rigour, and I'd like to say solemnly to the Chamber what my concerns are presently.  
+
+My first concern is my ability to defend Mr. Ngirumpatse in the future, given the conditions imposed on us, currently, to leave us ignorant as to certain details, to not know what details the Chamber and the Prosecutor are privy to.  And none of our efforts to counter the Prosecution are successful.  Therefore, we are in an untenable position which makes it impossible for us to keep our mandate. 
+
+Secondly, we'd like to inform the Chamber about a difficulty we face.  We are practitioners from a certain legal system in which we hold certain values.  For we, French lawyers, the culture of the trial in the criminal proceedings is untenable.  We cannot tolerate the proceeding involving redaction, so when my friend goes even beyond that which is normally applied, we certainly do not understand this.  The other day there was debate about disclosure made by Mr. Morley, whereby he compiled certain excerpts and a word came to my mind.  He had not disclosed redacted elements, he had fabricated a false document compiling 217 pages of a PV and reducing them to 25 pages.  Legally speaking, such disclosure is false; it is a forgery of a document.  It is made out to be an authentic document, yet it is false.  
+
+The Chamber said that this looks like something, but, then, when we look at what happened in the morning and now we see before us a redacted document which is not a redacted document, it is a document which cannot be used; it is a blacked out document; it does not have references that would enable one to identify a particular witness, a place, a point in time.  It is a document that cannot be used, at all in any form.  It is not a redacted document.  It is a document, once again, falsified in its substance.  
+
+For us, this is an issue we had mentioned in previous motions regarding partial disclosure and withholding of certain exhibits by the Prosecutor, and this brought up the intrinsic question of the rights to a fair trial; the right of the Defence to cross-examine a witness with equality of arms, as well as the Defence's right to examine.  By preventing us from making use of the references or documents he has, the Prosecutor seeks to prevent us from accomplishing our task; from practising the law; from cross-examining Witness T as fully as possible under the rules of cross-examination.  
+
+But in the in future, what will we have in terms of cross-examination if we are prevented access to certain documents?  If he does this, he is preventing us from accomplishing our mission.  Mr. President, once again, I wanted to make it clear how much we support Mr. Robinson's motions.  Another observation is that as a lawyer from another system, we have trouble understanding how the Chamber can share with the Prosecutor information to which the Defence will remain a stranger.  We certainly must put our faith in your powers of discernment, but your discernment can only be done or exercised fully on condition that you do put yourself in our position.  You have certain discretions, but if the Defence is not privy to discussions to be held with the Prosecution, then we do not know what sort of traps the Prosecution could lead you into.  
+
+In some countries, under certain laws, there is this difficult exercise involving the Chamber being placed in the hands of the Prosecutor, with regard to secrets withheld from the Defence.  And, therefore, this is a situation that is extremely uncomfortable for the Defence and certainly extremely uncomfortable for the Chamber to which the Prosecutor has even got a difficult task -- has even made the task more difficult.  
+
+On Friday, we had mentioned the consequences that may arise.  In substance, Mr. Morley said that he would ask for an ex parte hearing for your opinions on the redacted material.  It is an extremely uncomfortable position that the Chamber has been put into by the Prosecution.  And in order for this uncomfortable situation to end, we would hope that the Chamber would grant my friend Robinson's motion.  Thank you. 
+MR. PRESIDENT:
+Mr. Weyl, just for clarification.  The issue to which you are referring relates just to the matter that you mentioned, the application for -- that Mr. Morley made on Friday? 
+MR. WEYL:
+Mr. President, I was following up.  I support all of Mr. Robinson's motions, the five motions the Chamber is seized of. 
+MR. PRESIDENT:
+We understood that, but you were suggesting that the Chamber was sharing information with the Prosecution and you were discussing the dangers of that.  I wasn't quite certain exactly to what you're referring -- unless it was to -- I was asking for clarification. 
+MR. WEYL:
+Mr. President, as far as the Defence knows, there is only one secret between the Defence and Prosecution with reference to disclosures by a certain state to the Prosecutor regarding the Witness T, when the Chamber ordered that state's cooperation.  And having gone through the channels that the Prosecutor recommended or thought were correct, that the state provided one out of three CDs, and we had already indicated to the Chamber that this put us, as well as the Chamber, in a certain situation:  That is to read a document which the Prosecutor was able to read in full, and which the Defence was not enabled to read in full -- which, therefore, modifies our right to fully cross-examine and defend.  
+
+As far as I know, I have no other example to draw on whereby the Chamber was placed in a situation where the Prosecutor asked it to consider withholding exhibits, when the Prosecutor holds documents following a compliance with a decision by the Chamber, although in this case it is only the Prosecution that had the documents.  We did not have them.  And it is only natural that the Prosecution should -- let me say, if the Prosecution inadvertently gives us these documents, we can only be grateful that such a mishap happened.  
+
+Thank you, Mr. President. 
+MR. SOW:
+Mr. President, by your leave, I would like to make a number of observations, recalling that Édouard Karemera's Defence team had earlier on filed a motion to point out or present the unfairness of the trial.  The Chamber had rendered a decision, but I think the fact that Mr. Peter Robinson has sounded the alarm is a good thing.  The last time we said, as far as we were concerned, Mr. President, the Defence had the feeling that it was walking with just one leg, and sometimes completely amputated; sometimes forcing it to make use of a wheelchair.  And all of this, as I told you, at this stage of the proceedings the trial is being led by the Prosecutor and so the trial will depend on the way in which the Prosecutor makes his disclosures.  And we know that in this frame work, in this context there are a lot of things that can be said.  And the feeling that we have is that at every turn we are taken by surprise.  
+
+The Chamber has done its best to organise the sessions by asking the Prosecutor to give us the list of witnesses; the order of appearance; and even here, today, you will notice Peter Robinson revisited the issue because we never know where we are going -- where we are going with the Prosecutor.  Whereas, under Rule 66 he is required at least 60 days in advance to disclose all documents for all Defence exhibits.  As well, under Rule 66 there is a requirement to disclose such material.  
+
+Now, to date, the documents -- the documents I received with the assistance of my legal assistant, I was unable to open such documents.  We have concluded our examination of Witness T, finally, with all of these surprise disclosures.  And as my learned friend has said, it seems we will never know what has become of others.  It is important to note that the Prosecutor has obligations; he must comply with them for the sake of the integrity of the trial.  
+
+I must recall, Mr. President, Your Honours, that the Rules of Procedure for the conduct of the Prosecutor, No. 2, points out that the responsibilities and obligations of the Prosecutor -- I apologise, the obligations and responsibilities of the Prosecutor differ from those of the Defence counsel, and are more extensive.  "The Office of the Prosecutor is one of the three constitutive organs of each of the international tribunals and each of its members can be considered an officer of the Court.  With regard to the obligations of the Prosecutor, the Prosecutor must comply with the most rigorous rules of probity including in the obligation to proceeding with celerity if need be, and in good faith, demonstrate respect and frankness vis-à-vis the Tribunal and not to knowingly give an incorrect version of the facts that are relevant, nor present evidence by witnesses which he knows to be false.  Representatives of the Office of the Prosecutor should take all measures to duly inform the Tribunal as soon as he realises that an incorrect version of the relevant facts or that witnesses presenting false evidence have appeared in court."  End of quotation.  
+
+This is to say that the manner of disclosure is indicative of the lack of good faith of the Prosecutor who always puts us in difficult situations.  And Mr. Robinson said it, when he, at least, had an occasion to look at the CD, although I have not yet had that good fortune.  We have never seen such extensive redaction, and, once again, it seems this is in line with the Prosecutor's intention to take us constantly by surprise.  It is to be noted that as long as disclosure is not done in good faith, we will not be able to make progress in this case, given, as I have often noted, the reason we have lost so much time is because of the way in which the Prosecutor is conducting this trial.  And it is high time we put a stop to this, because as lawyers -- or, as a lawyer, it is obvious that we cannot work in the service of a trial in which equality of arms is not adhered to.  Mr. Prosecutor, it is high time, he has already been warned, but it is high time that a red card were issued -- be issued.  That is how I understand Mr. Peter Robinson's motions and this is the reason Édouard Karemera's Defence strongly supports the entirety of the motions presented by Peter Robinson.  Thank you.  
+MR. MORLEY:
+Well, where do I begin?  Mr. Robinson says we're cheating.  Mr. Weyl says we have created forged documents, and Mr. Sow complains that we've amputated his legs.  
+
+Mr. Robinson begins his argument by saying we can't continue this way, and it may be that a thought Your Honours have is that one thing we can't continue -- matter for Your Honours -- is the presentation of arguments such as these without any notice whatsoever.  I have come down from the quiet of my room, having been told by my learned leader that Mr. Robinson wanted to raise some questions about the redactions, and I discover that I face 11 arguments, including an argument for a mistrial, and an encouragement to Your Honours to apply sanctions under Rule 66.  
+
+Now, where I come from -- and I appreciate that I am not there anymore -- it would be considered inelegant, and there are stronger words, that counsel opposing would advance so many arguments, some of which are of such importance, without any notice whatsoever.  So that I find myself before Your Honours, simply on my feet responding from memory, without having had the weekend to prepare the argument which we have heard mustered by Mr. Robinson.  So forgive me if I begin with a slightly sour note, but I do respectfully submit to Your Honours, that when motions of this nature are going to be advanced, something should be said to put people on notice.  It would make things run more smoothly.  
+
+Turning to the substance of the arguments, may we begin, please, with the fact that there is a decision from the Trial Chamber dated the 15th of February 2006, which ordered the material in the CD, collectively known as CD 2, not disclosed:  And the relevant material which has been the subject of so much sound and fury is in CD 2B.  The material relating to the Witness HH, is in CD 2A.  All of that material has been before the Chamber.  All of it has been carefully reviewed by the Chamber; it having been filed in September 2005; the decision having been issued in February 2006; the Chamber and those assisting the Chamber, no doubt, having looked carefully at the material, reviewing it, reached a decision and that decision has been the one which the Prosecution has followed.  So that the redactions were authorised and the withholding of statements such as the HH statement, has been authorised consequent to a review, no doubt, carefully conducted by the Chamber, pursuant to the arguments which were advanced ex parte which Your Honours will recall -- and I can say before my learned friends -- related to the propriety of revealing the identity of witnesses who have been spoken to by a foreign state conducting their own independent inquiry.  
+
+It was never suggested the material was irrelevant.  It was material which Your Honours had to finely balance, and no doubt Your Honours did, as to the disclosability of the identities of witnesses who have spoken against T and their statements, in the interests of T, and in the interests of the Defence, weighed against the necessity for there to be no improper interference in a fair trial being conducted as against T, in a foreign jurisdiction.  So we start, I respectfully submit, Your Honour, with the proposition which Your Honour may feel is inescapable, that the Prosecution has done nothing wrong, because the material which has been disclosed has been disclosed pursuant to an order of the Chamber, and the material which has not been disclosed, has not been disclosed pursuant to an order of the Chamber.  
+
+If that is right -- and I respectfully submit it is difficult to see how it is not -- then, it may be that it is inappropriate for my learned friend, Mr. Robinson, in such colourful terms to insist on sanctions being applied to the Prosecution.  It is not entirely clear why sanctions should be applied to the Prosecution for the Prosecution following the Chamber's order of the 15th of February 2006.  There were 11 arguments advanced.  One of them was there is an application for Your Honours to review the application for disclosure.  That is to say, to review all of the material.  That is a matter for Your Honours, but if it is right to anticipate that the material has been carefully reviewed already, and has been studied, it having been filed in September and there being five months before the decision of February, then one wonders what the point of the review is, other than has anything changed in light of the presentation of T, and the cross-examinations which have taken place? 
+If one looks at that as being a change in circumstance, what is interesting is that the Defence have uniformly put forward T as a credible witness to be relied on, honest, heartwarming and very jolly, and they have not sought at any stage to impeach him or to challenge his credibility.  Pause there.  The material which was disclosed and that which was not disclosed, Your Honours know, relate to challenges to T's credibility.  That is to say, suggestions as I have articulated before the Court before, that he did bad things, not relating to any three of the defendants in this case during the course of the genocide.  So if there is a material change in circumstance by reason of the presentation of the cross-examinations of T, the reality is that this material which is the subject of an application for complete and exhaustive and studious review by Your Honours is even more remote from the issues before the Trial Chamber.  Not more proximate, but more remote.  
+
+So on the face of it, if there was a properly conducted review in the first place, having heard the cross-examinations, the material is even of less help and it would consequently suggest that the balancing act which Your Honours conducted in respect of the propriety of revealing identities and statements, versus the necessity for the Defence, that balancing act remains even more squarely on the side of the propriety of protecting witness identities, because the material on the face of the cross-examinations is, in fact, irrelevant.  
+
+The suggestion by my learned friend, Mr. Robinson, in respect of an application to refer a state to the Security Council, I respectfully submit is misconceived.  The reason for that is, whatever Mr. Robinson says by way of complaint, that the material was picked up by the Prosecution, it was thought diligently by the Prosecution, because it may have been otherwise we'd never had it.  That material having been picked up, Your Honours have not sought to sanction the state for handing the material over to the Prosecution.  And, indeed, Your Honours have endorsed the Prosecution position that some of that material should be withheld so that, therefore, the Prosecution were right in the Chamber's finding of 15 February 2006, to have obtained the material.  
+
+It would be jolly unfair to refer the state to the Security Council for having been found to have conducted itself reasonably responsibly by Your Honours, because Your Honours ordered that some of the material, rightly, should not be disclosed.  My learned friend, Mr. Robinson, goes on to suggest that I'm about to impeach Witness T.  And makes the ingenious argument that I should not be allowed to do so on the grounds I have material which is within the files of the state material -- state dossier, which gives me an unfair advantage.  Well, wait and see as to how I deal with T, please.  
+
+Mr. Robinson is, perhaps, a little bit over-confident in respect of Witness T's testimony.  I have had the advantage of reading all of the transcripts.  And I hope this comment is not out of place, but Mr. Robinson makes lots of comments to witnesses about how wonderful they are.  I will trespass very delicately into the minefield of suggesting that having reread the transcripts, I'm not sure the Defence have all that to be pleased about.  But we'll come to that tomorrow, during the re-direct, if that is what Your Honours feel should take place.  Enough comment from me. 
+
+Finally, there is the application by Mr. Robinson to declare a mistrial, and I'm not entirely sure how the argument runs.  It seems to be, firstly, that we've been not very good at disclosure.  Pause there.  We have complied with Your Honour's order of the 15th of February.  So that doesn't seem to work, as an argument, I put forward that as an answer to him.  And, secondly, he says this trial is going to go on too long anyway.  Well, wait and see.  Moreover, it is not at all clear that if a trial has not ended by 2008, which is already in progress, it would follow that the trial has to stop.  There is some thinking that the meaning of the Tribunal closing down in 2008, means no new cases will start after that time.  I'm not putting that forward as an answer to the point that is being made by Mr. Robinson, but the question of the end of the trial is a moot one.  When it will happen and if it happens after 2008, what that means are issues which are entirely up in the air and not for Your Honour's consideration presently, I respectfully submit.  
+
+There was a curious argument which suggested that the disclosure by the Prosecution has cured various defects in the indictment.  And because those disclosures have cured defects in the indictment, therefore, the indictment has stood and consequently if disclosure is found to be defective, curing a defective indictment, it would not be correct for Your Honours to continue with the trial, the trial being of a defective indictment, and disclosure now being defective.  It's an interesting argument, but it all relies on disclosure having been defective in respect of the state dossier, and I come back to where I started:  All of the material was put before Your Honours in the relevant piles and the decision was taken by the Tribunal which the Prosecution kept with as to disclosability.  So disclosure has not been defective.  And where my learned friend complains of what he calls 90 per cent redaction, all of that was on the face of the arguments which took place with regard to the presentation of the CD 2B.  
+
+So it is not as if we have done anything which is unanticipated by the Chamber.  What Mr. Robinson's motion really amounts to, arguably, is a complaint that Your Honour has got it wrong:  That the material which has been ordered not disclosed should have been disclosed and, realistically, my learned friend's motion is for a reconsideration, and I come back to the point I made a little earlier:  Insofar as an application for reconsideration is made, no doubt Your Honours welcome it and will look forward to long hours in the Chambers rereading the material.  However, the question which arises is when one looks again at the material, in light of the cross-examinations which have taken place, balancing the issues as they were argued for withholding the disclosure, it seems plain that the disclosability of the material is more remote than ever as a result of the Defence putting forward the witness as a witness of truth and reliability, and not seeking to impeach his credibility.  Insofar as my learned friend wishes to re-cross-examine the witness on any of the material he has had, then I make no observations.  It is a matter for Your Honours to consider, and it would never be my position to resist counsel applying to cross-examine further before a redirected examination.  
+
+In short, we've done what the Chamber told us, and it may be thought that sanctions and mistrial and arguments about reporting a state to the Security Council, are misconceived.  And I end as I began, I would really rather like to have notice of these arguments before they are advanced.  The purpose behind not giving me notice, frankly -- and I use the word, I know, inelegantly -- the purpose is to ambush me, and that may not be in the interests of the Chamber, because you may want to hear my thoughts a little bit better marshalled than perhaps the Chamber feels they were today.  I hope that is of assistance.  
+MR. PRESIDENT:
+Thank you. 
+MR. ROBINSON:
+I will be very brief in reply.  And my first word that comes to my mind is wow.  Mr. Morley is hiding behind the robes of the Trial Chamber, cloaking himself in your robes to avoid what the Prosecutor has done in this case, which is they've duped you.  Did you know that the name of the individual who was being commented on by T, was really Witness HH?  Did you even have any way of knowing that, so that when you looked at the redacted material you would realise that here is the situation where two Prosecution witnesses were contradicting each other?  Did you know that the bulk of the other material related to witnesses who the Prosecutor wanted you to hide from us, but whom you had already ordered their identities disclosed to us; the very same people?  If you knew that, and made the conscious decision to keep that material from us, well, then maybe Mr. Morley has a point and we can complain to the Appeals Chamber when this case is all over.  But I suspect that you did not have the tools to make that decision and that you relied on the Prosecutor to furnish you, to first of all, to do its job properly, to be fair, to disclose that which should be disclosed, and to hide or not disclose that which should not be disclosed, and gave them a presumption that they are doing their duty properly, a presumption that they have clearly undone at every turn of this trial, and it's our position that, now, knowing what you know, from my five-minute review of this material, the situation is completely different than what you saw when the material presented to you in secret.  And I think you should look at it from that perspective, had you known what you now know about this material, would you have so acted?  And the answer is clearly no.  And the Prosecutor cannot shelter his own misconduct by having duped the Trial Chamber into following his lead.  Thank you. 
+MR. MORLEY:
+Your Honour, may I just mention something?  It occurs to me again the function, perhaps, of being taken by surprise.  The 13 witnesses my learned friend refers to, I'm not sure whether they appear in this bundle or not.  So I would have to go and check that.  It is one of those things if he had warned me in advance I would probably know the answer at this point.  The HH Witness is the subject of a single statement, and that is a statement -- Your Honour may recall my learned friend standing up on Friday, saying he his constantly amazed at the certainty with which I speak, rather ringing tones, and opined that the statement in relation to HH, which had been the subject of enquiry of Witness T, was an ICTR/OTP statement.  Well, that's not right.  As I suggested, it was a statement taken by the foreign state, so I was right, albeit, and this is a problem when Mr. Robinson stands up and catches me by surprise like this.  It is my training to be cautious, and not leap down Mr. Robinson's throat and make an assertion which I'm wrong about.  Mr. Robinson comes from a different jurisdiction and perhaps it is a more combative one.  I was right and he was wrong, I can tell you three days later, because I have had a chance to check. 
+
+Now, similarly, I would like a chance to check in relation to the 13 witnesses he is going on about,  because I am not aware this is an argument until I walk into court.  So I am not going to commit myself.  But whatever the position in relation to the 13 witnesses, they are not witnesses in this case, and insofar as they have made any PVs to the state authority, and I stress I don't know whether they have or not -- insofar as they have, they have been protected by the order which balances the interest of not interfering in a foreign state's enquiry against the interest of the defendant.  Now, I know my learned friend, Mr. Webster, has taken a particular position with regard to the disclosability of the (By order of the Court, this name has been extracted and filed under separate cover) material.  I'm sorry, delete, please.  
+MR. PRESIDENT:
+It is redacted. 
+MR. MORLEY:
+Your Honour will recall -- Thank you.  My learned friend, Mr. Webster, has taken a position with regard to HH material, and its disclosability in respect of material relating to that witness.  Leaving aside the niceties of that, it's a different sort of an argument, that is because that witness is a Prosecution witness.  But the announcement that all the -- there are 13 other people within the material who are not Prosecution witnesses, and because they have been referred to in some other order.  But that order relates to the disclosability of their statements to the OTP, it doesn't follow that it automatically means that their statements to a foreign state are disclosable, because that was the argument that was advanced about disclosability.  
+
+I am sorry I have come back, as it were, on that particular point.  Your Honours will appreciate that I had a variety of points to deal with, as I was on my feet, and I apologise for the inelegance of not having dealt with that one, whilst I addressed you first.  
+MR. WEBSTER: 
+If I may, I would like to make one very brief comment, to thank Mr. Morley for his submission which I think was quite complete.  I would submit that he has addressed all of the complaints that were raised by the three Defence teams, but simply to conclude that it really starts to get wearisome when one is left with the impression that the entire Trial Chamber is held to hostage by Defence threats to extend the trial unreasonably, because that is really what this comes down to:  The reference to the completion strategy to this Tribunal, the length of the Defence case, the threat to call 13 and 14 witnesses for each allegation made by the Prosecution witnesses, really amounts to holding this Tribunal hostage to their constant complaints, many of which are quite groundless.  When you look at the issue substantively, Mr. Robinson started out by complaining about the nondisclosure, the inadequate disclosure from his perspective about the material from T, and it is material he has no intention of using and then he flips the coin by suggesting that the Prosecution now should be denied that material.  So I'm asking this court to look at the fundamental issue of justice for this trial.  
+
+This Prosecution team has made voluminous disclosure in this case.  I would go out on a limb to say that no other case has made the volume of disclosures that we have.  Aside from the material that we detail in disclosing, we have the advantage, now, of relying upon the EDS that was not in place two, three, four years ago.  So when you look at the materials that are placed at the disposal of Defence, electronically, through the database, to which they all have access, and you look at all of the disclosures that we have made independently of that, it is a ridiculous assertion to blame the Prosecution for inadequate disclosure.  
+
+It really offends me, personally, to hear that over and over again, given the consistent efforts that we make to disclose materials.  When you look at the example of Witness GFA which was the substance -- the subject of complaint this morning, in addition to all of the statements, we go into the records we receive from Rwanda, we disclose all of those, we do renewed Rule 68 searches, for the Defence.  We are actually doing the work of the Defence.  We do more work for the Defence than we do preparing our own case, and it is unprecedented.  Some of these witnesses have testified in two and three other trials in this Tribunal, and none of them have the chronic complaints that we do, and we disclose two and three times the volume of material that are disclosed in those other cases.  It really starts to become offensive, and the Trial Chamber needs to focus on that as an issue of substance of justice for the participants in this trial, and it is not only the Defence that is entitled to fair trial rights.  The Prosecution, as well, and the victims in these proceedings are entitled to a fair trial and an expeditious trial, and Mr. Robinson's threat to extend his case to 18 months, simply because the Trial Chamber is not favourably ruling on his motions concerning the indictment, should really cause offence.  
+
+This Trial Chamber has already decided the numerous objections and motions to the evidence in relation to the indictment.  Those issues are past.  The Trial Chamber has decided those issues.  How does it advance matters to use those decisions that the Trial Chamber has already made as a threat -- a veiled threat to extend this trial by two or three years, simply because the Defence is not getting its way. 
+
+So I will conclude here, Your Honour.  I think that Mr. Morley has fully responded to the Witness T issue.  I simply wanted to offer those last thoughts but I would urge the Trial Chamber to dismiss this motion, the Defence motions in all respects, and if the Trial Chamber has lost any confidence in the Prosecutor's office on this disclosure issue, please point it out to us specifically and we will do better.  But I can't imagine, given the volume of materials that is we have disclosed, that the Trial Chamber has any reason to criticise or fault the Prosecutor.  Thank you.  
+MR. PRESIDENT:
+Well, gentlemen, after listening to those submissions, it's obvious that we can't respond immediately, so we will reserve our decision, and we'll take the mid-afternoon recess now, and when we resume we will continue with the ZF cross-examination, but we will take the recess now.  
+(Court recessed at 1525H)
+(Pages 35 to 51 by Eleanor Bastian) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1550H) 
+MR. PRESIDENT:
+(Inaudible)  That took a bit longer than I anticipated, but we're now ready to resume your testimony.  
+THE WITNESS:
+Very well, Mr. President.  
+MR. SOW:
+ Mr. President, I'd like to make a request that we go back into closed session.  We're not yet done. 
+MR. PRESIDENT:
+Yes, I'm sorry.  It was an oversight on my part.  We return to closed session now.  
+(At this point in the proceedings, a portion of the transcript [pages 53 to 57] was extracted and sealed under separate cover, as the session was heard in camera)
+(Page 52 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT: 
+We are back in open session now.  
+BY MR. SOW:
+Q.	Witness, we are now in open session, so I ask you to be careful not to mention any names that may disclose your identity.  My line of questioning will bear on the war and its consequences, so we'll be talking about the war.  
+
+Let me begin with the RPF attack of October 1990.  Witness, can you tell us what the consequences were of the war in Rwanda in October 1990?
+A.	Counsel, my humble self can only provide a few consequences that I am aware of because I did not conduct much of an investigation into them.  I can talk about what I saw:  namely, that there was confusion that arose over that war in 1990; there was hatred between Rwandan brothers; many people felt that the war had been imposed on Rwanda by Tutsis from abroad.  That was the first consequence.  So a sudden onset of hatred, because people were wondering why Tutsis wanted to come and kill, because it was understood that the Tutsis -- the Tutsi came to kill Hutu and not other Tutsis.  
+
+The second consequence is that there were arrests during that period.  Particularly in Gisenyi where I was, people who were suspected were arrested.  Maybe those who suspected them had their reasons, but what happened is that those suspects were arrested and deprived of their rights, and mistreated.  That is a second consequence which I personally observed.  
+
+Thirdly, a spirit of vengeance also emerged in that those who held power became vengeful because they didn't want to lose power.  They felt that the war might take power away from them.  So they said that it was the war of the Tutsi against the Hutu, but they did not explain to us, that is the civilian population, that is, those of us who were not very familiar with politics at the time, they had not explained that the RPF, as a matter of fact, was a front that comprised of Hutu and Tutsi seeking political goals and not necessarily targeting the population.  So that information, or should I say that political stance, was disseminated or broadcast through various media throughout the civilian population, with the effect that the Hutu population began to feel vulnerable and, therefore, was always watchful and reverted to self defence.  So, as someone who had lived in Gisenyi at that time, those are my observations, and these would be what I consider to be the rather grievous consequences of that war.  
+Q.	Thank you, Witness.  Now, tell me, before the October 1990 war, did Hutu and Tutsi live together in some measure of harmony?
+A.	Yes, Counsel.  
+Q.	Security problems did arise because of the October 1990 war, isn't it so?
+A.	Well, Counsel, I believe that this war created insecurity. 
+Q.	Insecurity among the Hutus.  Now, the RPF, wasn't it made up basically of Tutsi?
+A.	Counsel, I know nothing about the basic composition of the RPF, but from information available to me, either from the radio or from colleagues or obtained through various contacts within military circles, it was said that there were Hutus in the RPF as well as Tutsis.  So I do not know what their positions were but, again, let me say that the RPF was a civilian and a military operation; there was the APR and the RPF.  
+
+At the Gisenyi camp, we knew about it and we talked about those civilian personalities who were Hutu.  Kanyarengwe, Alexis, for example, who was the chairman of the RPF.  He was the boss.  But, you see, at the camp we said that yes, he is Hutu, fair and well, but he was an unsatisfied Hutu.  
+
+There were other figures of authority, but I don't know what role they played.  Like Lizinde, who was released from the Ruhengeri prison, who was part of the RPF.  And at the officers' camp we knew there were Hutus within the realm of the RPF, but these were dissatisfied Hutu.  Now, if we look at the lower ranks of the RPF and the soldiers of the RPF, I do not know what the composition was, but we were aware that there were Hutus in the leadership of the RPF. 
+Q.	But they were an absolute minority, weren't they, because otherwise why was the RPF referred to as the Inyenzi?
+A.	The RPF were referred to as the Inyenzi by way of an analogy to another rebel group which, at some time in the history of Rwanda, had launched an attack against Rwanda.  That group was known as the Inyenzi.  Inyenzi, as an expression, was used to mean that the same group was attacking again for a second time.  
+Q.	So this word was used in relation to the army of a Tutsi king who was very renowned?
+A.	Well, I do not quite know the origin of the word, but from the little history I know, a group of rebels at some point had attacked the country and it was said that this group was made up, basically, of Tutsi who had escaped from the country in '59 and who wanted to force their way back.  That group was being referred to as the Inyenzi.  Well, maybe those who know the history, the ancient history, they say that that name refers to a very poisonous snake, and that this is something in the distant history of the country.  So the word "Inyenzi" referred to somebody who was very, very, wicked.  
+Q.	Thank you, Witness.  I just want to draw your attention to the fact that "Inyenzi" or "RPF" is indeed references to the RPF which was made up, basically, of Tutsi.  And this is an open secret.  I do not know why you hesitate to say so.
+A.	I am not hesitating, Counsel.  I am not very clear on the origin of the word; that is all I'm saying.  
+Q.	It was your testimony that you were arrested during the events of October 1990.  Since you knew Gisenyi very well, could you tell us who arrested you and when you were arrested?
+A.	I was arrested around the 3rd of October.  There was a group of youth who came along with the judicial police inspector, and I knew that judicial police inspector, but I do not remember his name.  That is the group which arrested me in my home. 
+(Pages 58 to 60 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1630H 
+BY MR. SOW:
+Q.	Witness, since you were from Gisenyi, you certainly did recognise the youths who came to arrest you? 
+A.	Yes, Counsel. 
+Q.	Can you give us the names of those young persons? 
+A.	No, Counsel, I do not know their names. 
+Q.	But you say that you knew them.  How did you know them?  Is it that you did not know their names, or you don't want to mention their names? 
+A.	I saw them and later on I met -- I saw them as part of the youth wings, but I did not bother to know their names. 
+Q.	Witness, tell me, on what basis did these youths, who had no power, no authority, on what basis did they arrest you? 
+A.	I don't know, Counsel.
+Q.	To which group did those youths belong, Witness?  
+A.	Later on -- it is later -- it is later on that I found out that those young people were Interahamwe and Impuzamugambi, and it is then that I understood that those youth wings which were previously faceless or anonymous did, as a matter of fact, have some political leanings because they were supporters or fanatics of one political party or the other.  So I saw these young persons in the Interahamwe and in the Impuzamugambi. 
+Q.	Witness, am I to understand that at that time the Interahamwe were already active? 
+A.	Counsel, when you talk about being active, I do not know what you mean and I don't know how to explain this to you.  But from the very beginning of the war, at least, that is when this phenomenon surfaced, there were groups of young people who had certain leanings and one could see those leanings but one could not say to which group they belonged.  It is only later on, when political parties were institutionalised that one was able to understand that this movement or this wing -- this youth wing belonged to that party or the other one, but the trend had already been in place well ahead of their identification with any given political party. 
+Q.	Now those groups, Witness, were they some kind of a militia, as far as you know? 
+A.	Yes, they were fanatic militia at the time of my arrest. 
+Q.	And the militia you are referring to were the Interahamwe; is that so? 
+A.	I have told you, Counsel, that it is only later on with the advent of official multiparty politics that the youth wings of various parties, that is, Interahamwe or Impuzamugambi became identified clearly, and it is only then that I was able to relate those militia to their various leanings, but at the very beginning, there were groups without any particular affiliation. 
+Q.	At the time of your arrest, who spoke to you? 
+A.	Counsel, I told you that they were led by a judicial police inspector.  They came in with him and took me, asking me to follow them, which I did.  It is the judicial police inspector who took me away along with that group of persons.  
+Q.	Someone comes to your home and tells you, "follow me" and you follow them without saying anything, Witness, is that what we should understand? 
+A.	Yes, Counsel.  I followed him because I knew him and I knew that he was a judicial police inspector. 
+Q.	You did not ask him why he had come to arrest you. 
+A.	No, Counsel. 
+Q.	At what time did they pick you up from your home? 
+A.	I do not remember, Counsel, but it was very early in the morning. 
+Q.	4 a.m., 5 a.m., 6 a.m.? 
+A.	No.  I do not remember the exact time, but it was very early in the morning. 
+Q.	Were you already awake?  What time do you usually wake up? 
+A.	I do not have a specific time to wake up, Counsel, but because you insist, I would say it was about 
+	6 a.m., approximately. 
+Q.	When they picked you up, where did they take you? 
+A.	They took me to Umuganda stadium in Gisenyi. 
+Q.	And you still didn't ask any questions? 
+A.	What I can say, Counsel, is that there was no opportunity to ask any question given the prevailing situation.  You couldn't even ask any question to anybody.  You were dropped off there and the person who dropped you off there went away and you were left with the guards who stood at the door.  So who would I have put any questions to?  
+Q.	Witness, in your testimony or statement, you said that there were detectors within the army; is that correct? 
+A.	Yes, Counsel. 
+Q.	You also said that these people were dressed in civilian attire and were involved in conducting investigations within the army; is that correct? 
+A.	Their main duty was to spy on or to control or check the behaviour of soldiers outside the camp and to monitor their relations with civilians. 
+Q.	You also said that they were charged with joining and assisting the militia; is that correct? 
+A.	Yes, Counsel. 
+Q.	At about what -- what time frame would you situate all of that? 
+A.	In Gisenyi, that would have been in 1993 when Colonel Nsengiyumva, Anatole arrived, when he arrived in Gisenyi.  
+Q.	What month of 1993? 
+A.	I do not remember, Counsel. 
+Q.	So according to you, the dictators trained the militia in 1993; is that correct?  
+A.	No, it is not according to me; that is according Lieutenant Colonel Bizumuremyi, who was the coordinator between the -- the liaison between the militia and the Ops commander.  So the soldiers in civilian attire had been instructed to become part of the militia, that is, the Interahamwe and Impuzamugambi and to assist them. 
+Q.	So your information on the militia came from Colonel Bizumuremyi, is that so? 
+A.	He was lieutenant, not colonel. 
+Q.	Apart from him, can anybody else confirm your position? 
+A.	I do not know, Counsel. 
+Q.	Thank you.  Let us now talk about civilian defence.  What do you know about civilian defence? 
+A.	Civilian defence as understood by the Gisenyi soldiers at the camp was a civil defence group of Hutu inhabitants defending themselves against Tutsi civilian inhabitants. 
+Q.	Witness, is there any document or any piece of evidence which can indicate that civilian defence pitted the Hutu civilian defence against Tutsi civilian defence? 
+A.	Well, Counsel, I do not know what type of evidence you are referring -- you may be referring to, but my testimony refers to what was said at the time and to what we knew at the Gisenyi camp, that is in the circles of soldiers.  This is what was being said.  So I do not know whether all of that was written down anywhere in a document.  Well, if there was any such document, I am not aware of it, but what we knew was that the RPF had attacked the country, as you stated a while ago, that the RPF was made up basically of Tutsis who had brothers within the country and who were their accomplices.  So the RPF wanted to exterminate the Hutu population, but they could not succeed because the armed forces were in place.  So there were Ibyitso.  
+
+	Ibyitso were the accomplices of the RPF.  These Ibyitso accomplices or purported accomplices were considered to be an internal force which was also a threat to the Hutu population in much the same way as the RPF coming in from outside.  So the army was at the war front while the population within no longer enjoyed sufficient protection.  That is why civilian self-defence was put in place and it was indeed a matter of self-defence because the entire army had been assigned to the battle front at the borders with Uganda. 
+Q.	Witness, you would agree with me that the RPF used guerilla warfare tactics and, indeed, attacked the civilian population, isn't it so? 
+A.	Counsel, I have no answer to that question because one had to be part of the RPF or to live within the civilian population that was a victim of these activities to know whether the RPF used guerilla warfare tactics.  I have no personal knowledge or assertions to make in respect of that situation. 
+Q.	But from your experience and from what you heard, did the RPF attack the civilian population or not? 
+A.	I did not see any such thing.  I was never at the battle front and the RPF was engaged in war at the battle front, but from time to time they would make incursions into Ruhengeri and other areas.  But I personally did not see any operation of that scale or scope, but what I heard was that at the battle front in Mutara, for example, and Ruhengeri, when the RPF went by civilian populations were affected; homes were burnt down, there was material loss.  But I cannot personally tell you who was responsible for it because you know in times of war there are two warring factions and one cannot always know where the bullets that killed people came from, whether they came from Uganda or from Rwanda. 
+Q.	Witness, were you part of the civilian defence movement?  Did you participate in it? 
+A.	No, Counsel. 
+Q.	Can you give us the reasons for not participating? 
+A.	The only reason is that throughout that period, I was in a fixed location.  I was not within the civilian population and I did not need that kind of defence like the civilian populations did.  So I did not know whether it was necessary to be part of it or not because, personally, I was not in the midst of those inhabitants who were victims or who were purported to be victims.  I was under military protection and I was in a military centre, so I could not take part in any civilian activity of any nature whatsoever. 
+Q.	Witness, civilian defence was a voluntary service.  You were from Rwanda, your country was attacked.  All the active forces of the nation were mobilised, but you did nothing.  All you said simply is that you were under the care of the army. 
+A.	Counsel, I believe that what I did at that time went far beyond civilian defence.  It was more.  It was defending the nation and the nation includes civilians and soldiers and others alike. 
+Q.	Witness, you have told us in relation to information from soldiers that you understood the president's speech on the 15th of November in Ruhengeri, that he was going to come down with the Interahamwe to mean that he was going to exterminate Tutsis; is that correct?  Can you confirm that? 
+A.	Please repeat your question, Counsel. 
+Q.	It has been your testimony that in discussions with soldiers, you gathered that from the president's speech in Ruhengeri on the 15th of November, it emerged that the speech meant that he was going to come down with the Interahamwe to exterminate the Tutsi.  
+A.	Counsel, that is not what I understood.  That is what emerged from the discussions amongst officers who talked about that aspect of the speech.  It was very interesting.  It was a very interesting point for the officers because the speech by the president of the republic, to their mind meant that when he will come down with his militia, that at the opportune time he will come down with his militia and if the head of state were to take such a decision, the soldiers would receive it as a very good thing.  This was the thrust of their discussions, but it is not what I personally understood the speech to mean. 
+Q.	Now, Witness, did you know that this version that you stand by has already been mooted before this Trial Chamber, but it subsequently emerged that it was entirely meaningless and that the cassette was listened to and viewed here in this courtroom?
+MR. WEBSTER: 
+I am sorry.  I object to that question, to the form of the question.  Mr. Sow can put questions 
+along -- that address the speech, but without telling the witness that this Trial Chamber has made any conclusions whatsoever about its content. 
+MR. SOW:
+Mr. President, I don't know whether it is a matter of translation.  I didn't say that the Trial Chamber has come to a decision on that case.  I simply said that it was listened to. 
+BY MR. SOW: 
+Q.	So the question to the witness:  Would you be surprised to find out that we have watched that tape and that it did not emerge at any time in the speech that the president was going to come down to kill Tutsi? 
+MR. WEBSTER: 
+I am objecting on the same basis. 
+MR. PRESIDENT:
+You can put something to him relating to the speech.  At the end of the day, we will make our own evaluation as to whether his evidence is in conflict with it or not.  
+MR. SOW:
+Obliged, Mr. President. 
+BY MR. SOW:
+Q.	Witness, did you cross-check the information which you say you gathered from the soldiers? 
+A.	Counsel, at that time I did not have to cross-check because the words they used were in Rwandan language.  Our language is replete with proverbs and we use them extensively.  And when a group of officers meet like the one which met in my presence, there was an interpretation of the president's speech, that is the speech delivered in Ruhengeri, then they went on to talk about this coming down with the militia.  This may not have been exactly the same words by the president, but for a Rwandan who understood what he had said, the discussions evolved around that point and I, therefore, did not need to cross-check because it was obvious; it was very obvious at that time.  So there was no need for me to cross-check.  I simply understood that what he was saying was true at the time and under the circumstances. 
+(Pages 61 to 65 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+BY MR. SOW:
+Q.	Now -- so, Witness, you are no longer dealing with information, you have moved on to say that it was true; you are, therefore, expressing an opinion? 
+A.	No, Counsel, I have said at that time, personally, as a Rwandan at that time you asked me why I did not cross check the information, and I told you that I had no reason to verify because I was there, I was with those officers and what was being said was spoken in a language which I could understand.  If I          had -- if we had all misunderstood, then fair and good.  As far as I understood I had no reason to cross check. 
+Q.	Witness, when it was announced that the president of the republic's plane had been brought down, your testimony here was that in the evening of the 6th of April 1994 in Gisenyi, work was over for that day; do you confirm that as having been your testimony? 
+A.	What work are you referring to, Counsel, my job, or work for all workers?  
+Q.	Well, that was your statement.  You said that immediately after the president's plane was brought down in the evening of the 6th of April, you said that work was over for that evening.  You don't recall having made such statement? 
+A.	Well, if I said that work was over at that time, I was referring to my personal work or my personal job (By order of the Court, this portion of the evidence was extracted and filed under separate cover) 
+Q.	Fair and well, Witness.  
+MR. WEBSTER: 
+(Microphone not activated) 
+BY MR. SOW:
+Q.	Witness, could you repeat? 
+MR. WEBSTER: 
+I wanted to indicate that I'm requesting a redaction of the last word in the witness's final response where he identified that type of work that he did.  It is a minor point, but I think it is -- 
+MR. PRESIDENT:
+(By order of the Court, this portion of the evidence was extracted and filed under separate cover)  
+MR. WEBSTER:
+Controversial.
+MR. PRESIDENT:
+Yeah, we could redact it, the last three words of the last witness's answer. 
+MR. SOW: 
+Mr. President, he didn't refer specifically to his job, he did not mention it so I don't see the need for redacting. 
+MR. PRESIDENT:
+Yeah, but for the purposes of understanding your -- his answer, (unintelligible) he said "my personal job", we would know what he is talking about, just to be on the safe side, I think.  It doesn't take away anything from his answer; it is just to put safety first. 
+MR. SOW: 
+Very well, Mr. President.  
+BY MR. SOW:
+Q.	Witness, when you found out that Tutsi would not be spared, what did you do, what measures did you take to save your family? 
+A.	When you talk about my family, are you referring to the extended African family, or are you talking to the nuclear family?  
+Q.	I'm talking about the extended family? 
+A.	I had nothing to do in respect of my extended family.  I could not even know what their situation was because I was at the location -- at a fixed location and I could not move about.  I was not in contact with them.  All I knew and could deal with was the situation of my restricted or my limited family, that is my wife and child. 
+Q.	You also testified that gendarmes and the 42nd battalion were dispatched to reinforcement -- as reinforcement to Bisesero; do you confirm that? 
+A.	Yes, Counsel. 
+Q.	When did that take place, at what date? 
+A.	I do not have an exact recollection of the date, but I do remember the period. 
+Q.	What period would it have been then? 
+A.	It was after the 4th of April.  You referred to the 42nd battalion gendarmes and militia who were sent to Bisesero in Kibuye préfecture. 
+Q.	After the 4th of April of which year? 
+A.	1994. 
+Q.	Who was the commander of the 42nd battalion? 
+A.	It was Major Habimana, Counsel. 
+Q.	Did Major Habimana go to Bisesero with his troops?
+A.	No, Counsel. 
+Q.	So who was at the head of the 42nd battalion?
+A.	It was commanded by some officers, Counsel. 
+Q.	And who commanded the gendarmes who were sent to Bisesero? 
+A.	There was also an officer in charge. 
+Q.	You said that officer G-2 reportedly told you that the Inyenzi had a significant amount of logistics; can you confirm that? 
+A.	You may need to remind me of that excerpt, Counsel. 
+Q.	Give me a minute, please.
+
+Witness, when the Prosecutor was leading in-chief you referred to the Bisesero events; you referred to those events, didn't you?
+A.	Yes, Counsel. 
+Q.	And you don't remember having testified that the Inyenzi had significant logistical facilities in Bisesero, and that it was not easy to get them out of there, to dislodge them; don't you remember?  
+MR. WEBSTER: 
+I'm sorry, I'm objecting to the form of the question.  My recollection of the witness's testimony is that he reported what had been reported back to him from soldiers who came back from Bisesero.  So if you make that clarification, the question should be fine. 
+MR. SOW: 
+Mr. Prosecutor, I did say that this was reported to him by soldiers, and I believe there shouldn't be any problem with that.  It is the soldiers who told him about the fighting that had taken place in Bisesero.  And the soldiers told him that they had, indeed, come up against significant logistical facilities of the Inyenzi and they were able to dislodge them.  
+BY MR. SOW:
+Q.	I am now asking the witness whether he recalls that part of his testimony? 
+A.	Counsel, I believe that the confusion arises because you referred to officer G2, because you need to refer to S2 officer because S2 is at the préfectoral level, while G2 is at the national level.  The gendarme who commanded or led the soldiers was an S2 soldier.  He was not a G2 officer; he was not at the national level.  So, when they returned, their story was that the Inyenzi had retreated to a mountain.  I am Rwandan but I have never been to Kibuye.  It would seem that there is a big mountain in Bisesero to which the Inyenzi had retreated.  And the forces, on the spot, on the militia were not able to dislodge them.  
+
+Now whether their logistical facilities were significant or average, I don't know.  But when the Gisenyi reinforcement arrived at that location, the resistance was not major, they were completely annihilated. 
+BY MR. SOW:
+Q.	Thank you, Witness.  During that time, did you receive any messages from the Inyenzi calling on Tutsi to go to Bisesero? 
+A.	I have not quite understood your question, Counsel. 
+Q.	I will repeat:  Witness, were you informed that -- that there were messages over radio Muhabura calling on Tutsis to go to Bisesero? 
+A.	No, Counsel. 
+Q.	Thank you, Witness.  I will now go to my last line of questioning.  From your assertions, Witness, you said that the MRND was responsible for the events that occurred in Rwanda between 1990 and 1994; isn't it so? 
+A.	I no longer remember any such statement or testimony, maybe you want to refresh my mind by referring to a specific paragraph.  You see between 1990 and 1994, many things transpired.  Now, to blame all of those events on the MRND would be an unlikely reflection of my testimony.  I don't believe I made any such statement.  So please remind me of the excerpt so I may clarify. 
+Q.	No, it is not necessary since you do not recall.  Do you know the MRND very well as a political party?
+A.	Yes, Counsel. 
+Q.	Witness, what does the emblem of that party represent -- or the acronym of the party 
+A.	MRND is the Mouvement républicain national pour le démocratique. 
+Q.	That's the only meaning of that acronym or abbreviation, Witness? 
+A.	It is the only meaning I am aware of. 
+Q.	Now, Witness, with the advent of multiparty politics, did the MRND not change its acronym or abbreviation? 
+A.	I did not follow developments within the MRND as a party at that time, Counsel.
+Q.	In 1990, since you returned in 1989, in 1990, did you belong to any political party? 
+A.	No. 
+Q.	Did you know that in 1990 that all Rwandans were members of the MRND? 
+A.	I think so, Counsel, because whether one wanted it or not one was part of the single party. 
+Q.	So you were, indeed, a member of the MRND in 1990.  
+A.	I do not know whether I can say that I was a member; maybe I belonged to the party at the time since it was a state party, I was part of it.  But I don't have any MRND membership card. 
+Q.	Can you tell us with specificity when the multiparty system was instituted in Rwanda? 
+A.	I do not clearly recall, but I reckon it was about mid-1991, approximately. 
+Q.	With the advent of multiparty politics, the green light was given for the creation of many political parties and the MRND was reformed.  Did you monitor this process? 
+A.	What I did monitor -- follow, Counsel, is the fact that political parties other than the MRND were officially adopted, admitted officially.  And the MRND which was the single party in existence prior to multiparty politics was effectively also made to reappear on the scene; however, I did not follow the reform process. 
+Q.	For your information, the MRND became a republican movement.  It is no longer -- or was no longer known as the MRND, as a revolutionary movement; did you know that? 
+A.	Thank you for the clarification. 
+Q.	It is for free, Witness.  Witness, can you tell us when the Interahamwe were first created in Rwanda? 
+A.	The official creation, Counsel, I cannot advance any information on that because I never did see a letter stipulating the movement had been created.  However, the Interahamwe as an organisation, with a structure and by structure, I mean an administrative structure, because when an organisation begins to have structures it becomes that much more visible.  And I would say in 1992 it began to have an organised structure for the Interahamwe, that is.  However, I do not know when the movement was born, when it was officially accredited, I have no knowledge on that. 
+Q.	And in Gisenyi? 
+A.	As a matter of fact, Counsel, I am referring to the year 1992 with reference to Gisenyi, the year in which the movement first adopted structures for administration when it became an organisation.  One could have said that at that time, the official creation, inception must have taken place because the administrative structures were put in place. 
+Q.	According to the information in your possession, can you tell us whether within each préfecture there was an Interahamwe organisation in place? 
+A.	I cannot say for certain, but personally I would find it abnormal for the Interahamwe to be present in Gisenyi and nowhere else, that is my opinion, what I think.  However, as far as I know, the Interahamwe in Gisenyi and in the Rubavu préfecture. 
+Q.	But, Witness, when you say it may not be normal for the Interahamwe to be absent from other préfectures, I think that this is the same thing you did when you mentioned Mr. Ngirumpatse, whereby you said that as an official he was supposed to be somehow omnipresent to go everywhere, don't you think that such an approach could lead to error, in your assessment? 
+A.	No, Counsel, I do not think so because that is true.  It is true that it would be abnormal because there was a leader, or chief, or president of the Interahamwe at national level who was well known.  And this organisation was a national level organisation.  However, I resided in Gisenyi, and yet I knew it existed as an organisation at national level.  That is why I said that.  I cannot talk to you at length about Kigali, Ruhengeri and other areas whereas I lived in Gisenyi.  But I knew it was a national organisation, that they had representation in Gisenyi.  And, therefore, I deduced that they existed in other préfectures.  It wasn't an organisation that just existed in our préfecture; that is what I think. 
+Q.	For your information, again, for free, there was no national organisation.  There was a provisional national committee.  Do you understand the difference?  Provisional national committee, it was not called national organisation of the Interahamwe; do you understand the difference? 
+MR. WEBSTER: 
+I'm sorry, but is counsel testifying for the witness?  
+MR. SOW: 
+Mr. President, I may make suggestions to the witness that is quite proper within the context of cross-examination. 
+MR. WEBSTER: 
+I'm sorry, it seemed to me that you were instructing the witness on what the facts of the situation were and that is what I am objecting to. 
+MR. SOW: 
+Mr. President, let me put my question another way.   
+BY MR. SOW:
+Q.	Witness, did you know that the Interahamwe had set up a committee and that this was a national provisional committee and not a national organisation, as you said? 
+A.	No, Counsel. 
+Q.	Were you also aware that this national provisional committee was only set up in Kigali? 
+A.	I did not know that, either, Counsel. 
+Q.	Did you know that apart from Gisenyi and Kigali, no other structure was set up in other préfectures? 
+MR. WEBSTER: 
+Is counsel asking the witness whether this was the case, or telling him -- asking him if he knew that this was the actual fact of the situation, because, you know, it is subtle, but it is important for this case to make a distinction between the two. 
+MR. SOW: 
+Mr. Prosecutor, I think that he can give a yes or no answer to the question that has just been put to him, so, I think that the question was properly put. 
+MR. PRESIDENT:
+The witness can answer the question. 
+THE WITNESS:
+Would you please repeat the question, Counsel?
+BY MR. SOW: 
+Q.	Witness, did you know that apart from Kigali and Gisenyi préfecture, no other structure was set up in other préfectures? 
+A.	No, Counsel. 
+Q.	Witness, what did you know about Interahamwe activities prior to April 1994? 
+MR. PRESIDENT:
+Mr. Sow, you have come onto a new area.  How much longer do you intend to be?  
+MR. SOW: 
+Mr. President, I think I am left with about five questions. 
+MR. PRESIDENT:
+You want to complete this afternoon?  It is 5:30 now. 
+MR. SOW: 
+Well, Mr. President, we can always adjourn and then tomorrow morning I will take up 15 minutes. 
+MR. PRESIDENT:
+The only thing is that we come back on -- to this witness on Wednesday morning.  We -- we have already scheduled activities with regard to another witness tomorrow.  And even through we have not made our rulings yet, I was proposing that we should come back at 9 o'clock tomorrow morning for the purpose of addressing the outstanding issues that are left.  But I think it is probably better for us to take the adjournment now, in any event.  
+MR. WEBSTER: 
+Now for our counter proposal, Your Honour, if we are only going to spend another 15 minutes with this witness in cross-examination, I think it would be better for all concerned for us to deal with this on Wednesday, otherwise we will be dealing with producing the witness in Court for 15 minutes.  And if we start at 9:00 tomorrow, we may run up against the 9:30 link. 
+MR. PRESIDENT:
+You misunderstood me, Mr. Webster.  
+MR. WEBSTER: 
+Yes. 
+MR. PRESIDENT:
+There are legal adjudicated matters, we wanted to deal with them before we -- 9 o'clock tomorrow morning. 
+MR. WEBSTER: 
+I understand, but is the witness not to come tomorrow?  
+MR. PRESIDENT:
+You misunderstood me completely. 
+MR. WEBSTER: 
+Okay. 
+MR. PRESIDENT:
+The point is, we have not actually completed our decision as to what is going to happen tomorrow, but we are making preparations to deal with our adjudicated matters at 9:00.  And I was informing the witness that we had already made other arrangements, but our schedule is to start tomorrow morning, to deal with outstanding judicial and adjudicated matters.
+
+Mr. Witness, we had already made arrangements to deal with another matter tomorrow, so in the normal course of events, your testimony would have to be completed on Wednesday.  Of course, you will have to stand by in case there are any changes, and then notice will be given to you, that is, if your presence will be required.  But the existing schedule would be for you to complete your testimony on Wednesday unless there are any new developments.  And if that is the case, notice would be sent to you.
+
+So we take the adjournment now.  
+MR. WEBSTER: 
+One minor point, I'm sorry.  There are -- actually, let me withdraw that.  I had a number of documents that I wanted to pass on to the Defence and the witness at the conclusion of his -- of his cross -- well, let me withdraw my intervention, Your Honour.  I think I will just handle this on Wednesday.  Thank you.  
+(Court adjourned at 1735H)
+(Pages 66 to 72 by Donna M. Lewis)
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Karen Holm, Ann Burum, Eleanor Bastian, Roxane Meena, Sithembiso Moyo and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Karen Holm
+
+
+___________________________	 Ann Burum 
+
+
+___________________________	 Eleanor Bastian
+
+
+___________________________	 Roxane Meena  
+
+
+___________________________	  Sithembiso Moyo
+
+
+___________________________	Donna M. Lewis
+
+
+
+
+
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 15
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 16
+
+	KAREMERA ET AL	MONDAY, 5 JUNE, 2006
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 51
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 52
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 60
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 65
+
+	KAREMERA ET AL	MONDAY, 5 JUNE 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 72
+
+ICTR - TRIAL CHAMBER III
+

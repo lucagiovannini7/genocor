@@ -1,0 +1,868 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+  WEDNESDAY, 12 OCTOBER 2005
+ 1543H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao G. Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+	Mr. Ramadhani Juma (The Hague)
+
+For the Prosecution:
+	Mr. Stephen Rapp
+	Mr. Don Webster
+	Mr. Gregory Lombardi (The Hague)
+	Mr. Iain Morley
+	Mr. Gilles Lahaie
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye (The Hague)
+	Mr. Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin (The Hague)
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Wendy Molnar
+	Ms. Ann Burum 
+
+
+	
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS G
+Examination-in-chief by Mr. Rapp (continued)	3
+
+EXHIBITS
+Exhibit Nos. P. 15A, 15B, and 15C	7
+Extracts	11, 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good afternoon, everybody. 
+
+Mr. Registrar, can you open the proceedings, please.  
+MR. FRY:
+Yes, Your Honour.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, presiding, Judge Short, and Judge Kam, is now sitting in open session, today, Wednesday, the 12th of October 2005, for the continuation of trial in the matter of the Prosecutor versus Karemera, et al, Case No. ICTR-98-44-T.  
+
+Thank you, Your Honour.  
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  Mr. Registrar, can you just confirm that The Hague is -- everything is in order?  
+MR. FRY:
+Yes, sir, I believe so.  
+MR. PRESIDENT:
+Yes, Mr. Rapp, just before we started this afternoon, there was just a very short decision that I have to give.  
+
+At the oral hearing we have to note, as a preliminary matter, that as a result of our order yesterday -- our oral order yesterday, the Prosecution filed today an ex parte motion under Rule 66(C) with respect to the redacted portions of the Witness T's statement disclosed to the Defence on the 7th of October 2005.  Since the legal issues at stake are similar to the Prosecution motion under Rule 66(C) filed on 26 September 2005, the Chamber will rule at one time on both Nzirorera's motion to be disclosed with unredacted statement of Witness T and the above-mentioned Prosecutor's motion.  
+
+The Chamber will also rule on the fact that the Prosecution filed its -- filed ex parte its submission on the redaction of Witness T's statement and decide whether it should have been filed interparties.  That means that there's no need for the Defence to request disclosure of this new ex parte filing.  So that's the ruling we made.  
+MR. RAPP:
+Your Honour, before we -- before we begin today, and hopefully with the witness's earphones off, I wanted to -- to say something in regard to a misrepresentation on the record yesterday, and I hope it clears the air and makes things move more quickly hereafter.  
+
+Could we just confirm, because I may discuss the sum and substance of expected testimony, that the witness does not have his earphones on at The Hague?  
+MR. JUMA:
+Your Honour, the witness has no earphones.  Thank you.  
+MR. RAPP:
+And, Your Honour, I don't want to be long or to belabour this or to get into an argument, but yesterday afternoon there were two specific instances, one in regard to the CND demonstration of 5th January 1994, when Mr. Robinson objected to my questioning, saying that he'd had no notice whatsoever, that he'd made a search of all 23 cassettes from '97 and the 8 from 2000, no notice whatsoever; when it came to the issue of the March MDR rally, he said "Mr. President, I'm sorry to say again that this material that we have absolutely never -- has never been discussed by this witness in any of his previous statements or testimony."  
+
+Well, I made a very brief search on returning and discovered that, indeed, in cassette 16 -- and I've distributed copies of it -- on page 1 of cassette 16, the full description of the involvement of the Interahamwe at the CND is there laid out, as disclosed as part of the 23 cassettes, and on page 2 of the very (unintelligible) same cassette, the discussion of the March MDR rally that was interrupted by the Interahamwe.  I think what this goes to show is that the summary of Witness G's testimony, the one that's part of the pre-trial brief, that stated that both of these subjects were in his testimony and reviewed relevant by the Prosecution in this case, and that that testimony would be led in those matters, was a reliable document and that I regret an effort here to -- to really mislead the Chamber, obviously, presumably, through ignorance of the record.  But to state unequivocally that there was no notice of this material when a full search had been made, I think, is -- is very, very unfortunate.  
+
+Now, I know Your Honours also have this secondary issue of, why is this matter important, and I don't want to argue this case, but I think it's important since you've raised that issue, to say that both of these events involve situations where, in the view of the Prosecution, the Interahamwe of the MRND was used as a force to obstruct the moderate elements, to beat up the moderate elements of the other political parties, and to favour the extremist elements, the so-called Power elements.  That makes a great deal of sense then when you tie that to what happened on the 7th of April, when all of those moderate elements were killed, and the Power elements were put into the interim government.  That's a background fact.  
+
+It is not a violation of international humanitarian law to beat up parliamentarians or obstruct a rally.  It is a violation, however, to do what happened -- what happened on April 7th.  But the motives, the intent, the pattern, the practice, can be understood by reference to that historical background, and the way that it's been pled in this case, I submit, is appropriate to deal with the crimes in the indictment and to deal with the background in the pre-trial brief and in the witness summaries that are part of that pre-trial brief.  
+
+So I just want to make that clear.  We -- Your Honours obviously allowed the examination on the CND demonstration.  I withdrew my question on the March rally in deference to my respect to Mr. Robinson, believing that he must know what he was talking about.  I'm not going to go back at that same question, but we will revisit that specific area in closed session when we return to the issue of the Belgian contingent of UNAMIR.  Thank you, Your Honour.  
+MR. ROBINSON:
+Yes, Mr. President.  I will say that I stand corrected.  I did not note the items that are in cassette number 16.  That's my error, and I apologise for that.  I thought I had a pretty thorough -- made thorough notes of these things, but obviously I missed that, and I apologise to the Trial Chamber for that.  
+
+Mr. President, I also have one matter before the testimony starts, and I'll try to make it very brief.  This relates to the previous witness, Mr. Mbonyunkiza, and I'm asking the Trial Chamber to disclose to the Defence a copy of a letter that he has written to the president which was reported in the media today under a story in Hirondelle, that says that the witness threatens to cut short his evidence and claims he's being harassed.  Perhaps you know this communication already, or if you don't, you could make enquiries.  But it indicates that he wrote a letter last week to the President of the ICR -- ICTR, and we would like to have a copy of that letter.  Thank you.  
+MR. PRESIDENT:
+What I would like to do, I think that this -- matters of this nature would best be dealt with at the end of the testimony today.  Our link with The Hague has a time -- time limit, and I'd like to use it as fully as possible.  So at the end of the testimony, we could then address this issue.  
+MR. ROBINSON:
+Okay.  
+
+Yes, Mr. Rapp.  
+WITNESS G,
+EXAMINATION-IN-CHIEF (continued)
+BY MR. RAPP:
+Q.	Witness -- 
+MR. RAPP:
+And, first of all, registry at The Hague, have the earphones been put on the witness?  I don't see them yet.  Okay.  There we are. 
+MR. ROBINSON:
+Excuse me, Mr. President, I'm sorry to interrupt.  The monitor isn't working here on my -- I can't see the witness.  So if someone from the technical booth can come and fix that.  
+MR. PRESIDENT:
+Mr. Registrar?  
+MR. RAPP:
+A good picture?  
+MR. ROBINSON:
+Yes.  Thank you.  
+BY MR. RAPP:
+Q.	Witness, yesterday when we adjourned, we were talking about Butare, and you had discussed attending one rally with the then préfet of Kigali, the Tutsi préfet from the PL party, Préfet Jean Baptiste Habyalimana.  And I want you to move ahead to the next few days and describe if what happened in Kigali, in regard to that particular préfet and in regard to any other public meetings that were held in Kigali in the days that followed, could you tell me, did Mr. Habyalimana remain in office for the rest of April 1994?  
+A.	I believe that you said it was in Kigali, but, in fact, it was in Butare.  
+Q.	I stand corrected, Witness.  We're talking Butare.  All right.  My mistake.  
+A.	Préfet Jean Habyalimana was in Butare and was removed from office on the 19th of April 1994.  He was replaced by Sylvain Nsabimana --  
+Q.	And where did that -- 
+A.	 -- after -- 
+Q.	Continue, Witness, please.  
+A.	Former Préfet Jean Habyalimana remained in Butare for a short while.  After that, he was assassinated, along with his family.  
+Q.	And could you describe the -- the process by which he was replaced?  Was there a public meeting?  Was there an announcement?  What occurred on the occasion of his replacement?  
+A.	He was replaced because he was a Tutsi.  He was also a member of the PL party, the Lando camp.  At one point the government, which was set up in Gitarama, sent PSD chairman François Ndungutse to try to find a préfet who was native to Butare.  The PSD chairman arrived in Butare and proposed the name of Sylvain Nsabimana.  Sylvain Nsabimana accepted the proposal.  So two or three days later -- rather, one day later, the préfet was sworn in.  
+Q.	Who attended the swearing-in of the préfet on the part of the government?  
+A.	When Nsabimana was sworn in, the president of the republic, Théodore Sindikubwabo, was present, as was the prime minister, Jean Kambanda.  They were both natives of Butare.  Other ministers arrived from Kigali.  There were also political party representatives present.  All of the bourgmestres in Butare were also present, as were officers of the army and the gendarmerie in Butare.  
+Q.	You mentioned the name of this individual that had come to name -- to put Sylvain or to nominate him as a PSD candidate for préfet of Butare préfecture.  How long had he been in his post as head of the PSD?  
+A.	François Ndungutse was in charge of the PSD when the Kambanda government took office.  In other words, on the 8th of April, I believe, he was proposed as the leader of the PSD.  
+Q.	And what had happened to his predecessor?  
+A.	His predecessor was Frédéric Zambahara (phonetic), was dead.  He had been killed in the genocide on around the 6th or 7th of April 1994.  
+Q.	And did the gentleman whose name is François Ndungutse -- the witness is raising a question.  Witness, is there some problem?  
+MR. JUMA:
+Your Honour, he was saying about the echo, and we are liaising with the technicians now.  
+MR. PRESIDENT:
+Thank you.  
+BY MR. RAPP:
+Q.	Witness, this Mr. Ngutse (sic), did he say how it was -- you said he was appointed to his post at the time the Kambanda government came in.  Did he say how it came that he was chosen or who chose him?  
+A.	François Ndungutse, himself, told me how he was designated.  Colonel Théoneste Bagosora had sent an armoured vehicle to his home in Gikondo to bring him to the PSD headquarters.  The PSD did not have any representatives at the Hotel des diplomates.  
+Q.	Witness, have you completed your answer?  
+A.	I have, indeed.  
+Q.	Now, at the meeting where the préfet was replaced and where the president spoke and the prime minister spoke, as you described, did you hear those speeches?  
+A.	Yes.  
+Q.	And where were you located when those speeches were given?  
+A.	When the préfet of Butare, Sylvain Nsabimana, was sworn in, I was just next door in another room, which was the former MRND office under the single-party system.  There was a service station next door, and I was there following what was going on during the swearing-in ceremony.  
+Q.	How were you able to hear what was said?  
+A.	I heard what was said because there were megaphones that had been installed outside.  
+Q.	Do you recall what President Sindikudabo (sic) said on that occasion?  
+A.	Yes.  
+Q.	And can you describe what he did say, briefly, in terms of the most important part of his speech?  
+A.	In essence, he asked the population of Butare to not shelter themselves from what was going on in Rwanda; that those people who say that matters do not concern them should step aside and other people will work; those people who said that these matters did not concern them have no business there; let those who want to work, work; and that he knew Butare well; and he was asking the préfet, and Sindikubwabo was there, himself, said that he was going to help the préfet in his work.  
+Q.	And what did you understand the word "work" to mean on that occasion?  
+A.	During that period of time, I must say that the killings had not yet begun in Butare.  So when he said to "work," in reference to Butare, he meant that the killings of the Tutsis in Butare should begin.  
+Q.	You said that Prime Minister Kambanda also spoke.  Do you recall what he said?  
+A.	When Kambanda spoke, he went along with what the president had said.  In other words, he was encouraging the inhabitants to work, in other words, to do what the other préfectures had done.  What was known as the Abatabazi government was there in order to help the inhabitants, too.  
+Q.	And, "Abatabazi," what does that mean in French, to your knowledge?  
+A.	I could say that it is the government of those who are the liberators.  I don't know how to explain this.  
+Q.	Witness, if I can ask you to take a look at the binder, at tab 171, and hopefully, we can make sure that it is, indeed, the correct document, and those -- 
+MR. RAPP:
+If the registrar would place that before the -- the witness at The Hague, and in the courtroom, I'd invite those here to look at tab 171.  And what I'm specifically referring to, just to be sure that we know what we're talking about, it is at -- the cover sheet of the document at that tab reads "RTLM/Radio Rwanda 19/04/1994 Broadcast RR-Index 271."  
+BY MR. RAPP:
+Q.	Witness, do you -- has that tab been placed before you?  
+A.	Yes.  
+Q.	And on page -- right after the opening -- the opening cover sheet, there's a document in French.  It's called Sindikudabo (sic) 271, and on the right side of that page, there's an orator, a Jules Nzimana (phonetic), and then below that, Orator Dr. Sindikudabo (sic) with Théodore, president.  And that document in French then continues for 13 pages and is followed by a translation in English that continues for ten pages and is followed by a Kinyarwanda original, which then continues for 13 pages.  Is that what you have in front of you, Witness?  
+A.	Yes, I believe so.  
+Q.	And I suspect one needs to look, since he gave the speech -- he gave the speech in Kinyarwanda, did he not?  
+A.	Yes.  
+Q.	And -- 
+A.	Yes, he made his speech in Kinyarwanda.  
+Q.	And have you had an opportunity before to see this particular document?  
+A.	I believe so, yes.
+MR. RAPP:
+And in the interest of time, to ask a leading question, Your Honours.  
+
+BY MR. RAPP:
+Q.	Is this -- does this contain at least an excerpt of the speech of President Sindikudabo (sic) that you heard in Butare on the 19th of April 1994?  
+A.	In this document, there's a portion which I realise is part of the speech that he made in Gikongoro, but I do not see the speech he made in Butare.  
+Q.	Well, let's make sure that we have the correct one, because I think at 173, we may have the Gikongoro speech.  But if you will look at page 6 in French, at the particular quotation in the middle of the page, third paragraph that begins (French spoken), and ends with (French spoken), does this appear to be the speech that you heard in Butare?  
+A.	Yes.  Yes.  
+Q.	And just by way of clarification -- 
+MR. RAPP:
+Well, let me just ask, at this point, is there any objection to the admission of this document, the portion thereof that includes the Sindikudabo (sic) speech, as an excerpt to the speech of Dr. Sindikudabo (sic) at Butare April 1994, as Prosecution Exhibit 15A, B, and C?  
+MR. ROBINSON:
+Mr. President, there's no objection to the pages containing President Sindikubwabo's speech being admitted.  Thank you.  
+BY MR. RAPP:
+Q.	Thank you, Witness.  Can I ask --  
+MR. PRESIDENT:
+Admitted in evidence. 
+ (Exhibit Nos. P. 15A, 15B, and 15C admitted)  
+MR. RAPP:
+Sorry, sorry.  Thank you, Your Honour.  
+MR. PRESIDENT:
+I was confirming the admission.  
+BY MR. RAPP:
+Q.	And Witness, if I can ask you to -- to go ahead to tab 173 -- and I note that this document has -- it's RTLM Radio Rwanda 1904 -- 1994, Broadcast RR, Message of Sindikudabwo (sic).  If I can ask you to look at that document and ask you to go to page 12 of that document in French, which is K-number K0273547, where the words begin -- where it says "Orator le president de la republic, Théodore Sindikudabwo" (sic).  Do you have that particular place in the document, Witness?  
+A.	Yes.  
+Q.	And that continues, then, for the next roughly two pages, on into page 13 and 14.  And does this appear to be the speech that he gave at Butare or the speech that he gave at Gikongoro?  
+A.	Yeah.  When he made this speech, there were requests that the people of Gikongoro were making, but when he came to Butare, he made almost the same speech as he had done in Gikongoro, and I believe it dealt with the fact that the people of Gikongoro were asking for gendarmes to support them.  And in Gikongoro and in Butare, he said that it was not necessarily the gendarmes that they needed.  Everyone can be his neighbours, or gendarmes.  And that's the same speech that he made in Butare.  
+Q.	Well, Witness, just -- just to be clear, because I don't want to ask you to talk about a speech that you didn't hear specifically, did you hear this particular broadcast of Radio Rwanda where this speech which includes the Cain and Abel expression, which doesn't appear in the other speech?  Did you hear this speech yourself, at that time or during that time, broadcast over Radio Rwanda?  
+A.	I heard this speech directly spoken by the president, and in the evening I heard it again on the radio.  
+MR. RAPP:
+Well, Your Honour, we won't be offering this particular transcript through this witness.  It's not absolutely clear that he heard the specific -- that specific speech.  
+BY MR. RAPP:
+Q.	Witness, after the -- after this rally, after this public meeting where -- where the president and prime minister spoke, and where the new préfet, Sylvain Nsabimana, was installed, what happened in Butare?  
+A.	Just after that speech was made and the swearing-in of Sylvain Nsabimana, that evening, the killings began right away in Butare.  
+Q.	And, Witness, you had indicated you arrived in Butare on the 12th of -- of April, and the speeches were given on the 19th of April.  How long did you remain in Butare then, before your first departure from that community to any other part of Rwanda?  
+A.	I remained in Butare -- just one minute.  I arrived in Butare on the 12th of April, and I went to Kigali around the 22nd of April.  
+Q.	And just so we can get a record, a framework here, to deal with the coming examination of your movements during this period, the 22nd of April you went to Kigali.  How long were you in Kigali on that occasion?  
+A.	On that occasion, I remained in Kigali for two nights and three -- and three days.  
+Q.	And after that time in Kigali, where did you go?  
+A.	After my stay in Kigali, I went back to Butare.  
+Q.	And so you would have returned to Kigali roughly the 25th or -6th of April.  Then for how long a period were you in Kigali before your next departure from that area? 
+
+I misspoke.  How long were you in Butare before your next departure?  
+A.	I left Butare once again in the first fortnight of May.  
+Q.	And how long were you in -- in -- well, you told us you left.  Where'd you go?  
+A.	Once again I went back to Kigali going through Gitarama.  
+Q.	And then for how long a period were you in Butare?  
+A.	No, you mean Kigali.  I remained there for two nights and three days, once again.  
+Q.	And on your return to Butare, how long were you there?  
+A.	I went back again to Gitarama in the second part of May.  When I reached Gitarama, I decided to continue on toward Kigali.  
+Q.	And we now have a third visit to Kigali in the second part of May.  How long were you there then?  
+A.	Once again I stayed for two nights and three days.  
+Q.	And not to belabour this, but did you then return to Butare again?  
+A.	Yes.  After the two nights and three days, I went back to Butare, and I remained there.  
+Q.	And when did you finally and permanently leave Butare?  
+A.	I finally left Butare in the second part of June.  
+Q.	Now, you basically indicated you were in Butare for most of the time between April 12th and -- and late June, except for these brief visits that you took outside.  During this time, can you tell us what happened -- as you've said the killings began on that night of April 19th -- what happened in total, in terms of your observations of the killings in Butare préfecture, during the times that you were there and -- and during the times of which you have knowledge?  
+A.	On the 19th of April at night, it was during that night that the killings began in Butare.  And throughout the whole region of Butare, the killings began, in other words, Gisagara (phonetic) area, Cyagwa (phonetic) area, and this covered the whole of Butare préfecture.  This was from the 19th of April, right into the month of May.  The killings had almost come to an end by then in Butare.  
+Q.	Do you have any estimate of the number of people, based on your own knowledge, that were killed in the -- in the region or in the préfecture of Butare?  
+A.	I wouldn't be able to give you the estimate of the number of victims, but what I can say is that in Butare, there were many Tutsis, because the Tutsis were living together in symbiosis, as it were, with the Hutus.  And the soldiers or the military personnel in Butare had told the people that the killings had not been effected in Butare, such that almost all the Tutsis who were living in Butare had remained there, and most of them had been killed, and they were not able to flee to Burundi.  But there were many, many, many Tutsis killed.  
+Q.	Now, Witness, you mentioned the soldiers' involvement here, but who was responsible?  Who conducted the killings in Butare, from your observation?  
+A.	From my observations and from what I gathered, what I heard there in Butare, there was Captain Nezeyimana (phonetic) who was the commander, and he was the one who organised the killings in Butare area, together with the soldiers from ESO.  
+
+Now, on the side of Ngoma, I think there was a lieutenant or second-lieutenant known as Hategekimana, who organised killings there, but in Butare préfecture and in the communes, there was one individual who was secretary-general in the ministry of interior.  His name was Kalimanzira, Callixte.  He was the one responsible for movements in the area, together with soldiers, in order to encourage the inhabitants to involve themselves in the killings.  This is what I can tell you about the killings that took place in Butare.  
+Q.	Well, were the Interahamwe largely involved in the killings in -- in Butare?  
+A.	In Butare, there were very few Interahamwe, because this was the fiefdom of the PSD, and they had difficulty in getting root there.  At a certain point in time, when I was in Butare, I saw a large pickup, which arrived in Butare, aboard which there were Interahamwe whom I knew, and they had come in to start the killings in Butare.  And I knew them.  They were from Kigali.  
+Q.	You, in your answer just before this last one, mentioned Mr. Kalimanzira, Callixte, who was the secretary-general of the minister -- ministry of interior who went around with soldiers in the prefect- -- in the communes outside of Kigali -- or Butare town, encouraging the inhabitants to get involved.  Did the inhabitants themselves become involved in the killing?  
+A.	Yes.  The inhabitants did become involved in the killings.  
+Q.	Now, Witness, we don't want to give away your identity, but during the period of -- during most of the period that you were in Butare préfecture, were you in Butare town, or were you in -- in an area some distance from the town?  
+A.	When I was in Butare, when I arrived in Butare, I remained there for about a week, I think.  After that, I went to stay some few kilometres outside the Butare town itself.  
+Q.	Could you describe if there were any efforts in the area where you were staying, a few kilometres outside Butare town itself, to involve the inhabitants in the killing?  
+A.	In the location where I was, there were only four to six Tutsi families living there, and the killings had not as yet began in that area.  So the conseiller de secteur, like all conseillers de secteur, had been given instructions by the authorities to convene meetings in the secteurs and to encourage the killings in their own areas, if there were still Tutsis therein.  And in the area where we were, I knew there were those six families.  The conseiller convened a meeting with the inhabitants, and I attended that rally convened by the conseiller, and the conseiller asked the people to carry out killings of the few families remaining there.  That very night there were some young men who went to fetch those families during the night, and they drowned them in the area where I was.  
+Q.	Did you witness the drowning yourself?  
+A.	I didn't go in for the drowning.  It's when they came back the following morning that we were told about what had happened.  
+Q.	Did you -- did they tell you how it was that they were able to drown individuals and whether all the individuals were killed by drowning?  
+A.	Many people did not know how to swim, and so it was easy for them to drown.  There was a young boy who was there who knew how to swim, and he couldn't, therefore, drown.  But on that occasion, they forcefully drowned him.  
+Q.	Witness, could you give us a time when you think this particular event occurred?  Was it in April, May, or June?  
+A.	I believe that the drownings occurred towards the end of May, maybe -- the end the April, rather, maybe early May.  
+Q.	Witness, you've indicated you went back to Kigali three times, each for three days and two nights.  Let's talk about that first trip back to Kigali.  You said that was around April 22.  Why did you go back to Kigali?  
+A.	The first time I had to go back.  We didn't bring anything with us when we left Kigali for the first time, with our family -- no clothes, sheets, or anything.  So I had to go back to gather a few things for the family.  
+Q.	And when you got back to Kigali, did you notice any change with the roadblocks -- or at the roadblocks?  
+A.	When I went back to Kigali for the first time, I saw lots and lots of roadblocks.  The people manning them had firearms.  
+Q.	And was that a change from what you'd observed when you departed Kigali on the 12th of April?  
+A.	Yes.  When I left Kigali on the 12th of April, there were roadblocks, but there were no weapons.  But when I returned there were weapons being carried at every single roadblock.  
+Q.	Now, just to be clear -- 
+A.	And when I got to Gitega, a place where there were many Interahamwe, practically everyone was armed and practically everyone was an Interahamwe.  They were dressed in military garb.  
+Q.	Well, did you find -- did you discover anything, when you were there in Gitega or in the Kigali area, about how it came to pass that those Interahamwe had those arms -- or had received those arms?  
+A.	When I arrived there for the first time, I stopped in Gitarama.  In Gitarama, I went to see number 9 on the list, who had begun to work in Gitarama.  When I arrived there, number 9 already had a weapon.  I asked him how he got it.  He said, "Well, you know, when you left Kigali on the 12th, the very next day we were given weapons from Nzirorera, who made an arrangement with Bagosora."  So he said for the (By order of the Court, this word has been extracted and filed under seal) weapons, they had been given to person number 3.  I went back up to Kigali, and when I arrived, I stopped at number 6's house.  Number 6 was there, and I asked him if I could have a weapon.  He said that the weapon had been given to number 3, so that I had to, in fact, go and see number 3 about that.  
+MR. RAPP:
+Just a short break here, Witness, while -- sorry.  Okay.  We'll proceed, Your Honour.  
+BY MR. RAPP:
+Q.	Witness, did you -- were you successful in obtaining the weapon from number 3?  
+A.	When I went to see number 3, he told me that the weapon that was set aside for me was at his place in the commune, and so I was not able to have the weapon.  
+MR. RAPP:
+Your Honour, this is a subject we were going to go into in the closed session, but there was a particular word used in the answer just before this one, the word (By order of the Court, this word has been extracted and filed under seal) weapons, and I would just ask, in the interest of non-disclosure, that we strike the word (By order of the Court, this word has been extracted and filed under seal) or put the word (By order of the Court, this word has been extracted and filed under seal) under seal.  
+MR. PRESIDENT:
+So ordered.  
+MR. RAPP:
+Thank you very much, Your Honour.  
+BY MR. RAPP:
+Q.	Now, Witness, just before we got to Kigali, you mentioned passing through Gitarama.  And before we talk about more events in Kigali, did you have an opportunity to see any -- any Interahamwe in Gitarama?  
+A.	When I arrived in Gitarama at Kabgayi, I met two civil servants from the ministry of interior.  One was director of immigration services, and the other, director of political affairs, in that ministry.  I knew those people, and I spoke with them.  They explained to me that the government had tasked them with beginning the killings in Gitarama, and so they needed to look for all means to get the population to start the killings.  But they had some problems.  Gitarama was an MDR stronghold, and they said, luckily, there were Interahamwe from Kigali who were in Gitarama at that time.  They were natives of Gitarama, in fact.  So they asked those Interahamwe and told them that they would give them fuel and necessary supplies to start making the rounds in all of the areas in Gitarama, to incite the population to begin killing.  
+
+So I left them in Kabgayi, and when I arrived in Gitarama, I met an Interahamwe in person.  The Interahamwe told me that he had gasoline vouchers and supplies and other Interahamwe with him and that they had a mission, and they were going to start making the rounds in the communes, to incite the population.  That is how I learned how those in Gitarama were incited to kill.  
+Q.	And who was the Interahamwe that you encountered that had the petrol vouchers and was with other Interahamwe from Kigali?  
+A.	His name was Honezfor (phonetic).  He was known as Ruhika (phonetic).  
+Q.	Now, Witness, let's just go back to Kigali.  You're telling us, obviously, about something you -- that occurred in Gitarama on your way to Kigali on this first return trip.  Now, let's go back to where you were in Kigali and ask you whether during that particular visit, you participated in any meetings with representatives of the military or the government.  
+A.	Yes.  My first visit to Kigali, during that first visit I went to a meeting with General Dallaire.  
+Q.	Well, would you describe to us how it came -- how it came to pass that you went to a meeting with General Dallaire?  And tell us who else participated in that meeting.  
+A.	When I arrived in Kigali, I stopped at number 6's house.  At that time, for the first time since the 6th of April, I was able to see number 1.  In the evening, I went to spend the night at number 9's place.  In the morning, number 1's driver came to number 9's house to tell us that there was a meeting -- 
+THE ENGLISH INTERPRETER:
+Mr. President, we've lost the signal.  
+MR. PRESIDENT:
+Does our house monitor have anything to say?  
+MR. ROBINSON:
+This would be a good time for a break.  
+MR. PRESIDENT:
+Yes.  Any news, Mr. Fry?  
+
+Well, anyway, we did schedule a break at this time.  So we'll try to keep it as short as we can. 
+(Court recessed at 1648H) 
+(Pages 1 to 13 by Wendy Molnar) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1703H)
+MR. PRESIDENT:
+Mr. Registrar, are we back online?  
+MR. FRY:
+Yes, Your Honour. 
+MR. PRESIDENT:
+Thank you very much.  
+MR. RAPP:
+Thank you very much, Mr. President, Your Honours.  
+BY MR. RAPP:
+Q.	Witness, before the interruption and the break, we were asking about this meeting with Dallaire.  How did it come to pass that you attended a meeting with Dallaire?  
+A.	When I came back to Kigali for the first time, I stopped at the home of number 6.  When I arrived there, number 1 was there.  He had been there since the 6th of April 1994.  I hadn't seen him since that time.  
+
+In the evening I went to spend the night at number 9's house.  The next morning number 1 sent his driver.  His driver told us that there was a meeting which had been convened by Colonel Bagosora.  A few minutes later number 6 showed up.  He told us the same thing.  He said that he had been contacted and he was coming to give us the news.  We went together to the Hôtel des diplomates.  When we arrived there, we waited a bit, and then Mr. Bagosora showed up.  We had a meeting with Mr. Bagosora.  Number 1 was at the meeting; so was number 5, 6, 7, 8, and 9.  Three secteur chairmen for the Interahamwe in Kigali were there as well from Kimicanga secteur, Kicukiro secteur, and Gikondo secteur.  That is how the meeting began.  
+
+A few minutes later, General Dallaire arrived, and then we had the meeting with him.  
+Q.	And did Colonel Bagosora remain in the meeting with -- with General Dallaire? 
+A.	After having the meeting with us and the secteur members and after introducing Dallaire to us, Bagosora left the meeting.  He told us he had other matters to tend to.  We remained there with General Dallaire.  
+Q.	Now, before we talk about any conversation with Dallaire, let's talk about any conversation with Bagosora.  Did he indicate to you what the subject would be of the meeting, make any suggestions in regard to the position you should take, or say anything in regard to -- to what to expect with Dallaire? 
+A.	Colonel Bagosora explained the purpose of the meeting to us.  He said that General Dallaire wanted to see us to try to find a solution to the problem.  There were people at the Hôtel del Mille Collines, and it appears that UNAMIR was trying to evacuate them so that they could take a plane abroad.  
+
+When they arrived with the UNAMIR escort at Gikondo, they came across a roadblock manned by some Interahamwe.  The Interahamwe would not let the escort through to the airport, so they turned around and went back to the Hotel des Mille Collines.  Bagosora wanted us to discuss that with Dallaire, and, in passing, he said that "You must know that we also have some people who have been taken hostage by the RPF at the Remera national stadium."  
+
+Second lieutenant was there.  He carried on with the meeting, and, before leaving the meeting, the Kimicanga, Kicukiro, and -- Gikondo, Kicukiro, and Kimicanga secteur presidents also had problems, especially the one from Gikondo.  He told Bagosora about the problem, saying that the RPF found a way into Gikondo to supply RPF soldiers on the other side at the Horizon Hotel.  So he was requesting assistance from the gendarmerie or from the army to put a stop to that RPF travel.  Bagosora said that he was going to deal with it and that he was going to take up the issue with the gendarmerie and the army.  After that, Bagosora went to greet General Dallaire.  
+Q.	And what transpired in the meeting that you had with General Dallaire out of Colonel Bagosora's presence? 
+A.	We agreed with Dallaire during that meeting to authorise him to go to the Mille Collines hotel to take those people to the airport.  There would be a trade-off of the people at the stadium who were pro-government.  Dallaire said that he was going to see the RPF to see how he could negotiate with them, how we could trade.  After that the meeting ended, and I believe that the operation took place thereafter.  There was an exchange between the RPF and the Interahamwe in Kigali. 
+Q.	Do you know how much time later after the meeting that exchange took place, roughly? 
+A.	I cannot tell you exactly how long, but it was quite fast.  
+Q.	Now, Witness, that was your first trip to Kigali.  You indicated earlier that you'd made two other trips.  What was the purpose of your second trip to Kigali? 
+A.	My second visit to Kigali is because I was living with a cousin who had a company in Kigali.  He asked me whether we could go to Kigali in order to recover his materials, in other words, lorries that he had in his company.  So we organised the trip, and we went to Kigali.  
+Q.	And on this second trip to Kigali, did you have any opportunity to meet any government or military leaders? 
+A.	When I arrived in Kigali that very day, I went by the house of number 6.  At the house of number 6, apart from the fact that there was a -- a gathering of Interahamwe, and there was also a bar.  When I arrived, there was the minister of health, Dr. Casimir Bizimungu, who was visiting Kigali, and he visited the Interahamwe on that day in the place generally known as the Interahamwe headquarters.  
+Q.	And when you say "headquarters," the place where you were located at that time, number 6's house, are you saying that that was the headquarters? 
+A.	Yes, it was at number 6's house. 
+Q.	And what political party was Dr. Casimir Bizimungu from and -- and did he represent in the interim government? 
+A.	Minister Bizimungu was in the MRND party. 
+Q.	And what did Minister Bizimungu say on this occasion when you met him at the -- the home of number 6?
+A.	When I got there, he knew me, and I greeted him.  And then he asked me where I had been, and I told me -- told him that I had been in Butare.  He asked me of news of Butare, and I spoke to him of the killings which had taken place in Butare.  And I told him that Butare was now calm.  So then -- then Bizimungu said they have done something great because they have insisted on the council of governments that Butare be -- shouldn't be spared, and there was a delegation composed of the president and the prime minister.  So he was satisfied with what had happened in Butare.  
+Q.	And just -- I just want to be clear, here.  Did he say anything about the decision having been made to send this delegation? 
+A.	I think I said that, because they said that they had a -- been advised by the government that the delegation to be sent should have been strong, and this is why the president and the prime minister were sent.  
+Q.	Now, Witness, let's move ahead, unless you met anyone else in the government or military on this trip to your -- did you meet -- let me ask you that first.  Did you meet anyone else that was a government or military or political leader during this particular visit to Kigali? 
+A.	What I know -- rather, what I remember is that, when I was in Kigali on my second trip, Bizimungu was in the company of other people from the MRND.  But I do not believe that he was with any particular official from the MRND party or any high-ranking military officer because I think the soldiers that I saw were those responsible for his safety or security.  
+Q.	Now, Witness, then let's go ahead to your third visit to Kigali which you said occurred in the latter part of May.  Why is it you made that visit? 
+A.	On that third trip, when I was leaving Butare, I only intended to go to Gitarama in order to have a transaction at the bank because the banks were already operational in Gitarama.  So when I got there, I was together with another member of the MRND, who was living in Butare, because I finished my business very early in the morning in Gitarama.  I wondered -- I -- I wondered whether I could do a quick trip to Kigali to see my friends, and that is how I went to Kigali for the third time.  
+Q.	And did you meet any military or political or government leaders during this third visit to Kigali? 
+A.	On that occasion when I arrived, once again there was a meeting with Colonel Gasake.  Now, that meeting was held at the ministry of defence.  
+Q.	And -- and how did it come to pass that you participated in that meeting? 
+A.	When I reached Kigali, I met number 1.  Because I had spent the night at the house of number 9, and number 9 was not at home, the following morning number 1 came to tell me that there was a meeting and he wanted us to go to that meeting together.  So we went to attend the meeting with number 1, and there was also number 6 who was there too.  
+Q.	And beyond the individuals that were on numbers -- that are numbers 1 and 6 and yourself and Colonel Gasake, who else attended that meeting? 
+A.	I believe it was only number 1, 5, and 6.  I do not remember very well whether number 7 or 8 were there.  Definitely number 9 wasn't there because he was in Gitarama.  As for 7 and 8, I don't know whether they were.  I no longer recall.  
+Q.	Well, I wasn't asking about the ones on the list.  Were there other participants in the meeting other than the persons on the list and yourself? 
+A.	There was the three of us and Colonel Gasake in a small office in the ministry of the defence, apart from the fact that at the ministry of defence there were many colonels who were there.  
+Q.	And what was the subject of the meeting? 
+A.	When Mr. Gasake started the meeting, he told us that the government had set up a special department for the civilian guard in the ministry of defence and he was given that responsibility of heading that department.  And it was the first time that this department was being set up in the ministry of defence, and he didn't know from where to start.  This is why he asked that we meet with him, so that we can see how we can start civilian defence in order to utilise an organisation which was already existed.  And he was referring to the Interahamwe organisation.  We needed to see how to organise this body.  
+
+We didn't have much time to speak about this because, immediately after, the RPF threw bombs.  I think they wanted to bomb the ministry of defence.  But, fortunately, those bombs fell into the grounds of the embassy of the United States, and we, therefore, had to move to the army headquarters for the meeting.  So he left.  And we had wanted to follow him, but we were unable to reach the army headquarters because the R -- RPF continued to bomb the area.  So we stopped and went to number 6's house, and we were unable to continue with the meeting.  
+Q.	I just want to be clear on -- on this idea of civilian defence, that -- did he describe this as part of a -- of a -- of a formal programme, and did he give it a specific name in terms of what that programme was to be called? 
+A.	He really didn't have the time to explain all this to us, and I wanted to say that he, himself, didn't know how to start because this was the first time.  So he was asking us to help him out.  
+Q.	The programme that he was describing, was that to in -- be in Kigali, or was it to be in other places as well? 
+A.	For me, when you establish a department within a -- a ministry, this would be a matter of concern for the whole country.  It needed to involve the whole country. 
+Q.	Witness, let's pass from that subject and -- and deal with another one.  Yesterday, at one point when you were describing a particular Interahamwe whom you'd encountered, you said that he was someone that was at the Petit Kigali in Rwanda and had appeared on a video in that Petit Kigali place.  What was the Petit Kigali?  What kind of location was that? 
+A.	I didn't quite hear you. 
+Q.	Witness, I was asking you about a location known as the Petit Kigali, the "small Kigali."  And you had said yesterday that there was such a location and there was a video of that location where an individual appeared that -- that you had mentioned yesterday.  And I wanted to ask you, what was the location known as Petit Kigali?
+A.	The Petit Kigali restaurant was in the Kiyovu area, and it was between Kiyovu hotel and the Belgian embassy.  
+Q.	And did you have occasion to visit that restaurant during any of your three visits to Kigali in April, May 1994? 
+A.	During my first trip to Kigali, I had a message to give to someone who lived in Petit Kigali.  It was a message from an old man who lived in Rangiro, and this young man who was in Kigali was the fiance of the man's daughter.  So I went to see him in Petit Kigali.  When I reached there, I gave him the note, and this man gave me a -- a package to give to the family.  That was the only time I went to the 
+	Petit Kigali during the period of May -- of April, May 1994. 
+Q.	Now, Witness, from your own knowledge, who frequented the Petit Kigali during this period of April, May 1994? 
+A.	During the period from April to May, June 1994, Petit Kigali was frequented by officers of the army, of the Rwandan army, officers from the gendarmerie.  There were also UNAMIR officers who would frequent that place, the Interahamwe, and many other civilians living in Kigali.  
+Q.	And who was the proprietor during this time of the Petit Kigali? 
+A.	The owner of Petit Kigali was one Vincent, but since he was married to a French woman, he was evacuated by the French.  So during that period of time, Petit Kigali was being managed by his younger brother, who lived just next door to Petit Kigali.  He had a small business which he was managing near the Petit Kigali.  So it was his younger brother who was -- who was manager.  
+Q.	Now, Witness, yesterday you mentioned seeing someone on a video of the Petit Kigali, and I want to ask you about that video.  What do you know about a video of the Petit Kigali, and have you had an opportunity to watch that video? 
+A.	Yes, I've had the opportunity to see it.  
+Q.	Do you know who made the video? 
+A.	The one who made the recording of that videocassette was a friend.  His name was Vincent.  
+Q.	This is not the Vincent who was the proprietor of the restaurant, I take it? 
+A.	No, no.  This was also Vincent's friend, but he was another Vincent who had also come to live at the Petit Kigali because he was the other Vincent's friend.  This is why the one I'm referring to, the one who took this videocassette, was known as Vincent Munyakazi. 
+Q.	Now, Witness, from your observation, does the video represent the kind of things that you saw and the individuals that you knew frequented the Petit Kigali during this period of April, May, and June 1994? 
+A.	Yes, this cassette is a reflection of what happened there and what was happening there during that period between April, May 1994.
+Q.	And this particular cassette you'd said you'd seen, is it -- have you -- have you seen the four CD-ROMs in which it's been digitised, and have those been played to you? 
+A.	Yes, I did have the opportunity. 
+MR. RAPP:
+Your Honour, at this time I'd like to offer these four cassettes that are -- been disclosed to the Defence.  They contain the KV -- the video number is KV00397 A, B, C, and D.  
+MR. ROBINSON:
+Yes, Mr. President.  I have an objection to this on the grounds of relevancy and the grounds that the prejudicial effect of this video outweighs any probative value.  Because there is -- as I understand it, there's a killing on this video, and I think the small probative value of showing what went on at this restaurant, which has no connection to the Accused and is of very small probative value -- on the other hand, the prejudicial effect of seeing an inflammatory video is -- outweighs the probative value, and I would ask that it be excluded.  Thank you.  
+MR. RAPP:
+Your Honours, first of all, the -- the video does not contain an actual killing.  It contains a picture of the victim, the victim being harassed, and a shot being heard in the distance and someone reporting on the result of that shot.  But it is offered for showing the connection between the Interahamwe leadership and the military and gendarmerie and -- and for showing that during this particular time, far from there being efforts to discourage the Interahamwe in what they were doing, in fact, the relations were cordial and direct, and -- and that no effort was really being made to dissociate the government from what was being done by the -- by the Interahamwe or the military or the gendarmerie, was being done by the Interahamwe.  That's the purpose for offering it.  
+
+It's obviously also -- it is not a video in which this particular witness appears.  It is a video in which I can say, physically -- it's clearly the individual, in which Witness T extensively appears.  We'll have to confirm that, obviously, with evidence, but that's our allegation.  And, obviously, it would be presented also through Witness T.  
+
+But at this point we see value in bringing it in based upon this witness having seen it entirely and having -- and having at least experienced the milieu of the Kigali -- Petit Kigali restaurant during this time.  
+MR. ROBINSON:
+Mr. President, if I could just reply, if this is going to be shown through Witness T, who has personal knowledge and who appears on the video, then I don't see the value of seeing this twice.  And this witness has very little foundation other than having shown this video since sometime in 2005.  
+
+So I would ask that you exercise your discretion not to admit it now.  And when Witness T comes, we can see what foundation is laid, and perhaps it could be appropriately played then.  Thank you.  
+MR. PRESIDENT:
+What's the duration of this video? 
+MR. RAPP:
+Your Honour, if we were permitted to admit the video, then we intend to have the witness watch essentially one 2-minute clip, another 1-minute clip, and then a 3-minute clip, so we would be looking for him to look at 7 minutes of the video and -- and comment, based upon his personal experience and knowledge, on -- on the context of -- of -- of the events that are there displayed.  
+MR. PRESIDENT:
+What's the duration of the exhibit?  
+MR. RAPP:
+The situation of the exhibit is that it's on four CD-ROMs.  We're prepared, as we were with the videos yesterday of the rally, once admitted, to immediately put it on the screen for two minutes and then for one minute and then for three minutes.  So we can do that, barring technical difficulties, very quickly. 
+MR. PRESIDENT:
+Yes.  So what will be admitted will be seven minutes of video?  
+MR. RAPP:
+Yeah, I -- we're satisfied to have only seven minutes. 
+MR. PRESIDENT:
+I'm asking -- it isn't a direction.  I'm asking what was the duration of the exhibit that you're asking to admit into evidence. 
+MR. RAPP:
+I'm sorry.  I misunderstood you, Your Honour.  The total exhibit has -- has a duration of about three hours, each about a 45-minute -- each video diskette contains about 45 minutes.  And we would be asking that all four be admitted based upon this foundation, excepting that that might be a provisional admission, needing to be tied up and strengthened with the arrival of Witness T.  But then we're -- once it's admitted, we're only asking that seven minutes of it be displayed in the courtroom.  
+
+But once an exhibit, just like a transcript, that once it's admitted, each party can go, look at the whole document, the whole context, and cite whichever parts it wants to.  And that's in the interest of fairness, as the Defence has argued they don't want to have a snippet in, they want the whole thing.  
+MR. PRESIDENT:
+(Microphone not activated) Mr. Weyl is before you. 
+MR. SOW:
+Okay.  Excuse me.  
+MR. WEYL:
+My -- my learned friend, Sow, does not have eyes in the back of his head.  
+
+The witness has told us that, during the period from April to June, he was present only once at the Petit Kigali.  But he went into a generality to say that the cassette was representative of everything which was happening in Petit Kigali from April to June, going through May.  I don't think the witness is the best person to make a generalisation, given that he only experienced Petit Kigali on one occasion in April 1994.  And I do not believe that he constitutes a proper basis for tendering of this document.  
+MR. SOW:
+Thank you very much, Mr. President.  You have heard the Prosecutor a moment ago say that we could provisionally admit this CD while awaiting the testimony of Witness T.  I don't see why we can't wait for Witness T so that we avoid all these issues.  
+
+But there is also another matter.  What is the authenticity of this cassette?  Where is it coming from?  Is there no manipulation possible?  We don't know any of this.  
+MR. PRESIDENT:
+Mr. Rapp? 
+MR. RAPP:
+Yes?
+MR. PRESIDENT:
+It's quarter to 6.  We have 15 minutes more of testimony.  Could you move on to another matter, and then we can decide this first thing tomorrow. 
+MR. RAPP:
+Sure thing.  Thank you, Your Honour. 
+BY MR. RAPP:
+Q.	Move ahead to witness -- another matter.  We -- you've described your meetings in Kigali.  Did you have occasion back in Butare, during the period when you returned to Butare after your visits -- first visit to Kigali, at any point to meet any national political leaders or government leaders in Butare?
+A.	In Butare -- 
+
+But before I answer this question, I would like to make some clarification on the cassette.  It is not only the CD-ROMs that I saw, I have seen this cassette -- the video cassette in its original for the first time in 1995.  That was a small clarification I wanted to give you. 
+
+Now, in Butare I had the opportunity to meet Mr. Édouard Karemera when he was minister for the interior.  
+Q.	And would you describe what -- what transpired in your meeting with -- with Minister Karemera.  
+A.	When Minister Karemera came to Butare, he had come there in order to swear in Alphonse Nteziryayo, the colonel.  On that day I was in Butare when he arrived, and I was in the Ibis Hotel.  He met me there, then the minister came.  He sat next to me, and we spoke.  He told me that he was coming for the swearing-in of Préfet Alphonse Nteziryayo and that they wanted to replace Sylvain Nsabimana because we needed a man from that place, Butare.  
+
+And then we spoke about other things, about things that were happening in Rwanda.  During that period of time, there was number 1, who had already come to Butare, and he had come for treatment.  On that occasion I told the minister that number 1 was there, and he said that he wanted to see him.  So I went to fetch number 1, and number 1 told him that he was unwell and that he wanted the MRND and the government to do their best so that he could be sent abroad for treatment.  He replied that he was going to do everything possible to speak about this matter with Mr. Mathieu Ngirumpatse. 
+Q.	The -- let's go back to this replacement of the préfet.  You told us just less than an hour ago about the replacement of Habyarimana, the Tutsi préfet, by Sylvain Nsabimana.  Now we're replacing Sylvain Nsabimana.  What was the problem -- what was the reason for replacing this préfet that had only recently been put in place? 
+A.	Sylvain Nsabimana, when he was préfet of Butare, was there when there were orphans from Kigali there.  They came to settle in Butare.  They came with nurses and people --
+THE ENGLISH INTERPRETER:
+Okay.  
+THE WITNESS:
+The council of Italy in Kigali had negotiated for those orphans to go to Bujumbura and then to Italy.  The préfet was to draw up a list of people to make up the delegation, in other words, the orphans and other officials.  As it turns out, Préfet Nsabimana included on that list the names of Tutsis and Tutsi friends that he had, as well as members of his family.  The day of the trip, he went with the delegation up to Akanyaru at the border with Burundi.  He moved the orphans across, along with his family and some Tutsis.  Those Tutsis were not allowed to cross the border and were brought back to Butare.  That is the main reason he was removed from office as préfet of Butare.
+BY MR. RAPP:  
+Q.	And do you know what happened to those Tutsis that were sent back? 
+A.	I had an opportunity to see one of the Tutsis, who was a member of that delegation.  He had a wife who worked at the Red Cross.  She was Tutsi, and she was able to get across.  Her husband, who had accompanied his wife, was stopped at the border.  When he returned, he was killed.  
+Q.	And just in terms of the Rwandan system, the préfets in Rwanda, under what administrative department do they fall, and who appoints préfets officially in Rwanda during the period of -- of 1994 and -- and before?  
+A.	Préfets fell under the ministry of interior; however, they were appointed by the council of government.  
+Q.	And I just want to be clear about the word that you used when you described -- or, when -- when you told us what -- what Minister Karemera had said about the new préfet, Colonel Nteziryayo.  He called him what?  Or, what was his specific word that he used to describe the new préfet, or phrase that he used? 
+A.	He said that Préfet Alphonse Nteziryayo was the préfet who was up to the task.  
+Q.	Thank you.  Now, you've mentioned the problems, the health problems, of number 1 and the assurance by Minister Karemera that he would contact his colleagues.  Who did he say exactly that he would contact? 
+A.	As I told you, he said that he was going to contact Mathieu Ngirumpatse.  
+Q.	Well, unless I'm mistaken, Mathieu Ngirumpatse was not a minister at this time.  Why -- why contact him? 
+A.	He was chairman of the MRND.  And number 1 made that request in his capacity of -- as member of an organisation created by the MRND.  
+Q.	And what was it expected that -- that Mathieu Ngirumpatse would be able to do in regard to the health condition of number 1? 
+A.	He was supposed to intervene with the ministry of health to organise number 1's trip abroad and to see with the ministry of defence how they could evacuate number 1.  Because it was very difficult for number 1 to move about by land.  For example, they tried to see if they could find a helicopter to come and get him.  The minister of defence and the minister of health were ministries that belonged to the MRND.  Mathieu Ngirumpatse was the chairman.  As such, it was easier for a party chairman to make a request to his ministers and see what they could do with regard to that request.  
+Q.	Well, did you make any travels yourself to effect this process of obtaining approval for the evacuation of -- of number 1? 
+A.	Yes. 
+Q.	And -- and where did you go? 
+A.	When we're in -- we were in Cyangugu -- no, I mean Butare, I went to Gisenyi.  I went there to see MRND officials. 
+Q.	And approximately when did you make this trip? 
+A.	I believe that I made that trip -- believe that it was in early June.  Well, it was in June 1994.  
+Q.	And why go to Gisenyi to see the MRND officials? 
+A.	You know, when sick people are evacuated abroad, you have to have a medical report.  The medical report had to be drafted by doctors in Butare.  As it turns out, they were not able to treat number 1's sickness, so they drew up the medical report and I took it to Gisenyi.  I went to Gisenyi to give that report to the MRND officials so that they could find a way to evacuate number 1 by any means possible. 
+Q.	And whom did you see in Gisenyi? 
+A.	When I made it to Gisenyi, I was lucky enough to see Mathieu Ngirumpatse himself. 
+Q.	And would you describe your meeting with -- with Party Chairman Ngirumpatse? 
+A.	When I saw him, I told him that I was coming from Butare with the medical report of that person.  He told me to go see the minister of health, Casimir Bizimungu, and he said that he would be aware of this.  When I arrived into Casimir's office at the Meridian Hotel in Gisenyi, he welcomed me directly, greeted me.  He took the report.  He told me that he was aware of it and that he was waiting for me.  
+Q.	Now, to move quickly, here, so we can finish this subject today, was it Mr. -- 
+THE ENGLISH INTERPRETER:
+Mr. President, pardon me for interrupting.  There was a name in French that I don't believe was supposed to be said.  It might be on the French record.  The English interpreters did not say it.  
+MR. PRESIDENT:
+Thank you.  Well, I take your word for it and place it under seal.
+
+Mr. Registrar, is that sufficient enough order?  Is that clear enough? 
+MR. FRY:
+Your Honour, I didn't hear clearly.  If you could repeat the order.  Thank you. 
+MR. PRESIDENT:
+It was reported that there was a name in the French transcript which ought not to have been mentioned.  It was not repeated in the English translation.  So, order it under seal.  Is that sufficient -- is that a clear enough order? 
+MR. FRY:
+Yes, Your Honour.  Thank you.  
+BY MR. RAPP:
+Q.	Was it eventually possible to -- to move number 1 to Gisenyi? 
+A.	I'm not sure I've understood your question. 
+Q.	Just moving ahead, here, and I want to know whether it was possible at any point to move number 1 from Butare to Gisenyi.  
+A.	Yes, he was transferred from Cyangugu to Gisenyi. 
+Q.	Now, when he was at Cyangugu, were you with him in Cyangugu?  
+A.	I was with him.
+
+Mr. Prosecutor, let me tell you, it's 5 o'clock here, and there are problems that arose yesterday when we went past the time.  
+MR. PRESIDENT:
+Yes.  Mr. Rapp, I've -- (Microphone not activated).  
+THE WITNESS:
+(Microphones overlapping)...so I've been asked right now to tell you that it's 5 o'clock, and there are people who have to transport me.  They are very strict with the rules over here.  
+MR. PRESIDENT:
+Yes.  I -- 
+MR. RAPP:
+I understand that.  I had one more question, but we'll save it for tomorrow. 
+MR. PRESIDENT:
+Yes.  
+MR. RAPP:
+Okay.
+MR. PRESIDENT:
+I think we have to be attentive to this.  We all (inaudible) form of communications, which were initiated at 3 minutes past 6 yesterday afternoon from The Hague.  
+
+Well, we take the recess now -- well, we excuse the witness now.  There are one or two matters that we need to discuss before we adjourn our sitting here.  But the witness is excused, and he -- and this segment of his testimony is terminated until tomorrow.  
+
+I remind you (inaudible) that you're not to discuss the case or your testimony with anybody.
+
+Yes.  Well, there -- there are two matters.  Mr. Robinson, you had wanted to raise something, and I had wanted to make some comments about our scheduling for the remainder of the week.  So -- okay.  I'll go first, then.  
+
+Two things.  We will be able to sit for the full day on Friday, commencing at 10 a.m. and going on to 6 p.m.  Now, we wanted to enquire, Mr. Robinson, whether we could programme for the continuation of -- of Witness GFG, using the period 8:45 to 10 a.m. when we are not online The Hague.  I don't know exactly -- I -- I -- I suppose I have to ask Mr. Rapp how much longer he intends to be.  But we were provisionally interested in suggesting that perhaps you could start on Wednesday morning, by which time it is anticipated that your cross-examination of this witness will be completed.  
+
+Do you -- do you -- could you -- we -- we -- we'd like to make that -- would be -- would that be convenient for you? 
+MR. ROBINSON:
+Mr. President, I believe it would be okay with me, but I think maybe perhaps my colleagues might have a problem, including the fact that Ms. Hounkpatin, who is responsible for this witness -- the end of his cross-examination and would not be available here to make objections or to otherwise intervene on the behalf of Mr. Ngirumpatse.  And I'm also not sure if my colleagues are agreeable to this arrangement.  For myself, once my work is done with Witness G, I can deal with Witness GFJ, if that's how the Court wants to proceed. 
+MR. PRESIDENT:
+Is this -- is it an indication that there is some conflict between the various Accused in this matter? 
+
+MR. ROBINSON:
+No, there's any really conflict.  I would actually -- if someone else has an objection, I would prefer that you defer to their objection and you not commence that testimony.  But, for myself, I am willing to do that.  But I've -- there's no conflict.  I prefer if the others have objection that we not start his testimony.  
+MR. PRESIDENT:
+Mr. Weyl, I don't know if Mr. Robinson was referring to something he knew you had in mind.  
+MR. WEYL:
+Mr. President, Mr. Robinson is not referring to any conflict.  In fact, Counsel Hounkpatin dealt with the cross-examination of GFJ.  And if we must meet between 8:45 and 10 because there's no link at that time between The Hague and Arusha, she will not be able to participate in the hearings for the cross-examination.  I think that, for our work, it is necessary for her to -- her to be able to be present for the continued cross-examination of that witness.  
+
+As you know, it also might be difficult to concentrate, jumping from one witness to the next, especially given the difficulty with GFJ.  For our own cross-examination, I don't know if this is the best circumstances to hold a hearing with GFJ, especially since after that we will have a long day following that.  It will be very difficult for us to organise ourselves.  We would prefer that GFJ be heard at a later stage.  
+
+Thank you, Mr. President.  
+MS. HOUNKPATIN:
+Good afternoon, Mr. President.  This is Chantal Hounkpatin from The Hague.  I don't want to take much time, here.  I simply wanted to tell you that I wish to confirm what my learned colleague, Mr. Weyl, said.  We have technical difficulties -- we would have technical difficulties for me to be able to really intervene in the continued cross-examination of Witness GFJ.  
+
+Thank you, Mr. President.  
+MR. SOW:
+Mr. President -- 
+MR. PRESIDENT:
+Yes, Mr. Sow? 
+MR. SOW:
+Counsel Dior Diagne is in the same situation.
+THE ENGLISH INTERPRETER:
+We're sorry, Mr. President, counsel's microphone.
+MR. SOW:
+Pardon me.  As I was saying, Counsel Dior Diagne probably has to sound in on this issue as she is responsible for the cross-examination of that witness.  
+MR. PRESIDENT:
+We may yet also get a picture.  
+MR. LOMBARDI:
+If you prefer. 
+MS. DIAGNE-MBAYE:
+Mr. President -- this is just to tell you -- 
+MR. LOMBARDI:
+Mr. President, this is Mr. Lombardi.  She has instructed me not to turn the camera in her direction. 
+MS. DIAGNE-MBAYE:
+To continue, Mr. President, I simply wanted to tell you that, in my opinion, it would be unreasonable to try to proceed with the cross-examination of GFJ in those circumstances.  I know that we all want to move forward with these proceedings, but we must not pile up difficulties one on top of another, as my colleague, Mr. Weyl, said.  We would prefer to finish the testimony with Witness G and then to see how we can proceed with JFG (sic).  
+
+Of course, with your leave, Mr. President.  Thank you. 
+MR. PRESIDENT:
+Thank you very much.  
+
+Mr. Rapp, or Mr. Webster, or both of you, because I'm -- have you got -- I had an indication that the initial -- you initially had anticipated concluding your examination this afternoon.  That obviously has not materialised.  But do -- do you have an idea of about how much -- what's the anticipated duration?  When are you going to finish? 
+MR. RAPP:
+Well, Your Honours, basically there was, the way I calculated, about 12 hours of question-and-answer for this witness.  And I think we've done about maybe 10 so far.  There was -- the first two days were interrupted a few times.  But I think within the next two hours we should be able to conclude two actual hours of examination with the witness, presumably about a half-hour in remaining open session, and then about 90 minutes in the total closed session.  
+
+So -- and I'll -- unless we have a long period of interruption or lengthy debate on legal issues, I believe, then, that we can complete this direct examination tomorrow afternoon by 5 o'clock in The Hague, 
+6 o'clock here.  
+
+We've got another two and a -- we'll begin tomorrow at 3:30, as I understand it, and continue until 6.  It's -- it's another short session tomorrow; that's correct.
+MR. PRESIDENT:
+(Microphone not activated)
+MR. RAPP:
+I mean, if we had a morning session we could conclude then, but basically I need about two more hours.  
+MR. PRESIDENT:
+Okay.  Now, I was also looking forward because I -- I didn't want to close the -- this trial session with only two witnesses concluded.  Would we have time to do a third witness, and, if so, which witness would that be? 
+MR. WEBSTER:
+I share Your Honour's concern.  I had also wanted to conclude all of the factual witnesses we have here in Arusha.  As the Court may be aware, we have three witnesses waiting to testify, and that puts us in an unfortunate position to have to send them back without starting their testimony.  
+
+Having said that, I don't think we can start a witness and complete it -- complete a witness in less than four or five full trial days. What I had suggested earlier is that we extend the session for this -- for this trial session into the first week of November, if that's a possibility.  I know that the Rwamakuba trial is not going to start until the 7th of November.  If there's any way that we can continue until the 4th of November, there's some possibility.  
+
+I spoke to the Trial Chamber coordinator.  She raised the issue of the holiday that's coming up at the end of the first week of November, which poses a problem as well.  But a factual witness, for us to start and complete, I don't think we could do it in less than four days, given the pace that we've adopted in this trial.  
+
+We do have an investigator that can start his testimony, but, given what I expect to be a -- objections coming from the Defence on -- with respect to certain exhibits, I don't think we would complete his testimony either.  But it would certainly be easier to start with the investigator and interrupt his testimony than to start with a factual witness and not -- and not complete the testimony of that factual witness.  
+
+Perhaps this is something I could discuss at greater length with the Trial Chamber coordinator, but we're willing to do whatever we can to move things along.  I would like to do another witness before we end the -- end the trial session. 
+MR. PRESIDENT:
+As -- just as a -- a -- a -- a -- a -- another factor (inaudible), during the first week of November, we would not be able to sit for more than a half day.  We would not be able to sit on full-day sessions. So in calculating the available time, that has to be taken into account.  And I am -- and we also have to consider the public holidays, which apparently will affect our ability to sit for two days during that week.  So those are factors that will affect what we can do.  But I would like to get a decision on that as soon as we can.  
+MR. WEBSTER:
+Well, this is something I can discuss informally with the Trial Chamber coordinator and with the Defence counsel, and we can report back to you tomorrow afternoon. 
+JUDGE SHORT:
+I must mention that I will not be available in the first week of November. 
+MR. ROBINSON:
+And neither will I.  
+JUDGE SHORT:
+I'll be starting another -- I'll be continuing another case from the first week of November, the Government II.
+MR. WEBSTER:
+Yeah.  I understand the concerns raised by Judge Short.  I was -- there are always contingencies, and I was wondering -- I wasn't quite sure that Government II would start as -- as has planned.  Most -- you know, it's a frequent occurrence that we schedule to begin a trial and then it gets delayed at the beginning as well.  So I was anticipating that was a possibility.  
+MR. PRESIDENT:
+Mr. Webster, just as a matter of -- of putting everybody on the even playing field, if it turned out that we were going to start another witness, could you indicate which witness that would be?
+MR. WEBSTER:
+That's something that I'd prefer to comment on tomorrow.  If we have to start a witness that we cannot complete, that would -- 
+MR. PRESIDENT:
+Well, do you think the -- the -- I -- I -- I -- I don't like the concept of starting a witness if we can't complete, in general.  But -- but -- but we may consider your proposal with regard to the investigator.  But what you have -- we'll have to discuss that a little bit more before that's (inaudible).  
+MR. WEBSTER:
+In terms of factual witnesses, the next witness -- the next factual witness would be HH.  But that is not a witness that -- none -- none of the factual witnesses that are here can be completed in less than four days, I don't think, given the pace that we've adopted.  
+
+With the investigator, I don't think that's a witness that we can do in less than two or three days either.  But if we had to start a witness and entertain the possibility of interrupting his testimony with a long break between the first session and the second, it would be more appropriate to do that with the investigator than with a factual witness. 
+MR. PRESIDENT:
+Okay.  Thank you very much.  
+
+Well, I don't think we can go any further than -- 
+
+Yes, Mr. Weyl? 
+MR. WEYL:
+Yes, thank you, Mr. President.  Just for the purposes of the record, I could -- I must say that I am surprised to hear that the Prosecutor said they've planned 12 hours for Witness G.  And in the pre-trial brief, it only said 6 hours was planned for that witness.  If we are going to have the same situation for each witness, I think that we are going to have to foresee two witnesses per session and a half a witness per week.  There is no witness that we would be able to hear in four days if, for each time, we are told two or three hours but, in fact, it increases threefold.  
+
+I simply wanted to mention this for the record and tell you that we are quite concerned about this and about the indications, the false indications, given to us by the Prosecution in the annex to their pre-trial brief.  
+
+Thank you. 
+MR. PRESIDENT:
+Now, Mr. Weyl, I am grateful that you have raised the question of controlling the duration of examination because I can assure you that I have a great interest in the pace at which a trial moves.  So I trust that when I take action, I will have your support.  
+MR. WEYL:
+Most obliged, Mr. President.
+MR. PRESIDENT:
+Yes.  I don't think we can take the scheduling any further today.  But I will ask our trial coordinator to continue to liaise with the various teams and see what decisions we can come up for -- for tomorrow. 
+
+Yes. 
+MR. WEBSTER:
+There was another matter that Mr. Robinson raised that I would like to comment on.  I don't know if he completed his submission in regard to GFJ.  Should I continue or does Mr. Robinson have something else to -- to add? 
+MR. ROBINSON:
+Mr. President, I -- I think I pretty much explained what I was asking the Trial Chamber to do, unless you didn't catch it, but -- 
+MR. PRESIDENT:
+No, we understood.  We understood, and we've made enquiries. 
+MR. ROBINSON:
+Okay.  And the other point I want to make about this witness is that I still have not received the translation of his Rwandan judgement, which I submitted on the 29th of September.  So we are also waiting for that.  
+MR. WEBSTER:
+And in regard to that request, Your Honour, my only information about GFJ is coming from the Hirondelle report that was circulated either yesterday or this morning.  I read it for the first time maybe an hour before -- a half-hour before coming to court this afternoon.  
+
+I understand from that Internet report that there's  a letter that the witness directed to the President of the Tribunal.  My request would be that that letter be read or reviewed by this Trial Chamber before it's disclosed to either of the parties.  And if it's relevant to the proceedings, then it be disclosed.  And if the Trial Chamber determines that it's not relevant, that -- that it not be disclosed.  
+
+The other issue that I wanted to raise -- 
+MR. PRESIDENT:
+Mr. Webster, do you have any suggestion as to we should get access to it? 
+MR. WEBSTER:  
+Well, I would assume that the Trial Chamber would request a copy from the President of the Tribunal.  
+MR. PRESIDENT:
+A request?  
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+Hmm.  Okay.  
+MR. WEBSTER:
+Is there any other alternative? 
+MR. PRESIDENT:
+No, I -- I was just wondering what your suggestion was. 
+
+As you know, the President is not in -- in -- in Arusha. 
+MR. WEBSTER:
+I have no idea where the President is, Your Honour. 
+
+MR. PRESIDENT:
+I'm telling you he's not in Arusha.  
+MR. WEBSTER:
+Well, I will rely on the Court's discretion on how to proceed.  I was not aware that the President wasn't here.  But the only information I have is what was provided in the news service, and according to the news service article, a letter was directed to the President of the Tribunal.  I have no idea of its content or if it was actually sent.  Many of these reports from Hirondelle contain inaccuracies, so I don't know what has transpired, which leads me to my concern.  
+
+When Mr. Robinson raised the issue of contacts with the witness between myself or between the Prosecution while he's under cross-examination, I made an undertaking to the Court not to contact the witness.  At this point I'd like to revise that and I'd like to ask the Court's permission for me to have direct contact with the witness, restricted to this issue of his security and his complaints with regard to WVSS.  
+
+I can make an undertaking that I will not discuss the substance of his testimony, this case, anything with regard to this trial.  But at this point it's a little unsatisfactory to rely on WVSS for information when the news report itself describes a conflict -- or, a burgeoning conflict between WVSS and the witness.  And at this point I would like to speak directly to the witness to find out what's going on so I can make an assessment of how we deal with his security and with his well-being here in Arusha.  
+
+And I think it's entirely appropriate at this -- at this juncture.  Usually, when -- in courts that I've practiced before, I've never had to make an undertaking not to talk to a witness about the substance of his testimony.  It's understood.  I have no intention of speaking to the witness about the substance of his testimony, but there are other issues that are germane to witness management that I would like to discuss with this witness in order to clarify the situation that was mentioned in that Internet report.  
+MR. ROBINSON:
+Well, Mr. President, you can probably anticipate that we would object to that.  He's in the middle of cross-examination.  There should be no contact between Mr. Webster and this witness.  And I think every -- everything should be directed through the WVSS.  
+
+Thank you.  
+MR. PRESIDENT:
+You don't approve a joint approach between yourself and the Prosecutor?
+MR. ROBINSON:
+Well, the witness has refused to speak with me, so I don't think a joint approach would be possible. 
+
+MR. PRESIDENT:
+Well, the information is that -- we also got very late information about this matter, and we have been conducting -- we have had our staff conduct some enquiries.  Now, the -- the matter is at a stage where we don't feel sufficiently knowledgeable to take a decision at this stage.  But we will be in a position, we think, by first thing tomorrow, and we will communicate with the parties what we think should happen in that stage.  So we will be looking into the matter, and we hope that by tomorrow morning communication will be made indicating what -- what we propose should happen.  
+
+I think --
+
+Yes, Mr. Weyl?
+THE ENGLISH INTERPRTER:
+"Mr. President," says Ms. Dior Diagne from The Hague.  
+MR. WEYL:
+I was on my feet -- 
+THE ENGLISH INTERPRETER:
+Says Counsel Weyl.
+MR. WEYL:
+-- but Ms. Diagne is on the line.  Maybe I should be gallant and allow her first go.  
+THE ENGLISH INTERPRETER:  
+"Mr. President," says Counsel Diagne.
+MS. DIAGNE-MBAYE:
+I was afraid that you were going to rise before I was able to say what I need to say. 
+MR. PRESIDENT:
+(Microphones overlapping)...yes, you are right, we were about to rise.
+MS. DIAGNE-MBAYE:
+(Microphones overlapping) 
+THE ENGLISH INTERPRETER:
+I'm sorry, Mr. President.  Both yourself and Counsel Diagne were speaking at the same time.  I wasn't able to hear her properly, unfortunately. 
+MR. PRESIDENT:
+I will ask her to repeat herself, and we will listen to her.  
+MS. DIAGNE-MBAYE:  
+I'm sorry, Mr. President -- 
+THE ENGLISH INTERPRETER:
+Says Counsel Diagne.  
+
+MS. DIAGNE-MBAYE:
+I was saying that I was afraid you were going to rise for the day without informing us, we, at The Hague, Defence counsel, what you have been able to do because there was a promise made for us for some certain measures that you were going to take with regard to the situation obtaining here and also with regard to your decision of yesterday.  
+MR. PRESIDENT:
+I'm sorry.  I don't have any further information at this point.  I thought that what had happened yesterday was that arrangements had been made that the Tribunal's representative in The Hague was going to be arranging to meet with you at a time that was early enough to have you brought into the witness chamber before Witness G was brought in.  And we were informed that that was a practical manner in which the problems you are encountering would have been resolved.  Unfortunately, we -- I have no further information as to what has happened since then, but I will ask again.  
+MS. DIAGNE-MBAYE:  
+Thank you, Mr. President.  
+MR. PRESIDENT:
+Yes, Mr. Weyl? 
+MR. WEYL:
+Mr. President, I have two small supplementary questions.  The first is that I do not wish there be -- to be a misunderstanding, because I hadn't been speaking about a possible extension of the session beyond the 28th of October.  But I have other obligations, which obviously have to cede before the requirements of this Tribunal.  But we are working with a -- a schedule which was set long ago, and I have serious obligations in Paris as of the second day of November.  
+MR. PRESIDENT:
+Mr. Weyl -- 
+MR. WEYL:
+Secondly -- (Microphones overlapping)...my second issue refers to mentioning the transcript.  And I think there needs to be an amendment, and this amendment should be done before it's too late.  There's indication that Ms. Dior Diagne-Mbaye and Ms. Chantal Hounkpatin are absent, as well as Mr. Lombardi.  They are not absent.  They are not in Arusha, indeed, but they're not -- but they are together with us through the video link.  
+
+But maybe the records could be amended so that our colleagues are not mentioned as being absent, but that they should be recorded as being present at The Hague.  
+
+I thank you, Mr. President, Your Honours.
+THE ENGLISH INTERPRETER:
+"Thank you very much, Mr. Weyl," says Mr. Lombardi from The Hague.  
+MS. DIAGNE-MBAYE:
+Mr. President, I do not (sic) understand why we didn't get the badges here.  It's because we are being considered absent. 
+MR. PRESIDENT:
+The registrar has informed me, Mr. Weyl, that the issue of the attendance is being addressed by the registry.  So that will be taken care of.  
+
+I can assure you that we -- we're not going to make a scheduling order in an arbitrary fashion, and I would trial coordinator will be discussing with the legal teams, and we will take into account all relevant information and  when we should decide what should happen.  
+
+I think we should take the adjournment now.  
+(Court adjourned at 1835H) 
+(Pages 14 to 35 by Ann Burum)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Wendy Molnar and Ann Burum, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Wendy Molnar 
+
+
+___________________________	Ann Burum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 12 OCTOBER 2005 
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	WEDNESDAY, 12 OCTOBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 13
+
+	KAREMERA ET AL	WEDNESDAY, 12 OCTOBER 2005
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 35
+
+	KAREMERA ET AL		WEDNESDAY, 12 OCTOBER 2005
+
+ICTR - TRIAL CHAMBER III
+

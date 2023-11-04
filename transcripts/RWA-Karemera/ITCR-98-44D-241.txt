@@ -1,0 +1,1259 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+THURSDAY, 21 JANUARY 2010
+0850H
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+		
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dow
+	Mr. Takeh Sendze
+	Ms. Sunkarie Ballah-Conteh
+	Ms. Florida Kabasinga
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	
+For the Accused Mathieu Ngirumpatse:
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Claudette Ask
+	Ms. Lisa Smith
+	Ms. Kelly Surina
+	Ms. Sithembiso Moyo
+	Ms. Melissa Hook
+
+
+I N D E X
+
+WITNESSES
+
+For the Defence:
+CLAIRE NYIRABUTSITSI (continued)
+Cross-examination by Mr. Sendze	3
+Re-examination by Mr. Robinson	9
+
+WITNESS GAP
+Examination-in-chief by Mr. Robinson	29
+Cross-examination by Mr. Webster	47
+
+EXHIBITS
+Exhibit No. D. NZ711	29
+Exhibit No. P. 414	55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S  
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session today, Thursday, the 21st of January 2010, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al, Case No. ICTR-98-44-T.  
+
+Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Hometowu.  
+
+The appearances are the same.  
+MR. WEYL:
+Mr. President, Your Honours, I would like to point out that the lead counsel, Chantal Hounkpatin, has left, and I am myself and Marina Yetongnon on Ngirumpatse's team this morning.  
+MR. PRESIDENT:
+Thank you, Mr. Weyl.  
+MS. DIAGNE-MBAYE:
+Karemera's team is unchanged.  
+MR. PRESIDENT:
+Thank you.  
+
+We have a decision which we would like to deliver now, and this is the decision:  
+
+On 15th July 2009, the Chamber declared Protais Rukeramihigo's written statement admissible pursuant to Rule 92 bis (B) subject to its certification.  
+
+On 31st December 2009 Joseph Nzirorera filed a motion for admission of the written statement without certification pursuant to Rule 90 bis (C) as the witness could no longer be traced.  
+
+The Prosecution does not oppose the motion.  A Rule 92 bis (C) allows the Chamber to admit a written statement not in the form of Rule 92 bis (B) under certain circumstances, including where the person who made the statement can no longer with reasonable diligence be traced if the Chamber is so satisfied on a balance of probabilities and finds from the circumstances in which a statement was made and recorded that there is a satisfactory indicia of its reliability.  
+
+The Chamber is satisfied that the witness can no longer be traced, despite the reasonable, diligent steps taken by the Defence team during three certification missions conducted in Rwanda in 2009.  
+
+The Chamber is also satisfied that the circumstances in which the statement was made and recorded by lead counsel and the investigator of Joseph Nzirorera show a satisfactory indicia of reliability.  
+
+For these reasons the Chamber grants Joseph Nzirorera's motion to admit the written statement of Protais Rukeramihigo and requests the registry to assign an exhibit number to it.  
+
+That's the decision.  
+
+Before we proceed there's also another brief comment I wish to make, and it's really addressed to 
+Mr. Robinson.  Yesterday we issued a decision in which we did not take into account a filing that you had made because it had slipped our attention.  It's now been brought to our attention and we will look at it carefully and, if necessary, make any adjustments to the decision.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+
+I apologise for being out of the courtroom when you arrived this morning.  Thank you.  
+MR. PRESIDENT:
+Good morning, Madam Witness.  
+THE WITNESS:
+Good morning, Mr. President.  
+MR. PRESIDENT:
+Your testimony will continue this morning.  I must advise you that you remain under the same oath to tell the truth that you took when your evidence began yesterday.  Mr. Nimy will continue -- 
+THE WITNESS:
+I am fully aware.  
+MR. NIMY:
+Thank you, Mr. President.  
+
+Mr. President, as a matter of fact, yesterday when we parted I had gotten to the end of my examination-in-chief.  I had just one item.  But upon second thought, I take it that it is not necessary at this juncture, given that, rather, what I expected to get from the witness in respect of the count or the charges against Mr. Nzirorera has been addressed.  Accordingly, I would allow the Prosecutor to proceed with his cross-examination, and if there are any new and relevant issues, I might consider a redirect.  
+MR. PRESIDENT:
+Thank you.  Do any of the other defence teams wish to put any questions to this witness?  No.  Thank you.  
+
+You are now going to have to respond to the Prosecutor who will have the opportunity to cross-examine you.
+MR. SENDZE:
+Good morning.
+MR. NIMY:
+My apologies, Mr. President.  My apologies as well to the Prosecutor.  
+
+Mr. President, I forgot to ask the registry how much time I used during my examination-in-chief.  
+MR. HOMETOWU:
+38 minutes.  Thank you.  
+MR. PRESIDENT:
+Thank you.  
+MR. SENDZE:
+Good morning, Your Honours.  Good morning, everyone.  
+
+Mr. Issa, could you assist, please.
+CLAIRE NYIRABUTSITSI (continued)
+CROSS-EXAMINATION
+BY MR. SENDZE:
+Q.	Good morning, Witness.
+A.	Good morning, Counsel for the Prosecution. 
+Q.	Yesterday you confirmed that you are Mr. Nzirorera's cousin; correct? 
+A.	Yes, I am Mr. Nzirorera's cousin. 
+Q.	And you attended primary and secondary school to the end.
+A.	Yes. 
+Q.	Who was responsible for sponsoring you in school? 
+A.	Nzirorera sponsored me.  While I was in primary school the school fees were 100 francs, and this was paid by his mother.  And when I went on to secondary school Nzirorera took care of my school fees while Nzirorera's mother gave me money for school supplies. 
+Q.	And it was Nzirorera's mother who was primarily responsible for feeding and clothing you, is that correct? 
+A.	We had food at home.  That old woman had friends, and so we had food, and she couldn't lack 
+100 friends to pay my school fees.  Also Nzirorera's mother bought clothing for me.  And when I went on to secondary school Nzirorera paid my school fees as well as money for my school uniform. 
+Q.	You also owned a business venture at Byangabo centre; is that right? 
+A.	In Byangabo we had a building where sorghum beer was sold. 
+Q.	I'm asking if you personally ran a business venture at Byangabo centre.  
+A.	Yes, I had a bakery called Claire du Lune.  While I was an animator I had a bakery at home for bread and I had two employees and I had two sellers.  And when I would return from work I would go and see the man who was selling bread and beer, sodas like Fanta, Mutzig beer, sardine.  In fact, that business which I had was located at that centre. 
+Q.	It is true, is it not, that the building from which you ran your business was owned by a man called Silas Ntamakemwa?  N-T-A-M-A-K-E-M-W-A
+A.	Yes, that building belonged to Silas Ntamakemwa. 
+Q.	It is true, is it not, that Mr. Silas is Nzirorera's brother? 
+A.	Yes, he is Nzirorera's younger brother. 
+Q.	Now, when you finally got employment, you say you were employed as a social worker at the ESTB, is that true? 
+A.	Yes, I was a social worker at ESTB.  
+THE ENGLISH INTERPRETER:
+Correction from the interpreter who said "animator" previously.  He was referring to social worker.  With his apologies.  
+BY MR. SENDZE:
+Q.	And this ESTB school was founded or was owned by Mr. Nzirorera, is that correct? 
+A.	The school had been founded by a parent-teacher's association, and among those parents were Nzirorera. 
+Q.	So having sponsored you through school with his mother clothing you and feeding you, owning your business at his brother's building and also being employed at the ESTB school, is it fair to say that you have every reason to be loyal to the Nzirorera family? 
+A.	I cannot assess love or loyalty.  As a matter of fact, I would say -- to say that I love him or I was loyal to him for what he did for me, when I sought a job at ESTB I did not inform Nzirorera.  I used to rent my own house with my own resources, and if I had tried to involve him in my work I would have asked him to get me a job in a ministry.  I used to visit his mother, and I stayed close to her because she was ailing, and I had to ensure that she was in good health.  And when Nzirorera paid my fees we did not sign any agreement.  He did not do that so that subsequently I would pay him back.  I did not promise that if he were not around I would take care of his children.  If I am here today I am here to testify to events I witnessed, I heard.  And I am referring to -- I'm not referring to ESTB.  I am here to work toward unity of Rwanda and to build our country.  
+
+I made a proper application to secure a job at ESTB and after one month I had a reply.  I did not direct my application to the parent-teacher association.  And I sent my letter to the head of that school.  And, by the way, Nzirorera was not aware when I had that job. 
+Q.	Between January of 1994 and July of 1994, how many times did Mr. Nzirorera visit Mukingo? 
+A.	Between January 1994 and April 1994 Nzirorera did not go to Mukingo.  He only came after the death of the president of the republic.  And, by the way, when he came he did not go to his mother's house.  He sent a driver.  He sent his driver to tell his mother that he was around.  But during that time he did not go to his mother's place.  
+Q.	You said he came after the death of the president.  Could you be more precise? 
+A.	He came around the 12th of April, about one week after the death of the president. 
+Q.	And how long did he stay in Mukingo? 
+A.	He stayed for a very short while.  As a matter of fact, when we fled the country in July he was no longer at Byangabo, but in Gisenyi. 
+Q.	Would you say he stayed in Mukingo for a week or two weeks?  Give me an estimation of how long he stayed in Mukingo, to the best of your knowledge.
+A.	I do not remember.  When he left he didn't tell us he was leaving.  Everybody was flowing to Gisenyi.  He left.  He went to Gisenyi.  And it's only when I had to get my hair braided in May that I met him in Gisenyi with the children of his brother named *********  They were all in Gisenyi.  I went to Gisenyi in early May, and I found them there. 
+Q.	Could Mr. Nzirorera have visited Mukingo without you knowing he was in Mukingo? 
+A.	No, that wasn't possible.  If -- when he went to Mukingo everyone knew he was around.  And even if I had not seen him myself, somebody who might have seen him would have come to inform us. 
+Q.	So you are trying to say except for the 12th of April, when you knew that Nzirorera came to Mukingo, you're saying he never came to Mukingo after that date.  Are you absolute about that? 
+A.	I am positive.  Nzirorera came to Mukingo in August 1993, when he came to attend a wedding, and did not come back to Mukingo.  He only returned to Mukingo around the 12th of April. 
+Q.	Witness, it is Mr. Nzirorera's case that he was in Mukingo on the 26th of June 1994.
+A.	There are some persons who come to tell lies or who are told to come and say things that are not true, who come here to tell lies.  Where did they see him?  Nzirorera used to live in Kigali and used to go about his business in Kigali.  He only came home for special events like weddings or funerals.  And while he was minister of public works he could stop by when there were meetings in Gisenyi.  But what you have been told are pure lies which have been made up.  Witnesses are prepared to come and tell lies. 
+Q.	It is also Mr. Nzirorera's case that he was in Ruhengeri on the 30th of April 1994 -- sorry -- yeah, 
+30th of April 1994.  Is that also a pack of lies? 
+A.	Counsel, could you please repeat the date?  Are you referring to the 29th or to the 30th?
+Q.	30th of April 1994.  
+A.	Where was he?  Can you be more specific?  Are you referring to Mukingo Nyabirehe or is it 
+Mukingo Gataraga or is it the commune of Mukingo?  Can you be more specific?  Where was he on that date?  Mukingo is a large commune.  
+Q.	That's okay, Witness.  Now, Witness, you would agree with me that hundreds of innocent civilians were killed in Mukingo in April of 1994.  Do you agree? 
+A.	Yes, some people were killed in Mukingo in the course of April. 
+Q.	Did you yourself participate in any killings? 
+A.	No. 
+Q.	So how are you able to know that these many people were killed in Mukingo? 
+A.	I know that because we heard gunshots.  We saw smoke.  And during the day a child of the mother came to tell us that one of their neighbours had been killed. 
+Q.	So your mere presence in Mukingo enabled you to know that people, innocent civilians, were being killed.  So you would agree, therefore, that anybody who was in Mukingo at the time the killings were being carried out would know that innocent civilians were being killed.  Do you agree? 
+A.	Yes, all the persons who were present got to know that fact.  As a matter of fact, people had been killed and houses were destroyed.  You would certainly be aware of the death of your neighbour if that person were killed or their house destroyed. 
+Q.	So given the fact that you have testified that Mr. Nzirorera was in Mukingo on the 12th of April 1994, you would agree with me, therefore, that he was in a position to know that innocent civilians were being killed in Mukingo.
+A.	I have never talked to him about that to be in a position to answer your question.  He has never told me that it was to his knowledge.  Besides, it must be said that there were lots of fatalities.  A great number of people were killed, and that saddened us.  Let me explain.  I have come here to give you an explanation.  By way of an example, a glass full of water, or if you were to empty a glass of water, you would realise that the glass is empty.  But if you were to take the glass -- if I were to refill that glass with two other glasses of water, you would not realise that some water had been taken out of the glass.  What I'm trying to say is that many people had been killed and that had been established for some reasons.  But there was yet another category of people who were killed but whose killings are not reported. 
+Q.	Witness, I'll try and ask the question again, and please be precise to your answer.  You testified that you did not participate in the killings but you knew that people had been killed because you were present in Mukingo when these events were unfolding.  Now, drawing from that, you have also established that Mr. Nzirorera visited Mukingo on the 12th of April 1994.  What I'm asking you, therefore, is, being present in Mukingo, wouldn't it be reasonable to say he would have known that persons were being killed along the streets of Mukingo? 
+A.	When those persons were killed Nzirorera was not present.  People had been killed immediately after the president's death. The president died on the 6th of April, and on the 6th of April -- in fact, on the 
+7th of April our neighbours were killed.  Nzirorera was at Nyirantarengwa at his residence.  He was not in Byangabo.  When he came to Mukingo those people had already been killed. 
+Q.	Okay.  We'll move on.  Now, wouldn't you agree, Madam Witness, that Mr. Nzirorera was a 
+well-known figure in Mukingo? 
+A.	I agree with you. 
+Q.	And when he came to Mukingo people would normally refer to him as chief or boss; is that correct? 
+A.	While he was minister he was referred to as Mr. Minister.  And when he was no longer minister those persons did not come back to see him.  He was no longer a VIP, as far as those persons were concerned. 
+Q.	So he was not regularly referred to as boss or chief? 
+A.	No.  He was addressed as Mr. Minister, but no one ever addressed him as chief or boss. 
+Q.	Okay, let's talk about the Interahamwe or the group of rascals that you discussed yesterday.  You agree that the MRND party existed in Mukingo in 1994, do you?  
+A.	I can't quite answer by yes or no.  With the advent of multiparty politics, it was hard to determine to which party a specific person belonged.  At a point in time the MRND was the single party in the country.  Yes, the MRND existed in Mukingo, but I did not know its members. 
+Q.	You agree that the youth wing of that political party was called the Interahamwe, don't you? 
+A.	The youth wing of the MRND cannot be said to have existed formally or officially.  However, it was normal for that party to have a youth wing which was called the Interahamwe.  But in Mukingo those bandits called themselves the Interahamwe when they went to commit murders or other crimes.  But the Interahamwe as a movement never existed officially.  It did not have an appointed leader or official, as it were. 
+Q.	I thought you testified that you were not familiar with the members of the Interahamwe and its setup, but now you are very willing to say that the Interahamwe was not officially set up and did not have a leadership.  Which position are you adopting? 
+A.	I have said that at the national level, at the préfecture and commune levels, I never heard about elections to designate leaders of the MRND youth wing.  But unbeknownst to the president of the republic, some persons went to commit murders and called themselves Interahamwe.  Their purpose was to kill and loot. 
+Q.	Would you know why they decided to call themselves Interahamwe rather than some other name? 
+A.	I don't know for what reason.  Someone else can use your name or your title for their own interest.  You also had the Abakombozi who committed crimes, who looted, so said to avenge the death of the president of the republic.  But their sole reason was to kill and steal.  As a matter of fact, they were just troublemakers. 
+Q.	And you agree that most of these people you call bandits were actually residents at 
+Nzirorera's mother's house; correct? 
+A.	The bandits I mentioned yesterday did not live in Nyiramakuba.  Rugumire did not live in Nyiramakuba.  When he was not in his home he was in prison.  Gato and Gakuru never lived in Nyiramakuba.  However, these were people one could see in the market offloading crates of beer from vehicles. 
+Q.  	Did Muhombo not live in Nzirorera's mother's house?  
+A.	Yes, Muhombo lived with us at Nyiramakuba's, but he was not an Interahamwe.  As a matter of fact, at the time he was still very young.  
+Q.	Was he a bandit? 
+A.	No, he was not a ruffian.  He was, rather, a student.  A young boy cannot be a bandit or a ruffian.  He may be a street child but I wouldn't call him a ruffian or a bandit, but I would describe him as a street child. 
+Q.	So you're not aware that he was involved in the attacks at the court of appeal on the 14th of April 1994? 
+A.	I can't tell, and I didn't hear about it.  What weapon could such a young person have had in order to conduct war?
+Q.	Yesterday you tried to distinguish between jobless people and robbers, as you described them.  And from my understanding you seemed to say Michel Nyigaba was simply a jobless young man and not a robber.  Did I understand you correctly?  
+A.	Yes, you did understand me.  That was the explanation I gave the Chamber. 
+Q.	So he was not one of these rascals who went around killing people.
+A.	When people were killed it was a mixture of people.  You had refugees from Butaro, you had militia from Byangabo who were seeking to get rapidly wealthy, and all of those people were involved in the killings and looting. 
+Q.	Including Michel Niyigaba.
+A.	I do not know the killers and I was not interested in them.  But I heard that Michel was also part of those attackers.  However, I used to see him at the market square.  He was a young man who was jobless.  He was not in school, and he did not work the fields of others.  He was there at the market square, idle, doing nothing.  He was like a vagabond. 
+Q.	Do you know somebody by the name Jean-Damascène Habyarimana? 
+A.	I can't picture him in my memory.  However, if you were to line up the youth of Byangabo before me, I should be in a position to tell you who is who. 
+Q.	So this person did not live at your auntie's house, did he? 
+A.	The people who lived at my aunt's were myself, my younger sister Consolée Nyirabarera and Bagabo.  The others were biological children of my aunt's. 
+Q.	I just wanted you to say yes or no.  Did he live -- did Jean Damascène Habyarimana live with you at your auntie's house? 
+A.	I told you that I no longer remember that name.  That's why I cited the names of the people who lived at my aunt's.  If Bagabo is the same as Jean-Damascène, well, I can't say.  But I would like to confirm that myself, my sister and Bagabo lived at my aunt's. 
+MR. HOMETOWU:
+Your Honour, the Prosecutor has two more minutes to complete his cross-examination.  Thank you.  
+BY MR. SENDZE:
+Q.	Witness, one last thing.  Do you know who the Bagogwe are? 
+A.	Generally speaking, Bagogwe are people who live in the Mutura commune in the area known as Bigogwe.  But generally speaking, this Bagogwe, when you talk about Bagogwe we are referring to Tutsis who lived in Bigogwe.  
+Q.	Any particular (microphone not activated)?
+A.	No, I know nothing but that Bigogwe is in the Gisenyi préfecture.  
+MR. SENDZE:
+I have no further questions for the witness.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Nimy, any redirect?  
+MR. NIMY:
+No, Your Honour.  I do not have any redirect.  
+MR. ROBINSON:
+Actually, Mr. President, with your leave, if I could just ask a few questions.  I was trying to communicate that to Mr. Nimy, but it's difficult to do it in a very quick way.  So would you mind if I asked a few questions on redirect?  
+MR. PRESIDENT:
+We'll grant permission.  
+MR. ROBINSON:
+Thank you very much, Mr. President.
+RE-EXAMINATION
+BY MR. ROBINSON:
+Q.	Ms. Nyirabutsitsi, I just want to clarify a couple of issues that the Prosecutor brought up about the times that Mr. Nzirorera was in Mukingo after the death of President Habyarimana.  And he provided you with the date of the 26th of June 1994, and I want to give you some context about that date.  That was the date of the swearing-in of Juvénal Kajelijeli in Mukingo commune.  Do you know whether or not 
+Joseph Nzirorera returned for that swearing-in ceremony? 
+A.	I don't know because our bourgmestre was called Harerimana.  He died in -- suddenly, but I didn't hear that Nzirorera came in the ceremony of Kajelijeli.  As a matter of fact, I had almost lost my mind because of what we were going through at the time.  That is why I remember nothing of that date. 
+Q.	Thank you very much.  
+MR. ROBINSON:
+And thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you.  
+
+Madam, you have completed your testimony before the Tribunal, and we thank you, as we thank all witnesses, for assisting us in our work.  
+MR. ROBINSON:
+Mr. President, I forgot to ask if she could meet Mr. Nzirorera.  
+MR. PRESIDENT:
+Well, you are now excused and you are free to leave.  The registrar will make arrangements to grant the -- I'm saying the registrar will make arrangements to grant the request that Mr. Robinson has just made.  
+
+Do you wish to say something?  
+THE WITNESS:
+I would like to ask you to give me -- grant me permission to meet Mr. Setako as well.  If you do not agree with me I am going to kill you.  
+MR. WEBSTER:
+I'm sorry.  I heard something from the interpreters a few minutes ago that may have eclipsed the presiding judge.  Could I have the interpreters repeat that, please.  
+THE ENGLISH INTERPRETER:
+From the Kinyarwanda booth, witness says, "If you do not agree with me I am going to kill you."  
+MR. WEBSTER:
+I assume that was coming from the witness.  Perhaps the Presiding Judge could make a further enquiry on that last comment.  
+THE ENGLISH INTERPRETER:
+The Kinyarwanda booth reiterates that the English booth translated loyally what the Kinyarwanda booth heard from the witness.  
+MR. PRESIDENT:
+Thank you.  
+MR. WEBSTER:
+Your Honours, I think the record should also reflect that the witness is giggling and making signs to the Kinyarwanda booth or in the direction of the Prosecution bench, and that should be reflected on the record.  
+THE WITNESS:
+What you're saying is not correct.  I was looking at the Defence bench, and I was giggling and looking at the Defence because I had met them.  
+MR. NIMY:
+Your Honours -- Your Honour, excuse me, Mr. President, I wouldn't like my friends from the opposite aisle -- Mr. Webster would try to make mountains out of a mole hill.  There's nothing specific.  As a matter of fact, when the witness finished, asked you to meet Nzirorera and added that she would like to meet Mr. Setako.  And then probably, you know, in this sort of tradition that we have of -- it's true that the Court is a serious place, but it's not a funeral, so she might have let a word or so to -- without watching, and the Prosecutor wants to take advantage of that.  I think this is nothing that dramatic.  I believe she wants to meet Mr. Setako.  If you are in agreement, you say so and that is all.  I believe 
+Mr. Webster has many more things he could hang on, especially with regard to the motions that were made with regard to changing Mr. Nzirorera's indictment.  Those are serious things.  But what the witness says here as a joke to, you know, lighten the air, as we say, in criminal or civil procedures, that is to say, the people who speak do not pay attention to minor issues.  
+MR. PRESIDENT:
+The only comment that we wish to make is that we are here and we are seeing and hearing with our own ears and eyes what's going on. 
+
+We grant permission for the registrar to make arrangements for the witness to see Mr. Nzirorera.  Mr. Setako is not part of our proceedings, and we make no orders with regard to that.  You are now excused. 
+THE WITNESS:
+Thank you.  
+MR. ROBINSON:
+Mr. President, our next witness is a protected witness.  It's Witness GAP.  He is the beneficiary of protective measures from the Kajelijeli case and other cases, and he's indicated that he wishes to retain those benefits, so he will testify as a protected witness.  
+MR. PRESIDENT:
+Thank you.  
+MR. ROBINSON:
+Before we bring the witness in I just want to enquire of Mr. Webster if he has any issues with respect to this witness or how the Trial Chamber should advise this witness before he begins his testimony.  I'd like to discuss that now before the witness comes in.  But this is a witness who has testified in 
+four previous trials of this Tribunal for the Prosecution, and it's a situation we expect to be similar to that of Witness BTH.  So if there is anything that needs to be said about the witnesses, what has to be advised to the witness, I would like to do it before the witness enters the courtroom.  
+MR. WEBSTER:
+Thank you.  I was actually about to make an application before Mr. Robinson invited it, but I'd like to handle it slightly differently than he suggests.  
+
+The Prosecution has an application with regard to the protective measures for this witness and for how we will proceed with his testimony, but I suggest to the Court that it's more appropriate to entertain that after the witness is sworn.  So what I would suggest is that the witness be brought in, that the oath be administered to him, and then after he has given an oath to tell the truth, that he be excused and that we go into closed session and I'll make my application and motivate it at that time.  I'd like to do it in closed session so that I can speak quite candidly.  Mr. Robinson prefers to do these things in open session.  If the Court does not deem the closed session necessary after it has heard me, it can always unseal my portion and allow Mr. Robinson to respond in open session.  But in order to fully apprise the Court of our concerns, this is something that should be done in the absence of the witness and in closed session.  But it should also be done after the witness has been sworn.  
+MR. PRESIDENT:
+Mr. Robinson, just a housekeeping matter, what is the number of this witness?  
+MR. ROBINSON:
+19.
+MR. PRESIDENT:
+Number 19.  Thank you.
+MR. ROBINSON:
+Mr. President, I don't see the need to bring the witness in and out of the courtroom simply to take the oath.  I don't mind if Mr. Webster wants to start the proceeding in closed session.  We can see if, depending on the nature of it, if it's necessary to go into open session, but I don't see the need to bring the witness in and out simply to take the oath.  
+MR. WEBSTER:
+Well, I can shed more light on it in saying the following, Your Honour:  My recollection is when other witnesses have been asked about their protective measures they have done so under oath.  I may be wrong but my recollection is that the Chamber asks the witness questions and invites the parties to do so as well and that actually the testimony that is given under oath, the witness is sworn.  
+MR. PRESIDENT:
+Mr. Webster, as far as I understand what is happening now, the issue has nothing to do with protective measures.  
+MR. WEBSTER:
+It is to do with both protective measures and the substance of his testimony. 
+MR. PRESIDENT:
+Do you intend to request that the order for protective measures be removed?  
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+And you have not made application yet.  
+MR. WEBSTER:
+Your Honour, this is a development that is recent.  It developed yesterday, actually.  I was working on a written motion.  I have not completed it.  It's a rather complicated application and I'm sure the Court will be able to appreciate it once I have put all of the information on the record, and I'd prefer to do that in closed session.  
+MR. PRESIDENT:
+This witness's protective measures were made at the request of the Prosecution. 
+MR. WEBSTER:
+Yes, in the Kajelijeli trial. 
+MR. PRESIDENT:
+And you would have those measures removed?  
+MR. WEBSTER:
+I'm suggesting that there are changed circumstances that should motivate this Chamber or 
+Trial Chamber II in Kajelijeli to modify. 
+MR. PRESIDENT:
+That's the point.  Doesn't the rules require us to consult with the Chambers who imposed those protective orders before we can make an order to modify or vary them?  
+MR. WEBSTER:
+Yes. 
+MR. PRESIDENT:
+So you're asking that this witness not give testimony this morning because the consultation could not take place just like that.  
+MR. WEBSTER:
+Your Honour, I think the entire scenario will be much more clear if I can simply make the submission, and then I wouldn't have to dance around the issues.  I could simply explain to the Court the situation.  But I hesitate to do that in open session.  If I'm directed to do so, I will, and I will make a full record now, but my recommendation is that we do this in closed session.
+MR. ROBINSON:
+Mr. President, I don't have any problem doing this in closed session.  I just don't think it's necessary to bring in the witness, especially since we haven't established what should be asked of this witness yet concerning his protective measures.  So let's have the discussion in closed session and we'll see where we are before we bring the witness in.  
+
+MR. PRESIDENT:
+Okay, we have decided to hear Mr. Webster in closed session at this stage.  
+
+For the benefit of the public, we are going to hear certain submissions from counsel which may impact upon the identity of one or more witnesses who have been the beneficiary of protective orders, and I don't think that that's permitted by the orders that we have to observe and apply.  So in those circumstances we have to go into closed session now, which should last for approximately half an hour, I would think.  We go into closed session now. 
+(At this point in the proceedings, a portion of the transcript [pages 15 to 22] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 1 to 14 by Claudette Ask)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS: 
+Good morning.  
+MR. PRESIDENT: 
+Mr. Witness, before you testify, you have to take an oath to tell the truth.  And the registrar will now assist you to do that. 
+(Declaration made by Witness GAP in Kinyarwanda) 
+MR. PRESIDENT: 
+Now, Mr. Witness, before you -- you actually testify, I have to let you know that certain documents have been circulated concerning the intended nature of your testimony, and it seems to indicate that you had not previously told the truth under oath.  
+
+Now, it's my duty to warn you -- or, the duty of all of us as Judges to warn you that when you are in this witness box, you are obligated to speak the truth, the whole truth and nothing but the truth, and that if you fail to do so, there will be judicial consequences.  
+
+Do you understand that?  
+THE WITNESS: 
+I do.  Well understood.  
+MR. PRESIDENT: 
+Yes.  
+THE WITNESS: 
+Yes.  I would like to tell you -- Mr. President, Honourable Judges, I would like to say that the reason for which I am here is in my capacity as Prosecution witness.  
+MR. PRESIDENT: 
+Mr. Witness, that is a statement which we don't fully understand.  Will you -- 
+THE WITNESS: 
+I am a Prosecution witness, not a Defence witness.  
+MR. PRESIDENT: 
+Mr. Witness, I have seen the papers that have been circulating -- have circulated about your intended testimony, and it describes what your profession used to be prior to 1994.  So you seem to -- you ought to have some knowledge of court proceedings.  You are called as a witness by Joseph Nzirorera.  So regardless of what the content of your testimony is or will be, you are here as a witness called on behalf of Joseph Nzirorera, who is a defendant in this case.  
+THE WITNESS: 
+No, I was not summoned here by a particular individual.  I was summoned by the Chamber.  
+MR. PRESIDENT: 
+Thank you.  
+
+Mr. Robinson, do you have any questions you wish to put to the witness?  
+MR. ROBINSON: 
+Yes, Mr. President.  I think we -- 
+
+Mr. President, I think we should go into closed session so the witness can expose his problem to the Chamber in secret.  
+MR. PRESIDENT: 
+Okay.  
+
+Mr. Registrar, I notice the public gallery is empty.  We'll go into closed session now.  
+(At this point in the proceedings, a portion of the transcript [pages 25 to 28] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 23 to 24 by Lisa Smith)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. ROBINSON: 
+And if the personal information sheet can be put before the witness, please.
+MR. PRESIDENT: 
+Now, Mr. Witness, you will give your testimony by responding to questions put to you by counsel designated for that purpose.  And you will respond, first of all, to counsel representing Joseph Nzirorera, who will now begin his examination of you.  
+MR. ROBINSON: 
+Thank you, Mr. President. 
+WITNESS GAP,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF 
+BY MR. ROBINSON:
+Q.	Witness GAP, what's been placed before you is a sheet which contains your name and some 
+personal information, as well as some initials at the bottom.  Do you recall seeing that sheet, and is the information there correct?  
+A.	Yes, the particulars found in this document are correct.
+Q.	And are those your initials on the bottom?  
+A.	Yes.  
+MR. ROBINSON: 
+Mr. President, at this time I would ask that this document be admitted as Exhibit D. NZ711 under seal. 
+MR. PRESIDENT: 
+Admitted under seal. 
+(Exhibit No. D. NZ711 admitted, under seal) 
+BY MR. ROBINSON:
+Q.	Witness, can you tell the Trial Chamber where you were when you learned of the death of 
+	President Habyarimana? 
+A.	I was at the commune office of ********************.
+Q.	And how did you hear of that death?  
+A.	I learned that news over Radio RTLM. 
+Q.	And was it in the evening or in the morning that you heard that news?  
+A.	It was around 9 p.m.  
+Q.	And what did you do for the rest of that evening? 
+A.	I stayed in the commune office.  
+Q.	Were there any telephone calls received in that commune office from Joseph Nzirorera that evening?  
+A.	Apparently Bourgmestre Habyarimana was telephoned.  
+Q.	Was Joseph Nzirorera the one calling, according to you?  
+A.	Yes, the bourgmestre told me that it was Mr. Nzirorera who had called. 
+MR. ROBINSON: 
+Mr. President, if the registrar can now show a document I have, which is the will-say statement, I want to ask that the witness take a look at this document.  It's -- it was disclosed to the parties earlier.  
+MR. PRESIDENT: 
+Mr. Robinson, was that disclosed to the Chamber as well?  
+MR. ROBINSON: 
+Yes.  It was in a letter to Mr. Hometowu that had the personal information sheet of this witness and the will-say.  I believe it was disclosed yesterday.  
+MR. WEBSTER: 
+Just for the record, Your Honour, and to refresh the Chamber's memory on this point, this was what I was referring to in an earlier application.  And in my correspondence to Mr. Robinson, they were all copied to Mr. Hometowu and to the Trial Chamber III coordinator, including the enquiry I made of Mr. Robinson and his responses to me.  
+MR. PRESIDENT: 
+Thank you.  We are searching.  
+
+You may proceed in the meantime, Mr. Robinson.  
+BY MR. ROBINSON:
+Q.	Witness GAP, are those your initials on the bottom of that document?  
+A.	Yes, it is, indeed, my signature.  
+Q.	And do you recall on Tuesday that that document was read to you by my investigator, 
+	Prudence Munyeshuli, and you signed it after telling us that the information was correct?  
+A.	This document is written in French, but what your investigator told me was in Kinyarwanda.  I cannot satisfy that what he told me in Kinyarwanda is faithful to what is written in French.  If you have any questions, I'm ready to take them.  
+Q.	Okay.  My question to you is whether or not when you signed that document you had listened to 
+	the -- what the investigator had said to you in Kinyarwanda and you had agreed with it.  
+MR. WEBSTER: 
+Your Honour, is Mr. Robinson embarking upon a cross-examination now?  
+MR. PRESIDENT: 
+I assume that he's trained to get a declaration from a hostile witness.  
+THE WITNESS: 
+I have told you that the document is written in English.  You can ask me some questions on the document and I'm ready to respond.  And regarding what Munyeshuli told me, I cannot testify a hundred per cent that it is a faithful rendition of what is contained in that document.  
+
+BY MR. ROBINSON:
+Q.	Okay.  I understand that.  And he can be a witness for that part.  But will you agree that on Tuesday he read a document to you, translated it into Kinyarwanda, and then you initialed that document that what you had heard was correct? 
+A.	If any credence had to be lent to this document, I should not have been called.  I am here to say whether the content of the document is correct.  If it is so, I will say it.  And if it is not correct, I will say it is not correct.  And if you have questions, I am ready to take them and I will answer them truthfully.  
+Q.	Okay.  Thank you.  
+MR. ROBINSON: 
+If that document can be retrieved and given back to me, there is something I would like to ask the witness and ask him if that's correct.  
+MR. PRESIDENT: 
+Mr. Robinson, we don't think you can cross-examine the witness as yet.  Do you think you're in a position - you are now -- to make an application and succeed in order to get permission to cross-examine him?  
+MR. ROBINSON: 
+Okay.  I'm actually in a process of trying to lay a foundation for that.  
+MR. PRESIDENT: 
+Yes, but you -- now you're going to lead him, you see.
+MR. ROBINSON: 
+My question actually -- what I wanted to ask him is:  Did you say -- and then I was going to read that line.  So I don't know if that's necessarily leading.  He either said it or he didn't.  But if you think that the application should be made now, I can make it now.  
+MR. PRESIDENT: 
+I'm not sure if you've actually completed the foundation yet.  
+MR. ROBINSON: 
+Okay.  I will try to ask questions in a non-leading way, if you would like.
+MR. PRESIDENT:
+Yes.
+MR. WEBSTER: 
+May I suggest that Mr. Robinson continue asking him about the events of 1994 rather than going into the statement.  And then if there's anything -- any discrepancy, then he can pursue -- you know, take it from there.  But to go directly to this statement that was just written last night or the night before is a bit premature, Your Honour.  
+MR. PRESIDENT: 
+Well, I -- I would think the answer the witness gave earlier entitled Mr. Robinson to enquire whether he's a hostile witness or not.  I don't think it's reached a stage where we can make such an order. 
+MR. ROBINSON: 
+I'm doing precisely what Mr. Webster suggests I do.  I asked him about a telephone call.  He told us that there was a telephone call by Mr. Nzirorera.  And now I'm going to that particular portion of the statement so that we can determine whether or not he's changed from what he told us earlier, and on that basis -- and maybe I can do that one or more -- two times with other events, and then I'll make my application.  
+MR. PRESIDENT: 
+Mr. Robinson, we have reconsidered.  You can put the question to the witness. 
+MR. ROBINSON: 
+Thank you.  
+BY MR. ROBINSON:
+Q.	Now, Witness GAP, did my investigator say to you that this statement contained the following statement:  That Joseph Nzirorera never called the commune office during that period, referring to after the death of Habyarimana?  Did my investigator read that to you when we were meeting?  
+A.	No, he didn't explain it to me properly.  He read back the content of my statement to me of 1999, the statement of 2000, and the statement I had made before the judges.  The investigator merely summarised a number of things and asked me to confirm when I disagreed with him.  However, I am sitting here before the Judges to explain to them that I am not here to recant my previous statement.  I signed this statement to have an opportunity to sit before the Judges.  
+Q.	Now, this information that Joseph Nzirorera never called the commune office during that period, that came from an interview that you and I had had in the witness room next to this courtroom on the 
+	18th of November 2009.  
+
+And I'll ask you whether or not on the 18th of November 2009 when we were meeting in the room next to this courtroom you told me that Joseph Nzirorera never called the commune office during that period.  Did you tell -- 
+A.	This is what I have to say:  Whether or not I had a conversation with you, it doesn't matter.  Right now I am before the Judges.  I have taken an oath to speak the truth.  And as far as I'm concerned, what we said in the adjoining room is irrelevant.  
+Q.	Well, thank you for that.  But it will be up to the Judges to decide what is relevant and irrelevant.  And it's important to your credibility that they know what you said to me in the adjoining room.  
+
+So my question to you is:  Did you tell me that Joseph Nzirorera never called the commune office during that period?  
+A.	I never told you that he did not telephone. 
+Q.	Okay.  Thank you.  Now, can you tell us, what was your understanding of what was said during that telephone call?  Why was Nzirorera calling?  
+A.	Before all the Chambers I have testified in this Tribunal, I said Nzirorera -- I wanted people to meet at --****************  for a meeting.
+Q.	And is that what the bourgmestre told you?  
+A.	That is what the bourgmestre told me.  
+Q.	And did the bourgmestre attend a meeting at *******************************?  
+A.	The bourgmestre received a phone call, but on that day he did not go to the meeting place; rather, it was Nzirorera who had given that programme over the phone. 
+(Pages 29 to 33 by Lisa D. Smith)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H
+BY MR. ROBINSON:
+Q.	Did you yourself go to the house of ***************************** on the evening of the 6th of April or the early morning of the 7th of April? 
+A.	Very early in the morning, yes, I did go there. 
+Q.	Now, in the statement that you initialled, the will-say statement, it says that you remained at the commune office during 7 April 1994 and you did not go to *************** that day.
+
+Did you tell that to -- did the investigator read you that portion of the statement when you affixed your initials?  
+A.	I already stated that that document for me is a trap.  It is not dated, and I do not see why the Tribunal should consider it.  I have a document that I signed before the public prosecutor, and that is a document that shows all the events that happened in ******************************** in particular.  That is a document which, in my view, should be considered.  The document that you have before you is of no relevance to me. 
+Q.	But before initialling that document on this week Tuesday evening, did the investigators tell you that the contents of the document included a statement that you remained at the commune office during 
+	7 April 1994 and did not go to **************** that day? 
+A.	I already told you that that is a document that was drafted by an intellectual, and I have nothing to do with that document.  And even if members of the Bench were to read that document, I signed it for it to be presented to the Judges.  Someone like myself cannot think out a document that is so well thought out and written and drafted.  
+Q.	But what was your reasoning in initialling that document? 
+A.	My goal was to have a chance to appear here before the Judges. 
+Q.	And why did you want to do that? 
+A.	I wanted to appear before this Chamber because, for some time I had heard witnesses explaining how events had happened and that people were trying to say that everything we had stated was false and that we were here to say what the Rwandan government had instructed us to say.  And so I decided to appear before this Chamber to state that this was false. 
+Q.	And so you decided to try to lie to myself and the Defence team of Nzirorera so that we would bring you as a witness and so you could come and tell the Trial Chamber that?  Is that what you had in mind?
+A.	If we were to ignore that for a while.  I know that the Judges have documents in which my statement against Nzirorera is contained.  So how did you succeed to get to me?  I am a Prosecution witness.  How did you succeed to get to me?  
+Q.	But my question to you is whether or not you signed this document with the idea that you would somehow trick the Defence into bringing you before this Chamber.
+A.	I am here to state the truth on the events that happened. 
+Q.	One way the Judges will decide whether or not you're telling the truth will be to look at what your conduct and what your statements have been in the past.  And now we're focusing on your conduct and statements on this Tuesday in which you initialled the document which has now been placed before the Court.  So I'm asking you about that particular time.  And you've told us that you initialled that document with the idea of being able to come before the Court.
+
+So I'm asking you:  Did you lie to -- or try to trick the Nzirorera Defence team so that you could come and be a witness, or did you simply tell us the whole truth and we just decided to put something down that you didn't say?  
+A.	You drafted a document, and it is a fake document as far as I'm concerned.  Quite simply, you attempted to truncate my statements in order to have a document to present to the Chamber. 
+Q.	And why did you initial the document if it wasn't true? 
+A.	I signed that document, and the Chamber did not lend it any credence after my statement that any form of credence would be lent to the document.   
+Q.	But why did you sign a document in which you didn't want any credence to be lent to it?  Why didn't you simply refuse to sign a document if it wasn't true?
+A.	Come on, Counsel.  You asked me to sign that document, and you knew that I had already made a statement to the oath of officers of the Prosecution office of this Tribunal. 
+Q.	But the contents of that document came from a conversation we had on the 18th of November that was in this room next to the courthouse in the courtroom.  And didn't you tell me on that occasion that you remained at the commune office on the 17th April 1994 and you didn't go to *********** that day?
+A.	You had your objective, which was to trap me considering our common objective.  And now I am before the Judges, and I am no longer at your mercy. 
+Q.	When we met, did you tell me that you did not go to *********** and stayed in the commune office on the 7th of April?  Did you tell me that?  
+A.	I never stated that I never went to Byangabo on the 7th.  On the 7th I went to Byangabo.  On the 8th I went to *****************. 
+Q.	Okay.  Now you're telling us that you went to the home of Mr. ****************************** in the early morning hours of the 7th of April.  Did you see Mr. Nzirorera there?
+A.	No. 
+Q.	But isn't it a fact that in previous statements to the Office of the Prosecutor which you've signed including -- and testimony that you've given in trials before this Tribunal you've indicated that you saw Joseph Nzirorera at the ************************ on the night of April 6th and the morning of April 7th?  
+	Isn't that true?  
+MR. WEBSTER: 
+If I can have one second.  I think we've skipped a step because now Mr. Robinson is going to not the statement that he and his investigators took from this witness but to previous statements from almost six or seven years ago that the witness gave to the Prosecution.  And I don't have a notice and application for this witness to be declared hostile yet.  
+
+We've already passed the point where he's being cross-examined.  So the Court has to make some determination and guide us with the way this examination should proceed.  
+MR. ROBINSON: 
+I think that's correct, Mr. President.  I think we've now reached the threshold where I can ask that the Trial Chamber allow me to put leading questions to this witness.
+MR. PRESIDENT:
+Mr. Robinson, I find that this is a very embarrassing position for the Bench.  You know, it's a matter which has been on our mind for some time, particularly with all sorts of reference to Webster and the remarks he's been making.  When counsel puts himself in the position of being a witness, it really embarrasses us.  Now, as of now, we don't have a statement made by the witness except in relation to you certifying him.  
+
+So we are now going to have to accept your testimony that this is the document, and we're going to be put in a position of making a finding of fact is it you or is it him who's telling the truth.  And I think the rules that exist protect the Court from having to make those kind of assessments.  
+
+As of now, we don't see how we could accept this as a document against which the witness can be examined without taking your word, your testimony, on the matter.  And I think you should protect us from having to exercise that type of discretion.  
+MR. ROBINSON: 
+Well, two things, Mr. President.  First of all, it's not my testimony at all because on each of these occasions when I met with this witness and when I meet with every witness, I had my investigator present, and it's his testimony that will ultimately be offered in terms of impeaching the witness.  
+
+Just as a Prosecution witness can be impeached with a statement that a Prosecution investigator took you, you don't hear immediately from that investigator.  You're hearing from the Prosecutor saying that that's what the investigator would say.  So I'm representing that my investigator would say that the statement that he initialled was exactly what he told us and that the investigator translated to him into Kinyarwanda.  So the fact that I was present at these meetings I don't think changes your situation as to what kind of factual findings you have to make.  Secondly -- 
+MR. PRESIDENT:
+But as of now, we don't have the evidence from the investigator, you see.  And when the adversary is cross-examining on the will-say statement, I had understood that the will-say statement is different.  Even in terms of how we evaluate it in the long run, it's not actually evaluated as the witness's statement.   
+MR. ROBINSON: 
+That's correct.  
+MR. PRESIDENT:
+And so the two analogies are slightly different.  
+MR. ROBINSON: 
+Except when you're considering a motion to allow a witness to be cross-examined by the calling party, you have the option, if you'd like, to interrupt that testimony of the witness and take testimony from the investigator if you feel that a foundation like that is necessary.  
+
+In my experience, normally when you see a written document, particularly when the witness has agreed that it's initialled or signed by him, you can take the step of seeing that the representations being made by the counsel that the investigator would testify that that's what the witness had said are, at least prima facie, accepted.  So you don't have to interrupt the testimony of the witness to take the testimony of the investigator.  But if you'd like to do that, we can do it.  My investigator is here and ready to testify if that's what you prefer.
+
+Secondly, I'm also now -- at the time at which I made this application is the time at which I am seeking to impeach him with what he said to the Office of the Prosecutor in other statements.  And I just asked him the question of didn't he tell the Office of the Prosecutor and testify in other trials that he had seen Mr. Nzirorera that evening.  
+
+And that was at the point at which I decided that we had reached the threshold that I was cross-examining the witness with OTP documents, and I ought to have a finding that the witness should be allowed -- that I should be allowed to ask leading questions.  So I think on both counts -- 
+MR. PRESIDENT:
+That also raises another legal issue which we have to consider, can you call a witness for the purpose of impeaching him.  Normally, you are obliged to accept the testimony of your witness, even if it's unfavourable to your client.  And if you chose to have this as your witness, can you then set him up as being a witness of untruth.  So you have also created an additional complication for us when you call a witness who you are now asking us to disbelieve.  
+MR. ROBINSON: 
+That's a good point, Mr. President.  I would like to address that fully, but I think it would be a good time to excuse the witness while we have that discussion because it's not appropriate for the witness to be hearing this.
+MR. PRESIDENT:
+Yes.  I agree.
+Mr. Witness, we are going to have a legal discussion at the moment, and it probably would be advisable that you are not privy to the discussion that will take place.  So we're going to ask you to leave the Court for a short while.  
+(Witness exited courtroom) 
+MR. WEBSTER: 
+Your Honour, I'd like to address both of the points the Chamber raised.  I can appreciate the Chamber's concern, and I do fully realise that it puts us all in an awkward position when counsel has to comment on its interactions with witnesses.  But quite frankly, in some instances, speaking for myself in any case, it's unavoidable, and I apologise for that.  But we can do the best we can under the circumstances and try to get through this.
+
+Mr. Robinson's suggestion, however, is a rather simplistic way of looking at the issue because it's not simply a matter of what he told the witness because he's not speaking to the witness in Kinyarwanda.  He's going through the person which he expects to come and clarify the issue which is his investigator who also serves as his interpreter.  
+
+So even when this witness looks at this will-say statement -- and here I'm referring to the document that Mr. Robinson claims the witness initialled, what the witness is hearing is not known to Mr. Robinson because he doesn't understand what the investigator is saying when the investigator is translating from Kinyarwanda into English.  
+
+So there's a third layer which further complicates whether Mr. Robinson's representations of the witness are actually what was said to him by the investigator he expects to have testify and clarify matters.  And then we have to rely on the investigator both as the interpreter and the -- the interpreter to Mr. Robinson in how he has put the question to the witness.  So that's a further complication.  
+
+And then as the Court rightly pointed out, which was the crux of my concern earlier, is it's improper for Mr. Robinson now to rely on Prosecution witness statements from four and five years ago to cross-examine this witness.  If there is cross-examination to be had, it should be on the basis of this purported will-say statement because that's what this witness is hostile to.  So to bring in other evidence, other Prosecution evidence, to form a basis to impeach this witness is improper.  And the Court took note of that.  So we have to address that issue as well.   
+MR. ROBINSON: 
+Mr. President, going to step one first as to whether even the testimony of the witness should continue, I think it's obvious that the Defence is in good faith in believing that this witness was going to give evidence favourable to the Accused and recant his previous testimony.  
+
+So this is not a situation where we've simply called a Prosecution witness knowing that he's going to give the same evidence he's given before simply to impeach or demolish his credibility.  So you can see from the will-say statement that he initialled and from the representations that have been made all along in the pre-Defence briefs that the intention was to call a witness who would give evidence favourable to Mr. Nzirorera.
+
+Now, however, for whatever reason, the witness has completely changed again.  So he's flip-flopped back to the side of the Prosecution, and he wants to start to give evidence against Mr. Nzirorera.
+
+So what I intend to do is impeach him because he's now become a hostile witness.  It's a classic situation.  When a party calls a witness who turns hostile to them during the examination, it's necessary for the witness to then be impeached by the party that had called them.  
+
+That's the whole exercise, and that's what I plan to do.  So I don't think there's anything improper about that, and I think that we're entitled to proceed.  Now, the question of how we proceed, obviously, when we have a hostile witness, I have to make some kind of showing that the witness's testimony is hostile to the interests of my client.  
+
+So so far I've shown you that he claims that Mr. Nzirorera called the commune office on the night of the 6th in contradiction with what he's told us, and then he claims that Mr. Nzirorera was -- he has claimed in the past that Mr. Nzirorera was present at that meeting, and now he's saying something inconsistent, that Mr. Nzirorera wasn't present.  
+
+So I'm entitled to now use whatever information I have, whether it comes from the Prosecution, the Defence, or public documents, to show that the witness's credibility is such that Mr. Nzirorera in fact never came to Mukingo and never called anybody on the telephone.  And that's what I am now obligated to do.
+
+So I think those are two steps.  First I think you should decide whether it's proper for the witness to give testimony at all under these circumstances, and then second, if he is allowed to give testimony, whether I'm allowed to cross-examine him.  Thank you.  
+MR. WEBSTER: 
+Well, I didn't realise it was ever on the table that the witness should not give testimony.  That was not -- I didn't hear that coming from the Chamber unless the Chamber can remind me of raising that point.  But Mr. Robinson is making it for the first time now.  Clearly the witness should continue to give his testimony.  He was excused to allow us to have a legal argument, not to dismiss him or discharge him as a witness.  
+The portion of Mr. Robinson's question that provoked my objection was when he asked about the presence of Nzirorera at his mother's house on the morning of the 7th of April.  And if the witness says that Mr. Nzirorera was not there, then that is consistent with his will-say statement.  So there should be no cross-examination on that point.  
+
+So to simply say that the witness is a hostile witness and anything the witness has said in the past should be a basis for further examination I suggest to the Court is inappropriate.  It's wrong.  It's not a legally sound argument.  If the witness is hostile, he's hostile to what is contained in what Mr. Robinson has put forth as his statement to the Defence from the 19th of January 2010.  
+
+And that matter of the presence of -- excuse me.  Going back to possible inconsistencies in his Prosecution evidence is not in the statement, as I read it, on that specific point, and that's the point which I sought to raise an objection.  
+MR. ROBINSON: 
+If I could just real quick respond to that point which seems to be somewhat of a sub-issue of what you're considering.  But in any event, his statement was that he never left the commune office.  Now he's going to talk about a meeting at which he has given inconsistent statements about before.  
+
+And our position is that that meeting never took place, and we're going to try to prove that by showing that his versions of who was present and who was not has varied from time to time.  So I think it's a proper issue or a proper area of examination if you're considering that particular question.  
+MR. PRESIDENT:
+I think a number of interesting legal issues have been raised.  We may wish to advise ourselves a bit before making formal rulings on all of them.  But, Mr. Robinson, in respect to your suggestion that we should decide whether the witness should be a witness or not, we currently don't think that that is a decision for us to make.
+
+You have the option at this stage not to ask him any further questions.  And the only issue for us would be what will be the extent of the cross-examination if you choose to do that.  Would this cross-examination be limited only to the questions already asked, or should we permit a more expanded cross-examination.  
+
+We are currently of the view that, if you had adopted that course, then we would not allow cross-examination to go beyond what has already occurred.  But we think it's a matter of choice for the calling party to decide whether to continue asking questions or not.  So we are currently not disposed to make any ruling as to whether the witness should continue to testify or not.
+
+What we are not sure about and wanted to think about a little bit more is the effect of a declaration that he's hostile.  We are considering whether that opens up any prior inconsistent statement -- or any statement the witness has made which is inconsistent with your case, or is it limited to the statement he gave you.
+
+We just wanted to think about as to the extent of the impact of a declaration that he's hostile.  
+MR. ROBINSON: 
+I think, Mr. President, it actually might be a good idea for me to discuss with my client whether or not we want to proceed with this witness.  And also, if we do proceed with this witness, it's going to actually take me some time to assemble the materials that are going to be necessary to impeach the witness unless Mr. Webster can just hand me the packet he prepared for cross-examination because our roles have been completely reversed here, and all the statements that he was going to use to impeach this witness I need to use now, and I haven't assembled that because I didn't expect this witness to change in the way that he has.
+
+So I think perhaps it might be a good idea, if you don't mind, to recess until Monday at which time -- even I can advise your Trial Chamber coordinator tomorrow what we want to do with respect to this witness.
+
+But even if we do go ahead, I can start -- I have some notes about these statements from which I can ask questions about, but I don't have the statements here in front of me in court.  And it would be difficult and time consuming to be asking him about the substance of the statements now and then later on coming back and questioning him about -- showing him the actual statements.  
+
+So I think it would be more efficient if we could simply recess early -- and I apologise for that -- and to resume on Monday with either the cross-examination of the witness or my further direct examination.  
+MR. WEBSTER: 
+Your Honour, before the Court makes a decision, I would like to make one brief comment, and I hope I haven't mistaken the Court for actually making a ruling on the scope of the cross-examination because that's something that I would like to make a submission on.  
+
+If Mr. Robinson is going to end his direct examination now, the break that he's proposing would be welcomed by the Prosecution because I would like to look into the issue of how far the cross-examination should go.  I would hesitate to accede to limit it to what has been elicited from the witness thus far. 
+MR. PRESIDENT:
+That was what was concerning us at the moment.  If we were to take a break now, we would not want to come back to court on Monday in an element of uncertainty.  So we would want to know what decisions to take.  
+
+I'm sorry to interrupt.  Mr. Robinson indicated that he was going to have a consultation with you on this issue.  And what we would appreciate would be to get submissions or an agreed statement which will assist us on how to move forward on Monday.
+
+I don't know how much time you would need to crystallise your positions and provide information to us so that we could prepare ourselves to rule on Monday if we have to.  
+MR. ROBINSON: 
+Actually, Mr. President, the main thing I really wanted to do is discuss it with my client so that we can decide, since it's his trial, exactly what he wants to do.  I don't think it would take me that long to discuss that with him.
+
+And I think I can have an answer for you as to whether we want to proceed with the examination or we want to stop by this afternoon at 2 o'clock.  I can submit that in writing to you, or we can reconvene if you'd like.  And then depending on that, we can decide what the scope of cross-examination would be.  Or if I decide to continue, then you'll have to decide whether the issue of a hostile witness has arisen appropriately.  So perhaps the first step would be to give you a quick answer of which way we want to go, and then we can see what other issues are on the table. 
+MR. PRESIDENT:
+Yes.  That seems to be a good solution for us.  We can simply take our luncheon adjournment now and resume at 2 o'clock.  We take our luncheon adjournment now.  
+(Court recessed from 1210H to 1415H)
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Thank you, Mr. President.  I have no further questions for this witness.
+MR. PRESIDENT:
+Which witness?  There is nobody in the witness box.  
+MR. ROBINSON: 
+For Witness GAP. 
+MR. PRESIDENT:
+Mr. Webster, are there any legal issues?  
+MR. WEBSTER:
+Based on the comments from the Chamber before we left, there is something I think we should address which is the scope of the cross-examination and the timing of the examination.  Actually, there was a bit of confusion, in my mind at least -- and it was shared by some of my colleagues -- about the timing of the cross-examination if Mr. Robinson was going to abandon the witness.  
+
+I was left with the impression that we would be starting back with the witness on Monday because the Chamber wanted time to consider legal issues.  I don't know if now that Mr. Robinson has made it clear that he has no further questions whether the cross-examination would start right away.  
+
+But beyond that on the issue of scope, under Rule 90(G)(i), which is a rule that we looked at just a day or two ago, cross-examination can go to issues of the case independent of whether there were issues covered in the direct exam.  
+
+And I can read the rule into the record, but I'm sure the Chamber is already familiar with it and has looked at it.  But that would be the applicable rule, and this witness clearly has information that goes to the heart of our case, and I'd like to explore it.
+
+I understand that we have to be expeditious.  Mr. Robinson doesn't want to rely on his testimony.  The Chamber may have questions about his credibility, but the fact of the matter is the witness is here, and the witness has valuable evidence to shed not only on the events of 1994 but on how the issue of accounting for those crimes has been handled in **************, in particular just given some of the Defence evidence of their allegations of fabrication of evidence.
+
+So there are issues that the Prosecution would like to explore that go beyond the one or two questions that Mr. Robinson asked him during his direct examination, and we should be allowed to do that.  I'll refer the Chamber to jurisprudence not on that rule but on a general principle that I was trying to reach for two days ago when we addressed for this very issue.  
+
+And it comes out of litigation in the ICTY in Prlic.  And there are two decisions that I'd like to bring to the Chamber's attention.  The Trial Chamber decision of the 27th of November 2008 which was challenged by the Defence and then confirmed by the Appeals Chamber on the 26th of February 2009.  
+
+And in the Trial Chamber decision, at one point -- and I believe it was at paragraph 19 -- the following text appears -- and I'll read it now -- "The Chamber also observes that international human rights law does not lay down sharp divisions for the presentation of evidence.  The guarantee of a fair trial is satisfied whenever the Defence has the opportunity of effectively presenting its own evidence in response to any evidence offered by the Prosecution.  The Chamber further recalls that, in particular, it has a duty to ascertain the truth," and then it cites Rule 90(F)(i) of the rules which is the same rule I was referring to but a different subsection.
+And then the Trial Chamber goes on to say, "And for this purpose may admit any relevant evidence which it deems to have probative value in accordance with Rule 89(C) of the rules."  So essentially what I'm trying to impress upon the Chamber is the need to take advantage of the witnesses that are before it to examine the factual issues in our case and to assist it in fact-finding.
+
+And my submission is that this witness could be very helpful in that regard and that the rules themselves provide a basis for the Prosecution to ask questions that go to the heart of our case and that the Chamber is empowered to exercise its discretion to set whatever limits it thinks is reasonable.  But given the progression of the issues that this witness was brought to address, I would think that the scope should be much broader than the two or three questions Mr. Robinson asked before he abandoned his examination of the witness.
+
+So my suggestion to the Chamber is that we take the cross-examination as it develops; that it not make any -- that it not issue any guidelines now; that it not make a statement that limits me or limits the Prosecution to the scope of the direct examination and that it simply evaluates the evidence as it develops question by question.
+
+And if there comes a time when the examination is taking too long or is going too far afield, then it can stop me at that point, but it should not make a finding or a ruling ab initio that the Prosecution can only enquire as to matters that were raised in direct examination.
+
+And in order to craft the cross-examination, I'd appreciate an opportunity to think about these issues today and tomorrow and to do the cross-examination on Monday morning.  So that's the application.
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Yes, Mr. President.  I think we're in a similar situation too with Witness BTH.  And I recall that at that time Mr. Webster took the position that because he had recanted his testimony he was now in a position where I could only do direct examination of him.  
+
+And I agreed with that, and I proceeded to question him by direct examination.  And the rules for direct examination applied.  And I think that the same holds here where this witness has now essentially flipped to being a Prosecution witness.  
+
+So I don't believe you should allow the Prosecutor to exploit this by allowing him to elicit evidence under Rule 90(G) which is clearly intended for situations where the cross-examining party has matters that help its case that are at least somehow relevant to the direct examination in some way.
+So I do agree with Mr. Webster that in principle we should deal with this on a finite basis depending upon the question that he asks, but as a general rule, I don't think that he should be allowed to go beyond the scope of my direct examination.
+
+The other issue is that a witness is allowed to be examined on his credibility.  And I take it that the Prosecution is not challenging the credibility of this witness at this stage.  And, therefore, there is no reason to allow the Prosecution to elicit any evidence under the rubric of credibility.  
+
+So my position is that the Prosecution should ask non-leading questions of this witness on direct examination as I did with BTH and be limited to the topics that he's testified on during my examination.  Thank you.   
+MR. WEBSTER: 
+Yes.  I do recall that we had somewhat of a similar discussion when BTH was testifying, and I did make the suggestion that Mr. Robinson use direct questions as opposed to leading questions with that witness, but that application was denied by the Court.
+
+So I'm a bit confused of why Mr. Robinson would refer to that when the Court ruled in his favour and did not guide him at all in how he was going to phrase questions to the witness or put questions to BTH.  That is really a side issue because a more effective examination, from our perspective, would be one where I would put direct questions as opposed to leading questions, and that's what I will try to do so the witness answers in a forthright manner as opposed to having the information suggested to him by the Prosecution.  So I don't think that's much of an issue for us.
+
+On the issue of credibility, Mr. Robinson has already put this witness's credibility in issue.  So its incumbent upon the Prosecution to address issues of credibility but not to undermine -- not to impeach the witness but to assist the Chamber in making a determination of which portions of his testimony or his direct examination should be believed and why they should be believed.  So the credibility doesn't disappear from the equation, but we handle it in a much more careful and nuanced fashion.  So my application remains, Your Honour.
+MR. PRESIDENT:
+Mr. Webster, we are not completely with you.  You know, you're inviting us to exercise discretionary power, and there are many factors within that are relevant in the way in which discretion should be exercised in relation to this matter, particularly the way in which the situation developed this morning including the remarks that you made before you knew what was going to happen.
+
+This is a witness that could have been called by the Prosecutor, and we don't think that it is reasonable for us in the circumstances that have evolved to allow you to turn the witness into a 
+Prosecution witness.
+
+So we don't think that you should be entitled to unlimited cross-examination.  We feel that you're entitled to cross-examine him on the testimony he has given, and that involves, I think, one issue.  In cross-examining him on that issue, you are entitled to demonstrate by your cross-examination that what he said was true.  So there is a certain amount of -- I suppose we will grant you an opportunity to address credibility to that extent.
+
+But we don't think that we should allow you the freedom to explore issues which were not addressed by the witness in his testimony.  So that will be the way in which we would recommend or direct that the cross-examination proceeds.  In those circumstances and in view of the trial not to corrupt, we think that you are in a position to conduct that cross-examination now.   
+
+You will call the witness, Mr. Registrar.  
+(Witness entered courtroom) 
+MR. PRESIDENT:
+Good afternoon, Mr. Witness.
+THE WITNESS:
+Good afternoon.
+MR. PRESIDENT:
+In your absence, there has been some extensive discussion of legal issues, and those discussions have now been completed.
+
+I will now ask Mr. Robinson if he has any further questions to put to you and to give him an opportunity to do so if he wishes to do so.  
+MR. ROBINSON: 
+Thank you, Mr. President.  I have no further questions.
+MR. PRESIDENT:
+Thank you.  
+
+Do any of the other Defence teams wish to put any questions to this witness?  No.  Thank you.  
+
+Now, Mr. Witness, you will now have to respond to the Prosecutor who will have an opportunity to cross-examine you now.
+
+Mr. Prosecutor. 
+
+CROSS-EXAMINATION 
+BY MR. WEBSTER:
+Q.	Good afternoon, Mr. Witness.
+A.	Good afternoon. 
+Q.	Could you begin by telling us when you were arrested in Rwanda and charged with genocide-related crimes if you recall.  
+MR. ROBINSON: 
+Objection, Mr. President.  Irrelevant and outside the scope of the direct examination.  
+MR. WEBSTER: 
+It's not outside the scope.  There was some testimony about the fabrication of evidence in Ruhengeri or the allegation made by I believe it was Mr. Robinson and a response from the witness.  So I'm exploring background information and putting things in context in terms of his presence in ************** and allegations of some sort of network of witnesses who fabricate evidence and pursue that.  
+MR. ROBINSON: 
+I don't recall that from the direct examination, Mr. President.  
+MR. WEBSTER: 
+Your Honour, the reason why I wanted to pursue this on Monday is because I wanted to carefully review the transcripts of this morning which I cannot do now or I haven't been able to do.  But I do specifically recall that this witness, in a response to Mr. Robinson, said, "I came to testify because I hear of other witnesses who come and say that they are being forced to fabricate evidence by the authorities in Rwanda, and that is not true."
+
+So in order to explore that statement, I'd like to bring out from the witness when he was arrested, how long he's been in ******************, what the circumstances were under which he made his confessions and had his case adjudicated in ***************, and those are all relevant issues for assessing his credibility in relation to that statement which he made in his direct examination.   
+
+The whole issue of fabrication of evidence in ************ is ripe for cross-examination or examination of this witness now.
+THE WITNESS:
+May I answer?  
+THE ENGLISH INTERPRETER:
+The witness wants to know.  
+MR. WEBSTER: 
+If it would make the Chamber more comfortable, I could rephrase the question as, "How long have you been detained in *************************?"  But it's still pretty much the same issue.  
+
+MR. PRESIDENT:
+All right, Mr. Webster.  We have found the passage.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, if you remember the question, can you give us an answer, please.
+A.	I was arrested on ***********************. 
+Q.	Have you been in prison since that date? 
+A.	Yes.  I am still in prison. 
+Q.	Have you ever been provisionally released since December of 1996? 
+A.	On no occasion. 
+Q.	Have you received a final judgement in your case? 
+A.	I have already been convicted, and I have no other means of appeal.  
+Q.	So if I understand you correctly, you've appealed your case and the appeal has been decided as well.  Is that so? 
+A.	I was convicted on appeal.  I appeared before the Gacaca courts subsequently.  I appealed, and I was convicted.  
+Q.	Can you tell us what your current sentence is.  What was the judgement of the Appeal Court with regard to sentencing?
+A.	The Appeal Court sentenced me to 25 years in prison.  
+Q.	Now, do you recall, Mr. Witness, when it was that you first began confessing your crimes? 
+MR. ROBINSON: 
+Excuse me, Mr. Witness.  I'm going to interpose an objection here, and perhaps the witness could take his headphones off.
+
+Mr. President, it seems like we're embarking on a road that's going to take us very, very far.  And my recollection -- I don't have the transcript available to me.  So I'm just going from recollection.  
+
+But if my recollection is correct, the witness, in explaining why he had put his initials on that document, said something like he wanted to come and straighten out the record and come and tell about -- or refute charges that evidence had been fabricated in *******************.  So if that's the nature of what is in the record, then it seems to me that this cross-examination is not designed to impeach that statement and that there is no reason to -- although it may have been made by the witness, it's not within the scope of the direct examination in the sense that it has any relevance to what was discussed on direct examination.
+
+The issue would be his motivation for putting his initials on the document, but to take that all the way back to when he was arrested, the whole history of 15 years or 12 years in prison and maybe 
+18 or 20 statements he made to the Prosecutor, 4 trials he's testified in -- if we go down that road, then we're opening this examination up very, very wide.  And if that's the case, then I'll also be doing a very wide re-examination.  But in any event, I think the intention of the Chamber was not to have this kind of exercise for this witness.  Thank you.  
+MR. WEBSTER: 
+Your Honour, that one single question certainly isn't going all the way down the road of the four trials in which this witness has testified previously.  But as I stated earlier, it's a legitimate issue to explore.  The witness mentioned the issue of fabrication of evidence in ************, and I'm going to question him on that issue.  And I have maybe ten or so questions on that issue.  It's not exhaustive by any means, but it is pertinent, and I do wish to explore it.  And it will be an examination on that issue alone, maybe 
+	10 or 15 minutes, which is not excessive at all.
+
+So I think we should take it question by question, and the last question that was placed before the witness is certainly capable of a very short and concise answer.  
+MR. ROBINSON: 
+But, Mr. President, what is the point of that line of questioning?  To show that there is no fabrication of evidence in *********************?  That's not really part of the examination-in-chief.  So even though the witness did mention that as a reason why he had put his initials on the document, that doesn't make it relevant for purposes of cross-examination.  
+MR. WEBSTER: 
+Your Honour, I'd respectfully disagree.  That was the heart of Mr. Robinson's examination of this witness.  He didn't get that far to bring out the evidence in a way that he wished, but clearly he embarked upon that, and so did the witnesses in his responses.  
+
+So there is enough of an issue there that merits further clarification for the Chamber of what this witness has in mind when he talked about refuting the claim by other witnesses that there had been fabrication in *************.
+
+And the Court should recall that other witnesses, other Defence witnesses, have claimed that this witness was involved in their attempts to fabricate evidence.  That's clearly an issue that the Chamber has to confront, and the witness is here before you.  
+JUDGE JOENSEN:
+The passage we are referring to as the issue of fabricating evidence is characterised -- under 11:35-40 the witness is asked, "And why did you want to do that?" meaning appear here before the Judges.  
+
+And the witness answers, "I wanted to appear before this Chamber because for some time I had heard witnesses explaining how events had happened and that people were trying to say that everything we had stated was false and that we were here to say what the Rwandan government had instructed us to say.  And so I decided to appear before this Chamber to state that this was false."  Thank you.
+MR. PRESIDENT:
+We think that in relation to that passage of the witness's testimony the question Mr. Webster has put is permissible.  
+MR. WEBSTER: 
+Thank you, Your Honours.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, going back to the question -- and I'll repeat it for you.  
+MR. WEBSTER: 
+The witness does not have headphones on.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, I'll put the question to you again.  Do you recall when it was that you first started confessing your crimes? 
+A.	Yes, I do.  It was on the *************************. 
+Q.	Did the prison authorities in ***********, the Rwandese authorities, ever pressure you or coerce you to provide false evidence against any of the ICTR accused?  
+A.	No.  No one coerced me to come and testify here in Arusha.  From the onset, I had decided to speak the truth in order to protect my interest.  
+Q.	Now, Mr. Witness, I understand that your own confession in Gacaca began -- or the series of confessions that you gave to Gacaca began on the ***********************.  But prior to that date, did you give any evidence that implicated Kajelijeli or Joseph Nzirorera in the crimes that took place in Mukingo? 
+A.	Yes.  Before confessing, I had already testified. 
+Q.	Did the Rwandese authorities play any role in eliciting that type of evidence from you? 
+A.	The Rwandan authorities played no role.  Every time I appeared before the authorities, they considered my statements before the investigator, but when they noticed that in the statements there were facts in connection with the people accused in Arusha, then they would get in touch with the investigators.  That is it. 
+Q.	Did the Rwandese authorities make any promises to you or confer any benefits upon you in exchange for the information you provided in your confessions? 
+A.	There was never, ever such a contract between myself and the Rwandan authorities.  And even if such a contract were to exist, I would have been released from prison.  
+Q.	Explain what you mean by that last statement, Mr. Witness.
+A.	What I am saying is as follows:  I was never promised any compensation.  Had I been promised anything, I would have been released from prison. 
+Q.	You mentioned earlier this morning that you heard about witnesses from ******************* who now claim that their confessions and the evidence that they gave against Kajelijeli and Nzirorera was somehow coerced or pressured; that they had somehow been pressured by Rwandese authorities.  And here I'm referring to witnesses that may be known to you as BTH or GFA.  And there are others, but let's start with him.
+
+Do you have anything to say about that, Mr. Witness?  
+A.	To be more specific with respect to Witness GFA, I listened to his testimony.  He came and testified after I had left Arusha when I had testified in the Kajelijeli trial.  Kajelijeli had already been convicted, and I had not asked that witness to say anything whatsoever.  
+Q.	Do you have anything to say about the allegations that GFA has made about being pressured by Rwandese authorities to give false evidence?
+A.	What he said was a lie.  He testified out of his own volition as he knew how events had happened.  Nobody coerced him to come and testify. 
+Q.	Now, I asked you about Rwandese authorities pressuring you.  I'd like to ask you the same question about members of the ICTR, particularly the Office of the Prosecutor.
+
+Did anybody from the ICTR or from the Prosecutor's office in the ICTR ever threaten you, pressure you, or offer you any benefits in exchange for your testimony?
+A.	No.  They had nothing to promise me.  The only thing they could have promised me was to release me, and I have not been released.  So which other sort of compensation could they have promised me?  
+Q.	Sometime in 2008, there was a lawyer that was appointed by this Tribunal -- and in our legal terminology, we call him an amicus curia -- who was asked to investigate allegations of pressure being brought on witnesses to fabricate evidence in ***********.  That's one of the things that he was looking into.  And he spoke to you in particular.
+
+Do you recall meeting a lawyer by the name of William Nderitu back in 2008?
+A.	I no longer remember the name of that person, but I recall that there is an official of this Tribunal who came and met me and who put questions to me to that respect. 
+Q.	When you answered his questions, did you answer them truthfully? 
+A.	Yes.  I answered truthfully to his questions. 
+Q.	Did he pressure you or offer you anything in exchange for the information that you provided? 
+A.	No.  He did not pressure me in any form, and he promised me nothing. 
+Q.	Shortly before that person interviewed you, there was an investigative team from the OTP from the ICTR that interviewed you and asked you pretty much the same questions.  This all goes to the issue of whether there was pressure being brought to bear by Rwandese authorities on the prisoners in **************** to fabricate evidence.
+
+Do you remember those interviews?  It's a very specific interview that took place in 2008, but here I'm not talking about Mr. Nderitu, I'm talking about a Prosecution investigative team.
+
+Do you remember that?
+A.	I met several people, but for everyone I met, I did not tell anyone that any given Rwandan authority had forced us to fabricate testimonies. 
+MR. WEBSTER: 
+Your Honour, there's a document I'd like to have placed before the witness, and I have copies for the Bench and for the Defence.
+
+If you could give these two to the French-speaking Defence team, and this is for the Chamber.  There is two English and one French.  And for the witness you can give him this. 
+MR. ROBINSON: 
+Yes, Mr. President.  I'm going to -- Mr. President, I object to any use of this document.  This is now an effort to use a prior statement to buttress the testimony of the witness which you repeatedly didn't allow me to do during my questioning.  Thank you.  
+MR. WEBSTER: 
+I haven't asked the question yet.  So I think the objection is premature.  But as I ask the question, I'm sure Mr. Robinson can make whatever objection is appropriate.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, if you look at the bottom of the first page of the document that's placed in front of you, there's a signature.  And above the signature there's the date, the 28th of March 2008.  Is that your signature?  
+MR. ROBINSON: 
+Now I'll object, Mr. President.  Now I've heard the question.  Because there's no point in asking the witness to verify his signature on a statement that is not itself admissible.   
+MR. WEBSTER: 
+I haven't asked a single question about the statement yet.  So the objection is still premature.  
+MR. ROBINSON: 
+Well, Mr. President.  We waited for the question.  The question is to have him identify his signature.  I'm saying that that is irrelevant, and I think it's now for Mr. Webster to explain to the Chamber what is the relevance of this statement, whether he signed it, didn't sign it, whether that's his signature or not.  What's the relevance of the statement?   
+MR. WEBSTER: 
+I'll wait for the Chamber's ruling.  There is nothing to object to at this stage.  If I ask another question and it's somehow irrelevant, then Mr. Robinson can make that objection, but at this point all I'm asking is if that's his signature on the first page of a witness statement dated 27 and 28 March 2008.
+MR. PRESIDENT:
+We think that that question is permissible.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, I'll put the question to you again.  If you look at the first page of that document -- and I'm assuming that you have the English text in front of you -- at the bottom of the page in the 
+	left-hand corner, there appears to be a signature, and it's dated the 28th of March 2008.
+
+Is that your signature?
+A.	Yes, that is my signature. 
+Q.	And if you turn to the last page, there is some writing in Kinyarwanda at the top and your name and signature again.  And at the bottom of the page again there is a signature with a date.  Are those your signatures?
+A.	Yes.  Those are my signatures. 
+Q.	Essentially on that last page where there is some writing in Kinyarwanda.  It states that the statement is true to the best of your knowledge and that it was read back to you and you agree with its contents.
+MR. WEBSTER: 
+So on the basis of that, Your Honour, I'd remind the Court that this was a document that was identified for our record as IP. 26.  It was placed before Witness BTH when he was testified back in April, and it was only given an IP number at that time because it was not authenticated for the record.  
+
+Now we have a witness who actually signed the statement, and he has just told us that that is his signature on the first page and on the last page.  And on that basis I would offer it in evidence.  So it should no longer be an IP document.  It should be entered into evidence as a Prosecution exhibit.  
+MR. ROBINSON: 
+Mr. President, that is exploiting the very thing that we are trying to avoid here; that basically he's now had him identify his signature so that he can reopen his case to admit evidence that he wasn't able to enter during his case.  And I don't think that's a proper function of his cross-examination of this witness, particularly because he has yet to establish any other legitimate purpose for this statement.  
+
+So he's convinced you to let him go along inch by inch, and now he's completely turned around the purpose for which we were proceeding to exploit it to introduce something which he was not able to introduce during his case, and that's not fair.  
+
+So I think that this whole exercise that I was objecting to at the beginning shows that there should have been some greater purpose for him to have the witness identify his signature.  And now that we know the true purpose of it, I don't believe that it should make the document admissible.  Thank you.  
+
+MR. WEBSTER: 
+Your Honour, this Chamber has already decided that when a document is identified for identification on the record, that's the beginning of a process to have it admitted in evidence.  And if there is ever other evidence that comes on the record subsequently, that that can be used on any other deliberation as to whether or not the document should be admitted or not.  
+
+It made the very same analysis with regard to at least two or three other documents that have made their way on to our trial record as exhibits after having been marked for identification.  And I'm not admitting this document to bolster this witness's testimony.  
+
+This document is being admitted because it is relevant to questions put to Witness BTH back in 2008, but the witness is here.  He has identified his signature.  It was identified for the record.  The only reason it wasn't offered for the record back in 2008 is because it had not been authenticated.  Now it has.  
+
+So it should go into evidence for the purpose it was offered back in April of 2008.  It's not about this witness's cross-examination necessarily even though the issues, the factual issues, are similar or the same quite frankly.  
+(Pages 34 to 54 by Kelly Surina)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1505H 
+MR. PRESIDENT:
+Once again, we are faced with an interesting legal issue.  The way we see it is that the issue of the fabrication within the ********************* is within the scope of the permitted examination, and this question, or the application to admit this document relates entirely to that issue.  So we think it is within the scope of the permitted cross-examination issue.  
+
+Now, what is being of interest to us -- we think that it is not introducing -- we don't feel this crosses the line which are -- another line that we are concerned about.  We don't want this witness transformed into a Prosecution witness.  But we think that the testimony that is being introduced now relates to the testimony of BTH, and our order that the matter be marked for identification started a process which we think can be legitimately completed now.  So we are inclined to allow the admission of the document as an exhibit to transfer its status from identification document to a full exhibit.  
+
+We have -- we are not sure at the moment as to whether examination on the content of a document should be permitted.  And we have not made up our mind on that yet, but we have some concerns on that issue.  
+MR. WEBSTER:
+Thank you.  If the Chamber can give us a number.  I do have a French translation now which we didn't have when it was marked for identification.  And I am certainly willing to give two fresh copies to CMS on Monday morning, so if we can have a number, then I would make sure that the CMS get fresh copies of both the English and the French.
+MR. MJUI:
+The next Prosecution Exhibit will be P. 414.  Thank you.
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+
+This is admitted under seal.  
+MR. WEBSTER:
+Yes.  
+(Exhibit No. P. 414 admitted, under seal) 
+BY MR. WEBSTER:
+Q.	Now, Mr. Witness, Mr. Robinson mentioned a meeting with you in a side room of this courtroom sometime back in November of 2008.  Do you recall why you were brought to the Court then?  Was it specifically to meet with Mr. Robinson, or were there other matters that were pending that caused you to be transferred from Rwanda to Arusha? 
+A.	In November I came under the same conditions as I have come today.  
+Q.	But were you being brought to testify in a trial?  I am trying to understand why you were present in Arusha in November of 2008.  
+A.	In 2008 it was to testify in the Setako trial.
+MR. WEBSTER:
+Mr. Robinson, my question is directed to you since you were trying to say something earlier.  Is that the information that the Nzirorera Defence wanted to volunteer?  
+MR. ROBINSON:
+Since we wanted to volunteer the facts, it was the 18th of November 2009.  Since we don't have transcripts available.  Perhaps there was a mistake that that was the date.  
+MR. WEBSTER:
+I am sorry.  Thank you.  
+MR. PRESIDENT:
+Thank you.  
+BY MR. WEBSTER:
+Q.	And is your answer the same, Mr. Witness, that you were brought here in November 2009 in Setako?  Or if you don't remember, that is a fair answer.  I am not trying to get you to say something that you don't remember -- 
+A.	No, in 2009 I came to testify in this case, in this trial.  
+Q.	Thank you very much.  Was that the first time that you met with Mr. Robinson? 
+A.	No.  That was not the first time.  
+Q.	Do you recall when it was that you had met with him the first time? 
+A.	I met him for the first time in your presence.  You were with him.  
+Q.	Unfortunately, I can't remember that.
+MR. WEBSTER:
+I don't offer that as an evidentiary statement.  I am just --
+THE WITNESS:  
+	I believe it was in 2005 or 2006.  You came with Mr. Robinson to the ***************** and we had a discussion.  I don't believe that I am confusing you for someone else.  I believe you are the one who came with Mr. Robinson.  
+BY MR. WEBSTER:
+Q.	Thank you, Mr. Witness.  Do you know why it is that Mr. Robinson summoned you as a 
+	Defence witness for Nzirorera?  Was it based on anything that you had said to him, why he attempted to contact you?  I am not talking about the substance of your conversations, why he contacted you initially.  
+A.	When you came together, I said that I was not going to agree to testify for Nzirorera.  So I don't know whether thereafter he decided to contact me to testify as a Defence witness.  
+Q.	When you had met with him, and I was present, and I believe you said it was in 2005 or 2006, you had already testified in at least three ICTR cases.  I believe that would have been Kajelijeli, 
+	Casimir Bizimungu and Augustin Bizimungu.  Is that so?  And if it is not, you can correct me? 
+A.	I think you are right.  
+Q.	And would you agree with me that in those three cases you gave similar evidence, which was basically about the events in ****************** from 1990 to 1994? 
+A.	Yes, I testified in those cases, and my testimony was consistent, although I dealt with individual accused persons according to the case before which I was appearing.  
+Q.	And when you testified in those three trials, you also gave evidence that touched upon 
+	Joseph Nzirorera at some point.  Even though it wasn't a very long testimony, somehow 
+Joseph Nzirorera was implicated in your evidence about Kajelijeli, Bizimungu -- and the 
+two Bizimungus, with Augustin and Casimir.  Would you agree with that, or if not, clarify for us? 
+A.	Yes, I also mentioned Nzirorera in those cases.  
+Q.	Now, you testified earlier this morning about a meeting that was held at ***************************** during the early morning hours of 7th April, and you told us that Nzirorera himself had called for such a meeting by making a phone call to the bureau commune and you were present to overhear the bourgmestre speaking to Nzirorera in relation to that telephone call.  Is that accurate?  Have I accurately summarised what you said this morning? 
+A.	I was at the communal office with the bourgmestre, and he told me the content of his telephone conversation with Mr. Nzirorera.  
+Q.	And then you yourself went to ********************************* during the early morning of that same day, the wee hours of the morning on the 7th of April.  Right? 
+A.	Yes.  
+Q.	Was there any discussion at *********************************** that morning, among the people who had gathered, of getting the Interahamwe to start attacking the Tutsi population of ***********?  
+MR. ROBINSON:
+Yes, Mr. President, I am going to object to that.  That goes -- the only scope of that meeting that I went into was whether Mr. Nzirorera was present.  And now this goes beyond the scope of that.  Thank you.
+MR. WEBSTER:
+Your Honour, this is exploring the phone conversation and what ensued from that phone conversation, the meeting that took place thereafter that the witness testified that was called for by Nzirorera.  Now, 
+I don't have very many more questions.  I am not going to use that to open up a long-winded examination.  
+MR. PRESIDENT:
+That's not quite right, Mr. Webster.  That question goes right -- you are asking about a new issue.  
+You see, the -- 
+MR. WEBSTER:
+Mr. President, I have put the question that way because it can be answered very directly and I don't have many more questions beyond that.  But I can ask an appropriate question, which is simply going to take us down a longer path.  I can ask him why was the meeting called.  How long?  What was his understanding of the reason for the meeting?  It is going to get to the simple point that that question addresses.  
+
+Mr. Robinson is the one that rolled -- that addressed the issue of the meeting.  Certainly, I should have an opportunity to explore the reason for the meeting.  That goes to the issue of credibility for the witness, especially in the context of all of the evidence that we have heard in this trial so far.  So I don't see how we can avoid this issue and be fair to both parties.  
+MR. ROBINSON:
+Mr. President, I am just going to comment on credibility.  What is the point of the credibility of the witness that Mr. Webster is trying to show?  That the witness is not credible?  This is a question of scope, not credibility.  And the scope is delineated by -- the question was simply:  Was Mr. Nzirorera present at the meeting.  
+MR. WEBSTER:
+The Defence contention is that there was no such meeting.  And if their defence is that there was no such meeting and the witness said there was a meeting, then certainly, the Court would be interested to know more -- have more information so that they can make a factual finding of whether there was a meeting or not.  It's not just an issue of credibility of the witness.  We are dealing with substance of evidentiary issues and factual issues in the case.  
+MR. PRESIDENT:
+Yes, again, we think that the door has been opened by the question and answer that was put in examination-in-chief.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, let me put the question to you again.  Bringing to mind the gathering that took place at ***************************** on that early morning hours of the 7th of April, was there discussion, any discussion of getting the Interahamwe to start attacking the Tutsi population of **********?  You can answer that question very directly by saying, yes or no, and then I will ask you a follow-up question, if I need to.  
+A.	Yes.  
+Q.	Putting aside the matter of whether or not he was present, he, referring to Nzirorera, I want you to put that issue to the side for a second.  Was it your understanding that Joseph Nzirorera had the authority and capacity to make such an order? 
+MR. ROBINSON:
+Again, Mr. President, it is beyond the scope not covered by the direct, but calling for speculation.  
+MR. WEBSTER:
+It's certainly not calling for speculation.  If I was to explore with the witness what he did for a living and how well he knew Nzirorera and how many times he had met Joseph Nzirorera and how many times 
+he had met with the other people who were there, and what transpired in ************ in 1991 and 1992 and 1993.  So I am trying to be as efficient and as narrow as I can be, but the question is germane.  It's appropriate and I would like an answer to it.  But I can go another way and take -- with an hour of examination and arrive at the same point.  So it's a very simple proposition.  It calls for a very simple answer.  
+MR. PRESIDENT:
+We have the witness's profession.  We don't think it's speculative.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, I will repeat the question to you so that you can have a clear understanding of what I am trying to get you to respond to.  
+
+Putting aside the question of whether or not Joseph Nzirorera was present that morning, was it your understanding that Joseph Nzirorera had the authority and capacity to make such an order? 
+A.	Do you believe that he did not have that authority?  He had the authority.  
+Q.	And what makes you say that, Mr. Witness?
+MR. ROBINSON:
+Objection, Mr. President.  It goes, again, well beyond the scope of the direct examination.  
+MR. WEBSTER:
+Your Honours, I am trying to get the witness to explain why he made the statement.  Why he -- to explain his answer.  Certainly, he should be permitted to do that.  
+MR. PRESIDENT:
+We are going to order that you could answer the question.  So you may proceed.  So you may continue.  
+THE WITNESS:
+You asked me whether Nzirorera had the authority to make such an order, and I said he did.  
+BY MR. WEBSTER:
+Q.	And, Mr. Witness, I was trying to get you to explain your answer.  What makes you think that he had the authority and the capacity to make such an order? 
+A.	The situation in Rwanda was such that even today a figure of authority can order members of the population to do something and they did comply.  
+Q.	But here, Mr. Witness, I was referring to an order for the Interahamwe to start attacking the 
+	Tutsi population in ************  What makes you think that Nzirorera had the authority and capacity to order the Interahamwe to start attacking the Tutsi? 
+A.	The first indication of his authority was the convening of the meeting at his **************, which was attended by colonels and businessmen.  That reflects the kind of power he had.  By the way, 
+	some generals also attended the meeting.  
+Q.	And then with respect to the Interahamwe, why would you say he had authority or capacity to order them to start killing? 
+A.	He was one of those who created the Interahamwe and he had power and authority to give them orders.
+MR. PRESIDENT:
+Mr. Webster, how much longer do you have?  
+MR. WEBSTER:
+I think I am coming to the very end.  If I could ask the witness to remove his headphones so that I could communicate with the Trial Chamber without his hearing.
+MR. PRESIDENT:
+Thank you.  Yes.  
+MR. WEBSTER:
+There is one other issue that I wanted to explore, Your Honour, and I would ask the Court if it's going too far afield, and it's getting back to the issue of the protective measures.  And while I am not trying to make an application to deny him, the witness, protective measures, I think it's an issue in our trial, and particularly in regard to this witness and others, how their identities are discussed and the content of their testimonies are discussed in their community, specifically in ****************** and whether there are any adverse consequences being identified with their testimony.  And I think it's germane in issue.  And I would like to explore it, but I also do not want to aggravate the Chamber with the issue since we had already gone past it this morning.  
+
+But with your permission, I will go into that issue so that I can simply bring out whether the witness has well-founded misgivings about being -- having his identity exposed, and I don't think he does.  And I think he will inform the Chamber that the identities and the content of the testimonies of all of these witnesses are known in the prison.  And I think the Court should hear that from a witness here.  So that's what I would like to explore, and I can do that in around 10 minutes, if the Court deems it appropriate.  
+MR. WEYL:
+Mr. President. 
+MR. PRESIDENT:
+Mr. Weyl, I can assure you we have one eye on the clock.
+MR. WEYL:
+Mr. President, my eye can only see my own watch here.  And it is 35 after the hour, by my watch. 
+MR. PRESIDENT:
+Yes, we are aware of that.  Thank you.  
+
+Mr. Webster, we think that the only purpose of that type of -- that line of questioning would be to invite a reconsideration of the order that we made.  We don't see it as having other -- issue in relevance to the examination-in-chief.  It has been addressed.  So we will not permit it.  
+BY MR. WEBSTER:
+Q.	So, Mr. Witness -- 
+MR. WEBSTER:
+If the Court can get the witness's attention, please.
+BY MR. WEBSTER:
+Q.	Mr. Witness, I would like to thank you for your assistance to the Chamber.  I have come to the end of my questioning and I wish you a safe travel back to Rwanda.
+A.	Thank you.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Robinson.
+MR. ROBINSON:
+Yes, I will have some redirect, Mr. President.  
+MR. PRESIDENT:
+How long are you likely to be?  
+MR. ROBINSON:
+Maybe one hour.
+MR. PRESIDENT:
+Mr. Witness, we have reached the end of our session for today.  We are going to take our adjournment now and resume on Monday.  I have to advise you that during this or any adjournment you are not to discuss the case or your testimony with anybody.  Do you understand?
+THE WITNESS:
+I have understood you, Mr. President.
+MR. PRESIDENT:
+Thank you.  
+
+We'll take the adjournment now.
+(Court adjourned at 1538H)
+(Pages 55 to 61 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Claudette Ask, Lisa Smith, Kelly Surina and Sithembiso Moyo, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Claudette Ask
+
+
+___________________________	 Lisa Smith
+
+
+____________________________ 	Kelly Surina
+
+
+____________________________	Sithembiso Moyo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 21 JANUARY 2010
+
+CLAUDETTE ASK - ICTR - TRIAL CHAMBER III - page 14
+
+	KAREMERA ET AL	THURSDAY, 21 JANUARY 2010
+
+LISA D. SMITH - ICTR - TRIAL CHAMBER III - page 33
+
+	KAREMERA ET AL	THURSDAY, 21 JANUARY 2010
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page 54
+
+	KAREMERA ET AL	THURSDAY, 21 JANUARY 2010
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 61
+
+ICTR - TRIAL CHAMBER III
+

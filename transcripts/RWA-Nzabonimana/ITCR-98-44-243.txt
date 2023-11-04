@@ -1,0 +1,1348 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+  TUESDAY, 28 FEBRUARY 2006
+ 0902H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Mr. Greg Lombardi
+	Mr. Gilles Lahaie
+
+For the Accused Édouard Karemera:
+	Mr. Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Wendy Molnar
+	Ms. Jennifer Spring
+	Ms. Ann Burum
+	Ms. Karen Holm
+
+
+
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS UB
+Examination-in-chief by Mr. Morley (continued)	4
+Cross-examination by Mr. Robinson	42
+
+
+EXHIBITS AND EXTRACTS
+Exhibit No. D. NZ55 	45
+Extracts 	11, 14, 15, 18, 19, 20, 21, 22, 42, 43, 44, 46, 48
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please?  
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Emile Francis Short, and Judge Gustave Kam, is now sitting in open session, today, Tuesday, 28th February 2006, for the continuation of the trial in the matter of the Prosecutor versus Karemera, et al, Case No. ICTR-98-44-T.  
+
+Thank you.  
+MR. PRESIDENT:
+Appearances, please?  
+MR. WEBSTER:
+Good morning, Your Honours.  The Prosecutor is represented by myself, Don Webster, Iain Morley, Takeh Sendze, and the record should also reflect the presence of our crime analyst, Massamba Ndiaye.  Thank you, and good morning to the rest of the Chamber.  
+MR. PRESIDENT:
+Thank you.  
+MR. SOW:
+Good morning, Mr. President, Your Honours, everyone.  Moussa Félix Sow, myself, assisted by Mr. Leopold Nsengiyumva.  
+MS. HOUNKPATIN:
+Good morning, Mr. President, Your Honours.  Good morning, everyone.  I am Chantal Hounkpatin, lead counsel for Mathieu Ngirumpatse, assisted by Counsel Anta Guissé.  
+MR. ROBINSON:
+Good morning, Mr. President, members of the Trial Chamber.  Peter Robinson and Leopold Nsengiyumva for Joseph Nzirorera.  
+MR. PRESIDENT:
+Thank you.  Could the witness remove his headphones, please?  
+
+We -- at this stage we'd like just to give a decision on the motion for a mistrial and the repeated request that the testimony of Witness UB be excluded.  Nzirorera, supported by his co-Accused, requested that we declare a mistrial based, in brief, on the allegation that the Prosecution has led testimony that it knows is false.  As an alternative remedy, he again requested that the testimony of Witness UB or portions of it be excluded.  
+
+Now, the Chamber is vigilant to ensure the integrity of the process of this trial.  However, the factual foundation for the complaint is so remote that it is unnecessary to say more than that the motions are denied for lack of merit.  
+
+I would like to add, however, that during argument counsel for Nzirorera raised the issue of abuse of process and referred to prosecutorial delay and misconduct as bases for involving -- or invoking the doctrine.  I would like to say that the process can be abused by the Defence if blatant delaying tactics are employed.  And I would refer, in particular, to the making of unmeritorious applications persistently and frequent regurgitation of issues that have already been decided.  I would think that these could fall within that category of abuse.  
+
+At this stage, that is, if I am permitted to use a Latin phrase, that's simply obiter.  
+
+Mr. Morley, are you ready?  
+MR. MORLEY:
+As always, Your Honour.  I think my learned friend, Mr. Robinson, has a matter to address you upon.  
+MR. ROBINSON:
+Yes, if that's okay, Mr. President.  Thank you.  I do have a few small matters that I think a few minutes of planning will save us some time.  I see Mr. Morley may be nearing the end of the marathon here, and I want to anticipate some logistical issues with respect to cross-examination.  
+
+First of all, I have prepared exhibits that I plan to use during cross-examination, and what I would like to do -- I have them here.  They're organised.  I think they'll be mostly complete.  I think there might be a few added based on today's direct.  But what I would like to do is submit these to the CMS now and have you make an order that these not be disclosed to anyone, the Judges, staff, anyone, especially the Prosecution, until Mr. Morley has completed his direct examination.  
+
+I could tender these at the time the direct examination is completed, and I anticipate we would be delayed in the process of reproducing them.  So I'm trying to avoid that by having them and having them ready by the time my examination starts, but I don't want them disclosed to anyone until that time.  Otherwise, my good faith in doing this will not be repeated.  So may there be such an order, and then we can do that?  
+MR. PRESIDENT:
+Yes, the application is approved -- is granted.  
+MR. ROBINSON:
+And if the registrar can collect the collection of exhibits, I would appreciate that.  
+
+Also, Mr. President, in anticipation of my -- beginning my cross-examination, I would ask that you decide some motions that are pending that relate directly to this witness and for which there will be some prejudice if there wasn't a decision, and those are my motion to stay the proceedings, pending appeal of the motion for stay of proceedings, and also my motion to inspect non-Rule 35 material.  Some of the items pertain directly to material that goes to this witness's testimony.  
+
+And I would also like to recall to the Trial Chamber that on the 19th of December, I had made a motion asking that a certain procedure be employed for ex parte filings, and there's not been a ruling on the motion.  I notice the Prosecutor attempted to make an ex parte filing last week, and I would hope that the Trial Chamber could rule on that motion without too much further delay.  
+
+Finally, just anticipating, the Prosecution has notified us that they intend to call Witness ALG as their next witness.  There's a 35-page Kinyarwanda, handwritten statement of this witness that has not been translated, and it's a very germane document in which he recounts his version of the events.  That'll be the subject of his testimony.  I think that we need to have a session, if possible, like we did with Witness UB's judgement, in which this document is translated to the parties, and I would ask that you make some provisions for that before the testimony of Witness ALG commences.  Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Robinson.  The applications you have made are noted.  I can't say more than that at this point in time, but we've noted what you've requested.  
+MR. MORLEY:
+May I enquire, insofar as my learned friend helpfully is putting forward into CMS his various exhibits, that they are scanned so that they can be made available electronically to all the parties, including, obviously, the registry?  Because that will assist us in ensuring that all the material is available in the electronic form as well as in the hard-copy form.  
+MR. PRESIDENT:
+The registry is prepared to assist.  Usually these exhibits are scanned into TRIM but not in advance.  They're done at a later stage.  And there may be one or two logistical issues which the registrar will have to discuss with yourself and Mr. Robinson as he prepares to do it.  In fact, what he was -- but he's willing to assist in this activity.  
+MR. MORLEY:
+We're grateful to Mr. Constant.  Thank you.  
+
+With His Honour's leave, I'll turn to the witness.
+WITNESS UB, 
+EXAMINATION-IN-CHIEF (continued)
+BY MR. MORLEY:
+Q.	Good morning, Mr. Witness.  
+THE ENGLISH INTERPRETER:
+The witness does not -- 
+BY MR. MORLEY:
+Q.	Good morning, Mr. Witness.  Yesterday we -- 
+A.	Good morning to you, sir.  
+Q.	Yesterday we had discussed a telephone call on the 11th of April by you to Ngirumpatse at the Hotel Diplomat.  So we had got as far as the 11th of April.  Can you remember when the next security council meeting took place within Kigali?  
+THE ENGLISH INTERPRETER:
+The Kinyarwanda booth is requesting counsel to please repeat the question because of a slight technical hitch.  Sorry.  
+BY MR. MORLEY:
+Q.	Can you remember when the next security council meeting took place within Kigali after the 11th of April?  
+A.	A further security council meeting of Kigali security -- further meetings were held subsequently of Kigali préfectoral security committee.  
+Q.	Are you able to assist with the date of the next meeting, or is it difficult to remember from so long ago?  
+A.	It was a long time ago, but I do remember that on the 14th, a meeting was held, and a further meeting was held on the 16th also.  
+Q.	On the 14th of April, at a further security council meeting, was anything said about Kagame once having been a small boy?  
+A.	In the course of the meeting of the 14th, several topics were discussed.  There were many participants, many conseillers, and many political party people.  We didn't speak only of Kagame but, more particularly, of the Tutsi.  We said that the children, the women, and other Tutsi were being killed by the Interahamwe.  In fact, it was the people who were members of Power wings, Interahamwe, and soldiers who were killing.  So when we gave our security reports, we mentioned the killings, the slaughtering that was going on in Kigali.  So we said that because the families were being killed, it was their children who were fighting with the Inkotanyi.  And people like Regema (phonetic) and Kagame left the country when they were still young, but now we were fighting for their families.  We related all the events that took place in all secteurs.  So we were speaking of the killings being perpetrated throughout all secteurs.  
+Q.	What was the point of someone saying that Kagame had left Rwanda as a small boy and had come back as someone fighting the government?  What was the significance to be attributed to that observation?  
+MR. PRESIDENT:
+Mr. Morley, could you just hold that question for one moment before it's answered?  
+MR. MORLEY:
+Of course.  
+MR. PRESIDENT:
+We have a technical issue.  
+
+I'm sorry for the interruption, but you'll have to continue.  
+MR. MORLEY:
+Thank you very much.  
+BY MR. MORLEY:
+Q.	Witness, if I can turn back to you, you've told us that there was discussion of the killings of families, of women and children, and you have told us that there was an observation made that Kagame had once been a boy who left Rwanda and had now come back and was engaged in fighting the government.  What was the significance of that observation?  What was the point of it?  What did it mean?  
+A.	I told you that Rwandans usually liked to speak in parables.  They said that because -- at that time women and children were being killed, but it meant that the killing should begin because it were Tutsi who were at the front fighting the government.  In fact, there were many corpses throughout Kigali, corpses of old people, of children, who were littering the streets of Kigali, and the killings didn't stop.  They continued until we went into exile.  There was killing throughout the country in Kigali city and elsewhere.  
+
+Those who could hide hid, but the people you saw, you killed them immediately, which means that the killing that had begun on the 7th of April had to continue, must continue because Regema (phonetic) and Kagame had left the country as small children; and yet here they were coming back to fight the government.  So it was necessary to go on killing.  That is how I understood what it meant, and that was the situation that obtained about everywhere on the hills.  
+Q.	Why kill children?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I object to that.  I think that again is calling for speculation.  If he can relate what was said at the meeting, that was fine.  And while I'm on my feet, I'd ask Mr. Morley to enquire as to the identity of the people making the statements that he's trying to elicit.  
+MR. MORLEY:
+I will, of course, establish the identity.  I just want to establish what was said and what it meant.  I respectfully submit the question "Why kill children" is perfectly appropriate in the context of what's being discussed by the witness.  If I may return to the witness, Your Honour?  
+MR. PRESIDENT:
+Mr. Morley, you have to identify whether it is -- the difference between his idea of "Why kill children" or whether "Why kill children" was discussed at the meeting.  
+MR. MORLEY:
+Yes, and I'm going to get there, but as Your Honour sees, the witness, in answering questions -- 
+MR. PRESIDENT:
+Mr. Morley, you don't have to explain too much.  I think you understand the issue, and you can go on.  
+MR. MORLEY:
+Thank you.  But, if I may, with the question which I want to ask, and we'll see where it leads.  
+BY MR. MORLEY:
+Q.	Turning back to the witness, the question I ask you is this:  Why were children being killed?  
+A.	As I have been explaining, if I were to venture a response, it would mean that I was in the mind of the people who had planned that, but I think they wanted to exterminate the whole Tutsi ethnic group.  When you kill children and women, it means you want to exterminate a race.  So we wanted the Tutsi ethnic group to be completely exterminated.  Because the children were innocent; they had never committed any crime.  
+Q.	Why not simply let the women and children leave the country?  
+A.	I cannot answer that question in view of the position I held.  You might perhaps get an answer to that question from the top leaders of the country.  Perhaps they could have let them go as they had in 1959, but as they were saying they'd made a mistake in 1959, I don't think, in their eyes, they could let them leave a second time.  So you have to put that question to the higher -- highest authorities of the nation who are entrusted with defending the interests, the well-being of the nation.  
+Q.	Why was it a mistake to have let the women and children go in 1959?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I think this witness is now giving expert testimony.  He's already said in response to the last two answers that he doesn't have any personal knowledge of that.  
+MR. PRESIDENT:
+Mr. Morley, in addition, hasn't he given evidence about this already in his testimony?  
+MR. MORLEY:
+Your Honour, yes, but I'm dealing now with the meeting of the 14th of April, where there is the discussion of the killing of women and children.  There has been the comment that Kagame left Rwanda as a small boy and has come back to fight the government, and I'm trying, in the context of that meeting -- and Your Honour may perceive it's challenging work to get this witness to stop talking in parables, but to spell it out.  And, therefore, within the context of that meeting, I'm seeking what I anticipate Your Honours know is a certain type of answer.  
+
+Well, perhaps if the witness takes off his headphones.  
+MR. PRESIDENT:
+No, I don't think it's necessary to go into too much.  I think that you understand what the rules are, and you're going to be permitted to proceed for now.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Witness, what was the mistake in having let the women and children go in 1959?  Why, in 1994, was that thought to have been a mistake?  
+MR. PRESIDENT:
+No, Mr. Morley.  That's the problem.  Are you asking the witness to give his opinion about it?  
+MR. MORLEY:
+I'm trying to get the witness to tell us what it was that was discussed on the 14th of April.  
+MR. PRESIDENT:
+Well, that's the point.  I think you have to phrase your question slightly differently to extract that information in that manner.  I understand that -- what you're up against, but also from the point of view of our record, the way the question is put, it seems to seek the witness's own personal opinion on the matter.  
+MR. MORLEY:
+I understand.  
+MR. PRESIDENT:
+And that's the problem.  
+MR. MORLEY:
+I will rephrase.  
+BY MR. MORLEY:
+Q.	Witness, within the meeting of the 14th of April of 1994, why was it thought to have been a mistake to let the women and children go in 1959?  
+MR. ROBINSON:
+Excuse me, Mr. President.  This is an improper question:  "Why was it thought?"  Who thought?  I think this is what was said at the meeting.  If it was said about -- that there was a mistake at this meeting, who said it, and what was said?  But what was being thought at the meeting collectively is totally inappropriate.  
+MR. MORLEY:
+No.  It is an explanation for there being a mistake, and I'm anticipating an explanation that the meeting discussed how it was a mistake to have let the 1959 women and children leave.  
+MR. PRESIDENT:
+Why can't you put the question just in that way to the witness?  
+
+MR. MORLEY:
+I thought I just had.  
+MR. PRESIDENT:
+No, you hadn't.  That's the problem.  But if you use that phraseology to the witness, I would think that would be quite acceptable, and he should understand you and answer you properly.  
+MR. MORLEY:
+I'll try again.  
+BY MR. MORLEY:
+Q.	Witness, at the meeting of the 14th of April, when the killing of women and children was discussed and there was reference to Kagame leaving the country as a small boy and coming back to fight the government, why was it said it was a mistake to have let the women and children go in 1959?  
+JUDGE SHORT:
+Mr. Morley, is that already in evidence, that at the meeting it was said that it was a mistake for the women and children to leave in 1959?  
+MR. MORLEY:
+I believe so.  
+JUDGE SHORT:
+Has the witness already said so?  
+MR. MORLEY:
+I believe so, because I believe that he's answering his questions in the context of the meeting of the 14th of April.  My learned friend, Mr. Robinson, keeps bobbing up to suggest he's not, but my understanding of the witness's answers is, he is describing the thinking process in the parable form of what was taking place at the meeting on the 14th of April.  
+JUDGE SHORT:
+Okay.  If there was -- if this statement was made at the meeting, could you establish who said it and the context in which it was said?  
+MR. MORLEY:
+Very well.  I'll ask a different question then.  
+BY MR. MORLEY:
+Q.	Witness, who was it that said that Kagame had left as a small boy and was coming back to fight the government?  
+JUDGE SHORT:
+No, that's not what I meant.  
+THE WITNESS:
+(Microphones overlapping) 
+JUDGE SHORT:
+Mr. Morley, my question was -- or my statement was, "Could you ask the witness who it was who said that it was a mistake to allow the women and children to leave in 1959."  
+MR. MORLEY:
+Very well.  
+BY MR. MORLEY:
+Q.	Witness, who was it who said that it was a mistake to allow the women and children to leave in 1959, at the meeting of the 14th of April?  
+THE ENGLISH INTERPRETER:
+Oh, sorry, my microphone.  
+THE WITNESS:
+It's extremely difficult to say exactly who said what.  One must distinguish a rally from a meeting.  If it was said, it was the person chairing the meeting who said it, who was the préfet of Kigali.  If it was a participant who spoke those words, it is nonetheless under the responsibility of whoever was chairing the meeting.  There was about 40 people in that meeting.  So those words can be ascribed to Kigali prefect because when he -- because it was in answer to a question.  He did not say to stop the killing.  And the soldier said, "Do you know that when Kagame left the country, he was a small child, and now he's back at the front, fighting the government?"  Nobody stood up against those words.
+
+There were soldiers, gendarme, political party people.  There were conseillers of secteur.  Those words were spoken in the meeting.  It was a soldier who said them, and Renzaho compounded what was said.  It was a soldier who had said that.  
+BY MR. MORLEY:
+Q.	And how did Renzaho compound what was said?  
+A.	Renzaho never took any decision to stop the killings.  The massacres continued as usual.  
+Q.	On the 14th of April of 1994, were there still roadblocks in Kigali?  
+A.	Yes, there were roadblocks throughout the city.  They were set up on the 7th of April 1994 and were not removed until the 30th of June when we left the city, when we left Kigali.  
+Q.	Were the Interahamwe still manning roadblocks?  
+A.	Yes, the roadblocks were still being manned by the Interahamwe.  So they were controlling them.  
+Q.	Had there been any order to the Interahamwe to leave the roadblocks and stop killing the Tutsi?  
+A.	As far as I know, no such order was ever given.  Had an order been given to stop killing the Tutsi and to remove the roadblocks, I think the lower-level authorities would have been informed to implement the order.  The conseillers, the bourgmestres, would have been informed in order to execute the decision.  If anyone gave any such order, it wasn't given in public.  It wasn't made public.  
+Q.	At the security meeting of the 14th of April, was there any representative of the MRND present?  
+A.	There couldn't be any security meeting in Kigali in that period, in those days, without the political party people being there.  So the authorities of the MRND had to be present and were present.  I told you that they were organised from the national level right down to cellule level.  Even us working at secteural level were asked, every time there was a meeting, to invite MRND representatives at secteural level.  So if we had a meeting at préfectoral level, the MRND had to be invited.  
+Q.	At the meeting of the 14th of April, were there representatives of the military and the police and the public prosecutor's office?  
+A.	No meeting could be held in Kigali without the army being represented.  So any time a meeting was held, pertaining to security, the army had to take part, and the gendarmerie, as well as any other institutions responsible for security.  
+Q.	At the meeting of the 14th of April, was there ever any discussion at all about how to stop the killing?  
+A.	No.  I have already clearly stated that there was never any question of stopping the killings.  The question was already put, and I already answered.  Perhaps you didn't understand what I said, but I had -- I was a local authority in Kigali city, and there was never any question as to how to stop the killings of the Tutsi.  
+Q.	At any point, was there any discussion on the 14th of April, or later, in relation to the signing of attestations concerning whether people were Hutu or Tutsi?  
+A.	That problem was submitted to the préfet and the bourgmestres concerning, therefore, people who had lost their identity cards.  So we were asking ourselves because there are people who came to the secteural office asking for identity documents because they had lost theirs.  And so we were asked to undertake that exercise but to make it clear whether the person was Hutu or Tutsi.  That information was on the identity card which stated whether the person was Hutu, Tutsi, or Twa.  So we were told to go on specifying the ethnic group of the person concerned, and we were asking ourselves whether in proceeding in that way we weren't exposing the Tutsi who were being killed.  And the answer given to us was that we had to specify that, any person's ethnic group; and after having drawn up the document, it should be transmitted to the bourgmestre so that he know (sic) the person who had received the document.  
+Q.	If somebody came to the secteur office who was Tutsi, asking to be re-identified as a Hutu, to protect their life, were you given permission to lie about their ethnic origin?  
+A.	In fact, it was up to the conseiller, the secteural councillor.  It was his discretionary power, just as some had decided to hide some Tutsi in their homes.  But their identity card was not a guarantee because there was some Tutsi who were known, and when they got to the roadblock, they were killed; although they had those documents bearing the indication that they were Hutu.  So we decided not to issue those identity papers with the information as to being Hutu or Tutsi.  We advised them, rather, to stay home and thereby avoid being killed.  
+Q.	By staying home, did people avoid being killed, or not?  
+A.	Well, that depended on the secteur.  Certainly there was killing in all secteurs, but not the same intensity in all secteurs.  There were Tutsi who decided to stay home and to be killed there because there was nowhere to find refuge.  A large number of Tutsi were killed at home, but others were killed wandering in the hills because they didn't know where to turn.  They'd lost their heads.  A Tutsi that arrived at a roadblock was done for, couldn't escape, but others who stayed home were saved because they hid perhaps at a neighbour's house, or maybe they stayed home and avoided being killed.  
+Q.	Did you know a lady called (By order of the Court, this name has been extracted and filed under seal)?  
+A.	Yes, I know her.  
+Q.	What happened to her during the events after the death of the president?  
+A.	Between the 15th and the 20th of April, (By order of the Court, this name has been extracted and filed under seal) was found by soldiers at home, who raped her in the presence of her children.  
+Q.	How did you know that?  
+A.	The women (sic) came running to me to seek refuge at about 10:00 in the morning.  She told me that the dogs wanted to bite her, and thereby she meant that the Interahamwe had handed her over to the soldiers of Camp Kigali, who had raped her.  So she said, "The dogs have just bitten me because they raped me in the presence of my children.  So I should like to seek refuge here at your home."  
+Q.	What was her state of dress when you saw her?  
+A.	When she arrived at my home, she was running, and she had an underskirt on.  I think ladies know better than I do.  She had nothing else on apart from that underskirt.  And she came to my home, and she told me that the soldiers had told her that she was now their woman because she lived very close to Kigali camp, and they told her they might come back at any time.  And she continued in saying that her main fear was that the soldiers had given her AIDS, and if ever she were contaminated -- were she contaminated, her children would have no one to look after them because she was a widow.  
+Q.	Did you report the rape of (By order of the Court, this name has been extracted and filed under seal) to Renzaho?  
+A.	Yes.  We were in telephone contact with Renzaho, and he'd appointed someone who was supposed to answer the telephone.  So I called and gave that information.  And in addition to that telephone call, I provided him a written report specifying that the killings continued and that the situation was getting worse and worse, because they had already begun to attack women and rape them.  But my report obtained -- my reports obtained no results.  
+Q.	Did Renzaho make any arrangements to protect the lady, (By order of the Court, this name has been extracted and filed under seal), who sought refuge at your home?  
+A.	So, (By order of the Court, this name has been extracted and filed under seal) was not the only one to have undergone such violence.  I mention her as an example, but all the Tutsi were subject to such acts of violence and in all secteurs.  So (By order of the Court, this name has been extracted and filed under seal) came to seek refuge with me, and subsequently her children came and stayed until the end of the war.  And when I left -- I left them there when I went into exile.  
+Q.	When you say that all the Tutsi in all the secteurs were subject to such acts of violence, what do you mean?  What sects of Tutsi were being subject to what sort of violence in all the secteurs in Kigali, please?  
+A.	I told you that overall the Tutsi were being killed.  Men were simply killed, but persons of the feminine sex were tortured.  They were tortured and then subsequently killed.  So to ask me the question as to which acts of violence -- of which act of violence the Tutsi were victims, I don't know what I can tell you.  The Tutsi were being killed.  Their women were being raped by people who were supposed to be protecting them.  We couldn't protect them.  Quite the contrary, we killed them.  
+
+Mr. President, I wish to make it clear that the women were raped and killed after having been tortured.  So, really, why do we come back all the time to this question?  I'm only speaking for my secteur for which I was responsible, but these acts were being perpetrated in other secteurs.  So I don't know how to explain it, how to make it clear what that meant, because there was killing, but also there was rape.  
+
+When you want to have sex with someone, there must be consent.  So the rape -- when there's rape, there's no consent.  There can be sex.  Sex can be had, but there must be consent.  Rape is a worse thing.  It's a sort of torture.  If you take a woman and you go with her in public, you can't say there was any consent.  
+
+And after having had sex -- sexual relations with a woman, you can take a bottle and stick it in her genitals, I don't know how to describe such acts, Mr. President.  I don't know how to make you understand what happened, but I was an eyewitness thereof.  What is unfortunate is that we turned to the high authorities who were supposed to protect these people, but they did nothing to protect them.  These people were killed.  They were felled, chopped down at the roadblocks.  They were burned in their houses, but nothing was done.  The Tutsi were victims of those acts in general, but it was beyond all understanding as regarding the women -- the number of women who were admitted, hospitalised, who had been victims of pieces of wood that had been -- that had been penetrated in their genitalia with pieces of wood.  
+
+You don't know how you can take a woman in front of her husband and rape her, take a young girl of 14 years and rape her in the presence of her parents.  What is even worse is, after having raped a woman or young girl, you kill them.  If you did something to save their lives thereafter, you might understand.  
+MR. ROBINSON:
+Excuse me, Mr. President.  I would like to make a motion that this -- this is the first evidence that we've had of sexual assault crimes in which there's been the mention of a particular victim.  And I would like to make a motion that this evidence be received only for the limited purpose of showing the existence of these -- of crimes of rape or sexual violence during the events of 1994, and cannot be used as the basis of a particular count -- as the basis of Count 5, to show that Mr. Nzirorera or any other of the Accused are responsible for the rape of this particular woman.  This goes back to a motion that was made over the summer in which we asked that the -- that Count 5 be made specific so that we could determine with which rapes our clients were charged.  And the Trial Chamber declined to do that.  
+
+And so we have in Count 5 simply the allegation that as part of the widespread and systematic attacks, Interahamwe and other militiamen raped Tutsi women and girls in Ruhengeri, Kigali-ville, Butare, Kibuye, and Gitarama.  And so as I'm sitting here listening to this testimony about this particular woman who showed up on the doorstep of Witness UB, I'm asking myself whether it's -- number one, it's the Prosecutor's intention that this be part of Count 5 of the indictment.  And since we've had no notice that Mr. Nzirorera is charged with this particular rape, I'm asking that the Court receive this evidence simply for the limited purpose of establishing that rapes were committed but not as evidence of the culpability of the Accused.  
+MR. PRESIDENT:
+Mr. Morley, we need to hear you on this.  
+MR. MORLEY:
+I'm sorry, Your Honour.  I didn't hear what Your Honour said.  Did Your Honour say, "We need to end on this"?  
+MR. PRESIDENT:
+We need to hear you on this.  
+MR. MORLEY:
+Thank you.  First of all, it's unfortunate my learned friend has made this motion in the middle of the witness's testimony, thereby interrupting it.  However, secondly, it's a motion which, on the face of it, is made -- and I don't mean this in an unkind way -- to some extent on the hoof.  In my respectful submission, it needs a little bit more thought than the way in which it's been advanced by my learned friend.  
+
+Thirdly, the material is relevant to Count 5.  It establishes -- and there is going to be more of it -- it establishes that rape was widespread and notorious.  And the issue which will arise -- and I haven't asked the witness the next question yet -- is, to what extent was it widely known that rape was taking place; in other words, to what extent was it obvious?  And once the testimony is on the record that the rape -- and as I stress, there's going to be more of it from this witness, and there will be other named individuals so that Your Honours are not simply talking about ghostly figures in countless numbers.  There are also identifiable individuals known to this witness.  Once it's established on the record that rape was widespread, systematic, well known, not simply in relation to those who were unknown to the witness but those who were known to the witness, all of this material will be available to the Trial Chamber to consider in respect of Count 5, which is before the Chamber in the global sense -- that once it's established that rape was widespread and systematic, the issue before the Trial Chamber will be to what extent was it inevitably foreseeable by those who were the architects of the genocide, if that is what the Tribunal finds in relation to these Defendants.  To what extent was it known that it was taking place to the architects of the genocide, if that is what the Tribunal finds of these Defendants?  To what extent, therefore, that which was widely known, that which was foreseeable as would be happening, constructively, amounts to that which can be found either to have been intended or events about which they could not care less?  And then Count 5 becomes live with regard to the issue of mens rea.  
+
+Now, the difficulty with my learned friend's short application is, it may need a little bit more thought than the way in which it's been advanced.  The short answer is that all this material is relevant to Count 5, and my learned friend knows that.  And it's my respectful submission, it's plain to the Tribunal that it's relevant, and that is why it's being advanced.  And there's not really been an argument put forward by my learned friend to show why it is inadmissible in respect of Count 5.  That is what I say at the moment.  If my learned friend wants to develop the point, no doubt there will be a written motion.  
+MR. ROBINSON:
+Well, Mr. President, I'm not going to make a written motion.  I think you need to make a ruling on this at this point of putting the motion before you orally.  But the point is that, yes, I haven't objected to the testimony, that it's not admissible.  I think it's admissible to show that rape was notorious, and indeed rapes occurred during these events.  They can prove that, and the witness's testimony is admissible on that score.  
+
+The problem is that with respect to the named individual, (By order of the Court, this name has been extracted and filed under seal), that the Prosecution, if they wanted that to be the basis of a conviction for my client under Count 5, should have included the identity of that person in the indictment so that we would be on notice that this was a part of the crime base for which we need to prepare to defend Mr. Nzirorera.  This witness has given that information to the Prosecutor many years ago, and it's part of probably thousands of names contained in the disclosure of references to people -- individuals who were the victims of rape or sexual assault during this time.  
+
+And our point is that the indictment, which fails to mention any specific individuals, doesn't give us notice as to what is the crime for which our clients are being charged, and, therefore, we're asking the Court to take this evidence of specific individuals, rape, being raped, for the limited purpose of proving that rape was notorious, that it was widespread but not for the purpose of establishing a victim for whose rape my client can be held responsible under Count 5.  Thank you.  
+MR. MORLEY:
+If I may, Your Honour?  
+MR. PRESIDENT:
+Mr. Morley, whereas we think Mr. Robinson's question is a reasonable question, we do not think it's possible for us, as a Trial Chamber, to adjudicate on the issue that he has asked at this stage of the proceedings.  
+MR. MORLEY:
+I respectfully agree.  So that there's no misunderstanding about it, the named individuals, who my learned friend knows are coming, arising out of the statement of the 10th of February 2004, they, along with the countless others who are unnameable by the witness, everyone is in Count 5.  We're not charging the individual Defendants with the individual rape of (By order of the Court, this name has been extracted and filed under seal).  We're charging them with responsibility for the rape of everyone, so that what my learned friend's argument is really about is a complaint about the nature of Count 5.  And I understand from my learned friend, my helpful learned leader, and Mr. Lombardi, who sits behind me, that the issue of Count 5 has already been argued, and the Tribunal has found the count to be properly pleaded.  And what my learned friend is really doing is, he's arguing that it can't be properly pleaded if, for example, the Trial Chamber is to find that a named individual is not embraced by Count 5.  Well, that turns the whole position on Count 5 on its head.  
+
+Count 5 embraces everyone, and the named individual -- and there will be others in a moment -- are simply examples of the Count 5 allegation, which is responsibility for nationwide, systematic, widespread rape.  
+MR. PRESIDENT:
+Mr. Morley, we don't wish to comment at this stage either on your interpretation of our ruling.  But we'd just like to say that we don't necessarily feel that our ruling should say more than it said, but we think it's premature at this stage for us to adjudicate on this question.  
+
+Yes, Mr. Robinson.  I saw you rising to your feet.  
+MR. ROBINSON:
+Yes, I'm bobbing up, as Mr. Morley says.  Mr. President, in light of that, my thought when you said that is, when do we get to learn who we're charged with raping, if it's premature now in the middle of the trial?  But I think I can make a better -- 
+MR. PRESIDENT:
+Well, you see, the question that you've asked us goes much deeper.  Well, we'll probably think about it a little bit more, but as presently advised, we think that the question you asked is a question that we answer at the end, at the close of the case with the Prosecution.  That is what it seems to us, as we interpreted what we understood your request to be.  And that's why we said it -- that's why we said we thought it was premature.  But we thought that that was the type of consideration which should be more appropriate at the close of the Prosecution's case.  I know it doesn't give you advice as to how to cross-examine, but we -- we're not certain that we should rule on it at this stage.  
+MR. ROBINSON:
+Well, actually, Mr. President, I was not looking so much for advice about cross-examination.  I was looking for advice about how to -- what crimes to defend my client against.  Because is this a rape in which my client can be convicted for, or is this a part of the evidence to show that it's widespread or systematic?  But I understand that you don't want to give an opinion on that, and certainly that's -- you're entitled to do that.  
+MR. PRESIDENT:
+But, you see, this is something which you determine that what crimes your client has been charged for is a matter of law.  Okay?  
+MR. ROBINSON:
+Yes.  
+MR. PRESIDENT:
+Now, if you wish the Prosecutor to make -- if the Prosecutor wishes, they can make a statement as to what their position is.  
+MR. ROBINSON:
+And I understand Mr. Morley has just done that.  
+MR. PRESIDENT:
+Yeah.  
+MR. ROBINSON:
+Now, I think the best thing for me to do at this point, in light of that statement, is to make a motion for a bill of particulars, for the Trial Chamber to order the Prosecutor to provide a list of those individuals for whose identity is known, that it contends my client can be responsible -- held responsible for under Count 5, for their rape or sexual assault.  So at this time, I would like to make an oral motion for a bill of particular -- 
+MR. PRESIDENT:
+Mr. Robinson, in fact, what you are -- you are sort of now proposing that the indictment be amended.  
+MR. ROBINSON:
+Well, a bill of particulars is not necessarily an amendment of the indictment because I've already asked you to require the indictment itself to be made more specific by including the identities of victims, and you refused.  So I'm not asking you to reconsider that ruling, but what I am asking now is for another instrument, known as a bill of particulars -- perhaps it's not something that everyone's -- maybe it's unique to the United States, I don't know, but it's an instrument in which the Prosecutor can be required to make more specific the allegations of the indictment, but it's not, per se, part of the indictment.  
+
+And I think if this is going to be the -- if what Mr. Morley said is true, that my client is charged with any particular possible rape in Rwanda, we ought to at least know from the Prosecutor, just as they've been ordered to specify his co-conspirators, his subordinates, his members of the (unintelligible) enterprise, we ought to at least know who are the victims of those rapes for whom he can be convicted if (inaudible).
+MR. PRESIDENT:
+But, Mr. Robinson, what did Mr. Morley say?  He said "every rape in Rwanda."  
+MR. ROBINSON:
+Yes. 
+MR. PRESIDENT:
+Now, so what is a bill of particulars going to disclose?  
+MR. ROBINSON:
+Those -- the identities of -- 
+MR. PRESIDENT:
+The names of everybody who was raped in Rwanda?  
+MR. ROBINSON:
+The identity of those persons for whom the Prosecutor intends to lead evidence, who are known to the Prosecutor by reasonable diligence, so we can investigate.  How am I going to defend my client against what Mr. Morley has said right now?  What am I supposed to do?  Investigate every rape in Rwanda?  
+MR. PRESIDENT:
+You see, Mr. Morley -- Mr. Robinson, we think that these are legal questions.  The way we have seen the way in which a court, a tribunal, should respond to the enquiries you've made is to make assessments about the sufficiency of the pleadings in relation to the testimony which is being presented at the close of the case of the Prosecution.  Now, you're inviting a different approach which we have not considered to be the right approach.  But you have made your application.  Instead of dismissing your motion now, as we were going to do, we will just pause a bit and think about it a little bit more.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+MR. MORLEY:
+Your Honour, my only thought is that insofar as my learned friend announces bills of particulars in relation to rape victims, the Defendants are charged with the wholesale slaughter of the Tutsi population in Rwanda.  Does he want a bill of particulars in relation to all the named individuals we can identify as to who was murdered?  I respectfully submit that a bill of particulars is neither here nor there. The issue before the Tribunal is:  Can we establish that rape was widespread and systematic?  That is what we seek to establish as an actus reus.  Thereafter, the argument becomes:  What was the mens rea in relation to these Defendants?  
+
+And I respectfully submit that my learned friend's request for a bill of particulars is no different to an answer that he would want one in relation to all the murders.  And when one looks at it that way around, it becomes daft, I respectfully submit.  
+MR. PRESIDENT:
+Well, you can move on now.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Mr. Witness, sometime ago, you gave us a long and helpful answer about rape which had taken place throughout all the secteurs in Kigali.  How obvious was it that rape was taking place on a widespread level?  
+A.	The killings began on the 7th of April 1994 and went on until the 30th of June 1994.  Three crimes continued, namely, the killings, rapes, looting and destruction.  All these crimes continued until late June.  
+Q.	From what you observed, between the 7th of April and the late June, of what was taking place to the Tutsi, was it possible to be unaware of rape?  
+A.	That was impossible.  I have already said that even if the authorities were in place, there were echelons, and even with the ten-household system, the head of the ten-cell unit was there.  There were responsables, conseillers de secteur, préfets, ministers, from the grassroots level to the highest level, everyone was informed.  We were not going to shirk our responsibility.  Crimes were taking place in broad daylight.  Tutsis were killed in broad daylight.  During the night the killers would rest, and during the day they would go on with their duties and at night rest.  They would go and get the victims from their homes and kill them, when they found them in their hiding places and kill them on the hills.  So that there is no way that any type of leader could have been unaware of crimes perpetrated.  
+
+When I say "leaders," I mean political leaders, leaders of political parties, people working in public administration, the clergy.  Mosques were attacked.  Churches were attacked, and people hiding in them were pulled out of those places to be killed.  So all leaders at all levels were aware.  
+Q.	What happened to the daughter of (By order of the Court, this name has been extracted and filed under seal)?  
+A.	With regard to (By order of the Court, this name has been extracted and filed under seal) daughter, she resided in******************************.  I was told -- people came to tell me, that is, that it did not take those people long to come and tell me that a soldier had gone to (By order of the Court, this name has been extracted and filed under seal) house and that he wanted to rape that girl, aged 14.  I was told that the soldier came from Camp Kigali, that he was looking for a Muslim Tutsi woman.  When he got to the site, I went to rescue the family, together with another person, and I found the soldier had gone to rape (By order of the Court, this name has been extracted and filed under seal) daughter.  If (By order of the Court, this name has been extracted and filed under seal) -- so we were able to prevent that soldier from raping the girl.  He'd already removed his trousers, and the little girl was waiting to be raped.  She was expecting to be raped, but she was lucky that we arrived in time.  
+MR. MORLEY:
+	(By order of the Court, this portion of the transcript has been extracted and filed under seal) 
+BY MR. MORLEY:
+Q.      Approximately when was this incident?  
+A.	It was in the evening, around 7 p.m.  It was not far from the military camp.  That is when they came to tell me that the soldier had arrived at that house.
+
+MR. ROBINSON:
+Excuse me.  
+BY MR. MORLEY:
+Q.	I mean date.  Can you give me the approximate date, please?  
+A.	I do not remember the date.  I do not remember the exact date, but I know that (By order of the Court, this name has been extracted and filed under seal) rape took place before that incident.  (By order of the Court, this name has been extracted and filed under seal) was first raped, and then the incident at (By order of the Court, this name has been extracted and filed under seal) house took place thereafter.  
+MR. ROBINSON:
+Mr. President, I would like to move to strike the testimony of this incident as being irrelevant because there was no sexual assault, as we find out there was no crime.  So what is the relevance of this incident to this trial?  
+MR. MORLEY:
+Well, what am I supposed to do with that?  I -- 
+MR. PRESIDENT:
+Well, it's not necessary to respond.  
+MR. MORLEY:
+Thank you.  
+MR. PRESIDENT:
+We allow the -- we don't -- I suppose if we were in an American court, we'd say "overruled."  
+MR. MORLEY:
+Hallelujah.  That's another one I hear in American courts.  
+
+Your Honour, I see the time.  Is that a convenient moment?  
+MR. PRESIDENT:
+Yes.  We take our mid-morning recess now. 
+(Court recessed at 1032H) 
+(Pages 1 to 19 by Wendy Molnar)
+
+
+
+
+
+(Court resumed at 1105H) 
+MR. PRESIDENT:
+Thank you, Mr. Morley.  You can continue now. 
+MR. MORLEY:
+Thank you. 
+MR. ROBINSON:
+Excuse me, Mr. President.  We just want to save some time here.  We've just had evidence, again, of a second named victim with respect to alleged sexual assault, although I question the probative value of that.  But, in any event, may I have a continuing objection, rather than objecting at every occasion to the admission of evidence of specific incidents of sexual assaults for the purpose of having that serve as a basis of a conviction of Count 5, and then I won't object in the future, but the Appeals Chamber will know that I've reserved my objection as to each instance in which this occurs. 
+MR. PRESIDENT:
+We think that's a preferable approach than objecting each time, and we will certainly allow the record to reflect that you have a continuing objection in this matter. 
+MR. MORLEY:
+With Your Honour's leave. 
+MR. PRESIDENT:
+Yes. 
+BY MR. MORLEY:
+Q.	Witness -- welcome back.  Witness, what happened to...(By order of the Court, this portion has been extracted from the transcript and filed under seal)? 
+A.	(By order of the Court, this portion has been extracted from the transcript and filed under seal)...lived in another cellule, and she was also raped.  She was raped just as the first victim that we referred to.  She was led to another house.  She was taken from her house, taken to another house.  She was, therefore, taken by force into another house.  She was living in another cellule but*************. 
+Q.	And who raped her? 
+A.	I recall one Sabihi (sic), but I have no clear recollection of the name of the person who raped her, but I recall that in a statement that I gave to the Prosecutor, I gave the name.  But for now, I have no clear recollection of the names of the various persons who perpetrated the rape on this girl. 
+MR. MORLEY:
+Sadiki is S-A-D-I-K-I.  
+BY MR. MORLEY:
+Q.	Was that person Interahamwe, a soldier, a private individual; what was his role in the events?  
+A.	Sadiki was an Interahamwe. 
+MR. MORLEY:
+Will Your Honour allow me a moment, please.  
+Thank you. 
+BY MR. MORLEY:
+Q.	What happened to...(By order of the Court, this portion has been extracted from the transcript and filed under seal)? 
+A.	(By order of the Court, this portion has been extracted from the transcript and filed under seal)...suffered the same fate as...(By order of the Court, this portion has been extracted from the transcript and filed under seal)..., in that cellule,***************.  She was also taken by force, raped. 
+Q.	Who raped her? 
+A.	I cannot remember the person who raped her.  I will request you to refer to the statement.  That was a long time ago.  I, therefore, cannot remember the name of the person who raped her, but I am sure that name should be in the statement that you have with you. 
+Q.	Who was Claude Nsabimana, spelling N-S-A-B-I-M-A-N-A? 
+A.	He was an Interahamwe in the locality that we are referring to. 
+Q.	Did that man have anything to do with what happened to...(By order of the Court, this portion has been extracted from the transcript and filed under seal)? 
+A.	Yes.  I believe he was among those who took...(By order of the Court, this portion has been extracted from the transcript and filed under seal)...and he lived in the locality, but I will not mention the name, but this was in the cellule****************. 
+Q.	How many people raped...(By order of the Court, this portion has been extracted from the transcript and filed under seal)? 
+A.	According to the reports made to me, she was taken from her house and three persons raped her.  It was she herself who said this, even though it was not easy for a young girl to tell you what happened to her, but she managed to say that three persons raped her. 
+Q.	How old was she at the time? 
+A.	I believe she was 16 years old.  She was 16 years old, if I recollect rightly.  She did not live in my cellule, and that was a long time ago.  There were ****cellules.  It is, therefore, not easy for me to recall every detail, particularly since she did not live close to me. 
+Q.	How old was...(By order of the Court, this portion has been extracted from the transcript and filed under seal)?
+A.	I have no recollection of his (sic) age.  I am, therefore, not able to give you her age. 
+Q.	What happened to...(By order of the Court, this portion has been extracted from the transcript and filed under seal)? 
+A.	(By order of the Court, this portion has been extracted from the transcript and filed under seal)...lived in **************************.  The Interahamwe took her -- the Interahamwe of**********, to be more specific, took her to Nyakibanda in another secteur, raped her, and killed her after that. 
+Q.	Who raped and killed her? 
+A.	There was an Interahamwe of the Gitega secteur called Yusuf Nzeyimana.  There was Karim Kijyanjyaro, and there is another Interahamwe whose name I do not recall, but that name should be in the statement.  They took her from the ********secteur and took her to the Nyakibanda secteur in the house of an Interahamwe called Macuho.  He was a very notorious Interahamwe known in the whole préfecture. 
+MR. MORLEY:
+Yusuf Nzeyimana is spelt Y-U-S-U-F, N-Z-E-Y-I-M-A-N-A, and Karim is spelt K-A-R-I-M.  
+BY MR. MORLEY:
+Q.	What was the name, please, again, and can you help us with the spelling of the notorious Interahamwe into whose home the unfortunate...(By order of the Court, this portion has been extracted from the transcript and filed under seal)...was taken? 
+A.	He is called Macuho. 
+Q.	Spelling -- I will do it.  
+MR. MORLEY:
+I want the microphone to work.  Thank you.  
+
+Spelling, M-A -- I want the microphone to work, please.  Thank you.  M-A-C-U-H-O.  
+BY MR. MORLEY:
+Q.	How did you learn of the rape and murder of...(By order of the Court, this portion has been extracted from the transcript and filed under seal)..., please? 
+A.	I said that...(By order of the Court, this portion has been extracted from the transcript and filed under seal)...lived in********************************.  And when I got there, her children told me that she had been taken and led to another secteur.  I tried to monitor the situation closely, and I got to a place where this act took place.  Since *************was the location where she was killed, that place was not far ****************. 
+Q.	Did you make written reports of the rapes of...(By order of the Court, this portion has been extracted from the transcript and filed under seal)..., and the -- 
+A.	Yes.  For all these persons, I wrote reports.  We had to write daily reports on the prevailing situation in our locality.  These reports were forwarded to our superiors. 
+Q.	In those reports, did you report that these people had been raped? 
+A.	Yes.  When we make a report, we report on all events that took place within the secteur; rapes, persons who were wounded, persons who were adopted.  We had to recount everything that happened in the secteur. 
+Q.	When was the next security council meeting after the meeting of the 14th of April?
+A.	Another security council meeting that I remember took place on the 7th of April.  I told you that several meetings were held, but I remember this meeting that took place on the 16th, since we were always invited to such meetings. 
+Q.	On the 16th of April, at a security council meeting, was there any mention of something called the civil defence? 
+A.	During the 16th of April meeting, we were told that the civil defence programme was being established.  This was the civilian component of an armed programme.  Another important thing that happened that day was that we received weapons.  Those who attended the meeting received weapons. 
+Q.	We will come to the weapons in a moment.  I want to discuss civil defence.  What was the purpose behind civil defence, please? 
+A.	The officials in charge of the civil defence programme were appointed because it was said that the Interahamwe, as well as people from other political parties -- and other political parties were becoming very powerful -- and that the international community was more and more against the party.  So they decided to establish the civil defence programme in all secteurs.  That is why the civil defence programme was established. 
+Q.	Who -- or what organisation was adopted into the civil defence? 
+A.	The Kigali town préfecture was led by a soldier called Tharcisse Renzaho, and he attended meetings of the army command, the military command.  He told us that a decision had been taken by the military command during one of their meetings.  He then told us that retired soldiers were going to be put in charge of the civil defence programme. 
+Q.	What happened to the Interahamwe? 
+A.	At that time the Interahamwe continued with their activities, because soldiers came to lead the Interahamwe, and it was the Interahamwe who became the civil defence programmes -- who became members of the civil defence programme.  It was the Interahamwe who continued manning the roadblocks. 
+Q.	Having been declared part of something called the civil defence programme, and adopted by the authorities as part of a civil defence programme, did the Interahamwe stop killing Tutsis?  Did their behaviour change? 
+A.	Nothing changed.  The speeches made for consumption of the international community changed, but nothing changed from April up until the end of June.  The Interahamwe, the soldiers, the gendarme didn't change their behaviour. 
+Q.	What was being said to the international community, and why? 
+A.	The préfet told us that the international community was threatening them because the Interahamwe were killing.  He therefore told us that, "We are going to take the following decision so that the international community will not continue harassing us."  He then said, "We are, therefore, going to set up the civil defence programme which will be in charge of security."
+Q.	Was the civil defence programme genuinely a change of direction on the part of the authorities, or did it amount to more of the same but under a different name? 
+A.	I have told you already, and I repeat, that nothing changed.  I will even say that the situation became worse, because at the roadblocks, the instructions -- orders were henceforth given by the soldiers.  They were working hand in hand with the Interahamwe, and they were doing the same things. 
+Q.	What was the difference between what happened at St. Paul's and at St. Andrew's? 
+A.	I'm not aware of what happened at St. Paul's.  But regarding what happened at St. Andrew's, I was told that the Interahamwe attacked that institution and killed people.  St. Paul's is in another secteur; that's the Nyarugenge secteur.  I heard the Inkotanyi attacked that institution.  I, therefore, have no details to offer on that incident.  But, regarding St. Andrew, I was told that an attack was launched against the college and that the refugees therein were killed, refugees who came from the Nyamirambo secteur. 
+Q.	Given that the international community was expressing concern, were you aware, at any of the security council meetings, of any decision being taken not to attack Tutsis in certain places in order to make a show for the international community? 
+A.	No, that was not the case.  All I know is that the préfet said that we should -- they should not attack the Hotel des Mille Collines.  That is the only information I have in that regard, because certain Tutsis took refuge in the Hotel des Mille Collines.  The préfet, therefore, informed the gendarme, the soldiers, and the Interahamwe, and told them not to attack the Hotel des Mille Collines.  Indeed, the soldiers, the gendarme, and the Interahamwe did not attack the Hotel des Mille Collines. 
+Q.	Why not?  What was the point of not attacking the Hotel des Mille Collines where there were Tutsi refugees? 
+A.	The préfet knows why, but he told us, at least, that the international community -- if it comes to see, at least they should find the Tutsis still at the Hotel des Mille Collines, since he told us that we must show the international community that the Tutsi is still alive.  So we had to spare the Tutsi who were at the Hotel des Mille Collines, and, indeed, nobody did venture to attacking the Hotel des Mille Collines, just as if they decided not to attack another place, no one would have attacked it. 
+Q.	You've told us weapons were distributed on the 16th of April.  Did you receive a weapon on the 16th of April?
+A.	They were the arms that I took from the ministry of defence, the firearms intended for the cellule or the responsable. 
+Q.	You've told us previously that there were five Kalashnikov rifles; is that right? 
+A.	Yes, I did say that there were firearms of the Kalashnikov type, but at least that was what I was told.  That's what they said to me.  But I wasn't in any position to ascertain what type of firearm it was. 
+Q.	Were you the only person to receive firearms that day, or can you help us with how many firearms were distributed? 
+A.	I couldn't tell you how many arms were distributed in all, but all the conseillers received them.  The conseillers, the responsable, and party members received them to give to the youth wings.  But, subsequently, anyone who wanted an arm went to the préfecture, who sent them to the minister of defence to take a weapon.  Some people, when they arrived back in their secteurs, where they obtained the arms they were carrying, they said, "It was issued to me at the ministry of defence." 
+Q.	You have mentioned that party members received firearms to distribute to the youth wings.  Which parties distributing to what youth wings, please? 
+A.	All political parties in the government who were cooperating with the MRND received weapons, so the MRND, the PDI, the CDR, had many firearms.  Many parties who received -- many people who had arms obtained them from the ministry of defence.  That activity was well underway. 
+Q.	Were firearms received by MRND members for distribution to the Interahamwe? 
+A.	The arms given to the MRND people were intended for the Interahamwe, because the person who withdrew them was neither a councillor -- a conseiller de secteur, nor a responsable, so they were intended for the Interahamwe. 
+Q.	Who was the person who drew the weapons, who was the member of the MRND for the Interahamwe? 
+A.	I think I came here to testify before this Trial Chamber, and I think I've mentioned the name of the person concerned, so is it relevant to name the person here?  I have already said that the people who received firearms were party authorities at the local level or at the préfectoral level, so I don't know whether naming this or that person might perturb my testimony in the other matter in which I testified.  So I am requesting the permission of the Bench to name that person. 
+Q.	Name him, please.  
+A.	The MRND authority at that meeting was François Karera, who was president of the MRND in Nyarugenge commune.  So the arms he received, as did the other responsable from the other commune, were handed over to the Interahamwe of Nyarugenge commune.  On that occasion he was accompanied by the person in charge of the Interahamwe in Nyarugenge commune. 
+Q.	You told us previously, some days ago, of a meeting in which Nzirorera attended and spoke to the Interahamwe.  Can you help us with when that meeting took place, the approximate date, please? 
+A.	No, it wasn't a meeting in which Nzirorera -- which he attended.  It was a meeting he chaired, and it was a meeting at the -- towards the end of April, between the 28th and the 30th of April, I remember.  He chaired a meeting at which the Interahamwe from Kigali préfecture were invited. 
+Q.	All right.  We've dealt with the security council meeting on the 16th of April, and there's Nzirorera chairing an event sometime at the end of April.  Between those two dates, I want to ask you some questions about events generally in Rwanda.  Please just wait for a moment.  By the 16th of April 1994, where was the government located? 
+A.	(No interpretation) 
+MR. MORLEY:
+I don't know whether my question was picked up by the translators. 
+MR. PRESIDENT:
+I haven't heard the translation either. 
+MR. MORLEY:
+I will ask the question again. 
+BY MR. MORLEY:
+Q.	By the 16th of April of 1994, where was the government located? 
+A.	(No interpretation)
+THE ENGLISH INTERPRETER:
+I'm sorry, could you please repeat?  Sorry.  Slight technical hitch. 
+MR. PRESIDENT:
+You can ask the question again. 
+MR. MORLEY:
+I think our Kinyarwandan is coming along fine, Your Honour.  It may be that we can put it this way.
+BY MR. MORLEY:
+Q.	Is it right that, on the 16th of April 1994, the government was located in Gitarama? 
+A.	Yes, the government was in Gitarama.  That's where the seat of government was. 
+Q.	Did you attend any meetings in Gitarama? 
+A.	No, I did not participate in any meeting in Gitarama.  I was not a member of the government.  I stayed in Kigali. 
+Q.	Are you aware of any meeting in Gitarama held by the government on the 18th of April?
+A.	I cannot tell you about all the meetings held in Gitarama because I was not a member of the government.  But there was a meeting of the political bureau of the MRND, I think, on the 18th of April.  We were informed of decisions taken, but I cannot tell you the dates of the meetings at which decisions were taken that were reported to us -- given to us. 
+Q.	When you say "the political bureau of the MRND", what were you referring to, please? 
+A.	By that term, I mean the people -- the préfectoral authorities of the MRND who met in Gitarama.  So it was the provincial MRND authorities who met in Gitarama.  There was also the executive bureau. 
+Q.	The executive bureau, along with the provincial authorities, meeting on the 18th of April in Gitarama, what was it that was decided, please? 
+A.	I personally can't tell you what decisions were taken at that meeting because it was a meeting for MRND authorities.  But Jéan Habyarimana, who represented Kigali, told us he attended that meeting, and the meeting had discussed the problems of the country, national problems. 
+Q.	Were you told by Jéan Habyarimana what was thought about the Interahamwe's activities from that meeting? 
+A.	He did not tell me what the Interahamwe were going to do, but he really told me that the executive bureau was responsible for controlling -- managing the Interahamwe, because I was a member of the -- also of the préfectoral bureau.  He told me the Interahamwe were not his problem because it was the executive bureau's problem.  He told me that he himself did not support the activities of the Interahamwe. 
+Q.	Was anything decided about whether the Interahamwe should be stopped in what they were doing, or was there a different approach? 
+A.	In fact, we were informed of no decision, nor was any decision announced publicly.  The only thing we observed was, at that meeting, it was merely said participants in that meeting supported the activities of the Interahamwe -- approved or supported those activities. 
+Q.	It being said at the meeting that the participants approved of and supported the Interahamwe, was there any decision taken as to how to show the approval and support of the Interahamwe? 
+A.	I think that the decision taken at that meeting was to show support for the Interahamwe, especially referring to the meeting of the MRND secretary-general, presided over in Kigali, a meeting for the Interahamwe, because the secretary-general was a member of no body at the Kigali préfectoral level.  So nothing could justify that person chairing a meeting. 
+
+Secondly, I remember the speech -- Sindikubwabo's speech in Gitarama about the 20th or the 19th, maybe, rather, the 19th, which was broadcast over Radio Rwanda.  They said there were people who did not feel involved, concerned.  So I am asking myself whether he, as president of the country, from the MRND party, would not be competent to prevent people from continuing to kill Tutsi but find a way of saving them.  So I thereby understood that the highest authorities supported the Interahamwe and therefore approved of the massacres of which the Tutsis were victims. 
+Q.	We will come to what President Sindikubwabo said on the 19th of April in just a moment.  If I can take you back to the MRND meeting in Gitarama on the 18th of April in which approval and support of the Interahamwe was expressed.  What was the connection in your mind between the meeting in Gitarama on the 18th of April of the MRND, and the appearance of Nzirorera to chair the meeting which took place at the end of April at which the Interahamwe attended? 
+A.	I should like to answer that question, but you are asking me my opinion.  I was not present at the meeting.  The person who had attended the meeting told us that he had participated, but subsequently we observed that the MRND party continued supporting the activities of the Interahamwe.  The MRND was a very powerful party and could very easily draft a communiqué and have it broadcast over RTLM or Radio Rwanda, but there never was any such communiqué. 
+Q.	Let's turn to the 19th of April.  Did you hear President Sindikubwabo's speech over the radio? 
+A.	Yes.  The speech was broadcast over radio -- by Radio Rwanda. 
+Q.	As a result of that speech, what happened in Butare? 
+A.	I wasn't at Butare, but my wife was from Butare, from Nyanza, actually, and I had taken her back home.  And when I arrived on the 24th of April, Nyanza region was secure.  It was only after the 20th that Butare became a theatre of massacres.  People who fled from Kigali to Cyangugu would have to pass through Butare.  When I arrived in Nyanza, I had to take my wife back to Kigali because she told me she was afraid of being killed there.  I had to take another way back to Kigali. 
+Q.	It is a matter of record that President Sindikubwabo said the following words on the 19th of April --  
+MR. MORLEY:
+-- what was, Your Honour, for the record, tab 171, now Prosecution Exhibit 15(C).  I am looking at K-number K0332820.  
+BY MR. MORLEY:
+Q.	And, Witness, I want to ask you, once I have read a small section of this speech to you, what is the president saying.  Here is the section, top paragraph, four lines down:  "Those who only expect others to work, and who stand by as uncommitted onlookers, should be unmasked.  They should not disturb us from working.  They may stand by as observers, but they shall not be part of our team.  If anyone says to himself, 'That does not concern me --'"
+MS. HOUNKPATIN:
+Mr. President, I should like to make an objection because this is part of the speech that's being read, not the speech as a whole. 
+MR. MORLEY:
+Your Honour, we had this observation previously.  The speech is in evidence as an exhibit.  My learned friend is very welcome to cross-examine all of it in, if that's what she wishes to do, but we all know what the relevant section is of this speech. 
+MR. PRESIDENT:
+You are permitted to ask the question. 
+MR. MORLEY:
+Thank you. 
+BY MR. MORLEY:
+Q.	Mr. Witness, I am going to start reading that again.  If you would just listen to what it is that is recorded as being said, then I will ask you a question.  Listen for the moment:  "Those who only expect others to work, and who stand by as uncommitted onlookers, should be unmasked.  They should not disturb us from working.  They may stand by as observers, but they shall not be part of our team.  If anyone says to himself, 'That does not concern me, I'm afraid,' let that person depart from us.  Let those in charge of getting rid of such persons do so as quickly as possible.  There are other good workers ready and willing to serve their country."
+
+Do you understand what I have read?  
+A.	Yes, I have understood. 
+Q.	Where the president is referring to "people working as part of a team to serve their country", what work is he referring to people doing? 
+A.	President -- when President Sindikubwabo's speech was broadcast over the radio -- it was broadcast over the radio.  It wasn't a speech intended only for the people in Butare; it was intended for the whole country.  And the people who had to work together were the people who had to indulge in the activities -- activities of -- predominant activities of the time, which was killing and looting.  It wasn't a speech in support of the Tutsi.  It was, rather, a speech calling on people to continue attacking the enemy, the Tutsi.  I think that the speech was inviting people to continue killing.  
+(Pages 20 to 28 by Jennifer Spring)
+
+
+
+1200H 
+MR. MORLEY:
+Apologise for the delay, Your Honour.  I'm just making sure that our good friend, the French translator, is all right. 
+THE ENGLISH INTERPRETER:
+Thank you.  Fine.  Sorry.  Frog in my throat.  
+MR. MORLEY:
+I'm sure no pun intended.  
+BY MR. MORLEY:
+Q.	Taking it further, let's now move to the events of late April when Nzirorera chairs a meeting.  Where was the meeting held, please? 
+A.	That meeting was held at the headquarters of the Kigali-ville préfecture.  
+Q.	How many people were in attendance, approximately? 
+A.	Mostly Interahamwes from the Kigali-ville préfecture, especially those from Nyarugenge commune.  There were also leaders of political parties and administrative authorities.  So, in all, more than 40 people attended the meeting, which was supposed to be chaired by the MRND secretary-general, and such a meeting had to be attended. 
+Q.	Did you attend the meeting? 
+A.	Yes, I attended it. 
+Q.	Was it in the morning, the afternoon, or the evening? 
+A.	The meeting was held in the morning. 
+Q.	Did Nzirorera attend the meeting? 
+A.	He was chairing the meeting.  He had convened it. 
+Q.	Did you ask a question of Nzirorera? 
+A.	During the meeting held at the Kigali-ville préfecture office, it was a meeting I was attending.  So we submitted ideas, proposals to him, be they from the Interahamwe or from us, the authorities.  I personally heard remarks made by Mr. Nzirorera, and I put questions to him about them. 
+Q.	What question did you ask Nzirorera, please? 
+A.	What made me ask him a question is that he had just made statements to the effect that "I'm here to congratulate the Interahamwe for what they have done in standing up to the enemy.  Fighting should continue in that manner because the enemy is still present among you."  
+
+That is what he said.  "We support you in all your activities.  You know your enemy very well.  Your enemy is none other than the Inyenzi.  They are still here and are still implementing their plan."  
+
+Many questions were put to him, but I'd like to tell you about the question I put to him, as follows:  I said to him, "Tutsis, who are members of MRND or any other approved political party in Rwanda, and Hutus, who are members of the RPF, I'd like you to tell me which of the two is an enemy of the state."  
+
+And instead of answering me, he said, "Any Tutsi who is a member of the MRND or the CDR is a Tutsi.  A Hutu who is a member of the RPF is an imbecile.  Do you understand," and he said my name.  I said to him, "I understand."  That is the question I put to him and the answer he gave me.  
+
+Then after saying he supported the Interahamwes and congratulating them, he gave hundred (sic) thousand Rwandan francs to the Interahamwe that they were to use to celebrate and purchase drinks.  
+
+And those are the remarks Nzirorera made during the meeting, and that is how things played out during the meeting.  
+Q.	When you say -- start that again. 
+
+When you -- when you said that you understood Nzirorera when he said a Tutsi member of the MRND remains a Tutsi but a Hutu member of the RPF is a -- a fool or an imbecile, what is it that you understood he meant? 
+A.	No, the answer, really, it was no secret.  It is that Tutsis who are members of the MRND or any other party in Rwanda were to be killed.  Now, as for Hutus in the RPF being imbeciles, it is because they did not know what they were doing.  
+
+He was talking in parables, and what he meant to say was a Hutu who joins the RPF did not know what he was doing.  And when I asked him the question, I wanted to find out why Tutsis who were our members in the MRND were being killed.  And his answer was that these members should be killed because they were Tutsis.  There was nothing further I could add because this answer was given by a top party official, the secretary-general of the party.  
+Q.	To whom did Nzirorera give the 100,000 Rwandan francs?  Name, please.  
+A.	He gave that money to Ndayitabi, Swedi, who was leader of the Interahamwe in Nyarugenge commune.  He was president of the Interahamwe in that commune.  He received the money.  
+MR. MORLEY:
+Spelling:  Swedi is S-W-E-D-I, and Ndayitabi is N-D-A-Y-I-T-A-B-I.  
+BY MR. MORLEY:
+Q.	Was there any mention of vehicles? 
+A.	The Interahamwe told him they were still hunting the enemy, still confronting the enemy, but that they also needed to go to the front to help the soldiers.  However, the problem they faced was that they did not have enough vehicles to evacuate the wounded, so Nzirorera assigned vehicles to the MAGERWA, which were to be requisitioned.  It was indicated there were soldiers at the MAGERWA who would help them to requisition the vehicles.  
+MR. MORLEY:
+MAGERWA is M-A-G-E-R-W-A.  
+BY MR. MORLEY:
+Q.	And for the assistance of the Court, is that a large warehouse where vehicles were kept pending duty being paid before they were sold? 
+A.	That is correct.  It was through the MAGERWA that goods were to transit before they were handed over to their owners.  
+Q.	Thank you.  If you'll just pause there for a moment.  
+MR. MORLEY:
+Your Honour, I'm just looking for something.  If you'll all give me a moment.  
+BY MR. MORLEY:
+Q.	In May of 1994, did you go to Bugarama to the home of the man called Yusuf Munyakazi? 
+A.	Yes, I went to Bugarama in Cyangugu préfecture to the house of one Yusuf Munyakazi, who was leader, president, that is, of the Interahamwe in Cyangugu préfecture, especially in Bugarama.  
+MR. MORLEY:
+Bugarama is B-U-G-A-R-A-M-A, and Yusuf Munyakazi is Y-U-S-U-F M-U-N-Y-A-K-A-Z-I. 
+BY MR. MORLEY:
+Q.	When you were at Munyakazi's home, who you've told us was the leader of the local Interahamwe in Bugarama, what did he tell you he had been doing a little earlier?  When I say "a little earlier," I mean in the previous two weeks.  
+A.	When I arrived in Bugarama region, you see, I'd gone to see my family because I had sent them there.  We spoke as members of the MRND, and he told me in the hours preceding my arrival, he had gone to Bisesero to fight against the Tutsis, who had resisted their -- the Interahamwe.  So he had gone to Bisesero to attack the Tutsis until they killed them. 
+Q.	Who had asked him to go to Bisesero to attack the Tutsis?  
+A.	During that conversation he told me he had hunted down the Tutsis, tracked them down to 
+	Cyangugu préfecture, and that afterwards the national party president, Mathieu Ngirumpatse, had telephoned him and ordered that he and the Interahamwe should go and assist the Interahamwe in Kibuye.  He said Mathieu told him he had spoken to the Kibuye préfet, the gendarmerie commander, and that they should provide him with a vehicle so that he could go to Kibuye.  He said he took some buses and pickup trucks and had ferried more than 400 people to Bisesero to fight the Tutsis who were there.  That is what Yusuf Munyakazi told me when we were at his house in Bugarama. 
+Q.	And how did Munyakazi express his thoughts about what had been achieved in Bisesero? 
+A.	I spoke to Munyakazi in Bugarama.  As I said, both of us were members of the MRND, and there was nothing we had to hide from each other.  He said the Tutsis in Bisesero had put up a strong resistance, and so the people in Bisesero were forced to ask the Interahamwe in other regions to intervene and assist them.  He told me that the Interahamwe had gone to reinforce the Kibuye Interahamwe and that they had even used swords and machetes and that they had sought to kill Tutsis who had taken refuge in Bisesero and that they exterminated them.  
+
+This is what he told me.  He told me, therefore, that the Interahamwe and he had gone to the people who were in Kibuye. 
+Q.	Did he say whether the operation had been a success? 
+A.	Yes.  He told me the Tutsis who had taken refuge in Bisesero were exterminated, so the attack was a success.  And previous attacks had been unsuccessful, but the one in which he took part was a great success. 
+Q.	Did you have occasion to see Ngirumpatse after May of 1994? 
+A.	Yes.  I met Ngirumpatse in Gisenyi préfecture. 
+Q.	But where did you meet him? 
+A.	At the Meridien hotel. 
+Q.	For how long did you meet him? 
+A.	He told me he was very busy, so we were not together for long.  I don't think our conversation lasted more than five minutes.  I had put a problem to him, and he told me how to go about it.  So we did not stay together for long. 
+Q.	Approximately what time of day?  Was it morning, afternoon, or evening? 
+A.	It was in the afternoon, towards evening.  
+Q.	Which month? 
+A.	It was late June. 
+Q.	What was the problem that you raised with Ngirumpatse? 
+A.	I informed him that people in the city of Kigali, who were trying to find refuge in Gisenyi, were being killed and yet they were refugees like all the others.  
+Q.	Who was killing them? 
+A.	Interahamwes from Gisenyi préfecture. 
+Q.	What was Ngirumpatse's reaction to your observing that the Interahamwe were killing refugees? 
+A.	He told me he was very busy.  He told me, "I am advisor to the president, and the advice I can give you is to speak to the president of the Interahamwe in Gisenyi préfecture.  Let him know about your concerns."  
+Q.	Did he say he would do anything about what you were concerned about? 
+A.	No, he did not tell me he would do anything.  He merely gave me that piece of advice.  And, given his position, I thought there was nothing I could do because he, a top authority, had not tried to sort out the problem.  
+Q.	Did he express any thoughts along the lines that he had no control over the Interahamwe? 
+A.	No, he did not tell me that he had no power over the Interahamwe.  The Interahamwe would obey the orders of their leaders, be it at national level or even down to cellule level.  He just told me to speak to the president of the Interahamwe in Gisenyi préfecture, but he didn't give me a note for that person.  
+
+So I -- he told me that Muslims already had three posts in the national assembly and that people in Gisenyi were unhappy about that.  I understood then that we were not on the same wavelength.  He said he was very busy, gave me that advice, and so the only thing I could do was see the person he had directed me to.  
+Q.	By late June of 1994, did Ngirumpatse retain control of the Interahamwe, or had he lost control of the Interahamwe?  What was the position as far as you were concerned? 
+A.	No, I cannot say he did not control the Interahamwes, because he never condemned them.  If he had condemned them and if the Interahamwe had refused to obey his orders, then you could have said that.  So he was still powerful, could still control them, could still broadcast messages on the radio.  And if the Interahamwe had refused to obey him, he could have spoken to the soldiers because there were more soldiers than Interahamwes.  So they were not more powerful than Mathieu.  This was never observed. 
+Q.	Did you flee Rwanda and, if so, when? 
+A.	I went into exile on the 3rd of April 1994 (sic), so I left the city of Kigali in July.  We went towards Ruhengeri préfecture. 
+MR. MORLEY:
+Translation error, I assume. 
+BY MR. MORLEY:
+Q.	Witness, it's right, is it, that you left Rwanda on the 3rd of July? 
+A.	It was on the 3rd of July, yes. 
+THE ENGLISH INTERPRETER:
+Says witness.  
+THE WITNESS:
+It was a mass withdrawal.  
+BY MR. MORLEY:
+Q.	When you returned to Rwanda, did you find yourself arrested and accused of crimes? 
+A.	Yes.  I stayed in exile for years.  In 1994 I went to Tanzania, and then in 1996, when I returned, I was arrested and imprisoned. 
+Q.	And are you the subject of a judgement which you are contesting through the courts in Rwanda? 
+A.	In November 1996 I was arrested and imprisoned.  I was tried, sentenced by the court of first instance, Kigali, which ordered me to -- I appealed, but the court of appeal found the judgement -- or, rather, my appeal unacceptable.  
+Q.	And is it right that you are taking the matter to the supreme court in Rwanda? 
+A.	Yes.  After my appeal was deemed irreceivable (sic), my case was brought before the court of causation for that court to rule on my case. 
+Q.	Did you participate in the slaughter of the Tutsis? 
+A.	I was accused of having played a part with -- in cooperation with the -- the -- the Interahamwe and the soldiers in killing the Tutsi. 
+Q.	Is that true? 
+A.	I've always denied the accusations levelled against me. 
+THE ENGLISH INTERPRETER:
+The French booth asks if you could possibly repeat your question.  Something was missed, I think. 
+MR. PRESIDENT:
+(Unintelligible) 
+MR. MORLEY:
+Perhaps if I can summarise, I asked the question, "Are the allegations against you true?"  And the answer came back, "I have always denied any participation in the killings."  
+
+Your Honour -- (microphones overlapping). 
+THE WITNESS:
+That is quite correct summary by the Prosecutor. 
+THE ENGLISH INTERPRETER:
+Says the witness. 
+MR. MORLEY:
+I see the time.  What is left for me to do is the mop-up operation, which is -- involves going back to 1992 and dealing with about four matters.  I anticipate I should finish within about half an hour, and I would invite that we take our break now so that I can consult with my learned leader and those behind me to see if there is anything else I need to mop up on.  So if I might invite the -- 
+MR. PRESIDENT:
+This is our normal adjourning time anyway. 
+MR. MORLEY:
+Well, it's two minutes early, and I'm conscious of the fact that Your Honour likes to sit the full period. 
+MR. PRESIDENT:
+Yes.  We will take the adjournment now.  
+
+Mr. Witness, we take our adjournment again.  And I don't think I need to repeat what I've told you on every adjournment in the past, but remember that you are still our witness, and you have to observe the rules that you have been given.  
+
+We adjourn for lunch now.  
+(Court recessed from 1230H to 1427H) 
+MR. PRESIDENT:
+Good afternoon.  
+We continue, Mr. Morley. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Witness, what I want to do now is, I want to go back over some ground which we've covered in order to fill in a few little blank spaces.  And I'm hoping we're not going to be longer than a half hour together.  Do you understand what I've said? 
+A.	Yes, I understood.  
+Q.	Turning to 1992 and préfectoral level meetings of the MRND, did you attend any of those? 
+A.	Yes, I attended these rallies -- these meetings, rather. 
+Q.	Can you remember which days the meetings were convened? 
+A.	Meetings with the préfectoral committee were held in the MRND office in Kigali.  These meetings were held usually on Wednesdays after work.  
+Q.	Did Ngirumpatse ever chair any of those meetings? 
+A.	When he was still préfectoral chairman of the party in Kigali, it is he who chaired these meetings, that is, for the préfecture. 
+Q.	In 1992 we know that he was the general secretary of the MRND.  In 1992, in the early part of 1992, do you recall whether at that time he chaired any of the meetings? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to the preface.  I think it's very confusing.  The -- I think it's a matter of record that Mr. Ngirumpatse became the secretary-general the 28th of April 1992.  
+MR. MORLEY:
+I'm grateful to my learned friend for his assistance.  I was, in fact, in error.  And that clears a lot up, actually.  I don't need to ask the question.  I'll move on to another one. 
+BY MR. MORLEY:
+Q.	Do you know a person named Ahmed Mbonyunkiza? 
+A.	Yes, I know this person. 
+MR. MORLEY:
+Spelling:  A-H-M-E-D M-B-O-N-Y-U-N-K-I-Z-A.
+BY MR. MORLEY:
+Q.	Was he anything to do with the MRND?
+A.	He was elected to the MRND communal committee.  
+Q.	Was he ever present when you were present when Mathieu Ngirumpatse chaired any meetings? 
+A.	The meeting of the communal committee was chaired by the MRND chairman for the commune.  Ahmed Mbonyunkiza, as a member of this communal committee, attended meetings.  He was not a member of the préfectoral committee, so he could not attend the meetings of the préfectoral committee. 
+Q.	Did you ever attend any meetings with Mbonyunkiza? 
+A.	I was a member of the communal committee.  Immediately after we were voted into office, I met him in the Nyarugenge communal committee meeting. 
+Q.	When Ngirumpatse was the president of the MRND for Kigali, did he chair the communal committee meetings? 
+A.	No, he couldn't chair the meeting in the commune.  Actually, what he chaired was the préfectoral meeting. 
+Q.	If I can take you to some rallies which took place in 1993, was there a -- an MRND rally in Murambi in 1993? 
+A.	Yes.  This rally took place in Murambi commune.  
+
+I would like you to make a distinction between rallies and meetings of the committee, which were limited to figures of authority.  
+Q.	Thank you.  In Murambi at the rally, did Ngirumpatse attend? 
+A.	Yes.  It is he who chaired that rally for Byumba préfecture, which was held in Murambi. 
+Q.	At that meeting was there a speech by a man called Gatete? 
+A.	Gatete was a member of the MRND national committee for Byumba.  In addition, he was bourgmestre of Murambi commune.  He took the floor to welcome the national leaders of the MRND.  He introduced Murambi commune to them, that is, in the context of the MRND.  
+Q.	Were you at this rally? 
+A.	Yes. 
+Q.	When Gatete introduced the national leaders of the MRND, apart from Ngirumpatse, who else was there? 
+A.	I didn't quite understand how things went, but when I arrived, the bourgmestre was speaking.  But we were with the members of the committee préfectoral -- or, the préfectoral committee of Byumba and Kibungo.  They were all present at that meeting. 
+Q.	Which other national leaders of the MRND were present in Murambi? 
+A.	I don't really remember who was present and who was not, but I was able to note the present (sic) of the -- the presence of the vice chairman of the party, Ferdinand Kabagema.  He came from 
+	Kibungo préfecture. 
+Q.	Can you remember now whether there were any other members of the executive bureau present? 
+A.	I don't really remember.  I do not remember everyone's name, but I do remember that the person who took the floor was Mathieu Ngirumpatse.  The former préfet of Kibungo préfecture also took the floor.  I do not know whether they came with the other members of the executive bureau.  I really cannot remember.  
+Q.	What did Gatete say to the rally?  Can you remember?  
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to this.  And I think your ruling may be a little unclear on this point that you made yesterday.  But I believe that this is to be excluded, the content of the meeting.  
+
+If I could also point out, Mr. President, that this is the identical -- identical situation that we had with the meeting in Kibungo in -- with Mr. Mbonyunkiza when, as I pointed out to you in the transcript of the 22nd of September of last year, at page 25, you ruled that the content of the speech made by 
+Robert Kajuga, a member of the joint criminal enterprise alleged in the indictment, would be excluded.  
+
+Mr. Gatete is listed as a member of the joint criminal enterprise in the indictment, and I believe that his remarks, especially because they're sought to be attributed to Mr. Ngirumpatse, should also be excluded, if you haven't excluded it already.  
+
+Thank you.  
+MR. MORLEY:
+I don't wish to trespass on Your Honour's judgement and decision.  My understanding was I could elicit what it was that Gatete said but I shouldn't go further.  
+MR. PRESIDENT:
+No, not what he said, the subject matter of his address. 
+MR. MORLEY:
+Very well.  
+MR. PRESIDENT:
+There was a section of what he said which we -- which we said charged specific crimes. 
+MR. MORLEY:
+I -- I see that.  Let me see if I can find the appropriate question.  
+BY MR. MORLEY:
+Q.	Did Gatete refer to any threat from the Inkotanyi in Murambi commune? 
+A.	In his speech, Gatete said that the MRND in Murambu (sic) -- Murambi was in good form and that the only problem that the MRND was facing was the Tutsis, that is, for the commune of Murambi.  He said that some people had brothers-in-law among the Inkotanyi who were fighting in Mutura. 
+Q.	All right.  
+MR. ROBINSON:
+We'd move to strike that, Mr. President, as doing exactly what you asked not to be done, which is to say what he said.  I think the more appropriate question would be:  What was the subject matter of Mr. Gatete's discourse? 
+MR. MORLEY:
+You'd get the same answer.  If my learned friend moves to strike, I can agree the last sentence, which is the bit with his reference to the brothers-in-law.  But the other part was within the compass of Your Honours' concerns. 
+MR. PRESIDENT:
+Yes, Mr. Morley, you are quite right, and we make the order to strike that last sentence.  
+MR. MORLEY:
+So I understand that the witness's evidence is there was discussion about the difficulty of the Tutsi in the area.  That remains, but what comes after is struck. 
+MR. PRESIDENT:
+Yes. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	Can I turn now to Kibungo.  Was there a rally in Kibungo in 1993? 
+A.	Yes, a rally was held in Kibungo, at the Kibungo préfecture office. 
+Q.	Did you attend that rally? 
+A.	No. 
+Q.	Did you learn about what had happened at that rally and, if so, from whom? 
+A.	Interahamwe from Kigali wherever -- followed the chairman or the secretary-general wherever they went, especially as they said that they were providing security for the area.  So the Interahamwe went to Kibungo.  There was an entertainment group in my area, and this group also went to the Kibungo rally. 
+Q.	Did they tell you about the rally afterwards?  Is that the source of information, or was it from somebody else that you learnt about Kibungo rally? 
+A.	Rallies in the préfecture were generally broadcast on Radio Rwanda.  There was an agreement, and it is according to this agreement that these broadcasts were made.  The speeches that were made during these rallies were broadcast on radio, and so there was no need for participants at the rally to tell me what had, in fact, transpired because I heard it on the radio.  
+Q.	Was Ngirumpatse at that rally? 
+A.	It is he who chaired the rally, which was organised at the Kibungo préfecture office. 
+Q.	Were any other members of the executive bureau at the rally and, if so, who? 
+A.	As I did not attend the rally, I cannot give you the names of those who attended, but I know that each time there was a préfectoral rally all the senior figures of authority of the party would attend, unless they were on mission elsewhere.  All the party leaders would take part at rallies to show local authorities that they were supporting them. 
+Q.	You've told us the Interahamwe went to the rally.  Were they armed at the rally? 
+A.	At that time they did not show their weapons openly.  Their leaders used to go about with weapons, but this was in secret.  When I refer to weapons, I am referring to guns.  As to other weapons, such as sticks, clubs, and so forth, they had all of those.  
+Q.	What happened after the rally with the Interahamwe? 
+A.	From Kibungo to Kigali, the Interahamwe destroyed houses, from Kibungo préfecture right to Kayonza right up to Gikoro commune and to Kanombe.  The homes of Tutsis were destroyed along that road.  
+Q.	What was the reaction of Ngirumpatse to the destruction of the Tutsi homes? 
+A.	Ngirumpatse had gone before, so I cannot say what he did.  In any case, people's houses were destroyed, and no decision was taken against those people who had perpetrated those acts.  I did not monitor the situation closely in order to determine what happened subsequently.  However, the fact is that, each time there was a rally in an area, it was known that people would not be left in peace after that rally.  
+Q.	After the Kibungo rally, was there a radio communiqué made by members of the MRND at préfectoral level in Kigali? 
+A.	We disseminated this communiqué from Kigali, that is, we in Kigali, when we observed that the Interahamwe were attacking the Tutsis in Kigali.  
+
+When we realised that such things were beginning to happen in Kigali after Murambi, Kibungo, and after the misdeeds that had been observed in that -- in those areas, we began to feel that things were getting to Kigali, and we decided, therefore, to issue the communiqué. 
+Q.	What was the reaction of Ngirumpatse and members of the executive bureau to the issue of the communiqué? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to this as asked and answered.  We've covered this topic before. 
+MR. MORLEY:
+In a sense, my learned friend is right.  The reason why I'm dealing with it is, Your Honours will recall that, at an earlier stage in the examination of this witness, a degree of confusion arose over whether the communiqué, which has just been referred to, was issued after the Mugesera speech.  And Your Honour may recall that the witness said it was issued in 1993.  Now, what I'm trying to establish, for Your Honour's assistance, is the timing now of that communiqué.  
+
+If my learned friend is content that, effectively, the subject has been asked and answered, as he puts it in the United States form, then the record can reflect that the communiqué, which was referred to at an earlier stage in the testimony, was issued in the immediate aftermath of the Kibungo rally.  
+MR. PRESIDENT:
+I think you should ask the question, Mr. Morley. 
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	What was the reaction of the executive bureau to the issue of the communiqué by the préfectoral MRND in Kigali? 
+A.	The préfecture chairman was summoned, and he was warned.  When he returned to us, he told us that the executive bureau had told him that we were not to get involved in matters that are -- that were of no concern to us and that we were not to be concerned -- or, to concern ourselves with the Interahamwe, as this was not our business.  
+Q.	You've told us that there was a rally at Nyamirambo stadium shortly after the death of President Ndadaye, at which the various political parties gathered, that occurring in October of 1993.  You've also told us that at that rally the leader of the PL, a man called Mugenzi, was in attendance.  Do you remember telling us that? 
+A.	Yes, that is what I said. 
+Q.	You also told us that at that rally the various parties showed a Hutu unity under the heading "Hutu Power."  Do you remember telling us that? 
+A.	Yes, that is what I said.  
+Q.	You then told us of a rally on the 16th of January of 1994 at which Ngirumpatse was present.  Do you remember telling us that? 
+A.	Yes, I remember. 
+Q.	Was Mugenzi present at the rally on the 16th of January of 1994? 
+A.	I do not know whether he was present or not.  This was a rally limited to the MRND party.  I do not know whether he was invited to that rally, but I didn't see him there. 
+Q.	Why have you chosen to give evidence before this Tribunal? 
+A.	I wanted to tell the truth about the events that occurred in our country.  When the investigators of the International Criminal Tribunal for Rwanda asked me to come and give testimony here, I agreed because I wanted the truth about what happened in our country to be known.  
+MR. MORLEY:
+That is exactly 30 minutes, as promised.  That concludes my examination-in-chief.  
+MR. PRESIDENT:
+Thank you, Mr. Morley.  
+(Pages 29 to 40 by Ann Burum)
+
+
+
+
+
+
+
+
+
+
+1500H
+MR. PRESIDENT:
+Mr. Witness, your testimony will have to continue and you'll have to respond to questions from counsel for the Defence.  There are three persons accused in this trial, and each is separately represented.  So, over the next day or two or three, you have to respond to questions put to you on behalf of each of the Accused persons.  
+
+Mr. Robinson, I gather that you're first up.  What we're thinking of doing is having a short recess now.  We think we'll probably take the mid-afternoon break now.  That should be about 30 minutes, we think, and then you can start.  We hope that in the meantime, we would be ready to give rulings on the matters that you raised this morning. 
+MR. ROBINSON:
+Thank you, Mr. President.  Also, I've asked the registry to make sure my exhibits are ready, and I think they're working on that, so I think the time would be useful also for them to get exhibits copied so we could start right away.  
+MR. PRESIDENT:
+So we take a recess now.  
+(Court recessed from 1502H to 1538H)
+MR. PRESIDENT:
+Mr. Issa, not yet; the witness doesn't have to put on his headphones as yet.  
+
+At the adjournment I had indicated that we might be delivering rulings on the matters that counsel for Nzirorera had raised this morning.  We have not reached a decision with regard to the motion -- two of the motions, one with regard to the inspection and the other with regard to ex parte filings.  We probably will be able to address these during the course of tomorrow.  
+
+With regard to the application regarding the stay of proceedings, we have considered the application for certification with -- filed by both the Prosecutor and the Defence with regard to the oral motion that we had -- oral decision we had given on the stay of proceedings.  The Prosecution motion regarding certification with regard to the EDS situation meets the criteria for certification under Rule 73 bis - Rule 73(B).  
+
+We considered that, in those circumstances, that we should allow the application for the Defence to appeal other aspects of the oral rulings so that there would be one package in relation to the appeal, as the issues raised by both parties are intertwined.  So we have granted certification for appeal of the oral decision with regard to stay of proceedings filed by both Nzirorera and the Prosecutor.  
+
+Now, we have considered the application for a stay of appeal -- stay of proceedings pending the appeal, and we have concluded that that application should be denied.  There's a basic rule that appeals do not automatically require that the proceedings should be stayed, and as we have seen the proceedings, as we have expressed on a number of occasions over the last two weeks, we don't think that there is any good reason to justify a postponement of the trial pending the determination of the appeal on this issue.  Any rulings that the appeal make could have effect whether the proceedings continue or not.  So we deny the application for stay pending appeal.  
+
+That's our ruling on the matter.  With regard to the other two motions, we will address them as soon as we can, probably during the course of tomorrow.  
+MR. ROBINSON:
+Thank you, Mr. President.  Thank you for granting certification for our appeal.  I won't say I'm ready to commence my cross-examination, but I'm going to commence my cross-examination, so with your leave, I'll get started.  
+MR. PRESIDENT:
+Mr. Witness, are you ready?  Could you put on your headphones, please?  
+
+Yes, Mr. Witness, your cross-examination will commence now.  You first have to respond to counsel for Nzirorera, Mr. Robinson.  
+
+Now, Mr. Robinson, you may proceed.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+CROSS-EXAMINATION 
+BY MR. ROBINSON:
+Q.	Witness UB, muraho,amakuri ki?.  
+A.	Good day.  The news is good. 
+Q.	Murakoze cyane.
+A.	Thank you very much. 
+Q.	Witness UB, you are subject to a (By order of the Court, this portion of the transcript has been extracted and filed under seal) in Rwanda, correct? 
+A.	That is correct. 
+Q.	And you have had a trial, correct? 
+A.	Yes, that is true. 
+Q.	And at your trial, witnesses appeared and accused you of participation in the massacres of 1994, correct? 
+A.	Yes, that is correct, but I do not agree with that. 
+Q.	And at your trial you protested your innocence, correct? 
+A.	Yes, up to now, I consider myself innocent. 
+Q.	And at your trial you told the judges that you not only did not participate in the massacres, but you yourself had made efforts to stop them, correct? 
+A.	Yes, that is it. 
+Q.	But it's true, is it not, that at no time during the course of your trial did you ever tell the judges that you had telephoned Mathieu Ngirumpatse to ask him to stop the Interahamwe?  
+A.	I was tried as a conseiller de secteur and not as an MRND party leader, and certainly not as a member of MRND. 
+Q.	But you never told your judges at your trial that you had contacted Mathieu Ngirumpatse to get him to stop the Interahamwe, did you? 
+A.	At my trial I was not asked to talk about Mathieu Ngirumpatse or anyone else.  My trial was about the responsibility or share of the blame I carried for the events in my locality.  So I did not mention that incident to the judges, for personal reasons, during the trial. 
+Q.	And at the conclusion of your trial, the judges did not find you credible, correct? 
+A.	They are entitled to do so, and the same goes for me.  I do not agree with that sentence and that is why I appealed their judgement. 
+Q.	And after the judges didn't believe you and found you guilty and sentenced you***********, is it not true that you are now willing to say anything to save your own skin?  
+A.	No, that is not true.  I did not come here to try to save my life.  I came here because the Tribunal called me to tell the truth about what happened in the country.  I did not come here to do something that might influence the judgement in my case.  I came to the Tribunal to talk about events that occurred in Rwanda. 
+Q.	And you're so willing to say anything to save yourself that you even told the appeals court in Rwanda that you were a Tutsi, correct? 
+A.	You are saying I am prepared to say anything to save myself?  That is not true.  You are asserting that I said I was Tutsi in the court of appeal.  Do you have proof, I wonder, on this matter.  I was appearing as a Rwandan.  And then you mentioned (By order of the Court, this portion of the transcript has been extracted and filed under seal) and I tell you I've been in detention for ten years.  So why are you even mentioning (By order of the Court, this portion of the transcript has been extracted and filed under seal)?  
+MR. ROBINSON:
+Mr. President, may the witness be shown what is the last document in my bundle of exhibits?  It's given No. 34.  
+MR. MORLEY:
+While Mr. Issa is assisting with that, may I raise a concern?  
+
+MR. PRESIDENT:
+Yes, Mr. Morley.  
+MR. MORLEY:
+My learned friend and I have discussed the likely cross-examination in relation to the witness's courtroom events in Rwanda, and my learned friend has assured me that the line of cross-examination in open session would not trespass on the worry of the witness becoming identifiable.  During legal argument some days ago, my learned friend read out the date of the first instant judgement.  It's a matter of record that this witness in open session has said that he was a conseiller in Kigali.  I had raised with my learned friend my sensitivity to it being admitted into evidence in open court that this witness is (By order of the Court, this portion of the transcript has been extracted and filed under seal) because it's now pretty easy to identify him:  You just look for a conseiller whose date of a particular judgement led to (By order of the Court, this portion of the transcript has been extracted and filed under seal).  
+
+I had thought that my learned friend would not elicit the sentence in open session.  Perhaps that was my misunderstanding, but perhaps it was not.  It's my application, Your Honour, that reference to the sentence be redacted because I am concerned that it makes this witness quite easily identifiable.  And my learned friend is aware of that sensitivity.  
+MR. PRESIDENT:
+Mr. Morley, the only relief you are asking for at this stage is redaction?  
+MR. MORLEY:
+Yes.  
+MR. PRESIDENT:
+You could have asked that in one sentence and it would have been granted. 
+MR. MORLEY:
+Thank you.  But I thought I'd lay the foundation for it with a little less colour than Mr. Robinson normally does.  
+MR. PRESIDENT:
+Yes, Mr. Robinson, you may continue.  We have redacted the issue of the sentence.  I think Mr. Morley's point is quite well taken. 
+MR. ROBINSON:
+Thank you, Mr. President.  
+BY MR. ROBINSON:
+Q.	Witness UB, if you have the document in front of you that has a number 34 in the right-hand corner -- or you're just about to receive that document.  Putting aside the first page for the moment, if you could look at that document and tell us whether that appears to be the judgement of your appeal.  
+A.	I'd like to tell you that I was informed that my appeal had not yet been received.  Therefore, I did not agree to the -- with the decision taken by the Kigali court of appeal.  As regards the appeal, it is important to note we did not -- or rather, we were not heard by the judges.  We were represented by our lawyers, of course.  
+Q.	But is this the document which reflects your appeal and its result?  
+A.	Yes.  It appears to me that it is my appeal document.  I see names on the document, and I believe it is indeed the document of my appeal, with the result of that appeal. 
+MR. ROBINSON:
+And Mr. President, I would now move as Exhibit D. NZ55 into evidence this document and that it be placed under seal because it has the name of the witness.  
+MR. PRESIDENT:
+Granted, placed under seal. 
+ (Exhibit D. NZ55 admitted, under seal) 
+MR. ROBINSON:
+Thank you, Mr. President.  And, actually, I would ask that it be admitted without the first page, which is the transmission document from the Prosecution.  I don't think that's necessary.  
+MR. PRESIDENT:
+So we will take Mr. Morley's name off the record. 
+MR. ROBINSON:
+As much as possible, yes.  
+BY MR. ROBINSON:
+Q.	Now, Witness UB, if you could turn -- on the very top right-hand corner of each page, there's a number and it has three digits and a slash and then "032".  And I'd like you to turn to the page that has the number 008 "dash" or  "slash" 032.  Tell me when you've been able to find that page.  
+MR. PRESIDENT:
+Mr. Robinson. 
+MR. ROBINSON:
+Yes. 
+MR. PRESIDENT:
+It apparently would help if you could speak a bit closer to the microphone.  We've had a request from -- 
+MR. ROBINSON:
+Thank you, Mr. President.  
+MR. PRESIDENT:
+I hope you could reach that language. 
+MR. ROBINSON:
+I see.  I'm not the only one.  
+BY MR. ROBINSON:
+Q.	Witness UB, have you been able to find, at the very top right-hand corner, the page that has 008/032? 
+A.	No, I have not yet found the page.  No, I cannot see the page in question.  You said to the right, did you not?  
+Q.	Yes, on the very top of the page, on the very right, there are some printed, small numbers, and I'm asking you to find the one that says "008" and a slash and then "032".  
+A.	I see 007, 009, but I am unable to find page 008.  
+MR. MORLEY:
+If the page is missing, the witness is welcome to have my copy.  
+THE WITNESS:
+All right, I found it.  
+BY MR. ROBINSON:
+Q.	Thank you, Witness UB.  Now, you see underneath the seal on the bottom of that page, there begins some additional conclusions presented by a man named (By order of the Court, this name has been extracted and filed under seal).  Do you see that?  
+A.	Yes, I can see the passage. 
+MR. PRESIDENT:
+Mr. Robinson, you are aware that we are in open session?  
+BY MR. ROBINSON:
+Q.	And following along through to the bottom of page 8 and page 9 and page 10 and page 11, and then on page 12, would you agree that those are part of the submissions made on your behalf by your lawyer? 
+MR. MORLEY:
+Inevitably, Your Honour sees the point.  Mr. Robinson is invited, please, to pay heed to what he assured me he would not do.  This is in open session, and we've now had the name of the witness's lawyer being read into the record.  It's my respectful submission that it may be the Court is of the view that for this cross-examination to continue properly, we ought to go into closed session.  I'm not trying to stop the cross-examination, I'm trying to stop identification.  
+MR. ROBINSON:
+That was my mistake, Mr. President.  I shouldn't have mentioned that name.  I could have done this in a better way, and I apologise for that.  You can strike the name of the lawyer from the record.  
+MR. PRESIDENT:
+We will redact the name of the lawyer from the record, and that means that this name is under seal and not to be published.  Mr. Robinson, we will allow you to go on a bit longer, but if any further issues arise -- I anticipated that this was going to happen, that's why I gave you a bit of a reminder.  But we will allow you to go on, and if you can control the examination, we remain in open session, but if not, we'll have to go into closed session.  
+MR. ROBINSON:
+Thank you, Mr. President.   
+
+BY MR. ROBINSON:
+Q.	Now, Witness UB, have you arrived at page 12 of this judgement?  
+A.	Yes, I have read this up to page 12. 
+Q.	Now, I want to direct your attention to the place on page 12 right at the bottom of the seal, and there is a paragraph that begins with the words "considérant que les prévenues."  Do you see those four words in the paragraph just at the bottom of the seal?  
+A.	Yes, I can see it.  I see the sentence beginning with "considérant," and so on. 
+Q.	Are you able to read French so that you can read that paragraph out loud?  
+A.	You can read the sentence and I will follow.  It is you who are reading the document, so please go on like that and I shall follow. 
+MR. ROBINSON:
+Mr. President, Mr. Morley would like to speak.  
+MR. MORLEY:
+I understand why my learned friend wishes to deal with this, but can we have it in closed session, please?  If we're going to start reading from the document, then inevitably the problems which I am concerned about begin to arise.  
+MR. ROBINSON:
+Mr. President, this one paragraph, which is the only paragraph of this judgement I'm going to ask him about, is -- in no way gives out his identification.  
+MR. MORLEY:
+It refers to his wife and his family circumstances, and it is quotable and liftable directly from a judgment which is a public document.  So perhaps I'm being oversensitive.  I do understand why Mr. Robinson is looking at this paragraph, and Your Honours can see it as well, but to read it into the record is to trespass on the identification issue.  
+MR. ROBINSON:
+Well, Mr. President, I think that I could even limit the reading to the first six or seven words, which don't even refer to his wife, and I don't think that it would be necessary to go into open -- to closed session if I did that.  And I think it's a matter of a very serious issue of credibility, and it ought to be in open session since virtually the entire testimony in which this testimony incriminated our clients was heard in open session. 
+MR. PRESIDENT:
+If you limit it to the section to which you referred, that should be sufficient for your purposes and it would not infringe the issue of identity.  
+MR. ROBINSON:
+Mr. President, logistically, I really don't want to try to read French because I am terrible at that.  I couldn't pronounce it.  May I have my legal assistant read those words?  
+
+MR. PRESIDENT:
+Sure.  He's going to stop at the comma?  
+MR. ROBINSON:
+Yes.  
+MR. PRESIDENT:
+Yes, perhaps he could read the sentence, or should read the whole sentence.  The first sentence, the entire first sentence.  
+MR. NSENGIYUMVA:
+Yes.  "Considering that the detainee is of Tutsi origin, in spite of the fact that his identity card indicates that he is Hutu."  
+BY MR. ROBINSON:
+Q.	Witness UB, is it true, then, that your lawyers on your behalf, in pursuing your appeal, argued to the appeals court in trying to overturn (By order of the Court, this portion has been extracted and filed under seal) that you were, in fact, a Tutsi?  
+MR. PRESIDENT:
+Mr. Robinson, we have already decided that this sentence is not to be mentioned in open session. 
+MR. ROBINSON:
+I'm sorry. 
+MR. PRESIDENT:
+Redact that sentence. 
+MR. ROBINSON:
+I'm sorry about that.  I'll ask the question again.  
+BY MR. ROBINSON:
+Q.	Witness UB, is it not true that in challenging your conviction, your lawyers represented on your behalf to the appeals court that you were a Tutsi?  
+A.	If the lawyer said that, then I do not think that we should consider it to be what he says.  I never showed him my identity card.  Perhaps he was looking for some means of changing my conviction.  What I told him was that my wife was Tutsi, but I did not say that I was Tutsi.  I said my wife was.  Perhaps this is the -- this is what he had to present, or I felt he had to present to the court to try and get my judgement reversed.  I never said that I was Tutsi; I said my wife was.  
+MR. MORLEY:
+Your Honour, I am on my feet.  It is my application that the cross-examination in respect of the courtroom circumstances of this witness continues in closed session.  The reason for that application is that, presently, his circumstances are sub judice in Rwanda.  He is entitled, in theory, to have the protection of counsel with regard to what he says about the circumstances of his appeal.  My learned friend is eliciting, perhaps not deliberately, comment from the witness about what it is that he has told his lawyers.  It may very well be that if that material is in open session, it may become relevant to his appeal circumstances in Rwanda.  
+
+It's my respectful submission that it is plain that this cross-examination is fraught with various difficulties relating to, firstly, identification, but secondly, interfering in potentially a judicial process in another country.  I am not inviting the cross-examination to stop, but to protect the witness's own position with regard to his appeal elsewhere, it's my respectful submission we should proceed in closed session.  What he says about what he's told his lawyers and what he may say about the rights and wrongs of the judgement should not be in open session and available to those who may use what he says against his interests in Rwanda.  
+
+I hope the point is plain and one of good legal common sense.  
+MR. ROBINSON:
+Mr. President, I think we have finished this topic of his judgement and what was represented to the appeals chamber or appeals court in Rwanda.  It's now in evidence.  I don't think I need to go any further with this, so I think we can resume in open session.  
+MR. PRESIDENT:
+Mr. Robinson, since you have completed your examination on the subject, you may move on.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+BY MR. ROBINSON:
+Q.	Witness UB, now we are going to go and talk about some of the information you have provided about the history and structure of the MRND.  Now, I have it in my notes that on the 23rd of February, you testified that Mr. Nzirorera was a member of the reconstruction commission of the MRND, given the task of renovating the party.  Is that correct?  
+A.	I said, before the advent of multipartyism, Nzirorera was part -- was a member of the committee that was supposed to draft the constitution of the MRND. 
+Q.	And who was the head of that committee?  
+A.	It is the steering committee of the party that was responsible for managing the restructuring committee that was drafting the constitution.  So the party was represented by the secretary-general, Édouard Karemera.  It wasn't a separate committee as such, it was within the party.  It was in the party because Édouard Karemera replaced Bonaventure Habimana in this position. 
+Q.	And is it your testimony that Mr. Nzirorera was a member of the committee on synthesis led by Édouard Karemera that was tasked with drafting the statutes -- or the constitution and the statutes of the multiparty MRND?  
+A.	When I referred to the organs of the MRND, I was referring to party organs subsequent to that restructuring.  At that time many new personalities became active in the MRND organs, such as Ngirumpatse.  But after the restructuring and the elections, I said that they were part of the Ruhengeri préfecture organ.  
+Q.	Well, Witness UB, as I understand it, there were two commissions established by the MRND:  one was a committee on synthesis chaired by Édouard Karemera and one was a restructuring -- reconstruction -- national reconstruction commission chaired by Faustin Munyaneza, that's M-U-N-Y-A-Z-E-S-A (sic).  Now, can you tell us which of those two commissions -- excuse me, Faustin Munyaneza.  
+A.	I did not, in my testimony, mention Faustin Munyaneza at any time.  I think you are dragging me into this business of the commission.  But when the MRND was still a single party, it still had commissions.  There was the foreign affairs commission or committee, there were other committees.  There was a committee in charge of territorial administration, and so on.  So I was referring to people who were elected at national level to be members of these committees.  I know nothing about Faustin Munyaneza, as I was not a member of these elected committees. 
+Q.	And which committee is it that you are testifying that Mr. Nzirorera was a member of?  
+A.	I made no reference to any committee, unless you do not know what that word means.  It is not the same thing as a commission.  There were several committees in the MRND.  I am not -- I don't want to talk about these committees because I was not a member.  I was an ordinary member of the party.  I was not one of the senior leaders, decision-making leaders of the party.  And when we got involved in multipartyism and elected the members of the national committee -- commission and others, that is how I became a member of the leading organs of the party.  There was a central committee of the MRND appointed by President Habyarimana.  It was not a committee as such.  
+
+Please do not bring me into this question of committees and commissions.  I do not -- I was never a member and I do not want you to drag me into it.  I never said that Nzirorera was a member or had been a member of any committee or commission. 
+Q.	Well, Witness UB, I beg to differ.  My notes indicate that on the 23rd of February 2006, you testified, under oath, that Mr. Nzirorera was a member of the committee renovating the party, that he was one of the people who conceived and wrote down the statutes of the party.  Now, you can understand, as Mr. Nzirorera's lawyer, I have an interest in seeing that anything that's said about him is accurate and reliable.  So is it true, then, that Mr. Nzirorera was a member of the committee renovating the party?  
+A.	I referred to the organs of the MRND who had -- which had elected members, including me.  It is these organs that I mentioned.  I said that -- or I described how secretary-generals occupied that position.  I did not give any tangible proof about that.  I said that during the MRND national congress, that is the new MRND, I was present.  Nzirorera, for his part, was a member of the Ruhengeri préfectoral committee.  He was also present at the first MRND congress.  Now, with respect to the work of committees, I know nothing. 
+Q.	So, Witness UB, the Judges can go back and read what you said earlier, but as of right now, is it your testimony that you have no knowledge that Mr. Nzirorera was a member of a committee renovating the party?  
+MR. WEBSTER:
+Excuse me, could counsel refer us to the portion of the transcript?  Because I'm reviewing my notes for that date and I don't see that reference.  So it would be helpful for all of us if we knew exactly what the witness said and if you could direct us to the portion of the transcript. 
+MR. ROBINSON:
+Mr. President, I don't have the transcript for that day.  I'm reading -- I'm going from my own notes of that testimony.  I don't know even if the transcript, the actual official transcript, has been prepared yet for that day.  In any event, I'm giving the witness my recollection of what he said.  If it turns out that he has a different recollection, he can so state, and I believe he has.  But my question to him now is as he sits here today. 
+BY MR. ROBINSON:
+Q.	Was Mr. Nzirorera a member of the committee charged with renovating the party?  
+A.	As I have just explained, I have nothing to add.  I have told you that I know that Nzirorera was a member of elected committees because I was also one of the people who was elected to these committees.  As to suggesting that I said that he was a member of the commission or committee that was supposed to restructure the party, I know that people came from several préfectures to take part in this restructuring work.  I know that people came from Kigali and Ruhengeri.  However, I did add that, to the best of my recollection, he was a member of the Ruhengeri préfectoral committee.  
+
+So, I do not know how you took your notes.  If you are sure that I stated this and that you took it down as I said it, then perhaps you may use that to influence or convince the Judges.  But I was an ordinary party member when the MRND was a single party, so I did not know what was going on in the higher echelons of the MRND party. 
+MR. ROBINSON:
+May the witness be shown Exhibit D. NG2A, which are the statutes of the MRND?  And, Mr. President, this is also available in English as D. NG2B.  
+BY MR. ROBINSON:
+Q.	Witness UB, do you recognise the document that's in front of you as the statutes of the MRND as a -- as it existed in the multiparty system? 
+A.	Yes, I can see the document. 
+Q.	And if you could turn to Article 47.  You can refer either to Kinyarwanda or French, they're both on each page.  
+
+Witness UB, have you located Article 47?  
+A.	Yes, I see the article. 
+Q.	And we're going to speak about the national organs of the MRND first and then we'll speak about the local organs, but with respect to the national congress, does this not indicate in Article 47 that the national congress shall be the movement's supreme organ?  
+A.	Yes, I see the part on the national congress.  Go on with your question.  
+Q.	It's true, is it not, that it was the national congress that was at the top of the MRND pyramid and that all other organs were underneath the supreme organ of the national congress?  
+A.	Yes, you're right, but I would like to say something about these statutes.  When you say that the national congress was the supreme body of the movement, it is the body which sets up, establishes, other party bodies.  That is what I wanted to add. 
+Q.	And looking at Article 47, it indicates, does it not, who should comprise the members of the national congress, correct? 
+A.	Actually, I'd like to talk about the statutes.  I told you there was the reformed MRND.  Now, these statutes are not those of the reformed MRND.  The regulations do not stipulate that the president of the movement, members of the national committee and members of the préfectoral committees, are the people who form the national congress.  I believe you are referring to the statute of the old movement.  
+
+I would like you to show me the regulations of the reformed MRND party.  I would like to see the seal of the minister of the interior accrediting that new party, the reformed MRND.  So we were adhering to the new statute of the MRND party, MRND reformed, which had vice-presidents, and I see no provision for that post in the statute you have presented to me. 
+MR. ROBINSON:
+Mr. President, with the help of the registry, I would like to present the witness with the actual booklet itself, which is the original of D. NG2A.  
+BY MR. ROBINSON:
+Q.	Witness UB, I've had you provided with the actual booklet of the statutes, and now if you return to your copy of the statute and the very last page, it has "996" on the top of it and there's a date on the top and also a list of signatures from the préfecture of Kigali.  So can you look at that page?  It's the last page, 996.  Look at the date, look at the signatures, and tell me whether you're now convinced that you're looking at the statutes enacted by the MRND in the multiparty system.  
+A.	Before looking at the signatories of the statutes, I'd like to say that on the document you provided to me earlier, do you mean that those are the statutes of the former MRND party?  So I do not see the seal of the reformed MRND party on any of these documents.  The people whose names are mentioned on the list were not elected, they were appointed.  For instance, you see Anastase Gasana on the list and yet these people were in the MDR party, so I see this as a mix-up.  
+
+I'd like to say that within the reformed MRND party, those people were not members of the préfectoral committees.  I myself was a member of the préfectoral committee for Kigali-ville.  So these people were members of the préfectoral committee in the reformed MRND party.  The president of the party was elected.  The secretary-general of the MRND party was elected in the reformed party structure.  I was elected myself.  So I would like you to show the Court the statutes of the reformed MRND party bearing the seal of the minister of home affairs.  These are the statutes of the MRND, but this is -- these are internal rules of procedure, if you like.  We need the document or we needed to have the approval of the minister of home affairs.  He needed to give his seal to accredit the party.  And that is the document that I should be shown because -- 
+THE ENGLISH INTERPRETER:
+I'm sorry, I lost the last part of that answer.  
+BY MR. ROBINSON:
+Q.	Witness, could you just repeat the last part of your answer because the interpreter didn't get it.  
+A.	I was saying you showed me a leaflet showing the statutes of the MRND, and I am saying that these MRND statutes are for the former party.  They are not for the reformed MRND, as restructured during the multiparty era.  I gave the example of members of the préfectoral committee for Kigali-ville.  I saw Habimana, Bonaventure and Gasana, Anastase.  Yet these two people were MDR members, in particular, Anastase Gasana, so how is it that his name is shown on the list, whereas he was an MDR member?  I would therefore like to be shown the documents for the MRND statute.  There was mention of a person who was also a responsable in the commune and representing the MDR party.  
+Q.	Witness UB, you're showing yourself to be a lot less informed about the MRND than your direct testimony.  Now, I want you to look at the document that's in front of you, the copy, which I represent to you is from the official journal, J.O. No. 16 of 15 August 1991.  Do you see that at the very top left-hand side of Exhibit D. NG2A?  
+MR. MORLEY:
+While the witness is looking for that, may I protest very politely and invite my learned friend not to indulge in comment.  The last question was prefaced by the comment, "You are showing yourself not to be very well informed about the MRND, in contradiction to your direct testimony."  It wasn't a question, it was a comment.  I'm not sure why it was thrown out there.  It's the sort of thing that I invite Your Honours to keep an eye on.  
+BY MR. ROBINSON:
+Q.	Witness UB, looking at the photocopy that is in front of you that's marked D. NG2A, on the left-hand side, at the top, do you see the number -- the designation J.O. No. 16, du 15 August 1991?  
+A.	I do not quite follow.  I do not see what you are referring to.  
+Q.	The first page of that document is number 964 in the top centre.  
+A.	Yes, I can see now.  And I would like to say this about the document:  These are the statutes signed and submitted to the ministry of home affairs for the party to be accredited, the MRND.  And once it was accredited, elections were held and certain bodies were set up.  Now, these are the people who signed a document, which document was to be submitted to the ministry of home affairs.  So these are the founding members.  
+After that, bodies were set up based on the statutes we have here, which is why I am saying that these bodies or authorities were set up through an election process during the national party congress. 
+Q.	Well, Witness UB, are you now prepared to acknowledge that when you said that these were the statutes of the MRND as a single party, that that was not correct?  
+A.	Yes, I have just observed this.  And I remembered that the signatories of the statutes were people who had signed the document before we held elections, because at the time Nzirorera was not secretary-general and Mathieu was not president, either.  After the statutes were signed, a congress took place and we elected the various members of the bodies.  I don't understand why you say I do not understand the functioning of the MRND.  I told you I was one of the signatories of the MRND reform party structures -- statutes. 
+(Pages 41 to 54 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+BY MR. ROBINSON:
+Q.	And I take it by now you have seen your signature on this document; correct -- or your name?  
+A.	That is, indeed, correct.  I also believe you are convinced that I was actually a member of the MRND.  
+Q.	Yes, I am convinced of that.  Now, if we could turn to Article 47 of the statutes of the MRND, the part where it's discussing the national congress, we were talking about the composition of the national congress.  So can you find Article 47 again, please?  
+A.	Yes, I have that question before me -- that article before me.  
+Q.	And do you see that there are seven categories of people who comprise the national congress; correct?  
+A.	Yes, that is correct.  I see it in the statutes.  
+Q.	And now that you're seeing the statutes in front of you, are you able to correct the testimony that you gave on direct examination and tell us accurately who the members were of the national congress?  
+A.	I said that participating -- the people participating in the national congress were the members of the party, and it was also attended by presidents at communal level -- party presidents.  Even though this is the title given to the article, I would like to tell you that at the first national congress, there was no deputy, for instance.  We had not yet elected the deputies.  Of course, a provision was there, but when the first congress was held in 1991, there were no MRND party deputies attending that congress.  These deputies were to be elected thereafter.  
+
+In addition, the president of the MRND at préfectoral level had a deputy, but there is no mention of that deputy here.  That decision was taken at the very -- at the same congress I'm referring to.  I am saying that after the congress, the party decided to create a post for vice-president of the MRND at national level.  Unless they are saying that they did not occupy those posts, this decision was taken after the national congress held in 1991, as well as establishment of the executive bodies.  Mention is made of the organisations created by the movement, but by the time the congress was held, they were not there yet.  
+
+So these organisations did not attend the national congress.  The only representatives were representatives at préfecture and communal level.  I wonder whether your clients could provide records or minutes to certify that such and such a member participated.  
+Q.	Well, unfortunately, Witness UB, my clients never -- my client never returned to his office at the MRND after 6 April and doesn't have the records that he had at that time.  So just dealing with the statutes that you have in front of you, would you agree that members who were also members of government, such as ministers and members of parliament, who were members of the MRND, were also members of the national congress?  
+A.	Yes, I can confirm that.  But, in fact, in reality, it was not yet possible, because when the first congress was held, the ministers in question were not yet there.  The organisations affiliated to the movement were not there either; although there was a provision for that in this article.  
+
+I give you another example.  There was supposed to be a creation of vice-presidential posts in the MRND, but we don't see any mention of vice-presidents in this article.  It is true that the party was endowed with various statutes, various rules, but reality was quite another thing.  Can we say that there was no discrimination on ethnic grounds?  But we saw that happening in reality.  I am not a legal expert and could, therefore, not fully peruse all the articles.  
+
+Moreover, not everybody got a copy of the statutes.  Even if the MRND was reformed, it still behaved like a single party.  You could have someone like me, a conseiller, sign it.  Do you think all the other signatories signed this of their own free will?  Then you will observe that some withdrew before the international community.  
+
+There was a reformed party, but in reality, it was the same single party mentality.  I am not saying that this statute did not exist, but in reality, it was another matter.  Karemera was vice-president of the party.  Nzirorera was secretary-general.  We elected them to those positions through the congress.  This was done through the congress.  You agreed that the congress had full powers to take such decisions and have them executed.  
+Q.	Okay.  Witness UB, I'm just trying -- you gave some testimony during your direct examination concerning the composition of the various organs of the MRND.  Now, I'm simply trying to take you through the statute so that the information that's provided to the Judges is correct.  So it would be helpful if you could just limit yourself to answering my questions, without going into more elaboration.  If you can try to do that, I think we would make some better progress here with your testimony.  
+
+So let's try to turn to article number 53 and speak about another organ of the MRND called the national committee.  Now, is it true -- 
+A.	All right.  
+Q.	Is it true that underneath the national congress in the hierarchy of the MRND, there was this national committee, some of whose members were actually elected by the national congress?  
+A.	I said that the national congress had elected the president -- or the chairman of the movement.  
+Q.	But the national congress also elected members -- some members of the national committee; correct?  
+A.	There were some members of the préfecture committees who ran for that elections -- for office and were elected.  There were others who were not members of the préfectoral committees but who were also elected.  
+Q.	And is it true that the national committee was comprised of -- that if you were the chairman of the MRND in your préfecture, you were automatically a member of the national committee?  
+A.	I didn't understand you.  Would you be so kind as to repeat that?  
+Q.	Is it true that if a person was the chairman of the MRND for his préfecture, he would automatically be a member of the national committee?  
+A.	They would be a member of the national congress, not the national committee.  But I must say that I didn't study the constitution carefully, but I can say that members of the national committee were elected by an MRND congress -- the MRND national congress.  MRND chairmen, chairpersons for préfectures, could wish to become members of the national committee, and if they wished, then they would run for office.  I think that is what happened during the first congress of the MRND, which was held in 1991.  
+Q.	Well, Witness UB, look at article 53, number 2, and doesn't it say that the national committee comprises the chairmen of the movement in the préfecture?  
+A.	As I can read here, the chairmen of the party in the préfectures and militants are elected for a term of office of five years.  The national committee will design and implement the party's policy.  So there is some confusion here between the national committee and the préfectoral committee and the national congress.  
+
+There are three entities.  When I referred to the national congress, I am referring -- I was referring to the 20 representatives per préfecture.  The national committee is composed of four people who were elected by the national congress so that you must make a distinction between the national congress and the national committee.  I do not think that we are understanding each other on this point.  
+Q.	Well, Witness UB, we're speaking only now of the national committee, and we're looking at article 53.  And I apologise to you.  I realise that you were just a member of the MRND, and I wouldn't have bothered you with this except that you gave testimony during your direct examination about these very matters.  And so I'm undertaking an exercise to provide the correct information to the Trial Chamber.  So please be patient and just bear with us, and we can get through this and go on to more interesting matters.  
+
+But if you look at article 53, can you tell us if, in fact, the national committee includes the chairman of the MRND in each préfecture?  
+MR. MORLEY:
+Before the witness answers, polite protest, long comment, telling the witness that his evidence is incorrect, I respectfully submit we must not do that.  
+BY MR. ROBINSON:
+Q.	Witness UB, let me just repeat my question.  Can we agree that, speaking of the national committee, that the chairman of the movement in each préfecture was a member of the national committee?  
+A.	I have answered the question that was put to me.  I said that the chairman of the movement of the party, in the préfecture, was a member of the national committee.  You know, you mustn't rely too much on the constitution that you see, because in actual fact, people -- there was a lot of jostling.  You could very well elect the chairman of the movement as a member of the political bureau.  I have told you that things were changed due to the circumstances.  Because you have not indicated to me where there was mention of any vice chairmen, for instance.  
+
+The national committee was composed of four people, elected by the congress.  So the chairman of the party at the level of the préfecture was a member of the political bureau, which was the bureau that issued instructions.  These were decisions that were taken to satisfy some members of the MRND party.  
+
+If we were to rely on these -- on the constitution, and if I told you what did, in fact, happen, I do not know what you should take as the truth.  You -- you are talking about the Interahamwe, but you will never see the Interahamwe mentioned in this document anywhere, but we are talking about the Interahamwe.  We are talking about them because the organisation of the Interahamwe was set up.  Well, if you wish, we can go on talking about the statutes or the constitution, but I am telling you what happened actually.  The MRND was still in many ways a single party.  
+
+Of course, I have nothing against the constitution of the MRND, but I gave testimony about what actually happened within this party and the acts that are charged against some members of the party.  It is in that context that is -- that I talked about the party organs at the level of the commune.  There is no mention of a bureau in that case, but I did mention the commune.  
+Q.	Well, can we agree that in actual fact, during the period of 1994, for example, that the national committee of the MRND consisted of approximately 55 members, five from each préfecture, and one -- 
+A.	We elected four people to the MRND national committee, and this was during the national congress.  We elected four people in each préfecture; so it was 44 people.  That did not mean that some members considered themselves to be -- to be de facto members of the préfectoral committee.  You're telling me there were 55 members.  I am telling you that four members were elected for each préfecture.  It is entirely possible that the chairman of the party appointed other members.  That's another kettle of fish altogether.  There were people who looked for positions, who sought positions, who did not obtain them.  Let's not focus on the statutes.  They were -- on the constitution.  
+
+The fact of the matter is that many things were changed.  There were people taking decisions.  I have nothing against the constitution of the party, but I know that it was not complied with.  If that were not the case, then the Interahamwe organisation, for instance, would never have been created. 
+Q.	Witness UB, I'm suggesting to you that, as of 1994, the national committee of the MRND was comprised of 55 persons, four persons from each préfecture, elected by the national congress, and one person from each préfecture, who was the chairman of that préfecture; thus making five people from each préfecture, times 11 préfectures, equaling 55 members of the national committee.  Now, do we agree about that?  
+MR. ROBINSON:  
+I'm told that the French booth keeps saying "65" when I'm saying "55."  So perhaps they can -- we can -- since the witness is not listening to the French, perhaps it's not so important, but I've said "55 members," five-five.  
+BY MR. ROBINSON:
+Q.	So Witness UB, maybe I'll ask you the question again since you're not answering.  Can we agree that the national committee, in 1994, was comprised of a total of 55, that's five-five, members, that from each -- 
+A.	I don't understand the question.  You are there with the secretary-general of the party, and you're saying what the constitution provided, but I am telling you that in actual fact, this is not how it was.  I'm telling you what I saw, and you're talking about something else.  He's telling you about 55 people as members of this commission -- or committee, but things -- the constitution was changed constantly.  What I know is that the members of the national committee were elected; there were four.  If at some point in time they decided to add someone else, well, I have nothing against that.  So they did it.  They decided to do so, as they decided for other people.  But that does not change the fact that I was a member of the MRND.  
+
+In any case, as I know, from what I know of how the party operated, I'll grant you that he knows the constitution very well.  He studied it closely.  But when I decided to become a member of the MRND party, they did not read the constitution to me.  I told you that there was a congress.  There was a préfectoral organ.  I do not know whether that changes anything whatsoever in my testimony.  I am telling you, I'm confirming that Nzirorera was secretary-general of the party, and Mathieu Ngirumpatse was chairman.  I don't know whether you deny that.  Do not look at the provisions of that constitution.  Look at what happened.  Look at the figures of authority.  
+
+I don't think you should go on asking me to -- I don't think you should go on asking me to agree with you.  You should talk about it with your client.  It changes nothing of what happened in this country.  What is more, as party chairman, he knows the party -- he knew the party and changed the constitution as he wished.  I've told you what I know of the party.  You have your submissions, but I do not know whether that will change the situation, especially in respect of the crime that was committed in that country.  
+Q.	Witness UB, I'm trying to deal with the direct testimony that you gave at the request of the Prosecution, and you gave testimony about the structure of the MRND and about the national committee.  If you hadn't given that testimony, I wouldn't be bothering you with this, but you can understand we're here at a trial of the leaders of the MRND.  So it's important that we get the information right.  
+
+So now I'm asking you again to answer my question:  Would you agree that, in 1994, the national committee of the MRND was comprised of four members from each préfecture, who were elected by the national congress, as well as the fifth member from each préfecture, who was the chairman of the party in that préfecture?  
+A.	I confirm that I voted for four people during the national congress.  If subsequently the MRND added a fifth person, well, I don't know anything about it.  Because for Kigali préfecture, there were four people.  We did not add a fifth person.  If that occurred subsequently, it was done in secret.  I have told you that in Kigali préfecture, there were four people, and you're telling me about five.  I don't mind because the national leaders of the party appointed these people.  I know that I voted for four people.  I know that they were members of the national committee.  If a chairman of the party added some in Kigali préfecture, that's their business, but it's only binding on them.  But there were -- this organ existed, whether there were four or five people in the préfectoral committee does not matter.  The fact is that the national committee existed.  That was the fact.  
+Q.	And just one last point on this, Witness UB, if you look at article 53, number 2, would you agree that, from the very beginning of the MRND, the chairman of the movement in each préfecture was a member of the national committee?  You can just answer that yes or no. 
+(Pages 55 to 60 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1730H 
+THE WITNESS:
+I cannot answer yes or no.  It would not give a complete answer.  I don't know whether you are going to succeed in making me change my explanation.  I told you that the MRND militants elected the members of the préfectoral committee.  We have the statutes before us, I agree, but in actual fact things were different.  And we all accepted.  We all agreed to this.  No one objected to these decisions.  Whether there were 44 or 55 members is of no consequence to me.  That is a matter for the party leaders.  What I know is that we elected four people at that -- during that congress.  
+MR. ROBINSON:
+Mr. President, I think I'll leave it at that for now.  You can read the statute for yourself.  
+
+Before we recess, I just want to cite the Trial Chamber to page 7 of the draft transcript of the 
+23rd of February 2006, on line 11 and line 12, to indicate information I didn't have before, where the testimony of this witness was, "Mr. Nzirorera was a member of the commission that was responsible for renovating, as it were, the parties."  
+
+So I'm just giving you that reference, and I suggest perhaps we can take the recess at this time. 
+MR. PRESIDENT:
+Yes, thank you.  
+
+We are going to adjourn today and resume tomorrow morning. 
+MS. HOUNKPATIN:
+Mr. President, just before you adjourn, for the transcript, I think there's a mistake in the date.  I think it was the 23rd and not the 20th of February.  We heard 20th in French, whereas the actual date is the 23rd.  
+MR. PRESIDENT:
+The English -- the English came over as 23rd, so if there was an error, it could be corrected.  Thank you.  
+
+Mr. Witness, we take the adjournment now.  I don't think I need to repeat to you, as I've done on each previous occasion, what your obligations are to the Court during this adjournment.  
+
+We adjourn until tomorrow morning.  
+THE WITNESS:
+Thank you.  
+(Court adjourned at 1732H)
+(Page 61 by Ann Burum)
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Wendy Molnar, Jennifer Spring, Ann Burum, and Karen Holm, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Wendy Molnar
+
+
+___________________________	Jennifer Spring
+
+
+___________________________	Ann Burum
+
+
+___________________________	Karen Holm
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 19
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+
+
+
+JENNIFER SPRING - ICTR - TRIAL CHAMBER III - page 28
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 40
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 54
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 60
+
+	KAREMERA ET AL	TUESDAY, 28 FEBRUARY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 61
+
+	KAREMERA ET AL		TUESDAY, 28 FEBRUARY 2006
+
+ICTR - TRIAL CHAMBER III
+

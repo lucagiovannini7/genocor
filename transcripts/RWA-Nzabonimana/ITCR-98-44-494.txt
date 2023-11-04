@@ -1,0 +1,1352 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+
+
+THURSDAY, 2 SEPTEMBER 2010
+0858H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. John Kiyeyeu
+	Mr. Issa Mjui
+		
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Maria Wilson
+	Mr. Takeh Sendze
+	
+For the Accused Édouard Karemera:
+			Ms. Dior Diagne-Mbaye
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+Court Reporters:
+	Ms. Kirstin McLean
+	Ms. Jean Baigent
+		Ms. Melissa Hook
+		Mr. Joe Reynosa 
+		Ms. Tanya West
+	Ms. Deirdre O'Mahony
+		
+I N D E X
+
+WITNESS
+
+For the Defence:
+FAUSTIN NTILIKINA
+Examination-in-chief by Mr. Hounkpatin (continued)	3
+Cross-examination by Mr. Webster	48
+
+EXHIBITS
+Exhibit No. D. NG107	12
+Exhibit No. D. NG108	14
+Exhibit No. D. NG109	20
+Exhibit No. D. NG110	36
+Exhibit No. D. NG111	36
+Exhibit No. D. NG112	40
+Exhibit No. D. NG113	40
+Exhibit No. P. 519	55
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. KIYEYEU:  
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam, and Judge Vagn Joensen, is now sitting in open session today, Thursday, the 2nd of September 2010, for the continuation of the Defence case in the matter of the Prosecutor versus Édouard Karemera and Mathieu Ngirumpatse, Case No. ICTR-98-44-T.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you.  The appearances are the same. 
+
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Mr. President.  
+MR. PRESIDENT:
+Your testimony will continue under the same conditions that it started yesterday; you remain under the same oath to tell the truth.  And Ms. Hounkpatin will continue her examination.  
+MS. HOUNKPATIN:
+Good morning, Mr. President.  Good morning, everybody.  
+
+Mr. President, I want to go back to the issue of witness protection.  As I said, after verifying the transcripts of the previous case in which he appeared, transcripts of 30th June 2009, it appears that the -- this Chamber waived the protective measures put in place for this witness.  And this was pursuant to article 75(F)(i), where the protective measures, up until that point accorded to the witness were waived.  
+
+Obviously the Chamber did not observe the -- the finer aspects of the provisions of the said rule, but since the Chamber decided to waive these measures on the 30th of June, and all the transcripts are in the public domain, I do not see how we can correct all these -- we can correct this, since the witness does not have any protection.  And that is why you took note of his position yesterday to -- to testify without protective measures, and that's pursuant to Rule 75(F)(i), given the fact that the protective measures put in place for him had been waived since the last time that he testified.  
+MR. PRESIDENT:
+Ms. Hounkpatin, your submissions need a little bit of clarification.  You spoke about an appearance before this Chamber on the 30th of June 2009, and the waiving of his -- or are you referring to another case?  
+MS. HOUNKPATIN:
+Mr. President, I was referring to another case. 
+MR. PRESIDENT:
+Yes, this matter has not come before us, has it?  We have not waived it -- have we waived protective measures, up to now?  
+MS. HOUNKPATIN:
+No, Mr. President.  Your Chamber hasn't done that.  What I'm trying to explain is that another Chamber, which was not the first to -- 
+MR. PRESIDENT:
+Yes, we understand now.  
+
+Do you have a copy of those transcripts?  You used the phrase "waived the protective measures which had been put in place."  But did they -- did they do that?  Did they waive the protective measures which had been put in place in the case in which they had originally granted?  And did they have the jurisdiction to do that?  
+MS. HOUNKPATIN:
+Mr. President, that is the difficulty.  When I read the of -- the Rules of Procedure and Evidence, the Chamber ought to have taken that precaution.  The Chamber that waived the protective measures ought to have done that, but did not do so.  It accepted it after hearing the witness, who decided that they should waive the measures.  I can -- I can give you the transcripts if you wish.  But they are in French.  
+MR. PRESIDENT:
+That is what our understanding was.  So we understand your submission now.  
+
+Okay, Ms. Hounkpatin, this is exactly what we understood yesterday.  And we have decided, proprio motu, to approach the appropriate Chamber to obtain a rescission of the protective measures.  But that does not happen in the blink of an eyelid.  We have to make a written approach and await their written response.  
+MS. HOUNKPATIN:
+Mr. President, when you say "we", is it the Bench or am I -- is it for me to make that request?  Proprio motu; I understand it is the Bench.  
+MR. PRESIDENT:
+It should have been you who did it -- who should have done it, but we think that if we did it, it might expedite the process.  So we've decided to provide that assistance.  
+MS. HOUNKPATIN:
+Very well, Mr. President.  So how then do we continue today?  Do we proceed in the same manner as yesterday with the witness?  
+MR. PRESIDENT:
+Well, the alternative is to call another witness.  If not, this witness has to proceed in the same manner.  
+MS. HOUNKPATIN:
+Mr. President, the next witness who will be called is arriving tomorrow.  So we have no alternative solution, because there's no witness in the wing.  We have a very tight schedule of appearance of witnesses.  The next three witnesses are arriving tomorrow.  
+MR. PRESIDENT:
+You see, well, we will not adjourn for this reason.  If your witnesses were here, we would have allowed you to replace the witness.  We have always said that in terms of trial management, you must have standby witnesses to take effect of problems that may occur during the testimony of any witness.  A witness could get ill; various reasons could occur which creates a problem.  And we expect you to have standby witnesses to fill the gap when that occurs.  But we can't justify adjourning the matter for that reason.  So I think you'll have to proceed under these conditions.  
+MS. HOUNKPATIN:
+Very well, Mr. President.  I understand that we have to provide for all possibilities.  But there are situations where you can envisage all possible problems, but you cannot have the solution.  
+
+I will -- I will proceed under the conditions that you propose, but I hope the Chamber also understands the position of the Defence, that we did not do this deliberately.  
+MR. PRESIDENT:
+We understand that.  That's one of the reasons why we've decided to assist.  
+
+As I indicated to you, the -- once the protection is rescinded, we will unseal this witness's testimony.  
+MS. HOUNKPATIN:
+Very well, Mr. President.  Thank you.  
+FAUSTIN NTILIKINA,
+EXAMINATION-IN-CHIEF (continued) 
+BY MS. HOUNKPATIN:
+Q.	Good morning, Witness.  
+A.	Good morning, Counsel.  
+Q.	We will proceed with your testimony today.  
+
+And, to start with, are you able to tell me if you are the author of La Prise de Kigali et la Chasse de l'Armee du Paul Kagame (sic)?  
+A.	That is true.  That is correct, Counsel.  
+Q.	Are you able to say on which date that book was published, and to tell us what could appear in the summary of the book, what you wanted to depict in this book.  
+A.	The book was published in the Sources du Nil editions in the summer of 2008, June 2008.  
+
+Regarding the content, this is just a testimony that I am giving on this merciless war that ravaged Rwanda and the Great Lakes region in 1990, focusing on the tragedy that occurred during the war in 1994.  At a time that Rwanda was implementing the peace accords, implementation of the peace accords was no longer possible because the day before the assassination of the president, the RPF -- the RPF took up weapons which resulted in chaos within Rwanda and the resumption of the war, which led to what all of us here know, thousands of people killed and others went into exile.  
+
+The other highlight of my book was, two years later on, when the army of General Paul Kagame took weapons to attack and destroy refugee camps, and during the entire year chased them through the forest, massacred them.  It is these two issues that I tried to highlight, relying on what I saw, in the hope that my testimony, or my -- my contribution -- my testimony will constitute a contribution towards the prevention of tragedies.  
+Q.	Thank you, Witness.  
+MS. HOUNKPATIN:
+Mr. Issa, can you assist me.  The document that I am -- the documents that I have prepared for disclosure, document B, which is a photocopy of the cover of the book, and an extract from that book.  At the same time, please give to the witness a copy of another book which is marked C on the list of documents that I have disclosed to you.  That is an extract from the book, Rwanda, L'Historie Secrète -- The Secret History of Rwanda.  The author is Lieutenant Abdul Joshua Ruzibiza.  
+
+Mr. Issa, if you cannot find those, I have two copies here that I can give you to facilitate that procedure.  
+BY MS. HOUNKPATIN:
+Q.	Do you have the two documents, Witness?  
+A.	Counsel, I have both documents. 
+Q.	And I want you to hold on to them.  I have a few questions before we get to the documents.  
+
+Witness, in January 1992 you came back to Rwanda.  Were you present at one point or the other from the 1st October 1990 up until that date?  And, remind us what 1st October 1990 means in the collective memory of Rwandans.  
+A.	I arrived in January 1992.  But I know that on the 1st October 1990 Rwanda was attacked by troops from Uganda attacking Rwanda from the north.  And these troops were in a movement that was referred to as the Rwandan Patriotic Front.  
+THE ENGLISH INTERPRETER:
+Counsel's microphone, please.  
+MS. HOUNKPATIN:
+I am sorry.  
+BY MS. HOUNKPATIN:
+Q.	When you came back in January 1992, what was the situation and what did you do?  
+A.	When I arrived in January 1992 the war was raging on.  And, as I explained to you yesterday, I was transferred to one of the operational zones, a zone that was in the war -- part of the war zone in the north.  That was Kibungo.  Its headquarters was Gabiro, G-A-B-I-R-O.  
+Q.	Were you sent to the war front immediately, or there was a gap period before then?  And, at the same time, tell the Court the important event which led to your transfer to the front, to the war front.  
+A.	I was sent directly to the war front.  I did not have one week to settle down.  But there was (sic) a particular incident.  It is the fact that at the time I had spent one year at the university while my colleagues were involved in the war.  So in the reasoning of the command, I was the fresh element who can support and replace.  So there was no incident that caused my transfer to the war front.  And I told you the war front -- I was sent to the war front, I was in Gabiro in the Kibungo secteur.  
+Q.	Are you then able to tell the Chamber the war -- the war strategy of the opponents, or the opposing army, and the consequence?  
+A.	Counsel, I may not be able to take you through the strategy, because the level at which I operate is not a strategic one.  But what I observed is that -- what I see, as somebody coming from the outside, is the distress of the civilian population who had gathered behind the friendly line, that is -- by that I mean the government lines, who had nowhere to lay their head.  Because the government did not put them any further than the contact line, and they were there, gathered, whole families in tiny huts covered with banana leaves, had no food to eat, no particular care.  And they were scared because the RPF was shelling.  They were shelling.  They would not hesitate to -- they would not hesitate to go behind the enemy lines to attack.   
+
+Rwebare -- there was this camp, Rwebare, which was a camp of about a thousand people that lost about 40 victims following a widespread attack on the camp.  So the war-displaced persons were afraid, they were there, nobody was taking care of them.  They could not have gone back to their farms because those who were there had been sent off.  The farms close to boundaries had been occupied by the army and are part of the RPF-occupied area.  
+
+So, without talking about strategy, what I saw when I got there is what I'm recounting.  It is not in the course of the first week that I was going to be interested in strategy.  Counsel, I don't know if that answers your question. 
+Q.	I believe that answers my question.  Maybe the word -- I misspoke when I said "strategy".  I meant what you saw in relation to the RPF strategy -- tactics when you got on the field, and you explained that the civil population was taken hostage, was suffering shelling, had been displaced from the territory.  And even in their flight they continued enduring the harassment of the RPF.  And then you gave the example of the Rwebare camp.  
+A.	That is the case, Counsel.  
+Q.	The situation of harassment, how long did it last?  And, at the same time, did you observe that there were negotiations with the RPF to find -- to arrive at the ceasefire?  How did things happen?  
+A.	Let me begin with the negotiations.  When I got there, and in fact I followed this even before arriving, that the government and the RPF had -- were engaged, since 1991, in negotiations to arrive at a solution.  But the reality was that these negotiations which, from time to time, gave rise to some lull, the ceasefire was never respected.  And since I was then inside, I was part of the system from January, that was a time that inside the government -- inside the country, a multiparty government had been established because in the meantime the multiparty system had been brought in.  The government took measures to ensure restoration of peace.  The government was established in April 1992.  
+
+But the fighting started with the full intensity in June when the RPF tried to take Byumba.  So there was the process -- there was the peace talks process, because there was also the systematic violation of the ceasefire and the -- and the lull.  The harassment of refugees was also a constant factor in the war.  
+
+When I was in Gabiro, the war was raging on through the months of April/May/June, and with the attack on the -- on Byumba town, there were even more people who were fleeing, more people who had gathered in the RPF-controlled zones which -- for farming activities.  So the harassment continued in spite of the peace talks.  
+
+So, I would not go beyond that period, so as not to go beyond the scope of your question.  But the peace talk efforts were -- were continuing.  The constant harassment of the civilian population also continued.  
+Q.	Thank you, Witness.  At what date was the ceasefire signed in 1992?  
+A.	The ceasefire, which was signed in 1992, was signed on the 31st June 1992.  
+MR. WEBSTER:
+I believe I heard June from the interpreters and July from the witness; if that can be clarified.  
+BY MS. HOUNKPATIN:
+Q.	Yes, Witness, can you clarify what you just said, in June or July?  I heard July, but I think it is important for us to have the same.  
+A.	It was 31st July, Mr. President.  
+Q.	This ceasefire, did they provide for an -- a force -- a peacekeeping force, and was this peacekeeping force set up before the signing?  And who made up this -- this force, this peacekeeping force?  And was it efficient?  
+A.	There was -- the force was a supervisory one of observers, and that force existed before this umpteenth signing of the ceasefire.  But the fact is that this ceasefire came at a time that everybody thought it will be effective.  On the 31st July the agreement was signed to start the ceasefire.  The group of neutral military observers, which was African, had been there since 1991, and even 1992.  But its efficiency -- it was a group of observers, and its efficiency was relative.  They made -- prepared their reports as best they could, which did not seem to, in any manner, concern the RPF.  So all violations, ceasefire violations occurred, whereas this group -- neutral group of observers was present.  
+Q.	Can we then say that, on the government side, the government troops, there was the constant resolve to ensure or to bring about a solution that guarantees peace, and, on the other side, at least in realistic -- in real terms, that is not -- that was not the case and that there was a constant advance of the adversary, or the opponent, and that the government forces were constantly running after them to ensure a balance which they never obtained.  
+MR. WEBSTER:
+One second.  A good part of what Madam Hounkpatin is doing now is not contentious, but some of it is.  So I would appreciate if she would resist testifying herself and leading the witness, and simply ask questions that the witness can answer directly.  
+MS. HOUNKPATIN:
+Thank you for that reminder.  
+
+Let me rephrase my question.  
+BY MS. HOUNKPATIN:
+Q.	Witness, are you able to explain to the Chamber the consequences that you draw from the two positions that you have spoken about?  
+A.	Well, regarding an average officer on the ground, such as myself, there is -- well, a government has just been set up and its prerogatives and -- should I say, its goals include, among others, number one, negotiations.  Negotiations which begin -- in fact, prior to the commencement of the negotiations we got through an attempt to capture Byumba in June, whereas the official discourse from government and its official position is one of engaging in peace negotiations.  
+
+Some RPF negotiators or representatives were in Brussels, as well as representatives of other political parties within the country who were part of the government.  They put together a coalition to work towards peace, and not towards war.  But at about the same time, that very month -- or, around that very time, the RPF felt that the negotiations were actually going to take place and then attacked.  
+
+Beginning from Gatuna, G-A-T-U-N-A, at the border between Rwanda and Uganda, it moves forward, it surges forward and captures one town with all the attendant consequences, namely displaced persons and killings of civilians who, in any event, will no longer be able to remain in those areas because, for strategic reasons, and as this had been observed, the RPF was not going to leave any citizens in those areas.  So that was the first surge by the RPF.  
+
+And, well, the government part had good faith, which must be acknowledged.  But this is what the RPF did, by surging forward even prior to the negotiations.  
+
+Now, if you want me to proceed, let me say that the same thing happened even in July during the negotiations proper, when the RPF reopened hostilities all over again.  So, if we want to compare notes, then we must state that on the one hand government appears to have the good faith to seek peace, and the RPF, on the other hand, is trying to secure territory by capturing as much as possible, even prior to seeking the peace.  
+Q.	Thank you, Mr. Witness.  Did you experience the RPF attack of 8 February 1993?  
+A.	On the 8th of February 1993 I was not present at the attacks, but I had to intervene following those attacks.  I intervened, leading one of my battalions which was on training in the Bigogwe commando training centre, B-I-G-O-G-W-E, that is in the Gisenyi area.  I linked up with that part of the battalion so that we could recapture Ruhengeri, which had been attacked on -- in the night of the 7th to the 8th of February.  I hope that I'm getting the dates right, namely, the 8th of February.  My battalion linked up with other battalions to liberate the city.  
+
+So, Counsel, I don't know whether you have any questions in that connection.  
+Q.	I would like us to turn to the two excerpts that have been circulated.  Your excerpt -- there are the excerpts from your book, and I would like us to turn to page 36.  Please kindly read out the first paragraph of that excerpt.  
+MR. WEBSTER:
+Your Honour, I'm not sure if this is the right way to proceed.  The witness is here to give testimony.  He can testify.  I'm sure that he'll give us the same story, or I assume that that's Missus -- Madam Hounkpatin's expectation.  
+
+But I think it would be preferable to have him testify as opposed to reading his book.  
+MS. HOUNKPATIN:
+Mr. President, I thought that it would be more practical to proceed in this manner.  But I have no trouble with asking the witness to tell us what he observed during that umpteenth breach of the ceasefires.  That is, what he observed on the 8th of February 1993.  
+MR. PRESIDENT:
+Mr. Webster, it's his own book.  It probably would be briefer doing it this way.  And then you cross-examine, if necessary.  
+
+We permit you to proceed, Mrs. Hounkpatin.  
+BY MS. HOUNKPATIN:
+Q.	Mr. Witness, I had asked you to read -- to read out.  
+A.	Counsel, did you say I should turn to page 36?  Well, I begin that paragraph with a question which comes on the heels of another paragraph.  So I don't know whether you want me to start there or could we proceed otherwise?  
+Q.	No, no.  I was talking about page 35.  If we come to the bottom of page 35, beginning with "Throughout the battle front".  
+A.	It's rather page 34, Counsel, if that is what you are referring to, page 34.  
+
+"Throughout the breath of the battle front, the war-displaced persons are the first targets of the offensive, or the attack.  The surprise effect of that attack also enabled the RPF to capture an entire zone where inhabitants were overwhelmed by the fighting and the horrible treatment of all witnesses.  In Ruhengeri préfecture, the RPF troops literally overcome all communes from Kinigi, Nkumba, to Kigombe."  
+Q.	Mr. Witness, please slow down, as requested by the interpreters.  This will facilitate their job.  We have not translated your book into English yet.  
+A.	I am sorry for that.  
+
+"In Ruhengeri préfecture, the RPF troops virtually overwhelmed the inhabitants of Kinigi, Nkumba" -- Kinigi is spelt K-I-N-I-G-A (sic), Nkumba, N-K-U-M-B-A -- "and Kigombe" K-I-G-O-M-B-E "communes.  The inhabitants fled the carnage towards Mukingo and Nyakinama commune.  Those who were overcome went towards Kidaho and Nkumba and were yet killed, and others would survive in the farm -- in the farms.  
+
+"When Ruhengeri was liberated on 11th February 1993, the track record was such that several préfectoral officials were killed, taken unawares in their own homes.  A long list of such officials would include François Barengayabo," B-A-R-E-N-G-A-Y-A-B-O "vice president of the Ruhengeri appeal court; Jean Bosco Munyaneza" -- Munyaneza, M-U-N-Y-A-N-E-Z-A -- "deputy prosecutor at the Ruhengeri appeals court, and his three sons; Thadée Gasana" -- G-A-S-A-N-A for Gasana -- "bourgmestre of Kinigi commune" -- K-I-N-I-G-I for Kinigi.  "Rukasi, Mr. Rukasi," R-U-K-A-S-I "a civil servant in road constructions; Mr. Elasto Ntuyenabo," N-T-U-Y-E-N-A-B-O "a trader at Ruhengeri and Kigali.  Others persons were killed either where they had grouped up in search for security at certain locations, or were abducted from their homes and taken to areas where they were further injured before being killed.  
+"The horrific events would be uncovered during the recapturing of Nyamagumba" N-Y-A-M-A-G-U-M-B-A "and of the piece of land lying to the north of the Ruhengeri-Gisenyi road around the Rwebeya river."  That is R-W-E-B-E-Y-A.  "This discovery would occur during the recapture of those locations by the FAR.  I was there as the commander of the Huye battalion, part of which had taken part in a counteroffensive.  
+
+"In the very dense banana plantation, which also had high -- tall maize and sorghum plants, each piece of property somehow had some dead bodies.  These included persons killed with bladed weapons, irrespective of whether they were women, men, or children of all ages.  And as if death in itself was not enough, almost all the bodies were mutilated, fractured skulls, decapitated, or disembowelled bodies, which point to the horror of the activities.  Brand new membership cards of the MDR were placed on the dead bodies.  MRND cards were torn and scattered all over the farms where the dead bodies were strewn.  At least 400 dead bodies were discovered on a stretch of some 300 kilometres from the north towards the Ruhengeri préfectoral office."  
+Q.	I thank you, Mr. Witness.  
+
+You have before you, Witness, another document authored by Abdul Joshua Ruzibiza.  Do you know this author, or have you heard mention of him?  Do you know this author, or have you heard mention of him?  And are you familiar with this book?  
+A.	I know -- or, rather, I am aware -- I have not seen this author, but I have heard mention of him.  I have read through his book.  
+Q.	His book also narrates -- well, you have read out a narration of government's version of the February 1993 attacks.  This author also writes on the 1993, February, attacks, from an RPF soldier's point of view.  So I'm asking you to turn to page 184 -- I'm sorry, page 186, I was mistaken; page 186.  At the very top of the page, beginning with:  "Let us revisit the criminal actions of the 59th mobile".  And there are three paragraphs in there.  I would like us to read from the top of that page to the sentence ending "in mass graves."  
+MR. WEBSTER:
+Your Honour, I don't think that this is the most appropriate way to proceed with the witness, to have him simply read a book published by someone else.  
+MR. PRESIDENT:
+Ms. Hounkpatin, we -- we have difficulty at this moment.  This is not his book, he doesn't know the author.  We don't see how we could allow it.  
+MS. HOUNKPATIN:
+Very well, Mr. President.  I will read it out myself.  
+MR. PRESIDENT:
+(Microphones overlapping) 
+MS. HOUNKPATIN:
+(Microphones overlapping)... can I -- can I read the excerpt myself, if the witness is not able to?  
+MR. PRESIDENT:
+But for what purpose?  You are not giving evidence.  What you say is not evidence on the record.  
+MS. HOUNKPATIN:
+Of course I'm not giving evidence, Mr. President.  
+MR. PRESIDENT:
+So why would you want to read it?  
+MS. HOUNKPATIN:
+It was important, Mr. President, for this excerpt to be read by the witness.  And I am somewhat surprised that the Prosecutor would object to the witness reading this excerpt, because even yesterday a number of texts which were not authored by the witnesses were read in this court, even if they do not support the case of each party.  I am therefore somewhat surprised, because I am looking through this exercise at parallel descriptions of the same event, and I thought that it would be important to proceed in that manner at this juncture.  
+MR. PRESIDENT:
+Yes, so, basically what you are doing, you're asking him to read this to corroborate his own evidence.  Is that the purpose of him reading it?  
+MS. HOUNKPATIN:
+Yes, Mr. President. 
+MR. PRESIDENT:
+But that's exactly what is not permitted.  
+MS. HOUNKPATIN:
+If it is not permitted, then I will proceed, Mr. President.  
+MR. PRESIDENT:
+Yes, please.  
+MS. HOUNKPATIN:
+Mr. President, therefore I would like to produce the excerpt that the witness has already read out into evidence.  
+MR. PRESIDENT:
+Certainly.  That's admitted in evidence.  
+MS. HOUNKPATIN:
+Mr. Issa, please kindly give the witness a -- one of the maps in the bundle I gave him.  Map number 4, offensive of 4 February 1993, area captured by the RPF.  This map is an excerpt of the book written by Mr. Ntilikina on the capture of Kigali. 
+MR. PRESIDENT:
+Mr. Issa, could you first advise us on the exhibit number, please.  
+MR. MJUI:  
+Thank you, Your Honour.  The document will be D. NG107, one-zero-seven.  Thank you. 
+MR. PRESIDENT:
+Thank you.  
+(Exhibit No. D. NG107 admitted)
+(Pages 1 to 12 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1000H 
+MR. WEBSTER:
+Your Honours, let me clarify something for the record so that there's no confusion.  I'll bring it to the Court's attention and remind Ms. Hounkpatin that the entire book that she wanted to use with the witness has been admitted in evidence as a Defence exhibit.  I think it's D. NZ556.  I don't want to mislead.  I -- I just checked it myself.  I thought that only excerpts had been admitted, but the entire book was admitted.
+
+But my objection still stands.  It's still not appropriate to take an already admitted document and use it to -- to coax the witness through his testimony.  
+
+I think the more appropriate approach is for Ms. Hounkpatin to use the book in her final submissions, and she can argue the points that she tries to raise through the witness.  
+MR. PRESIDENT:
+Ms. Hounkpatin, if the whole book is already admitted, then it's quite unnecessary to admit this -- just this extract.  We -- we --
+MR. WEBSTER:
+I'm sorry.  I'm talking about the last objection that we've -- when we were discussing the book by Ruzibiza, I had objected to the way that Madam Hounkpatin was -- was proceeding.  And when I sat down, I tried to go through the admitted exhibits and I recog -- I realised now that the entire book by Ruzibiza is already in evidence as a -- as a Nzirorera Defence exhibit.  It's D. NZ5 -- 556.  
+
+So I wanted to clarify that for her benefit and for the Court's benefit.  But my objection is still appropriate.  So I'm just indicating that. 
+MR. PRESIDENT:
+Thank you, Mr. Webster.  That is clear.  
+
+I'm sorry, Ms. Hounkpatin. 
+MS. HOUNKPATIN:
+Yes, Mr. President, that is clear.  I had not understood why Mr. Webster was backtracking while we had already moved forward.  I thought maybe he was objecting to the witness making any comments on the map number 4 -- map number 4 in the bundle, which is an excerpt from his book.  
+
+So now I understand, Mr. President.  All is very clear.  And I think we can proceed with the witness making a few remarks on the -- on the map.  
+THE WITNESS:
+The 8th February 1993 attack had the consequence, first of all -- capturing a territory, which is marked on the map and indicated in the legend as a buffer area.  All that portion fell to the RPF during the 
+four days of fighting.  
+
+Another consequence is the displacement of populations of people who found themselves beyond 
+that -- behind those lines.  By that, I mean the government side.  The people were sent from the shaded area towards the government area.  
+
+So the people gathered along the line, with the biggest group in that place marked with the black triangle which, in the legend, is rep -- is indicated as being the camp of Nyacyonga displaced -- the camp of displaced persons at Nyacyonga.  
+
+The map is just a sketch, particularly in respect of the triangle.  But the triangle was located at 20-25 kilometres from Kigali, and the number of persons in that camp exceeded 500,000 persons -- and that exceeded the population of Kigali at the time.  
+
+Now, coming back to the buffer zone, that buffer zone was part of the negotiations that followed the second ceasefire, that is, the ceasefire that follows the reopening of hostilities, (inaudible) and the control of the neutral group of observers and people were urged to go back that.  
+
+But going back there with just a group of neutral observers did not yield any results.  The RPF on the ground continued controlling that zone.  What I did not say is that, following the negotiations of the 8th February 1993, the RPF accepted to retreat to its initial position, but that the government forces should also remain in their positions.  Those are the comments that I can make on map number 4.  
+BY MS. HOUNKPATIN:
+Q.	Thank you, Witness.  
+MS. HOUNKPATIN:
+I would like to enter this map -- and be marked D. NG108. 
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NG108 admitted)
+BY MS. HOUNKPATIN:
+Q.	Witness, are you able to explain the humanitarian situation and the consequences -- the political consequences that the 8th February attack generated? 
+A.	From the humanitarian standpoint, I think I anticipated on that by commenting on map number 4.  It is this exodus of refugees which invaded the government zone, and the distress, the insecurity which prevailed in the buffer zone where there was no police, no security forces.  The -- there were killings of bourgmestres, administrative authorities.  There were ambush -- some were -- were ambushed, and -- and the problems this occasioned close to Kigali -- about 20 kilometres outside Kigali. 
+
+	From the political standpoint, the RPF offensive, in violation of the ceasefire, was an important threshold --  
+MR. PRESIDENT:
+Yes.  Could the witness speak a bit slower for the recording of his testimony.  
+BY MS. HOUNKPATIN:
+Q.	Witness, I know these are very fresh -- or memories that are very fresh in your memory, but maybe you could go over -- 
+A.	I'm sorry about that.  So let me go over the political -- the aspect relating to political parties.  
+
+I was saying that the February 1993 offensive, in violation of the ceasefire, marked a turning point in the internal political life.  That -- because -- after recalling that in April 1992 a multiparty government was established -- that some politicians, particularly from the opposition, found this as an opportunity to entrench democracy which, according to them, had been usurped during the one-party system.  
+
+Some leaders of those parties thought that the RPF had a hidden agenda.  That -- negotiations were ongoing in 1993.  They resumed the offensive; they even attempted to take Kigali, and they did not give any possibility to those populations who were only asking to -- who only wanted food to eat and to stay at home.  
+
+Those politicians desolidarised (sic) themselves with the trend that -- that operated with the RPF -- and these were some of the members of the PSD and MDR who said, "War is not what we want when we went into alliance with the RPF.  So let's go for war" -- "let's go for peace, and democracy will come later on."
+
+The RPF wanted the opposite.  They went for war, and through that, to establish democracy; and secondarily, go to -- move towards peace.  Those politicians were saying that, "We will disassociate ourselves from this movement.  We want peace and then democracy subsequently."  It was at that 
+stage -- at that period that there was some kind of dislocation within the -- the political parties and in the government as well.  That is the major consequence.  
+
+Within the party the government side realised that the RPF was not of good faith.  They wanted to capture territory and then peace will follow later.  
+Q.	During that period, did you observe that some political leaders were suffering the consequences of 
+this -- of -- of the fact -- the fact of being conscious?  Their -- their being aware of the situation?  And were there political assassinations? 
+A.	I spoke about political assassinations in the buffer zone, but there were also political assassinations in Kigali.  It was at that stage that Mr. Emmanuel Gapyisi -- I'll spell -- G-A-P-I -- P-Y-I-S-I.  I don't know if you've noted that, G-A-P-Y-I-S-I.  Gapyisi.  It was at that time that he was assassinated.  The investigations led to nothing.  There was a -- dysfunction in the court systems as a result of the political situation and the war.  But eventually, everybody got to know the perpetrators were the RPF.  
+Q.	Please tell the Chamber if, at the same time, the peace talks went on and whether that led to an agreement. 
+A.	The peace talks started again on the request of the Kigali government -- that is, our government -- with what was -- with an agreement that was signed in Dar es Salaam.  The negotiations started again, and the agreement was signed on the 4th of August 1993.  
+Q.	What are the provisions of -- what did this agreement of August 1993 provide for? 
+A.	The August 1993 peace accord is divided into various chapters or sectors.  It dealt with power-sharing.  In general, I noted the establishment of a national army.  There was the return of refugees and the giving back of properties to various persons.  There was a chapter on rights.  I don't know if I've got it all, but those three areas -- the army, power-sharing and the return of refugees -- were part of the agreement.  
+Q.	Did you observe that the peace accords -- there was -- they had started implementing the 
+peace accords?  
+A.	In the agreement, there's provision for the modalities of implementation.  It was provided that it be implemented 37 days following the signing of the agreement, but there were some precon -- preconditions -- such as, the establishment of a UN force for assistance to Rwanda; the coming of an RPF-battalion to provide security to party authorities at the administrative level.  
+
+There was also preparation.  And under the army there were a number of chapters -- a number of things to be done prior to the formation of the national army.  And all those had to lead to the establishment of a government, a parliament, which was to ensure the transition provided for in the peace accords.  
+
+I can leave it there, and if I have not answered your question fully, you can remind me.  
+Q.	Well, I wanted to know that -- for the implementation of the peace accords, were there committees that were set up?  How were these committees set up?  Did the committees start operating? 
+A.	Yes, that was the case.  The accord -- the peace accord had the effect of law.  And since I am a former soldier under the army, under the chapter on the army -- since the law had been signed, the command started work.  
+
+There were a certain number of things, such as, the identification of demobilised persons; the appointment of a high command -- members of the high command, which went to the government side; the rules governing the new army, because the RPF and the government forces were not the same and they were going to be fused together.  All those committees started their work.  I can only talk about the chapter on integration of the armed forces and that from the government standpoint.  
+Q.	The -- did the agreement provide for the arrival of the RPF in Kigali, and did that happen? 
+A.	Yes, that is so.  As I've just said, the agreement provided that, prior to the establishment of the 
+transition -- transitional institutions, the RPF was going to have a battalion in Kigali.  And that battalion arrived on the 28th December 1993, a little later than the 37 days provided for, but it arrived on the 28th December 1993. 
+Q.	To the best of your knowledge, please tell the Chamber what was the state of the army -- the 
+Rwandan army at that time. 
+A.	I'm sorry, Counsel.  Can you clarify, because if you say "the state of the army", it is difficult to describe the army under all its -- in all its various aspects.  
+Q.	To be clearer I want to know, first of all, the army, in the light of the peace accords, had it started demobilising troops?  The state of weapon stock?  Anything required to sustain a war, if ever there was a violation of the agreements, if the situation of personnel and material -- personnel and materials were present? 
+A.	Following the signing of the peace accords, the minister of defence gave the staff headquarters -- or issued directives to the staff headquarters to go into -- to start with the implementation of this chapter relating to the army.  At that time, we're not thinking about war.  So we were not thinking about the munition -- ammunition stock.  
+
+The staff headquarters set up committees.  There were people who went from Kigali to go and see their future brothers for -- in Kimera (sic) for the implementation of the new rules.  Within the staff headquarters, we were wondering how to move from 20,000 troops to 7,000 troops, which is provided for -- how to go from 20,000 to 7,000.  That is the question that the committee was examining.  
+
+We were wondering who was going to represent the government's arms section.  So the 
+ministry of defence had the government sign -- a government decree signed to indicate who will be chief of staff, who will be his deputy, group commanders.   All these were measures being taken by the staff headquarters and the chief of staff.  
+
+And all these pursuant to the implementation of the peace accords, which was belated.  Remember, that it provided for 37 days.  The UNAMIR had come a few weeks earlier.  In the delay there was -- there were delays in the implementation schedule, but everybody thought we should remain on that course -- or in that course.  
+Q.	In your answer you said that the UNAMIR had arrived in December.  
+A.	Well, I did not specify December.  I said some weeks earlier than the 28th.  I cannot recall the date, particularly since they came in stages.  First, there was the commander of the mission -- and I cannot recall the dates.  There were contingents that came from Belgium, Tunisia.  I cannot say exactly when.  
+
+But -- but the coming of the RPF battalion could not have happened before the arrival of the UNAMIR.  That is why I was saying that I could not be specific about the arrival of the United Nations mission.  
+Q.	And do you briefly recall UNAMIR's mission -- the mission assigned to UNAMIR? 
+A.	As indicated in its name, it was an assistance mission for the implementation of the Arusha Accords, to facilitate and be the intermediary for contacts -- to be the intermediary for contacts between the two parties.  And, at the same time, to be the guarantor -- the representative of the United Nations and the countries that supported this agreement.  I will not go further without going into the text.  
+Q.	But are you able to confirm that UNAMIR controlled the arms depots, and how did this happen in practice? 
+A.	In the various duties of the UNAMIR, it is true that it had an armed section.  They supervised the delicate point of integration of forces to move from one government to the other -- or the belligerents from -- and this was delicate, particularly since there was fighting going on.  And in that context, the first thing to do, which was part of the UNAMIR mandate, was to ensure security in Kigali.  
+
+In Kigali, there was the RPF battalion; there were government troops, and UNAMIR had to position itself between the two to ensure that they do not cross a certain line.  In that context, since you're talking about weapons, there was a zone that was referred to as a weapons consignment, and in that zone, it was the UNAMIR that controlled movement.  
+
+More concretely, the government side should have all its weapons locked up within premises that can be locked under security and guards.  But the UNAMIR was represented in the camps to supervise 
+that -- to ensure that they were observed.  
+
+I would imagine that, on the side of the RPF battalion, the instructions were the same because this is provided for in the accords.  They had a camp, and that camp was under the supervision of the UNAMIR.  The United Nations mission had that role.  
+
+On the government side, there were indications that they had started.  And even before the arrival of the UNAMIR battalion, it was provided for that weapons should not be in circulation.  And UNAMIR undertook that task initially, and then -- and then followed by inspections on the government side and the RPF side.  This took place to ensure the application of the provisions of the agreement.  
+Q.	Was UNAMIR exercising the same type of control -- supervision on the RPF side? 
+A.	That, at least, is what we, on the government side, expected.  But the facts proved that this was not the case.  There were complaints from the armed forces command at that time accusing the opposite side from -- of bringing weapons from Mulindi, in the occupied side, towards Kigali, going through control -- government control points.  
+
+Normally -- and all the time, since there was UNAMIR escort, the UNAMIR guaranteed -- for example, on entries into Byumba -- on those occasions that the Rwandan armed forces command requested to check the tracks, they said that UNAMIR -- they -- they refused and turned back, and UNAMIR can only escort them back and undertake another mission.  
+
+This control mechanism existed.  But I did not -- I'm -- I'm not saying that at the time the RPF respected these measures.  And in hindsight I can confirm -- I can assert that the RPF never, never, ever respected those provisions.  But it's only in hindsight.  
+
+In December-January, there were reports, but these were given to the UN forces who were there to ensure that there were no breaches.  
+MS. HOUNKPATIN:
+Mr. Issa, can you assist me.  
+
+Mr. President, I'm being told it is 10:30 and it's -- 
+MR. PRESIDENT:
+(Inaudible) 
+MS. HOUNKPATIN:
+Very well, Mr. President.  These are my two minutes of yesterday.  
+
+Mr. Issa, can you please give map D -- that is, map number 5 to the witness so that he can make his comments.  
+BY MS. HOUNKPATIN:
+Q.	This is an administrative map -- and the main military camps before April 1994.  
+A.	Following the arrival of the RPF in Kigali, the military position is indicated on this map, indicating that their military camps -- that is, cantonnement for military personnel.  If I start from the centre, in the centre you have the shaded portion with the RPF marked "CND".  That is the Rwandan parliament where it was agreed the RPF should establish its battalion.  
+
+To the east there is the UNAMIR.  That was their headquarters with a cross in a rectangle.  And then you have the small black rectangle.  If you move more towards the east, you have the Kanombe military camp, which housed a number of units, including a battle unit which was the paracommandos.  
+
+Towards the north you have Kami, that is, a battalion of the military police.  You have the -- the scale 
+of -- the scale down there.  
+
+To the west of Kami, you have Jali.  It was not a battalion.  It was just a gendarmerie company.  
+
+Towards the south around Kicukiro, it's a gendarmerie camp.  Opposite the CND, the place marked "Kimihurura", K-I-M-I-H-U-R-U-R-A, was the camp of the Presidential Guard.  
+
+Directly to the west, under Nyarugenge, N-Y-A-R-U-G-E-N-G-E, is the Kigali military camp where the military arm -- military staff headquarters was located.  And a bit to the north you have 
+Rugenge-Muhima.  It's a military camp -- a gendarmerie camp which was referred to as the mobile unit.  
+
+And then you have Nyakabanda.  Mont Kigali is a rectangle, just as the others.  That was the Huye battalion which was -- which had been part of Kigali since June 1993 as a sector -- as a sector command, together with another battalion, which is in the Byumba area and were part of the 
+Kigali command -- a sector that I have not spoken about.  But which, following the RPF attack of 8 February, and because the RPF was less than 30 kilometres from Kigali, the military command reviewed its logistics to -- to the north of the country.  
+
+The review is -- an establishment and created a command, because the war was moving towards the capital.  So that was not a military camp.  It was just a cantonnement, but the UNAMIR inspected it 
+as a -- as a -- as a camp, but it was under the military -- the Kigali military camp.  
+MS. HOUNKPATIN:
+Thank you, Mr. President.  I would like to enter this document as D. NG109. 
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NG109 admitted)
+MS. HOUNKPATIN:
+Mr. President, you owe me three minutes. 
+MR. PRESIDENT:
+Okay.  We start our mid-morning recess.  
+(Court recessed from 1035H to 1100H) 
+MS. HOUNKPATIN:
+Thank you, Mr. President.  
+BY MS. HOUNKPATIN:
+Q.	Witness, regarding UNAMIR, I want you to explain to the Chamber how they carried out the control of weapons depots and the mechanism for guaranteeing this -- this control -- these checks, if you have any knowledge of that. 
+A.	Regarding the control of weapons, the commander of our army, that is, the commander of the 
+armed forces, presented to the UNAMIR the situation in the military camps indicating what they could find in each camp.  Based on that and given the fact that Kigali -- and given the fact that it concerned -- weapon consignment consigned -- concerns Kigali, UNAMIR set up in each camp a post representing UNAMIR, which controlled the entry and exits of weapons.  
+
+Now, the representative of this post -- of the representative of UNAMIR -- knew where the 
+weapons depots were located and had agreed with the command -- the command that, for normal missions of guarding the weapons -- they knew at what times weapons left the depot and who they were meant for.  
+
+So the movement in Kigali with weapons was not allowed -- that is to say, there was no unit from the front.  If there's a unit coming from the war front to Kigali for rest, this should be reported to the 
+mission -- if they have to come in with weapons.  So the mechanism for control rested on that post.  
+So they had to check what was indicated as being available in the camps and then to -- to check if there has not been any change in relation to the previous situation.  This movement was carried out with teams of UNAMIR and representatives of the command -- the army command.  
+Q.	Are you able to explain to the Chamber the reasons for which the Rwandan armed forces supported the Arusha Peace Accords? 
+A.	What motivated the Rwandan armed forces to support the accords was the fact that, first of all, it was an agreement signed by the government.  It was signed on the 4th August.  It's a law.  It's part of the constitution.  The motivation, first of all, is the law.  The fact that it was a law in force -- the motivation, if that is intended, to lead from a war situation to a peace situation.  
+
+The armed forces -- 
+
+The command found an exit -- and let me remind you that the war had been raging on for three years.  And at the outset, the RPF was at the border.  Now, we're in August 1993.  The RPF is no longer at the border.  They have territory, which I have indicated on the map.  They occupied this territory and they had -- they demonstrated in February 1993 that they're able to advance.  
+
+The RPF was about 30 kilometres from Kigali.  And that was frightening -- frightening the military command that was taken unawares -- one, by the military surprise; and secondly, the fact that since July 1992, after signing the peace accord, the army no longer recruited into the army because we had started the peace effort.  
+
+So the government decided -- and were right to do so -- that you cannot keep on arming yourself when you're seeking peace, and that was the reasoning.  And the army command after many -- after various analyses accepted it.  So the army did not recruit and did not procure further armaments and ammunitions.  
+
+I talked about a redeployment of the military set-up, but since the negotiations continued in the months that followed, the army did not request for the additional recruitment of weapons.  In its thinking -- and in the policies of the government -- the army found it as a motivating factor to support the government.  First, it is constrained by this agreement that the government has signed, and they also knew that the RPF was capable -- the RPF had demonstrated that they were capable of attacking.  
+
+The peace effort -- peace was the only viable option and honourable for the Rwandan party.  
+Q.	Witness, what you have just said, was that also the idea of the staff headquarters?  You referred to the Rwandan armed forces, but I think you relied on your own analysis.  
+A.	The staff headquarters, as representatives of the command, can only adopt this analysis.  This analysis I'm conducting with hindsight, but that explains how, following 4th August 1993, the staff headquarters and the command of the Rwandan armed forces started the implementation of the Arusha Accords.  
+
+They had four months to think over it.  The hostilities took place in February.  We were in August.  The possible redeployment of the military set-up did not solve the problem of the morale of the troops.  It did not resolve the problem of reduction in troop numbers.  It did not resolve the problem of acquisition of new armaments.  So the way to peace, if we could get to that solution, would be the best for that command and the staff headquarters.  
+Q.	Please tell the Chamber if this wish -- if this wish for peace was also the wish of the population that were suffering the -- from the activities of the RPF. 
+A.	The answer that I have just given reflects the military aspects.  But the population in a town like 
+Kigali -- Ruhengeri, Byumba has about 1 million people, about half the population of Kigali -- who have nothing to eat and were waiting for the peace, and the government, as a responsible government, cannot say "We refuse peace."  The government cannot want to pursue with war because the 
+armed forces could not even advance.
+
+And there was the misery that was all over.  There was insecurity which was a direct consequence of the war.  War cannot bring anything positive, neither for the government nor the government forces.  
+Q.	You made reference to insecurity.  Are you able to describe what that represented at the time prior to the 6th April attack? 
+A.	Insecurity in Rwanda at the time manifested itself in various forms.  I cannot talk about all of them, but let me take them one at a time.  
+There was insecurity, which was due to the war situation, where since 1990-1991 -- and there was a proliferation of weapons and prevailing poverty.  There was also armed criminal activities in Kigali and other towns.  It was the consequence of the proliferation of weapons in the country.  
+
+The RPF, in places such as markets, bus stations -- there were explosions of mines and grenades.  And in the zones occupied by the RPF, there were assassinations in the portion that they occupied, targeting basically the communal authorities and political leaders.  
+
+Within the government area there was insecurity as a result of inter-party -- inter-party struggle.  This was not necessarily -- did not necessarily take the form of armed confrontation.  But some 
+political parties wanted to recruit -- went on a membership drive by trying to fight the opponent.  
+
+So that period going from February to July 1993 -- or the end of March 1993, created a situation of insecurity.  I have not said everything.  During that period, there were assassinations of persons, like Gatabazi, Bucyana, and that was initially attributed to armed gangs.  The investigations were not conclusive.  The judiciary was not operational.  So criminals were able to carry out their activities and normally go unpunished.  
+MS. HOUNKPATIN:
+Mr. Issa, can you assist me to give to the witness map number 6, Kigali military situation in the morning of the 8th April.  And that is marked E.  
+BY MS. HOUNKPATIN:
+Q.	Witness --   
+MS. HOUNKPATIN:
+It is marked I.
+BY MS. HOUNKPATIN:
+Q.	-- in April 1994, what was your -- what function did you occupy?  What was your function? 
+A.	In April 1994 I was secretary at the staff headquarters and that -- since January 1994.  
+Q.	Please tell the Chamber your activities at that time.  
+A.	These were secretarial duties.  I came to the secretariat, and I'd taken a function that did not -- that virtually did not exist previously, where the staff headquarters wanted to free itself from the routine of messages and mails by placing -- under its direct authority so that mail would go through the secretary, which was not the case previously.  
+
+Mail from the outside would go through the secretary -- the secretary, who'd open it, read it and forward it, if it does not require a decision or go through the records and find the necessary reference, which was not the case previously.  
+
+In the same manner, mail from the staff headquarters would go through the secretariat and they'd collate -- again, a situation that did not exist.  This service was established in January 1994, and this was in anticipation of what was expected when the command of the new army was going to have a chief of staff and a deputy.  We did not exist at the time and this as a fusion of the former belligerent forces.  
+
+So I wanted to take care of this activity, which had been extended in relation to the secretariat that existed previously and that existed since the '60s.  
+Q.	Where were you on the 6th of April 1994?  And are you able to tell the Court how you got to know about the -- the attack that led to the death of the two heads of states who were aboard the presidential plane and also the death of other persons? 
+A.	In the afternoon of the 6th April, I went to the office -- it was a Wednesday, just to see if there was no urgent mail because Wednesday afternoons was set aside for sport.  I came back to Remera where I lived -- Remera is R-E-M-E-R-A -- more specifically, opposite the CND.  
+
+I decided to do some jogging from 1500 hours.  Then I took a shower and went out into the neighbourhood -- to the neighbourhood, and I remained there until 2200 hours.  
+
+At 2200 hours on my way -- when I go home, somebody -- well, I mean, my houseboy, who was a domestic servant, told me that he had learnt -- he had just learnt that there was a plane on fire.  
+
+I did not say -- I did not make any comment in particular because a plane on fire -- well, I did not link that to the head of state's mission, which included the -- which included the chief of staff.  So let me say sheepishly, I just went to bed.  
+
+In the morning around three, I heard shots from the CND -- sustained shooting, assault rifles and heavy weaponry.  Now, that intensity of firing was unusual.  We were used to hearing grenades explode here and there, but this -- this was rather sustained.  So I linked that to the plane on fire.  
+
+And that is when I switched on my radio.  And there was music, and since normally, at that time of the night there is no broadcasts, I understood when there was music that there was a problem.  I did not have a telephone at the time, and there was firing opposite my house.  I put the children in a sheltered place because there could be stray bullets.  
+
+So I waited till dawn to be able to go out and look for a telephone, and that is how I got a confirmation from the staff headquarters -- from the officer on duty.  
+
+First of all, I had an informant who was with me who gave me the information that the president was dead following an attack -- that is, the two presidents and their entourage.  That -- it is following that that I asked the officer on duty to send me a vehicle with an escort so I can go to work -- and also if I quit (sic) my children, because we were less than 300 metres from where the firing was coming from, that is, the CND.  
+(Pages 13 to 25 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H 
+BY MS. HOUNKPATIN:
+Q.	You were able to put your children in a safe place and managed to get to the staff headquarters? 
+A.	That is the case.  From Remera I took a back road to Kicukiro.  Kicukiro is K --  I went through Kicukiro instead of going through normal routes to Gikondo, which is G-I-K-O-N-D-O.  I left the children with an elder sister who lives in Muhima -- M-U-H-I-M-A -- before going towards the roundabout and to the staff headquarters. 
+Q.	Approximately at what time did you arrive at the staff headquarters and what did you do? 
+A.	I got there around 6 a.m. on the 7th.  I did nothing in particular, except that I found a letter on my desk which routinely would go through the secretary of the staff headquarters before going to the chief.  But this time round the chief was not there.  I looked at the copy that should be put in the folder of the chief.  
+
+But what I understood was that during the night -- during the night there was a meeting involving a number of officers who took -- who decided to appoint an acting chief of staff -- decided to hold a meeting in the course of the day of the 7th at the École supérieure miltaire.  So there was a communiqué, or an announcement, which was a copy -- or a copy of which was placed on the chief -- on the desk of the chief giving the information.  It was informing the population about the death of the president following the attack and urging them to remain calm and remain at home.  
+Q.	During that morning, did you at any time leave the staff headquarters?  And if so, where did you go?  And did you attend the meeting you referred to a brief moment ago? 
+A.	At about 8 a.m. I contacted late General Nsabimana -- the chief of staff's wife.  Nsabimana is spelt N-S-A-B-I-M-A-N-A, Déogratias.  He died in the same plane.  So I called his wife and offered my services to her in terms of escorting her to see the remains.  She told me that she had been waiting for that offer from the -- for that opportunity.  
+
+So from the headquarters I went to Kiyovu, one vehicle for myself and another vehicle for her.  And we travelled back through Gikondo, Kicukiro, up to Kanombe to the presidential residence, which is further on from the airport and the military camp.
+
+After dropping her off, I left her off there.  I returned and went to the ESO where the meeting had just started and I passed by that meeting.  I attended the meeting and left after the meeting, returning to the headquarters. 
+Q.	At about what time did you reach the U -- the ESM meeting premises? 
+A.	I do not have the details, but I can remember the chronology of events.  
+
+When I arrived the meeting had already started.  It is only during the summary of the meeting that I was informed that the meeting had started at 10 a.m.  All I can remember is the chronology of events.  I got there when the meeting had already started.  People were already seated.  The -- those chairing the meeting were already in their seats.  And I sat in the -- one of the seats.  But the meeting started, and I must have gotten there at sometime after 10 a.m., but I cannot be more specific than that. 
+Q.	Can you tell us those who attended that meeting, as far as you can recall?  Who were you able to recognise among those attending the meeting? 
+A.	Those who had been convened to the meeting were clearly mentioned on the message which I had read at the office in the morning; namely, commanders of the operational sectors and commanders of the Kigali units.  
+
+When I got to the meeting General Ndindiliyimana was in front, Colonel Bagosora was in front and General Dallaire was in front.  I was able to recognise some of the officers who spoke, namely, 
+Felicien Muberuka -- M-U-B-E-R-U-K-A -- and others.  
+
+The hall was virtually full.  About some 50 or 60 persons were in attendance. 
+Q.	Did you notice any civilians or political figures in the hall?  And if so, could you mention their names? 
+A.	I did not notice any civilians in attendance. 
+Q.	I was wondering if you saw any political leaders in attendance.  And if so, kindly mention their names given that you stated that you did not see any civilians.  
+A.	There were no politicians in attendance.  I can say this categorically.  There were no politicians convened -- or invited to that meeting. 
+Q.	Did you know the political leaders at the time?  And I'm asking you to tell the Court whether you could identify them physically.  
+A.	I knew some of them, but I'm convinced that there were none, because those who were in the hall -- on the first row of benches or seats were soldiers.  So I came to the conclusion that there were no civilians because there couldn't have been any civilians in military gear at that meeting.  
+
+I got into the hall from the back.  And what I saw was a series of military uniforms.  And when we exited from the meeting, I did not see any civilians either.  What I can say is that I did not know any -- or, rather, I did not know all political leaders, but what I am certain about is that there were no persons dressed in civilian attire in the meeting hall. 
+Q.	Were you present when the meeting came to an end and what were the findings, conclusions and recommendations of the meeting? 
+A.	I attended the meeting up to its end and the main resolution.  After being informed of the discussions that had taken place after the head of state had been killed, the main resolution of the meeting was to set up a committee which was identified and named at that -- at that very meeting as a crisis committee and whose job was to contact the various politicians with a view to filling the vacuum that had been created with the assassination of the head of state.
+Within the context of that resolution, the idea was to bring politicians to work together to fill that vacuum in order to work towards returning to the effort of setting up the transitional institutions.  That was the decision or the release -- or the resolution which was reached -- or which were made after various discussions and contacts between Bagosora and the commander of the UN forces in Rwanda and the special representative of the United Nations Secretary General to Rwanda.  
+
+And we were also told that these recommendations reflected the Desiderata of the godfathers of the peace accords, namely, the ambassadors of France, US and Belgium.  So the main resolution was the creation of this crisis committee made up of a set -- of number of officers. 
+Q.	Are you able to give us the composition of the crisis committee, Witness? 
+A.	No, I am not able to give you the composition for fear of making a mistake, so I cannot provide names.  In any event, I am sure that Ndindiliyimana was in it, Rwabalinda was in it and a number of officers as well who were selected to try to establish contact with politicians and then move on to try to bring them together, so that the politicians themselves can find a solution to the political vacuum that had occurred at the helm of the state so that the politicians themselves can head the move towards a solution.  And that was a specific mandate which was given to them which ultimately led to the creation of a government, I believe, on the 9th of April. 
+Q.	When did you leave the ESM?  And where did you go from there? 
+A.	I left the ESM, that is, the military academy, after the meeting.  And again I'm not in a position to tell you the exact time.  But upon leaving the ESM, I returned to the staff headquarters, some 200 metres away from the venue of the meeting. 
+Q.	As you moved about on the 17th of April, did you notice any roadblocks that may have been set up?  And as far as you can recall, can you tell us the locations at which those roadblocks were situated and who was manning them? 
+A.	In the morning, at about 6 a.m., when I arrived at the staff headquarters, I went through a roadblock at the Hôtel des Mille Collines.  That roadblock was manned by soldiers probably from the reconnaissance battalion, because I saw an armoured vehicle there which I recognised.
+
+Then, on going back to Kanombe with the wife of the late General Nsabimana, I also passed below -- or at a level below that roadblock and then ran into a roadblock at Remera -- R-E-M-E-R-A -- at Giporoso, which is a roundabout just before the airport.  Giporoso is spelt G-I-P-O-R-O-S-O.  And that is just before the airport.
+
+That roadblock is something which was hastily put in place by persons of the paracommando unit not far away from the airport, so this roadblock was manned by soldiers.  And upon my return that roadblock was in place and I went through that roadblock and through the roadblock at Hôtel des Mille Collines.  
+That is what I saw in terms of roadblocks in the morning of that day. 
+Q.	Upon your return to the staff headquarters, what happened?  At what point did the fighting resume? 
+A.	When I returned to the staff headquarters, I went to the operations room to find out what had been --transpired during the three hours in which I had been absent.  
+
+So I was seeking to find out how things had developed.  There was nothing new.  The officers who had come in were asking the same questions.  They looked at the same mail.  They had the same remarks, and particularly they wondered as to what would happen next.  They were concerned, particularly given the little information that was available, so everybody was wondering what was going to happen.  And people chatted about all manner of issues.
+
+Then the fighting resumed.  And one could say that the chief of staff or the general staff -- the staff headquarters was jolted at about 3 p.m. when a walkie-talkie that was used by the command office of the Kigali-ville secteur, that channel was open for communication in order to be aware of what was going on.  
+
+This walkie-talkie was in the operations hall.  And about that time the commander of Kimihurura camp, where the Presidential Guard battalion was lodged, announced on the network that the camp had come under attack.  The camp had been attacked.  And that was the message over the walkie-talkie.  The camp had been attacked by the RPF which was in a position opposite to the camp.  
+
+I don't know whether you still have the first card which indicates the positions of the camp which are on the Kimihurura hill.  So the distance between the two camps is about 200-300 metres.  This is the information which we got at that time.  
+
+Kimihurura was a hill opposite the staff headquarters.  So we could hear mortar firing.  We could hear huge explosions and grenades and there were the classic sounds of an attack which began to ring out again, just as one might have heard something similar at the battle front, particularly, the true battle front in Mutara or Ruhengeri.  So war had then actually started in Kigali town proper. 
+Q.	What did you do at that time?  And what measures did the Rwandan army -- the FAR -- take at that time? 
+A.	The high command of the Rwandan armed forces and the general staff, as the highest body, worked with other subordinates.  And once a camp has been attacked, and there has been such a breach in the truce that had been in place since 1993, then the general staff must take note of such an incident.
+
+Now, the sector commander for Kigali was directly involved in this matter because it was within his secteur.  
+Now, as for the general staff, it would have to wait for more details.  And the only thing that the 
+general staff could do at the time was to ask the sector commander on the same radio frequency to do everything possible to ensure that the movements at the Camp Kimihurura do not extend to the airport.
+
+So one could not have known how far things were going to go.  But the instruction from the G3 of the general staff was to ask the sector commander to do everything possible to halt that movement or that attack from spreading to the airport.  That was a measure taken to defend the vital points. 
+Q.	Now, Mr. Witness, I believe that the registrar placed before you card number 6, referring to the military situation in Kigali in the morning of the 8th of April.  Before you make any comments about this map, would you kindly tell the Court whether you were able to return to your home from that time on? 
+A.	No, Counsel, I did not return to my home. 
+Q.	How much time did you spend at the staff headquarters? 
+A.	I remained at the staff headquarters, and I virtually lived there until I left the staff headquarters when I was assigned to a battalion, which I have already mentioned. 
+Q.	Very well.  Now, can you give us your comments and remarks on that map which reflects the military situation in Kigali in the morning of 8th April?  The document was previously circulated and I believe that the -- all parties have copies of these maps.  
+A.	Shortly after 5 -- after 3 p.m. the RPF moved out of the CND and attacked the Kimihurura camp, which was a short distance from the RPF base.  
+
+At about the same time, and as you can see on the map, you can see a little indication as to what the situation was like that morning.  But I'm talking mainly about what happened in the afternoon.  After 3 p.m. they attacked the camp and went on the road towards Kanombe and got to what is generally known as Chez Lando, which is a roundabout.  Lando, L-A-N-D-O.  And some 300 metres further on, they were at the headquarters of UNAMIR and then on to the Amahoro stadium where the UNAMIR reserves were stored.
+
+Now, this is what happened in the afternoon.  Those areas were therefore captured, because they were taken unawares.  And the RPF remained in those positions throughout the night and continued to expand further to the west occupying Hôtel Méridien and the Royal Faysal hospital.
+
+During that very night, the RPF from the CND linked up with other RPF troops from the north.  An officer had called the headquarters from Kabuye to indicate that those RPF forces were moving downwards, and that you can see to the top left of the map.  Kabuye, K-A-B-U-Y-E.  
+
+And that officer who was in that area called at 5 p.m. to indicate to the general staff that some persons had arrived as civilians and had been identified as war-displaced persons during the day, but had ultimately gathered together and took -- and had taken on their uniforms and had taken over the Catholic parish in Kabuye.  And that they were at the head of another column of RPF elements who were moving towards the CND.  And all of that linked -- they are all linked up during the night.  So there was infiltration by these RPF forces in that manner.  
+
+And on the morning of the 8th of April -- you see that the little pocket from Hôtel Méridien to the Amahoro stadium, and which moved up towards Kimihurura camp to link up with the troops from the north through an extended corridor running from Kagugu in the west to Kinyinya in the east, as you can see to the left of map number 6 which I am talking about.  
+Q.	Now that you have given us an overview, please would you kindly move to map number 7, which appears to be a representation of the military situation on the 12th of April.  
+MS. HOUNKPATIN:
+Mr. Issa, would you please provide that map which is labelled "F" in red ink, number 7. 
+MR. WEBSTER:
+Is there an intention on the part of the Defence to put number 6 in evidence?  Because it's a -- I'd prefer if we do it incrementally because I have some concerns about it and I'd rather address it before the witness goes on to the next incident. 
+MS. HOUNKPATIN: 
+Yes, indeed, Mr. President.  I would intend to produce this map into evidence.  But I would rather that the witness look at the two maps together before I produce them. 
+BY MS. HOUNKPATIN: 
+Q.	Mr. Witness, I believe that you have the map of the 12th of April before you.  Do you?  
+A.	Yes, I do. 
+Q.	What are your remarks about that map in respect of the RPF movements during those four, five day -- those four, five days?  Is it -- rather, four days.  
+A.	On the 8th the armed forces -- the Rwandan armed forces and the Kigali town command tried to ward off the adversary to Remera.  In Kimihurura things were a little more difficult.  In Remera there was a clash with the paracommando battalion, unsuccessfully.  To the west, soldiers from the Huye battalion working with the Kami camp tried to cut off reinforcements, but failed at the end of the day.
+
+So on the 8th of April, the occupied area increases and there would be firing at Kimihurura and at the Kacyiru camp, to the extent that on the morning of the 9th the RPF was already at the very entrance to the Kacyiru military camp.  
+
+The troops that had come from the north from Kabuye went on a tarmarcked road, that is, the Byumba road, right to the capital.  The army tried to intercept them using troops from a neighbouring secteur in Lurendo -- L-U-R-E-N-D-O -- but were not successful.  
+
+It was at Gatsata -- G-A-T-S-A-T-A -- that all these things happened.  But all the attempts to recapture territory failed.
+
+Now, if we turn to the map of the 12th of April, you can see the area that is from Gatsata right to Nyabugogo -- N-Y-A-B-U-G-O-G-O -- and towards Byumba and Ruhengeri, Gitarama and Butare and Gisenyi.  That roundabout was under enemy fire.  Camp Kacyiru was under siege from the 9th.  At the Camp Kimihurura nothing had changed.  But at Lando and Remera roundabouts, the RPF had progressed right to the road from Kanombe and the road going to Bugesera, B-U-G-E-S-E-R-A.  So that pocket reflects the road that moves further on to indicate the area that was occupied by the RPF.
+
+In the meantime Mount Rebero, otherwise known as Rebero, the horizon.  Rebero, R-E-B-E-R-O.  That was -- that was a hill which is one of the highest in Kigali.  And the RPF soldiers from the CND had proceeded through various infiltrations to link up with those from Nyamirambo -- to link up without any direct contact with those from the CND and thereby creating a very strategic cover for the overall area that the RPF had been occupying.  
+
+So this is what is reflected in that pocket on the map in terms of the RPF occupation of territory in Kigali town. 
+Q.	Thank you, Mr. -- thank you, Witness.  
+MS. HOUNKPATIN: 
+I would like to enter the map marked E, and it will be marked D. NG110.  And map F, D. NG111. 
+MR. PRESIDENT: 
+It will be admitted.
+
+I'm sorry.  You would like to object. 
+MR. WEBSTER:
+Not necessarily object, but I'd like some clarifications before it actually goes into evidence.  
+
+The indications were the witness spoke of infiltrations of the RPF, which appears on both maps and is -- and which he -- he gave some information on in his testimony.  
+
+My query is:  Was that information he was getting back on the 8th and 9th and 10th of April?  Or is this something that he has reconstructed after events?  And what was the source of his information?  Were -- was he getting reports from people on the field?  Or how does the notion of the movement of the RPF troops come to his attention, in particular, in order to put it on this map.  
+I'm assuming that these are coming in -- these maps are coming from his book.  So if Ms. Hounkpatin could clarify that, then I may not have any objection. 
+MS. HOUNKPATIN: 
+Either we carry out an examination-in-chief together with the Prosecutor, or my understanding would be that he will conduct his cross-examination to clarify these issues.
+
+I don't know what he wants.  Is he attempting to help me do my examination-in-chief?  And then what will he do later?  
+MR. PRESIDENT: 
+Ms. Hounkpatin, it's a reasonable enquiry and it would be of interest also to the Bench in terms of admitting these documents.  The source of this information is pertinent to the admissibility of the maps.  So I thought that it would be much easier -- instead of having an objection, it'd be much easier if the matter could be clarified.  And you'd be in as good a position as anybody to clarify it through the witness. 
+MS. HOUNKPATIN: 
+Mr. President, since this -- the document is admitted and my colleague is not challenging that admission -- but anyhow -- 
+BY MS. HOUNKPATIN: 
+Q.	Witness, are you able to explain to the Court how the information appearing on this map got to you? 
+MR. PRESIDENT: 
+Well, the other alternative that we would like is to defer the admission of the document until after re-examination and cross-examination.  So if you prefer it, we can do it that way and allow Mr. Webster to conduct his cross-examination and then maybe rule on the question of admissibility.  So we defer the admission of those two documents. 
+MS. HOUNKPATIN: 
+Mr. President, I was going along with your order -- your instruction.  And the witness was ready to answer the question and that would save us some time. 
+MR. PRESIDENT: 
+Yeah, the witness is always ready to answer that question, but we're arguing about nothing.
+
+So let's proceed with the case, please. 
+MS. HOUNKPATIN: 
+Very well.  However, I do not understand your decision which changes the earlier decision. 
+MR. PRESIDENT: 
+Ms. Hounkpatin, we have -- we consider that the source of the witness's information as to the notations that he put on the map is pertinent to the issue of admissibility.  If you clarify it, then we could admit the documents now.  If you don't want to clarify it so that it'll be done in cross-examination, then we'll address that question after the cross-examination of these issues.  It's very simple. 
+MS. HOUNKPATIN: 
+In that case, let me go back to the witness and ask him to indicate the source of the information put on the map and which he has just commented upon.  
+THE WITNESS:
+These maps are extracts from my book.  They constitute part of my testimony of what happened during that period.  Am I to understand that I should continue and answer the question put by the Prosecutor?  
+BY MS. HOUNKPATIN:
+Q.	Yes.  
+A.	Now regarding the map -- 
+MR. PRESIDENT: 
+As a matter of propriety, you're not really answering the question put by the Prosecutor.  The Prosecutor had requested Ms. Hounkpatin to clarify the matter with you, so in theory you're asking her. 
+THE WITNESS:
+I understand, Mr. President.
+
+The line indicating infiltration, going from the top left-hand corner of the map, on page 46, and which you have marked E, that information came from Rwandan troops who were dispatched to Cyamutara -- Cyamutara is Y-A-M-U-R-A-T-A (sic) -- to fend off or at least to monitor -- following the phone call of that officer, to monitor the movement of those armed personnel that were identifying Kabuye.  They passed the night there and remained in the operational zone.  
+
+The other information is from Camp Kami, which is linked to the same network, and which monitored what was going on in Kabuye and whom -- who during the night reported on what was happening on -- in the valley.  Kami is on a hillside.  
+
+The valley where I had put the dotted line coming to the CND dominated by Camp Kami as a battalion, they had to send monitoring units towards Camp Kabuye.  But the troops from Kabuye, or from the north, cannot pass unnoticed along that route.  We're not talking about two, three persons.  They did not say it is a battalion, but it's a number of people moving towards the CND.
+
+And the following day, that is on the 8th, the operational sector of Kigali town reacted, requested Camp Kami and troops of Kami, who were initially at Mount Kigali, not to stay there.  But they were dispatched to monitor and cut off that column that was moving on the 7th of April, the evening of that day, since there was no sign of enemy in the valley.  
+
+The morning of the 8th there were RPF combatants who occupied that position, and that there's no other way of referring to that as an infiltration to position troops, but also to guarantee that the corridor is open, and my confirmation was that that corridor was open in the morning of the 8th April 1994.
+
+Regarding the next map, I've put two dotted arrows, one going from Nyamirambo, south-west of the map.  Nyamirambo is N-Y-A-M-I-R-A-M-B-O.  And another one from the CND going to Rebero.  There as well the troop positions by Nyamirambo can be seen.  I could see them from Camp Kigali.  These are people who went from Nyamirambo, did not go directly to the CND, but they positioned themselves along -- on the side of the hill because -- but -- because there was forces of the UNAMIR and there was also a detachment of the -- a detachment of the Rwandan forces.
+
+Now, the attack on the small post of the anti -- the ground-to-air forces was from the bottom.  And these troops were those that were seen from the hilltop from Nyamirambo going through Kimisange -- K-I-M-I-S-A-N-G-E -- towards Rebero.  
+
+The other arrow from the CND is what I was referring to on the 12th.  These are troops who left with white vehicles of the United Nations.  
+
+But there was also a group that left from the CND going through Gikondo, using vehicles belonging to the former generals of Rwanda.  And they moved -- making victims along the way where 
+civilian populations had roadblocks, destroying some of them -- and continued to Rebero.  
+
+And this situation I present is the 12th.  So these two infiltrations on map F and those on map E, I believe, I've given my source of information.  
+Q.	I have a follow-up question on this.  This situation that you describe, does that -- did they -- did that go all the way up to the staff headquarters where you were in the course of the 12th? 
+A.	Yes, that is so, Counsel. 
+Q.	This then is information that you gathered yourself which enabled you to draw up this map.  
+A.	This is information that is within my knowledge for having been within the premises of the staff headquarters for four days following nothing but these combats.  And on that basis, I was able to draw up this map which I came up with in 2008.  
+MS. HOUNKPATIN: 
+Mr. President, at this stage I would like to confirm my request for the admission of these maps and marked as I indicated earlier. 
+MR. PRESIDENT: 
+Yes, we confirm the admission.
+BY MS. HOUNKPATIN:
+Q.	Witness, based on the maps -- 
+MR. PRESIDENT: 
+Mr. Issa, you better just confirm the numbers for the record, please. 
+MR. MJUI:
+Thank you, Your Honours.  
+
+Map number 6 is D. NG110, which is marked with a red marker pen as "E".  And map number 7, which is marked with a red marker pen "F", is D. NG111.  
+
+Thank you, Your Honour. 
+MR. PRESIDENT: 
+Thank you.
+(Exhibit No. D. NG110 admitted) 
+(Exhibit No. D. NG111 admitted) 
+BY MS. HOUNKPATIN:
+Q.	Witness, please indicate if at the same time at the staff headquarters whether you got information regarding what was happening in town, that is, information on the killings, looting -- in the course of those days.  
+A.	The information that got to the staff headquarters in the afternoon, or in the late morning of the 17th, talked about killing of political leaders and the killing -- the massacre of the civilian population.  
+
+In some kind of reaction following the death of the president, in some neighbourhoods of Kigali there were people who were not acting on the biddings of any authority -- on instruction of any authority, but who came out of the neighbourhoods -- that is, the neighbourhood that they lived in -- erected roadblocks to prevent the movements of persons or groups of attackers who were reported as attacking citizens.
+
+This situation developed very quickly.  I was talking about late morning, late -- the latter part of the morning.  These outlaws were making the law in the neighbourhoods and the staff headquarters was informed, first of all, by phone calls in the beginning and then later on in the evening by reports that was giving the security situation, reporting on a chaotic situation which was becoming -- which was becoming destructive.  
+
+The movement was becoming worse.  And in Kigali neighbourhoods there were killings, looting in the neighbourhoods.  And then later on people who were moving to Nyaconga camp -- there were these movements that were -- people were moving in the neighbourhoods and people who were being killed in the neighbourhood, so I had information on this as well. 
+Q.	Was there a solution put forward to contain this chaotic development? 
+A.	At the outset, that is early afternoon of the 7th April, at the staff headquarters, we thought of requesting the gendarmerie territorial brigade to intervene.  The extent -- it was not very extensive and not very visible, so we first resorted to these brigades.  
+
+In the evening we had already been informed that the movement was increasing.  The chief of staff held a meeting -- held a meeting and the commander of Kigali got together to fend off this -- these excesses.  
+
+At the same time, they talked about a front that had opened at Kimihurura, and at that time it engaged only the Kimihurura camp and the paracommando troops that had been dispatched to that area.  
+
+But on the 9th, Camp Kacyiru had been attacked and gendarmerie brigades in Kicukiro, which were threatened -- those of Remera.  The Remera brigade had already been overrun.  So the violence was increasing in the government area.  And the intervention forces within the capital found themselves progressively blocked by the attack or the movement of the RPF.
+
+After the first four days -- first four days leading to that day, there was chaos leading to the evacuation of the government itself because the front got to the doorstep of Kigali, at the same time as the pocket that I showed you on the 12th.  And in the neighbourhoods of Kigali, no one knew who was in charge, but the result was that people were stopped, killed.  Some people are attacked in their homes and the result was the same. 
+Q.	On the 12th -- well, before then, are you able to say at what time the government was set up and what happened subsequently?  Did the government intervene to contain these excesses? 
+A.	The government was set up on the 9th April, that is, two days following the attack on the presidential plane and two days after the resumption of hostilities.  In its mandate there was what was considered to be a breach in the peace talks, but -- and the war had started and there was this violence.  So the government comes into power with two things, war and violence, on its -- to deal with.  I believe the first concern of the government was to stop the hostilities and to stop the violence in the order that they themselves would choose.  But they were the two, stopping the violence and stopping the hostilities. 
+MS. HOUNKPATIN: 
+Mr. President, may I suggest we take -- we adjourn because it is 12:31. 
+MR. PRESIDENT: 
+We take our luncheon adjournment now.
+(Court recessed at 1232H) 
+(Pages 26 to 37 by Melissa Hook)
+
+
+
+(Court resumed at 1404H) 
+MR. PRESIDENT:
+Good afternoon.  
+
+You may continue, Ms. Hounkpatin. 
+MS. HOUNKPATIN:
+Good afternoon, Mr. President.  Good afternoon, everybody. 
+BY MS. HOUNKPATIN:
+Q.	Good afternoon, Mr. Witness.  
+A.	Good afternoon, Counsel. 
+Q.	When we adjourned you had started giving us answers regarding the fact that the government tried to put an end to hostilities and violence.  Now, I would like to request you to complete your answer by being concise and brief, please.  
+A.	When I talked about the government, I would like to remind you that the government had been set up on the 9th, so I was talking about the intentions and the mission of that government.  But in concrete terms, I should have talked about what I felt at the general staff where I was.  General Gatsinzi was the chief of staff -- he was the acting chief of staff since the 7th.  When he got there in the evening of the 7th, he contacted several people and received the information which I have talked about. 
+
+One of the first recommendations based on such information was that contact should be re-established with the RPF through the United Nations Mission in Rwanda represented by General Dallaire.  On the following day, General Gatsinzi established contact mechanisms in order to tell the RPF that we should stop hostilities, because, as I said, violence was getting worse and the -- there was intensifying combat which really stretched the Rwandan armed forces.  
+
+So what I saw is that on the 12th of April, regarding that situation, what I saw is that in all neighbourhoods and areas, in other words, in all areas held by the government forces or which were under government forces, we saw killings increasing.  On the other side, that is, in the areas occupied by the RPF, we heard about what was happening there, particularly in the first neighbourhood, Gishushu, Remera, Nyasindi (sic), and then there was Nyacyonga, which was the biggest inlet of people coming into the city and could not be contained given their state of mind.  But it seems that a contact had been established between Rwandan armed forces and UNAMIR, and we had hoped that our adversary would stop hostilities and go to the negotiating table. 
+
+So after the 12th of April, we noticed that there was a stalemate, and a major UN decision was impending in that the UN forces were to leave.  So the hope of normalising the situation gradually weakened.
+THE ENGLISH INTERPRETER: 
+Mr. President, could the witness spell -- give us the spelling of certain neighbourhoods?  
+BY MS. HOUNKPATIN:
+Q.	So, Mr. Witness -- 
+MR. PRESIDENT:
+There is a request for the spelling of certain neighbourhoods.  
+MS. HOUNKPATIN: 
+Very well.
+BY MS. HOUNKPATIN:
+Q.	Mr. Witness, could you please spell Gishushu, Nyacyonga?  I think you mentioned Remera.  That's not a problem.  
+A.	Gishushu, I'll spell that, G-I-S-H-U-S-H-U.  It's an area next to the CND (sic) camp at CND.  Nyacyonga is N-Y-A-C-Y-O-N-G-A. 
+Q.	So on the 12th of April there was a total stalemate.  What symbolised that impasse which faced the government which had been sworn in? 
+A.	At that time we were not talking about a total stalemate, but we realised that we were increasingly being overwhelmed.  We were losing hope gradually.  The government that had just been sworn in left Kigali and set up camp or base in Gitarama, because Kigali was being threatened -- or, rather, the general assessment of the situation is that the enemy was getting closer.  There was Gasyata where the enemy was getting near Gasyata.  This is a major crossroad between the north and west of the country.  It was under RPF attack.  So the government decided to leave Kigali and go and set up base in Gitarama, and that included people surrounding the government, that is, secretary generals, chiefs, heads of departments who could no longer work. 
+
+So Kigali was abandoned and it became a major battlefield with all the implications and consequences with regard to normal security services, because you had the army and the gendarmerie, which had been under siege as from the 9th.  And you had heads of communes and préfets, they were there, but at the same time they were not there.  So the government left on the 12th of April. 
+Q.	Witness, can you tell the Court whether it was on the same day that you went to -- you left the headquarters, that is, the general staff, and changed posts? 
+A.	No, Counsel.  I was still at the general staff up to the end of the month.  I left the headquarters at the beginning of the month of May.  So I was talking about the 12th of April. 
+Q.	It is true.  So you left much later.
+MS. HOUNKPATIN:
+Mr. Issa, can you please assist me?  
+BY MS. HOUNKPATIN: 
+Q.	We are going to wind up the exercise regarding comments on the maps and your work.
+MS. HOUNKPATIN:  
+Mr. Issa, can you give the witness map H and G -- J, maps 8 and 9. 
+BY MS. HOUNKPATIN:
+Q.	So that, Mr. Witness, can you confirm under what conditions did you receive information which allowed you to draw up these maps compared to the previous ones?  Was it under the same circumstances or had there been a change? 
+A.	With regard to map number 8, which is dated 21st of April, I was still at the secretariat of the army headquarters, the general staff, so I had the same source of information.  So the general staff was actually a central position for receiving information. 
+
+Now, regarding map number 9, I had taken up command of a battalion and it was -- the last map dates to 3rd July.  That was just a day before Kigali was totally surrounded.  So -- and I was running out of all assets.  My battalion was one of the rare battalions which had remained there.  We had been involved in fighting, and we had been there even in May.  Other areas had fallen; whereas, the remainder of my units came and regrouped near the outskirts of the city where we exited through. 
+MS. HOUNKPATIN:
+Mr. President, I would like to refer the two maps, H and G.  For G, it will be D. NG112, and H will be D. NG113. 
+MR. PRESIDENT:
+Admitted.
+	(Exhibit No. D. NG112 admitted) 
+(Exhibit No. D. NG113 admitted) 
+BY MS. HOUNKPATIN:
+Q.	Mr. Witness, can you confirm, when were you at the war front -- up to when were you at the war front? 
+A.	I took the command of a Huye battalion from the 5th of May -- or, around the 5th of May.  So it was after the month of April and probably around the 5th of May. 
+Q.	I would like to deal with you -- we would like to look with you the situation -- talk with you about gangs which sought terror.  Were you aware of gangs which were looting and killing people?  Did you notice whether they were being controlled by a political party, and specifically MRND? 
+A.	No, Counsel.  
+Q.	Did you observe that roadblocks were being manned both by soldiers and by civilians? 
+A.	The checkpoints which I passed through or next to them were checkpoints which were manned exclusively by civilians. 
+Q.	Can you describe what was the composition of the civilians who were manning the roadblocks and those checkpoints at that time? 
+A.	The roadblocks which I came across on my way going to and from work were limited between the general staff and Nyamirambo in Kigali near Kimisange, near Mount Kigali, before I went to Kicukiro with the battalion.  Kicukiro is spelt K-I-C-Y-U-K-I-R-O (sic).  Those roadblocks, as I said, were manned by civilians and they were manned by people who were supposed to be from the neighbourhoods which we were going through and which were supposed to be an extension of the roadblocks which had been set up even during peacetime when there was security in Kigali in order to check armed banditry.  
+
+	So if you leave Kigali centre to go to Nyamirambo and get to the public transport office, there was a roadblock.  And further, just near the gendarmerie station, towards the market, there was another one.  And there was another one towards Kicukiro, because, as I had said, I was there at the beginning of May.  There was one at the crossroads where there was a petrol station, at the crossroads leading to Kimihurura and another one leading to Kanombe.  So those roadblocks were being manned by civilians who, when I got there, would allow me through.  Let us remember that we were still in May. 
+
+And in May, the war front was at Kimisange on the lower side of Rebero.  The front had reached the industrial area in Kicukiro.  The people who were afraid fled.  And there were people who fled but were killed at roadblocks, particularly the ones on the outskirts of the city. 
+
+So when I passed through those roadblocks, I saw that there was a state of excitement, and there were people who were excited.  But when we soldiers got there, they would open the roadblock.  So when I got there, they would open the roadblocks.  
+
+I do not know whether I have answered your question, or would you like further clarification?  
+
+But most of those people were young people. 
+
+Now, in the background of the tragedy of the massacres, I cannot claim that I went to every place.  But what I can tell you is that on my path, in May -- up to May, the situation was not calm.  People had fled.  The composition of the population was not the same.  The violence on those roads reflected the shells falling in inhabited areas where people dispersed.  But, otherwise, there was no -- much movement.  So, otherwise, the situation was no more or less open, if I can put it that way. 
+Q.	Can you tell the Court whether civilians manning the roadblocks were Interahamwe -- or, rather, 
+	MRND militants and members? 
+A.	I don't know, Counsel.  I can't know that. 
+Q.	Those civilians have been described as Interahamwes.  At that time was it possible for one to identify them as being members or militants of the MRND? 
+A.	At that time those civilians, that is, in the period in question, we were not talking about Interahamwes.  I prefer talking about youths, thugs, who did not have necessarily an identity which is attributed to them.  Because we knew who the Interahamwes were.  The Interahamwes were a youth wing of a 
+	political party.  We were not talking about youths of a political party as such.  They were thugs.  They were not answerable to any visible authority.  And at the general staff, we asked party leaders to try -- we could have asked party leaders to check the situation, but that did not happen. 
+
+But then there was classical civil defence to check armed banditry, but the civil defence, in less than 24 hours, degenerated and resulted in an explosion.  So instead of them apprehending people who were breaking the law and take them to the gendarmerie, they would settle scores on the spot.  They would attack people.  They would loot.  They were not answerable to any authority. 
+
+So if we talk about Interahamwes at that time, that will be a false -- something that is false.  We at the battalion noticed that there were people who were there.  They did not have any specific information.  They were not of a specific age, apart from seeing that they were young, under 30 years old.  But I cannot identify them as being Interahamwes, and, therefore, I cannot say that they were Interahamwes as such in that they were not a militia or the youth wing of a party. 
+Q.	Mr. Witness, you commanded several battalions.  You were based in several military camps.  Can you tell the Trial Chamber whether the young members of MRND, including Interahamwe za MRND, received -- or, were trained militarily by the army?  Because there are witnesses who testified here that there had been training -- military training stations in Gabiro, in Mutara, in Gishwati, in Nyungwe, and even in Kigali city.  Can you please help us enlighten the Trial Chamber in respect of what you know about those training sessions? 
+A.	I lived in Gabiro from January to April 1992.  I was in Nyagatare, in Mutara from May to June 1992 as operations commander for that sector.  I took over the command of the battalion in that same sector up to December 1993.  The same battalion provided some training from December 1992 to February 1993 at the Bigogwe commando training centre where I joined them after Ruhengeri city had been attacked in February. 
+
+I worked in Kigali in January 1994 at the headquarters and I became a battalion commander.  I never saw Interahamwes at the places where I have mentioned.  I never saw or heard about Interahamwes being trained in those places. 
+Q.	So your answer means that the army did not train Interahamwes? 
+A.	To my knowledge, in those specific areas, in those -- in those periods of time, I did not hear or see the training of Interahamwes.  
+
+Now, when I was at the general staff, which was a central position, I can say that I am categorical that there was no training of Interahamwes at the period where I was at headquarters. 
+Q.	Were you informed of distribution of weapons to Interahamwes za MRND by military authorities? 
+A.	No, Counsel. 
+Q.	When you were at the general staff, did you hear about such distribution weapons by the army headquarters? 
+A.	No, Counsel. 
+Q.	If such distribution had taken place, would you have necessarily been informed of that? 
+A.	If weapons had been distributed in a context -- in a normal context -- and, anyway, you can never have such a normal context.  But in the logistical structure and in the logistical order, along which lines we operated, distribution of weapons or even the removal of weapons from an armoury should have gone through the G4 department with the approval of the army's chief of staff.  That is the circuit which I am saying should have been followed.  And if that had happened, I would have known about it. 
+
+Weapon distributions would have been difficult or even impossible in view of the situation governing the logistical offices.  So the whole thing is that weapons were kept by the ordinance platoon.  The weapons distribution situation came to me regularly at the G4 service at the general staff.  And during meetings of the general staff, we received logistical situation update, as well as information regarding the operational situation on the ground.  
+
+Therefore, if you look at the logistical situation, there would have been a problem, and that problem concerned supplies of war materials.  Since June 1992, after the ceasefire accord, the government did not order anything -- did not want to order anything.  There was no recruitment.  There was no supply of weapons.  And the weapons which were in battalions, which had not been demobilised, those weapons still belonged to individuals. 
+
+So, logically, I would have known when weapons were removed, if weapons were there.  But the thing is that I am saying that I am sure that at the ordinance platoon there were no weapons. 
+Q.	Thank you, Mr. Witness.  Now, let us deal with the issue of civil defence.  What recollection do you have of the civil defence?  What was the reason for -- or, the reasons -- what were the reasons for having the civil defence?  And did the civil defence movement act, or did it -- was it actually set up? 
+A.	I am sorry, Counsel, I would like you to be a little bit more specific.  You see, the concept of civil defence can be confused with the other concept of self-defence.  You see, you need to be specific in terms of time frames because this concept evolved over time and was defined differently at different times.  So, please, I would like you to be a little more specific in your question. 
+Q.	Very well.  I would like you to talk to us about your understanding of what was referred to as civil defence or self civil defence -- civil defence or self civil defence before 1994.  What was your understanding of those concepts before April 1994? 
+A.	The concept of civil defence emerged for the first time, that is, prior to 1994, in February or March of 1992.  At that time I was S4 in charge of logistics.  And at that time the government, through the ministry of interior and the ministry of defence, had realised that military defences at the front line in Mutara, particularly in Muvumba préfecture, M-U-V-U-M-B-A, and Murambi, M-U-R-A-M-B-I, had noticed that the military defences were porous in that the RPF was able to infiltrate and strike in those areas where there were refugees or commit murders and assassinations of administrative personalities. 
+
+Civil defence or civil self-defence, therefore, was the concept whereby a number of civilians of those communes which I have mentioned were selected for military training, basic military training, particularly in respect of weapons handling.  The idea being that during the night patrols and other watches organised for self-protection of the population -- the idea, therefore, was that those who had received such military training would be able to intervene should any criminals or persons from the RPF ranks were to infiltrate their area.  So it was more of a dissuasive measure than a war strategy.  It was an alerting system which somehow made it possible for those who were patrolling to have a lot more confidence. 
+
+The movement was under the authority of the bourgmestre and the communal police.  Training was provided for those people by a contingent from the general staff, and these were provided to civilians in Gabiro, and I was present.  That was the first type of self-defence.  Those people were provided with some weapons and went back to operate in their communes.  
+
+I don't know what -- there was no assessment of how effective this was, but this was the first scenario of the self-defence mechanism.  
+
+So in 1993, towards the end of December, or thereabouts, the RPF coming from Uganda killed people in Mutura commune in Karago as well, K-A-R-A-G-O, and Mutura from Gisenyi.  They killed a number of people.  And at that time the two ministries that were in charge of security issues agreed to proceed in the same manner as had been done in the previous case.  At that time I must say there was no distribution of weapons.  
+
+And the third attempt at a self-defence initiative was towards the end of March 1994.  At that time there were very clear signals that the RPF was infiltrating and was not respecting the negotiations and was attempting to take advantage of the situation and attacked Kigali.  There was a meeting between the chief of staff, his team, and the préfet to determine how the units for checking and monitoring several issues could now be transformed to a warning system whereby the RPF, which was clearly not respecting the rules, could then be identified as proceeding in a certain manner. 
+
+But let me say that there was a meeting on the 31st of March, and the president was murdered on the 6th.  But after those meetings, I don't know whether there was any feedback as to the recruitment following the decision of that meeting to recruit people of good moral standing and to arm them so that they would work with soldiers within various neighbourhoods -- two or three soldiers and civilians -- which would then be the corpus for these monitoring stations that would be early warning systems in case of any problems.  
+
+So these are the three possible scenarios which I was aware of under the context of the idea of self-defence relating to the army most naturally.
+(Pages 38 to 45 by Joe Reynosa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1445H 
+BY MS. HOUNKPATIN:
+Q.	Would it be correct to say that these attempts at civil defence or self-defence were exclusively targeting the -- or designed for the elimination of Tutsis? 
+A.	No.  That would be incorrect.  That would be false. 
+Q.	Mr. Witness, could you describe to this Court the victims of those killings that took place after the 6th of April 1994.  Were they exclusively of Tutsi ethnicity? 
+A.	No.  The first victims of those killings, as one would note, included politicians.  Madam Uwilingiyimana, the politician, she was killed.  Kavaruganda, president of the appeal court, was murdered.  Then there was also -- there were also people, as I mentioned earlier, who were attacked in various neighbourhoods by the -- certain criminals and their cohorts in -- in Gikondo and Gishushu in the RPF area; in Remera and Mirambo (sic) in the government area; Kivugiza, for example, K-I-V-U-G-I-Z-A.  Kivugiza.  
+
+People were killed in -- in those areas.  And it was not exclusively Tutsis.  The -- the -- the violence -- the violent acts that were committed at that time affected politicians; Tutsis, who were unfortunately killed in their neighbourhoods; Hutus died as well.  
+
+And, you know, on hindsight we find on the various lists names of persons belonging to opposition parties.  People were killed in various neighbourhoods because it was suspected that they were RPF infiltrators.  Take Gikondo neighbourhood, for example.  And then you also had clashes between various groups, some belonging to the RPF side while the others were part of a self-defence movement and claiming to be less RPF than the others.  
+
+So in -- in general terms, the -- the -- the killings unfortunately would target -- at the end of the day -- would be found to have killed Tutsis in the most on the government side.  And -- whereas, for the side which was not RPF, it would be Hutus who would be killed.  So I -- I do not know, Counsel, if I -- I answered your question properly. 
+Q.	Mr. Witness, the answer you have provided leads me to ask you to tell the Court whether there was a total collapse in any channels of authority -- or -- or -- or power set-up.  Was that your observation?  Did you observe anything of that nature? 
+A.	Yes, I did.  At the very beginning and in relation to the army, the chief of staff -- or the general staff had initially believed that they would forward information to the gendarmerie.  This is at the very beginning, because at that time the idea was that peaceful citizens had come under attack and that this would be dealt with.  
+
+But as issues unfolded, the political authority in place collapsed.  The army and the gendarmerie, those defence forces, were overwhelmed, particularly as on the 9th of April, the attackers were already at the gates of the major military camp and all the forces in Kigali were engaged in the fighting.  And there was even need to call in the first Muvumba battalion from -- to -- to Kigali as reinforcement.  
+
+At that time the population and the militia were already in control at the roadblocks, and things went from bad to worse.  There was plundering.  There were attempts even to invade the trade centres.  And -- and the attempts to try to stop the looting by the soldiers and the gendarmerie in order to provide security for the population, these efforts at around the 11th or 12th of April were simply diminished or -- or -- or inexistent for Kigali.  
+
+So there was no assistance to the civilian population in Kigali at that time.  The political authorities had collapsed.  And everything was in the hands of gangsters and what have you, who did not have any official authority whatsoever and who were unfortunately those calling the shots in the city.  And this is what could have been observed on the 12th and subsequent days in April.  
+
+The only way out for the general staff was, again, to try to appeal for a halt in the fighting so that people could come back to their better judgement and try to work with the UNAMIR and the RPF so as to set up something that would bring the internal situation under control.  But the prerequisite for all that would have been that the fighting come to a halt. 
+Q.	I thank you, Mr. Witness.  
+MS. HOUNKPATIN: 
+Mr. President, that will be all for my examination-in-chief of the witness.  Thank you. 
+MR. PRESIDENT: 
+Thank you. 
+MS. HOUNKPATIN: 
+I would like the registrar to tell me how much time the examination-in-chief took. 
+MR. PRESIDENT: 
+In the meantime, I can enquire --
+
+	Ms. Diagne, do you have any questions of this witness?  
+MS. DIAGNE-MBAYE: 
+No, Mr. President. 
+MR. PRESIDENT: 
+Okay.
+
+Yeah.  Mr. Witness -- 
+
+MS. DIAGNE-MBAYE:
+No, Mr. President.  Thank you.
+MR. PRESIDENT:
+Mr. Witness, you are going to have to respond to the Prosecutor, who will have an opportunity to cross-examine you.  And you're going to have to respond to Mr. Webster.  
+
+I -- I think you can start. 
+MR. WEBSTER: 
+Okay.  Thank you.  
+
+If I could have the assistance from the registry.  I did assemble some documents that may be useful during the cross-examination.  The -- they already have them in the interpreters' booth.  We simply need to give them to the Defence and the Court.  
+
+And I'll also indicate off the record that I may rely on documents that I distributed in the larger bundles that were circulated for previous cross-examinations, but I provided a list to everyone by email of the documents that may come up.  And if -- if they do come up, I'll read them very slowly.  I'm sure that most of us haven't had an opportunity to -- to locate them.  But we'll do the best we can as we move ahead. 
+CROSS-EXAMINATION 
+BY MR. WEBSTER:
+Q.	So, Mr. Witness, good afternoon to you.  My name is Don Webster.  
+A.	Good afternoon, Mr. Prosecutor. 
+Q.	I basically had two lines of enquiry for you.  And I think I may be able to complete the first one this afternoon.  And then I'll finish up on Monday morning, if I -- if I don't get to the second one.  
+
+But I'd like us to begin actually on the morning of the 7th of April 1994.  You arrived at the 
+FAR headquarters or the état-major early on the morning of the 7th of April around 6 a.m., I believe.  Is that so?  
+A.	That is correct, Mr. Prosecutor. 
+Q.	And you learned, upon your arrival, that there had been a meeting of a number of FAR officers the night before.  And you learned that from a memo that was left on your desk or left in your office for filing, I believe.  Is that so?  
+A.	That is correct.  The telegraph (sic) -- I had a copy of the telegraph on the secretary's desk, and I was the secretary. 
+Q.	When you say "telegram", I assume you're talking about the communiqué that was read over the radio.  Is that what you're referring to when you say "telegram"? 
+A.	No, not just that.  The telegram was a message from the general staff to its subordinates sent out the previous evening, convening them to a meeting at the ESM the next day.  But the famous communiqué was a typed and signed document.  So the message and the document were on the table. 
+MR. WEBSTER: 
+All right.  If I could have Mr. Issa assist me once again.  I have an exhibit I would like the witness to have a look at.  It's identified as D. NZ492.  And if you can give -- you can take it from me.  If you can give the French copy to the witness -- the French copies, you can give one to each of the two Defence teams and Judge Kam, and then there are two English copies for the Court.
+
+Your Honour, perhaps -- excuse me.
+BY MR. WEBSTER:
+Q.	Mr. Witness, perhaps I misunderstood you when you were testifying on direct.  I thought you were referring to minutes that had been prepared of the meeting that had taken place the night before that were signed by a Lieutenant Ruhorahoza.  
+
+And that's what I've just passed up to you.  It's already in evidence in this case.  Is this the document that you perused on the morning of the 7th of April?  
+A.	That document was on the table.  Yes, indeed.  It was a summary.  It was the minutes.  But when I talked about other documents or mail, I was referring to the copy of the telegram and -- and the communiqué which was subsequently made public.  So I do confirm that this document was on the desk, on the table. 
+Q.	So you perused three documents -- right -- all in relation to the meeting that had been held the night before?  Three different documents:  The minutes, a telegram con -- convening the officers, and a copy of a message from Colonel Bagosora that was going to be read on the radio.  
+A.	Clearly, this one was there.  And the telegram to the various units, yes, there was a copy of that.  And then there was also the message.  Now that you're jogging my memory, I -- I wonder -- well -- but I think there was -- there must have been a copy of the communiqué on the table. 
+Q.	Thanks.  
+MR. WEBSTER: 
+Your Honours, is there something I could help you with?  
+MR. PRESIDENT: 
+No, Mr. Webster.  I was just -- I was authorising the registrar to make the announcement of the time of the examination-in-chief. 
+MR. WEBSTER: 
+Oh, okay.  Sorry. 
+MR. KIYEYEU:
+The Defence of Ngirumpatse used four hours and three minutes in examination-in-chief, My Lord. 
+MR. WEBSTER: 
+Well, Your Honour, I think I'm going to surprise you because I don't think I will need four hours.  So I -- I don't think it will finish today.  But I think the Court will be pleased that it will not take me four hours with this witness.  We'll see.  Maybe I'm -- I -- I may be wrong.  But --
+MR. PRESIDENT: 
+I hope not. 
+MR. WEBSTER:
+Okay.
+BY MR. WEBSTER:
+Q.	And, Mr. Witness, back to you.  Aside from looking at the various doc -- documents that were left in your office, did you also have discussions with the officer -- the duty officer, officier de permanence, about what had transpired the night before? 
+A.	I had a discussion with the duty officer in respect of the telephone call that I made in the morning.  He is the one who was going to provide the vehicle for my movement that morning.  So when I got to the general staff, I did not need him directly.  He was an officer of similar rank as myself. 
+Q.	Can you give us his name, please.  
+A.	Major Gérard Ntamagezo, N-T-A-M-A-G-E-Z-O.  
+Q.	I believe that there is trial testimony, not necessarily in this trial -- but trial testimony before Chambers of this Tribunal or witness statements that -- excuse me.  Let me with -- withdraw that question.  
+
+Did you see either Colonel Bagosora or General Ndindiliyimana that morning at the FAR headquarters?  
+A.	I do not recall seeing those two persons that morning.  I saw them at the ESM during the meeting. 
+Q.	I'd suggest to you that there's trial testimony or statements from both Ndindiliyimana and Bagosora that Murasampongo had called them at home sometime around 6 a.m. or before 6 a.m. and that they both ended up going to the état-major in response to his calls.  And his concern was that -- that shots were going off in the neighbourhood.  
+
+And I think both of them have given evidence that they went to the FAR headquarters shortly after 6 a.m.  Having said that, does that jar your memory, or do you still maintain that you didn't see either one of them that morning?  
+A.	No.  It doesn't help my memory any -- any better, Mr. Prosecutor. 
+Q.	All right.  I'd like us to look at the document circulated to you.  And I'm particularly concerned with the last paragraph, 5, and I've actually made a little mark next to the sentences that I'd like us to look at.  It should be the second page in from the document that I just gave you.  And this is D. NZ492.  Starting with in French, "Selon lui, il ne faut en aucun cas s'écarter", beginning with, "According to him".  If we look at those sentences.  
+
+You don't have to read it out loud since we all have a copy and it's already in evidence, but read that paragraph.  
+A.	I've gone through the document, Prosecutor. 
+Q.	And tell us what you understood from that, if you put yourself in the frame of mind of the early morning hours of the 7th of April.  
+A.	According to what is written in this paragraph, Colonel Bagosora and General Dallaire, as well as Colonel Rwabalinda, who was a liaison officer with the United Nations Assistance Mission to Rwanda, according to the wish of the meeting, we were going to contact the representative of the United Nations so that they could try and resuscitate the peace agreement in spite of what had happened to the head of state.  
+
+There was a proposal.  I cannot comment on the proposal regarding the MRND leadership on the 7th at 7:30.  And there's also mention of diplomatic representation at nine.  And it seems that the same authorities had wanted to set -- set up a meeting at the ESO for commanders.  The meeting ended with a recommendation of seeing to it that there was a possibility of designating a successor to the president of the republic and -- who had died; whereas, the late president had been an in -- an integral part of the peace process. 
+Q.	Well, thinking about the two sentences that I've asked you to read, what I'd suggest to you is that this last paragraph, the concluding paragraph of this set of minutes, would indicate that the meeting from the night before had agreed that -- there was some discussion with the special representative of the Security Council, Mr. Booh-Booh, and his recommendation was that the peace -- Arusha Peace Accords should not in any way be cast aside and that the MRND party should propose a candidate to succeed as president of the republic.  So that was the status quo as of 6 a.m. on the morning of the 7th of April.  Can we agree? 
+A.	Prosecutor, this paragraph is -- is actually minutes of the meeting and -- but I do not -- I did not know whether this scheduled -- this schedule was implemented in all the details set out here.  
+
+But the intention of the meeting held at night seems to be along those lines because the president had just been either assassinated or killed in a crash.  Now, with regard to actually put -- all Rwandans at peace, it was recommended that the peace pas should be adhered to.  That was the recommendation of that meeting. 
+Q.	And based on what you can read from this paragraph in any case, there was no suggestion of forming any other government; it was simply for the MRND party to designate a new candidate to be the president; right? 
+A.	Maybe I should remind all of you that the country's president was sworn in on the 5th of January in the context of the peace agreement.  But he had died untimely -- he met an untimely death.  This means that since MRND was part of the government coalition which had carried out negotiations with the RPF and since a number of political -- number of political posts were -- were governed by the peace accords, I would say that what I see here is the possibility of appointing a president.  
+
+So that was to be done either by the government coalition and RPF if they had met around a table and asked themselves what should they do after the president's death or that could have been done by the government -- the -- by parties in the government where -- by saying that they were sharing power; therefore, they should designate a president. 
+Q.	Quite frankly, Mr. Witness, I think you're dancing around the issue and trying to anticipate my questions.  Because I -- I put to you a very simple proposition, and the answer is right there in the sentence that we've read to each other and to ourselves a number of times.  So I'll ask you one more time, and then I'll move on to something else.  
+
+But clearly it says -- and I'll read it.  And I'm talking about the second sentence that I've asked us to look at.  "It is in this vein that he proposed a meeting with the MRND leadership on that same 7th of April 1994 in order to look into the possibility of designating a successor to the president of the republic." 
+
+That's all it says.  Can we agree on that?  
+A.	Yes.
+Q.	Now, you're suggesting other things from your previous responses.  Did you rely on other information?  Was anybody else talking to you that morning before you went to ESM that would lead you to suggest the other things that you just mentioned three or four minutes ago?
+A.	Since the beginning of the cross-examination, Prosecutor, did you mention that at the beginning of -- is that what you actually meant a short while ago in this same cross-examination, Prosecutor?  
+Q.	I'm just going to move on.  You've already told us that you didn't speak to anybody else.  So let's go on.  
+
+When you were in S -- ESM that morning -- and I assume this is the first time that you're encountering Bagosora based on your last series of responses -- did you get the impression that he was putting himself forward as the man to lead the crisis or solve the crisis or manage the crisis?  
+A.	When I went to ESM, Colonel Bagosora was presiding over the meeting.  Therefore, in that capacity, all the officers who were within listened to him because he was chairing the meeting which had been convened in the evening.  Therefore, this is the way I look at the situation.
+(Pages 46 to 52 by Tanya West)
+
+
+
+
+
+1515H 
+BY MR. WEBSTER:
+Q.	What did you understand his status to be that morning at the beginning of the meeting? 
+A.	I think that I have said that when I went to the venue of the meeting the meeting had already started, Prosecutor. 
+Q.	Yes.  And I'm asking you when you first entered the meeting hall, during the first 20 minutes or so of your participation in that meeting, what did you understand Bagosora's status to be? 
+A.	Bagosora presided over the meeting.  There were people who spoke at the meeting, they were officers.  I mentioned one officer.  Officers spoke.  General Dallaire was there.  Participants spoke.  What I'm saying -- what -- what I remember is not what Bagosora issued, because he did not issue directives.  The officers there reached a consensus in the form of decisions.  I think that I spoke about the main decision of that meeting, that is, the setting up of a crisis committee with a -- with a well-defined mission. 
+Q.	Well, was Bagosora a soldier in active service that morning?
+A.	Bagosora was the directeur de cabinet at the ministry of defence. 
+Q.	Was he a soldier in active service? 
+A.	He was a retired officer.  But at that time he was working as a directeur de cabinet at the ministry of defence. 
+Q.	So the answer is no? 
+A.	No. 
+Q.	But he was wearing a uniform? 
+A.	Yes. 
+Q.	Didn't that seem odd to you, that the civilian directeur de cabinet would appear before this meeting at -- of active commanders and camp authorities -- army camp authorities -- wearing a uniform?  Or is that how he usually dressed at the time? 
+A.	Strange?  It didn't appear to be strange to me, because he was a colonel.  Maybe he was not active, but when I saw him this was how he was dressed.  But it's true what you're saying -- regarding what you're saying, it truly did not affect me at that time. 
+Q.	He had retired some months before then.  I think it was back in 1993, I believe.  It may have even been almost a year before then.  Did he still wear his uniform during that entire period after his -- after his retirement started? 
+A.	Frankly speaking, I did not pay attention to his attire when he went to work. 
+Q.	But you would agree with me that if he did appear as the presiding officer or person who was presiding over that meeting wearing a uniform, it doesn't seem quite appropriate in light of his civilian status and the fact that he had already retired; would you agree? 
+A.	It's true. 
+Q.	Now, there was a time that Bagosora was recalled into active service.  Do you know when that was? 
+A.	No, Mr. Prosecutor. 
+Q.	Well, do you know that he was recalled to active service, or are you simply agreeing with my proposition? 
+A.	I'm saying I do not know when he was recalled to service. 
+Q.	But you do know that he was recalled sometime after the 6th of April 1994? 
+A.	Not really.  I know that there was some officers who had retired who were recalled.  But to say that Bagosora, who was at the ministry of defence was recalled is something that I did not pay attention to.  I know some officers were recalled, but from what I remember Bagosora was not on that list.  But I cannot exclude that, because he was there -- he was the most recent -- recently retired officer, compared to the others. 
+Q.	All right.  Thank you. 
+MR. WEBSTER:
+Mr. Issa, if you could show this document to the witness.  I believe everyone else has it.  It was B9 in my bundle for the Bagosora cross-examination.  It's a letter dated the 21st of May 1994 signed by the minister of defence, Augustin Bizimana. 
+BY MR. WEBSTER:
+Q.	Could you read that to yourself quickly, Mr. Witness. 
+A.	(No interpretation) 
+Q.	No.  Just read it -- read it quickly, I think we all know the contents. 
+A.	I have looked at it. 
+Q.	And looking at that document you would agree that it has the letterhead of the ministry of defence.  It has the stamps that you usually see on correspondence from the ministry of defence.  It has Bizimana's signature.  It's addressed "Théoneste Bagosora".  
+
+And what I would suggest to you is that it looks like the type of correspondence that you are used to seeing as the secretary for the general staff.  Would you agree that it looks -- has all the formalities associated with the correspondence that you would normally see passing through your office? 
+A.	Yes.  It has all the characteristics of a letter from the ministry of defence. 
+Q.	And it indicates that Bagosora is being invited back into active service as of the 21st of May 1994; right? 
+A.	That is correct. 
+Q.	Right.  
+MR. WEBSTER:  
+So, Your Honour, I would like to move this into evidence. 
+MS. HOUNKPATIN:
+Mr. President, with regard to this document, I have two questions:  This witness here was at the 
+	general staff; this letter is from the office of the minister and therefore, in any case, on the 21st of May 1994 he was no longer at the general staff, that is, army's headquarters. 
+
+Furthermore, I would like to know whether it's Bagosora who's on trial here or we have another accused whose name is Ngirumpatse.  I would like to know the relevance of this document for him to ask it to be admitted into evidence. 
+MR. WEBSTER:
+It is relevant at this juncture because this witness just described Théoneste Bagosora, who was a civilian, the directeur de cabinet, and the minister of defence, chairing a meeting of army officers dressed in military attire when it doesn't appear that he was an active -- an officer in active service.  And this letter goes directly to that point because it establishes that he was called back into active service only a month later, on the 21st of May 1994. 
+
+It's also relevant for other issues, it relates to evidence that's placed on this trial record from Théoneste Bagosora himself.  And I'm sure that the Defence and the Court recalls that this is the subject of a pending motion, but I'm now moving it into evidence under another -- on another basis and there should be no problem with that.  So I -- it is still offered for admission and suggest that it be given a number. 
+MS. HOUNKPATIN:
+Mr. President, this is some of the difficulties that the Defence is facing regarding -- because if we are to admit this into evidence on the basis of the comments made by my learned friend, then we would be having two trials here on top of the other difficulties facing us.  There is no relevance which would allow us to admit this document into evidence, whereas it is admitted that there are problems pertaining to this particular document.  So that's why I object to this document being entered into evidence as an exhibit in this case. 
+MR. PRESIDENT: 
+Yes.  We have considered the application.  We think that the witness's testimony provides a basis for the authenticity of the document and we are -- and we're also satisfied that it is relevant to material issues in the trial. 
+
+So we admit the document. 
+MR. MJUI:  
+The document will be P. 519.  5-1-9.  Thank you.
+MR. PRESIDENT: 
+Thank you, Mr. Issa. 
+MR. WEBSTER:
+Thank you.  If Mr. Issa could get the document for me please. 
+(Exhibit No. P. 519 admitted) 
+MR. WEBSTER:
+And, Your Honour, I would withdraw the pending written motion, so it's one less thing for the Chamber to deal with now. 
+MR. PRESIDENT: 
+Okay.  We were going to declare it moot in any event, but it's declared moot --
+MR. WEBSTER:  
+Thank you. 
+MR. PRESIDENT:  
+-- on the basis of your withdrawal. 
+BY MR. WEBSTER:
+Q.	Now, getting back to the meeting at -- at ESM, Mr. Witness, I believe it was your testimony that you arrived sometime after 10 a.m. 
+A.	I said I got there after the meeting had started.  It could have been at ten, it could have been later.  But it was around ten.  That is, if the meeting had started on time. 
+Q.	And by the time you walked into the ESM at -- sometime after 10 o'clock you had already covered the distance between your home and Remera and the army headquarters in Kiyovu.  And you had also left Kiyovu and gone all the way out to Kanombe and back.  So you basically crossed the city of Kigali, and particularly the Kiyovu neighbourhood, three times by the time you had entered the meeting hall at ESM; right? 
+A.	That is correct. 
+Q.	Is it your testimony that you made those three trips and you only encountered two roadblocks; the one at Giporoso, and you gave us another location but you had mentioned two specific locations, I believe.  Only those two? 
+A.	There was the Giporoso roadblock and another roadblock at the Hôtel des Mille Collines. 
+Q.	And Giporoso, those of us who are familiar with Kigali know, is all the way out by the airport, somewhere between Remera and the Kigali airport, which is far away from Kiyovu.  And then the Hôtel des Mille Collines hotel which is -- which is within Kiyovu; right?  Would you agree with me on that simple statement, Mr. Witness?  
+A.	Yes.  But a slight correction; Giporoso is between the airport and Remera. 
+Q.	Thank you. 
+
+Does it surprise you, in any way, that if I were to suggest to you that UNAMIR soldiers who were trying to get to Agathe Uwilingiyimana's home that morning during the same time frame that you were going back and forth, in and out of Kiyovu, found it almost impossible to get to her house to assist her because there were so many roadblocks -- military roadblocks all over Kiyovu that made it almost impossible for them to reach her?  
+A.	Prosecutor, maybe I should specify for the benefit of the Court the exact route I took because Kiyovu is a neighbourhood with several small roads which are connected to the main road -- to the main Kicukiro road going to Gikondo and to the Kigali roundabout, the French cultural centre, the Hôtel des Mille Collines, the avenue leading to ESM, and on up to the general staff of the army. 
+Q.	I think we all would acknowledge that there are many different roads into and out of Kiyovu, so I'm not suggesting that there was only one way -- one road that you could have -- could have taken.  But I'd also suggest to you that General Dallaire, when he was giving evidence, and as has been reported by other witnesses, informs us that the roads all throughout Kiyovu in the vicinity of the ministry of defence, the army headquarters, the home of the prime minister, were so bottled up with roadblocks that he had to get out of his car and walk in order to get to ESM. 
+
+You don't recall the streets in Kiyovu being almost overrun with roadblocks almost in every direction?  
+A.	I maintain that on the route that I took there were only those two roadblocks man -- manned by the paracommando battalion units at Giporoso and then armoured vehicle at the roadblock at the Hôtel des Mille Collines. 
+Q.	All right.  
+MR. WEBSTER:  
+Your Honour, I do notice the time and perhaps this is a good moment to pause and I'll pick up on -- on Monday morning. 
+MR. PRESIDENT: 
+Thank you, Mr. Webster.  Thank you, Mr. Webster.  It is time now.  We are going to take the adjournment shortly. 
+
+Mr. Witness, I think the weekend starts now for you as our -- we are going to adjourn for the day and resume on Monday morning. 
+
+As I have mentioned to you before, you should not discuss the case or your testimony with anybody during this or any other adjournment while you're a witness.  So you are excused. 
+
+Yes, Ms. Hounkpatin. 
+MS. HOUNKPATIN:
+This witness has some problems.  It was agreed that he would -- he had to leave on Friday for professional reasons.  Maybe you could ask him whether he could continue with his evidence in -- in view of the difficulties that -- difficulty that I have mentioned. 
+MR. PRESIDENT: 
+I don't quite understand you.  I am not certain exactly what you're requesting.  You want him to continue to give evidence this afternoon?  
+
+MS. HOUNKPATIN:
+First, I would like to know whether he is willing to continue, but I know that next to me Mr. Ngirumpatse is complaining about being tired.  
+
+The second problem is that -- 
+MR. PRESIDENT: 
+Ms. Hounkpatin, I was not making a suggestion.  I did not understand what you were requesting.  I was just seeking clarification. 
+
+The witness has started his testimony.  I mean he has to complete it.  You are aware of the reasons why we have the trial schedule that we do and we would not lightly change that, unless there was a good reason to do so.  But there was a certain -- if that's what you're asking us to do.  That's why I asked for the clarification. 
+MS. HOUNKPATIN:
+That is it, since you know very well that I no longer have contact with this witness at this point, could you please ask him whether he could be here on Monday. 
+MR. PRESIDENT: 
+But he has to be.  If he has logistical problems, there is a department -- WVSS will be working with him and be working to assist him to satisfy the arrangements that he has to make. 
+
+But now he is here, he has to stay until Monday and the WVSS department will assist him in dealing with the logistical problems that he may have. 
+
+Mr. -- Mr. Witness, counsel has indicated that you may have some logistical problems with regard to time management.  Unfortunately we are going to have to request that your evidence is concluded, because if you leave in the middle of your cross-examination then you -- you won't have -- the evidence would not be -- would not be counted.  So you have to complete it. 
+
+We have heard the Prosecutor say that he doesn't have much more to do, in terms of time, but we have committed ourselves to adjourn at 3:30 every afternoon and to sit for only four days during the work week for reasons which I don't have to explain to you.  But that's the programme that the Chamber has committed itself to honour. 
+
+Now, in light of that, I have directed the registry to make arrangements with WVSS to provide assistance to you in addressing the logistical problem that you might have as a result of having to stay on for an extra couple of days.  Does that address the problems that have been indicated?  
+
+THE WITNESS:
+Mr. President, since we cannot do otherwise, and since I have come here to testify, I will remain here and together with WVSS I will try to contact my employer so that there are no consequences which could be negative for me.  Thank you, Mr. President. 
+MR. PRESIDENT: 
+Thank you, Mr. Witness. 
+MS. HOUNKPATIN:
+Thank you, Mr. Witness, for that solution. 
+MR. PRESIDENT: 
+Thank you. 
+
+Yes.  We have -- there is one oral decision we wanted to give before we rise this afternoon and I'll do it now.  This is an oral decision. 
+
+On the 23rd of August 2010, this Chamber in an oral motion denied applications for a stay of proceedings, determined that the body of evidence would remain on the record, and ordered the Prosecution to amend the indictment in certain ways to reflect the death of Joseph Nzirorera. 
+
+During proceedings on 24th of August 2010, counsel for Mathieu Ngirumpatse made an oral application for certification to appeal the Chamber's decision and to request a stay in the proceedings pending determination of the appeal.  The Chamber granted the certification but denied the application for stay pending the appeal. 
+
+On 1st September 2010, Mathieu Ngirumpatse filed a request for certification to appeal the oral decision rejecting the oral application for suspending the proceedings pending the appeal. 
+
+Rule 73(B) of the rules provides that certification to appeal may only be granted if the decision involves an issue that would significantly affect the fair and expeditious conduct of the proceedings or the outcome of the trial and for which, in the opinion of the Trial Chamber, an immediate resolution by the Appeals Chamber may materially advance the proceedings. 
+
+The Chamber is satisfied that denying the application to stay of proceedings pendng the outcome of the appeal in this case does not fall under Rule 73(B).  The application for certification is denied. 
+
+So we -- we can now take our adjournment. 
+
+Yes, Mr. Weyl. 
+MR. WEYL:
+Thank you, Mr. President, for your oral decision.  We have duly noted it.  We have two other problems.  We have raised the matter before the Trial Chamber but we have not had any response. 
+
+Firstly, there is the corrigendum of the written motives -- reasons of the 26th.  We applied for a corrigendum.  There are two decisions which require corrigendum and which, so far, we still have some problems.  That is the first point. 
+
+The second point which I would like to explain to the Chamber regards the written reasoning for the certification which we were granted, but the certification is limited only to the evidence given in Joseph Nzirorera's case.  It was obvious that our concerns concern all the evidence related to Joseph Nzirorera's case.  That is why we are seeking a corrigendum.  It is the last line of your decision at point number 6 of -- where we talk about evidence brought in Nzirorera's case.  That is what I would like to respectfully draw your attention to. 
+
+Secondly, we ask the trial -- we requested the Trial Chamber coordinator to allow us to make a slight variation regarding the (inaudible) of appearance of our witnesses.  We have not received a response.  We don't think that it's necessary for us to make a written motion.  We want to call YLZ at the end of this first session, Mr. President.
+
+Thank you for your attention, Mr. President, Your Honours. 
+MR. PRESIDENT: 
+Mr. Weyl, we think that your concerns have already been addressed and the corrigendum has been filed, that the language of the corrigendum, we think, covers the point that you've raised.  That's our opinion.  So we think we've addressed your concern. 
+
+With regard to the application for adjusting the -- the witness list.  We will give you permission to bring the additional witness during this trial session.  What we would be concerned is that you provide adequate information -- timely information to the Chamber and to the OTP with regard to the witness. 
+
+We can take our adjournment now. 
+(Court adjourned at 1551H)
+(Pages 53 to 60 by Deirdre O'Mahony)
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Kirstin McLean, Jean Baigent, Melissa Hook, Joe Reynosa, Tanya West, and Deirdre O'Mahony, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	Jean Baigent
+
+
+____________________________	Melissa Hook
+
+
+____________________________	Joe Reynosa
+
+
+____________________________	Tanya West
+
+
+____________________________	Deirdre O'Mahony
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 12
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 25
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 37
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+JOE REYNOSA - ICTR - TRIAL CHAMBER III - page 45
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 52
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+DEIRDRE O'MAHONY - ICTR - TRIAL CHAMBER III - page 60
+
+	KAREMERA ET AL	THURSDAY, 2 SEPTEMBER 2010
+
+ICTR - TRIAL CHAMBER III
+

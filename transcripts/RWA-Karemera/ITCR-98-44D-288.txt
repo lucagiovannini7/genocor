@@ -1,0 +1,1135 @@
+
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+MONDAY, 3 MAY 2010
+0905H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Sunkarie Balleh-Conteh
+	Mr. Takeh Sendze
+	
+For the Accused Édouard Karemera:
+	Mr. Moussa Félix Sow
+	
+For the Accused Mathieu Ngirumpatse:
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Jean Baigent
+	Ms. Claudette Ask
+	Ms. Deirdre O'Mahony
+	Ms. Kelly Surina
+	Ms. Melissa Hook 
+	Ms. Tanya West
+
+
+I N D E X
+
+WITNESS
+
+
+For the Defence:
+PAULINE NYIRAMASUHUKO
+Examination-in-chief by Mr. Robinson	5
+Cross-examination by Mr. Webster	22
+
+EXHIBITS
+
+Exhibit No. P. 483A and P. 483B.....................................................................................................................3
+Exhibit No. P. 484............................................................................................................................................3
+Exhibit No. P. 485............................................................................................................................................3
+Exhibit No. P. 486A, P. 486B, P. 486C, P. 486D and P. 486E	3
+Exhibit No. D. NZ794	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, kindly open the proceedings, please.  
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session today, Monday, the 3rd of May 2010, for the continuation of the trial in the matter of the 
+Prosecutor versus Karemera et al., Case No. ICTR-98-44-T. 
+
+Thank you.  
+MR. PRESIDENT:
+The appearances are the same.  
+
+Mr. Robinson, we welcome you back. 
+MR. ROBINSON:
+Thank you, Mr. President.  
+
+Mr. President, I think Mr. Webster wants to deal with the exhibits first, and if we could perhaps do that. 
+MR. WEBSTER:
+Good morning to everyone.  Let me begin not with Nsengiyumva, but with an exhibit that was tendered during the Prosecution case.  Here I'm referring to P. 224, which is the copy of the diary of Pauline Nyiramasuhuko, who is our next witness.  
+
+I did send an email to the Defence teams over the weekend indicating that I wanted to substitute a better copy of the diary for what was scanned in by CMS over a year ago.  It turns out that the actual document that the Prosecution made available to CMS was a bit dishevelled; it was not copied well.  And we now have what appears to be a photograph of each page of the diary, which is much easier to read and is complete.  And this was disclosed to everyone weeks ago actually and placed on our targeted EDS, so everyone should be familiar with it.  
+
+But I'd like to suggest that the Chamber allow us to substitute what I have recorded on a CD-ROM for P. 224, along with new printouts of the English translation and the French translation, so if everything that was scanned by CMS under P. 224 a year and a half ago can be withdrawn and if these documents can be substituted -- and I don't think it's a controversial issue for the Defence. 
+MR. ROBINSON:
+That's correct, Mr. President.  We agree with that.  
+MR. PRESIDENT:
+Then it's ordered accordingly. 
+MR. WEBSTER:
+And I'll give these to Issa during the break and assist him with organising them.  So that will be P. 224.  
+
+Then for the exhibits for Nsengiyumva, there were two excerpts from this same exhibit that were used to cross-examine that witness.  They are -- the excerpts were circulated as documents 8 and 9 in my bundle, and I just want to indicate where they can be found in the larger exhibit for future reference.  
+So document number 8 deals with a discussion about the civil defence meeting in Gisenyi at Ngororero on the 3rd of May, and it can be found at K number K0043686DY, the same number DQ, DS
+in the original Kinyarwanda and French text.  And in the English translation that we were using, it's at K number K0271183, 1178 and 1179.  So that was document number 8.  
+
+And document number 9 was the reference to the cabinet meeting of the 10th of June 1994.  And that can be found at K0043686EW in the original Kinyarwanda and French.  And in the English translation that we used, it was at K0271195.  So it's just for ease of reference when we're going back to the record.  
+
+As for the documents that are being introduced as cross-examination documents for Mr. Nsengiyumva, it would consist of document number 3 in my bundle, both English and French.  These are excerpts of the Trial Chamber I judgement of the 18th of December 2008, which would become P. 483 in English and French.  
+
+Another excerpt, which is document number 4 in my bundle, which is only available in English, will become P. 484.  
+
+The final report of the International Commission of Inquiry about the delivery of weapons to Rwanda in violation of the UN embargo -- and this was used in cross-examination.  I put the entire document in.  We consulted around six or seven pages, and this will be P. 485.  
+
+Then there are the transcripts -- the transcription of Jean Kambanda's speech in Nyabikenke on the 19th of June 1994 in English, French and Kinyarwanda, which is document 6 bis in my bundle, which will be P. 486A, B and C for each of the three languages.  
+
+And we'd also offer a CD-ROM of the video -- the excerpts of the video that were played.  The video was actually the verbatim recording of that speech in Kinyarwanda which was transcribed.  So these are transcriptions that -- they are written transcriptions that I've handed up.  It's in Kinyarwanda.  There is a few seconds of voice-over on the video which certainly is not offered in evidence.  The voice-over in Kinyarwanda is not translated in the document.  So it's not -- we're not suggesting that the voice-over is evidence.  The only thing that's evidence is what is transcribed in the English, French and Kinyarwanda and the images on the tape.  
+
+And then I'd also like one page from P. 223, which is Jean Kambanda's diary, to be separately exhibited as P. 486E.  It's just the page.  That would be difficult to find in any other circumstance because the original exhibit, P. 223, is very large and it's not well numbered.  And this simply indicates at the 
+bottom -- the indication from Kambanda that this speech in Nyabikenke was scheduled for the 
+19th of June.  
+
+So it's one page from his diary.  The K number for it is KA000210, and then it's hard to make out, which is why I'm suggesting that this single page be added as P. 486E.  And that would be -- I don't think any of that is controversial.  So that would be the Prosecution's submission.  
+MR. NIMY:
+Good morning, Mr. President, Your Honours.  I have no objection.  We discussed that, the Prosecutor and myself, and I believe at this stage I have nothing to say.
+MR. PRESIDENT:
+Thank you, Mr. Nimy.  
+
+The Prosecution exhibits are admitted as requested. 
+(Exhibit No. P. 483A and P. 483B admitted)
+(Exhibit No. P. 484 admitted)
+(Exhibit No. P. 485 admitted) 
+(Exhibit No. P. 486A, P. 486B, P. 486C, P. 486D and P. 486E admitted) 
+MR. ROBINSON:
+Mr. President, before bringing in the witness, I just want to return -- I understand that last week there was a discussion concerning the scheduling of the remainder of Mr. Nzirorera's case, and if you are willing to just entertain at this time some brief information from me, then I'm prepared to provide you some information concerning the remainder of our case.  If you'd prefer to hear it at another time, that's fine.  
+MR. PRESIDENT:
+Yeah.  Mr. Robinson, it's premature to discuss this in open court at this stage.  We expect that our 
+trial coordinator will be meeting with you for discussion before we go on the record.  
+MR. ROBINSON:
+That's fine, Mr. President.  In that case, I would like to introduce to the Chamber Mr. Guy Poupart who's sitting in front of you, who's the lawyer for Pauline Nyiramasuhuko, and he will be present, with your permission, during her testimony.  
+MR. POUPART:
+Good morning, Mr. President, Your Honours.  I was and I remain co-counsel for 
+Pauline Nyiramasuhuko.  And I'm present because you're -- thank you, and have a good day.
+MR. PRESIDENT:
+Thank you.  And we welcome you to our proceedings.  
+MR. ROBINSON:
+And if we can bring the witness in now, we can commence her testimony.  
+
+Mr. President, I just wonder if I could ask Mr. Webster through you whether or not he has printed out a copy of the diary that he wishes entered into evidence as an exhibit, so that we could use it with her testimony today.  
+MR. WEBSTER:
+No.  I have not printed out -- it out.  But, actually, the easiest way to consult it is on the screen before us, so we do have the laptops set up, and we can put the CD-ROM in and turn to any page.  We can assist you in the process of turning to any page that you designate.  But there's no printout of it.  
+MR. ROBINSON:
+Okay.  Thank you.  
+MR. WEBSTER:
+We do have printouts of the English and the French translation.  What we don't have a printout of is the original handwritten Kinyarwanda text.  
+MR. PRESIDENT:
+Mr. Webster, what were you planning to put on the screen?  The Kinyarwanda text? 
+MR. WEBSTER:
+If the witness needs to consult it in the original Kinyarwanda, then she can look at it on the screen.  It's actually easier to read as a photograph than it is as a Xerox copy. 
+MR. PRESIDENT:
+Yeah, but nobody else will be able to understand it. 
+MR. WEBSTER:
+We have the French and English printouts. 
+MR. PRESIDENT:
+Wouldn't that be helpful?  
+MR. WEBSTER:
+I have them here.  I can give them to Issa and he can make copies of them, but it's quite voluminous.  I didn't make copies for everyone because each -- this is just the French and it looks like an inch thick and the same thing for the English.  And the Kinyarwanda will be even more voluminous.  But we all have them as email attachments.  I sent copies to the Trial Chamber coordinator, and she can send them to the Chamber so all of us can actually consult them electronically, either the English, the French, or the original Kinyarwanda.  
+MR. PRESIDENT:
+Good morning, Madam Witness.  
+THE WITNESS:
+Good morning.  
+MR. PRESIDENT:
+Before you begin your testimony, you're going to have to take an oath to tell the truth, and the registrar will assist you to do that now.  
+THE WITNESS:
+Good morning, Mr. President. 
+(Declaration made by Pauline Nyiramasuhuko in Kinyarwanda) 
+MR. PRESIDENT:
+Thank you.  You will now give your testimony by responding to questions put to you by counsel.  
+And you will respond, first of all, to Counsel Robinson on behalf of Joseph Nzirorera. 
+PAULINE NYIRAMASUHUKO,
+first having been duly sworn,
+ testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. ROBINSON:
+Q.	Good morning.  
+A.	Good morning.  
+Q.	Could you tell us your name for the Chamber.  
+A.	My name is Pauline Nyiramasuhuko.  
+Q.	We've placed in front of you a personal information sheet.  Have you had a chance to look that over and can you tell us whether or not it's correct? 
+A.	The document I have before me is written in English.  That notwithstanding, I do confirm that the information contained therein is correct.  
+Q.	Thank you.  
+MR. ROBINSON:
+Mr. President, we'd ask that the personal information sheet be admitted as D. NZ794. 
+MR. PRESIDENT:
+Admitted.  
+(Exhibit No. D. NZ794 admitted)
+BY MR. ROBINSON:
+Q.	Can you tell us what was your education. 
+A.	I did my primary school studies in Gisagara.  And then I began secondary school studies at the Karubanda social school.  And then I took the central jury examination, and after that I had a diploma which gave me access to university studies.  Thereafter, I got enrolled into the faculty of law at the university.  
+Q.	And can you tell us what employment you had after that. 
+A.	I got a first degree in law.  
+Q.	And then what jobs did you have after that? 
+A.	After I got the degree, I was employed at the ministry of the interior, and I was lucky to be working close to my family in Butare préfecture.  
+Q.	How long did you do that job? 
+A.	Not long.  I started working in 1991, if my memory serves me correctly, and I stopped working in 1992, in April.  So I would say I was working in that position for a year and a number of months.  
+Q.	And what was the next position that you held? 
+A.	After that position, I was appointed as a minister in the government.  
+Q.	And what ministry did you head? 
+A.	Family and women's affairs -- the ministry of family and women's affairs.  
+Q.	Thank you.  In the multiparty system, what political party did you join? 
+A.	I was a member of the MRND, the party of unity and peace.  
+Q.	Did you hold any positions within the MRND, such as a member of the préfectoral committee or of the political bureau? 
+A.	I held a position in my secteur in Butare.  So I held a fairly modest position in Butare, and I was also a member of the national committee.  
+Q.	Thank you.  Now, did you keep a diary in which you wrote down some notes of meetings and events in your life during 1994? 
+A.	To tell you the truth, I had an official diary which I could not take with me because, after the president was assassinated, it was not possible for me to return to my office.  So I only left with my personal diary, and it is in that diary that I managed to write down a number of things.  
+Q.	Now, do you have with you a copy of the diary that has been used in your trial, and is an exhibit in our case, Exhibit P. 224?  Do you have that with you? 
+A.	I have nothing with me.  
+Q.	Okay.  We have it here.  It's available for you to consult, if it's necessary.  I'm going to be asking you some questions about the events of 1994, and if, at any time, you would like to look at your diary 
+to see -- to refresh your memory, then you'll be permitted to do that.  So in the meantime I want to ask you some questions beginning in the period of January 1994.  Can you tell us whether or not you attended meetings between the MRND ministers and the MRND political bureau during the period of January through April 1994? 
+A.	I did.  I attended a number of meetings.  
+Q.	And during that period, there was attempts to install the broad-based transitional government.  Can you tell us what -- in general, what topics of -- what the topics of the discussions were at those meetings? 
+A.	During all those meetings, we were trying to see how we could implement the Arusha Accords.  During all those meetings that was what was uppermost in our minds.  
+Q.	And can you tell us whether or not -- what was the MRND position with respect to the Arusha Accords?  Did they support them, or did they want to block them? 
+A.	My political party was in support of the Arusha Accords.  And, in fact, the other five parties in the country realised that it was the MRND which was insisting for those accords to be implemented, and this was because the other parties had problems, but the MRND hadn't any.  As far as those of us in the MRND were concerned, we had no problem.  
+Q.	Thank you.  Now, directing your attention to the 5th of January 1994, were you present at the ceremony at which President Habyarimana was sworn in? 
+A.	Given that I too had to swear -- be sworn in, I was -- I had to be present at the ceremony, and so I was there.  
+Q.	And can you tell me, what was the reason why the swearing-in ceremony did not proceed in the afternoon as had been planned? 
+A.	It was scheduled that everything should take place in an orderly fashion on that day, but that the transitional national assembly had to be sworn in and then the government.  But upon our arrival, we realised that the RPF was not represented and the parties, in which there were splits, sent only a part of the number of people who were supposed to be there, and the quorum was, therefore, not met.  And as a result thereof that ceremony could not go on as had been scheduled.  
+Q.	And can you tell us whether the failure to show up in the afternoon by some of those parties was due to a boycott or due to the fact that they were prevented from reaching the CND by the Interahamwe? 
+MR. WEBSTER:
+I'm sorry.  I realise that it may be helpful in some instances to provide information to the witness in the question, but this isn't one of those instances.  So if Mr. Robinson could ask more open-ended questions on this issue since it's so contentious in our trial. 
+MR. ROBINSON:
+Yes.  I could do that, Mr. President.  
+BY MR. ROBINSON:
+Q.	Can you tell us, what was your understanding as to the reason why the people didn't show up in the afternoon? 
+A.	In my view, there were problems between parties -- the political parties and RPF.  Let me give you an example -- an illustration of what I'm saying.  If we take the PL party, for example, there was a wing which was called the Mugenzi wing and another which was called the Lando wing.  The RPF was on the side of PL Lando.  And since the RPF was not present, the Lando wing did not show up.  And the MDR also, there was a pro-RPF wing, and that wing did not show up at the ceremony.  And, of course, the absence of the RPF was conspicuous, and everybody knows what happened.  
+
+Now, talking about the Interahamwe, I will tell you that in the afternoon I was expecting to be sworn in as a minister.  And in the afternoon I did not see the Interahamwe.  I did not see them on the road I took to get to the ceremonial grounds.  
+Q.	Thank you very much.  Turning your attention to the 6th of April 1994, where were you when you learnt of the death of the president? 
+A.	I spent that day in my office in Kigali.  When I left my office, I went home, and shortly thereafter, somebody called me on the phone and told me that the plane which was carrying the president had been shot down.  I was not inclined to believe what I heard, and I said to myself that probably something else had happened.  I do not know if I may proceed, but some time later, I heard a pretty large plane flying over the town, and I said that might perhaps be the president's plane and that it was not the president's plane that had been shot down.  
+
+It was later on that I finally came to terms with the fact that the president had been killed.  It was towards midnight that my thoughts were confirmed.  
+Q.	Did you leave your home that night or in the early hours of the next morning? 
+A.	I was living alone.  My family was living in Kigali.  I was so afraid.  I locked myself up in my house, but I heard cars and vehicles moving around.  And towards 11 p.m., a neighbour -- a neighbour between whose house and mine there was an unoccupied plot -- I can't remember the name -- but I think that it was a second deputy -- secretary.  His name was Munyampundu.  
+
+He stopped over at mine and asked the gendarmes, who were at mine, if I were home.  He asked them to see me.  He knocked at the door.  I received him, and he said, "You're still here.  People are fleeing because the RPF is killing people."  And he proposed to me that he would assist me to flee.  I left with that person, and he took me to the Presidential Guard camp.  So I would say I left my home around midnight.  
+Q.	How long did you stay at the Presidential Guard camp? 
+A.	I got to that camp where I found women and children in tears.  Some of them were on the bare floor.  
+I remained there with the women and the children.  You are aware that in Africa women are placed elsewhere, so I stayed there.  
+
+In the morning, I realised that a good number of people had sought refuge in that camp.  And in the morning, a classroom was opened for us, and I was put there with the other children.  The number of men who were there increased.  And since the RPF had started attacking the Presidential Guard, we were not secure.  We saw people transporting wounded people, and we were afraid.  One of the ministers came and called for me, and she said that we would need to leave that location because we might be killed there.  I would, therefore, say that I spent the night standing.  In the 7th, I was in the classroom, and on the 8th, I left that location in the company of other people.  
+
+And the person who was guiding me, because in fact I was very afraid, was Ntagerura.  He was serving as a guide for me.  In his car, he had his wife and his children.  And I -- I took a seat in a pickup that was transporting wounded soldiers.  So we drove behind Ntagerura's vehicle and followed an -- an itinerary that took us to an area that was not under RPF control.  The military vehicle went on, and I remained with Ntagerura, who was trying to negotiate with the soldiers who were guarding the embassy of France.  And the soldiers allowed us to get into the embassy.  And those are the conditions under which I took refuge at the French embassy.  
+Q.	And so was that on the 8th of April? 
+A.	Yes, it was on the 8th.  
+Q.	Now, did you learn that you had been appointed minister in the interim government? 
+A.	Well, the MRND had done everything since 1993 to ensure that ministers who would represent the MRND are well known, the ministers of the MRND who had to represent that party in the 
+broad-based transition government.  
+
+The MDR had given its approval for my appointment.  The prime minister of -- Twagiramungu -- of the Arusha Peace Accords was already in agreement with my appointment.  He was nicknamed Rukokoma.  And the ministers of the broad-based transition government had already -- or, rather, the prime minister of that government had already published the names of the ministers who had to participate in that government already.  
+
+In the month of March, the list of ministers was known.  So I knew I was going to be a member of the broad-based transition government.  
+Q.	And how did you receive the news that you had been appointed in the interim government? 
+A.	I've just told you about it.  When the RPF accepted my appointment, when the prime minister, Twagiramungu, alias Rukokoma, accepted my nomination, the list of 
+MRND ministers was already known one month before.  
+THE ENGLISH INTERPRETER:
+And the witness stops there.  
+THE WITNESS:
+The PL and the MDR accepted to participate in that government in the month of March.  But I'm telling you that the information of the 5th of January had already been received by me in December 1993.  Therefore, I knew that I was going to be a member of -- the 5th of January 1994.  
+BY MR. ROBINSON:
+Q.	Okay.  And turning to the period after the death of President Habyarimana when the interim government was formed, how did you receive the news that you would be part of that interim government?  Did you hear it on the radio?  Did someone come and talk to you?  What was the way in which you found out that the interim government had been formed and you were going to be a minister? 
+A.	It is the prime minister who announced on the radio that members of the government were going to be sworn in.  But I was already aware of that because the MRND did not change its position since 1993, since the end of that year.  The ministers that that party had designated remained the same.  What I heard that was new was that the moment had come for that new government.  
+Q.	And did you attend the swearing-in ceremony of the interim government on the 9th of April? 
+A.	I do not know which transition government you are talking about.  Even the first one was a transition government.  Which one are you talking about?  Both of them were transition governments.  Are you talking of the government put in place after the death of President Habyarimana? 
+Q.	Yes, I am.  So on the 9th of April 1994, we've had evidence that there was a swearing-in ceremony at which the ministers of that government led by Kambanda were sworn in.  And my question to you is whether or not you participated in that ceremony? 
+A.	Yes.  At some point in time after I was appointed minister within the Kambanda government -- and I heard about this on the radio whilst I had taken refuge in the French embassy.  This was on the evening of the 8th.  It was on the news broadcast of 7 p.m. that I heard the news.  
+Q.	And then after that, can you tell us, did you attend the ceremony in which the oath was administered to the new government of Kambanda? 
+A.	Yes, indeed.  I attended that swearing-in ceremony.  
+Q.	Okay.  Thank you.  Now, the day after that swearing-in ceremony, the 10th of April, was there 
+a cabinet meeting held? 
+A.	Yes.  A meeting -- a cabinet meeting was held.  
+Q.	And -- 
+MR. WEBSTER:
+Sorry to interrupt, but just for your benefit, Mr. Robinson, and the witness, I did request a team member to printout the CD-ROM copy of the diary.  So that's available any time you need it.  
+MR. ROBINSON:
+Great.  Thank you very much.  
+BY MR. ROBINSON:
+Q.	I'm going to ask you if you could tell us to the best of your recollection what was said -- or what was discussed during that meeting of the 10th of April, and if you need to refer to your diary or want to refer to your diary, you can do so.  Or if you could just give us your best memory of what was discussed at that meeting, that would be what we would like to know.  
+A.	We used to hold cabinet meetings practically every day.  I do not remember what was said on the 9th, the 10th or the 11th.  If it is possible to give me a copy of my diary, I think that would be of great use to me.  
+Q.	Thank you.  
+MR. ROBINSON:
+And, Mr. Webster, we'll take you up on your offer, if that can be handed to the witness. 
+MR. WEBSTER:
+It's not bound for us to use it productively.  After the witness has finished with it, it has to be kept in the same order.  So I just make that warning.  
+
+And just to clarify matters, I'd also add that this witness also made separate notes in addition to her diary.  And I think there are seven separate notes of certain cabinet meetings, which were individually admitted into evidence in her case, and I have copies of those, if the need arises.  
+BY MR. ROBINSON:
+Q.	Okay.  So what I would like you to do is to tell us to the best of recollection what was discussed at the very first cabinet meeting of the Kambanda government, which took place on the 10th of April.  And if you would like to refer to your diary, you can do that.  It's now -- a copy of it has been placed in front of you.  
+A.	It is very difficult for me to do what you're asking me to do.  This diary is -- or notes were not entered in it in a chronological order.  If, for example, I look at what is put against the date of the 10th, I'm not sure we'll find all the information you're requesting of me.  But in any case, I'm going to go ahead and see what I can find.  
+MR. WEBSTER:
+It would probably assist -- 
+THE WITNESS:
+There is nothing entered on the page of this diary.  I would like to remind you that it was not an official diary.  Everything that is entered here on this page relates to the period whilst I was in exile.  It is written here, "The president of the cour de cassation, the appeals court called Nzamukwereka, Venant".  I had talked with him, but that was after I went into exile -- or, rather, that was whilst I was in exile.  So you see, there is no relationship here. 
+MR. WEBSTER:
+If it would assist Mr. Robinson, the witness did make notes for the cabinet meeting that was held on the 10th of April, which were separately admitted into evidence.  And I think we have it in this case.  It was used to cross-examine Mr. Niyitegeka.  I don't recall the number, but Issa could probably assist and find those.  
+BY MR. ROBINSON:
+Q.	All right.  I think what we'll do is we'll try to proceed without -- with your best recollection and, if it's necessary, to look at those notes.  We can try to retrieve those to you.  But I want to keep your testimony moving as smoothly as possible.  So let me ask you a different question, and that is, with respect to the first cabinet meeting, without necessarily going into who said what, can you tell us what was the objective of the government as expressed during that first cabinet meeting? 
+A.	I know that all the meetings -- cabinet meetings focused on the restoration of peace.  That was the main theme of all the meetings held during the period referred to.  As for what I remember, I do remember that everyone in the place of exile knew that they had run away because there were problems, because there were killings.  
+
+Therefore, we came to the conclusion that the killings were continuing, and the idea now was to know what to do to put an end to the killings.  We asked God to save us.  The RPF launched a campaign of killings everywhere.  A few leaders joined them, that is, the RPF.  In those circumstances, who could help us?  Who could assist us?  That is what I remember in a nutshell.  If you have more precise questions, you can always put them to me.  
+Q.	Was the goal of the interim government to encourage the killings or to stop them? 
+A.	I do not know whether, in the world, there has been any government whose objective has been to encourage killings or massacres.  Similarly, the goal of our government was not to encourage massacres but, rather, to put an end to them so that we would be able to apply the Arusha Accords.  
+
+The government referred to, as far as I remember, had three main objectives:  The first was the restoration of peace; the second was the putting in place of the broad-based transition government and the third was the fight against hunger.  This is what I remember.  In short, our objective was not to kill, but, rather, to save lives.  And we succeeded.  
+
+I remember, for example, foreign countries which had helped us in the negotiations, in particular the Americans and the Belgians.  We contacted them to ask for assistance because the situation was critical.  I hope I am not making a mistake.  Those who were able -- or those who had been able to come to any -- or find any document that indicates the contrary can bring such documents to my attention.  But this is, in the main, what we did.  
+Q.	Thank you very much.  Now, the next day, the 11th of April, was there a meeting of préfets presided over by Prime Minister Kambanda? 
+A.	That's correct.  
+Q.	Did you attend that meeting? 
+A.	Yes.  I was present.  
+Q.	And do you know whether or not Mr. Nzirorera, Karemera or Ngirumpatse were present? 
+A.	They could not have been present because they were not ministers.  That was not possible because the cabinet meeting was reserved only for ministers.  When it was a formal, official meeting of the cabinet meeting, all the ministers attended the meeting.  Therefore, I did not see the persons you named.  
+Q.	Were there some préfets who were not able to attend that meeting? 
+A.	Yes.  It was a meeting of ministers and préfets.  All the préfets were summoned to the meeting, but not all of them were able to attend.  Those who were not able to attend apologised or sent representatives.  
+
+I will give the example of the préfet of Ruhengeri.  He was in Kigali, in Remera, near the 
+UNAMIR camp -- that is, the place where he lived.  He told his sous-préfet, who represented him -- he told the sous-préfet that, if there was anything that warranted his presence, the sous-préfet should represent him.  We asked the sous-préfet why the préfet did not come, and it is the sous-préfet who explained to us that the préfet had gone to his residence in Remera.  Subsequently, we learnt that the RPF had killed him, together with his entire family.  
+
+Another préfet who did not come to the meeting but who also apologised was the préfet of Cyangugu.  He did not send any representative.  And -- yet another préfet who was unable to attend that meeting was the préfet of Gikongoro.  He also apologised.  The préfet of Butare was not able to attend the meeting either, but the préfet of Butare did not even give any reasons why he was absent.  
+
+So these are the only préfets -- that is, the four préfets who were absent.  All the other préfets were present.  
+Q.	It's alleged in our indictment that, at that meeting, Prime Minister Kambanda said that the préfet of Butare would pay dearly for not having attended that meeting; is that true? 
+A.	No, he did not say that.  He did not know why the person concerned was absent.  This is what he told us:  "The préfet of Butare is not present; however, we do not know why he is not present."  He himself was a native of Butare, and he feared that something unpleasant may have happened there, but he did not say that the préfet of Butare was going to pay dearly for that.  Perhaps he had his reasons, which we were not aware of at that moment and -- the prime minister, therefore, could not utter threats without knowing why the given -- the said préfet was absent.  
+Q.	Thank you.  Now, turning to the next day, the 12th of April, did you proceed to the Diplomat Hotel for another meeting, and if so, what happened? 
+MR. WEBSTER:
+Can we hear where the witness was, if the question is that she proceeded to the Diplomat Hotel?
+MR. ROBINSON:
+Okay.  That's a good point. 
+BY MR. ROBINSON:
+Q.	Let me ask you another question, and that is, can you tell us where were you staying on the nights of the 8th, 9th, 10th and 11th of April? 
+A.	On those dates, from the 8th, the date when I entered in the French embassy, I spent the night in a room reserved for refugees.  There was a large number of refugees within the premises of the 
+French embassy.  I did not leave the French embassy because I was afraid.  Some of us had never even seen bullets.  We heard shootings, explosions from the direction of Byumba.  We were very much afraid.  Therefore, I did not leave the French embassy on the 9th, the 10th and the 11th -- and even the 12th.  For practically five days, I was at that place, that is, the French embassy.  
+Q.	And then what happened on the 12th of April? 
+A.	Since we used to meet practically every day, in view of the situation that prevailed, a meeting was envisaged for 10 o'clock -- a meeting was scheduled for 10 o'clock.  The minister took me in his car, since I hadn't -- didn't have a car of mine.  And that minister who took me in his car drove me to the Diplomat Hotel where the meeting had to take place.  
+
+On our arrival, we saw vehicles going in all directions.  People arrived and would leave immediately, and we were wondering whether the meeting would actually take place in the Diplomat Hotel.  Then we saw two senior officers of the army at the entrance to the Diplomat Hotel.  There, there was a certain Muberuka; the other one was General Ndindiliyimana.  They told us that the situation had deteriorated, "Flee.  Run away as soon as possible.  Otherwise the RPF is going to kill you."  We were confused.  We did not know what we should do.  
+
+I and that minister, we returned to the French embassy.  On our arrival there, we saw a big lorry parked in front of the embassy.  Even the French were leaving.  We saw our small belongings outside -- our few belongings outside.  Not really outside but next to the entrance.  They knew that these belongings belonged to the ministers who were going to attend the meeting.  That is the situation we met.  
+
+Thereafter, we asked ourselves what we should do.  I do not remember that he told us -- he told us he saw people take the road to the south.  Well, he told us that he saw people take the road to the south.  So we also took the road to the south.  Why?  Because the road to the south leads to 
+five or six préfectures, in particular, Gitarama, Kibuye, Cyangugu, Butare and Gikongoro.  
+
+We did not know exactly our destination.  We simply take the -- took the road to the south.  On arrival at a place known as Runda, we realised that behind us the other vehicles were taking the same road.  Subsequently, we were consoled in our reasoning.  We saw an armoured vehicle, and that made us think that even the president had taken that road.  Without knowing the destination or where we were going to exactly, we knew that we were going to one of the five préfectures.  
+
+On our arrival in Gitarama, we thought that a convoy of such a size cannot go across the préfecture without informing the préfet.  So we thought it was wise to go and see the préfet to ask him what the situation was.  
+Well, he told us what the situation was.  On arrival at the residence of the préfet -- his name was 
+Uwizeye, Fidèle -- we met a large number of people.  The préfet did not know how to help those people. And the préfet helped us to think.  The idea was to find a seat for the government so that the country should benefit from the services of the government.  
+
+If you will allow me, I will continue.  We could have gone to Kibuye.  There were premises where we could have been lodged.  We could have also gone to Cyangugu, but that was a bit too far away.  We could have gone to Butare.  There again, there were premises where we could be hosted.  But nevertheless, we could not go to Gikongoro because there were no facilities there.  
+
+After some thought, we came to the conclusion that we could not go too far away from Kigali, the capital city, and that is how we decided to remain in Gitarama because there, there were premises that could host us where we could be lodged.  We, therefore, decided to remain in the centre called 
+centre de formation professionnel of Murambi.  That centre is found at a place called Murambi.  
+So the government set up headquarters there.  
+
+And, in brief, this is what happened.  
+MR. WEBSTER:
+Sorry.  Could we hear the name of the minister that drove her from the French embassy to the 
+Hotel Diplomat on the morning of the 12th?  
+BY MR. ROBINSON:
+Q.	Yes.  Can you answer that question, who is the minister who took you from the French embassy to the Diplomat Hotel on the morning of the 12th? 
+A.	Mugiraneza.  
+Q.	And was he also the minister who drove you to Gitarama?
+A.	Yes, he was.  
+Q.	Okay.  Thank you.  Now, after the government was established in Gitarama, did they hold meetings of the cabinet there? 
+A.	Yes.  Cabinet meetings were held in Murambi in a small room that was reserved for teachers.  
+Q.	And during one of those meetings around the 15th of April 1994, was there discussion about a man named Joseph Setiba? 
+A.	While we were at that location, we were told that many crimes were being committed and right through to Gitarama:  Theft, massacres, looting.  And we were told that a thief who was called Setiba was using people to steal and kill in Gitarama and he pretended to be an Interahamwe.  So the government decided to arrest that person with his group and lock them up so that it would prevent them from continuing to sow disorder by committing acts of aggression.  
+Q.	And do you know whether or not, in fact, Mr. Setiba was ever arrested? 
+A.	I think he was not arrested immediately.  He must have got news that he was being looked for because the chairman of the Interahamwe did say that that person was sowing confusion around.  I do not know if he was arrested and then he escaped subsequently, but I know that the decision was reached that he should be arrested and put in prison.  He was a major thief and, you know -- and in times of war, thieves like Setiba go around.  
+Q.	Was it possible for Joseph Setiba to have come to Murambi and held a meeting there or attended a meeting there? 
+A.	No.  It was not possible for him to come and take part in a cabinet meeting.  Further, he was being looked for, so I cannot understand how he could have disguised himself to get into the Murambi centre.  As far as I am concerned, that is impossible.  
+Q.	Okay.  Thank you.  Now, turning your attention to the 19th of April 1994, were you present when President Sindikubwabo made a speech in Butare? 
+A.	Yes, I was present.  
+Q.	And can you tell us what you understood President Sindikubwabo to say concerning what the population should do.  
+A.	President Sindikubwabo was saddened -- and you could even tell from his voice.  He was saying that Rwandans were killing themselves and espousing RPF teachings, because they had said that there would be trouble in Rwanda.  And Sindikubwabo was asking people why they were encouraging disorder.  In his speech, he was warning people in Butare and saying that that disorder should not reach Butare.  
+
+He was, therefore, asking each and everyone to assist their neighbour and saying that you -- each person should work to protect their neighbour.  If the neighbour cries out for help, the neighbour should be provided with assistance.  That is what the late Sindikubwabo was saying at the time.  
+(Pages 1 to 16 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1015H 
+BY MR. ROBINSON:
+Q.	Thank you.  Now, we've had evidence in this case that on the 27th of April the prime minister issued instructions for the security of the country, and I'm asking you whether or not after that date you and other ministers went around to different préfectures and held meetings with the leaders of those préfectures.
+A.	After the prime minister's instructions were issued, we decided that it would be better to go and meet members of the population to explain those instructions to them.  And in a cabinet meeting that we 
+held -- if I remember correctly, it should be on the 28th or 29th of April -- the ministers decided that representatives of political parties, the ministers and other persons who could contribute something to Rwandans, the life of Rwandans, should spend five days on a tour.  And we decided on a group which would go to different areas.  The ministers had to go in groups of two and had to be assisted by representatives of political parties.  
+
+As far as my group is concerned, I went to Gisenyi and in Kigali-rural préfecture in the company of Rwamakuba and political party representatives, whose names I do not recall.  Other groups were sent to Butare, Gikongoro, and in particular the prime minister, who went to Butare with another group of people, and that was on the 30th of April.  It was on that date that Gikongoro and Butare préfectures were visited.  The visits started there.  And then after that it was the turn for 
+Gisenyi and Kigali-rural préfectures.  That is where we went next.  
+
+This tour to explain Kambanda's instructions lasted five days only, and in those five days all Rwandans had understood the message in the instructions.  And it was a message of peace that was an urgent message.  Peace had to be restored in the country. 
+Q.	Thank you.  Now, directing your attention to the 6th of May 1994, did you attend a meeting in Ruhengeri with the prime minister? 
+A.	I do not have a clear recollection, but I think I went to Ruhengeri with the prime minister, because I know that I went there on two occasions.  There were Zaireans who had sought refuge in Ruhengeri and who were facing some difficulties.  So as minister of family affairs, I had to go to Ruhengeri to look at the problems of those Zaireans.  The exact date I do not recall, but if you had a document with the right date, I would be very grateful if I could use it to refresh my memory. 
+Q.	Okay.  If you could look at your diary, there is an entry on the 6th of May 1994.  And at the English -- for those of us following English, it's on page 67 of the diary.
+A.	Yes, I have just found the date.  Yes, indeed, I went to Ruhengeri. 
+Q.	Now, can you tell us, what was the purpose of that meeting in Ruhengeri? 
+A.	The Ruhengeri meeting, like other meetings, was part of the meetings that were held during those 
+five days to explain to members of the population the instructions that had been given by the prime minister regarding the restoration of peace.  So people had to explain the content of those instructions and be able to hear other people's opinions. 
+Q.	Did Joseph Nzirorera attend that meeting? 
+A.	Had Joseph Nzirorera been present at the meeting, I would have seen him.  I did not see him, so he was not present at the meeting, and I do not know where he was. 
+Q.	There's a reference to Joseph Nzirorera in your diary for that day.  Can you explain how his name came up so that it was placed in your diary for that day. 
+A.	This is what happened:  Joseph Nzirorera was somebody who had done a lot of good to those who hailed from Ruhengeri, and we said to ourselves that he had to be present.  Unfortunately, he was not present, and the prime minister said the following about him:  "Even Nzirorera recognises our government."  So it was Prime Minister Kambanda who mentioned his name. 
+Q.	Now, you have in your diary the name of Nzirorera, and then there's an entry that says in English, "A government that must defeat the RPF and save Rwanda.  Talks.  Not a national conference.  The proportion of the armies should be proportional to the members of each ethnic group."  Can you explain that entry in your diary, please.
+A.	You would understand clearly that I was not taking down everything that was being said.  I wrote down what came to my mind.  The prime minister said those words because he wanted people to understand that that government was necessary.  If you appear before people to ask them to assist you, you cannot say that you cannot do anything.  
+
+So the prime minister told them, "Our government is going to win the war, win the war against the RPF, and that government will bring back salvation to Rwandans.  Rwandans cannot continue to die."  
+
+So he was trying to build their morale in Ruhengeri, and in Ruhengeri people were living under very 
+bad conditions.  That is where the buffer area was.  And so the minister was trying to put up a winning face, and he was telling people, "We are going to win the war.  We are going to bring back salvation to Rwandans, in particular for people who are living in the buffer zone who are not being assisted by their administrators."  So the minister was trying to tell people all of these things in order to boost their morale. 
+Q.	Okay.  Thank you.  Now, turning to the 12th and the 13th of May 1994, did you attend a meeting of the MRND political bureau at Murambi? 
+A.	I am afraid I did not understand you properly.
+MR. ROBINSON:
+Mr. President. 
+MR. PRESIDENT:
+I'm wondering, maybe we could take the mid-morning recess now. 
+
+MR. ROBINSON:
+Yes.  That would be fine.  Thank you.
+(Court recessed from 1025H to 1105H)
+BY MR. ROBINSON:
+Q.	Okay.  Can you tell us now, directing your attention to the 12th and 13th of May 1994, whether or not you attended a meeting of the MRND political bureau in Murambi.  
+A.	Yes, I attended the said meeting.  But in any case, as concerns the meeting of the 12th, I got there a little late because I had gone to Kabgayi to attend the funeral of the lady director of the nursing school who had been killed by RPF soldiers.  And her name was Dorothée Mukandanga, and she hailed from Mbazi commune, and I could not afford not to attend her funeral.  
+
+Now, as to the meeting of the 13th, I attended the entire meeting. 
+Q.	Thank you.  Now, can you tell -- I think there may have been a translation error.  This is a meeting of the political bureau of the MRND and not the council of ministers; correct?  
+A.	Yes.  I did quite understand that it was a political bureau meeting.  I said on the 12th I arrived a little late but that on the 13th I was present during the entire meeting. 
+Q.	Thank you.  And can you tell us whether or not Mr. Nzirorera attended that meeting.
+A.	Yes, he did. 
+Q.	And Mr. Karemera? 
+A.	He too was present. 
+Q.	Mathieu Ngirumpatse? 
+A.	I did not see him.  I did not see him. 
+Q.	And can you tell us what was discussed at that meeting? 
+A.	In fact, MRND ministers had been invited, and the subject of the meeting, as they were told, was security, security and our mandate as a government.  And we were coming to the end of our mandate, and we were trying to consider what would be done after our mandate.  We also examined the modalities for the creation of a civil defence system.  
+
+Those are the topics that come to my mind.  I'm trying to depend on the letter of invitation that was sent to us before the meeting and the few notes that I took to remember these points. 
+Q.	Do you recall any discussion of the Interahamwe at that meeting? 
+A.	Yes.  The issue of the Interahamwe was raised and considered.  I said earlier that I discussed with Kajuga, who in particular raised the problems that these young people were facing.  He was saying that the young people lacked guidance, that they were being sent to the front to fight the RPF, and that when they were wounded they were not adequately treated, that the soldiers were given enough food but not the Interahamwe.  
+
+That is the context in which the problems of the Interahamwe were considered.  The idea was to determine the ways and means of supporting them.  I remember in particular that we decided to contribute some money in order to assist them.  But we faced a serious problem.  Everybody was calling himself or herself an Interahamwe.  So we had to define who an Interahamwe actually was, and it was difficult for us to arrive at a definition of what an Interahamwe actually was.  
+
+But the meeting ended in a dilemma.  We were not able to determine exactly who had to be given the guidance we were talking about. 
+Q.	Now, was the MRND leadership attempting to encourage the killings or to stop them? 
+A.	My party, a party of unit and peace, never incited people to kill.  I would have been the first person to resign from that party.  So let me assure you that that was never the case. 
+Q.	Now, during the time of the interim government after the death of President Habyarimana, what was the relationship between the MRND ministers and the MRND leaders? 
+A.	Let me hope that the interpretation was correct.  The government was not an MRND government.  It was a government that comprised five parties.  The MRND and these other parties formed a government which had some cohabitation rules.  There were rules between the MRND and other parties of the government because MRND could not monopolise power.  When MRND organised a meeting, it convened only MRND ministers.  
+
+That could not happen after the president's death, President Habyarimana.  That happened before his death, at the time when we were preparing to join the broad-based transitional government.  That is when that type of meeting was organised exclusively for MRND.  After the death of the president, that type of meeting did not take place except for the 12th and the 13th.  I do not remember any other meeting. 
+Q.	Can you tell us how often you saw Joseph Nzirorera after the death of President Habyarimana.  
+A.	I didn't meet him on several occasions.  I remember I caught sight of him at the swearing-in ceremony.  And then on the 12th and the 13th of May I saw him.  Another date on which I could have seen him was the 4th of July.  That was a public ceremony.  I could have met him, but I was not present there, which means that I did not meet him often. 
+Q.	We have evidence that on the 17th of June 1994 the cabinet approved the appointment of 
+Juvénal Kajelijeli as bourgmestre of Mukingo commune.  Did Mr. Nzirorera ever contact you about that appointment? 
+A.	He did not tell me anything.  In fact, when I met him on the 12th and the 13th, we did not talk about the appointment of bourgmestres who could assist members of the population to flee.  We were not even envisaging that possibility.  It was in Gitarama when we found that we were losing ground.  We did not discuss Kajelijeli -- he and I did not discuss Kajelijeli. 
+Q.	Thank you.  Now, can you tell us why it was that the interim government was not able to stop the killing.
+A.	You are placing me in a difficult situation because the government spared no effort.  We did everything possible.  And as from the first opportunity we had, we asked for assistance.  We even sent somebody to negotiate with the RPF for an end to be put to the fighting.  
+
+So it is not out of lack of will, but rather it's because we did not have the possibility that we could not stop the killings.  The RPF and those who were supporting them absolutely wanted to take over power by force.  And, you see, we asked for assistance from the embassies of different countries which assisted us in negotiating for peace.  We sent a delegation to negotiate a ceasefire with the RPF, but the RPF was intransigent and said that they would not take -- we even sent soldiers.  
+
+And while we were waiting for the conclusion of the negotiations, we heard the RPF announce that it did not want to have any foreign force in Rwanda and that any foreign force that was found in Rwandan territory would be considered as an enemy.  
+
+As for our part, we did everything possible to tell members of the population that they should not kill each other and they should not help the enemy.  
+
+We left Kigali and went to Murambi because we were running away from the RPF.  We left Murambi and went to Muramba.  And in order not to desert members of the population, we remained in the country.  We tried pacification; it did not work.  We tried civil defence; it did not work.  So it is not because we lacked will.  It is rather the fact that we were weak in military terms that led us to fail.  Please understand that. 
+Q.	Did the MRND leaders have the ability to stop the killing? 
+A.	I do not know if the MRND leaders even had a base which they could control.  When one is a member, one is free at any time to give up the membership card.  All I know is that those leaders were supporting the government, and they could not carry out activities that the government did not approve.  The government was against the killings, and they did all they could, given the resources that they had. 
+Q.	Thank you very much.
+MR. ROBINSON:
+Mr. President, I have no further questions.  
+MR. PRESIDENT:
+Thank you.  
+
+Do any of the other Defence teams wish to examine this witness?  
+MR. SOW:
+Mr. President, I have no questions.  
+
+MR. PRESIDENT:
+Thank you.  
+MR. WEYL:
+Mr. President, we do not have any questions for the witness either.  Thank you.  
+MR. ROBINSON:
+Excuse me, Mr. President.  I see Mr. Hometowu is absent, but I estimate the duration of my 
+direct examination to be about one hour and 30 minutes.  I can be corrected if I'm wrong. 
+MR. PRESIDENT:
+Yes.  When Mr. Hometowu returns we'll get him to confirm that.  
+
+Madam Witness, you are now going to have to respond to the Prosecutor, who will now have an opportunity to cross-examine you.  
+THE WITNESS:
+Thank you, Mr. President.  I understood you clearly.  
+MR. WEBSTER:
+Good morning, everyone.  
+CROSS-EXAMINATION
+BY MR. WEBSTER:
+Q.	And good morning to you, Madam Nyiramasuhuko.
+A.	Good morning.
+Q.	The first thing I'd like to do is congratulate both you and Mr. Robinson on a very efficient direct exam because it went much faster than both he and I anticipated.
+MR. WEBSTER:
+And I say that only to indicate to the Chamber and the other parties that I was expecting a direct exam that would take all day, which is the latest information I had had.  And I had prepared a cross-examination of four and a half hours, but I'll try to compress it.  
+
+And there are a number of documents that I'll be referring to during my cross-examination, but unfortunately I don't have copies with me at this moment.  They have all been circulated by email, or the majority of them.  But in terms of having physical copies that I can hand out, I hadn't anticipated making those copies until the lunch hour or this afternoon.  But we'll do the best we can, and during the lunch hour I'll make copies of anything that we'll need for the afternoon.
+BY MR. WEBSTER:
+Q.	Madam Nyiramasuhuko, we can agree that you began your political career with the 
+Nsengiyaremye government, which was put in place on the 16th of April 1992; that's correct, isn't it? 
+A.	Yes; that is correct. 
+Q.	And that was the government that introduced multiparty politics to Rwanda; can we agree on that? 
+A.	No.  Before that government there was a government led by Nsanzimana, which was also a 
+multiparty government. 
+Q.	Wasn't the multiparty nature of the Nsanzimana government pretty much considered a fraud?  Wasn't it severely criticised by the opposition parties?  It was basically a puppet government of the MRND which was dressed up to look like a multiparty government.  Wasn't that the criticism that was being made at the time? 
+A.	At the time I was not involved in politics.  What I know is that that government did exist, and it was made up of MRND members, and PDC was a separate party from the MRND. 
+Q.	Well, even if you were not in government, you must have had some political ambitions by 1991, the year before you actually became a minister.  You couldn't have been completely ignorant of what was going on in the political sphere.
+A.	No, I was not very interested in politics.  In fact, I had not been following political developments for almost 20 years. 
+Q.	So your appointment as a minister in the government of Nsengiyaremye must have come as quite a surprise to you then.  Isn't that rather a high position to occupy in Rwanda, to be a government minister?  And you're suggesting to us that your appointment caught you by surprise in April 1992?  
+A.	I was not involved in politics before, and the ministry that I was given matched my professional profile.  I was -- I had been dealing with social issues for about 20 years already, so I was capable of fostering women's progress and family progress.  And I believe it is for that reason that I was appointed. 
+Q.	Well, Madam Nyiramasuhuko, I believe you testified in your own trial for almost a month, somewhere in the region of three or four weeks, if not more.  I haven't counted the days.  But we can both agree that you spent a considerable amount of time testifying in your own trial, at least a month.  Isn't that so? 
+A.	That is correct.  I believe I testified for 39 days.  But I can explain that.  It was as a result of this diary.  And I was saying that this was not a professional diary, and I did not -- I didn't want it to be accepted as an exhibit.  But unfortunately it was presented, and there were entries covering 364 days.  So that is why I spent such a long time in the witness box during my trial. 
+Q.	All right.  Thank you.  And, Madam Nyiramasuhuko, if you look over at me as you're answering, if I wave my hand at you I'm simply asking you to pause for a moment so I can clarify my question, and that way we'll get a direct answer to the question.  I'm not trying to be rude.  I'm just trying to get your attention so I can focus my question a bit better.  
+
+So we understand from your last response that you testified for 39 days, which must have taken at least two months, two calendar months, as you were giving your evidence before Trial Chamber II.  Does that sound fair or accurate? 
+A.	What you're saying is correct.  I remained in the witness box for about three months. 
+Q.	Thank you.  And you spent a good deal of your time on the witness box calling 
+Professor André Guichaoua a liar and repeating quite often that he was misinformed.  Do you recall those portions of your evidence? 
+A.	Yes.  I said that.  And I should add that Guichaoua behaves like a wizard, a prophet, who attempts to have words say what they do not mean. 
+Q.	And you criticised Guichaoua because he appeared as an expert witness in your trial and offered substantial interpretation of your diary and the rise of your political career; right? 
+A.	I did not criticise him.  I only spoke the truth because there were many errors in the document he produced. 
+Q.	But you will agree with me that one of the themes developed by Guichaoua in his expert report, which also made its way into his testimony in your trial, was that you were a political neophyte; that you really had no experience in politics; that your rise had more to do with your friendship with Agathe Kanziga, the wife of the president; that your studies at the university were facilitated by your contacts in the MRND.  So he pretty much characterised you as someone who wasn't prepared for public office and was propped up simply because of your relationships to high-level politicians and businessmen with the MRND.  Have I incorrectly summarised his conclusions?  
+A.	You have just repeated a rumour.  That rumour should not be taken for the truth.  I said that what Guichaoua said was not real.  If you know my background you will understand that what I did regarding the emancipation of women was something that was in my blood, so to speak. 
+Q.	But your own responses to my last series of questions seemed to be giving credence to 
+Guichaoua's conclusions, because it seems rather odd that someone with no political interests in 1991 and no political experience for the 20 years leading up to 1992 suddenly finds herself a minister in one of the first multiparty governments in Rwanda.
+A.	Counsel for the Prosecution, I do not know whether you are aware of ministries that are referred to as technical ministries and ministries referred to as political ministries.  I was given a ministry -- well, a ministry that dealt with what I had done from childhood.  I was interested in the emancipation of women from my early days.  Rwandans are aware of this.  I always fought for equality, for the emancipation of the Rwandan woman.  I was among the pioneers in that context.  
+
+I therefore do not agree with that liar who gathers information which he doesn't verify, that liar who simply puts the information he gathers in writing without checking whether his sources are reliable. 
+Q.	And was it your progressive feminist thinking that led you to take shelter with children and tearful women back on the 6th of April when you were brought to the PG camp, the Presidential Guard camp, as you testified earlier this morning?  Because I suggest to you that it's rather odd that a minister in government would allow herself to be consigned to a room with other women and children simply because she was a woman.  And here I'm referring to your own testimony of earlier this morning when you said you didn't know what was going on in the Presidential Guard camp because you were in a room with women and children, whereas the men were somewhere else.
+A.	Here is what I can tell you:  In our culture, that is the Rwandan culture, when you are attacked, women do not go into hiding in rooms.  They come out and see the source of the attack.  I was not locked up.  I could come out.  But I was useful to these children and women who were with me.  I called for help, assistance, for these women and children.  When we were able to leave that place I alerted people so that they should try to help the women and children in question so that bombs should not fall on them.  
+
+This was part and parcel of my profession since childhood.  I'd always taken care of women and children. 
+Q.	Well, thank you for your response.  We're not going to get too far afield with that line of questioning.  I simply wanted to get back to your political and social profile in 1991 and 1992, and you've clarified that for us.  
+
+But getting back to the Nsanzimana government, this was a government which was basically an MRND government.  It had one or two ministers from another party, but that party was basically a satellite of the MRND at the time.  And it was through a series of protests that that government was replaced by the Nsengiyaremye government on the basis of a power-sharing agreement among the five registered political parties.  Isn't that so?  And if you don't agree you can tell us why.
+A.	I do not agree with you.  It was part and parcel of a continuous process.  If at the beginning there were only two parties alongside the MRND, those were the two parties that had accepted to sign an agreement with the MRND.  The PDC party was represented by someone who always supported the RPF.  The PDC could not have been a satellite of the MRND because the person who represented that party was a pro-RPF person.  It cannot therefore be said that the PDC was a satellite of the MRND.  That would be nonsense.
+Q.	In any case, you can at least agree with me that the government of Dismas Nsengiyaremye, which was put in place on the 16th of April 1992, was the very first government which was predicated upon a written power-sharing agreement among five separate registered political parties.  Can we agree on just that much? 
+A.	There is something you have added and which I do not agree with.  Otherwise the multiparty process had already started with Nsanzimana government and the process continued.  Rwandans evolved in their thinking, and the government made up of five parties was put in place.  We therefore evolved in the context of multiparty politics.  I agree with you. 
+Q.	And that multiparty government of five separate political parties was put in place on the basis of a power-sharing agreement which was in the nature of a contract dated the 7th of April 1992 which each of the five parties signed.  
+A.	I was not present when those five parties met, but I do understand that those five parties agreed to set up a government, to form a government, a government which had two leaders to the agreement with the RPF.  But I cannot tell you how the five parties in question signed the agreement or accord which put in place the Nsengiyaremye government. 
+Q.	At this point, Madam Witness, I'm just trying to get you to acknowledge that there was an accord.  It was a written accord on power-sharing between five registered political parties that each party signed.  Can we agree on that?  Or are you still going to say that you don't know anything about it? 
+A.	Yes, that was done.  I even saw the protocol which was signed by the five parties in question. 
+Q.	And that protocol was renewed again in 1993, in April of 1993 for -- to put in place the 
+Uwilingiyimana government.  And when things fell apart in April of 1994, the political parties that wanted to put in place an interim government ran back to that same protocol and renewed it once again on the 7th of April 1994.  Are we agreed on that?  
+
+So this protocol on power-sharing between the five political parties was really a founding document for the first government of Nsengiyaremye and then the subsequent government of Uwilingiyimana and then for Kambanda's government.  Are we agreed on that in its various forms?  
+A.	I agree we always relied on that protocol.
+(Pages 17 to 26 by Claudette Ask)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145H 
+BY MR. WEBSTER:
+Q.	All right.  Thank you.  
+
+Now, directing our attention again to the first -- or the original protocol from April of 1992, this basically split up the government between these five parties.  Certain ministries were apportioned to each political party.  And then there was another agreement that was even apportioning préfectures to the various political parties.  Can we agree on that? 
+A.	That is not entirely correct.  You added certain things that did not feature in the protocol.  For example, the distribution of posts of préfet was not mentioned in the protocol.  
+Q.	Yes.  I'm sorry if I misspoke.  What I was trying to suggest to you is that there was a protocol of the 7th of April 1992 that divided up the various government ministries among the five political parties.  And in addition to that protocol, there was another agreement -- a more informal agreement among the parties to also divide up the 11 préfectures in Rwanda so that the parties would choose or decide amongst themselves which préfecture each party would control, at least in terms of the assignment of préfets.  Can we agree on that? 
+A.	No.  I am not aware of that.  I know that political parties somehow revolted, saying that the post of préfets were occupied by the MRND.  And since Nsengiyaremye's government, we were in a multiparty government.  We decided that there will be a preselection.  But there was no decision regarding the sharing of post of préfets.  We had just entered a democratic process through which the leaders had to be elected.  
+Q.	Madam Witness, we both know that the préfets were not elected by universal suffrage.  The préfets were basically assigned on the basis of their political party.  Kigali was for the MRND.  Ruhengeri was for the MDR.  Butare was for the PL.  Kibungo was for the PSD.  Kibuye was for -- I think it was the PDC.  Ruhengeri was for the MRND.  All those things were predetermined in an informal agreement to share power among the five political parties; isn't that so? 
+A.	Well, I do not know the period in which you place this.  Is it during the period when we were trying to restore peace following the death of the president?  If you go beyond the death of the president, I would say that I agree with you.  People were trying to say that they could not bring together people to hold elections.  Otherwise, prior to this, it was decided that there would be a preselection before people were appointed to post of préfet.  During Kambanda's government following the death of the president we were informed -- I'm sorry. 
+Q.	I'm sorry.  But I really wasn't concerned with Kambanda's government.  We were still on the government from 1992.  But I think I -- I sense that you don't agree with me, so we'll just move on.
+	Your -- your response is noted.  You don't agree that the préfectures were assigned, but you do agree that at least the government -- the various ministries were assigned to the various political parties.  
+A.	What surprises me is that counsel for the Prosecution has never included this idea of preselection among the problems of Rwanda, the preselection of candidates for the post of préfet.  There was a prime-ministerial order which said that people had to be elected.  I do not -- I am not aware that there was any instrument sharing the post of préfet.  So this will be a revelation to me. 
+Q.	All right.  Thank you.  Your response is clear.  In any case, we can agree that under the protocol of understanding among the various political parties that the MRND was still the dominant party.  It held at least nine ministerial portfolios, including the ministry of interior and the ministry of defence, which were two of the most important ministries back in 1992 and in 1993 and again in 1994 under Kambanda.  
+A.	Counsel for the Prosecution, you have asked me two questions at the same time.  You said that the MRND held nine ministerial portfolios.  I agree with you on that.  But do not say that the MRND held important ministerial portfolios. 
+Q.	Didn't the MRND hold the ministry of interior and local affairs? 
+A.	That's correct. 
+Q.	Isn't that a very important ministry since it governs the territorial administration throughout the whole country? 
+A.	That's correct. 
+Q.	Didn't the MRND hold the ministry of defence? 
+A.	That's correct. 
+Q.	Wasn't that an important ministry? 
+A.	It was a ministry within which there were tremendous problems.  It is -- it would be considered an important ministry in times of peace, but in times of war -- excuse me. 
+Q.	I didn't ask you about the problems of the ministry.  I'm asking you if it was an important ministry.  You can say "Yes, it was important", or "No, it was not important", or "No, I don't know."  So that's really the three ways that you can appropriately -- appropriately answer that question.  
+A.	I cannot answer with a yes or no regarding the ministry of defence.  I am unable to answer that question in that manner because -- 
+THE ENGLISH INTERPRETER:  
+We haven't heard any more from the Kinyarwanda booth or perhaps from the witness. 
+BY MR. WEBSTER:  
+Q.	All right.  I can accept that.  You don't know or you -- you cannot confine yourself to a yes or no as to whether the ministry of defence was important or not.  What about the ministry of planning?  Wasn't that an important ministry? 
+A.	No, I cannot say that the ministry of planning was important.  The ministry of planning dealt with the whole country.  It was not an important ministry that put -- from a political standpoint.  The
+	ministry of planning had nothing -- or, rather, it had to deal with the whole population.  But from a political standpoint, I cannot say it was important because it was not directly linked to the electors.  I may agree that in one sense it was an important ministry but not from a political point of view. 
+Q.	Didn't it have access to significant funds because it was the conduit for development aid for your country, which was probably the most significant source of foreign exchange for Rwanda?  Isn't it the ministry of planning that had access to those funds and distributed them for development purposes in the country? 
+A.	I can say that the aid -- first of all, the aid agreements were signed first by the ministry of foreign affairs.  It is the ministry of foreign affairs which ratified protocols, and the implementation of the protocols was left to the minister of planning.  You would, therefore, understand that the ministry of planning was a ministry that shared its importance with the ministry of foreign affairs.  
+Q.	Which one controlled the money? 
+A.	This is what happened in Rwanda:  Aid funds were controlled by the ministry of planning, and the national budget which takes care of the population was controlled by the ministry of finance.  In fact, it is the ministry of finance which was more important than the ministry of planning and even more important than the ministry of defence.  In fact, war -- or rather, money is the -- the nerve centre of any war. 
+Q.	All right.  Thank you.  We have your response.  In any case, getting back to the main point I was trying to address with you.  We agree that the MRND was the dominant political party in terms of the number of ministries it controlled in the multiparty government in 1992.  Getting back to that initial point, are we agreed on that? 
+A.	I agree with you that the MRND had more ministerial portfolios. 
+Q.	And can we agree that the MRND was confronted with giving up substantial power and privilege to the opposition parties and to the RPF through the Arusha Peace Accords, which also included its own set of protocols on power-sharing? 
+A.	I was never informed of that issue.  I have no information in that regard.  However, during negotiations you must accept to make concessions.  That was so decided to move forward the negotiations.  No one could complain about that.  In fact, no one complained about it.  No one complained about the
+	power-sharing arrangement during the negotiations. 
+Q.	Well, I think you're wrong on that point, and I think you've testified quite to the contrary in your own trial.  Quite a number of people, especially the MRND, complained about how power was going to be shared under the Arusha Accords.  
+A.	Can I give you an explanation?  Here is my explanation.  It is true that a number of ministerial portfolios given to the MRND decreased.  The MRND wanted to have more, as everyone would in the course of any negotiation whatsoever.  The MRND had a desire to preserve its nine ministerial positions, and that is not a crime.  But if you are unable to have what you are looking for in a negotiation, that doesn't prevent you from accepting the negotiation documents to be signed.  It is true that the MRND lost some ministerial portfolios, but this is normal in the context of a negotiation, and this is not different from what I said.  I told you that what had been decided had to be implemented.  I was not referring to the negotiations.  You should understand that there is a difference between these two things. 
+Q.	Well, we're agreed on at least one thing, which is that the MRND which had nine ministerial posts under the previous governments -- and here I'm referring to the governments in 1992 and 1993 -- was going to be reduced to five posts.  And some of the ministries that it controlled was going to be given to the
+	M -- to the RPF.  So rather than having nine ministers, it would only have five.  But in addition to that, the presidency, which was all-powerful prior to 1992 and which was still very powerful in 1992 and 1993, was going to be eviscerated.  It was going to be reduced to a shell.  The presidency was simply going to be a figurehead rather than the dictator -- the dictatorship it was prior to 1992.  Isn't that true as well? 
+A.	I do not agree with you when you say that our late president was a dictator.  It is a matter of regime.  If it was in a presidential -- if it is a presidential regime, well, then it's a presidential regime.  Do not attach the adjective "dictator".  We were in a presidential regime, and we were going to enter a new regime.  There is a difference between the two types of regimes.  But that should not enable you to say that our late president was a dictator. 
+Q.	Well, actually, I apologise to you if that's what you heard, Madam Witness, because that's not exactly how I put things.  I was trying to refer to the presidency, the office, and stay away from the person of Habyarimana.  So let me try again.  
+
+Isn't it true that prior to 1992 the presidency, the office of the president, was almost all-powerful, and then with the introduction of multiparty politics, pursuant to a protocol of understanding among the
+five political parties, the presidency was still powerful but it was not as powerful as it used to be?  But under the Arusha Accords the presidency was really just a figurehead.  He was -- the president would lose much if not all of his political power and the running of the country under the Arusha Accords was really going to be the responsibility of the prime minister.  Isn't that true? 
+A.	What you say is partially true.  As I said earlier, we had changed our regime from a presidential regime to another political regime, and that was what the situation was.  Negotiations were ongoing.  We did not want to remain with our presidential regime, so we decided to take up another regime which was different from the presidential regime.  On that note, I agree. 
+Q.	Well, you said I was partially correct.  What is the part of what I said that is not correct?  Because it seems to me that you're agreeing with me in whole.  So tell me what was incorrect in my last submission to you.  
+A.	For example, you said that our presidential regime prevented the inherent running of the country.  It is true that in a regime which is not presidential the presidential -- the president's powers are eviscerated.  There I agree with you. 
+Q.	So you agree with everything I had submitted to you.  
+A.	I do not agree with everything you said.  I agree with you with regard to what I have just said.  I agreed that we were leaving a presidential regime for another regime in which the presidential -- the president's powers were reduced.  That I agree with. 
+Q.	Okay.  I think we are saying the same thing.  So I'll -- I'll leave the trial record to explain itself.  
+
+Where the military was concerned, isn't it also true that under the Arusha Accords the
+Rwandan armed forces were going to be combined with the patriotic -- the Rwandan Patriotic Army.  The two armies of the two belligerents were going to be fused, and the RPF would hold 40 per cent of the officer corps so that the MRND was also losing control of the military.  Isn't that also true? 
+A.	There are a number of points you are adding which I do not agree with.  For example, you are saying that MRND are -- the MRND was losing control over the military.  If you kept that aside, I would agree with you.  But I don't agree with you if you say that the MRND was losing control over the military. 
+Q.	Okay.  So we'll break it down and take it bit by bit.  You can at least agree that the 
+	Rwandan armed forces were going to be combined with the Rwandan Patriotic Army.  So the two belligerents would have -- would be -- would be merged into one national army.  That's true, right? 
+A.	That I agree with.  
+Q.	And the Arusha Accords was going to allow or -- or provision -- made -- made arrangements for
+	40 per cent -- two-thirds -- excuse me, not two-thirds -- 40 per cent of the officers were going to be assigned to the RPF? 
+A.	I do not believe that is correct.  I think, rather, that the officers had to be distributed to -- or by
+	50 per cent.  And something -- there was something for the troop soldiers.  So I -- I am not sure I remember what is provided for in the Arusha Accords. 
+Q.	Okay.  Well, my suggestion to you is that it was at least 40 per cent of the officers were going to be -- were going to come from the RPF.  But that's something that we can check because we have the Arusha Accords in evidence, and that protocol is actually a writing that can be consulted.  So we don't have to quibble about that.  But the point I was trying to make is that the RPF was making significant inroads in its access to military power through the Arusha Accords given the way the two armies were going to be combined. 
+A.	That is correct.  The two armies had to be united and the Rwandan -- Rwandans had accepted that to put -- in order to put an end to the war.  
+Q.	Wouldn't you agree with me that this loss of power for the MRND which only two years prior -- 
+two or three years prior was the only political power in Rwanda, that that loss -- significant loss of power was very dispiriting or upsetting to many members of the MRND? 
+A.	I still have not understood your question, a government comprising five parties.  MRND -- in fact, I don't see where you're driving at. 
+Q.	What I'm suggesting to you is that the MRND was losing significant power through the Arusha Accords.  And many of the MRND leaders were upset by this and were accusing the RPF of having gotten too much at the bargaining table, and they were opposed to the Arusha Accords.  
+A.	You are asking me for too much.  You are putting too much questions about the RPF -- the MRND to me.  I -- there were five parties in the government, and we had already given our opinion regarding power-sharing.  If MRND had thought along the lines you are representing, it would not have been meaningful.  You see, MRND was not the only party in the country.  In my native préfecture the MRND did not even have 30 per cent.  Let me point that out to you.  And you are saying that the soldiers were against -- but all soldiers were not affiliated to the MRND.  I find your question difficult to understand.  
+Q.	All right.  Let me approach the issue in a slightly different way.  Do you recall testifying back on the 8th of November 2005 at pages 32 and 33 in the English test, which would start on page 41 in the French text?  You were being questioned by Mr. Marchand, and he says at the bottom of page 33 in English:  "Madam, is it correct to say that on the 9th of January 1993 that within the Arusha Accords the protocol agreement under which the MRND lost four ministers to the RPF?"  Your answer is that: "I see that that is the date on which the agreement on the sharing of power was signed."  Question:  "Madam, the question is more specific.  What I'm asking you is whether on the 9th of January 1993 the protocol agreement under which the MRND lost four ministers to the RPF which were given to the RPF."  And you continue finally by accepting that.  
+
+You are asked:  "Madam, did you" -- on page 34 -- "Did the MRND agree?  Did you find it fair and equitable that the RPF should have five ministries which had belonged to the MRND?"
+
+Your answer -- and he is reading from an exchange that you had with your own lawyer,
+Madam Bergevin.  Your answer at the time was:  "To me personally that did not seem fair because it destabilised the MRND." 
+
+So I apologise for the way the question has come out.  But what I'm suggesting to you, Madam Witness, is that, when you are being cross-examined by Mr. Marchand, who was the attorney for Kanyabashi, he made reference to your previous response -- your previous responses to your own attorney in direct examination where you admit that it was not fair to the MRND that five of its ministries should be given to the RPF.  So that's something you said in direct examination and which was put to you in cross-examination in your own trial.  
+
+So giving some thought to that, how do you answer my question now?  Don't you think it was unfair?  Or wasn't that a significant body of opinion in the MRND that it was unfair to the MRND to take its ministries away and give it to the RPF? 
+A.	The Defence counsel put that question to me, and I wanted to explain the prevailing situation.  We thought that the ministries would be liberated and that they would be redistributed.  That is, the -- the RPF should be able to take some ministries which belonged to other parties.  That is what I wanted to explain.  That would have been possible.  Sharing does not mean that MRND had to take all the ministries.  For example, the ministry I was responsible for, the ministry of family and women's affairs, could have been given to the MDR.  MDR could have left the ministry of education to -- for another -- to another party and so on.  That is how I saw things, and I was not the only person to think in that fashion.  But that is far from saying that we did not support the accord.  In all negotiations you make proposals.  Some are accepted, and others are not.  As far as I am concerned, it would have been proper for all the ministries to be placed at the table and be redistributed to all the parties without all ministries being taken from the MRND only.  That would have been impossible.  
+Q.	So you agree that it was -- that the MRND complained that its ministries were being taken away from it and given to the RPF.  The long and short of it is that you agree with that proposition, isn't it? 
+A.	I was also a member of the MRND.  But I was not the representative of the MRND.  But the thinking was not that strange -- is -- I didn't reason as an extraterrestrial.  There were other people who could have thought they were (inaudible).
+Q.	I'm still not answering -- understanding your response.  Wasn't there a significant body of opinion within the MRND, including your own, that the Arusha Accords or those protocols on power-sharing took too much away from the MRND and gave it to the RPF?  If you could start your answer with a yes or a no, I think that would assist us.  
+A.	You see, I have no means of knowing the number or percentage of people who thought like me that there was another way of distributing ministerial portfolios without taking from one and giving to the other.  I cannot tell you whether it was 50 per cent or more or less.  There is no way I can know that. 
+Q.	But at least that was your thinking.  You agree with me on that much.  
+A.	Yes.  I was answering the question put to me by a Defence counsel who wanted to know my opinion and I gave it forthwith.  I said that that was my impression that it would have been better for the
+	19 ministries to be redistributed.  And I think that they should definitely be people who thought in the same fashion.  
+Q.	Well, those protocols -- or the ones that we have been discussing were signed on the
+	9th of January 1993, and they were negotiated by Boniface Ngulinzira, who at the time was the
+	ministry -- minister of foreign affairs.  After those particular protocols were signed or negotiated in January of 1993, didn't President Habyarimana remove him because he was dissatisfied with the way in which he negotiated those protocols?  
+A.	I am not aware of that episode.  Not at all. 
+Q.	Well, I put it to you that you are aware of it because you discussed it at great length in your own trial.  And I can find the references for you and read them to you after we come back from lunch.  
+
+But let me assure you that, when you were answering questions back in 2005, among the questions that you answered was a series of questions about the removal of Ngulinzira, his replacement by Anastase Gasana, the fact that Habyarimana was angry -- Habyarimana -- and many people in the MRND -- was angry with him having negotiated those protocols and people were calling for those protocols to be set aside; isn't that so? 
+A.	I know nothing about the president's annoyance or anger.  But I admit that Ngulinzira was replaced by Gasana.  That is the reality.  That said, I am unaware of how angry the president was, as you say.  If you want, I could add something else because I heard you talking about the percentage of soldiers.  Let me remind you that Alison Des Forges said that the RPF did not have to have a military -- a
+	proportion -- a proportion of soldiers that was higher than its rate of popularity, and the advice she was giving to the negotiators -- but when one fails in putting across one's idea during negotiations, one has no choice, one accepts the situation -- the situation. 
+Q.	Wasn't Ngulinzira characterised as an accomplice of the enemy for having sold away the country in Arusha?  Specifically recurring -- referring to those protocols on power-sharing that he signed on the
+	9th of January 1993? 
+A.	You see, journalists write what they -- what they want to write.  Some could have said that he betrayed the country, but others were satisfied with the outcome of the negotiations.  So it all depends on who is speaking. 
+Q.	Wasn't there significant criticism coming from the leadership of the MRND party that Ngulinzira had sold away the country through the protocols on power-sharing that he signed on the 9th of January 1993? 
+A.	My government criticised him because often we would agree on something in a cabinet meeting, and once Ngulinzira went back to the negotiating table, he would accept solutions that were not in line with what we -- we -- we agreed on.  But the government that I was part of did criticise him. 
+Q.	And you'll agree with me that Ngulinzira was one of the first people that were killed when the troubles started back on the 7th of April 1994; isn't that so? 
+A.	As part of the tragedy in Rwanda, Ngulinzira was killed.  He was not the first person to be killed, but he also was killed.  Why?  Because where he was he begged for UNAMIR to come to his assistance, but UNAMIR abandoned him.  UNAMIR did not assist him.  Responsibility should be taken by those who had abandoned him when he had called for assistance.  I was not personally -- I did not personally witness that, but that is what I was told.  
+Q.	And wouldn't you agree with me that the killings of Kavaruganda, Ngango, Landouald Ndasingwa, Rucogoza, a whole list of opposition politicians, along with Ngulinzira, were the first persons to be killed when the troubles started on the 7th of April? 
+A.	To say that the list you have just given comprises the names of the first people to be killed, I would not agree with because there were also other people who were killed from the outset.  There are people -- there are things that experts of the Prosecutor's office are not saying.  Mr. Guichaoua is not saying that (inaudible) was on -- these people were on the list of -- these people were on the list of the people that RPF wanted to kill after the death of Gatabazi.  I wonder why he was hiding that.  I wonder why he did not say that, because if he had told the truth, we would know who got Rwanda into this bereavement.  But he did not do so, and he could have done so in what he wrote.  
+MR. WEBSTER:  
+Your Honour, I have a significant way to go.  But this is a convenient point in which to -- to stop for the morning.  So could we adjourn now, and then we'll pick up again at 2 o'clock. 
+MR. PRESIDENT: 
+Yes.  We will take our luncheon adjournment now.  
+(Court recessed at 1230H)
+(Pages 27 to 35 by Deirdre O'Mahony)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1410H) 
+MR. WEBSTER: 
+Good afternoon to everyone.  Let me begin by apologising to the interpreters because I don't have printed documents for them, but whatever I use, I will use sparingly and go very slowly. 
+
+For everyone else, I did circulate most of this material by email and in previous disclosures, and I think we have a very unique situation with this witness because her testimony was so voluminous and the documentation that was used was so voluminous that it's really a challenge trying to figure out what should be copied.  So we'll do the best that we can, and I'll make an effort to go very slowly.
+
+I'd like to also address the issue of time because Mr. Hometowu informs me that I have 24 minutes left by his count, and it would be an impossible feat to do justice to this witness in 24 minutes.  And if I'm going to do a reasonable job, I think I would need until tomorrow at lunchtime.  So rather than to start off and be cut off, maybe the Chamber can give me a cut-off point by which time I have to stop.  And then I will collapse everything within those parameters.  
+MR. ROBINSON:
+Mr. President, I don't object to Mr. Webster taking the time that he has asked for.  I do note that he's covered -- spent a lot of time covering issues that are not necessarily covered in my direct examination but could possibly go to issues of credibility.  So I haven't objected.  But I think he can be a little more efficient than he was this morning.  In any event, I don't object to him having until tomorrow at the 
+lunch hour, and it won't impede our flow of witnesses. 
+MR. PRESIDENT:
+Mr. Robinson, if we give that time, can you put on your next witness by Wednesday morning?  
+MR. ROBINSON: 
+The next witness will be ready tomorrow. 
+MR. PRESIDENT:
+Okay, Mr. Webster.  We have decided to grant your application.  
+MR. WEBSTER: 
+I'll try to move quickly, and I'm not suggesting that I will use all the time tomorrow, but that's a reasonable projection.  If I can accomplish it sooner than that, I certainly will.  
+BY MR. WEBSTER:
+Q.	Madam Witness, I wanted to start by going back to one of things we touched on this morning, and I mentioned to you that I would find a reference in your previous testimony that would assist us today, and I have found it.  It's at page 36 of your testimony on the 8th of November 2005 in the English text.  And you're being asked a question by Mr. Marchand.  
+
+And he suggests to you that, as far as you know, didn't Dismas Nsengiyaremye, the prime minister, say that the MRND and President Habyarimana had refused to recognise the protocol of the 
+	9th of January 1993 so much so that the president unilaterally suspended the participation or the attendance of the minister of foreign affairs and head of the delegation to the Arusha Accords replacing him with the minister of defence which led to a halt in the negotiations and the resumption of hostilities on the 8th of February 1993.  And in response to him, you seemed not to know the answer or what he was talking about.  So I put it to you again.  It's a lengthy exchange, but that's where it begins.  
+
+Wasn't the MRND and Habyarimana so opposed to those protocols that they actually caused a rupture in the negotiations and that was one of the contributing factors to the RPF offensive in February 1993?
+A.	I do not think that the breach of the ceasefire by the RPF was for that reason.  I do not think that it was reason enough for a country to be attacked and for people to be massacred.  All I can say is that the accords that had been signed did not take into account the mandate given to government by -- to Ngulinzira.
+
+I believe that the parties met and agreed that the head of the delegation was not stating the position he had been asked to negotiate on.  So I do not think that he was only criticised by the MRND.  The MDR also criticised him strong -- in very strong terms.  I, therefore, do not believe that it is correct to say that such was the reason to consider it as being abnormal. 
+Q.	Well, Madam Witness, didn't the Rwandan authorities -- and here I'm talking about basically the MRND and the MRND-dominated government -- didn't the authorities punish the Tutsi in January of 1993 after that protocol was signed by ordering attacks against the Bagogwe in Ruhengeri?
+A.	I do not know anything about that.  I did not even hear mention of that.  The Bagogwe had problems I think in 1990, after the RPF attack.  But I do not remember.  Maybe you can refresh my memory, please. 
+Q.	In late January 1993, weren't there attacks against the Bagogwe, specifically in Mukingo commune in Ruhengeri?  This is something that was documented by Human Rights Watch I believe or a consortium of human rights organisations that led an enquiry in Rwanda in early 1993.  This is also something that you've commented on before.
+A.	Well, in my position -- you know that I hale from the south.  And what happened in that area did not quite capture my attention. 
+Q.	Yes, Madam Witness, but this was an issue of national concern, especially since it featured in an investigation and a report that was submitted to the Rwandese government by this consortium of human rights organisations.  So again let me put the question to you.  
+
+Weren't there a series of attacks against Bagogwe Tutsi in Ruhengeri in late January 1993?  Let's separate the issue of responsibility.  Just tell us if you recall there having been attacks against the Bagogwe.  
+A.	I know that in 1993 many atrocities were committed in Rwanda.  Now, as for the specific case of the Bagogwe, I am not aware of the details.  So it is possible.  You know that there was fighting up to a distance of 30 kilometres from Kigali.  So in all those areas where there was fighting, several atrocities were committed.  And I am not in a position to confirm or negate any of these things because I didn't pay much attention to that particular issue. 
+Q.	Well, I'll suggest to you that it's a matter of record, at least as established in the final report of that human rights consortium, that there were attacks against the Bagogwe in Ruhengeri in late 
+	January 1993 and again in mid-February 1993.  And what I'm suggesting to you is that both sets of attacks were a way of retaliating against the RPF, the late January 1993 attack in retaliation for its advances diplomatically in the negotiation of the Arusha Accords and the mid-February 1993 attack in retaliation for its military offensive that started on the 8th of February.   
+A.	What I can tell you is that -- really, let me begin with the manner in which government operated at the time.  I was not one of those ministers in charge of security.  A council of ministers had been set up, a small group of ministers involving the ministers in charge of security.  And I do not know how to explain this to you in any detail.  
+
+So I don't know what was discussed in that restricted group which included the minister of defence and the prime minister and other services include -- or involved in matters of security.  So I, therefore, am really not in a position to tell you the circumstances in which those war victims were attacked and the reasons for which they were attacked because these were not matters that were directly within my jurisdiction and which I don't have a handle on. 
+Q.	All right.  Thank you.  We have your response.  Let's direct our attention to April of 1994.  You were telling us in your direct examination that, after the 6th of April, when you received news of Habyarimana's plane crash, that you fled to the Presidential Guard camp.  And from what I understand of your direct testimony, you were there from the late night of 6th of April until the morning of the 
+	8th of April.
+
+So my question to you is:  Who did you see at the Presidential Guard camp from the political class?  I'm talking about other ministers and political party figures.  Who else was taking refuge there while were you there? 
+A.	I was not expecting this question.  I did not know that anyone would ask me to provide the names of all those who sought refuge in that place.  I saw a number of people -- civil servants, ordinary citizens, ministers.  And of course, I do remember the ministers I saw.  But I do not know whether they were the only ministers at that location.  However, I can give you the names that come to mind, namely, Ntagerura; Mugiraneza; Bizimungu, who was then minister of health; and myself. 
+Q.	I'm going to ask you to clarify which Bizimungu.  So we have André Ntagerura, Mugiraneza, Casimir Bizimungu.  Anybody else at the Presidential Guard camp? 
+A.	And myself, of course.  And Ngirabatware was also there. 
+Q.	What about Ferdinand Nahimana?
+A.	I did not pay attention.  But in any event, I didn't see him. 
+Q.	And Nzirorera? 
+A.	Nzirorera was not there.  If he had been there, I would have known. 
+Q.	It has been reported that a number of opposition politicians who disappeared during the early morning hours of the 7th of April were arrested and taken to the Presidential Guard camp.  Were you aware of that?  And if so, who did you see?  Whose presence were you aware of having been taken there under arrest? 
+A.	I did not see them, but among those people there was a friend of family whose name was Nshogoza.  And if I had seen him or if I had seen them, I would not have forgotten it. 
+Q.	Was anything said while you were there to make you aware of their presence at the 
+	Presidential Guard camp?  And here I'm talking about the persons that were arrested by the Presidential Guard. 
+A.	I can confirm that, even if it were members of the Presidential Guard who had arrested them, they would not have been able to take them to the camp because there was a whole crowd of people from all walks of life who were carrying on their heads various property.  And they wouldn't have done that.  We wouldn't have let that happen. 
+Q.	Now, according to your testimony this morning, you heard about the interim government for the 
+	first time on the evening of the 8th of April when you were at the French embassy.  Is that the case?  Or did you hear about it before then?
+A.	That is correct.  As I already stated in relation to the Kambanda interim government -- because you know, there were several transitional governments.  And I'm referring to the one which was headed or led by Kambanda. 
+Q.	Who was the first person -- or what was the first source of information for you in relation to this interim government?  Was it the radio broadcast that you told us about, or was there a discussion that preceded the radio broadcast? 
+A.	I was at the French embassy, and the ambassador announced to us that his government was assisting Rwandans to set up a government for the people.  I, therefore, knew that efforts were underway to set up a government.  But I was not aware that I was going to be a member of that government.  It is over radio that I learnt of the fact that I would be part of that government. 
+Q.	Tell us the name of the person that you're referring to when you say the French ambassador and tell us the time that that conversation first took place.
+A.	What I am telling you is just an approximation.  During that period, we were afraid, and my approximation cannot be any more specific than to state that it was between noon, that is, 
+	12, and 2 p.m.  I think the name must be Marlaud.  Marlaud is a name to cross-check.  And I am sure that you will not have too much difficulty finding out the name, and I think the name is Marlaud. 
+Q.	So if I understand you correctly, sometime on the afternoon of Saturday, the 8th of April, Ambassador Marlaud told you that his government was assisting in the formation of the interim government.
+A.	I did not say his government.  What I said is that it is the same people who were helping us in the negotiations, namely, the embassies that encouraged us to engage in the negotiations:  The French, the Belgians, the Tanzanians, and all of those who were part of that group. 
+Q.	My understanding from your answer is that Ambassador Marlaud informed you that he was assisting persons to form the interim government that ultimately took form later that evening on the 8th of April.  Have I understood you?
+A.	Where I do not agree with you is when you say that it was Ambassador Marlaud and his government who aided Rwandans.  He clearly said that it was the team of facilitators that was helping Rwandans put in place a transition government.  He did not tell us that it was Marlaud himself who was personally helping Rwandans to put in place a transition government.  But he said that it was a group of facilitators.  I'm also informing you that this information was given to all the ministers who were at that place.  He did not give the information only to me. 
+Q.	Who were the other persons that were present then? 
+A.	All the ministers who had sought refuge at the embassy were present when he gave us that information.  I remember in particular the presence of Ntagerura, Mugiraneza, myself, Mugenzi.  I do not remember if Ngirabatware was also present. 
+Q.	Did you see Nzirorera, Karemera, or Ngirumpatse at any time while you were at the French embassy? 
+A.	Later on I learnt that these people were part of the group of ambassadors who were negotiating the putting in place of the transition government.  That was information given to me, but I was not able to cross-check it, namely, that these people were a group of facilitators that comprised Belgians, Americans, French, and other political parties that had come together.  I am sorry, 
+	Counsel for the Prosecution. 
+Q.	My question to you is quite simple.  Did you see Nzirorera, Ngirumpatse, or Karemera at the 
+	French embassy any time while you were there?  Just focus on that piece of information and give us a response.
+A.	I did not see these three gentlemen when I was at the French embassy.  If ever they came to that embassy, personally I did not see them. 
+Q.	When did you learn that Prime Minister Uwilingiyimana had been killed?  When did you first learn that the prime minister had been killed? 
+A.	I heard that information on the radio, and I was greatly saddened by the information.  As you know, Agathe was born in my area, and this saddens me a great deal.  It is President Sindikubwabo who gave the information, and he was greatly grieved.  It is as if he was crying on the radio.  I'm sorry, 
+	Counsel for the Prosecution. 
+Q.	I asked you one question.  When did you first learn that Prime Minister Uwilingiyimana was killed?  Just tell us when, and you'll have given your answer.
+A.	I heard it on the radio, and it was President Sindikubwabo who gave the information. 
+Q.	For the third time, I asked you when.  When?  When did you hear the information? 
+A.	On the 8th. 
+Q.	At what time? 
+A.	During the 7 -- or, rather, 7 p.m. newscast. 
+THE ENGLISH INTERPRETER:
+Or, rather, the witness didn't specify whether it was 7 in the evening or 7 in the morning, but it was during the 7 o'clock newscast.  
+BY MR. WEBSTER:
+Q.	All right.  Thank you.  So you learned about the death of the prime minister and your elevation to an interim government minister at the same time, on the evening of the 8th of April.  Is that your testimony?
+A.	I think you are right.  I heard the information on the same day.  Counsel, when you talk about the death of Agathe, that saddens me a great deal, and it makes me lose my concentration. 
+Q.	When did you learn that government soldiers were responsible for her death? 
+A.	I heard about it while I was in exile.  People were talking about it.  I believe -- I thought rather -- I thought that she had been killed by other people. 
+Q.	By whom?
+A.	As you know, during the war there were many criminals.  I did not think that she had been killed by government soldiers.  I thought it was rascals or RPF people who had killed her because they were killing everyone.  Personally, I could not believe that normal persons, normal people, could kill Agathe. 
+Q.	So it's your testimony that you went to cabinet meeting after cabinet meeting over a period of 
+	three months and that the first time there was ever any discussion of who was responsible for the killing of the prime minister, as far as you know or as far as you could be informed, was sometime after 
+	July of 1994 when you went into exile?  That's your evidence? 
+A.	That's correct, and I confirm it.  I learnt that people who were in charge of security were going to set up a committee to find out who killed Prime Minister Uwilingiyimana.  But I was not informed of the setting up of that committee.  
+
+And as I've already said, I could not understand that it would be normal persons who killed Agathe Uwilingiyimana.  I was not informed of the report of that committee which was set up to investigate the death of Prime Minister Agathe Uwilingiyimana. 
+Q.	But as you testified before us today, you are aware that this Tribunal has convicted Théoneste Bagosora for ordering her killing back on the 7th of April 1994, aren't you? 
+A.	I heard that.  It is a judgement delivered by human beings who relied on the various testimonies.  I cannot rely on that judgement to say that it is Bagosora who ordered the killing of Agathe Uwilingiyimana.
+If the Judges made that decision, it is because they relied on the various testimonies given them.  It is possible that those who testified against Bagosora bore a grudge against him.  As you know, the Judges are not infallible.  They are human beings just like we are. 
+Q.	But at least you can accept that she was killed by government soldiers.  Or do you doubt that as well? 
+A.	Personally, so far, I cannot understand that she was killed by government troops.  Perhaps it was a soldier who was on the other side who killed her but who killed her without being ordered to do so by the government.  I cannot say before this Chamber that she was killed by government troops unless the soldier who killed her comes and confirms to me that he is the one who killed the prime minister on the instructions of the government.  In that case, I will agree with you.  If such a soldier comes up and confirms that to me, then I will agree with you. 
+Q.	All right.  Thank you, Madam Witness.  We have your response.  Would you agree with me that killing all of the opposition politicians -- and when I say "all", I'm really referring to Kavaruganda, Lando, Ngango, Nzamurambaho -- killings those persons made it impossible to implement the 
+	broad-based transitional government?   
+A.	It was not only for that reason that the broad-based transition government was not put in place.  It is the president of the republic who had to represent the broad-based transition government.  Yet he had just been killed.  So that is the first reason why the broad-based transition government was never put in place.  I think there are things that you are not aware of.  After the death of the president of the republic, the RPF said that the Arusha Accords could no longer be implemented. 
+Q.	Yes.  Madam Nyiramasuhuko, didn't you know, back on the 8th of April 1994 or shortly thereafter, that both Booh-Booh, the special representative of the Secretary General, part of UNAMIR, and the officers that had gathered on the morning of the 7th of April to form a crisis committee were agreed that even though the president's plane had been shot down and nobody knew who was responsible that the broad-based transitional government should be immediately implemented even though President Habyarimana had been killed?  Isn't that something -- isn't that position or that agreement something that you became aware of either on the 8th of April or shortly thereafter?
+(Pages 36 to 42 by Kelly Surina)
+
+
+
+
+
+
+
+
+
+
+
+1445H 
+THE WITNESS:
+I do not agree with your suggestion.  I never saw the report of that committee.  I'm not aware of the decisions that were taken by that committee.  If you have the report of that meeting, I would like to read it.  I do not know whether the said committee decided that the Rwandan government and the RPF should put in place the broad-based transitional government without the presence of the head of state.  If you have that report, I would request you to kindly show it to me. 
+BY MR. WEBSTER: 
+Q.	Well, Madam Witness, I'm not asking you to agree with that position.  And in the number of the questions I've asked you I'm not suggesting that you should agree with the information I've conveyed to you.  But to me it's very surprising that you don't even know about these things to agree or disagree with them and that you keep on suggesting that without an investigation or without some sort of confession you're not in a position to comment on any of these substantive issues that really determined the fate of your country back in 1994.  
+A.	You should not be surprised by my answer.  I did not say that there was no meeting after the death of the head of state.  I am sure that there was a meeting held after the death of the head of state.  What surprises me -- well, as you know, we were told that we had to be sworn in on the 8th of April.  That committee could not have said that we had to be sworn in on the 8th of April without appointing a 
+	head of state.  That is the reason why I personally think that the decision to put in place a 
+	broad-based transitional government was not made or even addressed during that meeting. 
+Q.	All right.  We have your testimony.  Can you agree with me that the MRND ministers, or those who had been proposed for the interim government, or -- including the persons with whom you took shelter at the French embassy on the 7th and 8th of April -- excuse me, the 8 -- yeah, the 8th of April -- had doubts about the capacity of the FAR, the Rwandan government forces, to prevail militarily over the RPF?  In other words, there were doubts about the capacity of the Rwandan military to win a war against the RPF.
+A.	I did not clearly understand your question.  
+Q.	I'm asking you to think back to the 8th of April 1994 and put yourself in the frame of mind of the 
+	8th of April 1994.  Wouldn't you agree with me that on that date there was some doubt about the capacity of the Rwandan government armed forces to win a war against the RPF?  And the doubt I'm suggesting is among MRND ministers, such as yourself.  
+A.	In my opinion, no one of the MRND party was in the mindset of waging a war.  As far as we were concerned, the war had come to an end and we had to put in place a 
+	broad-based transitional government from members of the MRND party.  We were not thinking of war.  What we were interested in was to put in place a broad-based transitional government.  We rather thought of a ceasefire and we thought that those who were helping us would return to continue helping us, and a broad-based transitional government started negotiations to ask facilitators to help us, not only ministers belonging to the MRND, but all members of government.  No member of government ever thought of continuing or resuming the war.  Those who attacked us took us by surprise.  Unfortunately, the people we appealed to didn't come to our assistance. 
+Q.	Well, the portion of your response that interests me is when you talk about having ceasefire as an objective.  And I'd like you to clarify that point.  And what I'm suggesting to you is that the MRND ministers with whom you were associating back in April 1994 never anticipated a military victory over the RPF and then, at best, all they sought was a ceasefire and a renegotiation of the Arusha Accords.  Can we agree on that? 
+A.	Not at all.  I do not agree with your suggestion.  When a government was put in place it was a transitional government.  Otherwise, we would have put in place a government that had to function for 12 months.  But what was done -- was put in place a government that had to work for only six weeks.  They were no longer MRND ministers.  All ministers were the same.  I remember that personally I went to the CND to visit RPF members.  
+Q.	I apologise --
+A.	I'm sorry if I went overboard. 
+Q.	I apologise if I keep interrupting you, but the reason I interrupt you is because what you're saying is not responsive to my question, so think about my question.  If the question is ill-formed, let me know and I'll try again.  
+
+All I'm concerned with is whether you thought that the objectives of the MRND ministers with whom you were associating back in April 1994 were a ceasefire and a renegotiation of the Arusha Accords, what I'm suggesting to you, that military victory was not even envisaged.  What you and your MRND ministers wanted was a renegotiation of the Arusha Accords; do you agree with me? 
+A.	Your proposition is not acceptable.  The peace accords had already been signed.  All that was left to be done was the swearing-in of the government and the putting in place of that government, that is, the broad-based transitional government.  Negotiations had already ended.  
+
+The problem we had was that the RPF killed the president, and after killing the president it resumed hostilities immediately.  Therefore, the MRND was not thinking about the resumption of the war.  And when the RPF resumed hostilities, we were surprised, all the more so as the RPF was a signatory to the Arusha Accords. 
+Q.	But putting yourself in the frame of mind of the 8th of April, hostilities haven't started again.  My suggestion to you is that you and your MRND ministers could not anticipate a military victory.  What you wanted was a renegotiation with the RPF, a renegotiation of the Arusha Accords and a ceasefire.  That was the best you could hope for.  If that's not it, say no, and we'll move on to something else.  
+A.	I never met with MRND ministers to consider that problem.  It was the entire government in place which was thinking of implementing the Arusha Accords.  No one thought about the resumption of war.  We had forgotten all of that because the Arusha Accords had been signed.  In fact, they had been signed a long time earlier. 
+Q.	Let me put it to you this way:  Do you recall back on the 9th of November 2005 at page 63 in the English transcripts, responding to this question and giving this answer:  Question:  "Now, madam, when you were at the French embassy in the days following the assassination of President Habyarimana, would I be mistaken if I said that the ambassador of France told you that the RPF was going to quickly capture the country?"  
+
+Answer from you, Madam Nyiramasuhuko:  "I heard in the interpretation that the ambassador regularly told us, that was my understanding of the question, that the ambassador regularly told us that the Inkotanyi were going to take over the country rapidly.  And my answer was that such information was given to us only once on the 8th.  He told us:  'This is the advice I can give you:  Do everything quickly to set up the government which will be the counterpart or spokesperson on behalf of your country because the Inkotanyi has said that they will be capturing the town in 48 hours.'" 
+
+That was your response from five years ago.  When that information was conveyed to you by Ambassador Marlaud wasn't Ngirabatware, Ntagerura, Mugiraneza and Bizimungu there to hear it as well? 
+A.	Amongst the ministers you named, I am not sure whether Ngirabatware was present, but I confirm that Mugenzi was present.  He was present when we were told that the RPF had planned to kill the president and -- and that after killing the president, they were going to take over the town in under 
+	48 hours.  
+
+When we agreed on putting in place the broad-based transitional government the RPF had planned to kill the president and take over the city in under 48 hours.  It is the ambassador who gave us the information.  The RPF had a plan to kill the president and to take over the city within 48 hours, but the RPF did not take the city within 48 hours.  
+
+The RPF said that simply to frighten the international community, which in return asked the RPF to respect the Arusha Accords.  The international community reminded the RPF that they had signed the Arusha Accords and that they should not say that they were going to take over the city within 48 hours, especially as the government put in place or pursued a policy of peace and it called on the 
+international community to help it. 
+Q.	Madam Nyiramasuhuko, I've heard your response.  I do not quite understand it.  But I think we'll just leave that topic and move on to something else, because clearly either you're not understanding me or I'm not understanding you, because there's a disconnect between my questions and your responses.  But we'll move on.  
+Were you aware -- or, you were aware, weren't you, that Tutsi were being targeted and killed in Kigali as early as the 7th of April? 
+A.	If you say that I was aware, that would imply that I was one of the killers.  All I can tell you is that I was extremely hurt by the fact that Tutsis were being killed, but I was not aware of that plan to kill Tutsis.  All I can confirm is that I was deeply hurt and saddened by the killings of the Tutsis. 
+Q.	And you were aware of the killing of the Tutsis as early as the 7th of April; isn't that so?  That the killings started as early as the 7th of April? 
+A.	The fact is that I did not know that the massacre of Tutsis began on the 7th of April.  I knew that killings were taking place and that they intensified after the death of president.  Pro-RPF persons, upon hearing of the death of the president, started drinking and celebrating.  Then following those celebrations by pro-RPF persons, hostilities resumed and people were being killed.  Yet, although some people celebrated the death of the president, I personally believe that such was not a good enough reason for people to kill each other. 
+Q.	Did you ever become aware of a memorandum written by Anatole Nsengiyumva back in July of 1992 predicting that power-sharing with the RPF would lead to massacres of the Tutsi, that the frustration of the soldiers in having to share power with the RPF would lead them to flee Rwanda and to massacre the Tutsi before they did?  Was such a memorandum or such thinking ever brought to your attention back in 1994? 
+A.	I was not aware of that memorandum.  It was an internal affair of the military, so military affairs do not concern civilians.  So I do not know whether Nsengiyumva wrote any such memorandum.  It is a military matter and I was not aware of it. 
+Q.	You did, however, hear about the speech made by Léon Mugesera recommending that Tutsi be sent back to Abyssinia by the Nyabarongo river, a speech that he gave back in November of 1992; isn't that so? 
+A.	I did not hear that speech live because I was not present when he delivered it.  But when people started talking about it, I read the speech myself.  But at the time of its delivery, I was not present. 
+Q.	But you were aware of it back in 1992, weren't you? 
+A.	Yes, I learnt about that speech -- the speech by Mugesera in 1992.  I learnt that the person who broadcast the speech had stolen it from the director of ORINFOR and had manipulated it.  The part of the speech which I heard was one with which I did not agree.  I did not agree with that part of the speech. 
+Q.	I'm sorry.  The only thing I've asked you is:  Weren't you aware of that speech back in 1992?  So just tell us yes or no.  
+A.	It is difficult for me to just answer by yes or no.  I have told you that I did not hear the speech delivered live, but I read it in 1992. 
+Q.	Mugesera worked in your ministry under your supervision, isn't that so, back in 1992 and 1993? 
+A.	Ninety two -- in '92 he joined the ministry, but I do not remember the month.  He did not spend more than three months in my ministry.  After that speech he disappeared, and I did not see him again and I did not have an opportunity to ask him why he had made such statements.  That would have given me at least an opportunity to find out whether he was innocent or not. 
+Q.	You'd agree with me that the contents of his speech from November 1992 came to pass in 
+	April and May of 1994, wouldn't you, that Tutsi were sent back to what was presumed to be their land of origin by throwing them into the Nyabarongo river? 
+A.	I do not believe that there is any link whatsoever, because had the president not died, those things would not have happened.  So Mugesera is not responsible for what happened in 1994.  The triggers of the massacres, as all and sundry know, is the killing of the president of the republic.  So I do not know whether the killers had connived with Mugesera.  So I do not understand what the killers were looking for.  I don't know who inspired them and don't know why they decided to kill. 
+Q.	You yourself were criticised for not having sanctioned Mugesera by your government -- and here I'm referring to the government of Dismas Nsengiyaremye back in April 1993.  And here I'm referring to a letter directed to you that was entered into evidence in your own trial.  In your case it was entered as, I think, Exhibit P. 178.  Do you recall that letter? 
+A.	Yes, that letter was drafted, but I cannot confirm that it was addressed to me and that I did, indeed, receive it.  You know, in any ministry you have directors and a number of functionaries.  So it is true that the letter does exist, and of course I am one of the many people whom the prime minister did not want to see.  I did not see him.  I didn't see Mugesera.  But if I had seen him, maybe things would have been different.  All I'm insisting on is that this letter was not addressed to me. 
+Q.	Well, anyway, you'll have your opportunity to look at it and tell us, Madam Witness.  
+MR. WEBSTER:
+If Mr. Issa could hand this up to the witness.  
+BY MR. WEBSTER: 
+Q.	This is the letter (French spoken) -- the minister of family and female promotion dated the 
+	5th of April 1993.  It is signed by Dismas Nsengiyaremye.  It concerns suspension by measure of order of Monsieurs Léon Mugesera and Ndangali, Christophe.  And the body of it is two paragraphs, and the second paragraph specifically concerns Léon Mugesera.  And he's asking you for an explanation as to why you have not executed its decision concerning a person that is under your jurisdiction since he was working for you in your ministry.  
+
+So you can have a look at that.  I'm surprised you don't know it was addressed to you, since you've seen it and were questioned on it in great deal in your own trial.  
+A.	When a letter comes in, it is received and stamped.  And the stamp would indicate that the letter was actually received at the ministry.  So this particular letter is addressed to two ministers, and there is no indication here that this letter was received in my ministry.  But I do acknowledge that the letter was written.  
+And I have given you my opinion, namely, that after the 1992 incident I did not see the concerned party any longer.  He did not come back to the ministry.  Now I have seen this letter.  But during the events that concern us, I did not receive this letter. 
+Q.	All right.  Thank you for your response.  
+MR. WEBSTER:
+If Mr. Issa could assist me by showing this document to the Court and the other parties.  This is a document that we've all looked at before through another witness, and I believe it has an IP number.  I don't recall the exact number, but it is something that we should all be familiar with.
+(Pages 43 to 48 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1515H 
+BY MR. WEBSTER:
+Q.	Madam Witness, the document will soon be placed in front of you, but let me begin with my questions nonetheless.  I know that you don't have a great deal of respect for Professor Guichaoua, but there are some things that he gets right.  And I'm suggesting to you that this is one of them.  He looked through your diary and the diary of Jean Kambanda and the diary of Ngirabatware and the diary of Édouard Karemera and created a table listing all of the meetings of the interim government based on what was recorded contemporaneously in your various diaries and agendas.  
+
+And I'd like you to have a look at his listing and see if it makes -- if you think it's accurate based on your recollection.  He's listed 37 meetings of the cabinet between the 9th of April and the 12th of July 1994.  And I think, based on your previous testimony, you would agree there were probably even more meetings than the 37 he has listed.  So I would like you to take a look at this document where the numbers are in boldface and big.  That is what he is identifying as meetings of the interim government.  
+
+But can we begin by agreeing that there were at least 37 meetings of your cabinet between the 9th of April and the 12th of July?  And we're going to go through some of these meetings and some of the entries that you've made in your notes and your diary.  
+A.	I wonder what the source of this document is.  Is this an exhibit?  Is it admitted into evidence in my case?  So I -- I do not know.  
+
+One cannot dream up a document and present it to the Court.  I do not know this document.  So please don't compel me to agree with you on the content of this document. 
+Q.	Okay.  We'll take it step by step.  Looking for the -- at the month of April, you had a meeting of the cabinet right after being sworn in on the 9th of April; isn't that so? 
+A.	Yes.  After the swearing-in ceremony, there was some kind of reception involving those who were present.  And yes.  Indeed there was a meeting in the evening. 
+Q.	We're going to go through this very quickly.  And we're going to come back to each meeting.  So you'll be able to tell us in more detail about each meeting.  But for my next serious -- series of questions, just tell me yes or no, and then we'll come back to it.  
+
+So you met on the 9th after being sworn in.  I take it as a yes.  On the 10th you had a meeting -- not so? -- of the cabinet. 
+A.	Yes.  But I -- I do not clearly remember, because I don't have any basis on which to make that assertion.  You see, what I have before me is a document whose source is unknown to me, and I, therefore, cannot take it for gospel. 
+Q.	Just this morning in direct examination with Mr. Robinson you spent time discussing the meeting of the 10th of April.  What is so problematic about simply saying, "Yes, there was a meeting on the 10th" now? 
+A.	I do not deny that there was a meeting. 
+Q.	Okay.  Fine.  
+A.	My only issue -- or the one which I don't remember clearly is the meeting of the 9th.  Yes.  There was a meeting as well. 
+Q.	On the 11th there was a meeting between interim government ministers and all préfets, which you discussed with Mr. Robinson this morning.  So you met on the 11th; right? 
+A.	Yes.  
+Q.	On the 12th the interim government fled to Gitarama, and you had a meeting, a cabinet meeting, in the home of Fidèle Uwizeye when you arrived in Gitarama; isn't that so? 
+A.	No.  No.  No.  There was no cabinet meeting at Fidèle's house -- Fidèle Uwizeye's house.  The meeting that held there concerned all those people who had fled from Kigali. 
+Q.	Was there a cabinet meeting in another location on the 12th, the day that you arrived in Gitarama? 
+A.	I do not remember.  What I know is that, when we arrived in Gitarama, a number of persons met, but it was not a cabinet meeting.  We had just arrived, and we were not even sure of what we were doing. 
+Q.	Madam, let me remind you that you have notes that detail meetings that were held on the 
+	12th, the 13th, the 14th, and the 15th.  Those notes were not a fiction, were they?  Did not -- didn't they record your conversations with other government ministers in meetings held on those dates:  12, 13, 14, and 15? 
+A.	Well, if you were to bring my attention to some details, I may be able to remember.  You know, these things happened almost 20 years ago.  So I -- I cannot be very specific as to what happened -- I mean as to the dates on which these meetings took place.  But if you were to tell me about a particular item that was discussed in a cabinet meeting, I will not be able to deny it. 
+Q.	On the 16th you met in cabinet, and I believe that was the day that Bagosora turned up and wanted to participate in your cabinet meeting.  Do you recall that particular meeting? 
+A.	Which -- which -- which -- which meeting?  Which meeting are you referring to?  
+Q.	I said the 16th of April, a meeting held in Murambi.  
+A.	That's possible.  Yes.  It is possible.  On the 16th or 17th, there were appointments, and a meeting took place.  Now, Bagosora -- what would Bagosora have -- have come to do at such a meeting?  
+Q.	All right.  You've given me the response.  Its fine.  On the 17th was the meeting whereby you decided to suspend the préfet of Butare; isn't that so?  Another meeting held on the 17th of April? 
+A.	17th?  A number of things happened on the 17th, and that was one of them. 
+Q.	Just tell us if there was a meeting or not.  That's all -- 
+A.	Either the 16th or the 17th.  Yes.  The meeting took place.  But I do not remember what was discussed. 
+Q.	Okay.  So Guichaoua is right so far; right?  He listed eight meetings.  Everything that he's listed we're agreed so far.  
+A.	No.  I cannot confirm that such is the truth.  To be able to state conclusively that it is the truth, I must be reminded of what was discussed.  Now, you expect me to remember what happened such a long time ago, and to recall these things off-the-cuff is -- is not -- is not possible. 
+Q.	There was a meeting on the 27th of April when Prime -- Prime Minister Kambanda issued his instructions on restoring security; isn't that so? 
+A.	I do not remember whether a meeting held on that issue.  
+Q.	There was a meeting on the 23rd of April to discuss those very same instructions, the ones that were ultimately issued on the 27th.  All of this is coming from your previous trial testimony.  Why it's so difficult for you to recall it now is really beyond me.  
+A.	I have not denied anything.  I haven't denied anything.  All I am saying is that I do not remember the exact content of the discussions at each of those meetings.  I can say that there was a meeting on the 27th to deal with this and that issue.  But I am not able to say that, although it could be said that such an issue was discussed before the minister signed the letter in that connection.  You see, there is -- there are some details there that need to be worked out. 
+Q.	In any case, you testified this morning that you were meeting as a cabinet almost every day; right? 
+A.	Yes.  I did acknowledge that this morning. 
+Q.	So if we've listed 37 minutes -- 37 different meetings, which is at least one meeting every two days or every two or three days, that shouldn't be far off the mark, should it?  In terms of the frequency of meetings held by your government.  
+A.	You see, when we are dealing with figures, it -- it is difficult for me to make a commitment, because figures are specific.  Now, if you say that a meeting held almost on a daily basis, I would -- I would be in agreement with you, because there might have been a day or two on which no meeting took place and I might be able to justify that because I am aware of the reasons for which such a meeting took place.  That is why it is difficult for me to just accept your proposition on your document without those details. 
+Q.	Well, what I'm really trying to suggest to you or elicit from you is that your government was operating; it was operational; you were meeting on a regular basis; you were communicating with your embassies abroad; you were working out the problems of the nation dealing with war and famine; you were busy about the affair -- affairs of state during the period 9 April 1994 through 12 July 1994.  Can we agree on that? 
+A.	No.  No.  I cannot agree with you on that, because I do not see how you would not be aware that there was no communication.  From the 8th of April, there was no communication.  We did not have 
+	mobile phones.  And we were suffering.  People who were very close to each other may have been able to communicate.  But those who were far away from each other could not communicate.  
+
+And I believe that the Prosecutor is well informed of the situation as it prevailed at that time.  He knows that the telephone was not working.  And he knows that the RPF was very smart.  They blew up the telephone exchange and communication equipment.  
+
+So there was no possibility of communicating from the 8th.  You claim that we communicated amongst and between ourselves, and -- well, that is far, far from reality. 
+Q.	Madam, I'm informed by your own trial testimony that you had a satellite phone which you used to communicate any time the phone lines were down.  That is evidence that you gave before your own Trial Chamber back in 2005.  
+A.	Well, you did not understand me.  After the breakdown in communication with the destruction of the communication network, a friend gave the prime minister a box, a satellite phone, and the prime minister was the only one who owned that satellite phone.  And as an ordinary minister, you could not go up to the prime minister and ask him for his satellite phone to enable you to communicate with your friends.  And I'm telling you the truth. 
+MR. WEBSTER: 
+Your Honour, I see the time.  And I think we've done as much as can be done today, and I'd like to continue tomorrow.  What I'd suggest, if the witness has no objection -- we provided her earlier with a copy -- a printout of her diary.  The -- I'd like to hear what the Defence has to say, but I think it would probably be a good idea to simply allow her to have it overnight so she can look through it so that tomorrow when we go meeting by meeting we can go through the material more quickly.  But it's up to the Court and the Defence if that's a welcome suggestion or not. 
+MR. ROBINSON: 
+We don't have any objection to that, Mr. President. 
+MR. PRESIDENT: 
+Neither does the Bench, so we make that order.  
+
+We can take our adjournment now.  And we resume tomorrow morning.
+(Court adjourned at 1530H) 
+(Pages 49 to 52 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Jean Baigent, Claudette Ask, Deirdre O'Mahony, Kelly Surina, Melissa Hook and Tanya West, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Jean Baigent
+
+
+___________________________	Claudette Ask
+
+
+____________________________	Deirdre O'Mahony
+
+
+____________________________	Kelly Surina
+
+
+	_____________________________	Melissa Hook 
+
+
+	_____________________________	Tanya West 
+
+
+
+
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 16
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+CLAUDETTE ASK - ICTR - TRIAL CHAMBER III - page 26
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+DEIRDRE O'MAHONY - ICTR - TRIAL CHAMBER III - page 34
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page 38
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 46
+
+	KAREMERA ET AL	MONDAY, 3 MAY 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 50
+
+
+
+	KAREMERA ET AL		MONDAY, 3 MAY 2010
+
+
+
+ICTR - TRIAL CHAMBER III
+
+
+
+
+

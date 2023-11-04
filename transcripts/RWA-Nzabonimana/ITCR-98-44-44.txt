@@ -1,0 +1,4268 @@
+ 
+
+
+
+
+         1             THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+                  
+         2       CASE NO.: ICTR-98-44A-T                    THE PROSECUTOR
+                                                           OF THE TRIBUNAL
+         3             
+                  
+         4                                                         AGAINST
+                                                     
+         5                                                           
+                                                        JUVÉNAL KAJELIJELI
+         6                                             
+                                                         
+         7                                    
+                                              
+         8                            25 NOVEMBER 2002
+                                            0900H
+         9                             CONTINUED TRIAL
+                  
+        10        
+                  
+        11   
+                  Before:   Judge William H. Sekule, Presiding
+        12                  Judge Winston Churchill Matanzima Maqutu
+                            Judge Arlette Ramaroson
+        13        
+                  
+        14    
+                  For the Registry:
+        15                  Mr. John Kiyeyeu
+                            Mr. Abraham Koshopa
+        16        
+                  
+        17        
+                  For the Prosecution:     
+        18                  Ms. Ifeoma Ojemeni  
+                       
+        19        
+                  
+        20        For the Accused Kajelijeli:
+                            Professor Lennox Hinds
+        21                  Professor Nkeyi Bompaka
+                  
+        22   
+                  
+        23        Court Reporters:
+                            Ms. Sithembiso Moyo
+        24                  Ms. Haruna Farage
+                            Mr. Petrus Chijarira
+        25                  Ms. Regina Limula
+                  
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1                           I N D E X
+                                        
+         2         
+                  
+         3                           WITNESS
+                  
+         4        
+                  
+         5   For the Defence:
+                    
+         6   WITNESS MEM
+             
+         7   Examination-in-chief by Professor Hinds..........  4
+                  
+         8   Cross-examination by Ms. Ojemeni ...............  71
+                  
+         9   
+             
+        10        
+                                        EXHIBITS
+        11   
+                  
+        12   
+             Defence Exhibit No. 29.........................   5
+        13        
+                  
+        14        
+                  
+        15        
+                  
+        16        
+                  
+        17        
+                  
+        18        
+                  
+        19        
+                  
+        20        
+                  
+        21        
+                  
+        22        
+                  
+        23        
+                  
+        24        
+                  
+        25        
+                  
+        26        
+                  
+        27        
+                  
+        28        
+                  
+        29        
+                  
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1                       P R O C E E D I N G S
+
+         2   MR. PRESIDENT: The proceedings are called to order.  Could 
+
+         3        the registrar introduce the matter coming before the 
+
+         4        Trial Chamber this morning, please? 
+
+         5   MR. KIYEYEU: Thank you, Mr. President.
+
+         6        
+
+         7        Trial Chamber II of the International Criminal Tribunal 
+
+         8        for Rwanda composed of Judge William H. Sekule, 
+
+         9        presiding, Judge Winston Churchill Matanzima Maqutu and 
+
+        10        Judge Arlette Ramaroson, is now sitting in open session, 
+
+        11        today, Monday, the 25th of November 2002, for the 
+
+        12        continuation of the Defence case, when Defence Counsel 
+
+        13        Mr. Hinds, will start the examination-in-chief of 
+
+        14        Witness MEM, in the matter of the Prosecutor v. Juvénal 
+
+        15        Kajelijeli, Case No. ICTR-98-44A-T. 
+
+        16        
+
+        17        Thank you, Mr. President. 
+
+        18   MR. PRESIDENT: Thank you, Mr. Kiyeyeu for the registry.  
+
+        19        
+
+        20        May we have the appearance for the parties, starting 
+
+        21        with the Prosecution, for the record?
+
+        22   MS. OJEMENI: With due respect, Your Honour, Ifeoma Ojemeni, 
+
+        23        trial attorney, I appear with Dorthée Marotine, 
+
+        24        case manager for the Prosecution. 
+
+        25   MR. PRESIDENT: Thank you, Learned Counsel.
+
+        26   
+
+        27        My we also have the appearance of the Defence, please, 
+
+        28        for the record?
+
+        29   PROFESSOR HINDS: Good morning, Your Honours.  Lennox Hinds  
+
+        30        representing Mr. Kajelijeli.  I am assisted by 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        1
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        Professor Bompaka and Mr. Emilien Dusabe.
+
+         2   MR. PRESIDENT: Yes.  Thank you, Learned Counsel.
+
+         3        
+
+         4        Professor Hinds, your next witness?  
+
+         5   PROFESSOR HINDS: Our next witness will be Witness MEM.  But 
+
+         6        before we call --
+
+         7   MR. PRESIDENT: M --
+
+         8   PROFESSOR HINDS: MEM.  But before we call that witness, 
+
+         9        Your Honour, we had notified the Prosecutor's office and 
+
+        10        also the Trial Chamber co-ordinator this morning of our 
+
+        11        new order of witnesses for this session.  This is as a 
+
+        12        result of our discussions in meetings with victim and 
+
+        13        witness protection and the witnesses who are now here.  
+
+        14        So the new order -- it does not change the detained 
+
+        15        witnesses whom we had already scheduled.  
+
+        16        
+
+        17        So, we will have MEM and then RHU27.  That is already as 
+
+        18        it were, followed by KNWA, which again does not change.  
+
+        19        The new change is that after KNWA, we now have a witness 
+
+        20        from (By order of the Court this name has been extracted 
+
+        21        and filed under seal), TLA who is now in Arusha.  And --
+
+        22   MR. PRESIDENT: Can we have the proposed new order?
+
+        23   PROFESSOR HINDS: The proposed new order, starting today, MEM 
+
+        24        followed by RHU27, followed by KNWA, followed by TLA.  
+
+        25        Then for what we are proposing, we are assuming that 
+
+        26        those people could be completed this week.  Next week 
+
+        27        the order would be JN, KAA, ZLG and MLCF.  And the last 
+
+        28        week, the week of December 9th, RHU21, MLNL, MLNA, ZLA 
+
+        29        and if we can reach Colonel FMB.
+
+        30   MS. OJEMENI: Your Honour, Prosecution does not really have 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        2
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        any objections to this, but I would like to make an 
+
+         2        observation that we have not been notified like the 
+
+         3        Defence has just said. 
+
+         4   MR. PRESIDENT: Professor Hinds, could you please -- it does 
+
+         5        also help us, we do also follow.  If in the course of 
+
+         6        the day, you can formalise this one by way of formal -- 
+
+         7        just the order as it is. 
+
+         8   PROFESSOR HINDS: Your Honour, There is a memo that was filed 
+
+         9        with the registry this morning addressed to Mr. Ken 
+
+        10        Fleming, carbon copied to the co-ordinator for 
+
+        11        Trial Chamber II, copied to Mr. Amoussouga and copied to 
+
+        12        the client.  I realise that perhaps, Ms. Ojemeni does 
+
+        13        not have it on hand, but I just wanted to inform the 
+
+        14        Court since we are here of what the order is and that 
+
+        15        memo was, in fact, sent out to the registry this 
+
+        16        morning.
+
+        17   MS. OJEMENI: Your Honour, just to set the record straight, 
+
+        18        Mr. Fleming does not also have it, the Prosecution does 
+
+        19        not have -- that is just the point. 
+
+        20   MR. PRESIDENT: Yes.  All right.  We take note of that.  So 
+
+        21        maybe this one should be followed up because we also do 
+
+        22        like to keep a record of -- we are aware of the former 
+
+        23        order and we take note of that.  Can we now have the 
+
+        24        next witness, please brought in?
+
+        25         
+
+        26        Yes, could you please swear the witness, Registry?  
+
+        27   MR. KIYEYEU: We will do so, My Lord. 
+
+        28        (Declaration made by Witness MEM in Kinyarwanda)
+
+        29   MR. PRESIDENT: Witness MEM, you have just made a solemn 
+
+        30        declaration.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        3
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   MR. KIYEYEU: I don't know whether the witness has been 
+
+         2        translated into French.
+
+         3   MR. PRESIDENT: Oh, I see.  What do you mean, he is --
+
+         4   THE KINYARWANDA INTERPRETER: My Lord, can I please have the 
+
+         5        registry's typewritten formula sheet.
+
+         6   MR. PRESIDENT: Yes, Witness MEM, you have just made a solemn 
+
+         7        declaration.  In case you are not familiar as to how 
+
+         8        your evidence will be taken here, we will explain a few 
+
+         9        essential elements to you.  You will be led in your 
+
+        10        evidence-in-chief by the Defence, who are seated on this 
+
+        11        side of the courtroom.  Thereafter, questions will be 
+
+        12        put to you in cross-examination by the Prosecution, who 
+
+        13        are seated on this side of the courtroom.  The Judges 
+
+        14        sitting in front of you may also put questions to you to 
+
+        15        clarify your evidence, if they will have such questions 
+
+        16        to ask you.  If a question put to you is not clear or 
+
+        17        you do not understand it, please say so and such a 
+
+        18        question shall be repeated or explained.  These are the 
+
+        19        few essential things we want to bring to your attention 
+
+        20        before you begin your testimony. 
+
+        21   
+
+        22        Yes, Professor Hinds? 
+
+        23                            WITNESS MEM
+
+        24                  first having been duly sworn, 
+
+        25                       testified as follows:
+
+        26        
+
+        27                  EXAMINATION-IN-CHIEF
+
+        28   BY PROFESSOR HINDS:
+
+        29   Q.   Good morning, MEM.  How do you feel today? 
+
+        30   A.   Good morning, Counsel.  I am feeling pretty much okay. 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        4
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Witness, do you have your spectacles with you? 
+
+         2   A.   Yes, I have my spectacles with me, but I don't see any 
+
+         3        documents that need to be read because normally, I use 
+
+         4        my glasses for reading. 
+
+         5   Q.   Okay, Witness.  Witness, we are going to show you a 
+
+         6        document which you would need your glasses for and we 
+
+         7        would like you to go over the particulars on this 
+
+         8        document and see if it is accurate.  If it is accurate, 
+
+         9        we would like you to date the document at the bottom and 
+
+        10        sign your name.  Do you understand? 
+
+        11   A.   Yes, Counsel, I understand.  Am I to sign this document?
+
+        12   Q.   Yes, you are to date it, put today's date and sign it if 
+
+        13        all of the information is accurate.
+
+        14   PROFESSOR HINDS: Your Honour, the witness has signed and 
+
+        15        dated the document and the Defence tenders this document 
+
+        16        as Defendant Exhibit 28 (sic). 
+
+        17   MR. PRESIDENT: Any objection?
+
+        18   MS. OJEMENI: No objection, Your Honour.
+
+        19   MR. PRESIDENT: It would be 29 I suppose, not 28.
+
+        20   PROFESSOR HINDS: I am sorry, Exhibit 29.
+
+        21   MR. PRESIDENT: So, let the document containing the personal 
+
+        22        particulars of this witness, MEM be admitted as Defence 
+
+        23        Exhibit No. 29 and the same shall be kept under seal as 
+
+        24        it contains the particulars of this witness, who is a 
+
+        25        protected witness.
+
+        26   MR. KIYEYEU: We have taken note, My Lord. 
+
+        27        (Exhibit No. D29 was admitted)
+
+        28   PROFESSOR HINDS: Your Honour, we would now like to go into 
+
+        29        closed session to ask the witness some questions which 
+
+        30        may reveal his identity for a short period.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        5
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   MR. PRESIDENT: I suppose there is no objection from the 
+
+         2        Prosecution on this. 
+
+         3   MS. OJEMENI: No objection, Your Honour. 
+
+         4   MR. PRESIDENT: So, we will have to go into closed session to 
+
+         5        enable counsel to raise questions with the witness, some 
+
+         6        of which could have a bearing on his identity.  We 
+
+         7        regret to members of the public. 
+
+         8        
+
+         9        (At this point in the proceedings, a portion of the 
+
+        10        transcript [pages 7 to 12] was extracted and sealed 
+
+        11        under separate cover as the session was heard in camera)
+
+        12        (Pages 1 to 6 by Sithembiso Moyo)
+
+        13        
+
+        14        
+
+        15        
+
+        16        
+
+        17        
+
+        18        
+
+        19        
+
+        20        
+
+        21        
+
+        22        
+
+        23        
+
+        24        
+
+        25        
+
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        6
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY PROFESSOR HINDS:
+
+         2   Q.   Witness, we are now in open session and you should be 
+
+         3        very careful not to mention your name or anything that 
+
+         4        would identify you.  Do you understand that? 
+
+         5   MR. PRESIDENT: And translate to the witness what we had also 
+
+         6        said. 
+
+         7   THE WITNESS: Agreed. 
+
+         8   BY PROFESSOR HINDS:
+
+         9   Q.   Witness, in 1994, were you aware of the name of the 
+
+        10        individual who was the conseiller of Rwinzovu cellule -- 
+
+        11        I am sorry, secteur? 
+
+        12   A.   Yes, I knew his name. 
+
+        13   Q.   Can you tell the Trial Chamber the name of this 
+
+        14        individual? 
+
+        15   A.   His name was Amos Murara.  I spell Murara, M-U-R-A-R-A. 
+
+        16   Q.   Do you know what has happened to Murara, Amos? 
+
+        17   A.   No, I don't know what happened to him. 
+
+        18   Q.   Do you know if he has been arrested or is he in prison 
+
+        19        in Rwanda.  
+
+        20   MS. OJEMENI: Objection, Your Honour.  The witness has 
+
+        21        answered he does not know.
+
+        22   MR. PRESIDENT: Yes, he can answer that question.
+
+        23   THE KINYARWANDA INTERPRETER: Could you please repeat the 
+
+        24        question, Counsel?  
+
+        25   BY PROFESSOR HINDS:
+
+        26   Q.   Do you know whether or not Amos Murara is in prison? 
+
+        27   A.   No, he is not in prison. 
+
+        28   Q.   Do you know if he was ever arrested for the events of 
+
+        29        1994 that occurred in Rwinzovu secteur? 
+
+        30   A.   No. 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        14
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Is it no you do not know, or no he was not arrested? 
+
+         2   A.   I mean that he was not detained. 
+
+         3   Q.   Now, sir, do you know the Defendant in this case here in 
+
+         4        Arusha, Juvénal Kajelijeli? 
+
+         5   A.   Yes, I know him. 
+
+         6   Q.   How long have you known him? 
+
+         7   A.   I have known him for a very long time since his 
+
+         8        childhood. 
+
+         9   Q.   Do you know the name of his father?  What is his 
+
+        10        father's name?
+
+        11   A.   Yes, I know his father's name.  His father's name is 
+
+        12        Bananiye, B-A-N-A-N-I-Y-E. 
+
+        13   Q.   Witness, could you sit closer to the mike, move your 
+
+        14        chair up.  Do you know the occupations that Kajelijeli 
+
+        15        had from the time that you first knew him? 
+
+        16   A.   Yes, I know the occupations, his occupations over the 
+
+        17        years. 
+
+        18   Q.   Can you tell the Trial Chamber what those occupations 
+
+        19        were? 
+
+        20   A.   He has been a conseiller, he had been interim 
+
+        21        bourgmestre, he took some training in Gitarama.  He was 
+
+        22        a tax officer, accountant for the Nkuli commune, 
+
+        23        N-K-U-L-I, Nkuli.  He was also accountant for the 
+
+        24        Mukingo commune.  And then in 1988, he was appointed 
+
+        25        bourgmestre of the Mukingo commune, an office he held 
+
+        26        until 1993. 
+
+        27   Q.   Now, sir, do you know the circumstances under which 
+
+        28        Kajelijeli left office in 1993? 
+
+        29   A.   He was suspended by the appropriate authorities from the 
+
+        30        office of bourgmestre. 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        15
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Now, you have already told us who the person was who 
+
+         2        replaced him for four months, so we don't want you to 
+
+         3        mention that name.  But do you know the name of the 
+
+         4        person who was the préfet at that time who made that 
+
+         5        interim appointment?
+
+         6   THE KINYARWANDA INTERPRETER: Witness says he did not 
+
+         7        understand the question. 
+
+         8   BY PROFESSOR HINDS:
+
+         9   Q.   Witness, previously you told us who was appointed acting 
+
+        10        bourgmestre after Kajelijeli was removed in March of 
+
+        11        1993.  We don't want you to mention that name.  We just 
+
+        12        want you now to tell us who was the préfet at that time.
+
+        13   A.   The préfet at that time was Sylvester Bareyanga.  
+
+        14        Bareyanga is spelled B-A-R-E-Y-A-N-G-A.
+
+        15   Q.   In April of 1994, was he still the préfet? 
+
+        16   A.   No. 
+
+        17   Q.   Do you know what happened to him in April of 1994? 
+
+        18   A.   Bareyanga was killed by the Inkotanyi before April. 
+
+        19   Q.   In what year? 
+
+        20   A.   In 1994.
+
+        21   Q.   Do you know where he was killed?
+
+        22   A.   Yes.
+
+        23   Q.   Could you tell the Trial Chamber where he was killed by 
+
+        24        the RPF? 
+
+        25   A.   He was killed in Kigali.
+
+        26   Q.   Now, you said that Kajelijeli was removed from the 
+
+        27        position of bourgmestre in March of 1993.  Do you know 
+
+        28        what Kajelijeli did after he was removed from being 
+
+        29        bourgmestre?  Do you know what his occupation was, or 
+
+        30        what he did for a living? 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        16
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   After his suspension, he went into private activities 
+
+         2        and he was farming as well. 
+
+         3   Q.   Now, sir, without telling us what your occupation was, 
+
+         4        can you tell us whether you had occasion to be in the 
+
+         5        Mukingo commune office from March to June of 1994 -- 
+
+         6        I am sorry from March to June of 1993? 
+
+         7   MR. PRESIDENT: Counsel, we do not have the -- we have the 
+
+         8        summary here.  I don't know -- we don't have much 
+
+         9        details, but what we would request is that this 
+
+        10        background information must be done but, at least, 
+
+        11        bearing also to relevance so that we can move forward on 
+
+        12        the issues that you want to address that are relevant 
+
+        13        and central to the case as soon as possible. 
+
+        14   PROFESSOR HINDS: Your Honour, we are dealing right now with 
+
+        15        respect to use of the commune vehicle.  This witness 
+
+        16        talked about the role that he placed in that capacity 
+
+        17        and there is an issue now about -- in the case 
+
+        18        obviously -- 
+
+        19   MR. PRESIDENT: Who?
+
+        20   PROFESSOR HINDS:  -- about the driving of the commune vehicle 
+
+        21        and so on and so forth. 
+
+        22   MR. PRESIDENT: Because, you know -- we are now in our second 
+
+        23        hour on this backup information.  So, we would like 
+
+        24        really to see -- you can demonstrate as soon as possible 
+
+        25        how these things relate, so that we can also follow you.
+
+        26   PROFESSOR HINDS: Well, I am telling you, you have listened to 
+
+        27        the evidence as we all have.  There has been evidence 
+
+        28        that Kajelijeli, while he was out of office, was, in 
+
+        29        fact, even more powerful than the bourgmestre.
+
+        30    MR. PRESIDENT: We take note of that.  Can you --
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        17
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   PROFESSOR HINDS: Can I proceed?
+
+         2   MR. PRESIDENT: Yes.  
+
+         3   PROFESSOR HINDS: Thank you.
+
+         4   MR. PRESIDENT: But try as much as possible to make the 
+
+         5        linkage as quickly as possible, so that we can also 
+
+         6        follow you and move with you and see exactly the issues.
+
+         7   PROFESSOR HINDS: I don't know what you want me to do.  Do you 
+
+         8        want me to -- are you preventing me from asking the 
+
+         9        witness --
+
+        10   MR. PRESIDENT: No, no.  We are drawing your attention to 
+
+        11        demonstration of the relevance, and, of course, by 
+
+        12        trying to show the linkage as soon as possible with the 
+
+        13        issue that you want the Trial Chamber to follow. 
+
+        14   PROFESSOR HINDS: Yes.  So, in this case, is the Trial Chamber 
+
+        15        clear on where I am going?
+
+        16   MR. PRESIDENT: We are waiting to see at least how you 
+
+        17        develop.
+
+        18   BY PROFESSOR HINDS:
+
+        19   Q.   Let me go to something else and then I will come back to 
+
+        20        that.  Witness, do you see Juvénal Kajelijeli in the 
+
+        21        courtroom? 
+
+        22   A.   Yes, if I am given the opportunity, I can try to locate 
+
+        23        him. 
+
+        24   Q.   Can you, Witness, try to identify Juvénal Kajelijeli in 
+
+        25        the courtroom and identify where he is sitting, what he 
+
+        26        is wearing?  You can stand up, Witness, if you need to.
+
+        27   A.   Yes, I have just seen him.  He is wearing spectacles.  
+
+        28        He is also wearing a dark tie, a jacket -- a khaki 
+
+        29        coloured jacket and a blue shirt. 
+
+        30   Q.   What row is he sitting in, Witness? 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        18
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   He is seated on the last row. 
+
+         2   PROFESSOR HINDS: Witness identifying Kajelijeli, 
+
+         3        Your Honours. 
+
+         4   MR. PRESIDENT: Although the row is not correct but -- 
+
+         5   PROFESSOR HINDS: But there is nobody on the row.
+
+         6   MR. PRESIDENT: He is clear with the identification as regards 
+
+         7        to how he is dressed and we take note of that.  The 
+
+         8        Trial Chamber takes note of that.
+
+         9   PROFESSOR HINDS: Thank you, Your Honours. 
+
+        10   MR. PRESIDENT: And let the record so reflect that the witness 
+
+        11        has identified the Accused Kajelijeli in the Court well. 
+
+        12   BY PROFESSOR HINDS:
+
+        13   Q.   Witness, while you had occasion to be in the commune 
+
+        14        office, did you ever see Juvénal Kajelijeli using the 
+
+        15        communal vehicle? 
+
+        16   A.   Which period are you referring to, Counsel?  Is it 
+
+        17        during the period when he was bourgmestre or after his 
+
+        18        suspension? 
+
+        19   Q.   After his suspension. 
+
+        20   A.   No, after his suspension, he was not using the communal 
+
+        21        vehicle because that was impossible. 
+
+        22   Q.   Do you know who the driver of the communal vehicle was, 
+
+        23        the person's name?
+
+        24   A.   The driver w as called Avit Muhunde.  I spell Muhunde, 
+
+        25        M-U-H-U-N-D-E. 
+
+        26   Q.   Witness, why do you say it was impossible for Kajelijeli 
+
+        27        to drive the communal vehicle during the time that he 
+
+        28        was not bourgmestre? 
+
+        29   A.   It is because the communal vehicle was used by the 
+
+        30        person who replaced him, and that that person could not 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        19
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        allow Kajelijeli to use the vehicle when he was the 
+
+         2        authority. 
+
+         3   Q.   ************
+
+         4     **************   
+
+         5      **************
+
+         6   PROFESSOR HINDS: Your Honour, I think the witness has 
+
+         7        identified where he is.  So, I don't want to translate 
+
+         8        it.
+
+         9   MR. PRESIDENT: Maybe what we can do, we could deal with this 
+
+        10        issue in a minute in closed session and come back to it, 
+
+        11        so that we can streamline the record. 
+
+        12        
+
+        13        We will go into a closed session for a short while for 
+
+        14        some follow-up questions, perhaps by Counsel on this 
+
+        15        issue that he is addressing, hopefully for a very short 
+
+        16        while. 
+
+        17        
+
+        18        Registry, can you see that is done?
+
+        19   MR. KIYEYEU: Yes, My Lord.
+
+        20        
+
+        21        (At this point in the proceedings, a portion of the 
+
+        22        transcript [pages 21 to 22] was extracted and sealed 
+
+        23        under separate cover as the session was heard in camera)
+
+        24        (Pages 14 to 20 by Sithembiso Moyo)
+
+        25        
+
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        20
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY PROFESSOR HINDS:
+
+         2   Q.   Witness, did you confess or plead guilty to those 
+
+         3        particular charges?
+
+         4   A.   ****
+
+         5   Q.   Witness, do you recall meeting with me in Rwanda and 
+
+         6        providing me with a statement?
+
+         7   A.   Yes.
+
+         8   Q.   Witness, I would like to show you a statement consisting 
+
+         9        of five pages, and I would like you to look at the last 
+
+        10        page and see if you recognise your signature on that -- 
+
+        11        the last page?
+
+        12   MR. PRESIDENT: How many pages do you say, Counsel, five?
+
+        13   PROFESSOR HINDS: Five.
+
+        14   MR. PRESIDENT: Five pages.  Handwritten?
+
+        15   PROFESSOR HINDS: Handwritten, that's correct.
+
+        16   THE WITNESS: Yes, I see my signature on the last page of the 
+
+        17        statement.
+
+        18   BY PROFESSOR HINDS:
+
+        19   Q.   Now,Witness, do you recall went -- what month and what 
+
+        20        year you met with me and gave me that statement?
+
+        21   A.   ************ 2001.
+
+        22   Q.   Now, Witness, after you met with lawyers for 
+
+        23        Mr. Kajelijeli and you gave that statement, were you 
+
+        24        contacted by anyone from the Prosecutor's office in 
+
+        25        Rwanda?
+
+        26   A.   Yes, I was contacted by those people.
+
+        27   Q.   Went you say "those people", who contacted you?  Could 
+
+        28        you describe the individuals; that is, what office they 
+
+        29        represented?
+
+        30   A.   These were officials of the Arusha Tribunal.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        23
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Did you inform them that you had given a statement to 
+
+         2        the Defence of Mr. Kajelijeli?
+
+         3   MR. PRESIDENT: Yes, what does he want to say?
+
+         4   THE WITNESS: I wanted to answer this question in a detail 
+
+         5        manner.
+
+         6   BY PROFESSOR HINDS:
+
+         7   Q.   Now,Witness, just answer the question yes or no, and 
+
+         8        then I will direct you with follow-up questions.
+
+         9   MR. PRESIDENT: Yes.
+
+        10   THE WITNESS: Very well.
+
+        11   MR. PRESIDENT: Yes, what was the question?
+
+        12   PROFESSOR HINDS: The question was: Did you notify these 
+
+        13        individuals that you had given a statement to 
+
+        14        Mr. Kajelijeli's lawyers; that is, these people from 
+
+        15        Arusha?
+
+        16   THE WITNESS: I did not give them a statement.
+
+        17   PROFESSOR HINDS: Maybe I should start again.
+
+        18   MR. PRESIDENT: Maybe the question was not understood.
+
+        19   BY PROFESSOR HINDS:
+
+        20   Q.   Witness, after you met with Kajelijeli's lawyers, did 
+
+        21        you meet with anyone from the Prosecutor's office, and 
+
+        22        if so, can you tell us went?
+
+        23   A.   I did not understand your question.
+
+        24   MR. PRESIDENT: Yes, maybe you can make it simpler, Counsel, 
+
+        25        perhaps so that we can move forward.
+
+        26   BY PROFESSOR HINDS:
+
+        27   Q.   Witness, did you meet with representatives of the 
+
+        28        Prosecutor's office at any time while you were detained?
+
+        29   MS. OJEMENI: Objection, Your Honour.  
+
+        30   MR. PRESIDENT: That's broader.  That's broader. 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        24
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   MS. OJEMENI: Can he be specific.  There are many prosecutor's 
+
+         2        offices.  Can you be specific, please?
+
+         3   PROFESSOR HINDS: THE WITNESS can say "yes", then I could ask 
+
+         4        him who.  I mean, I'm trying to find out if he met with 
+
+         5        anyone.
+
+         6   MR. PRESIDENT: That is okay.  The only thing is that I think 
+
+         7        in your earlier question, you were dealing with the 
+
+         8        period after you have met him.
+
+         9   PROFESSOR HINDS: Yes, but apparently there is some confusion.  
+
+        10        So, now, I'm -- because I don't know what is in his 
+
+        11        mind.
+
+        12   MR. PRESIDENT: Yes. 
+
+        13   PROFESSOR HINDS: And so, I'm trying now to give him some 
+
+        14        frame of reference to which he can answer the question 
+
+        15        and see what his problem is.
+
+        16   MR. PRESIDENT: Yes.
+
+        17   BY PROFESSOR HINDS:
+
+        18   Q.   The question,Witness, is, did you ever meet with 
+
+        19        representatives of the Prosecutor's office while you 
+
+        20        have been detained?
+
+        21   A.   I met representatives of the Prosecutor, but they did 
+
+        22        not put any question to me.
+
+        23   Q.   Now, what Prosecutor did you meet?  Was it the 
+
+        24        Prosecutor from Rwanda, or the Prosecutors from Arusha?
+
+        25   A.   I met the representatives of the Prosecutor of Arusha.
+
+        26   Q.   Now, do you recall went you had that meeting with 
+
+        27        representatives -- the first meeting that you had with 
+
+        28        representatives of the Prosecutor's office in Arusha?
+
+        29   MS. OJEMENI: Objection, Your Honour.  
+
+        30   MR. PRESIDENT: Yes, Counsel.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        25
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   MS. OJEMENI: The Witness has not said that he met with the 
+
+         2        Prosecutor's office several times, that should warrant 
+
+         3        the line of questions my learned friend is putting.
+
+         4   MR. PRESIDENT: Yes, Counsel.
+
+         5   PROFESSOR HINDS: Yes, I have no problem rephrasing it.
+
+         6   MR. PRESIDENT: Yes.
+
+         7   BY PROFESSOR HINDS:
+
+         8   Q.   The question is: when did you meet -- what date, if you 
+
+         9        recall -- representatives of the Prosecutor's office 
+
+        10        from Arusha, who put no questions to you, as you said?
+
+        11   A.   I do not recall the date on which I met them.
+
+        12   Q.   Do you recall whether it was after you met with 
+
+        13        Mr. Kajelijeli's lawyers, or before?
+
+        14   A.   I met the representatives of the Prosecutor before I met 
+
+        15        the Defence team of Kajelijeli.
+
+        16   Q.   Now,Witness, did you have any meetings with 
+
+        17        representatives of the Prosecutor's office from Rwanda 
+
+        18        after you met with Mr. Kajelijeli's lawyers?
+
+        19   A.   Yes.
+
+        20   Q.   Can you tell the Trial Chamber if you recall who from 
+
+        21        the Prosecutor's staff in Rwanda contacted you, and what 
+
+        22        did they say to you, if anything?
+
+        23   A.   *********************************
+
+        24        ************************************
+
+        25        *************************************
+
+        26        ***************************************
+
+        27        ************************************
+
+        28        who came from Arusha.
+
+        29   Q.   What is *****************************
+
+        30        ********, do you know?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        26
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   I know that **************************************
+
+         2        has been transferred***********, but I do not know his 
+
+         3        name.  *********************
+
+         4   Q.   Witness, do you have any recollection of what time this 
+
+         5        meeting took place, or went did this meeting take place?
+
+         6   A.   I have no recollection at all of the date.
+
+         7   MR. PRESIDENT: Yes.
+
+         8   BY PROFESSOR HINDS:
+
+         9   Q.   Do you know what year it took place?
+
+        10   A.   ***************
+
+        11   Q.   Now,Witness, at the time you were introduced to 
+
+        12        representatives of the Prosecutor's staff from Arusha, 
+
+        13        could you tell the Trial Chamber whether or not any 
+
+        14        questions were put to you and what answers you gave, if 
+
+        15        any?
+
+        16   A.   They put questions to me, and do you want me to tell you 
+
+        17        the kind of questions they put to me?
+
+        18   Q.   Yes.  I want you to tell the Trial Chamber what 
+
+        19        questions they put to you and what answers you gave, if 
+
+        20        any?
+
+        21   A.   They asked me questions relating to Kajelijeli.  I 
+
+        22        answered them that, if they wanted information on 
+
+        23        Kajelijeli that they should refer to the statement that 
+
+        24        I gave at the Ruhengeri Office of the Prosecutor, 
+
+        25        because I did not want to go over what I had said 
+
+        26        earlier.
+
+        27   Q.   And what was the response from the Prosecutor's office 
+
+        28        from Arusha?
+
+        29   A.   They left me.  They did not put any further questions to 
+
+        30        me, and they decided to go and visit the ruins of Tutsi 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        27
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        houses.
+
+         2   Q.   Were you alone went you were questioned or were there 
+
+         3        other individuals present?
+
+         4   A.   Yes, there were other persons.
+
+         5   Q.   Without telling us the names of the other persons who 
+
+         6        were present, were you able to overhear the question, if 
+
+         7        there were any questions and answers, given by those 
+
+         8        individuals to the Prosecutor's office?
+
+         9   A.   No.
+
+        10   MR. PRESIDENT: Yes, Counsel, we would be stopping and take a 
+
+        11        break at eleven.  So you can organise your work 
+
+        12        accordingly, Counsel.
+
+        13   BY PROFESSOR HINDS:
+
+        14   Q.   Were you threatened at any time concerning your decision 
+
+        15        to testify in Kajelijeli's case?  And if so, by whom?
+
+        16   A.   Yes, I was threatened, and this threat came from a 
+
+        17        ************.
+
+        18   Q.   And can you tell the Trial Chamber specifically what 
+
+        19        threats were labelled against you?  What was told to you 
+
+        20        ********?
+
+        21   A.   He summoned me and asked me questions on Kajelijeli, and 
+
+        22        I told him that I do not intend at all to speak about 
+
+        23        Kajelijeli since I have already spoken a lot about him.  
+
+        24        The Prosecutor told me that I was underestimating him.  
+
+        25        **************.
+
+        26   Q.   Witness, have you undergone a trial yet in Rwanda for 
+
+        27        the charges of which you have been accused?
+
+        28   A.   **************************.
+
+        29   .
+
+        30   PROFESSOR HINDS: Your Honour, this is a good place for us to 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        28
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        stop.  I am going into another subject area.
+
+         2   MR. PRESIDENT: Yes. 
+
+         3        
+
+         4        All right, we'll take a break here for 15 minutes.  And, 
+
+         5        Interpreter, could you also tell the witness 
+
+         6        accordingly.  We'll resume our work at quarter past 
+
+         7        eleven; quarter past eleven. 
+
+         8        (Court recess from 1100H to 1120H)
+
+         9   MR. PRESIDENT: Yes, the proceedings are resumed.  We are 
+
+        10        still in open session.  Advise the witness accordingly.  
+
+        11        And, Counsel, can you continue?
+
+        12   PROFESSOR HINDS: Yes, Your Honour.  We would like the witness 
+
+        13        to be shown Prosecutor's Exhibit 7, and we would like to 
+
+        14        start with Photograph 10.
+
+        15   MR. PRESIDENT: Photograph 10?
+
+        16   PROFESSOR HINDS: Yes, Photograph No. 10, Your Honour.
+
+        17   The witness: I see on Photograph 10, the premises of Mukingo 
+
+        18        commune office.
+
+        19   BY PROFESSOR HINDS:
+
+        20   Q.   And can you turn to Photograph 24?  Can you recognise 
+
+        21        that place?
+
+        22   A.   It is Byangabo.
+
+        23   Q.   Now,Witness, when did you first learn of the president's 
+
+        24        death?
+
+        25   A.   I heard the news of the president's death at 11 p.m.
+
+        26   Q.   And can you tell us on what day at 11 p.m. you heard of 
+
+        27        the president's death?
+
+        28   A.   It was the 6th of April.
+
+        29   Q.   And how did you learn of the president's death?
+
+        30   A.   I heard the news from neighbours who woke me up at that 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        29
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        time at 11 p.m.
+
+         2   Q.   And can you tell the Trial Chamber what you did after 
+
+         3        you heard the news of the president's death?
+
+         4   A.   I and the neighbours held awake until six o'clock in the 
+
+         5        morning.  Thus, we didn't sleep until six in the 
+
+         6        morning.
+
+         7   Q.   Did you visit with your neighbours that night?
+
+         8   A.   No.
+
+         9   Q.   Did your neighbours give you any details concerning how 
+
+        10        the president might have died; that is, on the night of 
+
+        11        the 6th?
+
+        12   A.   The neighbours told me that they had heard on the radio 
+
+        13        that the president's plane had been shot down.
+
+        14   Q.   Did there come a time went you confirm what your 
+
+        15        neighbours had told you?  And if so, went?
+
+        16   A.   At 6 a.m. I went to Byangabo market where I arrived at 
+
+        17        6:30, in spite of the fact that on the radio people had 
+
+        18        been asked to stay home.
+
+        19   Q.   Why did you leave your home, notwithstanding the 
+
+        20        instructions, as you say, advising people to stay at 
+
+        21        home?
+
+        22   A.   Because I didn't, in fact, leave my cellule, the cellule 
+
+        23        in which I resided and where also Byangabo market was.
+
+        24   Q.   Could you tell the Trial Chamber what you observed, if 
+
+        25        anything, went you arrived at Byangabo at 6:30 a.m. the 
+
+        26        morning of the 7th?  What did you see?
+
+        27   A.   I found people displaced by the war from Mutaro commune 
+
+        28        and were living there.  I also found traders who lived 
+
+        29        around Byangabo market and we went on discussing the 
+
+        30        president's demise.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        30
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Now, how were you able to identify people you say who 
+
+         2        were displaced from other areas, other secteurs, other 
+
+         3        communes, how could you identify them?
+
+         4   A.   In fact, I couldn't identify who was present because 
+
+         5        there were people displaced by the war and members of 
+
+         6        the population who all collected there -- gathered there 
+
+         7        to try and find out more about what was happening in the 
+
+         8        country.
+
+         9   Q.   Witness, I'm asking you, could you tell those 
+
+        10        individuals who were displaced persons from others whom 
+
+        11        you had seen?
+
+        12   MR. PRESIDENT: Hasn't he understood the question?  What does 
+
+        13        he want to say? 
+
+        14   THE KINYARWANDA INTERPRETER: The witness says he has not 
+
+        15        fully understood the question.
+
+        16   MR. PRESIDENT: Can you repeat your question, please?
+
+        17   BY PROFESSOR HINDS:
+
+        18   Q.   Witness, did you see people whom you would describe as 
+
+        19        refugees that morning at Byangabo at 6:30 in the morning 
+
+        20        within the population you saw?
+
+        21   A.   We knew the place where the displaced people had their 
+
+        22        camp, and we could distinguish between the DPs, 
+
+        23        displaced persons, and the persons who lived there 
+
+        24        around Byangabo.
+
+        25   Q.   Now,Witness, did you have any conversations that morning 
+
+        26        went you arrived with any of these individuals and 
+
+        27        others?
+
+        28   A.   I continued discussing with the traders, and then at 
+
+        29        about 8 a.m. the young people of Busogo secteur with the 
+
+        30        DPs, displaced people, from Mutaro and refugees from 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        31
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        Zaire gathered together and said they wanted to seek out 
+
+         2        the accomplices in order to avenge the head of state.
+
+         3   Q.   Now, where were you at that time went these people made 
+
+         4        those remarks?
+
+         5   A.   I was in front of the shops at Byangabo and I spoke to 
+
+         6        those people telling them there were no Tutsi 
+
+         7        accomplices in Busogo secteur.
+
+         8   Q.   Witness, I'd like you to listen to the questions that 
+
+         9        I'm asking and try to answer just those questions.
+
+        10   A.   Agreed.
+
+        11   Q.   Now,Witness, you said you were standing in front of 
+
+        12        shops.  Were -- at that time in the morning, were the 
+
+        13        shops open, or were any shops opened at Byangabo?
+
+        14   A.   No shops had opened.
+
+        15   Q.   Between the time that you arrived at Byangabo at 6:30 
+
+        16        and the time that the people spoke to you at eight 
+
+        17        o'clock, had you seen Juvénal Kajelijeli at Byangabo?
+
+        18   A.   No, I did not see him.
+
+        19   Q.   At that time on April 7th of 1994, did you know the type 
+
+        20        of vehicle that Kajelijeli drove?
+
+        21   A.   Yes, I knew that vehicle.
+
+        22   Q.   Could you describe the vehicle to the Trial Chamber; 
+
+        23        that is, the vehicle that Kajelijeli drove in April of 
+
+        24        1994?
+
+        25   A.   It was a red vehicle.
+
+        26   Q.   Were there any markings on the side of the vehicle, if 
+
+        27        you can recall?
+
+        28   A.   ESTB.
+
+        29   Q.   And do you know the make of the vehicle?
+
+        30   A.   I think it was a small Toyota.  I don't know what it's 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        32
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        call.
+
+         2   Q.   Now, did you see that vehicle at any time up to -- from 
+
+         3        6:30 went you arrived to eight o'clock that morning at 
+
+         4        Byangabo?
+
+         5   A.   No, I didn't see it.
+
+         6   Q.   Now, do you know the commune vehicle?
+
+         7   A.   Yes, I know the communal vehicle.
+
+         8   Q.   In April 7th that morning, 1994, did you see the 
+
+         9        communal vehicle between 6:30 and eight o'clock that 
+
+        10        morning at Byangabo?
+
+        11   A.   No, I did not see it.
+
+        12   Q.   Now, sir, you testified that at some point in time 
+
+        13        individuals -- you heard individuals saying that they 
+
+        14        wanted to take revenge for the president's death; is 
+
+        15        that correct?
+
+        16   A.   Yes, I did.
+
+        17   Q.   Now, can you describe for the Trial Chamber who was 
+
+        18        making those comments?  Could you describe the 
+
+        19        individuals who you say were making those comments?
+
+        20   A.   The group of people who was made of young people from 
+
+        21        Busogo, the DPs from Butaro and those who had come from 
+
+        22        Zaire.
+
+        23   Q.   Now, can you describe for the Trial Chamber what was the 
+
+        24        attitude of these individuals who were making those 
+
+        25        comments?
+
+        26   A.   The people who were talking like that had already bad 
+
+        27        attitude.
+
+        28   Q.   Went you say they had a bad attitude, can you describe 
+
+        29        what about their attitude you thought was bad?  What 
+
+        30        were they doing?  What were they saying?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        33
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   I say that because they were so angry, so furious.
+
+         2   Q.   And were they -- withdrawn.  
+
+         3        
+
+         4        Where were you in relation to these young people and 
+
+         5        displaced people went they were making these comments?
+
+         6   A.   I was still in front of the shops.
+
+         7   Q.   There is Photograph 24, could you look at Photograph 24 
+
+         8        and tell us whether or not there is depicted in that 
+
+         9        photograph any area where the youths were and where you 
+
+        10        were?
+
+        11   MR. PRESIDENT:  Would you like it screened, Counsel, 
+
+        12        Photograph 24?
+
+        13   PROFESSOR HINDS: Yes.  Yes, Your Honour.
+
+        14   PROFESSOR HINDS: Before we go to the screen, I just want him 
+
+        15        to answer the question, if he says "yes", then we go to 
+
+        16        screen.  If he says "no", then I will go some place.  
+
+        17   MR. PRESIDENT: Okay.  Right. 
+
+        18   PROFESSOR HINDS: Translator, do you want me to repeat the 
+
+        19        question, or you have it?  Repeat?
+
+        20   THE KINYARWANDA INTERPRETER: Yes, Counsel.
+
+        21   BY PROFESSOR HINDS:
+
+        22   Q.   Witness, look at Picture No. 24, and can you tell us 
+
+        23        whether you can locate this part or the area where these 
+
+        24        displaced people and young people were when they were 
+
+        25        making those comments about taking revenge?  Could you 
+
+        26        locate that on Picture No. 24?
+
+        27   A.   The group of people was next to the tree that I see in 
+
+        28        the photo.
+
+        29   MR. PRESIDENT: Yes, Counsel.
+
+        30   PROFESSOR HINDS: Do you want us to go to the screen, 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        34
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        Your Honour?
+
+         2   MR. PRESIDENT: Yes.  Which tree?
+
+         3   PROFESSOR HINDS: Okay, could we have the witness go to the 
+
+         4        projector, the overhead projector and give him something 
+
+         5        to point to -- to point with?
+
+         6   MR. PRESIDENT: Yes, and draw the curtains before he moves.
+
+         7   MR. KIYEYEU: We are going to do so, My Lord.
+
+         8   BY PROFESSOR HINDS:
+
+         9   Q.   Witness, what are we looking at here, the 
+
+        10        Picture No. 24?  That is a picture of what location?
+
+        11   A.   I see the members of the population, peasant farmers of 
+
+        12        the area in the photograph.
+
+        13   Q.   Can you tell us,Witness, what is that location shown in 
+
+        14        the photograph -- what is the name of the place?
+
+        15   A.   Byangabo.
+
+        16   PROFESSOR HINDS: Can you get a chair for this witness to sit, 
+
+        17        please, because of his health problems?  I don't want 
+
+        18        him standing up.
+
+        19   MR. KIYEYEU: We are going to do so now, Counsel.
+
+        20   BY PROFESSOR HINDS:
+
+        21   Q.   Now,Witness, looking at the photographs, are there -- is 
+
+        22        there a tarmac road going through Byangabo, and can you 
+
+        23        point to it?
+
+        24   A.   What you see there is the asphalt road.
+
+        25   Q.   Witness, are there shops?  Are you using your 
+
+        26        glasses,Witness?
+
+        27   PROFESSOR HINDS: Ask him if he has his glasses on.
+
+        28   The witness: I had forgotten.  Please forgive me.
+
+        29   MR. PRESIDENT: Yes, that might help.  Can you put your 
+
+        30        question?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        35
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY PROFESSOR HINDS:
+
+         2   Q.   Okay, Witness, are there shops shown in the photograph, 
+
+         3        the shops at Byangabo, do you see shops?
+
+         4   A.   Aren't those shops that I see over there?
+
+         5   Q.   Well, tell us, Witness, whether or not, as you look at 
+
+         6        those, do those look like shops that you saw at Byangabo 
+
+         7        on April of 1994?
+
+         8   A.   No, things have changed.
+
+         9   Q.   Now, you mentioned a tree before, and do you have -- can 
+
+        10        you describe or show us the tree in the picture where 
+
+        11        you say the youth and displaced persons were gathered?
+
+        12   A.   That is the tree.
+
+        13   Q.   Okay.  And was that tree there in 1994?
+
+        14   A.   Yes.
+
+        15   PROFESSOR HINDS: Your Honours, could we take a short break, 
+
+        16        Mr. Kajelijeli needs to take his medication.  I was 
+
+        17        trying to finish up this area, but I've got two notes so 
+
+        18        far.
+
+        19   MR. PRESIDENT: Okay, we'll come back to this one, I think you 
+
+        20        are still on the 8th, on the tree and the area.
+
+        21   PROFESSOR HINDS: That's right.  We only need about five 
+
+        22        minutes.  I think he just needs to go into -- take his 
+
+        23        medication.
+
+        24   MR. PRESIDENT: Okay.  So, we stay here. 
+
+        25   PROFESSOR HINDS: Yes, just about five minutes.  
+
+        26   MR. PRESIDENT: We wait for him here?
+
+        27   PROFESSOR HINDS: Yes.  
+
+        28   MR. PRESIDENT: Okay.  He can go and take his medicine.
+
+        29        (Pages 23 to 36 by Haruna Farage)
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        36
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        12OOH
+
+         2   PROFESSOR HINDS: Your Honour, could we take a short break, 
+
+         3        Mr. Kajelijeli needs to take his medication?  I was 
+
+         4        trying to finish up this area, but I have gotten two 
+
+         5        notes so far.
+
+         6   MR. PRESIDENT:  Okay.  We will come back to this one.  I 
+
+         7        think you are still on it, on the tree and the area?
+
+         8   PROFESSOR HINDS: That's all right.  He will only need about 
+
+         9        five minutes.  I think he needs only to go about five 
+
+        10        minutes to go and take his medication.
+
+        11   MR. PRESIDENT: We wait for him here?
+
+        12   PROFESSOR HINDS: Yes, just for five minutes.
+
+        13   MR. PRESIDENT: He only needs to go and take his medicine.
+
+        14   PROFESSOR HINDS: Mr. Kajelijeli waives his rights to be here 
+
+        15        while he goes to get his medication.  So I will continue 
+
+        16        with the questions, he waives his presence.  So we could  
+
+        17        continue while he goes to take his medication and comes 
+
+        18        back.  It is going to take two or three minutes.  It's 
+
+        19        probably one question or so, yes if, the Court permits 
+
+        20        it.
+
+        21   MR. PRESIDENT: Yes, let him go.
+
+        22   PROFESSOR HINDS:  Can we continue, Your Honour, or you want 
+
+        23        me to wait?
+
+        24   MR. PRESIDENT:  Yes, if it is two minutes, we will wait for 
+
+        25        him.  (After a pause) Yes.  Right, Counsel, I think he 
+
+        26        can continue, the accused is back.  You were addressing 
+
+        27        the --
+
+        28   PROFESSOR HINDS: Yes, we need to be shown on the screen.
+
+        29   MR. PRESIDENT:  Yes, the tree. 
+
+        30   BY PROFESSOR HINDS:
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        37
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Now,Witness, I had asked you to point to the tree where 
+
+         2        you say that young people and displaced persons had made 
+
+         3        the comment concerning taking revenge.  Which tree was 
+
+         4        that? 
+
+         5   A.   This is the tree.
+
+         6   PROFESSOR HINDS: And, Your Honour, I think I am finished with 
+
+         7        that. 
+
+         8   MR. PRESIDENT: Can you describe the tree for the record, 
+
+         9        Counsel, that has been pointed out by the Accused?
+
+        10   PROFESSOR HINDS: Your Honour, it is the only tree shown in 
+
+        11        the photograph that extends up to the top of the 
+
+        12        photograph right in the length from the trunk of the 
+
+        13        tree all the way up to the top.  It extends up to the 
+
+        14        top of the photograph and there is an object to the 
+
+        15        right of the tree which looks -- at least -- what it 
+
+        16        looks like to me, is an overturned truck, but it may not 
+
+        17        be.
+
+        18   MR. PRESIDENT:  No, no.  The tree is right in the centre of 
+
+        19        the picture, of course, those structures I don't know 
+
+        20        what they --
+
+        21   PROFESSOR HINDS: Yes, there is a structure, yes, right to the 
+
+        22        right of the tree, but I don't know what it is.  But it 
+
+        23        is a tree that is in the foreground.  Maybe, it is a 
+
+        24        tree that is to the right of the tarmac road shown to 
+
+        25        the left and the tree -- the height, the top of the tree 
+
+        26        is cut-off by the top of the picture.
+
+        27   MR. PRESIDENT:  Yes, that should be it.  Counsel, would that 
+
+        28        be a fair description of the tree in question?
+
+        29   MS. OJEMENI:  Yes, Your Honour.
+
+        30   PROFESSOR HINDS: Okay, I am finished with the photograph.  
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        38
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        The witness can take his seat.
+
+         2   MR. PRESIDENT:  It is possible, Counsel, to find out from the 
+
+         3        witness what was the part of Byangabo that is shown, if 
+
+         4        you so wish, in the picture 24.
+
+         5   BY PROFESSOR HINDS:
+
+         6   Q.   Witness, going back to No. 24, Picture no. 24, can we 
+
+         7        have it shown on the screen, please?  Now,Witness, 
+
+         8        without -- think very carefully, don't say anything that 
+
+         9        may reveal your identity, can you tell us what part of 
+
+        10        Byangabo is being shown in the photograph, if you can 
+
+        11        tell?  That is in relation to the tree, do you know of 
+
+        12        any shops or structures that that tree is close to?
+
+        13   A.   From the tree there to near the tarmac, that tree would 
+
+        14        be on the left if you were going towards Gisenyi and  
+
+        15        Byangabo is a bit down below, that is what you see there 
+
+        16        is Byangabo and the shops go up to one that we called 
+
+        17        Isimbi.
+
+        18   Q.   Now, where would be -- in which direction, can you point 
+
+        19        in which direction would be Isimbi?
+
+        20   A.   When you were coming from Ruhengeri, when you leave the 
+
+        21        tarmac, Isimbi is over here on the right, around here. 
+
+        22        Isimbi I will spell it for you, I-S-I-M-B-I.
+
+        23   Q.   So,Witness, Isimbi is not shown on the photograph; is 
+
+        24        that correct?  
+
+        25   A.   No, I don't see it.
+
+        26   Q.   But it would be on your right side of the photograph; is 
+
+        27        that correct? 
+
+        28   A.   Yes, that is correct.
+
+        29   Q.   Now, what cellule is this tree located in at Byangabo 
+
+        30        market, what cellule?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        39
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   That tree is in Mugogo cellule.
+
+         2   PROFESSOR HINDS: Does the Court need anymore information 
+
+         3        concerning that?
+
+         4   MR. PRESIDENT: No, thank you.
+
+         5   PROFESSOR HINDS: Could we have the witness take the witness 
+
+         6        seat, please?
+
+         7   BY PROFESSOR HINDS:
+
+         8   Q.   Now,Witness, after you heard the youths and the 
+
+         9        displaced persons making the comment concerning taking 
+
+        10        revenge, what, if anything did you do or say?
+
+        11   A.   I told the young people that there was no Tutsi 
+
+        12        accomplice in Busogo secteur.
+
+        13   Q.   Were the young people addressing you personally or were 
+
+        14        they talking in general when they were talking about 
+
+        15        taking revenge?  Was it addressed to you or were they  
+
+        16        talking in general?
+
+        17   A.   The young people were talking to me, but there were 
+
+        18        other persons around, and let me say that there were 
+
+        19        lots of other people present around the place.
+
+        20   Q.   Now, why did you make the comment that you made to the 
+
+        21        young people that there were no Tutsi accomplices in 
+
+        22        your cellule?
+
+        23   A.   I don't understand the question.
+
+        24   Q.   Why did you tell the young people and others that there 
+
+        25        were no Tutsi accomplices in your cellule?
+
+        26   A.   I did that because when the young people re-grouped, 
+
+        27        they came saying that they were looking for accomplices.
+
+        28   MR. PRESIDENT:  I want -- you used in questions, cellule, but 
+
+        29        I think in his previous answer he had used the word 
+
+        30        secteur.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        40
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   PROFESSOR HINDS: Let me clarify.
+
+         2   BY PROFESSOR HINDS:
+
+         3   Q.   Yes,Witness, when you spoke to the young people, did you 
+
+         4        say there no Tutsi accomplices in your secteur or 
+
+         5        cellule?
+
+         6   A.   I referred to the secteur but you understand that if I 
+
+         7        referred to the secteurs it means the cellules are 
+
+         8        included.
+
+         9   Q.   Now, could you describe to the Trial Chamber what -- 
+
+        10        withdrawn.  Could you describe to the Trial Chamber 
+
+        11        whether any of the individuals who were addressing you 
+
+        12        at that time were armed or had weapons in their 
+
+        13        possession?
+
+        14   A.   The young men had clubs.
+
+        15   Q.   But did you see any other weapons displayed by any other 
+
+        16        people who were there, besides clubs?
+
+        17   A.   No.
+
+        18   Q.   Besides telling these young people there were no Tutsi 
+
+        19        accomplices in your secteur, did you say anything else 
+
+        20        to them?
+
+        21   A.   Can Counsel please repeat the question?
+
+        22   Q.   Besides telling the people that there were no Tutsis 
+
+        23        accomplices in the secteur, did you say anything else to 
+
+        24        them?
+
+        25   MS OJEMENI: Your Honour?
+
+        26   MR. PRESIDENT: Yes, Counsel.
+
+        27   MS. OJEMENI: I do know, that all we are trying to do here is 
+
+        28        to establish the truth as to what happened in Rwanda in 
+
+        29        1994, but with all due respect, I think this particular 
+
+        30        question is leading.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        41
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   PROFESSOR HINDS: What part of the question is leading?  Does 
+
+         2        the answer -- is the answer obvious from the question?
+
+         3   MS. OJEMENI: Your Honour, the witness has been asked what 
+
+         4        he -- the witness has already given evidence as to what 
+
+         5        he said to the youths, the -- my learned friend is now 
+
+         6        leading him to get further information as to what he 
+
+         7        said.  The witness should be able to say so himself when 
+
+         8        he was asked the first question.
+
+         9   PROFESSOR HINDS: The question put to the witness is; what if  
+
+        10        anything did -- you say further he could say nothing or 
+
+        11        he could whatever.
+
+        12   MR. PRESIDENT: He can answer that question.
+
+        13   PROFESSOR HINDS: Thank you.
+
+        14   The witness: I told the people who were at Byangabo that 
+
+        15        whosoever would attack the Tutsi would be held 
+
+        16        responsible.
+
+        17   Q.   At the time when those people were speaking to you, were 
+
+        18        you aware of what their intentions were?
+
+        19   A.   I don't understand the question, Counsel.
+
+        20   Q.   Witness, did you know or have any idea of what the 
+
+        21        intentions of those people who said that they wanted to 
+
+        22        take revenge, what they were planning to do to the 
+
+        23        Tutsis.  Did you have any idea?
+
+        24   A.   Yes, when I heard these people talk about vengeance, I 
+
+        25        knew that definitely the killings were going to follow.
+
+        26   Q.   Now, when you told them that anyone who harmed the 
+
+        27        Tutsis would be held responsible, how did the youths 
+
+        28        react to you, if anyway?
+
+        29   A.   They continued saying that they were going to revenge 
+
+        30        the death of the president because he was killed by the 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        42
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        Tutsi.
+
+         2   Q.   Did you make my further comment to them or anyone else 
+
+         3        when they insisted on taking revenge?
+
+         4   A.   I told you that at this stage I was talking to all the 
+
+         5        people present.
+
+         6   MR. PRESIDENT: Yes.
+
+         7   BY PROFESSOR HINDS:
+
+         8   Q.   Now, can you tell the Trial Chamber what happened after 
+
+         9        you made your feelings known to the youths and the 
+
+        10        people who were there? 
+
+        11   I don't understand the question.
+
+        12   MR. PRESIDENT:  Yes, can you repeat it?
+
+        13   PROFESSOR HINDS: Yes.
+
+        14   BY PROFESSOR HINDS:
+
+        15   Q.   Let me ask another question. Witness do you know whether 
+
+        16        the individuals you spoke to and who spoke to you knew 
+
+        17        who you were that morning of April 7 1994, did they know 
+
+        18        who you were? 
+
+        19   MR. PRESIDENT: Without mentioning who you were?
+
+        20   BY PROFESSOR HINDS:
+
+        21   Q.   Without mentioning your name or your position?
+
+        22   A.   Yes, those people knew me.
+
+        23   Q.   Did you know any of the people whom you had addressed?  
+
+        24        Did you know them, that is, were you able to identify 
+
+        25        them and know them by name any of the individuals 
+
+        26        without giving them your name?
+
+        27   A.   Yes, I knew some of the people.
+
+        28   Q.   Now, after you told these individuals what you were 
+
+        29        feelings were, do you know whether or not your 
+
+        30        statements had any effect on them and if so, what effect 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        43
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        did it have on them?  What did they do?  How did they 
+
+         2        react after you spoke to them?
+
+         3   A.   No, they protested.
+
+         4   Q.   What happened after that, if anything?
+
+         5   A.   They told me that I myself was an accomplice.
+
+         6   Q.   And what was your reaction to them calling you an 
+
+         7        accomplice?
+
+         8   A.   At the same time, a military vehicle arrived at the 
+
+         9        spot.
+
+        10   Q.   Did you -- were you able to identify any of the 
+
+        11        individuals within that military vehicle?
+
+        12   A.   No, I was not able to identify them.
+
+        13   Q.   What happened when the military vehicle arrived?
+
+        14   A.   The youths present moved towards the vehicle.
+
+        15   Q.   And what happened when the youths moved towards the 
+
+        16        vehicle?
+
+        17   A.   The youths spoke to the senior most soldier in the 
+
+        18        vehicle and told him that I prevented them from avenging 
+
+        19        the death of the president.
+
+        20   Q.   Now, in which direction was the vehicle travelling, do 
+
+        21        you know?  And was it going towards Gisenyi or towards 
+
+        22        Ruhengeri?
+
+        23   A.   The vehicle was coming from Ruhengeri.
+
+        24   Q.   Now, how do you know the most senior person was 
+
+        25        addressed by the youths, that is the most senior 
+
+        26        officer,  how you do know that it was the most senior 
+
+        27        officer who was addressed?
+
+        28   A.   I knew because his name was mentioned.
+
+        29   Q.   And what was his name?
+
+        30   A.   His name was Mburuburengero and he was a lieutenant.  I 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        44
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        spell Mburuburengero, M-B-U-R-U-B-U-R-E-N-G-E-R-O.
+
+         2   MR. PRESIDENT:  Can you repeat that please, slowly.
+
+         3   The witness: Mburuburengero is spelt, 
+
+         4        M-B-U-R-U-B-U-R-E-N-G-E-R-O.
+
+         5   MR. PRESIDENT:  Thank you.
+
+         6   BY PROFESSOR HINDS:
+
+         7   Q.   After the youths spoke to Lieutenant Mburuburengero, 
+
+         8        what happened if anything after that?
+
+         9   A.   He ordered them to kill me.
+
+        10   Q.   And what happened after that, what did you see or do?
+
+        11   A.   At that time, I saw the youths attack Rukara and started 
+
+        12        hitting him with clubs and they started moving towards 
+
+        13        me and at that time I ran.
+
+        14   Q.   Why did you run?
+
+        15   A.   I fled because it was said that I was also going to be 
+
+        16        killed.
+
+        17   Q.   Now, while you were standing at Byangabo making these 
+
+        18        observations, were there anyone, was there anyone with 
+
+        19        you.
+
+        20   A.   Let me start with the spelling of Rukara, R-U-K-A-R-A.  
+
+        21        Byangabo is a market and there a lot of people.
+
+        22   Q.   At the time that you made those observations that you 
+
+        23        were speaking to us about were you standing with anyone?
+
+        24   A.   Yes, I was with a lot of other people, there were a lot 
+
+        25        of people at the market.
+
+        26   Q.   What were the names of any who were standing besides you 
+
+        27        when this occurred?
+
+        28   A.   Yes, there were a lot of people I knew.
+
+        29   Q.   Can you name the individuals who were standing near you 
+
+        30        who made the same observations who saw what you have 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        45
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        testified about?
+
+         2   A.   At the time ***************************************
+
+         3        ***********************************************
+
+         4        following people in that place Ishabani Rukera who is 
+
+         5        the elder brother of Gato.  There was also Juvénal 
+
+         6        Barayasesa who was a trader and there were other traders 
+
+         7        who were able to witness the event.  I spell *******, 
+
+         8        ****************************, 
+
+         9        N**************************************, 
+
+        10        R-U-K-E-R-A.  *********************.
+
+        11   Q.   Now, did you witness the beating of Rukara?
+
+        12   A.   Yes, I witnessed it.
+
+        13   Q.   Did you see what happened to Rukara as a result of the 
+
+        14        beating?
+
+        15   A.   I was not present when he died.  I had already left 
+
+        16        since I fled.
+
+        17   Q.   Now, at the time that you saw the beating of Rukara, did 
+
+        18        you see Juvénal Kajelijeli at Byangabo?
+
+        19   A.   No, he was not there.
+
+        20   Q.   How you do know he was not there?
+
+        21   A.   I am saying that because when the events started, I was 
+
+        22        present at Byangabo and when I fled, I did not go too 
+
+        23        far from that place.  I was still in the neighbourhood.
+
+        24   Q.   Without telling us where you went, how far from the 
+
+        25        beating of Rukara did you flee to, did you go?  What was 
+
+        26        the distance?
+
+        27   A.   It was at a distance of 80 metres.
+
+        28   Q.   From the distance at where you were, where you had fled, 
+
+        29        what, if anything could you see with respect to the 
+
+        30        events at Byangabo market?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        46
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   Yes, I could still see what was happening at Byangabo 
+
+         2        market.
+
+         3   Q.   Now, do you know Juvénal Kajelijeli's shop or store in 
+
+         4        Byangabo?
+
+         5   A.   Yes, I know Juvénal Kajelijeli's shop.
+
+         6   Q.   How far was that shop from the events that you have just 
+
+         7        described?
+
+         8   A.   I want to know if you are asking for the distance 
+
+         9        between me and where Rukara was killed or the distance 
+
+        10        between my hiding place and Juvénal Kajelijeli's store.
+
+        11   Q.   No, I am asking you for the distance from Juvénal 
+
+        12        Kajelijeli's store and where you say the military 
+
+        13        vehicle had stopped and where you saw Rukara being 
+
+        14        beaten, how far was Juvénal Kajelijeli's shop from those 
+
+        15        events?
+
+        16   A.   From Juvénal Kajelijeli's store to where Rukara was 
+
+        17        killed, this is a distance of 30 steps whereas from 
+
+        18        Kajelijeli's store to where the military vehicle 
+
+        19        stopped, there are 20 steps.
+
+        20   Q.   Now, do you know what activities were conducted in 
+
+        21        Kajelijeli's shop or store at Byangabo?
+
+        22   A.   Someone had hired a shop and was selling beer.
+
+        23   Q.   When you say someone had hired, do you mean someone had 
+
+        24        rented this shop to sell beer?
+
+        25   A.   Yes, that is what I mean.
+
+        26   Q.   Now, did you see Kajelijeli at his shop that morning at 
+
+        27        Byangabo?
+
+        28   A.   No, he did not come to the shop.
+
+        29   Q.   Do you know whether or not that morning, was the shop 
+
+        30        open or closed?
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        47
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   The shop was not open.
+
+         2   Q.   The youths that you saw there, did you see them later on 
+
+         3        from the place that you had fled to?  Did you see the 
+
+         4        youths and people at Byangabo?  Were you able to see 
+
+         5        them?
+
+         6   A.   After the death of Rukara, the youths and the other 
+
+         7        people started moving towards Rwankeri.
+
+         8   Q.   Now, did you actually see them as they moved off towards 
+
+         9        Rwankeli?  Were you able to follow their movements from 
+
+        10        where you were?
+
+        11   A.   Yes, I saw them when they were moving towards Rwankeli 
+
+        12        because I was not hiding far from the route they took in 
+
+        13        that the direction of Rwankeli.
+
+        14   Q.   Sir, can you tell the Chamber what the youths were 
+
+        15        wearing as they went to Rwankeli?  What was their 
+
+        16        clothing?
+
+        17   A.   These people were wearing ordinary clothes just as the 
+
+        18        other people, they were not wearing anything special.
+
+        19   Q.   Did you see any military personnel among those 
+
+        20        individuals as they went towards Rwankeli?
+
+        21   A.   These persons were accompanied by soldiers who had been 
+
+        22        sent off from the army, in other words, people who were 
+
+        23        no longer soldiers.  There were also soldiers who had 
+
+        24        deserted the front, the war fronts. 
+
+        25   MR. PRESIDENT: Yes, maybe, Counsel, on these areas that are 
+
+        26        important, ask questions which are not between leading 
+
+        27        or anything, we would like to know whether they were 
+
+        28        accompanied by any anybody without any possible 
+
+        29        suggestion of soldiers and what have you, the account of 
+
+        30        the witness.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        48
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY PROFESSOR HINDS:
+
+         2   Q.   Witness, could you -- how did you identify these 
+
+         3        individuals as being people from the military?
+
+         4   A.   At the beginning, we could see people together with the 
+
+         5        youths.
+
+         6   Q.   What were they wearing?  Can you tell the Trial Chamber, 
+
+         7        what they were wearing?  How were they dressed?
+
+         8   MR. PRESIDENT:  Which ones?
+
+         9   PROFESSOR HINDS: Well, we are only talking about the people 
+
+        10        described as the military now.  We have been talking 
+
+        11        about the others, how they were dressed.
+
+        12   The witness:  The youths were wearing ordinary clothes, 
+
+        13        nothing special.
+
+        14   PROFESSOR HINDS: Maybe that is a good place to stop although 
+
+        15        it was not the answer to the question.
+
+        16   MR. PRESIDENT:  Yes, he can -- can you follow it up maybe he 
+
+        17        can give an answer to that question.
+
+        18   PROFESSOR HINDS: Yes.
+
+        19   MR. PRESIDENT: If the witness understands it.
+
+        20   BY PROFESSOR HINDS:
+
+        21   Q.   Witness, I asked you before; could you tell us what the 
+
+        22        military were wearing, what clothes were they wearing, 
+
+        23        that maybe, identify them as military?
+
+        24   A.   I don't understand the question.
+
+        25   MR. PRESIDENT: Can you rephrase the question, Counsel, 
+
+        26        perhaps?  Okay.  Go ahead, Counsel. 
+
+        27   BY PROFESSOR HINDS:
+
+        28   Q.   Witness, you said you saw some people accompanying the 
+
+        29        youths, a few displaced individuals that you say were 
+
+        30        the military people or deserters, how could you tell 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        49
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        they were military people?
+
+         2   A.   It is because I knew these people previously.  I knew 
+
+         3        they were deserters from the army and I used to see them 
+
+         4        with the youths.
+
+         5   Q.   Were they dressed in civilian clothes or did they have 
+
+         6        military clothing on?
+
+         7   A.   They were wearing ordinary clothes because they had left 
+
+         8        the army.
+
+         9   PROFESSOR HINDS: Is this a good place, Your Honour?
+
+        10   MR. PRESIDENT:  Yes.  Yes, we will stop here and resume our 
+
+        11        work this afternoon at twenty to three.
+
+        12   PROFESSOR HINDS: Thank you, Your Honour.
+
+        13       (Court recessed from 1305H to 1440H)
+
+        14   MR. PRESIDENT:  Yes, the proceedings are resumed.  We 
+
+        15        continue with the evidence of MEM, examination-in-chief.  
+
+        16        And, Interpreter, could you please tell Witness MEM that 
+
+        17        we are in open session, and that he should be careful.  
+
+        18        
+
+        19        Yes, Counsel?
+
+        20   PROFESSOR HINDS: Thank you, Your Honour. 
+
+        21   BY PROFESSOR HINDS:
+
+        22   Q.   Witness, after the people left Byangabo, did you hear or 
+
+        23        see anything from the direction of Ruhengeri?
+
+        24   A.   Yes, I heard grenades exploding.
+
+        25   Q.   Were you able to see anything from the direction of 
+
+        26        Rwankeli besides from the grenades explosion?
+
+        27   A.   No, I couldn't see anything.
+
+        28   Q.   What time of the day did you leave the market, or did 
+
+        29        you leave the market?
+
+        30   A.   I left the market at 4:30 p.m.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        50
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   And by the time you left the market, was Kajelijeli's 
+
+         2        bar open at all that day?
+
+         3   A.   No.
+
+         4   Q.   By the time you left the market, did you see Kajelijeli?
+
+         5   A.   No.
+
+         6   Q.   What did you do after you left the market on April 7th?
+
+         7   A.   I went home, nothing else.
+
+         8   Q.   The next day on April 8th, what did you do?
+
+         9   A.   I stayed at home.
+
+        10   Q.   When did you next leave your home, what day?
+
+        11   A.   I left my house on the 9th after having learnt that the 
+
+        12        bourgmestre was dead.
+
+        13   Q.   And what was the name of that bourgmestre who had died?
+
+        14   A.   Emmanuel Harerimana.
+
+        15   Q.   And what did you do when you left your home on the 9th?
+
+        16   A.   We went to bury the bourgmestre who was dead.
+
+        17   Q.   And where were those burial services, where did that 
+
+        18        take place?
+
+        19   A.   We buried the bourgmestre at his home not far from the 
+
+        20        communal offices because he lived not very far from the 
+
+        21        offices of the commune.
+
+        22   Q.   And what commune are you referring to when you say  
+
+        23        communal offices?
+
+        24   A.   I am speaking of Mukingo.
+
+        25   Q.   Did you see Juvénal Kajelijeli that day, that is, on the 
+
+        26        9th?
+
+        27   A.   I saw him.
+
+        28   Q.   And can you tell the Tribunal where you saw him and what 
+
+        29        was he doing, if anything?
+
+        30   A.   I saw him at the place of burial where we buried the 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        51
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        deceased bourgmestre.
+
+         2   Q.   Now, sir, on the 7th, did you see any roadblocks in the 
+
+         3        area of Byangabo, anywhere in Byangabo?
+
+         4   A.   There were roadblocks.
+
+         5   Q.   Where did you see roadblocks?
+
+         6   A.   I saw a roadblock at the ISAE and the purpose of the 
+
+         7        roadblocks was to stop deserters fleeing from the front 
+
+         8        line.
+
+         9   Q.   And when did you see that roadblock established?
+
+        10   A.   The roadblock had been there for sometime and on the 
+
+        11        9th, it was still there and its purpose was to seek out 
+
+        12        and check and stop those deserters who were fleeing from 
+
+        13        the front lines.
+
+        14   Q.   Did you see any other roadblocks?
+
+        15   A.   No, I didn't see any others.
+
+        16   Q.   Now, sir, do you know of the Isimbi house?
+
+        17   A.   Yes, I know that place.
+
+        18   Q.   And where is the Isimbi house located?
+
+        19   A.   It stands at Byangabo.
+
+        20   Q.   And do you know what activities were conducted at Isimbi 
+
+        21        house, if any?
+
+        22   A.   Yes.
+
+        23   Q.   And what activities were conducted there?  What was the 
+
+        24        house used for?
+
+        25   A.   One room was used as a pharmacy.  Another was used as a 
+
+        26        drinking place, and in the courtyard and back, there 
+
+        27        were buildings that were rented by people to live in.
+
+        28   Q.   Do you know who owned that building, that house?
+
+        29   A.   That place belonged to Nzirorera's brother-in-law.
+
+        30   Q.   Were there any flags that were flown in front of that 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        52
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        building?
+
+         2   A.   Yes, a flag was flying in front of that place.
+
+         3   Q.   Do you know whether that flag belonged to any political 
+
+         4        party?
+
+         5   A.   Yes, the flag was that of the MRND party.
+
+         6   Q.   Were there MRND party flags flown in front of other 
+
+         7        buildings in Byangabo?
+
+         8   A.   No, the MRND flag was only flown in front of the Isimbi 
+
+         9        house.
+
+        10   Q.   In the Isimbi house, do you know whether or not there 
+
+        11        were any meetings that were held there?
+
+        12   A.   There weren't meetings held at Isimbi house.
+
+        13   Q.   Now are you -- withdrawn.  Did other political parties 
+
+        14        have flags that were flown at Byangabo?
+
+        15   A.   There were political parties whose supporters were 
+
+        16        flying the party flags in front of their houses, in 
+
+        17        front of residences.
+
+        18   Q.   Now, sir, prior to multiparty system, did you belong to 
+
+        19        any political party?
+
+        20   A.   Yes, I belonged to a political party.
+
+        21   Q.   What was that party?
+
+        22   A.   MRND.
+
+        23   Q.   After multiparty system, do you know the names of the  
+
+        24        political parties that existed in Rwanda?
+
+        25   A.   I only know one party that existed throughout the 
+
+        26        country, that is the MRND.
+
+        27        (Pages 37 to 53 by Petrus Chijarira)
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        53
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        1500H
+
+         2   BY PROFESSOR HINDS:
+
+         3   Q.   Do you know when the multiparty system came into being 
+
+         4        in Rwanda; do you remember the year?
+
+         5   A.   In 1991.
+
+         6   Q.   Prior to 1991, did you have an MRND membership card?
+
+         7   A.   I didn't quite follow your question.
+
+         8   Q.   Prior to 1991 MEM, did you have an MRND membership card, 
+
+         9        prior to the multiparty system?
+
+        10   A.   Yes, if you are speaking of the first MRND.
+
+        11   Q.   Witness, after multiparty system, did you receive an 
+
+        12        MRND membership card?
+
+        13   A.   Yes, I received a membership card.
+
+        14   Q.   Who were individual -- how did you receive that 
+
+        15        membership card?
+
+        16   A.   I received the card from the MRND party man in the 
+
+        17        commune.
+
+        18   Q.   What was the name of this MRND party man as you call 
+
+        19        him; what was is his name?
+
+        20   A.   The MRND man was Jean-Damersen Nyiyoyita.  I will spell 
+
+        21        Nyiyoyita, N-Y-I-Y-O-Y-I-T-A.
+
+        22   Q.   And what was Jean-Damarsene Nyiyoyita's position or 
+
+        23        function within the MRND?
+
+        24   A.   Jean-Damersene Nyiyoyita was the communal chairman of 
+
+        25        the MRND.
+
+        26   Q.   Now, do you know, sir, at that time, whether the MRND 
+
+        27        flag had any particular colours?
+
+        28   A.   Do you mean the new MRND?
+
+        29   Q.   I mean the MRND at the time that you received your 
+
+        30        membership card.  Did it have a flag and did the flag 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        54
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        have colours?
+
+         2   A.   The new reformed MRND had a flag made up of three 
+
+         3        colours; red, black and yellow -- four colours -- yellow 
+
+         4        and green.  In the yellow there was a hoe and a scythe 
+
+         5        -- the emblem of a hoe and a scythe.
+
+         6   MR. PRESIDENT: What was the other one after the hoe?
+
+         7   THE ENGLISH INTERPRETER: A scythe, sir: S-C-Y-T-H-E.
+
+         8   BY PROFESSOR HINDS:
+
+         9   Q.   Now, did you know whether or not the MRND had a youth 
+
+        10        wing?
+
+        11   A.   Yes, the MRND had a youth wing.
+
+        12   Q.   Do you know what this youth wing was called -- did it 
+
+        13        have name?
+
+        14   A.   The youth wing of the MRND were called the Interahamwe. 
+
+        15   Q.   When was the first time, sir, that you heard the name 
+
+        16        Interahamwe?
+
+        17   A.   I heard the term for the first time -- the term 
+
+        18        Interahamwe for the first time on the occasion of a 
+
+        19        speech that the president of the republic gave in 
+
+        20        Ruhengeri.
+
+        21   Q.   Do you know which year that was given?
+
+        22   A.   It was 1992 or '93.
+
+        23   Q.   Now, do you recall who attended that meeting; was it a 
+
+        24        meeting or was it a rally?
+
+        25   A.   He used the term on occasion of the meeting at Ruhengeri 
+
+        26        to cerebrate the renewal of the MRND, the reconstitution 
+
+        27        of the MRND.
+
+        28   Q.   Do you know who attended or who was invited to attend 
+
+        29        that meeting?
+
+        30   A.   All MRND members of Ruhengeri Prefecture were invited.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        55
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Do you know if Juvénal Kajelijeli was a member of the 
+
+         2        MRND after 1991?
+
+         3   A.   I don't know.
+
+         4   Q.   Know do you know we there bourgmestre from thousand 
+
+         5        other the remember they gentlemen remember were there at 
+
+         6        that meeting?
+
+         7   A.   All bourgmestres of Ruhengeri were present at that 
+
+         8        meeting.
+
+         9   Q.   Did you see Juvénal Kajelijeli at that meeting?
+
+        10   MR. PRESIDENT: He has not said whether he was at that 
+
+        11        meeting, did he?
+
+        12   PROFESSOR HINDS: He said all bourgmestre were at that 
+
+        13        meeting.
+
+        14   MR. PRESIDENT: Yes, but has he reacted?  Has he said he was 
+
+        15        at that meeting?
+
+        16   PROFESSOR HINDS: Oh, I think that is a proper meeting.
+
+        17   BY PROFESSOR HINDS:
+
+        18   Q.   Witness, were you at that meeting?
+
+        19   A.   Yes, I attended.
+
+        20   Q.   Did you see Juvénal Kajelijeli at the meeting?
+
+        21   A.   Yes, Kajelijeli was present at that meeting.
+
+        22   Q.   Do you know whether or not he took the floor; did he 
+
+        23        speak at that meeting?
+
+        24   A.   No, he did not speak at that meeting.
+
+        25   Q.   Now, sir, concerning the Interahamwe, after you heard 
+
+        26        the term Interahamwe at that meeting, did you know 
+
+        27        whether or not there was any organisation called 
+
+        28        Interahamwe establishrf in your secteur?
+
+        29   A.   Yes, there was a youth that had gotten together and 
+
+        30        called themselves Interahamwe.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        56
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   Q.   Did these youths have any uniform?
+
+         2   A.   No, those young people did not have any distinctive 
+
+         3        uniform.
+
+         4   Q.   Did you know whether or not they held any meetings in 
+
+         5        your secteur?
+
+         6   A.   No those young people did not hold meetings.
+
+         7   Q.   Do you know whether or not they were engaged in any type 
+
+         8        of activities prior to 1994?
+
+         9   A.   The youth formed agricultural associations and had a 
+
+        10        kind of merry go round, which means they put together 
+
+        11        money, and at one time they were giving money to X and 
+
+        12        another time Y.
+
+        13   Q.   Now that youth organisation that you are describing, is 
+
+        14        the Interahamwe or was it some other organisation that 
+
+        15        was conducting those activities?
+
+        16   A.   This was an association which was formed by youths and 
+
+        17        adults.
+
+        18   MR. PRESIDENT: Yes, Counsel.
+
+        19   BY PROFESSOR HINDS:
+
+        20   Q.   Do you know any adults that formed that youth 
+
+        21        association?
+
+        22   A.   No one got them together.  It is the young people who 
+
+        23        came together from their own initiative.
+
+        24   PROFESSOR HINDS: Your Honour, I need to raise questions with 
+
+        25        this witness concerning actions he took in his position, 
+
+        26        and I think we may need to go into closed session 
+
+        27        without revealing his identity.
+
+        28   MR. PRESIDENT: Yes.  We will go into closed session to enable 
+
+        29        Counsel to raise questions some of which could have a 
+
+        30        bearing on the identity of the witness.  We regret to 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        57
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        members of the public, but it a necessary procedure to 
+
+         2        be adopted at this stage.
+
+         3        
+
+         4        At this point in the proceedings a portion of the 
+
+         5        transcript (pages 59 to 70) was extracted and sealed 
+
+         6        under separate cover as the session was heard in camera)
+
+         7        (Pages 54 to 58 by Regina Limula)
+
+         8        
+
+         9        
+
+        10        
+
+        11        
+
+        12        
+
+        13        
+
+        14        
+
+        15        
+
+        16        
+
+        17        
+
+        18        
+
+        19        
+
+        20        
+
+        21        
+
+        22        
+
+        23        
+
+        24        
+
+        25        
+
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        58
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1                         CROSS-EXAMINATION 
+
+         2   BY MS. OJEMENI:
+
+         3   Q.   Witness, could you tell this Court how far Busogo  
+
+         4        parish is from Byangabo market?
+
+         5   A.   The distance between Busogo parish and Byangabo market 
+
+         6        is a kilometre, one kilometre. 
+
+         7   Q.   How far is Rwankeri cellule from Byangabo market?
+
+         8   A.   Byangabo straddles three cellules, Rwankeri, Busogo and 
+
+         9        Mugogo.
+
+        10   Q.   How far is Rwankeri from Busogo parish? 
+
+        11   A.   Rwankeri cellule is practically adjacent to Busogo 
+
+        12        parish, because there is a small road at the end of 
+
+        13        Rwankeri cellule which leads to Busogo parish.  I could 
+
+        14        say that buildings of Busogo parish down to the road is 
+
+        15        about 50 metres from the road. 
+
+        16   Q.   This road you referred to, is it the road dividing the 
+
+        17        Busogo cellule and Rwankeri cellule? 
+
+        18   A.   That is correct. 
+
+        19   Q.   Kajelijeli's bar or the shop you referred to in your 
+
+        20        evidence, that is the beginning of this road, isn't it? 
+
+        21   A.   Yes, Kajelijeli's little shop is just after turning off 
+
+        22        from the tarmac road onto that small road, just after 
+
+        23        that junction. 
+
+        24   Q.   It is actually at the corner of that road facing the 
+
+        25        road itself and not on Byangabo market, isn't it? 
+
+        26   A.   That is correct, you must have been there.  I was with 
+
+        27        you, I mean -- I think you went there, because we were 
+
+        28        together.
+
+        29   Q.   Thank you for that information.  Now when you are at 
+
+        30        Byangabo market, could you see somebody who is inside 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        71
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        that bar?
+
+         2   A.   No.
+
+         3   Q.   Can the witness be shown Exhibit P7, Prosecution 
+
+         4        Exhibit P7?
+
+         5   MR. PRESIDENT: Yes, Exhibit P7, Counsel.  
+
+         6   BY OJEMENI:
+
+         7   Q.   Can you take a look at the building P7, the building -- 
+
+         8        that would be in Exhibit 23 of P7.
+
+         9   MR. PRESIDENT: Exhibit or --
+
+        10   MS. OJEMENI: Photograph 23.
+
+        11   MR. PRESIDENT: Okay, photograph 23.
+
+        12   BY MS. OJEMENI:
+
+        13   Q.   Do you recognise the building? 
+
+        14   A.   Other buildings have been built at the place.  I can recognise 
+
+        15       them. 
+
+        16   Q.   I thought you just told the Court that I went there with you.  
+
+        17   PROFESSOR HINDS: Your Honour, the witness says he does not recognise 
+
+        18       what is depicted in photograph 23.  I think that is what he says.
+
+        19   MR. PRESIDENT: Is that definitive?  We will say so if it is 
+
+        20       definitive.  
+
+        21   The witness: Other buildings have been built at the place.  I can't 
+
+        22       recognise what this photograph shows.
+
+        23   BY MS. OJEMENI:
+
+        24   Q.   Now,Witness, we will take a look at Exhibit 24.
+
+        25   MR. KIYEYEU: Maybe it should be photograph 24, because now we 
+
+        26        are having a mix-up.
+
+        27   BY MS. OJEMENI:
+
+        28   Q.   Photograph 24, if one stood in front of this tree, the 
+
+        29        big tree that touches the top of the photograph or 
+
+        30        within the shops around it, would you be able to see 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                       72
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        Kajelijeli's bar? 
+
+         2   A.   No. 
+
+         3   Q.   How far is Busogo hill from Busogo parish? 
+
+         4   A.   From Busogo hill to Busogo parish, there is about 
+
+         5        300 metres.
+
+         6   Q.   Looking at photograph 24, you could see hills behind it, 
+
+         7        are they Busogo hills?
+
+         8   A.   I don't see Busogo hill on this photo.
+
+         9   Q.   Where exactly is Busogo hill situated in terms of 
+
+        10        Rwankeri and Busogo cellules? 
+
+        11   A.   Busogo cellule starts where the shops of Byangabo are 
+
+        12        and extends to Busogo parish and Busogo hill is between 
+
+        13        the two.  Rwankeri cellule also starts at Byangabo 
+
+        14        market but straddles the road.  You came there with me 
+
+        15        when you went to see the ruins of the Tutsi houses.  
+
+        16        Rwankeri cellule is therefore on both sides of the road 
+
+        17        and continues on to a place called Gahanga and another 
+
+        18        place known as Rwunga.  I will spell Gahanga, 
+
+        19        G-A-H-A-N-G-A.  And Rwunga, R-W-U-N-G-A. 
+
+        20   Q.   From Byangabo market, would you be able to see the top 
+
+        21        of Busogo hill? 
+
+        22   A.   Yes, from Byangabo market you can see the summit of 
+
+        23        Busogo hill -- the top of Busogo hill. 
+
+        24   Q.   If there were activities on top of that hill, would you 
+
+        25        be able to see from Byangabo market, like human beings, 
+
+        26        movement of human beings?
+
+        27   A.   No. 
+
+        28   Q.   In which secteur was Manjeri cellule in April 1994? 
+
+        29   A.   Manjeri cellule was in Rwinzovu secteur.
+
+        30   Q.   Was Manjeri in existence in April 1994? 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        73
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   A.   Manjeri cellule has always existed.  It wasn't born 
+
+         2        after '94. 
+
+         3   Q.   Which cellule is Busogo parish? 
+
+         4   A.   Busogo parish is in Rwinzovu cellule.
+
+         5   Q.   And in which cellule is the Busogo parish? 
+
+         6   A.   Busogo parish is in Manjeri II.
+
+         7   Q.   How far is Busogo parish from Kajelijeli's house in 
+
+         8        Rwinzovu? 
+
+         9   A.   Could you repeat, please, the question?  Could you 
+
+        10        please repeat the question?
+
+        11   Q.   How far is Kajelijeli's house in Rwinzovu cellule from 
+
+        12        Busogo parish? 
+
+        13   A.   From Busogo parish to Kajelijeli's house, it is a 
+
+        14        distance of about three kilometres. 
+
+        15   Q.   If there was an explosion in Busogo parish, would you be 
+
+        16        able to hear that from Kajelijeli's house in Rwinzovu 
+
+        17        cellule? 
+
+        18   A.   In fact, there is no Rwinzovu cellule, it is Rwinzovu 
+
+        19        secteur.  And coming back to your question, if one is at 
+
+        20        Kajelijeli's house in Rwinzovu secteur, you can hear in 
+
+        21        the distance an explosion that took place at Busogo 
+
+        22        parish, but you couldn't hear it very well. 
+
+        23   Q.   In which cellule is Kajelijeli's house in Rwinzovu 
+
+        24        secteur? 
+
+        25   A.   I don't remember exactly the name of the cellule where 
+
+        26        Kajelijeli's residence in Rwinzovu secteur is, but I 
+
+        27        think it is in Mikingo, I will spell that, 
+
+        28        M-I-K-I-N-G-O.
+
+        29   Q.   ***********************************************
+
+        30        *************************************************
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        74
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        ****************************************************
+
+         2        *****************************************************
+
+         3        *****************************************************?
+
+         4   PROFESSOR HINDS: Your Honour --
+
+         5   MS. OJEMENI: Your Honour, may the answer be translated before 
+
+         6        my learned friend says something?
+
+         7   MR. PRESIDENT: Can we have the answer?
+
+         8   THE KINYARWANDA INTERPRETER: The witness has not yet answered 
+
+         9        to the interpreter.
+
+        10   MR. PRESIDENT: Translate it slowly.
+
+        11   THE KINYARWANDA INTERPRETER: My Lord, as this is open session 
+
+        12        the witness's answer risks revealing his identity.
+
+        13   MS. OJEMENI: Your Honour, I do apologise, my colleague has 
+
+        14        just informed me that my question was sort of -- and 
+
+        15        raised the response to reveal the identity.  So, I 
+
+        16        apologise.
+
+        17   PROFESSOR HINDS: I did not want to -- 
+
+        18   MR. PRESIDENT: Okay.
+
+        19   PROFESSOR HINDS: Then the prime, Your Honour, was for me to 
+
+        20        stand and saying nothing.
+
+        21   MS. OJEMENI: Your Honour, in that case, may I request for --
+
+        22   MR. PRESIDENT: Please, keep it up, it is extremely important.
+
+        23   MS. OJEMENI: Your Honour, I would ask for a brief proceedings 
+
+        24        in closed session. 
+
+        25   MR. PRESIDENT: Yes.  Whenever that happens, whether it is not 
+
+        26        immediately brought to our attention, you have to insist 
+
+        27        because this is the only way we can deal with some of 
+
+        28        the things in that kind of situation.  Okay.
+
+        29        
+
+        30        We will now go back into closed session for a while to 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        75
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        enable Counsel to raise questions that could have a 
+
+         2        bearing on the identity of the witness.
+
+         3        
+
+         4        (At this point in the proceedings, a portion of the 
+
+         5        transcript [pages 77 to 80] was extracted and sealed 
+
+         6        under separate cover as the session was heard in camera)
+
+         7        (Pages 71 to 76 by Sithembiso Moyo)
+
+         8        
+
+         9        
+
+        10        
+
+        11        
+
+        12        
+
+        13        
+
+        14        
+
+        15        
+
+        16        
+
+        17        
+
+        18        
+
+        19        
+
+        20        
+
+        21        
+
+        22        
+
+        23        
+
+        24        
+
+        25        
+
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        76
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY MS. OJEMENI:
+
+         2   Q.   Witness, could you take a look at Picture No. 20?  Does 
+
+         3        that scene remind you of the place -- I mean, does it 
+
+         4        mean -- does this scene mean anything to you?
+
+         5   PROFESSOR HINDS: Your Honours, is it possible for us to 
+
+         6        project that photo on the screen?  Part of our problem 
+
+         7        is that we are missing some photos here.
+
+         8   MR. PRESIDENT: Your team?
+
+         9   PROFESSOR HINDS: Yes.  
+
+        10   MR. PRESIDENT: You have only one? 
+
+        11   PROFESSOR HINDS: Well, we have a book, but we are now trying 
+
+        12        to sort why I don't have Photo No. 20, and we just 
+
+        13        borrowed it from the client, but he now doesn't have 20.
+
+        14   MR. PRESIDENT: All right, we can have it screened, and then 
+
+        15        for you to be able to see it on the screen and the 
+
+        16        witness could continue using his.
+
+        17   THE WITNESS: I cannot recognise what's on this picture.  I do 
+
+        18        not recognise the location.
+
+        19   BY MS. OJEMENI:
+
+        20   Q.   Thank you.  Let's move on to Exhibit 24?
+
+        21   MR. PRESIDENT: Professor Hinds, you can switch off that.
+
+        22   BY MS. OJEMENI:
+
+        23   Q.   I would like you to look at Exhibit 24 and Exhibit 20 at 
+
+        24        the same time.  I am actually referring to Photo 20 and 
+
+        25        Photo 24.  Could you look at the trees behind the 
+
+        26        building in Exhibit 20, and then you look at the tree -- 
+
+        27        the trees in front of Exhibit 24, starting from the big 
+
+        28        one down to --
+
+        29   MR. PRESIDENT: Maybe if you zoom 24, I don't know how that 
+
+        30        can be done, from the tree to the end.
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        81
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1   BY MS. OJEMENI:
+
+         2   Q.   Do you see any semblance among the trees?
+
+         3   MR. PRESIDENT: If you can zoom maybe near that big -- the 
+
+         4        photograph -- Photograph 24, maybe zoom it close to the 
+
+         5        tree -- from the tree, big tree.
+
+         6   BY MS. OJEMENI:
+
+         7   Q.   Let's look at Photograph 24 then.  You can see many 
+
+         8        trees there.  Are you seeing them? 
+
+         9   MS. OJEMENI: Please, can the witness put on his glasses.
+
+        10   THE WITNESS: Are you talking about Photograph No. 20?  Which 
+
+        11        photograph are you talking about?
+
+        12   MS. OJEMENI:
+
+        13   Q.   Has he answered my question?  
+
+        14   THE KINYARWANDA INTERPRETER: The witness is asking you a 
+
+        15        question, Counsel.  Is it Photograph 20 you want him to 
+
+        16        look at?
+
+        17   MS. OJEMENI: The photograph on the screen now is 
+
+        18        Photograph 24, and that's what I want him to look at, 
+
+        19        and I am drawing his attention to the trees appearing on 
+
+        20        that photograph.
+
+        21   THE WITNESS: I don't remember where these trees are situated.
+
+        22   BY MS. OJEMENI:
+
+        23   Q.   Is it your evidence that you cannot recognise any of the 
+
+        24        trees?
+
+        25   A.   No, I cannot recognise this location.
+
+        26   MS. OJEMENI: No further questions, Your Honour, for now on 
+
+        27        the issue of trees.  And looking at the time, I'm about 
+
+        28        going into a new area, so, I'm wondering if this is a 
+
+        29        perfect time to adjourn.
+
+        30   MR. PRESIDENT: Okay, we have three minutes to go, we can stop 
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        82
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1        here if you are moving to a new area.
+
+         2   MS. OJEMENI: I'm moving to a new area.
+
+         3   MR. PRESIDENT: All right. 
+
+         4   MS. OJEMENI: And I would be seeking for a closed session for 
+
+         5        that. 
+
+         6   MR. PRESIDENT: Okay.  Could you -- we'll stop here and resume 
+
+         7        our work tomorrow at 9:00 in the morning.  
+
+         8        
+
+         9        Could you tell Witness MEM accordingly, and that since 
+
+        10        he has -- he continue to testify, he should not discuss 
+
+        11        his evidence with anybody else outside court until we 
+
+        12        meet tomorrow in the morning at 9:00.  
+
+        13   THE WITNESS: Very well.
+
+        14   MR. PRESIDENT: So, until tomorrow at 9:00 in the morning 
+
+        15        these proceedings stand adjourned. 
+
+        16        (Court recessed at 1730H)
+
+        17        (Pages 81 to 83 by Haruna Farage)
+
+        18        
+
+        19        
+
+        20        
+
+        21        
+
+        22        
+
+        23        
+
+        24        
+
+        25        
+
+        26        
+
+        27        
+
+        28        
+
+        29        
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+                                        83
+
+
+
+          KAJELIJELI                                      25 NOVEMBER 2002
+
+
+
+         1                       C E R T I F I C A T E
+
+         2        
+
+         3                  We, Sithembiso Moyo, Haruna Farage, Petrus 
+                  Chijarira and Regina Limula, Official Court Reporters 
+         4        for the International Criminal Tribunal for Rwanda, do 
+                  hereby certify that the foregoing proceedings in the 
+         5        above-entitled cause were taken at the time and place as 
+                  stated; that it was taken in shorthand (stenotype) and 
+         6        thereafter transcribed by computer; that the foregoing 
+                  pages contain a true and correct transcription of said 
+         7        proceedings to the best of our ability and 
+                  understanding.
+         8        
+                            We further certify that we are not of Counsel 
+         9        nor related to any of the parties to this cause and that 
+                  we are in nowise interested in the result of said cause.
+        10             
+
+        11        
+
+        12        ___________________ (pages  1 to  6)
+
+        13        Sithembiso Moyo     (pages  7 to 13 in closed session)
+
+        14                            (pages 14 to 20)
+
+        15                            (pages 21 in closed session)
+
+        16                            (pages 70 in closed session)
+
+        17                            (pages 71 to 76)
+
+        18        
+
+        19        __________________  (pages 22 in closed session)
+
+        20        Haruna Farage       (pages 23 to 36)
+
+        21                            (pages 77 to 80 in closed session)
+
+        22                            (pages 81 to 83) 
+
+        23        
+
+        24        __________________  (pages 37 to 53)
+
+        25        Petrus Chijarira
+
+        26        
+
+        27        
+
+        28        __________________  (pages 54 to 58)
+
+        29        Regina Limula       (pages 59 to 69 in closed session) 
+
+        30        
+
+
+                             ICTR - TRIAL CHAMBER II
+

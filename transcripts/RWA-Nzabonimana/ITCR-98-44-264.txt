@@ -1,0 +1,731 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+TUESDAY, 23 MAY 2006
+0855H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+
+For the Registry:
+	Ms. Stephania Ntilatwa
+	Mr. Issa Mjui
+
+
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Alayne Frankson-Wallace
+	
+
+For the Accused Édouard Karemera:
+	Mr. Mussa Félix Sow
+
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+
+Court Reporters:
+	Ms. Kirstin McLean
+	Ms. Roxane Meena
+	Ms. Karen Holm
+	Ms. Donna M. Lewis
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS ZF
+Cross-examination by Mr. Robinson (continued)	3
+Cross-examination by Ms. Hounkpatin.	36
+
+
+EXHIBITS
+
+Exhibit No. D. NZ109	7
+Exhibit No. D. NZ110	11
+Exhibit No. D. NZ111A and D. NZ111B	15
+Exhibit No. D. NZ112A and D. NZ112B	20
+Exhibit No. 99B.	34
+Exhibit No. D. NZ113A and D. NZ113B.	35
+Exhibit No. D. NZ114A and D. NZ114B.	35
+Exhibit No. D. NZ115A and D. NZ115B.	35
+Exhibit No. D. NZ116A and D. NZ116B.	35
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT: 
+Good morning, everybody.  
+
+Madam Registrar, could you open the proceedings, please.  
+MS. NTILATWA:
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Francis Emile Short (sic), and Judge Gberdao Gustave Kam is now sitting in open session today, Tuesday, 23rd May 2006, for continuation of trial in the matter of the Prosecutor versus Karemera et al, case number ICTR-98-44-T.  Please, Your Honours.  
+MR. PRESIDENT: 
+Thank you very much.  
+
+The appearances are the same?  Yes.  
+
+I think that just before we continue with the cross-examination of Witness ZF, I would just like to deliver our decision on the motion to compel disclosures of payments for the benefit of Witnesses G and T.  This is the decision.  
+
+On the 21st of April 2006, the Accused Nzirorera requested, pursuant to Rule 68(A) of the Rules of Procedure and Evidence, an order requiring the Prosecution to disclose the full amount of money paid as benefits to Witnesses G and T.  He relied on new information revealed in Witness G's testimony in the Ndindiliyimana case, where Witness G admitted to receiving a specific amount of money in cash, after making a request to the Prosecution for financial assistance for his daughter's education in 2003, and that the Prosecution reimbursed his host country for relocation and subsistent costs for himself and his family in a witness protection programme.  
+
+Nzirorera claimed that a similar situation exists with Witness T, since the amount previously disclosed as benefits does not include disbursements for relocation and assistance for him and his family.  Nzirorera asserted that these costs are beyond the normal expenses to witnesses, and that the amounts should be fully disclosed, because not all witnesses who come to testify are entitled to those benefits.  
+
+The Prosecution responded that it had completely disclosed all of the benefits paid to Witnesses G and T before they became the responsibility of foreign states.  Regarding the payment for Witness G's daughter's education, the Prosecution stated that it disclosed this nature -- the nature of this in-kind service in response to the Chamber's decision of the 23rd August 2005, through oral professional statements, while conducting the examination-in-chief of Witness G.  
+
+It further admits that payments have been made, and will continue to be made, to the host countries where Witness G -- Witnesses G and T reside, as reimbursement of the protective measures taken by these national authorities, but that these payments are reasonably required for the management of the witnesses and need not be disclosed.  
+
+This Chamber has already stated, in its decision on the Defence motion for full disclosure of payment to witnesses and to exclude testimony from paid witnesses, on 23rd August 2005, that:  
+
+"Not all monies paid to a witness will fall within the category of material of an exculpatory nature, or material which may affect the credibility of Prosecution evidence."  
+
+The Chamber has further found, on several occasions, that the action quantum of benefits is not necessarily relevant, because the cost of living varies from country to country, depending on where the witness receives protective measures.  
+
+The Chamber has required that the Prosecution disclose the nature of the benefits which the witnesses have received, as we consider that this is what is important in assessing the credibility of the witness.  
+
+The Chamber relies on the oral professional statement of the Chief of Prosecutions, Mr. Steven Rapp, on 13th October 2005, where he referred to Witness G as being in a formal national protection programme, which includes education, training, and other benefits, to find that the nature of the educational benefit received by Witness G's daughter was duly disclosed by the Defence -- to the Defence.  
+
+Regarding the reimbursement of payments, the reimbursement of payments to the national authorities of the host countries where Witnesses G and T reside, the Chamber again relies on the Prosecution assertions that the benefits correspond to the amount set by the host country as required for the protective measures in that country, and finds that these benefits are reasonably required for the management of insider witnesses who face serious risks as a result of giving testimony at the Tribunal.  
+
+Since the exact amount of the benefits is not required to be disclosed, and there's no evidence put forth by the Defence that other information regarding benefits to Witnesses G or T exists, pursuant to Rule 68, the Chamber denies the motion.  
+
+We can proceed again now.  
+Now, Witness ZF, the -- your testimony will now continue.  I remind you that you are under the same oath to tell the truth that you took when your testimony begun.  Mr. Robinson will continue his cross-examination.  
+
+Mr. Robinson.  
+MR. ROBINSON: 
+Thank you, Mr. President.  Good morning.  
+
+Mr. President, just before I begin my cross-examination of Witness ZF, which I think should take around an hour, I would just -- with respect to the decision, I thank you for rendering that decision.  I want to return to something I raised with you at one point before, and that is the possibility of these decisions being filed in writing after they're delivered.  Because, you'd mentioned at one time it that there was some oral -- database of oral decisions which we've never actually received, but even if we did receive it, those decisions don't -- do not become part of the jurisprudence of the Tribunal, because they are not entered in Trim as written decisions are.  
+
+So I think it's important that these decisions, which are very significant, and sometimes issues of first impression at this Tribunal, be made part of the jurisprudence.  So I would ask that you make a practice, after delivering oral decisions, to file them in writing with the registry.  
+MR. PRESIDENT: 
+Okay.  I won't respond to that immediately, but we will take note of it.  
+
+As I mentioned to you, I think that that practice has been existing, but it probably has been filed within the Chambers' own information system.  But, I will return to this soon.  
+MR. ROBINSON: 
+Okay, thank you very much.  
+WITNESS ZF
+CROSS-EXAMINATION (continued)
+BY MR. ROBINSON:
+Q.	Witness ZF, good morning.  How are you?  
+THE ENGLISH INTERPRETER: 
+Issa, is the witness connected?  
+BY MR. ROBINSON:
+Q.	Witness ZF, (Kinyarwanda spoken).
+A.	Good morning, Counsel. 
+Q.	I'm going to return to your testimony with the first time you saw Mr. Nzirorera at Gisenyi camp after the 6th of April 1994, a time that you've placed somewhere between 6 April and the beginning of May.  And it's my understanding that you've testified that when you saw Mr. Nzirorera, he had arrived at the Gisenyi camp with Félicien Kabuga, and that also arriving at the camp was Colonel Bagosora.  Is that correct?  
+A.	Yes, Counsel. 
+Q.	And you have also testified about overhearing a conversation at a certain point during the time that Mr. Nzirorera was at the Gisenyi camp.  And can you tell us again, briefly, what it is that you heard Mr. Nzirorera discussing when you were out on the tarmac in Gisenyi camp that day?  
+A.	Counsel, you've mentioned the tarmac.  I told you that I had seen Mr. Nzirorera more than once in Gisenyi, so I don't know what period you're referring to, because either on the tarmac or at the mess or in the camp -- perhaps if you read me the version, or show me the document, I could be better contextualised.  Because, speaking of the tarmac, I don't remember exactly what period or what time he came, because there's once I told you he came with Félicien Kabuga and then Colonel Bagosora, but there was another time he came with Félicien Kabuga and Mr. Barayagwiza.  I did specify there was two occasions; I don't know which occasion you are referring to.  If you could give me a bit more clarification -- if you could be a bit more precise, please, if it's not an inconvenience.  
+Q.	Yes, I'm speaking now of the first of the two meetings, where you've said that Mr. Nzirorera, Mr. Kabuga, Colonel Bagosora, and Anatole Nsengiyumva were present.  So, on that occasion, when you -- there was a certain point at which you told us that you overheard part of the conversation.  So, can you tell us again what it was that you overheard at that -- on that first occasion when you saw Mr. Nzirorera? 
+A.	To be a bit more precise, I followed the conversation, perhaps not in its entirety, a part of it, and after their departure also, because they didn't all leave at the same time.  They left one after the other.  We discussed it at the mess with officers -- with other officers, and in the evening also I had discussed what I had heard with Lieutenant Bizumuremyi.  
+
+And what I heard, which had been pursued at the officers' mess, and which was the subject of my discussion with Bizumuremyi, was the fact that they had said that the war now was unfavourable to us.  There is no hope anymore of winning the war, and now, if possible, they would like to retrench in Gitarama préfecture, Ruhengeri préfecture, and Gisenyi préfecture, and make of it a zone for the government, which then was the government of national succor, and would be a region for Hutu -- of the Hutu persuasion.  And that's what they were talking of when they came with Félicien Kabuga and Colonel Bagosora. 
+Q.	And you heard that yourself, with your own ears, from -- from the persons who were speaking, not the officers in the mess, or not Lieutenant Bizumuremyi, but that's -- you heard that from the discourse between the four people:  Bagosora, Kabuga, Nzirorera, and Nsengiyumva?  
+A.	And Colonel Bagosora, Counsel.  And, no, Counsel, I did not follow the conversation between the protagonists, but they came to the mess and that's where they were talking.  But it was after when they came out that Colonel Nsengiyumva and Mr. Nzirorera dallied on the tarmac, which is the inside courtyard, that's what is called the tarmac, and they dallied there.  The internal courtyard.  And they dallied there and -- discussing that possibility.  
+
+And I followed not very well, but afterwards, when there were comments by the officers in the mess, discussed that possibility, because some officers didn't agree.  They'd said the war was not over, and that part of the country was too small, for example.  And some would say, "Instead of losing everything we should at least keep that", and the others said, "But that is nothing, compared to the country as a whole."  
+
+So, that evening, also, when I met Lieutenant Bizumuremyi, we discussed it, and he explained to me what his main anxieties -- what the main anxieties were of those figures of authority; Colonel Bagosora, Colonel Nsengiyumva, and Mr. Nzirorera, and Mr. Kabuga.  
+
+So, the source was not one single source.  It's not that I heard everything they were saying when they were dallying on the tarmac, but there was the following up, or the follow through, so that I gradually fully understood what was being said.  And I hope I have fully answered your question, Counsel. 
+Q.	When Mr. Nzirorera and Colonel Nsengiyumva were on this tarmac, how far from them were you?  
+A.	Well, Counsel, I can't speak of any distance, unless perhaps we were there on the spot, I could show you.  But it's -- it's the courtyard.  They were in front of his office, which is near the mess, and when we came out of the mess there's a little porch in front, and that's where we were; we'd come out with Lieutenant Bizumuremyi.  We were standing there.  He was accompanying them.  I fell back, and it's from there I followed.  It was a short distance; it was close.  It wasn't very far.  
+Q.	And can you tell us what you heard Mr. Nzirorera say? 
+A.	Well, Counsel, I think the question is a bit difficult, because it was a conversation.  I can't repeat all the words that were spoken, because it was two people speaking to each other.  And when two people speak together -- well, I can't now say who said what -- Nzirorera said this and that.  But the two people were exchanging their views on that subject.  
+
+I understood what they were talking about as on the whole, and I told you that it was later that I sought to understand further and finally understood the full extent of what was being said.  But I cannot here today repeat the words that one or the other -- what Nzirorera said, what Nsengiyumva said.  It was a conversation between them -- an exchange of the views perhaps probably on the following of the meeting of the four -- the meeting all four held together.
+Q.	And can you tell us who was present in the courtyard, or the tarmac, when you heard this conversation between Nzirorera and Nsengiyumva?  
+A.	Well, Counsel, there was Lieutenant Bizumuremyi, who, as usual, was a sort of protocol officer.  He was accompanying them to their cars, to their vehicles.  And they left one by one.  And the other soldiers who came and went, I can't say who they were because normally soldiers, when they enter the camp, they go straight to their quarters, or to their offices.  They don't -- unless they're -- a meeting has been called, they don't dally on the tarmac.  Otherwise there was no one other than Lieutenant Bizumuremyi. 
+Q.	And what about Kabuga or Bagosora, were they on the tarmac or in that area when the conversation was being held?  
+A.	No, Counsel.  When they exited, each one left in his own time.  They didn't leave together.  It was Nzirorera and Nsengiyumva -- Mr. Nzirorera and Colonel Nsengiyumva who stayed back and chatted for a little while.  
+Q.	And did you see where Mr. Nzirorera went after that?  
+A.	No, Counsel. 
+Q.	Do you know how he left the camp that day?  
+A.	Well, Counsel, he left in a vehicle -- I think the ops commander's vehicle was there, because the one who he had come with left first.  I don't know if he was waiting for him somewhere, but when he left, he left with the camp driver -- Colonel Nsengiyumva's driver.  
+Q.	And do you know the name of that person? 
+A.	No, Counsel, I no longer recall his name. 
+Q.	And, now, can you tell us the names of the officers who discussed the content of the conversations of that day at the officers' mess with you? 
+A.	Well, from what I recall there was Lieutenant Bizumuremyi, who was at the mess, Lieutenant Rwasa, Lieutenant Munyaburanga, also, at the mess.  Major Habimana was there also, at the mess.  I think that's all. 
+Q.	Okay, thank you.  
+MR. ROBINSON: 
+Mr. President, I would now like to ask the registry to take an exhibit, which is a map of Rwanda, and place it on the overhead projector, so that we could discuss it with the witness and have it be projected to everyone.  
+MR. PRESIDENT: 
+Is it a map that's already in evidence, or is it a new document?  
+MR. ROBINSON: 
+It's a new document.  
+
+And if the technicians could please focus on the -- what's being displayed on the projector, so we could all see it.  
+BY MR. ROBINSON:
+Q.	Okay, Witness ZF, can you see that?  
+A.	Yes, Counsel, but it is properly focused -- the map.  
+THE ENGLISH INTERPRETER: 
+I don't know -- Issa -- 
+BY MR. ROBINSON:
+Q.	Well, I think for our purposes it doesn't need to be seen in great detail.  But, let me ask you if that appears to you to be a map of Rwanda, with the préfectures of Gisenyi, Ruhengeri, and Gitarama highlighted in green?  
+A.	Yes, Counsel, but it's the scale that's been used here. 
+Q.	Well, in as much as this is an official map of Rwanda, I think we cannot argue about the scale at this point.  
+MR. ROBINSON: 
+But, first of all, Mr. President, I would offer this document as Exhibit D. NZ109. 
+MR. PRESIDENT: 
+Admitted into evidence.  
+(Exhibit No. D. NZ109 admitted) 
+MR. ROBINSON: 
+Thank you.  
+BY MR. ROBINSON:
+Q.	Now, I want to suggest to you that at some time -- let's say no later than the beginning of May of 1994, at that time the RPF did not hold any territory in any of the préfectures of Gikongoro, which is south of Gitarama, Butare, Cyangugu, and Kibuye.  And is it your testimony that on -- at that time, no later than the beginning of May, Mr. Nzirorera and the others were discussing forming a country of only the three préfectures that are coloured in green?  
+A.	Could you repeat your question, please, Counsel?  
+Q.	I'm suggesting to you that, as of the beginning of May 1994, the RPF did not hold any territory or positions in the préfectures of Gikongoro, Butare, Cyangugu, Kibuye, and I'm asking you whether it's your testimony that it was at this time that Mr. Nzirorera and others were discussing creating a Rwandan state out of only the three préfectures that are highlighted in green there?  
+A.	Yes, Counsel. 
+Q.	And, for example, this would not include the préfecture of Kibuye, which is situated directly underneath Gisenyi, and which was a stronghold of the MRND party; is that correct?  
+MR. WEBSTER: 
+Could I ask Mr. Robinson to break that proposition down into two parts; the location of Kibuye, and then whether or not it was the stronghold of the MRND party.  
+MR. ROBINSON: 
+Yes, I could do that.
+  
+BY MR. ROBINSON:
+Q.	Witness ZF, the préfecture directly south of Gisenyi, that's Kibuye, correct?  
+A.	Correct. 
+Q.	And would you agree that Kibuye was a préfecture that was -- 
+A.	Yes, Counsel. 
+Q.	And would you agree that the préfecture of Kibuye was an MRND stronghold?  
+A.	I am afraid, Counsel, I wouldn't know that. 
+Q.	Would you agree that the préfecture of Gitarama was a stronghold of the opposition, particularly the MRD party?  
+A.	I don't know that also, Counsel. 
+Q.	So, can you tell me whether or not, at least to you, it made any sense, either militarily or politically, to carve a territory out of the préfectures of Ruhengeri, Gisenyi, and Gitarama?  
+A.	Counsel, my opinion, if indeed that is what you are seeking, is that if it had planned to carve out a state in another state, which state would comprise three préfectures, it would have been a mistake, because you yourself remember that at some point in time the government moved to Gitarama.  Also, it all depends on the strategy.  Gitarama is not of the same importance, both economic and military, as Kibuye.  Gisenyi, Ruhengeri, and Gitarama are together, just as Kibuye.  But that is my opinion, but what they had in their minds is something I am unable to read. 
+Q.	Turning to the second time that you saw Mr. Nzirorera at the Gisenyi ops camp after April 1994; can you tell us on that occasion if he arrived with anyone else?  
+MR. ROBINSON: 
+And it's no longer necessary to display the map.  
+THE WITNESS: 
+Yes, sir.  
+BY MR. ROBINSON:
+Q.	And with whom did he arrive?  
+A.	He arrived with Mr. Félicien Kabuga, Mr. Jean Bosco Barayagwiza.  They came and met Colonel Nsengiyumva. 
+Q.	And can you tell us exactly what part of that -- those events you, yourself, personally observed?  
+A.	I saw their movement; I saw them arrive at the camp.  And after their meeting with Colonel Nsengiyumva, at the officers' mess, there was still talk of the military problem.  Officers were saying that they had discussed the military failures and setbacks on the front, and that that had been on the agenda of their meeting.  
+
+I also had a chat with Lieutenant Bizumuremyi, and he said that they had discussed the prevailing setbacks on the war front.  I did not pay particular attention to other matters, but just as the previous occasion, it was a matter of the RPF advance.  
+Q.	And did you, yourself, on this occasion, hear any of the conversation among Mr. Nzirorera and the people who were with him?  
+A.	No, sir. 
+Q.	And, in addition to Lieutenant Bizumuremyi, can you tell us the names of the other people who discussed the content of the meeting with -- at which Mr. Nzirorera had attended?  
+A.	In addition to Bizumuremyi, there was Lieutenant Rwasa, as well as Lieutenant Munyaburanga. 
+Q.	And did you see the participants, including Mr. Nzirorera, leave the camp that day?  
+A.	I saw them arrive and get into the camp, but I do not know when they left. 
+Q.	Now, I want to turn your attention to another event that was the subject of your direct testimony, after 6 April 1994, and that involves Mr. Nzirorera's presence when weapons were distributed.  Did you, yourself, observe Mr. Nzirorera present at any location where weapons were distributed?  
+A.	Counsel, concerning post-6th of April, I was not a witness.  But the distribution took place in the presence of Lieutenant Bizumuremyi, and it took place at the Umuganda stadium in Gisenyi. 
+Q.	Now, did you receive any information that Mr. Nzirorera had been present at the distribution of weapons? 
+A.	Yes. 
+Q.	Okay, so I want to ask you some questions about that event.  First of all, from whom did you receive this information?  
+A.	I got the information from Lieutenant Bizumuremyi. 
+Q.	And was it on only one occasion that he told you Mr. Nzirorera had been present when weapons were distributed? 
+A.	He told me that on one occasion, but Mr. Nzirorera did not attend a weapons distribution move only once.  I think that, on one occasion, I heard that he was present at the stadium.  But, pre-6th of April, that is, before that period when weapons were distributed at the stadium, there had been another weapons distribution exercise at the battalion known as the 42nd battalion, which had as commanding officer Major Habimana.  And the headquarters of that battalion was located very near the lake.  
+
+Weapons were distributed; young recruits were trained and, at the end of their training, weapons were distributed.  Personally, I was there with Major Habimana, and Mr. Nzirorera was present.  
+Q.	Let's talk about that event, then, and tell us approximately what time period that took place in.  
+A.	Counsel, I can't remember the date.  I remember that event, but for now I'm unable to give you the date because, you see, it happened a long time ago. 
+Q.	Well, can you give us the time period in which those events took place?  How long before the 6th of April? 
+A.	I cannot say anything about that for now, Counsel, but it was shortly before that period. 
+Q.	And was it after the meeting at the Meridien hotel, and the distribution of weapons which took place the next day, which you have situated in December 1993? 
+A.	Yes, sir.  Approximately -- in the course of the year 1994. 
+Q.	Okay.  Now, on that occasion, can you tell us where exactly this distribution of weapons took place?  Was it at the headquarters of the 42nd battalion? 
+A.	Yes, sir. 
+Q.	And why were you present at the headquarters of the 42nd battalion at this time?  
+A.	Counsel, Major Habimana, just as Bizumuremyi, was someone with whom I was close, and often when I had some spare time, and when there was any event, he would invite me to come and attend. 
+Q.	Now, at this event, can you tell us what authorities were present, in addition to Mr. Nzirorera?  
+A.	Counsel, I was not curious enough to know all those who were present.  Those I saw on that day were Mr. Nzirorera; the sous-préfet of Gisenyi préfecture, that is, Mr. Bikumbi; the S2 of the gendarmerie, of the Gisenyi squadron, it (sic) was present.  There were others there on the podium, since it was an event, but I do not know their names.  I have given you the names I remember.  
+Q.	And what was the name of the S2 of the gendarmerie that you referred to?  
+A.	I cannot recollect his name. 
+Q.	Was Colonel Nsengiyumva present? 
+A.	Colonel Nsengiyumva was not present that day.  He was on a trip within the préfecture. 
+Q.	And who was the commander of the 42nd battalion at that time? 
+A.	The commanding officer of the 42nd battalion was Major Habimana. 
+Q.	And was he present? 
+A.	Yes, sir. 
+Q.	Now, were any other military officers present that you can -- whose names you can recall?  
+A.	Not for now, Counsel.  I remember only the names I've given you. 
+Q.	Were there any leaders of the Interahamwe present? 
+A.	Counsel, I did not pay attention to that.  There were guests there.  I was not able to know whether or not they were there.  Also, I did not stay there up until the end of the ceremony.  People came and left, and certainly there were some people who had arrived there before me, and others who arrived after me.  But those I remember are the names I have given you.  
+Q.	And were there any MRND leaders from the préfecture in attendance, such as the president, Banziwellars, vice-president, Mathias Nyigasaza, or any other MRND personalities?  
+MR. ROBINSON: 
+And the spelling of Banziwellars is B-A-N-Z-I-W-E-L-L-A-R-S; Mathias, M-A-T-H-I-A-S; Nyagasaza, N-Y-A-G-A-S-A (sic). 
+BY MR. ROBINSON:
+Q.	Were any of those people present?  
+A.	Counsel, I did not pay attention to know whether or not those people were present.  
+Q.	Now, who were those who were receiving the weapons on that occasion?  
+A.	Counsel, concerning the headquarters of the 42nd battalion, it was the new recruits who had been trained on the spot in Gisenyi who were the ones receiving weapons after their on-the-spot training. 
+Q.	So this was a distribution of weapons, or handing out of weapons, to persons who were becoming soldiers in the army; is that correct? 
+A.	Correct, sir. 
+Q.	And it's your testimony that you personally witnessed this distribution of weapons; correct? 
+A.	Correct, Counsel. 
+Q.	Now, I'm going to call your attention to some testimony that you gave in the Bagosora trial, in open session, on the 3rd of December 2002.  And I'm going to read from page 73.  
+
+You were asked by an attorney for Colonel Nsengiyumva:  Question:  "So, Witness, how many incidents of weapons distribution did you witness?"  
+
+And your answer:  "Well, with respect to distribution -- or, rather, with respect to weapons distribution, if my memory serves me right, I saw weapons distribution at Gisenyi camp.  The weapons were distributed to a group of militia, Impuzamugambi, and Interahamwe.  The second distribution was a distribution to the leaders of the militia.  I believe that those are the two weapons distributions that I can still remember."  
+
+And I ask you, Witness ZF, why it is that in 2002 you were unable to recall any further weapons distributions, but here in 2006, you are telling us that you witnessed yet another distribution of weapons at the 42nd battalion?  
+A.	Counsel, as to the question why I was unable to remember, I do really not know how to answer you.  It all depends on the memory.  If the memory is in the mood to be jogged, fine.  Otherwise, you cannot force the memory.  But, concerning the specific question which was put to me in a specific instance by a specific person, I restricted myself to the line of questioning which I was fielding.  I was not there to give a history or to say all what I know in my life.  I was simply answering the questions, just as you would ask me to answer with a yes or a no.  So, it is somewhat difficult to explain the answer I had given at a preceding trial.  
+MR. ROBINSON: 
+Mr. President, at this time I would like to offer page 73 of the Bagosora transcript of December 3rd, 2002, as Exhibit D. NZ110, so that the Trial Chamber can evaluate the inconsistency.  I will have to print that out the break, and I will provide the hard copy afterwards.  But at this time I offer Exhibit D. NZ110. 
+MR. PRESIDENT: 
+Admitted.  
+(Exhibit No. D. NZ110 admitted)
+ 
+BY MR. ROBINSON:
+Q.	Now, Witness ZF, turning to the occasion after the 6th of April 1994, when you say that you were aware that Mr. Nzirorera had participated in a distribution of weapons at the Umuganda stadium in Gisenyi, can you tell us approximately when after the 6th of April that took place?  
+A.	Counsel, I am talking about after the 6th of April.  I cannot be more specific than that as to the time. 
+Q.	Well, there was a time when the interim government arrived in Gisenyi, which was in the middle of June of 1994.  Are you able to tell us whether or not this distribution at the stadium took place before or after that?  
+A.	Counsel, it was much before. 
+Q.	Now, you learned about this from Lieutenant Bizumuremyi; is that correct? 
+A.	You talk about "this", quote and unquote.  I really don't quite understand what you are referring to, Counsel.  
+Q.	You learned about Mr. Nzirorera's presence at the distribution of weapons at Umuganda stadium after the 6th of April 1994 from Lieutenant Bizumuremyi; is that correct? 
+A.	That's right, Counsel. 
+Q.	And you can tell the Trial Chamber exactly, to the best of your recollection, what it was that Lieutenant Bizumuremyi told you about those -- about that occasion in which weapons were distributed at the Umuganda stadium? 
+A.	Counsel, according to Lieutenant Bizumuremyi, the Interahamwe and Impuzamugambi of Gisenyi had gathered at the Umuganda stadium in Gisenyi.  And at the stadium, Lieutenant Bizumuremyi himself, and other soldiers, were present.  They had gone there under request of soldiers in Kigali.  I do not know whether it was staff headquarters or another organ.  The militiamen were there -- were issued with weapons.  Then they were ferried in ONATRACOM buses, which were Japanese made, in the direction of Kigali to provide reinforcement to the soldiers. 
+Q.	So, this distribution of weapons took place right before the militia from Gisenyi were sent to reinforce the people who were fighting in Kigali; is that correct? 
+A.	Please come again.  
+Q.	The distribution of weapons at the stadium took place right before the militia were sent to Kigali to reinforce the forces there; correct? 
+A.	Counsel, I was referring to militias who, at that time, were guarded at Umuganda stadium.  So, those are the militias who, after receiving weapons, were taken to Kigali to provide reinforcements to the combatants.  I think that is my answer, Counsel. 
+Q.	I'm trying to place this event in time, and is it true that this event took place on the day before or the day of the time when the militia from Gisenyi were transported to reinforce those who were defending Kigali?  
+A.	Regarding this particular question, I don't know very well, Counsel, because reinforcements were made from time to time, but this was a more striking and more significant event.  People had been guarded at the stadium.  Now, the other events you are referring to, Counsel, I cannot remember. 
+Q.	Now, as far as what you heard from Lieutenant Bizumuremyi, in addition to Mr. Nzirorera, what other authorities attended this distribution of weapons at the stadium?  
+A.	According to Lieutenant Bizumuremyi, I know that Mr. Nzirorera was present.  He did not mention any other names to me, perhaps because while mentioning Mr. Nzirorera's name, he may have been talking about him, because they worked together.  You see, they were very often in contact with one another.  He did not talk to me about the others who were present.  I did not ask him any question about that.  
+Q.	Do you know, for example, whether Colonel Nsengiyumva was present? 
+A.	I don't know, Counsel. 
+Q.	And is it near -- are you telling us that Lieutenant Bizumuremyi had told you that he was in frequent contact with Mr. Nzirorera? 
+A.	Yes, Counsel. 
+Q.	And where would that contact take place? 
+A.	Well, Counsel, we have to draw a distinction, make a nuance here.  Contact cannot necessarily be in a specific place, it can be by telephone.  There are many ways of establishing contact, making contact.  What I can tell you is that Bizumuremyi, as coordinator of the Impuzamugambi and the Interahamwe -- more specifically the Interahamwe, which was the MRND youth wing under the control of Mr. Nzirorera, according to Bizumuremyi, because he had told me himself that the MRND had delegated Mr. Nzirorera to (unintelligible) the Interahamwe of Gisenyi and Ruhengeri.  So that was the contact.  If contact is making a date at the specific rendezvous point, or by telephone or what I don't know, but what he told me was the Interahamwe, under the MRND in both Ruhengeri and Gisenyi, was Mr. Joseph Nzirorera.  That is my answer, I think, Counsel.  
+Q.	Now, Witness ZF, I'm going to go over with you what you were -- what you said to the Office of the Prosecutor when you were interviewed about the distribution of weapons in 2004, in a statement that you signed.  And I'm referring particularly to page 7 of that statement.  
+
+First of all, in the paragraph that is the fifth paragraph from the bottom, you told them that after 6 April 1994, weapons were brought in from abroad and distributed to the youths recruited to strengthen the 42nd battalion, which was in charge of the defence of Rwerere and Mutura commune.  And that's R-W-E-R-E-R-E and M-U-T-U-R-A.  And that the distribution was carried out in the presence of Mr. Nzirorera.  
+
+Now, your testimony today has been that that distribution of weapons took place before the 6th of April 1994.  So, having been told what you said before, and recalling what you have said today, can you tell us why there is that difference?  
+A.	Well, Counsel, unfortunately I don't have that statement here with me, but in the 1998 statement in which I spoke of the distribution of weapons, of arms, in respect of Gisenyi, it depends on what question was put to me.  Because I told you Nzirorera came to Gisenyi more than once.  What I remember, the recruitment for Mutura and Rwerere of the 42nd battalion was not the same as the recruitment for Gisenyi town itself, which was done on the spot.  So, it all depends on what question was put to me.  If the question was as to which meeting, and it's -- that's what I answered in respect of at that meeting.  But there wasn't one single recruitment.  There was -- consistently recruitment drives were held throughout that period.  
+
+What I remember is the main event.  So, in 1998, if they asked me about Mutura and Rwerere, I can tell you in what context I was speaking, and recalling the situation, was it after the 6th of April or before the 6th of April?  I told you I couldn't remember exactly the period at which it was, but I do remember the succession of events, and I spoke of the distribution of weapons at the headquarters of the 42nd battalion, and at Umuganda stadium, which is different from recruitment in respect of Mutura and Rwerere.  Maybe you are referring to other events.  
+
+I do not recall, and nor do I recall even the context in which the question was put to me.  If the -- my interviewers at the time, was it in the trial of Bagosora and his colleagues here?  I concentrated on trying to bring back to mind the -- exactly what happened.  So, I don't know whether this is a contradiction or a confusion, or -- which could have come into my thinking, because you're mixing things up to such an extent and I don't know where you're going anymore.  
+MR. WEBSTER: 
+Your Honour, maybe it would assist the witness if he could look at the passage that Mr. Robinson referred to.  I have a clean copy of his statement, and I can provide it to the registry if that will assist.  I'm also concerned that the second sentence in the -- in that portion of the statement -- I noticed a problem with the translation, so maybe it would be helpful for the witness to read that statement, and it could be translated in -- in the record.  There's a discrepancy between the English text and the original French.  
+MR. ROBINSON: 
+Thank you, Mr. Webster.  
+
+So, if you could give the witness the French copy of the statement, then he can -- I'll have him read those two paragraphs.  
+MR. WEBSTER: 
+And maybe Mr. Issa could actually show you the statement first, because what I've done is numbered the paragraphs so that we could find our place between the French and the English, and you can look at that.  
+
+But you can direct the witness to the portion of the text that begins at paragraph 136.  
+So, if you show that to Mr. Robinson first, and then give it to the witness.  
+MR. ROBINSON: 
+Thank you.  
+MR. WEBSTER: 
+And if you don't mind, the second sentence in the paragraph that I've numbered 136, it states, in English, that:  "The distribution of weapons was carried out in the presence of Nzirorera, who was the commander of the battalion," and that's not how to reads in French.  So if we could have the witness at least read that sentence, so that it can be, you know, accurately translated before Mr. Robinson takes up.  
+MR. ROBINSON: 
+Exactly, okay.  
+BY MR. ROBINSON:
+Q.	So, Witness ZF, what I would like you to do, now that your statement from 2004, in French, is before you, is to read paragraph 136 out loud, so it can be translated into English.  
+A.	"After the 6th of April 1994, arms were brought in from abroad and distributed -- issued to young recruits to strengthen -- reinforce the 42nd battalion entrusted with the defence of Rwerere and Mutura communes.  The distribution of arms took place in the presence of Nzirorera at the headquarters of the battalion -- at the headquarters of that battalion near Lake Kivu, between the préfecture and Regina hotel, at a date which I no longer recall.  It was Major Habimana -- Lieutenants (sic) Habimana, Bizumuremyi, and the conversation and comments in the mess that provided me with that information.  But I, myself, saw the young people undergoing training."  
+Q.	Thank you very much, Witness ZF.  And so in both the French and the English versions, it's true, is it not, that you stated that this distribution of weapons in which Mr. Nzirorera participated, at the headquarters of the 42nd battalion, took place after 6 April 1994.  Correct? 
+A.	Yes, Counsel. 
+Q.	And it's also true, is it not, that nowhere in your statement of 1998, or 2004, did you make any reference to any distribution of weapons at Umuganda statement in which Mr. Nzirorera was a participant? 
+A.	I do not recall.  I don't think the question was ever put to me.  
+MR. ROBINSON: 
+Mr. President, at this time I would like to offer as Exhibit D. NZ111 the witness statement of the 2004.  I would ask that the French be D. NZ111A and the English be D. NZ111B, so the Trial Chamber can evaluate any inconsistency between these documents and his testimony. 
+MR. PRESIDENT: 
+Admitted. 
+(Exhibit No. D. NZ111A and D. NZ111B admitted)
+MR. ROBINSON: 
+Mr. President, at this time I have two areas to go into in closed session, and that will conclude my cross-examination.  
+MR. PRESIDENT: 
+How long do you anticipate that?  We have about ten minutes before our break.  
+MR. ROBINSON: 
+I might be able to do that in the ten minutes, but I'm not positive of that.  
+MR. PRESIDENT: 
+Okay.  We go into closed session now.  
+(At this point in the proceedings, a portion of the transcript [pages 17 to 33] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 1 to 16 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. ROBINSON:
+Mr. President, my first request which I will just -- there is basically three categories of exhibits which I'm asking you to admit.  The first is the typewritten version of Exhibit 99 which was the handwritten message. 
+MR. PRESIDENT:
+Okay.  We have taken a legal position on that.  We have decided to admit the typewritten copies of all of the intercepted messages, mostly because -- for the very reason that we were declaring to do it initially, that the evidence is on the record.  And there doesn't seem to be any point in admitting a typewritten version of it to be entered. 
+MR. ROBINSON: 
+Okay.  Thank you very much, Mr. President.  So I would -- have copies to distribute to the registry and for the Trial Chamber.  But I would ask then that the typewritten version of Exhibit 99, which was the handwritten message, be admitted at 99B, and that 99B now become -- handwritten message now become 99A.  The handwritten message to remain under seal and the typewritten message to be a public exhibit. 
+(Exhibit No. 99B admitted)
+MR. ROBINSON:
+Next, the intercepted message -- the second intercepted message, the text of that, I would offer as exhibit D. NZ1 --
+JUDGE KAM:
+Sorry, could you repeat that at a bit more moderate rate.  Excuse me.  
+MR. ROBINSON:
+Yes.  I'm sorry about that.  I totally forgot where I was.  Having exhibits admitted is something I'm more accustomed to in my own jurisdiction.  
+
+So the typewritten version of the handwritten message is offered as exhibit 99B.  
+
+The typewritten version of the second intercepted message on the 7th of April is being offered as exhibit D. NZ113.
+JUDGE KAM:
+(No interpretation)
+MR. ROBINSON:
+Still too fast?  
+MR. PRESIDENT:
+Yes.  
+MR. ROBINSON:
+So the typewritten version of the second intercepted message on the 7th of April 1994 is offered as exhibit D. NZ113.
+(Exhibit No. D. NZ113A and D. NZ113B admitted) 
+MR. ROBINSON:
+The third message intercepted on the 7th of April is being offered as exhibit D. NZ114. 
+(Exhibit No. D. NZ114A and D. NZ114B admitted) 
+MR. ROBINSON:
+The fourth message intercepted on the 7th of April is being offered as exhibit D. NZ115. 
+(Exhibit No. D. NZ115A and D. NZ115B admitted) 
+MR. ROBINSON:
+And the fifth message intercepted on the 7th of April is being offered as exhibit D. NZ116. 
+(Exhibit No. D. NZ116A and D. NZ116B admitted) 
+MR. ROBINSON:
+That's all.  
+MR. PRESIDENT:
+Admitted.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+MR. WEBSTER:
+And I'm sure the Court will note that the Prosecution is still -- objects to the admission of all these exhibits for the reasons that I have stated previously.  But for the convenience of the record, maybe Mr. Robinson could also typewrite the French text so that we have both English and French available to the Trial Chamber.  
+MR. ROBINSON:
+Yes, I can do that.  
+MR. PRESIDENT:
+But should we give them the numbers now.  What should we --
+MR. ROBINSON:
+Yes.  I think if we can make all of the English A, that would be 113 through 116A.  And the French can be 113 through 116B.
+MR. PRESIDENT:
+Admitted.  
+
+Now, Mr. Witness, you have to be examined by other lawyers before your testimony is finished.  And the -- you will now be examined by Ms. Hounkpatin who represents Mathieu Ngirumpatse in this trial.  And you have to answer her questions now.  
+MR. HOUNKPATIN:
+Thank you, Mr. President.  But I see that it is 12:18.  
+THE ENGLISH INTERPRETER:
+Counsel says --
+MS. HOUNKPATIN:
+I realise that leaves us 22 minutes -- 
+THE ENGLISH INTERPRETER:
+I think she means 12 minutes. 
+MR. PRESIDENT:
+Only 12; we stop at 12:30 today.  
+MS. HOUNKPATIN:
+Yes, 12 minutes.  You see, I'm very poor with my arithmetic -- mental arithmetic I am pretty poor at.  So 12 minutes.  I think that for the witness the change of interlocutor -- we should grant him the 12 minutes before I start speaking -- start putting my questions.  And it wouldn't distort our work schedule excessively.  
+MR. WEBSTER:
+I would support Ms. Hounkpatin's application.  
+MR. PRESIDENT:
+Ms. Hounkpatin, Mr. Webster has never supported anything Mr. Robinson has said, and he's supported your first request.  We take note of that.  
+MS. HOUNKPATIN:
+Me too, Mr. President.  I am delighted.  
+MR. PRESIDENT:
+Anyway, we're going to take the adjournment now and we'll resume at two o'clock. 
+(Court recessed from 1221H to 1407H) 
+MR. PRESIDENT:
+Yes.  
+
+Good afternoon.  We can resume now. 
+MS. HOUNKPATIN:
+Thank you, Mr. President.  I have a little request for the witness. 
+CROSS-EXAMINATION
+BY MS. HOUNKPATIN:  
+Q.	Good afternoon, Witness ZF.  Could you move forward so that I should be able to see you.
+A.	Good afternoon, Counsel. 
+Q.	I am counsel for Mr. Mathieu Ngirumpatse.  We are going to spend some time with me putting some questions to you so that you can clarify certain situations for us.  I can see that both of us are speaking French.  It will, therefore, be necessary for you to answer slowly so that the interpreters should be able to interpret for the Judges and the other parties in this Court who are not French speaking.  I will also try to observe the appropriate pause so that whatever we say should be well understood.  
+MS. HOUNKPATIN:
+Mr. President, I believe that the first series of questions that I'm going to put to the witness will require us to go into closed session because these questions will touch on his identity and there is a risk that his answers could reveal his identity.  
+MR. PRESIDENT:
+Yes.  We will go into closed session now. 
+(At this point in the proceedings, a portion of the transcript [pages 38 to 57] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 34 to 37 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT:
+(Microphone not activated) 
+THE ENGLISH INTERPRETER:
+Microphone of the President. 
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Witness, I just draw it to your attention that we are now in open session.  And this is the stage of your testimony where we take care that you don't make statements which could reveal your identity.  Do you understand?  
+THE WITNESS:
+Yes, Mr. President. 
+MR. PRESIDENT:
+Thank you. 
+MS. HOUNKPATIN:
+Much obliged, Mr. President. 
+BY MS. HOUNKPATIN:
+Q.	Witness, in 1990, what was the political regime in Rwanda? 
+A.	Counsel, I believe that in 1990 it was a one-party state system.  I do not know how you refer to that in political language, but this was a one-party system and it was a presidential system. 
+Q.	Usually it is said that this is a single-party system.  Now, can you tell us the name of the party that was in power? 
+A.	Counsel, I believe that party was the MRND. 
+Q.	As a Rwandan citizen, what were the consequences of this single-party system on you? 
+A.	Counsel, I do not understand what you mean by "consequences" on me, personally. 
+Q.	Were you a member of the MRND? 
+A.	Counsel, I am not in a position to say either yes or no because this was a single-party system.  Personally, I was not a member, I did not have an MRND membership card.  But it was said that everybody, whether they wanted it or not, was a member of this party.  That is what was being said.  But, personally, I had not requested membership in the party. 
+Q.	Are you telling us that you were in opposition to the single party, the MRND? 
+A.	No, Counsel.  
+Q.	Your answer might lead us to think that you were in the opposition.  It is simpler to say that as a Rwandan citizen at that time everyone was a militant(sic) of the MRND whether they liked it or not? 
+A.	I do not think so, Counsel, because if you say that it was all Rwandans that is not an official status, because if there is no official status, no official instrument indicating that, I cannot say anything.  It was said that everybody was automatically a member, but there were some people who had voluntarily applied for membership.  But there were others, also, who were not members but who, nevertheless, were not in the opposition.  It does not mean that anyone who was not a member of the party should automatically be considered to have been in the opposition. 
+Q.	In your evidence-in-chief, you told us that you were an intellectual, and that you kept abreast of the political development in the country; that is why I put that question to you.  It was a single-party system in 1990.  Now, can you tell us when the multiparty system was instituted? 
+A.	Counsel, I cannot tell you date, but, officially, I think this happened in 1991. 
+Q.	Did you follow up the discussions that took place right up to the institution of the multiparty system, that is as a Rwandan citizen, what prompted that transformation? 
+A.	No, Counsel. 
+Q.	You did not read the newspapers and you did not listen to the radio? 
+A.	I read the print media, and I listened to the radio, but I no longer remember the discussions that you are referring to, Counsel. 
+Q.	You read the press, the newspapers and you listened to the radio.  Can you tell us which were the political parties that were involved in that debate? 
+A.	Counsel, I do not know what debate you are referring to, so I am not in a position to tell you which parties were involved. 
+Q.	You do not know when the multiparty system was instituted? 
+A.	Counsel, I have already told you that I remember that it was in 1991. 
+Q.	Early, mid or late 1991? 
+A.	It was in the second half of 1991. 
+Q.	So, while listening to the radio and reading the print media, did you read reports regarding the -- the rival political parties? 
+A.	Yes. 
+Q.	Do you remember when the CDR party was set up? 
+A.	I do not remember the official date of its setting up, but regarding Gisenyi, I knew of the CDR for the first time in 1991. 
+Q.	What about the PL party? 
+A.	The PL was not much felt in Gisenyi. 
+Q.	So, is it your evidence today that you got to know of the CDR party in 1991? 
+A.	I do not know whether we should use the word "know." It was at a time that people started talking in general terms of the MRND, CDR party.  It was a group of discontented members of the MRND who decided to decamp and set up another group, which group was known as CDR.  I do not know whether at that time it was already in official existence, but it was from late 1991 that people started talking about the CDR in general terms.  
+
+But in the circles I moved around and that is in military circles, people had known for a long time that there were two factions in the MRND.  In early 1991, we did not make a distinction between the CDR and the MRND.  They were just two groups of the same party.  That is a group of moderates and another group of extremist in the same party.  That's how we understood it. 
+Q.	Witness, if up until 1991 it was still a single-party system, then as a matter of course everyone was in the same party?
+A.	No, Counsel.  I told you that several political parties were formed in 1991. 
+Q.	We are not going to dwell on this, but it means that before everyone was in the same party? 
+A.	Counsel, I'd rather we say at that time there was only one political party.  Now, saying that everyone was a member of that party, well, Counsel, I beg to disagree with you. 
+Q.	You stated in your written statement, as well as during your evidence in open court in December 2002 that the MDR party was set up in 1990, and that Ambassador Ubarijoro was its representative.  Do you stand by that assertion? 
+A.	I no longer remember that assertion.  I know that I talked about parties at that time.  I did not talk about the setting up.  There is a difference between the official setting up and the existence.  I said there was the existence of groups which were known, and that those groups had not been officially formed because I had not seen their constituent (sic) acts by letter, but there were such groups which had that tendency and would later be visible at the time of the setting up.  
+
+Concerning Ubarijoro, I never said that he was at the helm of that party, be it in 1990 or any other time up until 1994.  
+Q.	Very well, Witness, let us now look at something which is a fundamental concern to me, and this concerns the meetings during which you met Mr. Mathieu Ngirumpatse.  While giving your evidence-in-chief you make a distinction between two periods, that is the 1992-1993 period, and the post seat of April 1994 period.  Do we agree on that? 
+A.	Yes, ma'am, we do. 
+Q.	Firstly, do you know Mr. Mathieu Ngirumpatse, and if so, how did you get to know him? 
+A.	Counsel, before his trips to Gisenyi I had never known him.  I saw him when he made those trips.  
+Q.	I would rather talk about seeing him.  You had never heard of Mr. Mathieu Ngirumpatse within the political and administrative landscape within Rwanda? 
+A.	Ma'am, I heard of him as an MRND official. 
+Q.	Before delving into his duty as an MRND official, could you tell me which administrative positions he held? 
+A.	Counsel, I don't know. 
+Q.	So, Mr. Ngirumpatse was not a public figure up until the time you heard of him when you had to deal with those meetings? 
+A.	Personally, I heard of him within the framework of the MRND party. 
+Q.	Now, please tell me what you heard about him within the framework of the MRND?  What was his position? 
+A.	He was one of the national leaders of the MRND. 
+Q.	You do not know the specific position he held? 
+A.	From what I knew, at some point in time he had been the chairman of the MRND party. 
+Q.	On what date, Witness? 
+A.	Counsel, I don't know. 
+THE ENGLISH INTERPRETER:
+Microphone. 
+BY MS. HOUNKPATIN:
+Q.	Perhaps, when talking about the meetings in which you saw him, you would be able to give us specifics as to the position he held.  Now, in your written statement and during your evidence-in-chief, you said that you saw him during a meeting which took place in 1992; is that correct? 
+A.	Counsel, I do not remember that statement unless you were to show it to me, but here and now I don't remember. 
+Q.	You told us that Mr. Mathieu Ngirumpatse attended two meetings at the MRND party hall in Gisenyi in 1992? 
+A.	Counsel, I prefer that we talk about the pre-seat of April period and the post seat of April period.  If there are other dates which you need clarification about and you have documents concerning those dates, then kindly show them to me, so that we will be able to know the background. 
+Q.	But, Witness, 1992 is prior to the seat of April 1994? 
+A.	Well, Counsel, my preference would be for us to talk about periods. 
+MS. HOUNKPATIN:
+If the registrar assistant, Mr. Issa, can be of assistance to us so as to give to the witness, once again, the statement which he signed on the 24th of June 1998, which is DNZ. 107. 
+MR. WEBSTER: 
+If Madam Hounkpatin wants to refer me to the passage she is going to direct the witness to in French, I can find it in the English statement. 
+MS. HOUNKPATIN:
+In the French version, it is page -- well, I'm not going to lose time on that.  Well, it will come back to mind because I know I had seen it.  But in the transcript of 16th of May on page 33, the witness clearly stated that he saw Mr. Ngirumpatse at two meetings which held at the MRND party hall, and that he himself had to attend that meeting, but he did not go there. 
+BY MS. HOUNKPATIN:
+Q.	I am sorry, I am mistaken as to the transcript.  It is rather line 33, page 26 of the transcript of the      16th of May.  So, Witness, on that day, and it was not so long ago you said as follows: "I think I saw him on two occasions at the MRND party hall in the period from 1992 to 1993."
+That is your evidence.  
+A.	Yes, Counsel, it is clear that I was referring to periods.  I think it is what you are revisiting now. 
+Q.	Witness, I wanted to put questions to you, firstly, regarding the first meeting which took place in 1992.  And then, secondly, the second meeting which took place in 1993.  Those are years which would enable us to have a point of reference, that is why you talked about 1992 and 1993 yourself.  So the meeting took place at the MRND party hall.  Do you stand by that assertion?
+A.	Yes, Counsel, I do. 
+Q.	Where in Gisenyi is the MRND party hall located? 
+A.	The MRND party hall is located close to Lake Kivu, near by the Palm Beach Hotel.  And if you continue along the road leading to la Corniche, there is the préfecture office in Gisenyi a few metres from there, but you pass through the Banque du Kigali and some civilian buildings.  There is a row of buildings after that house, and then you get to the préfecture office.  But if you are coming from the junction, the road from Kigali, Ruhengeri and you get into town, you will go through the road of the custom service in       la Corniche, you go after Hôtel Meridien.  And immediately after the Meridien there is another hotel called Palm Beach.  And it is opposite the Palm Beach that we have the MRND party hall. 
+Q.	Was the building in question a government building or did it belong to the MRND. 
+A.	Counsel, as you can see from the name, it was an MRND building. 
+Q.	So, let me come back to the year, that is 1992, an era of multiparty politics.  Do you confirm that, indeed, the MRND party hall was a private property of the MRND?
+A.	Concerning this question, Counsel, there is nothing I can tell you.  I can neither confirm nor deny that.  But what I know is that if there was a point in time when the MRND party hall became a state property, or belonged to all political parties, if you so wish, then I would say amongst those parties was a MRND also.  I do not think that you could say that the PL could go and organise its meetings and rallies at that party hall and the MRND would be deprived from doing so.  So, the fact that meetings are organised there has nothing to do with whether that building belongs to the MRND or to the multiparty Rwandan state. 
+Q.	The question is important, because with the institution of multiparty politics, the MRND actually returned to state ownership, or in any case, had some property like this one taken back by the state.  It was never a private property of the MRND.  Since it was no longer a single-party system, there was nothing which could prevent another political party from organising a political meeting at that party hall? 
+A.	Counsel, I never said anything different from what you are saying now.  I never said that all of the political parties were prevented from organising meetings there, you see, it was not just one apartment.  There were many apartments within that premises, offices, but also a meeting room which could be used by those who were not even members of any political party, insofar as they sought the authorisation.  So I don't see why the MRND party could not organise its meetings there.  
+
+Concerning the other parties, I know nothing about whether or not they met at that party hall, but as far as I know they were not excluded from doing so.  I did not talk about the exclusion of political parties of the opposition or others. 
+Q.	Well, do you confirm that you had to attend that 1992 meeting in your capacity as ***********? 
+A.	Yes, ma'am. 
+Q.	How were you informed about the holding of the meeting and about the fact that you had to attend it in your capacity as **************? 
+A.	Counsel, as to the how, I do not know.  But my explanation is that I did not attend that meeting because though I was ************, I had more important duties to attend to.  That is why I did not attend that meeting.  And after that meeting, I got the information from Lieutenant Bizumuremyi. 
+MS. HOUNKPATIN:
+Mr. President, this line of questioning is going to take me some time.  And I can see that we are          28 minutes after 5 p.m.  Shall I carry on, or could we end for now?  
+MR. PRESIDENT:
+I think it is reasonable to end now.  We will take the adjournment now.
+
+Mr. Witness, this has come to the end of our workday, and we will take the adjournment now.  We are not going to be available to hear your testimony tomorrow.  And your evidence will continue on Thursday morning at the same time.  I remind you of your obligation not to discuss your testimony or the case with anybody during this adjournment.
+
+I think that perhaps we should start, be here available at 9 o'clock tomorrow morning just to ensure that we can deal with anything that arises before the commencement at 9:30.  So we will adjourn until         9 o'clock tomorrow morning.  Yes.  
+MR. WEBSTER: 
+I was wondering, just in terms of keeping our calendar in mind, if the Court could enquire from     Madam Hounkpatin how much longer she has, and from Mr. Sow, so I should know whether the redirect should take place on Thursday or if we should expect the redirect the following week. 
+MR. PRESIDENT:
+Yes.  Any information, Madam Hounkpatin, about what percentage do you think you have covered of your cross-examination?  
+MS. HOUNKPATIN:
+I think 75 percent or thereabouts of my cross-examination has been covered already.  And I should be done by Thursday morning.  And I'm still within the timeframe which I advised the Trial Chamber about. 
+MR. PRESIDENT:
+Thank you very much, Ms. Hounkpatin.  
+
+Mr. Sow, should I tell Mr. Webster that he should prepare to re-examine on Thursday. 
+
+MR. SOW: 
+I think it would be better to do that, Mr. President, so that he is not taken unawares. 
+MR. PRESIDENT:
+Thank you.  
+
+Well, Mr. Webster you have heard. 
+MR. WEBSTER: 
+Sorry. 
+MR. PRESIDENT:
+You have heard that you ought to be ready to do your redirect on Thursday.
+
+Okay.  We will take the adjournment now.  
+(Court adjourned at 1734H)
+(Pages 58 to 64 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Kirstin McLean, Roxane Meena, Karen Holm and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	Roxane Meena
+
+
+___________________________	Karen Holm
+
+
+___________________________	Donna M. Lewis
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL 	 TUESDAY, 23 MAY 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	TUESDAY, 23 MAY 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 1
+
+	KAREMERA ET AL	TUESDAY, 23 MAY 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 34
+
+	KAREMERA ET AL	TUESDAY, 23 MAY 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 58
+
+	KAREMERA ET AL		TUESDAY, 23 MAY 2006
+
+ICTR - TRIAL CHAMBER III
+

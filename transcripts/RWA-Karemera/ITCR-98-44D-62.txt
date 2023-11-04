@@ -1,0 +1,895 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	ANDRÉ RWAMAKUBA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+  MONDAY, 26 SEPTEMBER 2005
+ 1128H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frederic Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Wendy Molnar 
+	Ms. Donna Lewis
+	Ms. Gifty C. Harding
+
+
+
+
+
+
+
+
+
+
+
+I N D E X
+
+WITNESS
+
+For the Prosecution:
+AHMED NAPOLEON MBONYUNKIZA
+Cross-examination by Ms. Hounkpatin	5
+
+EXHIBITS
+Exhibit No. D. NG1	15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, would you open the proceedings, please?  
+MR. FRY:
+Yes, Your Honour.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, presiding, Judge Short, and Judge Kam, is now sitting in open session, today, Monday, the 26th of September 2005, for the continuation of the trial in the matter of the Prosecutor versus Karemera, et al, Case No. ICTR-98-44-T.  
+
+Thank you, Your Honour.  
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  But, Mr. Registrar, I noticed that as you were opening the court, your back was to the Bench.  If you had looked at us, you'd have noticed that Judge Kam is not with us today.  He had medical matters to attend to and -- which will apparently take a few days, and we have decided to sit under 15 bis during the course of this week, to facilitate that exercise.  So I would just like to give notice to the parties to the trial that the remaining Bench of Judge Short and myself have decided to respond to this particular situation by invoking the powers under 15 bis and sitting during the course of this week in this manner.  Thank you.  
+MR. ROBINSON:
+Excuse me, Mr. President.  May I be heard on that issue?  
+MR. PRESIDENT:
+Yes.  I'm not certain exactly what issue you're going to raise, but I probably should have mentioned that arrangements have been -- are in place for the videotaping of the testimony so that Judge Short will have an opportunity to review these -- sorry, Judge Kam will have an opportunity to review these videotapes on his return.  I should have mentioned that during my initial statement.  
+MR. ROBINSON:
+Thank you, Mr. President.  And I understood that everything is -- all testimony of the witnesses are being videotaped, at least as long as we're in this courtroom.  So I do understand that.  Nevertheless, I'm -- we would like to lodge an objection to proceeding under Rule 15 bis.  I understand that you have already deliberated on this and determined that it's in the interest of justice to sit with two Judges instead of three, but since we didn't have any opportunity to address the Trial Chamber before that decision was made, I would like to address you now and ask you to reconsider that decision, particularly because Judge Kam has now sat and heard the live testimony of the witness during his direct -- his entire direct examination, which lasted four days, and we are about to commence cross-examination of this witness, and now we have the situation where one of the members who will be determining this witness's credibility will only have the ability to observe on videotape the cross-examination, as opposed to the live testimony of the witness.  And we think that we're prejudiced by that.  
+
+We would ask that the Court either not sit in the absence of Judge Kam, pursuant to Rule 15 bis, or in the alternative, to direct the Prosecutor to call its next witness for direct examination, and possible cross-examination, during the time that Judge Kam is absent so that the absence is mitigated by -- at least Judge Kam, if he's not going to hear the next witness, will at least not hear both sides, whereas the situation that exists now is that he's heard one side live, and he'll watch the other one on television, and we don't think that that's fair.  Thank you.  
+MR. PRESIDENT:
+Yes, Ms. Diagne?
+MS. DIAGNE-MBAYE:
+Good morning, Mr. President.  Good morning, Your Honour.  I am speaking on behalf of Édouard Karemera, and I wish to embrace the arguments put forth by my excellent colleague, Mr. Robinson.  I also think that there's an inequality of arms that would arise if you allow this witness to be cross-examined in the absence of Judge Kam, who I hope recovers swiftly.  The witness's testimony occurred in the presence of Judge Kam, and we, on the Defence side -- and if I'm not mistaken, this problem has already arisen in the previous trial.  We believe, on the Defence side, that it would not be fair for the cross-examination to be conducted in that Judge's absence.  He would only have a video cassette to assess the credibility of the witness.  We know for a fact that the best way to assess credibility is live and not on video cassette.  So I embrace those arguments put forth by my learned colleague, Mr. Robinson, and say that this witness should not be cross-examined in the absence of Judge Kam, and I would suggest that the Prosecutor, in the absence of Judge Kam, call his next witness and conduct the examination-in-chief of that witness.  Thank you.  
+MR. PRESIDENT:
+Thank you, Ms. Diagne. 
+MR. WEYL:
+Mr. President, pardon me.  You probably can't see me from where I'm at, Mr. President.
+MR. PRESIDENT:
+Yes, I was twisting around, and I now have you under observation, Mr. Weyl.  
+MR. WEYL:
+Thank you, Mr. President, and good morning to you.  I would like to repeat those comments by Counsel Diagne to wish Judge Kam a swift recovery.  On behalf of Ngirumpatse, I simply wish also to embrace the arguments put forth by my colleagues, simply by adding that the role of the Judge is not a passive one.  We have seen this during the examination-in-chief.  The Judge plays an interactive role.  A video cassette will not enable Judge Kam to intervene, if he wishes to do so, during the cross-examination, as the Judges have been able to during the examination-in-chief.  So for equality of arms, the examination-in-chief should be conducted just as the cross-examination, in the same conditions, and so as such, we believe that we should wait for the return of Judge Kam to conduct that cross-examination.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you, Mr. Weyl.  
+
+Yes, Mr. Webster?  
+MR. WEBSTER:
+Good morning, Your Honours, and good morning to the Defence and to the registry.  The Prosecutor's satisfied that the Court has appropriately exercised its discretion under Rule 15(B).  Of course it would be preferable if all three Judges were here to hear the witnesses (sic) of any witness who testifies in this case, but this is a case that's going to go on for at least two years.  That's a -- an estimate that I think both the Defence and the Prosecutor share.  And Rule 15(B) is there to provide for situations as this one, where a Judge cannot be present, and the Prosecutor has no objection to proceeding in this manner, and it would be an unacceptable alternative to hear the next witness.  So I'll simply rely on the Court's discretion.  
+MR. PRESIDENT:
+As a matter of interest, do the Defence counsel have an estimate of the duration of the cross-examination of this witness?  
+MR. ROBINSON:
+Mr. President, I think we estimate that cross-examination will take the entire week, possibly spilling into next week. 
+MR. PRESIDENT:
+And that is the combined cross-examination?  
+MR. ROBINSON:
+Yes.  
+MR. PRESIDENT:
+We have considered the matters that have just been raised.  I must say that we had, in fact, discussed this already, and we are very sensitive to the issue raised by all counsel concerning the assessment of the credibility of this witness.  We are quite satisfied in our mind, though, that the use of the video technology does provide an adequate opportunity for the Judge to observe the demeanour of the witness during cross-examination.  And although I -- I think we're all satisfied that Judge Kam would have done this as a matter of course, I will make certain that I draw to his attention the particular concerns raised by Defence counsel so that he will be aware of the concerns that you've expressed and address them specifically as he reviews the video.  The entire regime of 15 bis, in my view, was designed for this type of eventuality.  After assessment of these very considerations -- and we are satisfied that the interest of justice and, in particular, the ability to assess the credibility of the witness, will not be impaired by Judge Kam's reviewing the witness's testimony on -- on video.  So I don't think that we are persuaded that it is -- well, I don't think -- we are not persuaded that it is necessary to make any special scheduling arrangements to take care of the justice of this case.  So I think that we should proceed with the testimony.  
+(Witness enters courtroom) 
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning, Mr. President.  
+MR. PRESIDENT:
+I notice that you've changed your dress.  Your headwear is a bit different to what it was last week.  
+THE WITNESS:
+Thank you.  
+MR. PRESIDENT:
+Now, you'll notice that there are two Judges here instead of three.  One of the members of the Court is absent on important matters, and the rules of the court permit the remaining Judges to decide whether to continue in his absence or not.  We have decided to continue.  Your testimony -- you're being videotaped during your testimony, and the Judge will have an opportunity to review these videotapes, so he will be able to observe your demeanour, and it will provide some assistance when he's considering the extent to which he can rely on the evidence that you've given.  So, Witness, your testimony will continue under those conditions.  I must remind you that you remain under the oath, to tell the truth, that you took when you began giving your testimony last week.  Do you understand that?  
+THE WITNESS:
+I do, Mr. President.  
+MR. PRESIDENT:
+Good.  Now, last week your testimony was extracted from the Prosecutor who had the opportunity to examine you at that stage.  Now he has concluded his questioning of you, and you now have to respond to the representatives of the three persons who are accused in this trial.  And I'm advised that they will be questioning you one after the other, starting with the legal representative for the Accused Mathieu Ngirumpatse.  So you will now have to answer questions from the legal representative of Mr. Ngirumpatse.  Do you understand that?  
+THE WITNESS:
+Yes, Mr. President.  
+
+MR. PRESIDENT:
+Ms. Hounkpatin?  
+MS. HOUNKPATIN:
+Thank you, Mr. President.  Good morning to the Bench.
+AHMED NAPOLEON MBONYUNKIZA
+CROSS-EXAMINATION
+BY MS. HOUNKPATIN:
+Q.	Good morning, Mr. Witness.  My name is Chantal Hounkpatin.  I am counsel for Mathieu Ngirumpatse.  I am going to ask some questions of you as I seek clarification about your testimony given last week.  I shall begin with a series of questions.  These are about you personally, and I would like you to remind us, what was your father's name?  
+THE WITNESS:
+The problem in this microphone. 
+BY MS. HOUNKPATIN:
+Q.	Would you like me to repeat the question, Mr. Witness?  
+JUDGE SHORT:
+So, Witness, can you hear me?  No?  
+MR. PRESIDENT:
+Mr. Witness, I had made a comment on your head gear earlier, but I was wondering if it is possible for you to wear it in such a manner that it does not obscure the part of your -- the upper part of your face.  Yeah.  Put it further, right up on -- 
+MS. HOUNKPATIN:
+Thank you very much, Mr. President.  Let me recommence.  I'll repeat the first question I put to the witness.  
+BY MS. HOUNKPATIN:
+Q.	Witness, I would like you to tell the Court the name of your father.  Give us his birth date and where he was born.  
+A.	My father's name is Paul Nkinzehwiki.  
+Q.	What is his birth date, if you can recall?  
+A.	He was born in 1937, if I am not mistaken.  He was born in Nyarugenge commune in Kigali town.  Later on, he went to live in Ruhengeri, and that's where he lived for reasons that are well known, and I can explain those to you, if you wish.  
+Q.	What was his profession?  
+A.	He was an officer, an official in the ministry of interior.  
+Q.	Let's now speak about your mother.  What is her first and last name, Witness?  
+A.	Her name was Elina Mukamudabari.  
+Q.	Her date of birth, Witness?  
+A.	She was born in 1945.  
+Q.	Where was she born?  
+A.	She was born in Gatonde, which is located in Ruhengeri préfecture.  
+Q.	Now, could you tell me the date that your parents got married?  
+A.	I really don't remember that date.  
+Q.	Was there a ceremony in front of an official, a common official?  Did you take part their wedding to them (sic)?  
+A.	Yes.  All those ceremonies were done.  They were married at the registry, and then they were married religiously at the church, and all the normal procedure was observed.  
+Q.	Now, could you tell us the religion of your parents?  
+A.	My parents were faithful.  They were Seven Day Adventists.  
+Q.	Are they still Seven Day Adventists today?  
+A.	There are questions that could make me very sensitive, special questions, but I'll try to control myself.  In response to that question, my parents are no longer alive.  
+Q.	May I ask you the number of sisters and brothers you have?  How many children were you?  
+A.	We were ten children in our family, two -- including two boys and three girls, but we are three, that is, now, two boys and one girl.  
+Q.	I don't understand your counting here.  Could you repeat your counting so as to be more clear.  Could you tell me the first and the last names of each of your brothers?  I'm sorry to have to come today when they're dead.  I'm sorry about that, but I should like to know the name -- the first names, the last names of each of your brothers and sisters.  
+A.	Very well.  As a matter of course, I will try.  As I said earlier on, we were ten -- seven boys and three girls.  The eldest, the first was Ephrem Bigiyeho.  The second is Genevieve Helene Nsengiyumva.  The third was Nyirandabishimye Helene.  The fourth was Espérance Imanyanimafore (sic).  The fifth is Paul Ndakize.  The sixth is Nkirabanzi, Jean-Paul.  The seventh is Mbonyunkiza, Ahmed Napoleon, and that is myself.  The eighth is Eresto Apollinaire Uzakira.  The ninth was Mbonanyira (sic), Assinapol.  The tenth is Banganyira (sic), Jean-Paul.  
+Q.	Could you tell us the dates of birth of each of them?  I want to situate you -- I see that you are the seventh.  I see (sic) the age differences between all of you.  Can you tell us the dates of birth?  
+A.	Ephrem Bigiyeho was born in 1957.  Genevieve Nsengibani (sic) Helene was born in 1960.  Helene Nyirandabishimye was born in 1962.  Espérance Imanantibakure was born in 1964.  Ndakize, Paul, was born in 1965.  Jean-Paul Nkizabanzi (sic) was born in 1967.  Bonjiza (sic), Ahmed, was born in 1968, on the 15th of July.  Erasto Uzakira was born in 1970.  Assinapol Mbonankira was born in 1973.  Jean-Paul Bangwakira (sic) was born in 1975.  
+Q.	Now, in your testimony last week, we understood that you lost two brothers.  Do you confirm that, Witness?  
+A.	When I mentioned that in my testimony, I was under the shock of emotion when the death of my younger brother was mentioned.  He was very close to me, and I said that he was killed in very atrocious conditions.  He was tortured.  But as a matter of fact, it was not only -- it was not only those two brothers that were killed.  That is all I can say at this time.  And probably I gave you that impression of only two, but there were others that were killed also.  
+Q.	Now, your brothers and sisters that's here today, I mean, with us, are they still in Rwanda today?  
+A.	Two of them.  My sister is in***********.  She's married, and the other is in********************.  I ******** live in Kigali.  
+Q.	Let me come back to your parents.  Could you tell me whether they were involved in politics?  Were they affiliated with any political parties?  
+A.	As a matter of fact my parents were never political.  They were never affiliated to any political party.  
+Q.	And your brothers and sisters, Witness?  
+A.	They neither were affiliated to any political party.  
+Q.	So you are confirming that you are the only one in the family that had political activities?  
+A.	Yes, I was the only one political in the family.  And that makes me sigh.  I'm sorry to have been political.  
+Q.	Witness, tell me about your studies.  Where did you go to school and how?  
+A.	Now, as far as my childhood days were concerned, I don't know what you want me to tell you.  Do you want me to tell you how I went to school or the conditions under which I lived as a child?  
+Q.	Witness, clarifications, yes, about your schooling.  I mean, where did you start going to school and at what age?  And, of course, I should like you to tell me the living conditions under which you were at the time.  
+A.	Well, I started school -- primary school at the age of seven.  I don't know whether I should tell you the kindergarten school to which I went.  It was a school just opposite Muhima camp.  That was the kindergarten.  And our teacher at the time was a soldier, if my memory serves me right.  I don't remember his name.  And then I went on to the primary school that's called EPA, E-P-A.  That was in 1975.  That was a school that belonged to the Bernadine sisters.  And then later on we were sent to -- to the Saint Famille, Saint Family primary school that was just opposite the roundabout, and that is where I finished primary school.  And then after that, I went to study at the Muhazi technical school, and I studied there for two years.  And then after that, my parents deemed it fit to send me to the APACOPE school, and I started going to that school third year until the time I finished studying arts.  Now, as I did say, when I left school, I joined the MRND.  I don't know whether I should go on to tell you the various functions that I performed.  
+Q.	Could you tell me the diplomas that you earned at the end of your studies?  
+A.	I (unintelligible) have it with me.  I don't know whether you want -- 
+Q.	What is the degree or diploma that you achieved?  
+A.	This is the certificate -- the secondary school certificate that testifies that I have gone through secondary school education.  
+Q.	Did you go to university, Witness?  
+A.	Because of the problems that I have had to face, I did not go to university, but I could say that I underwent some other form of training, without going to university.  
+Q.	Now, your certificate, what -- what -- what date did you receive your certificate?  
+A.	The 5th of July 1991.  
+Q.	Could you give me the dates, Witness, of the academic year?  Does it begin in January?  Is it the Gregorian calendar, or are they different dates which the academic year starts, that is, the beginning of the academic year, the end of the academic year?  
+A.	At that time, the academic year started in September and ended -- we started school in September.  In December we had holiday, short holidays in December, and then in January we went back to school for three months up to Easter, but then we took a short break, short holidays.  And we went back to school up to the end of June, and then after June, we had the major holidays.  The school holidays were one month, and then in September again the academic year started.  But now that calendar has changed.  
+Q.	Now, we shall come back to that, Witness.  Now, if you obtained your certificate on the 5th of July, could you tell me the time at which you took your exams for the certificate, certifying your having accomplished secondary school education?  Which dates?  
+A.	I should like to correct the interpreter.  He talked about the 5th of July, mistakenly.  Now, as far as the exams are concerned, this was a long time ago.  I will try and remember.  I think we started the exams in May, that is, around the end of the month of May.  We had oral exams and written exams, and we finished our exams in June.  At the time I do remember that there were leakages, and we had to repeat the exams for certain subjects.  And this is why we were -- we graduated only in July.  There were leakages, as I said, but I don't think that's a matter for us to bother about here.  
+Q.	Now, this is in relation to July -- that's a small incident.  We will go on.  Now, the content of your studies, you talked about it in your examination-in-chief.  You said that you studied certain works, especially gram- -- I mean grammar, written by Mathieu Ngirumpatse.  Could you give me the title of the book you studied, and could you also give me the dates which you acquired the book?  But first of all, the title of the book, Witness.  
+A.	Now, regarding that book authored by Mathieu Ngirumpatse, it was a long time ago, I must confess.  I believe that it was entitled in Kinyarwanda, Sixth Year.  Sixth Year, that was what was on the cover.  Now, in the book there were text concerning the history of the country and certain points.  I do remember that volume 1 was in Kinyarwanda, "Sixth Year."  That was volume 1.  
+Q.	So that was volume 2, is that correct, Witness, that you went through later on?  
+A.	As there was volume 1, there was also volume 2, and volume 3.  
+Q.	Now, you talked about the grammar book that you used in your school -- or during your school days; is that correct, Witness?  
+A.	We used different books, different works.  That was a sixth year book.  (Unintelligible) Mathieu Ngirumpatse.  
+Q.	But I'm asking you the question, Witness, and I will like simple answers from you, Witness.  It is not a very complicated issue.  These are books that you used during your school days and that Mathieu and I was quite impressed by the manner in which you testified.  This is why I'm asking you to tell me more about your school days.  
+A.	Now, on account of the time that has gone by since then, it is very difficult for me to remember everything in detail.  We had several subjects, and as far as this particular question is concerned, I can only say that we used that particular book.  So far as the rest is concerned, I wouldn't clearly remember.  This was 15 year -- 15 years ago, and a lot of water has flown under the bridge.  I'm sorry, madam, I cannot remember the details that you're trying to look for.  And since I cannot invent them, I am not in a position to give you those details.  I'm sorry.  
+Q.	Now, please, Witness, this is not complicated.  You said you had a grammar book.  Now, please tell me, even if it is that far back, after you finished school, you can explain to me, can't you, what was in the book?  Was it a Kinyarwanda grammar book or English grammar book or French grammar book or an ideological grammar book or an ideological book or a book on ideology?  
+A.	No, there was not ideology.  There was no ideology in that book.  That book, it dealt with grammar and the history of our kings and elements describing the development of the Kinyarwanda language.  That was a very interesting subject.  But this is all I can say at this time.  
+Q.	Now, Witness, if I tell that you Mr. Ngirumpatse is, rather, a musician, what would you say to that?  He's rather a musician.  What would you say to that, Witness?  
+A.	I would say, as I said all along, that he was a conductor -- I mean, a choral leader, a choir leader of the church.  I'm not inventing anything.  This is what people said.  You cannot explain every aspect of everybody's life.  Thank you for having reminded me that, but I did mention this earlier on.  He was a choral, choir leader, but I didn't see him at work.  I heard people say that he was a choir leader.  It's a good thing that you're telling me about it.  
+Q.	Very well, Witness.  I'm rather surprised that, for somebody that knew very closely and that worked on books written by Mathieu Ngirumpatse, that you shouldn't know that particular aspect of Mathieu Ngirumpatse.  Anyway, we shall move on.  
+A.	No, madam, I didn't say that Mathieu Ngirumpatse was not a musician.  Let's be -- let's be clear.  I did not say I did not know that Mathieu Ngirumpatse was a musician.  For the records, could the corrections be made?  I know that he was a choir leader at the church, but I have never been to that church.  I never saw him leading the choir.  People talked about it.  I've never seen Mathieu Ngirumpatse running the choir.  
+Q.	Now, today, at this time, you were saying that Mathieu Ngirumpatse was a choir leader.  Throughout last week, you never talked about Mathieu Ngirumpatse running a choir.  You said -- you only said that he wrote a book on grammar that you used at your sixth year in school, and that it talked about interesting subjects.  Now, let me move on.  
+A.	Before you do that, let me say that when I began to speak about Mr. Ngirumpatse, I talked about the reasons why I joined the MRND.  I'm surprised that you, as counsel for Ngirumpatse, didn't write that down.  
+Q.	Witness, I don't want to create some kind of controversy with you.  Let me simply move on.  
+MR. PRESIDENT:
+Madam, it's coming up to 12:30.  So if you could find a convenient time for our luncheon adjournment.  
+MS. HOUNKPATIN:
+As I was going to move on to a new line of questioning, Mr. President, perhaps now is the convenient time.  
+MR. PRESIDENT:
+Thank you very much.  We will take our luncheon break now.  
+
+Mr. Witness, the same conditions that I explained several times last week continue to apply, in terms of no discussion about the case with anybody. 
+(Court recessed at 1233H) 
+(Pages 1 to 10 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1410H) 
+MR. PRESIDENT:
+Good afternoon, Mr. Witness.  I think we are ready for the continuation of the session.  And your questions will continue from counsel for Nzirorera -- for Ngirumpatse, sorry. 
+MS. HOUNKPATIN:
+Good afternoon, Mr. President, Your Honours. 
+BY MS. HOUNKPATIN:
+Q.	Good afternoon, Mr. Witness.  Let's get back to our main concern, a moment ago; you did not specify the dates of the deaths of your parents.  So, I'm going to go back on that so we don't take too much time on it.  Please, could you just simply give me the date on which each of the persons died, names I will mention to you.  Now, when -- in what year did your father die? 
+A.	Counsel, can you please explain to me the relevance of your question because I don't find it relevant to the present trial. 
+MS. HOUNKPATIN:
+Mr. President. 
+MR. PRESIDENT:
+Mr. Witness, there are rules which govern what questions are permitted and what questions are not permitted during proceedings at this Tribunal.  And one of the tasks of the Judges is to make certain that these rules are properly complied with.  So, it is really our job to indicate whether a question is improper or not.  That question which the witness (sic) has asked, we do not think it is improper and you should answer it. 
+MR. WEBSTER: 
+Your Honour, I understand the Court's instruction to the witness, and clearly he must answer the questions that are put to him; but I hesitated from interrupting Ms. Hounkpatin earlier because I didn't want to in any way interfere with her cross-examination.  But, quite frankly, I also question the pertinence or the relevance of this line of enquiry.  And I would object at this time.  I don't want to interrupt the Defence counsel, but we have already spent at least 15 minutes going over the witness's family history, births and so on and so forth.  And I wonder is this really a relevant line of enquiry. 
+MR. PRESIDENT:
+We maintain the ruling we made, and you should answer this question. 
+THE WITNESS:
+I'm going to answer this question put to me by Defence counsel.  My father died in 1991.  And he was killed by Habyarimana's army because he had refused to belong to the MRND political party.  Such kinds of information somewhat effect me, but I think I can limit myself to what I have said as my answer.  If Defence counsel wishes to have more details, I can tell her that he was beaten up, and he died following kidney problems. 
+
+BY MS. HOUNKPATIN:
+Q.	Thank you, Mr. Witness.  I wish for you to tell me the dates of your mother's death? 
+A.	When my mother learned of the circumstances under which the other children died, there was a soldier that helped her to cross the border to join other members of my family who had sought refuge in Congo in 1959.  But, subsequently, the Interahamwe carried out an operation in Masisi, and my mother had to return to Rwanda.  But when she came back, she had undergone very difficult circumstances, so she died following those difficult conditions she experienced in exile.  
+
+I should say that when the soldier helped her to cross the border, she was pursued.  And that is the information I can provide you. 
+Q.	So, you do not know the date of your mother's death? 
+A.	When she died, I was still in prison, and I think that it was in the year 2002, but I am unable to recall the date.  I wouldn't wish to give too much detail because we experienced very painful times.  Nonetheless, I shall endeavour to answer your questions, Counsel. 
+Q.	Thank you, Mr. Witness.  This is why I am only asking you for the dates.  I'm going to give you a name, and the date of the death and that is all I wish for you to give me, so that I do not add to your pain.  So, please, only give me the date of death.  You have mentioned that Ephreim was born in '57, 1957.  Please, could you give me his date of death? 
+A.	But you have all of this information in the documents available to you.  He died in June 1994.  Counsel, you have all of this information and his family name is Bigiyeho. 
+Q.	Thank you, Mr. Witness.  Your sister, Genevieve, she was born in 1960.  In what year did she die? 
+A.	She died in 1994 during the genocide.  I was informed of her death later on, but I no longer remember the exact date of her death. 
+Q.	Your sister Helen, born in 1962; is she still alive or did she die?  If that is the case, what would be the date of her death? 
+A.	She is still alive. 
+Q.	Your sister Esperance, born in 1964? 
+A.	She died in 1996.  And she died in Holland at a place known as Oregen. 
+Q.	Your brother Paul, born in 1965? 
+A.	I was informed of his death, but I do not remember when his death came about, but he died during the period of the genocide, and I do not know the exact date. 
+Q.	Your brother Jean Paul, born in 1967? 
+A.	He is still alive. 
+Q.	Your brother Apollinaire Erasto? 
+A.	He died in 1994, between May and June.  He was killed by Ngirumpatse's Interahamwe. 
+Q.	Your brother Assinapol, born in 1973? 
+A.	I do not even know where he was killed, all I know is that he is no longer alive. 
+Q.	And your last brother Jean Paul, who was born in 1975? 
+A.	He died following an illness in 1992. 
+Q.	Thank you very much, Mr. Witness, for all of those details which enable me to inform you that you indicated only the death of a parent during the events of 1994, a very close relative, and I am realising today that you had other relatives whom you didn't mention.  This is what I would like to make as an observation after having received those details from you.  I, therefore, want to ask you to state whether you, indeed, have two sisters and brothers in Rwanda today. 
+MR. PRESIDENT:
+Madam Hounkpatin, I'm not certain if there is a problem with my understanding, but you indicated that a parent died in 1994. 
+BY MS. HOUNKPATIN:
+Q.	Mr. Witness, in his statements had stated the violent death of a brother.  And today, when we do a tally we see that there was more than a brother who had died.  So I wanted to be certain about my arithmetic.  I'm sorry about the macabre side of this issue, but I had to go through this.  
+THE ENGLISH INTERPRETTER:
+Mr. President, can the interpreter say she said -- I myself said "parent" because I wasn't sure she meant relative or parent.  The two words are the same in French.  I do apologise. 
+BY MS. HOUNKPATIN:
+Q.	Let me go back to the question before, I was asking -- before I was asked for clarification by the Presiding Judge.  I wanted you to indicate the place at which your brother and -- your living brother and your living sister live? 
+MR. WEBSTER: 
+Excuse me for interrupting, but how -- I'm objecting to the relevance of this line of enquiry.  I don't want to interrupt Madam Hounkpatin, even though this witness is no longer a protected witness, to the extent that we can avoid going into details of where he and his family live I think we should do so, unless it is really germane to the cross-examination. 
+MR. PRESIDENT:
+Yes, is this really necessary?  
+MS. HOUNKPATIN:
+I understand the concern of my learned friend, regarding the quality of the testimony I'm not asking for details, I'm only asking for the country and the town.  I don't want him to give me any other details other than in Rwanda, and which town, or whatever.  I don't want any more than that. 
+MR. PRESIDENT:
+Does this have some importance to your cross-examination?  
+MS. HOUNKPATIN:
+Yes, Mr. President.  This refers to Rule 90 of the Rules of Procedure and Evidence concerning the witness's credibility. 
+MR. PRESIDENT:
+Yes, Mr. Witness?  
+MR. WITNESS:
+Mr. President, you have been aware of my concerns even as they were expressed by myself at the beginning of my testimony, such that these questions shouldn't be asked of me, given what had happened in Rwanda you, yourself, can understand the objective of these questions.  After all of the deaths that we registered in the country, you can understand that this might cause a security problem for these individuals about whom Defence counsel is asking questions.  
+
+I agreed to testify in public because I'm not afraid of dying.  And those who are looking for me have not found a time to eliminate me.  But I refuse to expose the other members of my family.  I, therefore, would not wish to give the address of my living brothers and sisters because this may compromise their security and safety.  And by your leave, I would rather that I refrain from giving an answer to this question which is put to me by Defence counsel. 
+MR. PRESIDENT:
+As I understood it, the address was not being asked for.  I think it may be sufficient for the purposes of the enquiry if you just indicated whether there were -- they were living in Rwanda or not.  That seemed to be the issue that was being sought to be clarified. 
+THE WITNESS:
+They are living in Rwanda. 
+MR. PRESIDENT:
+Ms. Hounkpatin, I hope that I have not done an injustice to your enquiry, but that is what I understood. 
+MS. HOUNKPATIN:
+You understood me, Mr. President.  I don't know whether I can dare to ask for the names of the towns -- or name of town because, Mr. President, if I am asking for these details, it is because this morning the witness mentioned them, it was in a confused moment.  And I'm, therefore, asking for these specifics for these details. 
+MR. PRESIDENT:
+Yes, to be on the safe side, what I would suggest, Mr. Witness is that you write the name on a sheet of paper so it will not be published on the Court record.  And it will be put in evidence under seal; that is the name of the town of residence. 
+THE WITNESS:
+Very well, Mr. President.  
+MR. PRESIDENT:
+Do I admit this as an exhibit under seal?  
+MS. HOUNKPATIN:
+Mr. President, I would wish that it be considered an exhibit, but I'm afraid that this might be too vague.  Maybe he should give us an order in terms of which brother and which sister lives in which town.  And I think once that is done, I will be quite happy. 
+MR. PRESIDENT:
+Mr. Witness, you wrote down the name of two towns, in relation to the first town that you wrote down, which brother lives there?  
+MS. HOUNKPATIN:
+Mr. President, I would ask that this document be tendered as a Defence exhibit for our team.  I would propose that it be DNG and then this would be Exhibit Number 1. 
+MR. PRESIDENT:
+Admitted DNG. 1, under seal. 
+(Exhibit No. D. NG1 admitted) 
+BY MS. HOUNKPATIN:
+Q.	Witness, let us now move to new questions with regard to your marital status.  Can you tell us when you were married, Witness? 
+MR. PRESIDENT:
+Madam Counsel, is this line of questioning really necessary for the purposes of your Defence? 
+MS. HOUNKPATIN:
+It is, Mr. President, in the sense that we have heard the witness's description of his family.  He said that they were all together, some of them were married.  And we want to see -- we want to see if he, personally, was part of that that is why I am asking that question.  This is going to lead me to new questions with regard to the witness's religion, for example. 
+MR. PRESIDENT:
+Ms. Hounkpatin, we are -- you see the line of questioning that you are now embarking upon is fairly personal, his marital status.  We are reluctant to allow that line of examination unless you can demonstrate that it is necessary for your defence.  If it is a general enquiry, we don't think you should pursue it. 
+MS. HOUNKPATIN:
+Your Honour, I continue to think that the personals of the witness will allow us to establish his credibility with respect to the testimony that he is giving the Chamber.  That is why, for us, these questions are completely normal as we are looking into his background.  
+MR. PRESIDENT:
+Well, you know that we have a concern; we'll allow the lawyer to ask the question. 
+MS. HOUNKPATIN:
+Thank you, very much, Mr. President.  
+BY MS. HOUNKPATIN:
+Q.	So, I would like to ask the witness if he can tell us on which date he was married.  
+
+MR. PRESIDENT:
+Yes, Mr. Witness?  
+THE WITNESS:
+Mr. President, I'm concerned just as you are.  I'm concerned about this line of questioning and about the response that the Defence counsel gave with respect to my credibility.  I don't know if it is up for Defence counsel to evaluate a witness's credibility, or if it is a matter for the Chamber to look into.  I understand how a Defence counsel would not trust someone who would come to testify against her client, but in the beginning of my testimony, I clearly said that I had come here to tell the truth, and that I was not here to lie about anyone.  
+
+I also remember that Defence counsel asked for the cross-examination to be delayed until today.  They even called me a super witness, at one point, when they made that request.  And, in fact, I'm confused about what that means.  I would ask you to ask Defence counsel to be more specific and ask what they meant when they called me a "super witness" so that we can have a normal cross-examination, Mr. President. 
+MR. PRESIDENT:
+Mr. Witness, a little while ago I was trying to explain to you one of the functions of the Judges'.  Now, it is really not for you to try to judge the question that are being put, that is our job.  If we think the question is improper, we will not allow it.  
+
+The question about your marital status seems to us to be a personal matter.  And we would not normally allow it unless it can be shown to be relevant to the trial.  At this stage, Counsel has given an assurance that it is relevant to her case.  We have decided to accept her word, but we just indicated to her that we have a concern about it.  If we conclude that it is not relevant, we will stop the line of questioning.  But as of now, we have permitted it and we are paying attention to what is happening.  And if, in our opinion, it becomes improper, we will take the appropriate steps.  
+
+But I think it would be simpler for everybody if you answered the questions that were permitted without making additional speeches.  If you just answer the question, I think things would get by much better.  Okay.  
+THE WITNESS:
+I was married on the 11th of July 1993. 
+BY MS. HOUNKPATIN:
+Q.	Thank you, Witness.  Let me now ask you another question with regard to your conversion to Islam.  You don't need to explain how you converted or the circumstances under which you converted, just give us the date? 
+A.	I don't remember the date.  I can give you the year; it was 1986, in around the month of June. 
+Q.	Thank you, Witness.  Let me now move to a different line of questioning, and a question that is of some concern to me.  I want to talk about the end of your studies and when you became politically involved.  Can you specify when you joined the MRND? 
+A.	It has been a long time.  I'm not in a position to give you an exact date, I can only give you the month and the year; it was in September 1991. 
+Q.	You were an MRND activist; how did you become involved?  Can you tell us what the procedure was for joining the party? 
+A.	I have already explained this.  I had said that I liked the ideas that I had read in Ngirumpatse's book.  I was searching for work.  Rwanda had become a multiparty state and I decided to join the MRND.  Later on, I noticed that the MRND did not follow the ideology that it preached, or that it had written down, and so I left the MRND.  I received a card from Munyandinda, Gaspard, who also left the MRND.  He, in fact, was killed during the genocide.
+Q.	I'm not sure I understand your explanation.  Do activist seek out individuals or does the individual go to a cellule office? 
+A.	I'm not sure how recruitment for political parties goes on in your country, but in my country when someone wanted to join a political party they would speak with the person in charge of recruitment in the commune; that person would give you a card.  I first went through Mathieu Ngirumpatse, because his office was quite close to the school where I studied.  But Mathieu Ngirumpatse was not the person who issued the cards.  He sent me to Mr. Munyandinda who was in a position to give me a party membership card.  
+
+When I decided to leave the MRND, I did so officially.  That is why I spoke to you about the PSD meeting during which I turned in my MRND membership card.  And so I left the party officially and publicly, and I handed my card in. 
+Q.	(No interpretation)
+A.	So, now I think it is clear how I joined the MRND initially, so perhaps we can move on to something else. 
+Q.	Pardon me for interrupting you during your explanation, Witness; I simply wanted things to be more clear; I wanted you to stop.  
+
+You said that you joined the MRND and that you were interested in the MRND ideology and that you were looking for work.  What was behind your joining the party? 
+A.	It seems you do not wish to accept my answer.  First, I met Mathieu when I was still in school.  Later, I understood that he represented the MRND in the préfecture.  Then, I thought that his ideology was good.  I knew that he was someone who had experience, and he was someone who could be trusted.  
+
+I did not follow the MRND ideology as such, but, rather, I followed Mathieu Ngirumpatse's ideology.  I should point out that at that time that ideology was not negative; only later on, with further developments, did it become clear that the ideology did not correspond with the actions.  At least, this is what I could see with regard to Mathieu Ngirumpatse's ideology.
+
+If we had to look at each party's ideology, all of the ideologies were good.  At least, if you read the party's ideology you could never say, after doing so, that their ideology is negative.  Only when you look at how the parties created divisions within Rwandan society, can you understand how parties were involved in exactly what happened in Rwanda.  
+Q.	Witness, I want you to define the MRND ideology that you have also described as                       Mathieu Ngirumpatse's ideology.  
+THE WITNESS:
+It seems that Mr. President wanted to intervene.  I'm not sure if I should continue. 
+MR. PRESIDENT:
+No, Mr. Witness, I was just exchanging a note with my judicial colleague, but you may continue your answer. 
+THE WITNESS:
+In 1990 and '91, I only had the book that I talked about earlier; I did not know Mathieu Ngirumpatse.  However, when I finished my studies, I met him.  I met him at his restaurant called Eden Garden.  Later on I continued to see him in his capacity of MRND chairman for Kigali préfecture.  I was happy to have met that person who I knew through the book that he had written.  
+
+I remember at that time, you would not receive your diploma directly, but rather a successful completion certificate.  When I got that, I met Mathieu.  I was attracted by what he said and I decided to join the MRND.  I could see that the party ideology was good, so I decided to join.  
+
+Perhaps I can explain the circumstances regarding why I had left the party.  In fact, the party's actions did not correspond with the party's ideology.  That is why and how I knew about the MRND ideology and about Mathieu's ideology.  I must point out, however, that while I was in school, I did not yet know Mathieu Ngirumpatse. 
+BY MS. HOUNKPATIN:
+Q.	Witness, I have a slight confusion here.  In 1990, 1991, Witness, it was the MRND which you joined in 1991, in September, or was it any other organisation?  I'm sorry for the interpreters.  
+
+Let me continue though, because the witness is telling us very clearly, "I joined in September 1991."  And after that, he talks about 1990, 1991.  Now, which is the date at which you joined, Witness? 
+A.	I don't know whether it is a problem of interpretation here, probably I may speak in French if you want me to be clearer.  I said that for academic 1990-1991 I was still at school.  And it was there that I studied Ngirumpatse's ideology, not the membership.  So that there is a separation to be made between membership and my studying the book of Mathieu Ngirumpatse.  
+
+And it was 1990-1991 that I was at APACOPE, 6th year, secondary school.  And that was not my ascension to membership of MRND.  I joined MRND in September 1991 after my studies, two months after my studies; that is what it is. 
+Q.	Very well, Witness, but that still gives me no satisfaction.  You are not able to tell me what MRND ideology was.  Tell me? 
+A.	Thank you, Madam Defence counsel.  When we joined MRND, the ideology was to enhance peace and development, unity, peace and development.  That was the ideology we were all aspiring to, unity, peace and development.  That was the ideology of the MRND at the initial stage.  I hope I have answered your question, ma'am. 
+Q.	Very well, I will take that answer; but please explain, in 1991, Witness, you said, we were in the framework of a single-party state, or we were in a multiparty state; which is which? 
+A.	In 1991, precisely June, let me say that, the 1st of June 1991, we had the constitution establishing multipartyism.  It was at that time, that is after that particular date, that parties were endorsed; and the MRND itself got registered as a party, a political party, just as any other party.  That's all I can say at this time Madam Counsel for Defence. 
+Q.	Very well, thank you very much.  You see, I was insisting that you clarify these things, the date especially, and the political conjuncture or circumstances that obtained in Rwanda.  And I'm doing this because you told us that on the 28th (sic) of September; "For me, there was the MRND party," you said.  "And at that time, I was still studying at secondary school.  But when multipartyism came in Rwanda, I stayed in the party that I joined before that; in other words, the MRND."  And when you said, "On the  1st of June 1991, multipartyism was established -- or introduced, I decided," you said, "to remain within MRND, where I thought we had experienced politicians."  This is what you said, Witness. 
+
+Now, could you, therefore, explain this contradiction that I see between the various dates,         membership -- that you became a member.  There is a contradiction of the date at which you became a member.  
+A.	Thank you, Madam Defence counsel, for what you have just said.  I told you, madam, that I would come back -- I would back peddle a little, probably you didn't understand me.  I did not tell you that I remained a member of the MRND, as I suggested once before.  
+
+Now, in verification of the time, let me tell you that MRND was a single party before the advent of multipartyism.  And anybody that joined any other party at the time, could chose the party which he or she wanted to join.  But the MRND called upon it supporters to remain with the MRND.  The MRND used to say that there -- of course, there were other parties, I was at school.  I was still at school, so this should be clear, so far as I am concerned, the MRND had -- had become MRNDD.  I'm not sure why we are not talking about the second D. 
+
+So I decided to remain a member of the MRNDD and that is the party.  Now, so that was tantamount to saying that I was to go and apply for a membership card of MRND, and it was in September that I was given a membership card.  And it was my right to, of course, to leave the MRND, but I chose to remain an MRND member.  And I decided to go and get a membership card of the MRND.  Now, I don't know whether I should espousiate (phonetic) on this any further.  
+
+The MRND before was a single party in the country.  So, that there was a single party for all Rwandans at the time.  Now, when multipartyism came about, some decided to leave the MRND and join other parties.  As far as I am concerned, therefore, I decided to remain with the MRND, and I did so.  It was legal.  And I did the formalities in September.  Before September, MRND was the only party, after -- changed after that. 
+Q.	Thank you.  That was sufficient, thank you, Witness.  Now, let us be a little bit clearer, Witness; now, what does MRND mean for you?  Was this a single party and then you transitioned it into as part of a multiparty scenario; is that correct? 
+A.	Now MRND, madam, means, National Revolutionary Movement for Development.  And it was at the time that the MRND was the only party there.  When the other parties came in, it became the National Republican Movement for Development and Democracy, this is MRNDD.  And that is the party that I joined.  I'm not inventing anything. 
+Q.	Thank you, Witness.  I had to close my microphone.  I didn't say that you were inventing anything.  I just wanted more clarification.  
+
+Now, let us go back to the question of ideology.  You talked to me about three words that do not encapsulate ideology.  Now, let me come back to this question of ideology, I'm talking about the militants of the MRND, even if you resigned in 1992, Witness? 
+A.	Are you talking about the ideology of the MRND during the single-party state; that is unity, peace and development, that is before the advent of multipartyism?  Do you want me to talk about the time at which the MRND introduced the genocide ideology?  Please guide me; help me here so can I help you. 
+Q.	Witness, Witness, tell me about the MRND ideology as a single-party state, as a single party, because it was at that time that you became attracted by Mathieu Ngirumpatse's ideas.  And then, subsequently, we will go on to the other stages, Witness? 
+A.	When I talk about the idea of Mathieu Ngirumpatse, I'm talking about the ideas enshrined in the book, so to speak; I'm not talking about the speeches that he made, an ideology.  I'm sorry, let me just speak in French, probably the Defence lawyer will understand me better.  
+
+Now, the ideology of the parties, and the ideology of Mathieu Ngirumpatse are separate.  Now, which should I talk about, because you are saying there was the ideology of Mathieu Ngirumpatse and the ideology of the MRND.  Now, I explained that Ngirumpatse, through his books expounded, intellectually, his own thoughts.  That is not a political ideology.  We should make a distinction between the speeches and his own thinking.  It was not the speeches that he made during the period of multipartyism.  We should make a distinction between the two.  
+
+You shouldn't say, Well, I absolved Mr. Ngirumpatse because he didn't have any genocide ideology.  I'm talking about the books that Ngirumpatse wrote at the time, and that encouraged me to appreciate Mr. Ngirumpatse, who was an advocate of a single party.  He was a member of that single party, and he was an official, a leader of that party.  So, madam, please listen to me very carefully, this is a distinction I want to make in this respect, madam.  
+Q.	Thank you, Witness.  I think I followed you very carefully, I followed your explanations.  I know that you are not able to define what an ideology is, even if you use the words as simple as they are.  And that there is, I see, a confusion that you purposely want to permeate here between the ideology of Ngirumpatse that attracted you, because this afternoon you already said three or four times, the book that was written by Mathieu Ngirumpatse and that inspired you.  Now, please tell me the title of the book? 
+A.	I did explain to you, I think you are making things difficult for this Chamber, madam.  If you want us to go back, we can go back, and I'm quite prepared for that.  I will answer all of your questions.  The title was "Kinyarwanda Volume I", and there were explanations in it.  And the book contained writings of Mathieu Ngirumpatse.  And there was a song even, a poem.  This was a long time ago.  I'm not inventing anything.  We studied his work.  
+
+Now, as far as the word "ideology" is concerned, I think we should understand it in the same manner.  Probably, the interpreters are not doing their work correctly.  What can I say?  How am I going to explain it better than I have?  
+
+There is -- there is what they called tangible and constructive ideas, is what we learned in school.  The desire to create something and what is there.  Ideology, let's take ideology, for example, there are probably people better placed than me to explain what ideology means to madam.  You have your idea and you have -- in other words, you have your ideology as far as the various political parties are concerned, it is what they want.  
+
+Let's us not dwell too much on this word "ideology" less we run into confusion, of this in my mind, and in the mind of the Honourable Judges. 
+
+MR. PRESIDENT:
+Madam Hounkpatin, we don't necessarily want to restrict you in any improper manner in the exercise of your cross-examination of this witness.  But on the other hand, we don't want lengthy cross-examination that doesn't have any noticeable connection with the case.  We have allowed you your introductory in cross-examination quite considerably up to now, and you have been going on for quite some time.  I think it is time that you should come to the case. 
+MS. HOUNKPATIN:
+Your Honour, I'm most obliged and I'm sorry for having dwelled on this.  For me, somebody who is a representative of a movement should be able to explain what ideology means.  Let me move on, I note that he is not capable of telling me what the ideology is.  
+BY MS. HOUNKPATIN:
+Q.	Now, Witness, so you joined in 1991.  And you say that by joining the MRND in September 1991, you were hoping to be given work; in other words, you were hoping to be given a job.  Did you think, at that time, that the MRND was there to place people who were graduates from that school? 
+A.	Madam Defence counsel, you are - you are concluding on one point, you are concluding on a point and you seem to be insulting me.  I can explain what the ideology means.  What I am saying is that there is a thin line between ideology of a party and personal ideas, personal ideas of Mathieu Ngirumpatse is concerned in this case.  As far as your concern is, please repeat it so I can get it clearer.  But, you seem to have been insulting me by saying that as a party official, I did not know what ideology meant.  I can make a distinction between ideology and personal ideas.  Please repeat your last question, madam. 
+MR. PRESIDENT:
+Mr. Witness, this really is a courtroom where we are trying to get evidence.  You do not need to think that you are debating with the lawyers who are asking you any questions; it is completely unnecessary.  We will get by much better if you will just answer the question you were asked.  Do you understand that?  
+THE WITNESS:
+Yes, Mr. President, I do understand that, but may I ask you also to ask counsel, Defence counsel not to harass me. 
+MR. PRESIDENT:
+Mr. Witness, Defence counsel is not permitted to harass witnesses.  And one of our duties is to prevent that from happening.  I don't think the question she ask amounted to harassment; but if you are of the view that she did anything that amounts to harassment, we will prevent it from taken place.  You can be assured of that.  All right.
+
+Now ask the next question.  
+
+MS. HOUNKPATIN:
+Yes, Mr. President. 
+MR. WITNESS:
+It was the last word to say that I don't know the meaning of ideology.  Are they aware of the last point where she was ending?  There she said, the one who was responsible in the political party could not understand or know the meaning of ideology.  In that thing, I want to say, I know very well the ideology.  It is that thing --  
+MR. PRESIDENT:
+Well, that is why I used the term that you do not have to enter into a debate.  As the Judges we listen to the evidence and we make our own evaluation.  So it is unnecessary for you to think that you are debating with the lawyer, and that will cause a lot of trouble if you try to debate with the lawyer.  So, you don't worry about that.  If she asks you a question, you answer.  If she makes a comment, you do not have to respond; in fact, it is better if you do not respond. 
+THE WITNESS:
+Okay, the Defence counsel knows this very well.  I am thus going to go to the second question. 
+MR. PRESIDENT:
+You are talking too much.  Just listen to the question that is asked and try to answer it.  I think everybody will be much happier, and your examination will be ended much quicker if you just do that.  Okay.  
+THE WITNESS:
+Well, let me just react to this second question then.  Defence counsel was asking whether I joined the MRND because the MRND was an employment agency.  I think this is what the Defence counsel wanted to know. 
+JUDGE SHORT:
+Let's forget about all of the questions that have been asked, and the comments.  Just wait for the next question and answer it.  
+
+Counsel, you can proceed.  
+MS. HOUNKPATIN:
+Most grateful, Your Honours. 
+BY MS. HOUNKPATIN:
+Q.	Witness, when you joined in September 1991, you said that you were assigned to the offices of         Mr. Ngirumpatse.  Would you tell us the circumstances and the conditions of which you were assigned to that office -- or those offices? 
+A.	Well, I joined the party.  And Mathieu Ngirumpatse himself when I asked him for work, he told me to work within the MRND as a volunteer, as I waited for a job.  And I was then assigned to             MINIJUS -- MINIJUS.  Mathieu Ngirumpatse was the MRND representative in Kigali, so that I started working in the MRND as a volunteer within the framework of Kigali town.  
+
+Now Defence counsel talked about an agency, employment agency, she knows very well that when you want to get work, you have to go through certain formalities.  I had just finished school.  I didn't know where to go.  And happily enough, I joined the MRND and I started working there as a volunteer.  But later on, Mathieu Ngirumpatse gave me a job, within MINIJUS, the ministry of justice.  
+
+I left that ministry to sit for my exams to be eligible for Petrorwanda.  And these were the conditions under which I joined MRND.  But this is not tantamount to saying that the MRND was an employment agency.  In Africa, as you know, if you don't have anybody to help you, you have tremendous problems.  It was the same thing in our country.  That was what we did at the time.  When you take into consideration your intellectual qualifications and your intellectual abilities, it is who you know.  So I was recruited in the MINIJUS without going through an exam.  Mathieu Ngirumpatse helped me in MINIJUS.  Do you think that if I didn't know Mathieu Ngirumpatse, I would have been able to get that job in MINIJUS?  No.  We knew each other; he helped me.  
+
+What is bad is that he changed and he developed bad ideas, he and his colleagues.  That is what had caused a lot of Rwandans to die, especially Tutsi.  These were the circumstances, madam. 
+(Pages 11 to 24 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1530H
+BY MS. HOUNKPATIN:
+Q.	Witness, please tell me, in a nutshell, what you did as a volunteer within the MRND.  What was your work as a volunteer within the MRND, Witness? 
+A.	Madam Defence Counsel, I'm sorry, it is -- you are right to ask any questions, but I don't think that your questions are pertinent.  They are not relevant.  Let me, however, explain and answer your questions.  
+
+As a volunteer, let me tell you, if I may, we had the membership card of the MRND party.  Many members were to receive their membership cards -- you didn't ask me about the people I was working with.  I was working with Ignace Karera, the son of Karera, Bosco Ngirunzanga (phonetic) also; and a lady called Beatrice, a lady -- a girl called Beatrice, a royalty to Charles Nyandwi.  I was working with those people.  I used to help them to update documents.  I think you want a lot of details.  That is your work, that's quite normal.  As far as I'm concerned, I will tell you that I used to help update documents, and they could give me other assignments.  They could send me on errands here and there.  I can't remember everything that happened in that office, but in general, I used to take care of documents and update them.  I had no particular experience; I just came out of school.  You must have been a student and you know.  You know how you started your own career.  If I were to ask you where you -- how you started your own career, that may lead into a lot of explanations.  I think I have answered your question, Madam Defence Counsel.  I don't know whether you are happy with that. 
+MR. PRESIDENT:
+Ms. Hounkpatin, this is very much introductory.  I mean, I don't see, as yet, its relationship with the case.  
+MS. HOUNKPATIN: 
+Mr. President, it a matter of vital importance that we clarify the conditions under which -- I mean, the conditions described by the witness about his membership into the party, and his relationship with 
+Mr. Ngirumpatse.  We cannot sweep that under the carpet.  This is why I feel compelled to set a series of questions that would enable us to understand the circumstances in which he said, "I was a volunteer; I joined; I was very close to Mathieu Ngirumpatse."  This is why I am trying to guide him to give us the explanations we want.  
+MR. PRESIDENT:
+You notice that I did not stop you -- I am -- as yet, so you may proceed.  I'm just letting you know that we have not yet seen the linkage between this line, and as an introductory, you have gone on for a very long -- very long time.  So I still don't see the linkage as yet to the gravamen of his testimony.
+MS. HOUNKPATIN:
+Must I react to that, Mr. President, in terms of the linkage?  
+MR. PRESIDENT:
+(Overlapping microphones) ... introductory information, now you know -- have an idea of how we are thinking and you may proceed.  
+MS. HOUNKPATIN: 
+Most obliged, Mr. President.  
+BY MS. HOUNKPATIN:
+Q.	Witness, you explained to us that you knew Mr. Mathieu Ngirumpatse very well and that you were very close to him.  Could you tell us how you met and knew Mr. Mathieu Ngirumpatse and how you came to be close to him -- met him and be close to him? 
+A.	As I have already explained -- you see, there is a student that has just come out of school, and Mathieu was a high ranking politician.  You may think that it is impossible for the two to meet.  At the time, let me tell you, even a house-hand or even a maid or a house-hand in your house, to become a member of your party was free to do so or not.  It was quite possible he can become or she can become a member of your party.  Now, it would appear to me that you think that Mathieu Ngirumpatse, who was minister and a former ambassador, and a writer, for you, you thought that it was impossible for Mathieu to sit around with a little person who has just gone through his study.  I understand you.  Even a maid or a house-hand -- under the circumstances, under the situation that obtained in the country during multipartyism, you can go and talk to anybody.  A maid, you can go and talk to your maid or servant.  So that, for you, it seems impossible.  I understand you through your various questions, because I am concerned.  Let me tell you, I knew Mathieu Ngirumpatse an intellectual.  I went to him; he didn't come to me.  It was Mathieu who must come to me because he was looking for members for his party.  So that for him, it was easy, because I went to him.  That was what happened, and the relationship I had with Mathieu, he looked for a job for me.  Let me add, and I must, that we were together, we talked to each other; we can talk about the development of the country, et cetera, et cetera. 
+MR. PRESIDENT:
+(Overlapping microphones) 
+THE WITNESS:  
+Mr. Witness, I am not being too talkative.  It's this Defence counsel who is leading me into all these details, and this is why I had to take all the time to explain all of this, Mr. President.  If not, I am not trying to dodge any questions.  
+
+As you have just said, let counsel -- let Defence counsel not delve into details.  Let her limit herself to essential questions, Mr. President. 
+BY MS. HOUNKPATIN:
+Q.	Now, Witness, when you were a volunteer, were there any other young people like you who were volunteers?  How many were you, if so? 
+A.	In the office, I was the only one.  In the office, I was the only one as a volunteer.  I don't know what happened elsewhere.  Whereas Karera, Ignace, was the -- Karera's son; Beatrice was -- I know they had a job.  Beatrice went to work for MRND national; Ignace and Ngirunzanga were sent out to study, I don't know where, I can't remember.  But I obtained a job.  I was in the office, that is, the MINJUS office, the ministry of justice, that's it. 
+Q.	Sorry, at what time did you join the ministry of justice, MINJUS, if I'm correct, that is, following the volunteer work you did? 
+A.	It was around the end of March or beginning of April.  I am not very clear about the dates here, unless I revert to my documents.  But once again, I wasn't expecting such a question, so I came here to testify what I knew.  I didn't think that I would be asked questions concerning detailed dates.  This is the first time I'm testifying before a tribunal.  Had I known, I would have come with all the documents necessary.  But all I know is that it was between the end of March and the beginning of April.  That was when I started to work for MINJUS. That is my answer to your question. 
+Q.	Thank you.  You told us that you were a civil servant in your testimony of Thursday.  Could you please give me the order appointing you as a civil servant? 
+MR. PRESIDENT:
+Is that a matter that's an issue in the trial, or related to an issue with regard to his testimony?  
+MS. HOUNKPATIN: 
+Quite so, Mr. President.  He was -- the witness said that he was appointed to the ministry of justice -- 
+MR. PRESIDENT:
+At this stage, I'm not asking for details; I'm just enquiring if it's an issue.  If it is -- if the answer is yes, then you can go ahead with the question.  
+MS. HOUNKPATIN: 
+I wanted to state that the witness told us in examination-in-chief that he was indeed appointed to the ministry of justice and that he handed in a resignation, and this is why I'm putting this question to him.  
+THE WITNESS:  
+You have asked me to give you the date.  Indeed, that happened a long time ago.  I cannot recall the details regarding the ministerial decree or order at the time.  But when I leave the Tribunal, I can look for the information regarding this document.  Maybe I can send this to the Tribunal so that you can assess the authenticity of this information, but I am telling you that I do not have the number of the decree in question.  In my memory, I wasn't expecting such questions to be put to me.  If you give me the opportunity to stop here, maybe I can be able to find the answers for you by tomorrow morning; I don't know.  I don't know how I can help you. 
+BY MS. HOUNKPATIN:
+Q.	You stated that you were appointed, and that is quite okay.  That's all I wanted to know.  I wanted to confirm your status as a civil servant, and the answer you have given me is satisfactory for me.  
+MR. PRESIDENT:
+Ms. Hounkpatin, I think we misunderstood each other.  You see, I thought that you were suggesting that it wasn't true, that it was an issue in the trial.  
+
+MS. HOUNKPATIN: 
+Not at all, not at all.  I didn't suggest that it wasn't true.  I merely wanted him to confirm that he was a civil servant, and he has done so.  I didn't express any doubt.  It's only him, in his answers and the way in which he has been answering, that led me to have some doubts about what he said on Thursday, and this is why I'm asking him to make a confirmation.  
+MR. PRESIDENT:
+It's quarter to four.  It's time for our recess.  I would like us to come to the case, you know, because I think your questioning has been very introductory.  You're leading into it, but I -- you've spent a long time, much longer than I think is necessary on the introductory aspects of your questioning.  I mean, he's been in the witness box now for quite a number of hours, and I think it's time to come to the meat of the case.  
+
+We'll take a short recess now.  
+MR. WEBSTER: 
+Your Honour, can I just make one observation?  I didn't want to interrupt Madam Hounkpatin before.  If we have an occasion where she is referring to a previous transcript I'd appreciate it if she could give us the page number and indicate whether it's the French text or the English text.  We still couldn't find the portion that she had mentioned earlier.  And I'm also wondering if the interpretation booth could indicate somehow when the witness switches from French to English to Kinyarwanda because I would like it reflected in the record when he is making an effort to speak the language of the person who is asking the questions.  So I don't know if that's possible, but to the extent it is, if we could have a sort of indication when the witness himself changes languages.  
+MR. PRESIDENT:
+Well, the Court will approve the request if it's possible to deal with it, as far as it is feasible.  
+
+We'll take a recess now.  
+(Court recessed from 1546 to 1617H) 
+MR. PRESIDENT:
+Yes, we are now ready to resume and counsel will continue her examination.  
+MS. HOUNKPATIN: 
+Thank you, Mr. President.  I would like to clear something up, something that came up earlier this afternoon with regard to the beginning of the cross-examination.  This was when you still thought that I was in the introductory phase of my cross-examination.  I think that I am in the middle of the cross-examination.  The witness was an MRND leader, and it was important for me to verify, by way of the questions I put to him, his knowledge of the party, his knowledge of the workings of the party, its ideology.  And to end that line of questioning that I put to him, I can conclude that the book by Ngirumpatse that he referred to never existed, that I seriously doubt his political commitment, and we will get to the heart of that through the questions that I am now going to deal with, with regard to meetings.  
+
+I have serious doubts about his commitment because he says that, "My father was killed by soldiers of Habyarimana and the MRND" and shortly thereafter, he joined the MRND.  I can, in no circumstances, allow myself to have those doubts, and that is why I say that I am at the very heart of my cross-examination and I am not at the beginning of it.  It was also necessary for me to clear this up, also with regard to his commitment within the ministry.  That is all I want to say on that, and now I want to get to the subject of meetings.  The first meeting I want to refer to -- or meetings, rather, are the meetings that all activists should be able to explain if they are members of a party.  
+BY MS. HOUNKPATIN:
+Q.	So, Witness, please tell me, after you joined the party, in either June, which still is not certain, or in October 1991, can you tell me how many meetings you participated in?  That's the first question.  
+A.	You should understand that my father was killed but I only learnt afterwards.  This doesn't mean that I could not have joined the MRND party.  It had nothing to do with it.  I simply want you to know this, Counsel.  Next, let me say that all of Robert Kajuga's family was executed.  He was chairman of the Interahamwe.  I should point that out before I answer the question that you just put to me.  Now, with regard to meetings -- 
+THE ENGLISH INTERPRETER:
+Witness switches to Kinyarwanda.  
+THE WITNESS:  
+With regard to meetings after I joined the party, I participated in several of them.  There were meetings organised throughout the country.  I think that I've mentioned this before, I will repeat.  I think I participated in virtually all of the préfectures except Cyangugu.  With regard to administrative meetings that dealt with the functioning of the party, there were weekly meetings.  They were held in the building where Mathieu Ngirumpatse's office was when he was president -- or, rather, chairman of the MRND in Kigali.  These were meetings under -- held on a weekly basis.  Perhaps there are other meetings that you want to hear me talk about.  There were meetings that incited people to do certain things.  I should limit myself to say that we participated in several meetings that were organised by Mathieu and by the party.  I think I spoke three meetings and I said that after the third there were more secret meetings, and other meetings in the higher levels of the MRND.  At various levels of the MRND, there were several meetings organised to prepare the events that we are dealing with.  I think this is the answer I will give you in response to your question. 
+BY MS. HOUNKPATIN:
+Q.	Thank you, Witness.  Regarding those weekly meetings, can you tell us which people -- which leaders were there and what was the agenda for those various meetings? 
+A.	Pardon me, Mr. President.  I didn't close my phone.  I'm very sorry for that. 
+MR. PRESIDENT:
+It was your phone?  
+THE WITNESS:  
+Yes, of course. 
+MR. PRESIDENT:
+Okay, you are permitted to close it now 
+THE WITNESS:  
+Now I close it already.
+MR. PRESIDENT:
+Okay, thank you.  
+THE WITNESS:  
+Regarding those meetings, the weekly ones, I would ask you to repeat your question because my telephone disturbed me and I wasn't able to follow your question.  
+BY MS. HOUNKPATIN:
+Q.	Yes, I will repeat.  There were normal weekly meetings.  I would like to know who was present and who came up with the agenda for the meetings. 
+A.	The meetings were intended to increase awareness amongst the members so that party activities could develop.  The coordinator, Mathieu Ngirumpatse, called the meetings.  All of the MRND representatives for the commune were called to the meeting.  They were there as party representatives.  With regard to the issues dealt with, they talked about how to increase awareness within the population and how to go about doing that, how to find ways and means of recruiting more members into the party.  These were the various issues on the agenda -- agendas for those meetings. 
+Q.	Thank you.  So at those meetings, to summarise, it was everyday business, normal political party activities that took place at those weekly meetings.  Prior to you taking a position as a leader within the party, how many of those meetings did you attend? 
+A.	Before I had a position of responsibility, I was not authorised to go to those meetings.  All of those people like Mathieu were members, and they didn't have leadership positions yet.  Only later on were we elected to our various leadership posts. 
+Q.	I'm not sure that I understand your answer.  These were party meetings, and none of the people present were party members?  I'm not sure I understand, Witness.  
+A.	I would like this to be explained as follows: There were meetings where each party member had to participate.  There were other meetings, party meetings, gathering the party leadership.  After being elected to a post or a position within the party, you would participate in those meetings.  After being elected, we held weekly meetings.  That is when we began to have those meetings.  Before that, we could not have such meetings.  We would only go to the political rallies as ordinary party members, and nothing else. 
+Q.	Thank you, Witness.  You said that you belonged to the youth wing of the MRND and that you were elected to the communal committee.  As a member of the youth of the MRND, can you explain how you were elected, much more the circumstances surrounding that election to that position? 
+A.	Now, what happened, as I did say, I started by being a member of the MRND, then subsequently I was elected to the leadership in -- for Muhima secteur youth wing, that is, the Muhima secteur.  And then later, we realised that there was a segregation between the clergy family and the lower class families, just like in France.  So we had to organise ourselves to see how we could participate in the work of the youth at the national level.  That is PVK, because PVK covered the entire country.  So we had to organise ourselves to elect and Ngirmataya, Mathieu (phonetic) was requested to help us organise our elections.  So the committee was run -- if I can call names, probably I can call names later on -- but later on what we did was that we organised our elections and Mathieu was there.  And then I was elected as chairman.  He didn't want the people from the clergy to be elected.  So I was elected, and the vice-chairman was Siyembiyo Mbwazoye (phonetic) and Muzinse Urgence (phonetic), and we had a secretary.  This is how we were elected.  We had to organise ourselves.  So that the committee before was Simba Royale (phonetic), that is the child of Colonel Simba Royale, the second -- the first vice-chairman was Bernard Habyarimana, that's the son of President Habyarimana, Juvènal.  The second vice chairman was Habyarimana, Léonard -- Leo, I'm sorry, Habyarimana Leo, from -- that's the son of the president as well.  The treasurer was the wife of -- that was the wife of Simba Robert.  They had engaged, but subsequently they got married.  And then the secretary was Joanita Ngirumpatse, that is, the child of Ngirumpatse, Mathieu.  This was how it was organised.  
+
+But Habyarimana, Bernard and Habyarimana, Leo, did not want to participate in the work of the committee.  They were appointed, they -- that's the reason -- I mean, actually, they just supported the elections.  They were just there.  They did -- that's all.  In spite of the fact that they were members of the committee, they supported the idea that we be elected in a democratic manner.  It was thus that I was elected as chairman of GMRND -- JMRND at the level of PVK.  I hope that you get the point -- you got what I was trying to say. 
+Q.	It's a good thing that you are smiling yourself because I think you are mixed up.  I asked you about elections at JMRND, and then now you are talking about other elections.  Now, let me finish this first.  When did those elections take place for JMRND? 
+A.	This is what I was trying to explain to you, madam.  Probably I should begin from square one.  I couldn't begin with my head.  I have to start from somewhere -- to start from somewhere.  I laughed or smiled because you also smiled. 
+
+Now, what you are saying about JMRND, now I was elected as chairman on the 19th of December 1991.  I mean, later on we organised elections, because those elections were carried out at the same time.  If I may so say, the elections were very well orchestrated at the same time because it was only three weeks, the 5th of January, I was elected as member of the MRND committee at communal level.  I was elected as one of the ten members of the MRND at the communal committee.  I was responsible for the youth there because in the committee the women were elected -- even women were elected and even traders.  I can even tell you that the chairman of MRND at the -- of the MRND was Musira Jacques.  He was the owner of Amiticola factory.  So that this is how we organised elections.  
+
+Now, to participate in these committee -- I participated in the work of the committee because I was the chairman.  It was -- that was my ticket as a member of the communal committee.  I hope I am clearer now. 
+Q.	Thank you, Witness.  I wanted -- well, you are pushing me to ask you for another explanation.  Now, the elections to the leadership of the youth of the MRND, just as the elections into the bureau of the communal committee, were those elections governed by any paperwork, or any statutes, or any structures, or any orders? 
+A.	Please, could you explain your question better so that I would answer better?  
+Q.	Very well, Witness.  You talked about two types of election that were sequential.  One was for the JMRND and the other for the bureau of the communal committee.  Now, those elections, are they provided for in the statutes of the MRND or were they elections that were carried out without any legal bases? 
+A.	Thank you very much, Madam Defence Counsel.  What I can say, as far as the question is concerned, is that JMRND, as I said earlier on, when the MRND saw that the other political party, basically PL and MDR, had created their own youth wings for themselves, the MRND also turned around and wanted to create the youth wing of MRND, that is, for itself, the MRND youth wing.  I don't quite remember, but what I do remember is that in their statutes it was stipulated that they should create, they should 
+	set up -- 
+MR. PRESIDENT:
+Mr. Witness, the question was: Were there legal provisions governing those elections?  You could say yes or no, or you don't know.  
+THE WITNESS:  
+Now, the question raised by Defence counsel, I believe, Mr. President, that in the text governing the country, such elections were not provided for.  This is why I was asking Defence counsel to be more punctilious. 
+MR. PRESIDENT:
+(Overlapping microphones)  
+THE WITNESS:  
+I don't know if she was referring to the MRND statutes or the law, the constitution, so that -- let me repeat.  In the country there was no law providing for the creation of youth wings for political parties.  But since the constitution was adopted on the 1st of June, and that multipartyism was introduced in the country, it would be a matter of course that youth wings were -- or, rather, the various political parties of the various parties were acceptable.  And in the various parties, they had their various branches, and that applied also to PSD and PL, and they also had their youth wings.  
+
+But so far as the constitution or the law was concerned at the time, there was no stipulation, as such, that youth wings should be there.  It was on -- at the level of the parties only that there were stipulations as to the requirements of the creation of youth wings. 
+BY MS. HOUNKPATIN:
+Q.	Witness, let me insist a little.  I want to be clearer here.  When I said "legal" or "the law", it means that the statutes are tendered and they are legal, so that I mean law -- the law means the law.  Let me take JMRND, for example, to which you were elected, were there any statutes that provided for youth wings; yes or no? 
+A.	The MRND statutes did provide for the creation of a youth wing for MRND. 
+Q.	Well, thank you very much.  We are talking about statutes now that are recorded, deposited and tendered.  That is after the advent of multipartyism; is that correct? 
+A.	Before the advent of multipartyism there were statutes provided for the creation of women's association, the creation of trade unions, but that was at the time of the single-party state.  Where -- upon the advent of multipartyism, in the MRND statutes, there were provisions for the creations of associations for the MRND, and such associations were to contribute to disseminate the ideology of the party.  Let me leave it at that, madam.  
+(Pages 25 to 33 by Gifty C. Harding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1645H 
+BY MS. HOUNKPATIN:
+Q.	Very well.  Could you tell me which particular rule or article, if you remember, in the statutes that so stipulated?  If you don't remember, we can move on to another question.  
+A.	I do not remember the particular article in the statutes, madam.  
+Q.	Now, a relative question concerning the JMRND, and then I will come back to the committee meeting.  Now, the MRND youths, did they have statutes for themselves?  
+A.	No, madam.  The JMRND was governed by the MRND statutes.  
+Q.	Now, let us move, Witness, to the second institution to which you were elected, that is, the communal committee.  How were the elections organised, on the basis of which documents or texts, Witness?  
+A.	Those elections were provided for by the MRND statutes, if my memory serves me right, because we had the national congress, and down the scale, we went right down to the basic org- -- the basic committees.  All those were provided for in the statutes.  It has been a long time.  I may forget certain details, but all that was provided for in the statutes of the MRND, up to the grassroots level.  
+Q.	Now, at that time in your work in the MRND, I see that you -- according to what you said, you joined in September or June 1991, and as soon as the first six months went by, you were up in the leadership in the organisation and in the commune.  Were there other candidates apart from you, Witness?  
+A.	Madam, please don't distort what I said.  It was not in June.  I told you that the constitution was adopted on the 1st of June.  The proposition was promulgated on the 1st of June, and that is the constitution that ushered in multipartyism.  It was not that date at which I joined the MRND.  I should like to be clear here.  
+Q.	I'm putting the question to you.  Give me the precise date of your -- your membership.  
+A.	Well, that is much simpler, instead of beating about the bush.  I joined the MRND in September, that is, two months after I finished secondary school.  That was September.  
+Q.	Very well.  We'll note it, September 1991, then.  In which secteur?  
+A.	Muhima secteur.  
+Q.	And you were elected as chairman of the youth wing of MRND.  For which secteur were you elected?  
+A.	I was elected, as I explained to you, madam -- just -- just wait, madam.  You know, there's something you're skipping.  I joined the MRND in September, and one month after that I was elected in Muhima secteur as chairman of the JMRND.  So you shouldn't say -- I didn't say that I joined the MRND the same day I was elected as chairman.  That would be a lie.  Don't skip this chronology.  Let me explain to you.  It was in Muhima secteur, October -- or, sorry, September, I was elected.  The Muhima secteur is in the Nyarugenge secteur, let me remind you -- the commune of Nyarugenge.  And Gaspard was the person that was to distribute membership cards for MRND members.  That is it.  
+Q.	Very well.  We have retained all the dates you have given us.  We will not dwell on these dates.  Now, let me go on.  I want you to answer questions concerning -- and this would give us a background as to your political activities.  As leader of the JMRND and as a member of the bureau, you, therefore, worked to disseminate the objectives of the MRND; is that correct, or am I wrong?  
+A.	Well, activities of the MRND, an ideology based on peace and national unity -- peace, unity, and national development, this is -- these are -- that was the slogan.  You are quite correct.  That is quite correct, madam.  
+Q.	Very well, Witness.  Now, we have talked about the meetings.  We have talked about your promotion.  You say that you were responsible -- you were a leader, but the statutes in the official journal, journal, of the 5th of August 1991, which was recorded or deposited by the MRND, does not show your name among the elected people for any post -- for any leadership post whatsoever.  I am surprised that your name is not there, Witness.  
+A.	Madam, I'm not here to lie.  I'm here to say the truth, and I believe that in the exercise of your profession, you should also be straightforward, tell the truth.  When you talk about the MRND statutes and the signatories, there are other -- you must talk about the other details too.  There are other details that you're omitting.  I don't know whether you -- you have prompters, as far as my testimony is concerned.  You have to phrase the truth and be able to say -- come here and be able to say that you are a member of the MRND.  I'm saying it.  I am not scared of saying that I was a member of the MRND.  I was a member of that party.  And at one time you said that you didn't want to comment about my resignation from the JMRND because, implicitly, you recognise that I was a member of the JMRND, but if you go to Kigali, you can go and consult the documents.  Go to Kigali, consult the documents.  Mathieu didn't bring all the documents which would show the members of the MRND.  Go to Kigali, get the documents, and you will see, yourself, that I was a member of the communal committee.  It was composed of ten people.  The chairman was Jacques Rusirari, and among the members there was also Angeline, who was the principal of a school.  There was Karekezi, Amri (phonetic), who, I believe, was the advisor for Nyamirambo secteur.  He was elected at the same time as myself.  
+
+I am not here to tell lies, madam.  All that I can tell you is that I was elected as a member of that committee.  You are telling me that my name doesn't appear anywhere among the signatories of the MRND statutes.  I will answer that I am not a signatory of the statutes of the MRND, in other words, the first time the statutes were established.  But I was elected as a member of the communal committee.  I have the impression that you're misleading this Chamber.  I was one of the members of the communal committee, madam, for Nyarugenge.  
+Q.	Very well, you were a member of the communal committee of Nyarugenge, but I want to underscore, because you said so in your preceding statements, I've cross-checked this, and I want to repeat that the statutes deposited, or filed, in August 1991 -- and this is not a document that was done after.  It was the official journal, or journal of the official republic of Rwanda.  It doesn't show your name.  This is what I wanted to say.  So far as your elections were concerned, you will see that you are not -- you are not anywhere in the structure, the official organisational chart, but you still say that you attended meetings --  we'll talk about that later -- meetings that were very important.  
+A.	Thank you for that date because you talked about the 9th of November.  It was the 8th of November 1990 or 1991?  Could you be more accurate so that I can react to the question of the statutes that were filed?  And please show the copy of the official journal to the Chamber so that I can make my comments knowledgeably, because I see Nzirorera giving you a copy of that official journal that you're talking about.  
+Q.	I think you're talking about something that you did not see, Nzirorera giving me a document, and I shall move -- I shall move, so far as the meetings are concerned.  I will not dwell on this.  
+MR. WEBSTER:
+May I request an offer of proof on this point?  Because I have one of the disclosures that were provided to me by the Defence this morning (inaudible) disclosure, and I do see a variety of dates.  And I'm trying to figure out which date -- or where Madam Hounkpatin is taking her date from August of 1991, because the section that she's been referring to, all I see is the date 5 July 1991.  So if she could direct us to exactly where she's -- what she's relying on to put this date to the witness, it would be helpful.  
+MR. PRESIDENT:
+Yes, Ms. Hounkpatin?  Ms. Hounkpatin, you may continue.  
+MS. HOUNKPATIN:
+I'm sorry, Mr. President.  I'm sorry, Mr. President.  
+MR. PRESIDENT:
+No, I was telling you, you may continue, unless you've finished your cross-examination.  
+MS. HOUNKPATIN:
+No, I haven't finished, Mr. President.  I saw that you were consulting with the registry following what the Prosecutor said concerning a document I filed this morning -- or I disclosed this morning.  It's true that I did file in the documents, and I shall disclose -- 
+MR. PRESIDENT:
+We are not making any comment about it.  We now have access to it.
+MS. HOUNKPATIN:
+Very well.  
+MR. PRESIDENT:
+But we hope in the future the notice will be better, but it's not necessary to comment now.  I was just telling you that you could proceed.  
+MS. HOUNKPATIN:
+Very well, Mr. President.  Let me, therefore, come back to the question I had for the witness.  Proud to conclude this issue of elections and leadership, I should like to know the congress at which he was elected, how was the congress organised, and then that would have taken me through the issue of leadership and official positions of the party.  
+THE WITNESS:
+I would like to apologise to Nzirorera because I was mistaken.  It was, in fact, a document which was given to Karemera.  But as for the date of the 1st of June 1991, if it was on that date that the statutes were signed, it would be obvious that I wouldn't be amongst the signatories because I had not as yet joined the party.  That is quite obvious.  I think you have understood me, Counsel.  And if I had said that I had joined the MRND before the date I mentioned, I would then understand that your question is well founded, but I did say clearly that I joined the party in September and that the elections, after which I was appointed to various posts of responsibility, came about only after September.  I hope you've understood me, Counsel. 
+BY MS. HOUNKPATIN: 
+Q.	Yes, I've understood you.  
+A.	Now, coming to your question concerning the organisation of the elections, the elections took place at the office of Nyarugenge commune.  First of all, committees at secteur level were elected, and then those who were elected within those committees elected those who were to represent the MRND at commune level.  Those who were elected at secteur level elected from amongst themselves those who would represent the MRND at commune level.  Those who were elected at commune level, in turn, organised elections amongst themselves for those who would represent the party in Kigali town.  In my regard, that is what I can say regarding the various positions to which I was elected.  
+Q.	Thank you, Mr. Witness.  There are two questions.  Speak about meetings which you referred to at length in your testimony, meetings which you situate between -- that you situate in February 1991.  Could you please tell me, what was the nature of those meetings, and how did they come about?  First of all, let's start with the first one, and what was the nature of that meeting?  
+A.	I shall speak in French so that Defence counsel understands me better.  Madam, the meetings which took place in that time were weekly meetings, as I had said to you earlier.  But there were three meetings which were like extraordinary meetings, although they were weekly.  The president of these meetings was, as always, Mr. Mathieu Ngirumpatse, and he brought us a new project which we hadn't seen earlier, that is, the project of that body or organisation, the Interahamwe.  He is the one who even mentioned that word for the first time in the beginning of February 1992.  He was the one who mentioned that term, "Interahamwe," and he said that these were people who he was bringing in order to be responsible for the leadership of the MRND, and the official -- the main official was Désiré Murenzi.  
+
+He also talked to us about the committee of those Interahamwe.  He said this during the first meeting.  He mentioned Robert Kajuga, who was the chairman of that body.  He showed us -- or introduced to us the vice-chairman who was Ruhumuliza, Pheneas.  He also introduced to us the second vice-president who was Georges Rutaganda.  He introduced the treasurer of the Interahamwe organisation, a man known as Eugene Mbarushimana, and Eugene Mbarushimana became son-in-law of Mr. Félicien Kajuga because he married his daughter, Winnie Kabuga (phonetic), and I was there.  I saw everything, madam.  It's not something that we are fashioning here.  And later on -- let me continue, madam.  I'm going to continue with the content of the first meeting.  I could see that you were going to interrupt me.  I don't know.  I'm going to speak the truth about what happened.  
+Q.	I'm listening to you, Mr. Witness.  
+A.	This was not election.  We were introduced to Ephreim Nzanzuwera or Nsabiwera, or something like that.  I can't remember his last name.  Ephreim was the secretary of the Interahamwe.  He was working at the Banque commercial Rwanda.  We were also shown one Bernard Maniragaba.  That gentleman was also appointed as advisor of the Interahamwe, but responsible for Gitega secteur.  There was also someone whom I had forgotten, someone who was referred to as Zuzu (phonetic).  And then -- and then during that meeting, we were shown people, and there were authorities present.  First of all, there was Désiré Murenzi, who was director-general of Petrorwanda; Charles Nyandwi, who was the chairman of the MRND in Kigali-rural préfecture.  There was also sous-préfet Vennus Nyumbayera (phonetic), who was sous-préfet of Kigali-rural.  There was also François Karera, who was, at the time -- I do not recall what his position was at the time, but he also became sous-préfet, if I'm not wrong, of Kigali-rural.  I no longer recall.  I apologise.  But he was also present.  And there was also someone who was known as Aloys Ngirabatware.  Ngirabatware was the person responsible for military training in Remera secteur, together with Warrant Officer Buramurenji (phonetic).  These people were present during that first meeting.  
+
+Subsequently, there were many people who were introduced, and later on, there was someone who was known as Benoit in the second meeting, Benoit, who was a broker.  Madam, there were many people.  So what I'm telling you, the first thing that Mathieu said on that day is that he was bringing this organisation to be responsible for animation in an in-depth manner, and we were understanding that this was someone exceptional within the MRND, and he did that on that day.  There were even other people who were brought, such as the members of the Presidential Guard, who were with the children of Juvénal Habyarimana, the president.  There were also other people who had cordolettes and pistols.  Madam, I saw these things with my very own eyes.  I'm not inventing anything, because I can also speak the truth.  I didn't come here to tell lies.  Nzirorera wasn't there; Karemera neither.  Why am I not saying that they were there?  And during those three meetings, I didn't see them attending.  It's Ngirumpatse who was chairing as chairman of the MRND in the préfecture of Kigali ville.  And this was in September.  He was responsible for the coordination of MRND -- MRND activities in the préfecture of Kigali ville.  That is how the first meeting went, madam, and that was the atmosphere that was prevailing. 
+(Pages 34 to 38 by Wendy Molnar)
+
+
+
+
+
+1715H 
+BY MS. HOUNKPATIN:
+Q.	Now, during this first meeting there were many people who were invited to a normal meeting which suddenly becomes an extraordinary meeting.  And these people are introduced as those who are going to be responsible for the entertainment, or the revival of the MRND? 
+A.	Yes, that is how it was, madam.  I haven't invented anything. 
+Q.	Now, the second meeting which took place, it did take place under the same context a week later, or two weeks later, and were there as many people or were there more people present? 
+A.	Madam, let me tell you, the second meeting had many attendants, if we were to compare it to the previous meeting, there were many people.  The ten persons consisting of the communal committee were invited, as well as those who were members of the préfectural committees.  We were brought together, and there were other people who attended that extraordinary meeting which took place, initially, and were not like the previous meetings.  
+
+The second meeting was similar; the number of people was -- the number of participants increased.  I am not sure whether you finished discussing --  
+Q.	I'm listening to you.  
+A.	Please concentrate.
+Q.	I was trying to concentrate on your answer.  You did make a solemn declaration, Mr. Witness?
+A.	That was the second meeting.  The answer was that people came in larger numbers than during the first. 
+Q.	In reference to your examination-in-chief, you mentioned, and you have just said so, again, that there were members of -- préfectural committee members, so it was an open meeting.  And could the leaders of the committees attend, or maybe I misunderstood you? 
+A.	I did say that the committees of the local -- the local authorities of the préfecture of Kigali ville took part.  As I have said, the lady who represented Muhima secteur was there and she had a role -- she had an administrative role, if I can put it that way.  I'm talking about MRND members.  It is not anyone who came to attend those meetings, you see.  So the authorities that I referred to were the authorities who came to attend the meeting.  Maybe they were informed, I don't know anything about that, because we attended the meeting and I found them there.  So, it was a meeting which was ordinarily, a weekly meeting, but it became extraordinary; maybe it was because these people were attending that meeting. Do you understand me, madam? 
+Q.	The third meeting, did it go about the same procedure? 
+A.	I do not quite understand the procedure you are stressing, because I am also trying to explain to you -- 
+Q.	You had told me that these were normal weekly meetings to which other members were invited who normally did not attend.  I want you to confirm whether for these three meetings it was the same style? 
+A.	Yes, it was the same style, but I think you are asking me -- or you were asking me about the form and not the format.  But I would say that the form was the same but the number of attendants increased each time there was a next meeting. 
+Q.	Insofar as you made a distinction between the form and the basics, from the first meeting you said that, in general, everyone was informed, that it was a matter of entertainment and the same thing for the second meeting.  Now, the attendance did not reduce in number?
+A.	No, no, madam.  And this is why I was telling you that if you say something about the increase in numbers, I want us to look only at the numbers.  But the basics of what was said in the first meeting and the others was not the same in the second meeting, nor in the third meeting.  This is why I am saying that if we are going to stick to the form, we can talk about the number, but if we are going to come to the substance, let's say that things were different.  We must see whether the form and the substance were the same. 
+Q.	Very well.  Now, let's go to the form, the weekly meeting which is suddenly transformed into an extraordinary meeting with many attendants, and the form is the same for all three, but the substance will change.  Now, can you please tell us about the substance? 
+A.	Very well, now you have got it.  The first thing that Mathieu Ngirumpatse had said during the first meeting, as I have said, his objective was to deal with entertainment.  But during the second meeting the theme changed completely.  The words that were said by Mathieu Ngirumpatse himself were "The Tutsi are threatening us everywhere we are.  The members of the Inyenzi Inkotanyi are threatening our members, and that is why we need to react.  This Interahamwe organisation has been brought to ensure the protection of our members, the protection of our emblems, such as our flag.  And then to fight the Inyenzi Inkotanyi.  These Inyenzi Inkotanyi," that is what was being said then, "They are trying to pursue our members.  Our members of the MRND, they are Tutsi and belong to the opposition political parties." 
+
+During that meeting also Mr. Bikindi, together with Mr. Soukar (phonetic) started to present a song which had been prepared earlier which was called Tuba TsembeTsembe, which means "Let us exterminate them."  Tuba TsembeTsembe; in other words, no one should survive, in other words, no one should escape these massacres.  So the second meeting, things changed completely.  During that meeting, Mathieu Ngirumpatse himself, I'm not going to lie, he is here, I cannot speak lies here, I'm telling the truth and only the truth, Mathieu Ngirumpatse himself was involved.  He was very angry on that day.  That is when he started to say, "We must begin to fight these enemies.  And these enemies" he said, "anyone who is a Tutsi and anyone who protects the Tutsi;" in other words, the opposition parties.
+
+Later Kajuga Robert took the floor, Robert Kajuga who was the president or chairman of the Interahamwe, he himself said, "These fools, we must pursue them wherever they may be."  He was supporting Mathieu Ngirumpatse.  He was supporting what he had just said.  And later Kajuga was introduced, and there was a drawing made of axes which was to be considered a weapon.  What can I say, for guillotining those who were referred to as the Inyenzi Inkotanyi.  We were shown this as a drawing, it wasn't present.  
+
+Now, coming to the third -- third meeting that those axes were shown which were imported by Gaspard.  Now, we will come to the third meeting, but what I've forgotten about the second meeting is Ngirabatware and Urimubenshi were introduced, Ngirabatware and Mbarushimana -- Mbarushimana, that is how they were referred to.
+
+Let me continue, madam, I don't know whether you want to interrupt me, or whether I have -- you have a question to put to me.  
+Q.	Yes, I can put a question to you now, if you allow me? 
+A.	Yes, I do allow you. 
+Q.	Very well, thank you.  Briefly, I want to express my surprise somewhat.  Among all of these people who were present, you stated that the venue of the meeting, in other words, the building in which you were meeting belonged to one trader, who was a Tutsi.  You mentioned a certain number of MRND officials who were Tutsi.  I would like you to express to me what was their reaction to start with, when these words were being spoken by Mr. Ngirumpatse during this second meeting? 
+A.	Thank you, madam.  First of all, there was Rubangura, the trader, he was there as a trader.  We should not mix oranges and apples.  He was there for his trade.  He was the one who was to come and ask that the building be rented.  And he could provide that building for rental and this is how Rubangura Vedaste gave the building.  He didn't attend the meetings.  He didn't even know what was being said in that building, because I never saw Vedaste Rubangura in that building.  I never saw him there, at least, not in the meetings.  
+
+And people like Jacques Rusirari who was present, as Desire Murenzi, later they resigned.  They didn't even come to the third meeting. The third meeting, after Bikindi remarked that the objective was to set up the Interahamwe, and not to provide entertainment.  What did he do?  Desire Murenzi pure and simple, gave in his resignation and fled to Belgium.  I'm not lying, this actually happened at the time.  If you were there, if you had been there you would know.  I was about to use a word that is not appropriate in this forum, I will hold back and not say that word.  
+
+What I am telling you, at any rate, madam, is that Rusirari Jacques, who was chairman of the MRND for Nyarugenge commune and Desire Murenzi, who was a member of the committee, the central committee of the MRND, resigned to flee to Belgium.  He turned in his resignation as he was taking the plane for Belgium.  We learned of it that same day, about Desire Murenzi and what he did.  If you want any information from him, you can write to him if you have his address and he can explain to you how it all happened.  And Rusirari also said goodbye to the MRND.  
+Q.	Witness, at this stage I should like to remind you that this is the first time we have heard your theory.  And even the Prosecution didn't advance that theory, so that is why I am giving you an opportunity to explain your theory.  It is in complete contradiction with --  
+A.	Which theory -- yes, it's in the document.  It's in the statement that I made to the Prosecution.  I said that Desire Murenzi resigned, as did Jacques Rusirari.  I said that they left the party.  If the Prosecution didn't want to give you these documents, you have to ask them for them, but I have given the documents.  I have made my statements already.  
+
+The first was made on the 20th of January 2001 while I was still in prison.  And in that statement I repeated -- I, rather, said everything I have just repeated now. 
+Q.	I completely agree with that, with regard to your statement of 2001.  But I'm talking about the Prosecutor's theory, which is different from your statement.  And all of the new things that you have said with regard to that theory.
+A.	This is nothing new, Madam, nothing is new here.  Perhaps you are not understanding what I am just saying.  
+Q.	I understand very well, and I have written down everything you have said.  You are telling half truths about the meeting.  You spoke about a rented  building, that wasn't the case.  For someone who knows how the MRND functioned in Kigali, you say the people you mentioned left the MRND, that is not absolutely how things happened.  But we will stick to your statements, Mr. Witness?
+A.	Madam, please don't confuse me.  What I told you is that when Mathieu Ngirumpatse became national chairman of the MRND, he began to be paid.  As a paid employee, he was in charge of coordination for the party.  madam, I'm speaking to you. 
+Q.	Mr. Witness, the ears are used for hearing, aren't they? 
+A.	This was in April, after the national congress, in April 1992.  Do you understand me, madam?  This is when Mathieu Ngirumpatse was elected as the national secretary.  After that point, he began to receive a salary; that is what I said.  
+
+	With regard to the rented building, the MRND rented the building, it wasn't provided free of charge.  The owner is a businessman.  Perhaps Mathieu Ngirumpatse has a relationship with Vedaste Rubangura, and perhaps he can explain how the building was provided.  But I know very well that Vedaste Rubangura has a lot of properties in town and that he rents them to anyone who has the money to rent them.  Anyone who wants an apartment or to rent one of his buildings can do so.  That is what I am telling you, ma'am.
+
+So I would like us to clear up that confusion.  Please don't try to confuse me.  Please don't try to mix things up in my head.  
+Q.	Witness, I'm simply asking you questions and I'm asking you to answer them? 
+MR. PRESIDENT:
+Ms. Hounkpatin, it is now 5:35.  You have seen our scheduling order; we want to stop at 5:30 every day.  When you come to a convenient time, you should wind up for the afternoon.  
+MS. HOUNKPATIN:
+Mr. President, you are in control of these proceedings.  If you wish for us to adjourn, we shall do so. 
+MR. PRESIDENT:
+We will take the recess now.  
+
+Mr. Witness, as I have told you at every adjournment, and I remind you, again, you remain a witness during the adjournment and you are not to discuss the case with anybody.  
+
+We adjourn until tomorrow morning.  
+(Court adjourned at 1735H)
+(Pages 39 to 43 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Wendy Molnar, Donna M. Lewis and Gifty C. Harding, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Wendy Molnar 
+
+
+___________________________	Donna M. Lewis
+
+
+___________________________	Gifty C. Harding  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	MONDAY, 26 SEPTEMBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	MONDAY, 26 SEPTEMBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 7
+
+	KAREMERA ET AL	MONDAY, 26 SEPTEMBER 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 11
+
+	KAREMERA ET AL	MONDAY, 26 SEPTEMBER 2005
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 33
+
+	KAREMERA ET AL	MONDAY, 26 SEPTEMBER 2005
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 38
+
+	KAREMERA ET AL 	MONDAY, 26 SEPTEMBER 2005
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 43
+
+	KAREMERA ET AL		MONDAY, 26 SEPTEMBER 2005
+
+ICTR - TRIAL CHAMBER III
+

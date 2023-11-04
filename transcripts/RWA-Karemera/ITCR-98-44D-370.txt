@@ -1,0 +1,615 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+
+
+THURSDAY, 11 NOVEMBER 2010
+1126H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+		
+For the Prosecution:
+	Mr. Don Webster
+	Ms. Maria Wilson
+	Mr. Takeh Sendze
+	Ms. Sunkarie Ballah-Conteh
+	
+For the Accused Édouard Karemera:
+			 Mr. Moussa Félix Sow
+	
+For the Accused Mathieu Ngirumpatse:
+	Mr. Frédéric Weyl
+
+Court Reporters:
+		Ms. Kirstin McLean
+		Ms. Deirdre O'Mahony
+	Ms. Tanya West
+		
+I N D E X
+
+WITNESSES
+
+For the Defence:
+PHILIPPE RUKABYA TORERO 
+Examination-in-chief by Mr. Weyl	4
+Cross-examination by Mr. Sendze	5
+Re-examination by Mr. Weyl	9
+
+WITNESS XZY
+Examination-in-chief by Mr. Weyl	11
+Cross-exmaination by Mr. Sendze	12
+
+EXHIBITS
+
+Exhibit No. D. NG154	5
+Exhibit No. D. NG155	5
+Exhibit No. D. NG156	11
+Exhibit No. D. NG157	12
+Exhibit No. P. 549	20
+Exhibit No. PID. 68 (marked for indentification)	20
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. HOMETOWU:
+Thank you, Mr. President.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam and Judge Vagn Joensen, is now sitting in open session, today, Thursday, the 11th of November 2010, for the continuation of the trial in the matter of the Prosecutor versus Karemera et at, Case No. ICTR-98-44-T.  Thank you.  
+MR. PRESIDENT:
+Thank you.  The appearances are the same.  
+MR. WEBSTER:
+Actually, I do have a slight amendment, Your Honours.
+
+Good morning to everyone, to the Court, and to the parties.  The Court may be familiar with the person that is seated behind me, Mr. Aidan Leonard, because he was here as an intern I believe one or two years ago, but he has come back to join us in the trial.  So I would like to introduce him, or reintroduce him, as an attorney from the US.  So he will be with us for probably the duration of the trial. 
+MR. PRESIDENT:
+Thank you, Mr. Webster.  And we extend our welcome from the Trial Chamber to Mr. Leonard, and we hope he has a successful and satisfactory tour of duty.  
+
+Good morning, Mr. Witness.  
+THE WITNESS:
+(Microphone not activated) 
+MR. PRESIDENT:
+Mr. Issa, the witness may need some assistance.  
+THE ENGLISH INTERPRETER:
+Mr. President, the Kinyarwanda booth cannot hear the witness.  
+THE WITNESS:
+Good morning, Your Honour.  
+MR. PRESIDENT:
+Mr. Witness, what language are you going to give your testimony in?  
+THE WITNESS:
+I will testify in French. 
+
+MR. PRESIDENT:
+Thank you.  
+
+Yes, Mr. Weyl.  
+MR. WEYL:
+Mr. President, I would like to extend my respect to the Trial Chamber and inform the Trial Chamber that, if this has not been done yet, the witness has expressed his desire to testify publicly and openly.  And he has expressed this, his intention, to WVSS to the effect that he intends to testify openly and therefore waive his protective measures.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Witness, the Chamber had previously made an order for your protection for security reasons.  Counsel has advised that circumstances have changed and that those protective measures are no longer required, and that you are willing to testify openly so that your identity would be revealed to the public.  
+
+Can you state what your position is, please.  
+THE WITNESS:
+Yes, I confirm that, Mr. President.  
+MR. PRESIDENT:
+All right, thank you.  Have you testified before any -- any other cases in this Tribunal?  
+THE WITNESS:
+Yes, I have already testified before this Tribunal. 
+MR. PRESIDENT:
+When you testified, were you testifying under a pseudonym or did you use your own name?  
+THE WITNESS:
+In some cases I testified as a protected witness, whereas in other cases I testified openly, using my name.
+MR. WEBSTER:
+Your Honour, the perhaps the Court could ask the witness if the last case that he testified in, the most recent in time to his appearance today, is the one in which he testified openly.  That would resolve the problem.  
+MR. PRESIDENT:
+Witness, did you understand the question as put by the Prosecutor?  
+THE WITNESS:
+Yes, I understand the question.  With your leave, I could answer it.  
+The last case in which I testified openly was in the matter of the Prosecutor versus Mr. Kanyarukiga. 
+MR. WEYL:
+Mr. President, with your leave, I would like to tell the witness that his answer in French was ambiguous.  
+
+Mr. Witness, in that case -- did you testify in that case for the last time in this Tribunal, that is, before coming here today?
+THE WITNESS:
+Yes, that is correct.
+MR. WEYL: 
+So, in your last testimony here you testified openly without protective measures, right?
+THE WITNESS:
+Yes, that is correct.
+MR. WEYL:
+Thank you, Mr. Witness. 
+
+And I would like to apologise to you, Mr. President, for having interrupted in this.  
+MR. PRESIDENT:
+(Microphones overlapping)...had said that before.  
+
+You testified in your own name in the Kanyarukiga case, Mr. Witness; is that the position?  
+THE WITNESS:
+Yes, that is correct.  
+MR. WEBSTER:
+Your Honour, I'm looking at the transcripts and it's a testimony from 2010, February, and what I see is that the witness is not designated by a pseudonym.  He is designated by his name.  I can go through the transcripts more carefully and find a specific passage on the protective measures, but I think that my preliminary indications should provide a basis for this Chamber to go forward.  
+MR. PRESIDENT:
+Thank you, Mr. Webster.  We agree -- we have accepted that, and we have decided that we would revoke the protective measures that we ordered in favour of this witness.  So we make the order of revocation now.  
+
+Mr. Witness, before you testify you have to take an oath to tell the truth, and the registrar will now assist you to do that.  
+(Declaration made by Philippe Rukabya Torero in French) 
+MR. PRESIDENT:
+Witness, you will know you have been recalled to be cross-examined on the written statement that you have provided to the Trial Chamber.  But we will allow Mr. Weyl to introduce you to the Trial Chamber, and thereafter you will have to be cross-examined by the Prosecutor.  
+MR. WEYL:
+Thank you, Mr. President.
+PHILIPPE RUKABYA TORERO, 
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. WEYL:
+Q.	Good morning, Mr. Witness.  
+A.	Good morning. 
+Q.	Mr. Witness, before introducing you to the Trial Chamber, I will request you to comply with procedural rules regarding the fact that both of us are testifying (sic) in French.  Therefore we should allow -- we should give ample time to the interpreters to interpret us, firstly by speaking at a moderate pace as kindly -- by observing a pause between questions and answers.  And if you use -- if you use proper names, please spell them when you are using such names for the very first time so as to allow not only the interpreters but the court reporters to transcribe them properly.  
+
+Now I'm going to request you, Mr. Witness, to tell the Trial Chamber what is your name, and please spell your name.  
+A.	My name is Rukabya Torero, Philippe.  Rukabya is written R-U-K-A-B-Y-A, T-O-R-R-O (sic), and Philippe is spelt P-H-I-L-I-P-P-E.  
+Q.	Mr. Rukabya Torero, can you tell the Court what is your date of birth.  
+A.	I was born on the 25th of May 1965. 
+Q.	Mr. Rukabya Torero, please read attentively the personal identification sheet in front of you, and if need be make the necessary corrections, after which I will request you to write today's date, that is, the 11th of November 2010, and then sign that document.  After doing that, I shall request Mr. Issa to get the document from you.  
+A.	The information in the document in front of me is accurate.  
+MR. WEYL:
+Mr. President, I would like to request the Trial Chamber to enter into evidence this document as Exhibit D. NG154.  
+
+I would also like to request the Trial Chamber to admit into evidence the written statement, which -- as D. NG155.  
+MR. PRESIDENT:
+Admitted in evidence.  
+(Exhibit No. D. NG154 admitted) 
+(Exhibit No. D. NG155 admitted) 
+MR. WEYL:
+Thank you, Mr. Witness (sic).  
+BY MR. WEYL:
+Q.	Mr. Rukabya Torero, you will now answer questions put to you by counsel for the Prosecution.  Thank you.  
+MR. SENDZE: 
+Good morning, Mr. President, Honourable Judges; good morning to everybody.  
+CROSS-EXAMINATION 
+BY MR. SENDZE:
+Q.	Mr. Rukabya, good morning.  
+A.	Good morning, Mr. Prosecutor.  
+Q.	At paragraph 3 of your written statement, which has just been admitted by the Trial Chamber, you stated that civilians were being trained in Bugesera.  When did this training take place?  
+A.	I said that civilians were trained in Bugesera because there was a military training centre known as the Mugesera (sic) military training centre.  All training courses given to soldiers who were not officers, in other words the rank and file, the training course was dispensed at that centre.  The rank and file in the Rwandan army were trained at the Bugesera military training centre.  And this had been going on since I came to know of the existence of the Rwandan army. 
+Q.	Witness, my question was:  When were the civilians trained in Bugesera?  When?  What year?  
+A.	Thank you for that clarification.  However, I think that this question is quite confusing, because every year there were training courses dispensed to soldiers at that centre.  Even during the wartime.  
+Q.	Just listen carefully:  In your statement, you said that civilians were trained at Bugesera.  I want to find out from you:  When did such training begin, training of civilians? 
+A.	As I'm saying, that question is somehow confusing.  Because in order to dispense training courses, there is a procedure.  First, you should recruit people and train them, and train soldiers who will serve their country under the country's ministry of defence.  So when you ask me, when did the -- when you asked me, when did the training of civilians start, I would say that the answer is, since Rwanda acceded to its independence.  That was the case at that military training centre.  
+(Pages 1 to 5 by Kirstin McLean)
+
+
+
+
+
+
+
+1145H
+MR. SOW:
+Excuse me, Counsel for the Prosecution, could you please tell us -- with regard to the 13th March 2010 statement, can you tell us where is that information contained.  Where is the portion which talks about civilians being trained?  
+MR. SENDZE:
+	At the beginning of my question I referred to paragraph 3 of the witness's statement, which says in French -- and I'll try reading in French:  "The only training centre which accepted civilians was the Bugesera training centre."  
+BY MR. SENDZE:
+Q.	So that is what you have said in your statement.  What I am trying to find out from you is when did the training of civilians begin at the Bugesera training centre?  
+A.	Counsel for the Prosecution, I think that maybe this is you -- too my fault.  But I still think that the question remains confusing.  For there to be a training course -- for someone to be trained, firstly, there was the recruitment act and the ministry of defence recruited people through official announcements.  There are recruitment periods and then there are the procedures to be followed, which started at the level of the local governments, that is, in communes and préfectures.  Then the recruits would be taken to the training centre, which we had at Bugesera.  It was a military training centre which was used as a military training centre. 
+Q.	Okay.  Okay.  So you are talking about the regular procedure for training soldiers.  In this same statement that you certified, you stated in another paragraph, which I would refer to momentarily, I think paragraph 4, that no training took place in Bigogwe or at Mukamira camp.  Am I to understand that what you were saying is that soldiers in Rwanda were only trained at Bugesera and in no other camp around the country? 
+A.	No, it's the opposite.  What you are saying is the opposite of what I said.  The other military camps -- 
+Q.	Because this is what you say in paragraph 4 -- and I'll try to read in French:  "I never saw or heard about the training of civilians in the Mukamira military camp, or in -- at the Bigogwe camp, or in any other military camp during the events."  That is what -- that is what you have said in your statement in paragraph 4.  
+
+So if I am to follow your answer in relation to paragraph 3, what you are saying is that no persons were trained in Mukamira and Bigogwe.  Is that -- is that correct? 
+A.	There's something missing.  You should specify that you're talking about civilians when you are talking about Mukamira or Bigogwe.  What I said is that, to my knowledge, I never heard or see any such training of civilians in those camps, yes. 
+Q.	But when I asked you about civilians being trained in Bugesera, you seemed to give me the impression that you did not understand the class of people I was referring to.  I am referring to the same kind of civilians whom you say you did not see being trained in -- in Bigogwe.  Were these civilians trained in Bugesera; yes or no? 
+A.	Yes.  Civilians recruited to join the military were trained at Bugesera.  I think that I have already said yes. 
+Q.	And civilians recruited to train the army were never trained in Bigogwe and Mukamira and the other military camps around Rwanda? 
+A.	No. 
+Q.	So what class of persons were trained in Bigogwe and in Mukamira? 
+A.	Firstly, let me make it clear, at Camp Mukamira there were no training as such.  Mukamira camp was a military camp which accommodated soldiers who had already been trained and who had already been trained as commandos.  So those were trained soldiers and those trained soldiers formed a unit known as the M Battalion, which was referred to as the Ruhengeri commando battalion based at the 
+	Mukamira military camp. 
+
+Then there was the commando training centre at Bigogwe.  It was also a military camp which was also used as a commando training centre.  Soldiers trained at that commando training centre were soldiers who had already completed their -- their training at the Bugesera training centre.  And after Bugesera, they were transferred to the commando training centre at the Bigogwe military camp.  I think that I have answered you. 
+Q.	You agree that what you have just described relates to the ordinary course of business as far as these military camps are concerned? 
+A.	Yes. 
+Q.	Were you ever posted at Bigogwe? 
+A.	No. 
+Q.	You were, therefore, never really physically in Bigogwe to say for sure that civilians were not being trained at the Bigogwe camp; correct? 
+A.	Let me clarify.  Firstly, I was trained at the Bigogwe commando training centre.  More specifically, I obtained my commando qualification in 1989. 
+Q.	I am not referring to the period where you were -- when you were being trained as a military officer.  You were never posted to work at Bigogwe. 
+A.	I have never been posted to Bigogwe, yes.  But to be physically at Bigogwe is something else, because I had been to Bigogwe physically, even after my training, even during the period when I was based at Camp Mukamira. 
+MR. SENDZE:  
+Mr. Issa, please assist.  What I am going to be referring to is what has been admitted as an exhibit in this trial, P. 199.  And I'm handing up the French copy to the witness. 
+
+BY MR. SENDZE:  
+Q.	Witness, please look at point number 2.3 of that document.  I think it's on the second page in the French version.  Do you see the highlighted portion? 
+A.	Yes, I can see that part. 
+Q.	Could you kindly read that highlighted portion very slowly. 
+A.	"In Ruhengeri and Gisenyi préfectures, the call -- the call was launched for the organisation of 
+	civilian resistance, and that call seems to have been followed immediately by concrete acts.  Thousands of young people went for training courses to Bigogwe, as well as to Ruhengeri."  
+Q.	Now, does that suggest to you that young men were being trained in Bigogwe? 
+A.	Yeah, that's what the suggestion is.  However, you have to look at the date, 18th and 19th of April 1994. 
+Q.	Yes.  Yes.  But your testimony before now was that youths were never trained at Bigogwe.  Are you now willing to change that position? 
+A.	No, that does not change my position, because I want to say that at that time Rwanda -- or half of what was known as Rwanda was at war.  The Bigogwe and Bugesera training camps no longer existed.  In other words, they were not in the hands of the government forces.  So the training courses were dispensed elsewhere, maybe in areas which were not yet occupied.  So I'm not changing my position when you put to me a general question regarding the fact that training courses were dispensed at the centre.  Maybe the time changed, maybe the circumstances changed, but not my position. 
+Q.	Are you suggesting that this training that is being referred to by the minister of defence and Mr. Édouard Karemera did not take place? 
+A.	Perhaps it is true that it may have taken place, but over the certain period of time the country was already in danger.  Half of the territory had already fallen to RPF rebels.  Therefore, if at all it was implemented during that period when part of the country was not free, that is possible.  Nevertheless, training was in military camps, as you suggest. 
+Q.	And -- and, Mr. Witness, really, for your own information, it is not true that in April -- or 18th or 19th of April 1994 the RPF had taken over Gisenyi where Bigogwe is located.  You agree with that fact, don't you? 
+A.	No.  Up to that date, no. 
+Q.	So why are you talking about the -- the RPF having taken over that part of the country, such that military training could not be organised at Bigogwe camp? 
+A.	Mr. -- or, rather, Counsel for the Prosecution, I think you should look at a map.  Bigogwe is located in Gisenyi, and the military training centre of Bugesera is located in Kigali, in the eastern part of Kigali, around the south.  The northern part of the country -- 
+Q.	We are not talking about Bugesera.  We are talking about Bigogwe.  It's in Gisenyi.  
+A.	That's correct.  That's correct.  Yes.  You said that around the 19th of April, Bigogwe, what was already taken.  No, it was still under government forces and the problem was on the other side. 
+Q.	I thank you.  Let's not -- let's not be distracted.  Gisenyi was under government control.  We have the minister of defence and Mr. Édouard Karemera reporting here that young men were being given training in Bigogwe and in Ruhengeri.  You have no reason to challenge this information, do you?  
+A.	I was precise.  It depended -- it depended on the circumstances of the moment.  That happened in Bigogwe or Ruhengeri because those areas were not yet occupied by the RPF forces.  The other areas where training should have been taking place, it was already chaos. 
+Q.	Thank you.  One last thing:  Mukamira camp is in Ruhengeri; isn't it? 
+A.	That's correct.  It's between the two préfectures of Gisenyi and Ruhengeri. 
+Q.	Thank you, Mr. Witness. 
+MR. SENDZE:
+Mr. President, that brings us to the end of our cross-examination. 
+MR. PRESIDENT: 
+Thank you, Mr. -- 
+
+Mr. Weyl, any redirect?  
+MR. WEYL:
+I will try to be very brief, Mr. President, in an attempt to provide clarification.  Perhaps there may be some difficulty relating to the precise meaning of the terms used by the witness in his evidence. 
+RE-EXAMINATION 
+BY MR. WEYL:
+Q.	I would like you, Witness, to tell us the group of people from amongst which soldiers are recruited.  
+A.	Normally, soldiers are recruited from among the young people of the population who are aged between 18 and 24. 
+Q.	Before being a soldier, what -- or, before becoming soldiers, what is their status? 
+A.	They are civilians, perhaps students or unemployed people. 
+Q.	That's enough, Witness.  Before being soldiers they are civilians; is that correct? 
+A.	Yes. 
+Q.	Very well.  What happened in Bugesera?  What category of people was received?  
+A.	Young civilians were received there for training, for training as soldiers. 
+Q.	And after they were trained, what did they become? 
+A.	Once they were trained, they became soldiers and posted to military units, working everywhere in the country. 
+Q.	Witness, when you say that civilians were received at the Bugesera training centre or camp, what do you mean by receiving civilians? 
+A.	By receiving soldiers, what I meant is receiving new recruits who were going to be trained in order to become soldiers.  So receiving meant that -- that our staff would receive the young recruits.  They receive them from their areas of origin, and they are -- they are brought in in military vehicles from various parts of the country.  They are -- arrive at the centre; then they are received, meaning that they are registered.  And the next thing to be done is the training -- training provided by the centre. 
+Q.	I thank you, Witness.  I have a last question. 
+
+In the Mukamira military camp, or in the Bigogwe camp, or in any other military camp, were civilians ever received who subsequently remained civilians? 
+A.	No.  My answer is a categorical no.  To elaborate, the Mukamira camp, as well as the other camps, received soldiers who had already been trained.  In those camps, perhaps they could continue receiving military training.  But once they were in those military -- military camps, whatever be the military camps, they were soldiers with service numbers and with all that is entailed.  In other words, they were paid; they were housed; they were registered as soldiers.  That is what happened. 
+Q.	Thank you, Witness, for that clarification.  I have no other question.  I thank you for your efforts to unearth the truth. 
+MR. WEYL:  
+Mr. President, Your Honours, I have no other questions in the redirect examination of this witness.  Thank you. 
+
+But, as usual, can I make the application, the usual application and request the Chamber to authorise the witness to visit the Accused, if he so wishes.  
+THE WITNESS:  
+Yes, it is my wish. 
+MR. PRESIDENT: 
+Thank you.  Now, your testimony is now concluded and you are excused.  The registrar will make the arrangements to facilitate the request made by counsel.  So we thank you for assisting the Tribunal in its work, as we do all witnesses.  But you are now excused. 
+THE WITNESS:
+Thank you, Mr. President. 
+(Witness excused) 
+MR. WEYL:
+Mr. President, the next witness, XZY, expressly expressed the wish to continue being protected, as ordered by the Chamber, so he will be testifying as a protected witness in this court. 
+MR. PRESIDENT: 
+Thank you for the information. 
+(Witness entered courtroom)
+MR. PRESIDENT: 
+Good afternoon, Mr. Witness. 
+
+Mr. Registrar, the witness seems to need some assistance with his sound system. 
+THE WITNESS:
+Good afternoon, Mr. President. 
+MR. PRESIDENT: 
+Now, Mr. Witness, before you begin to testify, the -- you have to take an oath to tell the truth.  And the registrar will now assist you to do that. 
+(Declaration made by Witness XZY in Kinyarwanda) 
+MR. PRESIDENT: 
+Now, you have been brought to the court so that you could be cross-examined on the written statement that you provided to the Tribunal.  But before the Prosecutor begins his -- to question you, I'll ask Mr. Weyl, counsel for Ngirumpatse, to introduce you to the Tribunal. 
+MR. WEYL:
+Thank you, Mr. President. 
+WITNESS XZY,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. WEYL:  
+Q.	Good morning -- or, good afternoon, rather, Witness.  
+A.	Good afternoon, Counsel. 
+Q.	Witness, you are a protected witness.  You're testifying as a protected witness, and for your status as a protected witness not to be violated, it will be necessary for you not to make any utterance that may lead to your being identified.  So, for example, I'm not going to ask you to give your name to the Court.  I will ask you to read carefully the written document before you.  
+
+Check -- check it to make sure that it does not contain any error.  If it doesn't contain any error, I will request you to put today's date on it, that is, 11 November 2010, and to sign it. 
+A.	The information in the sheet are -- is correct. 
+Q.	I thank you.  I will now ask you to date it 11 November 2010 and to sign it. 
+MR. WEYL:  
+I will now ask Mr. Issa to assist us by showing the document to the Bench and the parties. 
+
+Mr. President, please kindly admit into -- as an exhibit this document, that is, Exhibit D. NG156, 
+	under seal.  D. NG156, under seal, Mr. President. 
+MR. PRESIDENT: 
+Admitted, under seal.  
+(Exhibit No. D. NG156 admitted, under seal) 
+MR. WEYL:
+Similarly, Mr. President, I would like to have admitted as a document under seal, and that's
+	Exhibit D. NG157, the written statement taken from this witness, a statement that has already been certified. 
+MR. PRESIDENT: 
+Admitted, under seal. 
+(Exhibit No. D. NG157 admitted, under seal) 
+MR. WEYL:
+I thank you, Mr. President. 
+BY MR. WEYL:
+Q.	Witness, I have completed your introduction to the Court.  I will now -- or, rather, it is now up to the Prosecution to put questions to you.  But I would strongly like to draw your attention to the need not to say anything that would cause your identity to be revealed to the public.  I thank you, Witness. 
+CROSS-EXAMINATION 
+BY MR. SENDZE:
+Q.	Witness, good afternoon.  
+A.	Good afternoon, Counsel. 
+Q.	In your written statement that has just been admitted as an exhibit, you stated that you pleaded guilty to distributing weapons to members of the population.  Please tell us when was it that you distributed these weapons? 
+A.	Are you asking me to tell you the date when I distributed the weapons in question?  I do not know exactly the detail that you want from me.  Is it the date or the month?  
+Q.	If -- 
+A.	Do you understand me, Counsel?  
+Q.	If you know the date, the month and the year, you can give it to us.  But if you only know the year, that will still be sufficient, or the month, so -- 
+A.	It was in 1994, in the month of April.  I do not remember the exact date. 
+Q.	What kind of weapons did you give to the members of the population? 
+A.	I do not know the make or type of weapon.  There were soldiers who had formed themselves in a group for the purpose of eliminating the enemy, namely, the Tutsi, and to destroy the homes of Tutsis. 
+Q.	So they gave you guns.  The -- the nature of the weapons you distributed were guns and other -- 
+A.	Yes.  There were firearms.  And the firearms came from the préfecture. 
+Q.	Do you remember who in particular handed over these firearms to you?  And please do not mention the name, because it may compromise your identity.  If you do remember, please say so and then you will write it on a sheet of paper.  Do you remember the person or persons who gave you these weapons? 
+A.	There were police officers who brought the firearms.  As regards the group I mentioned earlier, it was soldiers who set up the group, and it is the soldiers who started killings at that place.  I do not remember the name of the person who brought the firearms referred to.  I know that that person was a secretary. 
+Q.	And the soldiers you are referring to were soldiers of the Rwandan armed forces; correct? 
+A.	Yes, that is correct.  There were government soldiers, but there were also gendarmes.  So there was soldiers and gendarmes. 
+Q.	So the -- the members -- now, do you recall if there were any elements of the Presidential Guard amongst them? 
+A.	I could not distinguish between them.  I know *************************** in particular.  He lived in the area.  He came to tell us that they had been asked to destroy the homes of Tutsis and to kill the Tutsi.  But the lieutenant who had set up the group I referred to, I did not know him.  I, nevertheless, knew that there was someone who gave that order, but I did not see the person. 
+Q.	You were not informed who had given the order, even though you didn't see the person? 
+A.	The person I know is ***************************.  He is the one who encouraged others to kill.  In fact, I was surprised because it was said that there was security, even though people were dying everywhere and looting was going on everywhere.  I almost lost my life.  The ********** said:  "You have been asked to eliminate the enemy."  And that's all.  The ********** I am referring to is ****************.  He ************ ******. 
+Q.	So you followed the instructions and you did distribute these weapons to civilians in your locality; correct? 
+A.	There was that group which had been set up.  It was the members of that group, or the troops of that group who decided who to give the weapons to.  They are also the ones who decided on how the weapons were going to be used.  I know very well that the Gacaca court concerned has a document which gives the details of all this.  I know very well that people were convicted and asked to pay damages for having destroyed houses and other property. 
+Q.	Did you have elements of the Interahamwe in your local -- in your locality? 
+A.	As regards the Interahamwe, after President Habyarimana's plane was brought down -- in fact, from that moment on, all Hutus were mobilised and the Hutus were saying:  "The Tutsis are going to kill us.  They are going to exterminate us."  That is when gendarmes started carrying out killings, and the gendarmes gave orders for Tutsis to be killed.  That is what happened at the location where I was. 
+Q.	And the gendarmes were joined by the Interahamwe to carry out these attacks against the Tutsi; correct? 
+A.	Yes.  They acted together with the Interahamwe and the -- this does not only mean the people of the MRND, no.  There were also people of the CDR, PSD, and so on.  In fact, everyone was mobilised for the purpose of eliminating the enemy, who was known to be the Tutsi.  These were the orders that had been given. 
+Q.	Did you, by any chance, know anyone from the Interahamwe za MRND? 
+A.	As you know, there were people from all parties.  There were members of the PSD, the CDR, and so on.  But after the death of the president, all Hutus became Interahamwe and the Tutsis -- Tutsis were pursued. 
+Q.	You also mentioned in your statement that you had occasion to be present at a roadblock.  How many roadblocks did you personally attend during that time? 
+A.	I manned a roadblock in my area.  I remained there for two days.  Initially, soldiers committed killings, and we went to seek refuge at the Red Cross.  At that time it was said that those who had gone to seek refuge were Inyenzis or accomplices, so I returned to the roadblock.  A member of the CDR who hailed from Byumba wanted to attack me with an axe.  I became afraid.  I panicked, so I left the roadblock and stayed the night in a small neighbouring house.  This is because I panicked. 
+Q.	You would agree then that Tutsis who were considered the enemy were also targeted, identified and killed at various roadblocks around the country? 
+A.	That's correct.  I heard about all that.  I heard people say that that was the plan.  But at some point in time I asked the conseiller to intervene.  He came, he tried to restore peace and calm.  I rushed to ***********************, who tried to calm down the situation.  But I heard that there were roadblocks everywhere and that people were being killed at those roadblocks.  That is what I heard. 
+Q.	Thank you, Witness, for responding to my questions.
+MR. SENDZE:  
+Mr. President, I have concluded. 
+MR. PRESIDENT: 
+Mr. Witness, we have one question of you.  You spoke about orders being given to kill the enemy.  Do you know who gave the orders?  
+THE WITNESS:
+The person I know is the  .  It is the ********** who said that.  He said it where he met us.  First of all, I was told that there was security, but I remember -- I realised that it was the Hutus who were protected, because the ********* said:  "We have asked you to kill the Tutsi and to destroy their property."  It was at that moment that I tried to go to various personalities or various institutions. 
+MR. PRESIDENT: 
+Thank you. 
+
+Mr. Weyl, do you have any redirect?  
+MR. WEYL:
+Mr. President, I do not have a question for the witness.  I would like to thank him for contributing to the unveiling of the truth through his written statement.  
+
+Mr. President, I would simply like to make the usual request so that if the witness wishes -- wishes, he should have the possibility of meeting Mr. Ngirumpatse. 
+
+MR. PRESIDENT: 
+Thank you. 
+
+Mr. Witness, that now concludes your testimony before the Trial Chamber.  We thank you, as we do all witnesses, for assisting the Tribunal in its work.  You are now excused and free to go.  The registrar will make arrangements to grant -- to facilitate the request made by counsel. 
+(Witness excused) 
+MR. PRESIDENT: 
+Yes.  Mr. Weyl, further to the information in the -- in our discussions earlier this morning, our informal status conference this morning, I take it that you don't have any further witnesses for this afternoon available.  
+MR. WEYL:
+That is indeed the case, Mr. President.  And I am sorry.  I reiterate my regrets to the Bench. 
+MR. PRESIDENT: 
+I was thinking that we should, therefore, simply hear Mr. -- hear briefly the arguments concerning the admissibility of the document, and then we could take our adjournment.  We also discussed that we would resume the sitting on Tuesday of next week.  So we will hear this argument briefly, and then take our adjournment until next week, Tuesday.  
+
+Mr. Webster. 
+MR. WEBSTER:
+Your Honours, when I was cross-examining the witness Ruyenzi, I was relying on a number of documents.  I didn't actually place them before the witness and have him read from them, but they were certainly incorporated in my questioning.  And there are two in particular that I think should become a part of our record.  I believe it was number -- document -- 
+MR. SOW:
+Mr. President, we are not having translation.  
+
+Mr. Webster, can you please take that again, please. 
+MR. WEBSTER:
+Certainly.  There are two documents that I used in my cross-examination of the witness Ruyenzi that I think should be identified for our trial record.  The first is the speech of Abdul Ruzibiza at 
+	Tromsø university on the 21st of March 2006.  And the second is the formal statement that Ruzibiza gave to the French authorities on the 15th of June 2010. 
+
+I discussed these with Mr. Weyl and he was not -- he didn't welcome that suggestion.  And after speaking with him, I went back and I reread the testimony of Ruzibiza and I looked at the issue anew, and I think I may have been able to resolve my concerns without offending Mr. Weyl. 
+The first, in regard to the statement given to the French authorities, may already be considered part of our record, because it was appended to Mr. Weyl's motion which he filed on the 5th of October 2010.  That was a motion that he filed in regard to the witness Ruyenzi.  In assisting upon his appearance, he supported his application by appending this interview of Ruzibiza to show that Ruzibiza relied on Ruyenzi for his evidence.  And, in fact, this information comes to us in the first instance from Mr. Weyl.  So it's actually a part of our record but in the form of a motion or an appendage to a motion.  
+
+I think it should actually be an exhibit.  Or if it's objectionable as an exhibit, we already have it as an appendage -- excuse me, an annex to the -- the motion Mr. Weyl filed on the 5th of October 2010.  And if the Court is not willing to overrule his objection and admit it and give it an exhibit number, then I would at least like to have the document also be identified as a PID document, as a document for identification, so that we can follow it more closely on the record. 
+
+I say that only because the -- the appendix to the motion doesn't clearly identify it and this way it's going to be easier to find it in the index of documents that we have in the trial record. 
+
+So one of those documents may be resolved simply because it was filed as an appendage to a motion, and that is the commission rogatoire, an interview of the 15th of June 2010 wherein Ruzibiza explicitly states that some of the testimony he gave before to the French and in his previous testimony in the Bagosora trial was not his own eyewitness testimony, as he had led us to believe, but it was actually what others told him, which he then uttered as his own observations.  So that's the first document. 
+
+The second document is the speech that Ruzibiza gave at Tromsø university, which I think is a document that should become a part of our record, because it was made after Ruzibiza completed his testimony in Trial Chamber I.  The Chamber will recall that the entire testimony of Ruzibiza was admitted under Rule 92 bis.  The Prosecution wanted to cross-examine him, if his testimony was admitted, but the Chamber denied that request because in its estimation he had been fully cross-examined when he testified in the Bagosora trial.  
+
+We all know that Ruzibiza has died.  He died in September of this year, but this speech that he gave at Tromsø university was made after he had completed his testimony in the Bagosora trial.  And it goes to issues that we, in this Prosecution team, would have liked to explore with him.  And if the Court is satisfied that this is indeed a reliable text of Mr. Ruzibiza, there's a basis to admit it because the Prosecution was denied an opportunity to cross-examine him.  
+
+So it's an application that's not anchored in my cross-examination of Ruyenzi, even though I used the document to cross-examine Ruyenzi.  It is really also an application in relation to the evidence that we have on the record from Ruzibiza, which was admitted under Rule 92 bis without affording this Prosecution team an opportunity to cross-examine him.  
+
+Now, Mr. Weyl expressed some concern about authenticity, and I share his concerns, in fact.  Even before I used the document, I tried to establish its authenticity.  I did Internet searches.  The -- the speech itself comes from an Internet site and the site also includes an article reporting on Ruzibiza giving the speech.  The -- that a printout of that Internet article is dated the 24th of March 2006 and it refers to the speech that Ruzibiza gave on the 21st of March.  And it quotes one of the final lines in that speech, and you'll find that same line in the text of the speech itself.  
+
+So in addition to the text of the speech, which identifies itself as Ruzibiza's speech, there is the article which is still an article on the Internet.  I did follow up by sending some correspondence to the University of Tromsø where the speech took place and I did get a response from a Ms. Sandersen from the centre of peace studies, the faculty of humanities, social science and education, dated the 
+8th of November 2010.  And I did forward a copy of that email correspondence to -- to Mr. Weyl. 
+
+And it says -- my enquiry of her was, if she could certify that Ruzibiza actually gave a speech at 
+Tromsø university and if she had any copy of the speech that was given or anything in the archives of her university that could authenticate the speech which I had sent to her in the email. 
+
+And her response to me was that in the annual report of the university, there was a notation that:  "On the 21st of March, in cooperation with FN-Sambandet Tromsø" -- and I'll spell that -- F-N, S-A-M-B-A-N-D-E-T, Tromsø, T-R-O-M-S-Ø -- "the centre for peace studies arranged a seminar themed 'Alternative Perspective on the Rwandan Genocide'.  Abdul Ruzibiza, a former member of the RPF, presented the Tutsi version of events leading to the genocide in 1994."  
+
+She goes on to say:  "We do not have any other reports or papers from the event.  Neither do we have a copy of his speech, which you have attached in highlighted portions.  We cannot confirm the content referred."  
+
+So she confirms that an event was organised, that Mr. Ruzibiza gave a speech, but she cannot verify that the text that I sent her was what was delivered.  So that's the extent of the authentication.  I'm making other efforts; they're ongoing.  If the Chamber is not willing to admit this document now, we'll come back to it at a later time if I have other indicia of authenticity, but those are the two documents.  And after I hear from Mr. Weyl, I may have additional comments. 
+
+MR. WEYL:
+Mr. President, Your Honours, I will be very brief on the first document.  We filed a motion for cooperation, and to that motion we joined a copy -- we attached a copy of mail -- or, rather, the copy of an article published on the Internet, the Internet site of the newspaper called Marianne.  And that attachment made a reference to a document which was likely to be the excerpt of a judicial record in France.  It happens that in France, it is not possible to have documents covered by confidentiality.  
+
+	And the other thing we have at present is a copy of a newspaper -- a copy of a document coming from the weekly called Marianne.  If it is possible to obtain from the investigating judge in charge of the case a copy coming from that judge or from that document, we will take that copy.  But for now, the only thing the Court had as -- has at its disposal is a copy of a newspaper article that we attached to a motion which we filed in order to state that we do not have the -- the record.  And we still do not have the record. 
+
+So the Chamber can admit into evidence what is a press clipping, a newspaper copy.  At present, we can only hope that this can be admitted for identification purposes.  Or -- unless we receive the transcript, the authentic version of the transcript and not a press clipping -- at present what we have is just a press clipping.  Maybe it is useful to admit it for identification purposes.  But it doesn't seem to be possible that I can go beyond that for now.  
+
+As regards the second document, I think Mr. Webster should have limited himself to the last line of the email received from Ms. Sandersen.  Read it in English -- and this lady continues that, under the circumstances, she cannot confirm that the activities of the centres were mentioned in -- on -- in a directory about the existence of a meeting.  She testifies to the existence of a meeting, but she says she is not in a position to contain -- or, rather, to confirm the content of the document.  I think these are all the points on which the Bench can rely to dismiss or reject the admission of this document.  At the very most, it can only admit it for identification purposes.  
+
+Thank you, Mr. President. 
+MR. WEBSTER:
+With respect to the first document we discussed, which is the -- the commission rogatoire of June 2010, I would like to hand this up to the Court.  
+
+If Mr. Issa could show -- hand this to the Judges, please. 
+
+This is far from an Internet excerpt.  This is the actual document, which is signed by the witness at the end, which identifies itself as a document from the French rogatory commission.  It seems like it was a PDF text that was on -- going by what Mr. Weyl says -- was on an Internet site, but it's not an 
+Internet publication.  This is a French document that may have been disclosed on the site that he visited. 
+
+It's not a major issue.  My interest is really in having a complete trial record.  I think that we actually have it in his -- his own motion, so that I can refer to it in that context, but I think it would be more appropriate to give it an exhibit number.  That's the only reason I make an issue of it now. 
+
+And as for the speech at Tromsø university, the matter is left in the Court's discretion.  I don't think there is anything I can add.  But if the Court is not willing to admit it, then I think it should be given a
+PID number so that I can come back to it at a later time. 
+MR. SOW:
+Mr. President, with the leave of the Court, regarding the last document by Ruzibiza, that man is dead, Mr. President.  I do not know who will come here to identify Ruzibiza's document.  Perhaps it would be beyond this life.  So I think it's a reasonable way, instead of giving too many documents to the Court -- and I know that you are overburdened right now -- I think this document should be simply set aside.  It doesn't even need to be admitted for identification purposes, Mr. President.
+(Pages 6 to 19 by Deirdre O'Mahony)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1255H 
+MR. PRESIDENT: 
+Well, without going into too much detail, we -- we accept the submissions with regard to the first document.  And we are satisfied with the -- that it is adequately authenticated by the signatures on the document.  So we admit it in evidence.
+
+Obviously, with regard to the second document, it cannot be admitted into evidence at this stage.  And although we don't necessarily believe that there will be any supernatural intervention, as Mr. Sow so eloquently presented, we still think that we should have it marked for identification purposes only, at this stage. 
+MR. WEBSTER: 
+That's fine, Your Honour.  What I'd like to do is include the email correspondence and the article that I mentioned that refers to this speech and the article that announces Ruzibiza's death, which were all included in my bundle, and give this to Issa as one document to get one simple ID number.  So it would be the text of the speech plus three emails which would be just given a single number.  
+MR. PRESIDENT: 
+Mr. Issa, could you just give us the numbers, please. 
+MR. MJUI: 
+The document will be P. 549.  Thank you, Your Honour.
+(Exhibit No. P. 549 admitted) 
+MR. WEBSTER: 
+P. 5 -- could you give me the number again, please. 
+MR. MJUI: 
+P. 549. 
+MR. WEBSTER: 
+And that would be for the rogatory commission of June 2010.  And then for the speech, it should have a PID number. 
+MR. MJUI: 
+That will be PID. 68.  Thank you. 
+MR. WEBSTER: 
+Thank you. 
+MR. PRESIDENT: 
+Thank you.
+(Exhibit No. PID. 68 marked for identification) 
+MR. PRESIDENT: 
+We take our adjournment now until Tuesday. 
+(Court adjourned at 1257H) 
+(Pages 20 to 21 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Kirstin McLean, Deirdre O'Mahony, and Tanya West, Official Court Reporters for the 
+International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	Deirdre O'Mahony
+
+
+____________________________ 	Tanya West
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	THURSDAY, 11 NOVEMBER 2010
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	THURSDAY, 11 NOVEMBER 2010
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 3
+
+	KAREMERA ET AL	THURSDAY, 11 NOVEMBER 2010
+
+DEIRDRE O'MAHONY - ICTR - TRIAL CHAMBER III - page 6
+
+	KAREMERA ET AL	THURSDAY, 11 NOVEMBER 2010
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 20
+
+ICTR - TRIAL CHAMBER III
+

@@ -1,0 +1,565 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44D-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	CALLIXTE NZABONIMANA
+
+
+MONDAY, 17 MAY 2010
+1000H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Solomy Bossa, Presiding
+	Bakhtiyar Tuzmukhamedov
+	Mparany Rajohnson
+	
+
+For the Registry:
+	Ms. Marianne Ben Salimo
+	Mr. Ibrahim Mwamasangula
+	
+For the Prosecution:
+	Mr. Paul Ng'arua 
+	Ms. Memory Maposa 
+	Mr. Simba Mawere
+	
+For the Accused Callixte Nzabonimana:
+	Mr. Vincent Courcelle-Labrousse
+	
+Court Reporters:
+	Mr. Haruna Farage	
+	Ms. Lisa D. Smith
+	Ms. Sithembiso Moyo
+	Ms. Rebecca McCoy
+	Ms. Judith Kapatamoyo
+	
+
+
+
+I N D E X
+
+WITNESSES
+
+For the Defence:
+WITNESS T40 (continued)
+Cross-examination by Ms. Maposa (commenced in closed session)	6
+Re-examination by Mr. Larochelle (commenced in closed session)	37
+
+WITNESS T57
+Examination-in-chief by Larochelle	64
+
+
+EXHIBITS
+
+Exhibit No. D. 17	2
+Exhibit No. P. 43	3
+Exhibit No. P. 44	3
+Exhibit No. D. 18	57
+Exhibit No. D. 19	58
+Exhibit No. D. 20	58
+Exhibit No. D. 21	59
+Exhibit No. P. 45	61
+Exhibit No. P. 46	62
+Exhibit No. D. 22	65
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MADAM PRESIDENT:
+Good morning, everyone.  The Trial Chamber apologises for starting late, because of unavoidable circumstances.  
+
+Can we have the witness brought in.
+
+Do you have any matter to raise before he comes in, Defence Counsel?  
+MR. LAROCHELLE: 
+We discussed with the Prosecutor and we had agreed that before the next witness be brought in, we would file the exhibits that were used during the examination and cross-examination of Witness T133 last week.
+MADAM PRESIDENT:
+Yes, and maybe we should have the appearances before the witness comes in, beginning with the Prosecution.  
+MS. MAPOSA: 
+Good morning, Madam President, Your Honours.  The Prosecution bench is composed as follows:  Paul Ng'arua senior trial attorney, Memory Maposa, Appeals counsel, Simba Mawere, 
+assistant trial attorney; Diana Karanja, associate legal officer; Ephrem Mutashya, language assistant and the two interns, Jamet, Marion, and Igor Barilik.  Thank you.  
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Defence.  
+MR. LAROCHELLE: 
+Good morning, Madam President.  Appearing on behalf of Mr. Nzabonimana this morning, are
+Élise Le Gall, intern; Pierre Fournier, intern; Érick Sullivan, intern; Nathalie Leblanc, legal assistant and myself, Philippe Larochelle.  Good morning, Your Honours.  
+MADAM PRESIDENT:
+Yes, let's have the exhibit for T113 before we have the witness brought in.  
+
+Defence Counsel.  
+MR. LAROCHELLE: 
+Yes, we have distributed justification paper accompanying the document of Amnesty International, which was exhibited to the witness last week.  It was distributed to the Prosecutor.  I think I can give a copy to the registry.  
+
+MADAM PRESIDENT:
+Any objection, Prosecution counsel?  
+MS. MAPOSA: 
+No objection, Madam President, Your Honours. 
+MADAM PRESIDENT:
+Counsel, it is dated 26th April 2000, is it?  
+MR. LAROCHELLE: 
+Yes, exactly. 
+MADAM PRESIDENT:
+And it is in English? 
+MR. LAROCHELLE: 
+Yes, Madam President. 
+MADAM PRESIDENT:
+Yes, the document from Amnesty International dated 26th April 2000, in English with its justification entered as Defence exhibit -- 
+MR. MWAMASANGULA: 
+Defence Exhibit number 17. 
+MADAM PRESIDENT:
+17A; do we need a French translation, Counsel?  
+MR. LAROCHELLE: 
+We do not require it.  We can perfectly work with the English version of the document, that is, if that's agreeable to the Prosecutor and the Chamber.  
+MADAM PRESIDENT:
+Okay, then, as we have no submissions regarding this issue from the Prosecution, we will admit it as a Defence Exhibit No. 17. 
+MR. MWAMASANGULA:
+Yes, Madam President.
+(Exhibit No. D.17 admitted)  
+MR. LAROCHELLE: 
+Thank you, Madam President.  
+MADAM PRESIDENT:
+Is that all?  
+MR. LAROCHELLE: 
+From our end, yes, that's the only exhibit we wanted to adduce.
+MADAM PRESIDENT:
+Yes, Madam -- 
+
+MS. MAPOSA: 
+Yes, Madam President, Your Honours, we have some two exhibits that we want to produce that were used in the cross-examination of Witness T133.  We have the English transcripts in the case of Bizumungu et al, dated, Monday 11th April 2005, and the justification is dated 13th May 2010.  And I showed the Defence counsel this exhibit and the justification and they indicated they have no objection to its production. 
+MADAM PRESIDENT:
+Is that so, Defence Counsel?  
+MR. LAROCHELLE: 
+We confirm, indeed.  
+MADAM PRESIDENT:
+The English transcript of the Bizimungu et al trial, dated 11th April 2005, with the justification is entered as Prosecution exhibit -- 
+MR. MWAMASANGULA: 
+Yes, Prosecution Exhibit Number 43, Madam President.  
+MADAM PRESIDENT:
+P.  43. 
+MR. MWAMASANGULA: 
+Yes, please.
+(Exhibit No. P. 43 admitted)  
+MS. MAPOSA: 
+Madam President, Your Honours, we have another English transcript in the same trial of 
+Bizimungu et al, dated Wednesday, 13th April 2005, and the justification is dated 13 May 2010. 
+MADAM PRESIDENT:
+Any objection, Defence counsel?  
+MR. LAROCHELLE: 
+The position is the same, Madam President.  We do not object. 
+MADAM PRESIDENT:
+The English transcript of Bizimungu et al dated 13th April 2005, and the justification dated 
+13th May 2010, are admitted as one exhibit for the Prosecution and it is Prosecution Exhibit P. 44. 
+MR. MWAMASANGULA: 
+Yes.  
+(Exhibit No. P. 44 admitted)
+MADAM PRESIDENT:
+Is that all, Prosecution counsel?  
+MS. MAPOSA: 
+Yes, Madam President, Your Honours.  
+MADAM PRESIDENT:
+Yes, Registry, when you are done with the exhibits, please bring in Witness T40.  Is it T40, 
+Learned Counsel?  
+MR. LAROCHELLE: 
+Yes, precisely. 
+MR. MWAMASANGULA: 
+Yes, Madam President. 
+MADAM PRESIDENT:
+Yes, T40, after the curtains have been drawn.  
+
+Learned Counsel, as the witness is being brought in, how long do you intend to continue with this witness?  
+MS. MAPOSA: 
+Madam President, if we had started at 9:00, I was thinking that by lunch hour -- by the lunch break I will be through.  But now I may need, depending on the progress that we are going to take, I may need some 30 to 45 minutes after the lunch break, Madam President, Your Honours.  
+MADAM PRESIDENT:
+Thank you, Learned Counsel.  We hope it will be shorter.  And Defence counsel, please take note so that you can plan for the next witness accordingly.  
+MR. LAROCHELLE: 
+I can inform the Chamber that the next witness will arrive after the morning break.  So whenever the Prosecutor is through with that witness, we will be able to proceed with the next witness. 
+MADAM PRESIDENT:
+Thank you, Defence Counsel. 
+(Witness entered courtroom)
+MADAM PRESIDENT:
+Good morning, Witness.  
+THE WITNESS:
+Good morning. 
+MADAM PRESIDENT:
+Yes, welcome back from a long break.  We would like to remind you that you made a solemn declaration at the beginning of your testimony to tell the Chamber the truth, and that you will continue with your testimony bearing that declaration in mind.  
+THE WITNESS:
+Very well. 
+MADAM PRESIDENT:
+Yes, as we explained when you were leaving last week or the other week, we had a witness who had problems and we had to deal with him first, that is why we had to postpone your testimony.  And now that we are done with that witness, we are ready to conclude your testimony today. 
+THE WITNESS:
+Very well.  I am quite happy with that.  
+MADAM PRESIDENT:
+Yes, Prosecution Counsel, we are in open session. 
+MS. MAPOSA: 
+Yes, Madam President, Your Honours, I would request that we go into a closed session for now. 
+MADAM PRESIDENT:
+Yes, the questions to be put to the witness may disclose his identity.  He is a protected witness.  We, therefore, regret that members of the public have to leave now.  We hope it would not be for long and we are sorry about that.  
+
+Registry, can you arrange to go into a closed session.  
+MR. MWAMASANGULA: 
+Yes, Madam President. 
+(At this point in the proceedings, a portion of the transcript [pages 6 to 56] was extracted and sealed under separate cover, as the session was heard in camera) 
+(Pages 1 to 5 by Haruna Farage)/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MADAM PRESIDENT: 
+The proceedings are resumed.  
+MR. MWAMASANGULA:
+We are in open session, Madam President.  
+MADAM PRESIDENT: 
+Yes.  
+
+Defence Counsel.  
+MR. LAROCHELLE: 
+So we have three videos which we have used.  If the registry could assist.  
+MADAM PRESIDENT: 
+Yes, Counsel, if you could describe one by one for the record, that would be much appreciated.  
+MR. LAROCHELLE: 
+If I could have the help of the registry.  
+
+The first exhibit is a video which is -- what you are receiving is simply for the convenience of the Chamber.  They are extra copies of these videos on all CD ROMS.  
+
+So the first one is a video which title is "Ndiza 2.5".  And the registry has three distinct 
+justification sheets for these videos.  So the first one is 2.5.  And I would request that exhibit to be -- that first video to be entered as an exhibit for the Defence.  
+MADAM PRESIDENT: 
+Prosecution?  
+MS. MAPOSA: 
+No objection, Madam President, Your Honours.  
+MADAM PRESIDENT: 
+The video entitled "Ndiza 2.5" with the justification entered as one exhibit for the Defence.  And it is exhibit?  
+MR. MWAMASANGULA:
+Exhibit D. 18, Madam President.  
+MADAM PRESIDENT: 
+Exhibit D. 18.  
+(Exhibit No. D. 18 admitted)  
+MR. MWAMASANGULA:
+Yes, please.
+MR. LAROCHELLE: 
+Just for clarity of the records, each video is included in three different formats, to make sure -- they are the same video but they have been converted into different formats to make sure that -- there's an AV format, an MP4 format and an M2TS format.  We did that because we noticed that the Prosecutor had difficulty sometimes reading a format or another.  But, basically, it is the 
+same video appearing in three different formats.  
+
+The second video is "Ndiza 2.6".  Again, the registry has a justification sheet for that video.  And the Prosecutor indicated earlier that it had no objections concerning the admission of that video.  
+MADAM PRESIDENT: 
+Prosecution?  
+MS. MAPOSA: 
+We confirm, Madam President, no objection.  
+MADAM PRESIDENT: 
+Yes.  Then "Ndiza 2.6" video with its justification, and entered as one exhibit for the Defence as Exhibit D. 19.  Is that so, Registry?  
+(Exhibit No. D. 19 admitted) 
+MR. MWAMASANGULA:
+Yes, Madam President.
+MR. LAROCHELLE: 
+The third video is "Ndiza 2.8".  Same story; the Prosecutor has no objection.  And a justification sheet was included along with the CD ROM containing the video in those three different formats.  
+MADAM PRESIDENT: 
+Prosecution. 
+MS. MAPOSA: 
+No objection, Madam President, Your Honours.  
+MADAM PRESIDENT: 
+The video entitled "Ndiza 2.8" with its justification, entered as one exhibit for the Defence.  And it is Exhibit D. 20.
+(Exhibit No. D. 20 admitted)   
+MR. MWAMASANGULA:
+Yes, Madam President. 
+MR. LAROCHELLE: 
+The last exhibit is the picture which was used and annotated by the witness.  
+
+If the registry could assist me.  I have here the justification sheet and the original copy of that picture.  
+MADAM PRESIDENT: 
+This is the copy of Exhibit P. 42, is it, Counsel?  
+MR. LAROCHELLE: 
+Yes, precisely, Madam President.  There was a little mistake in the description of the exhibit.  It is indicated that it is P. 22.  So I manually amended the justification sheet.  The Prosecutor was advised before we resumed of that small mistake and is well aware of the little amendment on the sheet.  
+MADAM PRESIDENT: 
+Yes, Counsel, if you could countersign the amendment.  
+MR. LAROCHELLE: 
+Yes.  
+MADAM PRESIDENT: 
+A copy of exhibit -- Prosecution, no?  
+MS. MAPOSA: 
+No objection, Madam President, Your Honours.  
+MADAM PRESIDENT: 
+Okay.  A copy of Exhibit P. 42, as marked by the witness, together with the motivation, as amended by Defence counsel, tendered as one exhibit for the Defence, and it is Exhibit D. 21.  
+(Exhibit No. D. 21 admitted)  
+MR. MWAMASANGULA:
+Yes, Madam President.  D. 21, yes. 
+MADAM PRESIDENT: 
+Defence Counsel?  
+MR. LAROCHELLE: 
+I'm through with the exhibits pertaining to that witness.  
+MADAM PRESIDENT: 
+Thank you.  
+
+Prosecution.  
+MS. MAPOSA: 
+Thank you, Madam President, Your Honours.  We have two exhibits that we are applying for their production.  
+
+The first one is a video that was used during the cross-examination of Witness T40.  And 
+the video is entitled "Ndiza 2.7".  And we've done a justification dated today, the 17th of May 2010.  If registry can assist.  
+MADAM PRESIDENT: 
+Defence Counsel?  
+
+MR. LAROCHELLE: 
+We have no objection. 
+(Pages 57 to 60 by Rebecca McCoy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+MADAM PRESIDENT:
+Then these 2.7 videos with its justification, is entered as Prosecution Exhibit P. 45; is that so registry?  
+MR. MWAMASANGULA: 
+Yes, Madam President. 
+(Exhibit No. P. 45, admitted, under seal)
+MS. MAPOSA: 
+Madam President, Your Honours, the second exhibit is the statement of Witness T40 with its justification, dated 11th May 2010, and we are applying for its production, under seal. 
+MADAM PRESIDENT:
+Yes, Defence Counsel.
+MR. LAROCHELLE: 
+Yes, no objection, Madam President. 
+MADAM PRESIDENT:
+Is the statement properly underlined, Learned Counsel?
+MS. MAPOSA: 
+Registry, can I have sight of that copy.  
+
+It was not underlined, Madam President, Your Honours, the copy that the registry has. 
+MADAM PRESIDENT:
+Counsel, you need to underline it to guide the Chamber where you want it to focus first, before you enter it as an exhibit.  
+MS. MAPOSA: 
+I am obliged, Madam President, Your Honours.  So I can do that right away. 
+MADAM PRESIDENT:
+What is the date of the statement, Learned Counsel?  
+MS. MAPOSA: 
+The statement is dated 5 February 2010, Madam President. 
+MADAM PRESIDENT:
+Okay, Counsel, if it will take sometime, you can submit it tomorrow.  
+MS. MAPOSA: 
+I have finished, Madam President, Your Honours, if I can produce them now, underlined. 
+MADAM PRESIDENT:
+No, Defence Counsel needs to see what you have underlined.  
+MADAM PRESIDENT:
+Learned Counsel, we wish to express a preference for underlining, because highlights fade with time.  In the future, we might not be able to see the highlights and some of them are very faint.  And this goes to both counsels.  If you are tendering the statement, kindly underline the areas which you want the Chamber to focus on.  
+MS. MAPOSA: 
+I am obliged, Madam President, Your Honour.  Maybe I can produce this one where I have used a marker and not a highlighter. 
+MADAM PRESIDENT:
+Yes.  So the statement of Witness T40, dated 5th February 2010, with the justification date 
+ 17th May 2010, as underlined, is tendered as a Prosecution Exhibit P --  
+MR. MWAMASANGULA: 
+P. 46, Madam President. 
+MADAM PRESIDENT:
+P. 46 
+MR. MWAMASANGULA: 
+Yes, please. 
+(Exhibit P. 46 admitted, under seal)
+MADAM PRESIDENT:
+Anything else?  
+MS. MAPOSA: 
+None, Madam President, thank you. 
+MADAM PRESIDENT:
+Thank you, Counsel.  
+
+Defence Counsel, who is your next witness?  We are hoping it will be T92 
+MR. LAROCHELLE:
+No, the next witness is T57.  
+MADAM PRESIDENT:
+Does that mean that the problem you highlighted regarding Witness T92 has been overcome? 
+MR. LAROCHELLE: 
+The position is still that Witness T92 must begin at the latest Wednesday morning.  And I am, rather, confident that we can complete the examination and cross-examination of Witness T57 before the end of the day, tomorrow and then continue with Witness T92 on Wednesday morning.  
+MADAM PRESIDENT:
+All right, Counsel.  
+
+Registry, could you arrange for the witness to be brought in, T57.  
+(Witness entered the courtroom)
+
+MADAM PRESIDENT:  
+Registry, kindly arrange to administer the oath to the witness.  
+(Declaration made by witness T57 in Kinyarwanda)  
+MADAM PRESIDENT:
+Witness, good evening.  
+THE WITNESS:
+Good evening, Madam President.  
+MADAM PRESIDENT:
+The Trial Chamber would like to take this opportunity to welcome you to this Tribunal, and to give a briefing on the procedure that obtains here.  But before we go to the procedures, we would like you to sit close to the microphone to enable all those who are listening to follow your testimony, and also to learn to switch off your microphone when you are not speaking.  Is your microphone switched off?  
+THE WITNESS:
+Yes, I had switched it off just a moment ago. 
+MADAM PRESIDENT:
+Yes.  Thank you, Witness.  Switch it on before you begin to speak and switch off when you are done.  
+
+Now to elicit your evidence, the Defence team which is seated on your left will ask you questions first, and -- in examination-in-chief.  When they have completed their examination, the Prosecution will in turn ask you questions on what you may have testified upon and other matters.  
+
+The Prosecution is seated on your right in front of the translation booth.  Your testimony will be interpreted simultaneously into other languages.  If you are testifying in Kinyarwanda or any other language, and therefore, you need to speak slowly, clearly and in brief, and give short narrations to facilitate the interpretation and recording of your evidence.  
+
+You are required to answer all the questions that will be put to you by any party and by the Judges who -- and the Judges, we should mention, are entitled to ask you questions at any time during your testimony.  You are also enjoined to be courteous to all the parties present here, including all staff that are present.  In turn, they are also required to extend the same courtesy to you.  And this facilitates smooth and civil proceedings.  
+
+If you have not understood a question, ask for it to be clarified or for it to be repeated.  You are a protected witness and some of the questions may not be answered in open session because the public is allowed to attend open sessions, and the proceedings that are recorded are accessible to the public.  So if you have any questions that you feel might reveal your identity -- if you have an answer which you feel might reveal your identity, don't hesitate to let the Trial Chamber know.  
+The decision as to whether you will testify in open or closed session will be made by the Chamber, depending on what you are talking about.  And, here, we would like to assure you that the 
+Trial Chamber and all the Counsel in these proceedings have your safety as their utmost concern.  So they will not expose you or expose your identity to the public.  So if the Chamber has decided that the questions are to be answered in open session, the counsel will take all necessary care not to reveal your identity.  
+
+Where you are testifying about matters that will reveal your identity, we will order a closed session from which the public will be excluded.  This will also mean that the record to be made during that closed session will not be available to the public.  
+
+If you keep all these directives in mind, we hope that we will quickly conclude your testimony so that you can return home.  We would now like to know whether you have understood our instructions, Witness.  
+THE WITNESS:
+I have understood you, Madam President.
+MADAM WITNESS: 
+Thank you, Witness.  
+
+Defence Counsel. 
+MR. LAROCHELLE:  
+Thank you, Madam President.  
+
+WITNESS T57,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. LAROCHELLE:
+Q.	Good evening, Witness.  
+A.	Good evening, Counsel. 
+Q.	Witness, are you able to read the sheet of paper in front of you? 
+A.	Yes. 
+Q.	Can you please check whether the information on that sheet is correct? 
+A.	The information is correct. 
+Q.	I am going to now ask you to sign that sheet of paper, and registry will give you a pen.  Please, place today's date on the sheet.  It's the 17th of May 2010. 
+A.	I have done as requested. 
+MR. LAROCHELLE: 
+Madam President, I would require the admission of that personal identification sheet, under seal, as 
+Defence Exhibit D. 22. 
+MADAM PRESIDENT:
+Any objection, Counsel from the Prosecution?  
+MR. MAWERE: 
+No objection, Madam President, Your Honours. 
+MADAM PRESIDENT:
+Registry, could you confirm the number of the exhibit, please.
+MR. MWAMASANGULA: 
+Yes, Madam President.  It will be D. 22.  
+MADAM PRESIDENT:
+The PIS for this witness is entered as an exhibit for the Defence, D. 22, under seal, as this is a protected witness.  
+(Exhibit No. D. 22 admitted, under seal)  
+MR. LAROCHELLE: 
+Madam President, since the first questions I am going to put to this witness regard his family members, I would, therefore, request that we go into a closed session, by your leave. 
+MADAM PRESIDENT:
+Registry, can we go into a closed session for the reasons given by Defence Counsel.  
+MR. MWAMASANGULA: 
+Yes, Madam President.
+MADAM PRESIDENT:
+Yes, you have under 10 minutes, Learned Counsel, so be mindful of the time.  
+MR. LAROCHELLE: 
+Yes, Madam President.
+(At this point in the proceedings, a portion of the transcript [pages [66 to 67] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 61 to 65 by Judith Kapatamoyo)
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Haruna Farage, Lisa D. Smith, Sithembiso Moyo, Rebecca McCoy and Judith Kapatamoyo, Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+___________________________	Haruna Farage
+
+
+___________________________	Lisa. D. Smith
+
+
+___________________________	Sithembiso Moyo
+
+
+___________________________	Rebecca McCoy
+
+
+___________________________	Judith Kapatamoyo
+
+
+
+
+
+
+
+
+
+	NZABONIMANA	MONDAY, 17 MAY 2010
+
+HARUNA FARAGE - ICTR - TRIAL CHAMBER III - page i
+
+	NZABONIMANA	MONDAY, 17 MAY 2010
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page 57
+
+	NZABONIMANA	MONDAY, 17 MAY 2010
+
+JUDITH KAPATAMOYO - ICTR - TRIAL CHAMBER III - page 61
+
+	NZABONIMANA		MONDAY, 17 MAY 2010
+
+ICTR - TRIAL CHAMBER III
+

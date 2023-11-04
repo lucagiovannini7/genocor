@@ -1,0 +1,933 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+TUESDAY, 6 JUNE 2006
+0935H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Constant K. Hometowu
+	Ms. Stephania Ntilatwa
+	Mr. Issa Mjui
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Mr. Gilles Lahaie (Video site)
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbayei (Video site)
+	Mr. Felix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimby
+
+Court Reporters:
+	Ms. Eleanor Bastian, Ms. Roxane Meena, 
+	Ms. Donna M. Lewis, Ms. Karen Holm, 
+	Ms. Sithembiso Moyo
+
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS T
+Re-examination by Mr. Morley	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Madam Registrar, can you open the proceedings, please?
+MS. NTILATWA:  
+Yes, Your Honour.
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda composed of Judge Denis Byron, presiding, Judge Emile Francis Short and Judge Gberdao Gustave Kam, is now sitting in open session today, Tuesday 6 June 2006 for continuation of the trial in the matter of the Prosecutor v. Karemera et al, Case No. ICTR-98-44-T. Thank you, Your Honours.
+MR. PRESIDENT:
+The appearances are the same, yes? 
+
+Madam Registrar, could you put on record the information you received from the other location, please?
+MS. NTILATWA:  
+Much obliged, Your Honours.  
+MR. PRESIDENT: 
+Are we connected with mister -- with the other location?
+
+Mr. Hometowu, can you hear me? 
+MR. HOMETOWU:  
+Good morning, Mr. President.  We can hear you clearly, and we wish you a very good week.  
+MR. PRESIDENT:
+Thank you very much, and the same to you at your location.  
+
+Would you -- we gathered that there is a situation which makes it impossible for us to pursue the examination of Witness T at this moment.  Could you explain to us what the situation is?  
+MR. HOMETOWU:  
+Yes, Mr. President, the situation is the following:  There was a traffic accident; the witness is being brought in, but because of the traffic jam arising from the accident he is not yet here.  We expect the witness to be here any time from now.  It is because of the accident he is not here.  Thank you very much, Mr. President. 
+MR. PRESIDENT:
+Okay.  Thank you, very much.  Thank you, very much, Mr. Hometowu.  
+
+We have not completed our deliberations on the motions argued yesterday, although we feel we will reach a decision shortly.  There were two matters though:  We have, in fact, decided that the Defence should have the opportunity to cross-examine on the material which was disclosed yesterday.  So we will allow the cross-examination to proceed, subject to our decision on the major motions.  But that cross-examination is, as of now, limited to the material that was disclosed on Monday, yesterday. 
+
+We don't think that we could do anything else in the case until we have delivered our decision.
+MR. ROBINSON:
+Mr. President, if I could just ask one thing?  And that is, in fact, nothing has been disclosed yesterday.  The material that I would use to cross-examine still hasn't been disclosed to us.  So if you could order that that disclosure take place, then I can start working with it. 
+MR. PRESIDENT:
+I don't understand.  
+
+Wasn't something disclosed yesterday?  
+MR. ROBINSON:
+No, what we were discussing yesterday was the material that I saw on Friday that I had to give back immediately.  So, nothing has been disclosed by the Prosecutor, with respect to Witness T. 
+MR. MORLEY:
+I think what my learned friend is saying, and he will correct me if I am wrong, that he would welcome a decision by Your Honours that the redacted material be disclosed in toto.  And then when he has the material in toto, he would seek, perhaps, to cross-examine further.  So, in fact, his cross-examination application depends on Your Honours' decisions about the disclosure of the redacted material. 
+MR. PRESIDENT:
+Then I think we misunderstood you completely.  Of course, we have to wait until our decision on that issue.
+MR. ROBINSON: 
+Okay.  Just to be clear, the material that I was referring to yesterday, HH -- the statement by T which relates to HH and the statement by T that relates to the 13 witnesses which had previously been disclosed, they were the only things I saw on the CD, but I never had copies of them.  
+MR. PRESIDENT:
+We'll be addressing that in our decision when we deliver that later this morning.  
+MR. ROBINSON: 
+Okay. 
+MR. PRESIDENT: 
+We had thought there was something else that had been disclosed. 
+
+MR. MORLEY:
+That is helpful.  Two thoughts arise:  the first is the information I had, perhaps in the usual rumour mongering confusion -- is that the witness, himself, has been in the car accident.  I'm assuming from what Mr. Hometowu has said that the witness was not involved in the car accident, he was simply involved in the traffic jam as a result of somebody else being involved in a car accident.  And if that is wrong, and he can hear me, no doubt he will correct us.
+
+The second thought which emerges is that Your Honours may feel that it is always best for any application for cross-examination to precede the re-examination.  And in so far as Your Honours reached a decision about your deliberations, depending on that decision and any orders with regards to disclosure, it would be my invitation to the Court that that disclosure, if it is ordered, having been made, Mr. Robinson completes any further cross-examination before I do my re-examination.  
+
+It may be Mr. Robinson is thinking he may apply to cross-examine after I have done my re-examination.  However, that, Your Honours may feel, would be the wrong way round.  Having said that, I'm conscious of time, and I am ready to do the re-examination.  But as a matter of propriety, his cross-examination ought to precede it. 
+MR. PRESIDENT:
+Your submission is noted.  
+
+There is one other -- Mr. Webster, there is one other question that we wanted to ask.  We are not at this point fully informed of the effects of the disclosure of the GFA material on Monday, but some issues were raised with regard to the translation of the material.  
+
+We have on previous occasions considered that counsel -- the Defence counsel would have assistance from their clients and other members of their team in accessing the content of the material that was in the Kinyarwanda language.  But our question is this:  If it is necessary to give time, which we are not sure that it is, would an appropriate way of addressing the situation be to change the order of witnesses so that XBM precedes GFA, and is that a solution which could be used to address the situation?
+MR. WEBSTER:
+Excuse me.  Your Honour, this Court has always held that the Prosecution is one office and that presumably any member of the team should be in a position to move ahead with any of our witnesses.  But as a practical matter that's really not an appropriate way for us to move forward in this trial session.  XBM was assigned to our colleague who is actually in the (inaudible) location now, so the problems that we're having logistically in terms of establishing the confirmed order of witnesses and doing -- completing this session in an organised fashion is the way that we have apportioned responsibility on this team for the various witnesses.  So the order of witnesses in place right now is more a reflection of our logistical limitations than the way we would choose to proceed in presenting the evidence.  When Mr. Gilles Lahaie returns we will proceed with GXM, which is why he is positioned after GFA.  I will take the next witness, and we will organise ourselves going down the line with other members of the team. 
+
+So an immediate response to your request is that it would be difficult for us to change the order of witnesses, but we remain at the Court's disposition.  We're interested in moving ahead with this session, we want to do it expeditiously and we're making every effort to complete all of the testimony of all of the witnesses that we have brought over to Arusha to give evidence.  
+MR. ROBINSON:
+Mr. President, I want to give you a report about the situation with respect to Witness GFA, and the new disclosure.  My client stayed up until midnight last night reading the new material that we got.  Basically, what we have is 22 witnesses whose statements are now disclosed to us for the first time.  
+
+In addition, there are three statements of GFA, himself, now disclosed to us for the first time.  And the majority are in the Kinyarwanda language.  There are a few English-French translations, but probably there are 25 or so statements in Kinyarwanda language to be translated.  Our material is also very difficult to read, because it's microfilm or some kind of scan, but the documents are very -- they are single-space typed and in a very small type, so it's very difficult.  So it's going to take some time for us to be acquainted with the material, but from what my client tells me, these are people who have given information that contradict GFA, so the substance of what's inside are people who give information that's directly opposite what GFA claims about these events.  
+
+So we feel that it is legitimate Rule 68 material that we would attempt to use during the cross-examination.  I would invite Your Honours to use the time, if we even have time while you are deliberating on the situation with Witness T, to have an in-court translation of these documents so that we could all, not just my team, but the other teams, and the Prosecution, learn their contents, and I think we have that when we have the judgment of Witness UB come in Kinyarwanda at the last minute, and it maybe delayed us by one day, but it was successful.  I think it would take my team about four or five days to actually translate these materials, and even then, the Prosecutor does not have them, and I would tend to think that they would also want to have some kind of English or French translation.  So my suggestion is if we have any time, that we should use it to have a translation of these documents here in court.  Thank you.  
+MR. PRESIDENT:
+Thank you, Mr. Robinson. 
+MR. WEBSTER:  
+I would endorse Mr. Robinson's solution of using any free time for the purposes of translation.  It seems like a practical approach to the logistical challenge.  As a matter of law, the materials are in a language that the Accused understands, and presumably he's moving ahead to analyse the content, but it seems a reasonable suggestion, to me, that we use the downtime to have some of the material translated.  
+
+As for statements by GFA, I'm informed that all of GFA's statements were previously disclosed and we've disclosed his material so many times in the past -- this was a witness that was on our list for the last -- from the inception of this case in 2003.  I'm confident if we go back through our records that what Mr. Robinson recognises as new information is probably information that was previously disclosed and is being redisclosed.  I can double-check that and report back to the Trial Chamber.  But my understanding is that we have completed all of our Rule 66 obligations with respect to that witness.  The bulk of the material are (sic) Kinyarwanda documents that are coming from other case files of other witnesses that were brought to the Tribunal.  
+
+As we get material from Rwanda, it is all put into a database and we have the assistance of a Kinyarwanda speaker now who is attached to our team.  So our Rule 68 searches are much more thorough and we get material, that in Mr. Robinson's estimation it's Rule 68 material.  We disclose it because he has requested it, but it is all, presumably, in the EDS, and it concerns other witnesses from other cases that make statements in their own declarations that may reflect on the things that GFA says.  So, that is the situation.  
+
+I would like to go back to the issue of Mr. Robinson's application with respect to Witness T, because as a practical matter, looking at the material now in unredacted form, he has a concern for Witness HH.  That is a statement that the Trial Chamber had ordered not to be disclosed.  If the Trial Chamber is going to revisit -- or Mr. Robinson's application is for the Trial Chamber to revisit that portion of its order, and with respect to that one statement, the Prosecution concedes that, with respect to HH, the statement should be placed at the disposal of the Defence.  So we do not see it as an issue for Witness T, but since at some point it's a statement that should arguably go to the Defence, we can disclose that - or, we can join in Mr. Robinson's application to alter the Trial Chamber's order under Rule 66(C), and disclose that one statement which should assist him in preparing for T's re-cross, since that is what he is seeking to achieve.  
+THE ENGLISH INTERPRETER:  
+Mr. Webster, there is a request from the French booth if you could speak at a bit more moderate speed. Sorry.  Can you hear me? 
+MR. WEBSTER:
+Yes. 
+THE ENGLISH INTERPRETER:
+Thank you.  Actually, it is also the court reporters, not just the booth. 
+
+MR. PRESIDENT:
+Mr. Hometowu, can you hear me? 
+MR. HOMETOWU:  
+Yes, Mr. President I can hear you.  
+MR. PRESIDENT:
+I gather you have some news to convey to us? 
+MR. HOMETOWU: 
+Yes, Mr. President.  The witness is now here.  
+MR. PRESIDENT:
+Okay.  Well, we thank you very much for that information and we are relieved.  On our end we are going to have to rise now for some deliberations and we are going to take a break for that purpose.  And we'll inform you when we are ready to resume.  But I think we need to rise now to consider the matters. 
+MR. MORLEY:
+In the meantime, it being Mr. Webster's articulated invitation to the Court that the HH statement, and the T statement about the HH statement, be disclosed as, respectively Rule 66 and Rule 68 material in relation to HH.  Shall we get on with that?  I have sent somebody off to do some photocopying.  Your Honours will be deliberating Your Honours' deliberations, although the technically -- 
+MR. PRESIDENT:
+I must tell you we -- that's one of the issues that we have not yet completed on our deliberations (inaudible).  Now, it would assist us enormously if you were able to get the state involved to support your proposal.  That's an issue that we are still discussing among ourselves.  But it would assist us a lot if you were able to do that.  
+MR. MORLEY:
+I see Your Honour's thinking.  Thank you.  The link will remain open, I am sure.  
+MR. PRESIDENT:
+So we -- we can rise while that is pursued.  
+(Court recessed at 0955H) 
+(Pages 1 to 6 by Eleanor Bastian)
+
+
+
+
+
+
+
+
+
+(Court resumed at 1207H)
+THE KINYARWANDA INTERPRETER:
+Document number K0288826.  File number 008/MJB/RH/95, Republic of Rwanda, ministry of justice, prosecution office Ruhengeri. 
+
+"Question:  The breasts of Nyiraburanga were cut off during the genocide.  Who did that?  
+
+Answer:  They came shouting and singing the praises about those whom they had killed.  
+
+Question:  Who were those persons singing their praises?  
+
+Answer:  They included one Rugumire, Gato, Gakuru.  In fact, there were many of them.  Some came from various parts of that area.  
+
+Question:  As far as Rukundo, Alexis, is concerned, is he not the one who cut off Nyiraburanga's breasts when she was being killed?  
+
+No, he's not the one.  At the time I was with Rukundo at the market square, so he could not have been in that group of persons who prided themselves of having killed Nyiraburanga.  
+
+Question:  Was Rukundo an Interahamwe?  
+
+Answer:  No, he was not an Interahamwe; he was a student at the Busogo school located further up.  
+
+Question:  During the genocide, did he not actively take part in the killings of the Tutsis in your area?  
+
+Answer:  No, he did not -- or, he was not involved in the killings.  
+
+Question:  He drove an Interahamwe vehicle, and you are saying that he is not guilty.  Under what circumstances was he driving the Interahamwe vehicle?  
+
+It is true that he was the driver of that vehicle, but I cannot tell you the circumstances in which he drove the vehicle.  It is for him to say or to explain the circumstances.  
+
+Do you have anything else to add to the statements?  
+
+Answer:  Nothing else."  
+MR. WEBSTER:
+(Microphones overlapping)  
+THE KINYARWANDA INTERPRETER:
+"Question:  What do you have to say about the firearm he was bearing during that period?  
+
+Answer:  I never saw him carrying any firearm at the market square; however, I cannot deny the fact that there was a firearm in their home."
+
+Document K0288830, file number 008/MJB/RH/95:  
+
+"Question about Rukundo, Alexis:  Did he take part in the killings and the looting of the Samvura family property?  
+
+Answer:  Never.  I am an old man, as you can see.  I cannot falsely accuse that young man known as Rukundo.  He never did any such thing.  I was a witness of all the events as they unfolded.  I was present.  I was at my home.  
+
+Question:  We have evidence against him.  Why do you continue to say he's not guilty?  
+
+Answer:  Personally, I did not see him doing those things you are accusing him of having done.  
+
+Question:  Was he ordinarily an Interahamwe?  
+
+Answer:  I never saw him ever kill anybody.  He was a student at the time.  
+
+Question:  Do you know the persons who were responsible for the murder of members of the family of Samvura, and could you please give us their names?  
+
+I can only talk about those events which I witnessed with my own eyes.  I, therefore, am not in a position to falsely accuse anybody in relation to those events.  
+
+Question:  Do you have anything else to add to your statement?  
+
+Answer:  I have nothing to add."
+
+The maker of the statement confirms his statement:  "I do swear that this PV is sincere."  
+
+Document number K0288831:  The document is illegible.  
+
+Document number K0288835:  This document is illegible.  
+
+Document number K0288836:  The document is illegible.  
+
+Document number K0288841:  "Pro justitia 1995, 26th April, before us, redacted.  Court of first instance, redacted excerpt, having heard redacted:  
+
+Question:  Do you acknowledge that you are guilty of the crime for which you are charged?  
+
+Answer:  I would like to say that I was forced by the Interahamwe to commit that crime for which I am accused.  At that time I was coming from ********and they found me at a location and took me away.  When I attempted to resist, they pulled off one of my teeth.  Then I obeyed them.  I was taken to Rwankeli.  They asked us to come with them and to kill people.  When we got to Rwankeli, grenades and firearms were used.  All I did was to take some food.  When they got to Muhinda's house, they -- they went to Muhinda's house and to Samvura's father's house as well.  They even went as far as Busogo, and wherever they went, they killed people.  
+
+Question:  Throughout those stops which you have mentioned, were you with the Interahamwe?  
+
+Answer:  I didn't go beyond Samvura's father's house after members of Samvura's family had been killed.  
+
+Question:  Who are those who killed Samvura's family members?  
+
+Answer:  It was Michel's group; Michel, Gakara, Musafi, and others whom I was not able to identify.  It was that group.  
+
+Question:  Was Rukundo part of that group?  
+
+Yes, he was present.  He is the one who drove them in a vehicle.  It was a car or a vehicle that they had illegally taken.  
+
+What did you take?  
+
+Answer:  Some maize.  
+Question:  What weapon did you carry?  
+
+Answer:  I had a eucalyptus piece of wood.  
+
+Question:  Who is Rukundo's father?  
+
+Rukundo's father is Gahidali and his mother is Kankindi.  
+
+Question:  Do you have anything to add to your statement?  
+
+Answer:  I am ready to take the punishment for the crime I committed.  However, I would like to ask for forgiveness for what I did."  
+
+Done in redacted.  The interviewee is Makombe.  
+
+"Document number K0288865, Republic of Rwanda, ministry of justice, state prosecutor's office in Ruhengeri, pro justitia, 1998, 23 July, appearing before us.  Redacted excerpt.  
+
+Witness - question:  Do you know Rukundo, Alexis?  
+
+Answer:  Yes, I know him.  
+
+Question:  What family relationship is there between both of you?  
+
+Answer:  *********************************************, but we have no family ties.  
+
+Question:  Can you tell us why he is detained?  
+
+I do not know.  You see, we see people leave or being taken away, but we do not know why.  
+
+Question:  He's accused of having been involved in the extermination of the Tutsi, the Bagogwe community, which were killed in the Mukingo commune.  Do you know anything about that?  
+
+Answer:  All I can say is what I heard, namely, that he took a vehicle belonging to the priests, with a view to evacuating members of his family.  From my hiding place I sought to find out whether the family had effectively been evacuated.  I learnt that Dusabe took the vehicle away from him.  In fact, at that time, I was sad and I wondered why they had evacuated their families but had forgotten mine.  It is at that time that I learned that the vehicle had been taken away from him.  So we remained on the spot, waiting for death.  
+
+Question:  Who did he intend to evacuate?  
+
+Answer:  He had intended to evacuate members of his family, particularly his mother.  That is, at least, what was being said, what I heard people say.  People said that he had wanted to evacuate members of his family but that the vehicle had been taken away from him.  I say so because I was not present, I was hiding somewhere.  
+
+Question:  Was Rukundo's mother also a -- wanted?  
+
+Yes, she was wanted.  
+
+Question:  It is said that he purportedly used the said vehicle, and that upon leaving the parish, he drove Interahamwe to kill some people. 
+
+Answer:  I wasn't present and I do not know anything about that.  I was in hiding somewhere.  
+
+Question:  As far as you know, did he behave like an Interahamwe?  
+
+Answer:  He was a student attending ESTB school.  When things changed, I no longer went out.  I no longer went out.  
+
+Question:  Can you give us the names of those involved in killing the inhabitants of that locality?  
+
+I do not know because, at that time, we were in hiding and we moved from one hiding place to another.  
+
+Please, tell us what you know about the following persons:  Assiel Ndisetse, Athanase Gato, Rukundo, Ngendahimana, Makombe, J.P. Munyabarenzi, Abdon Gihanga, Haruna Imanizabayo, Théogène Kabera, Hakuzimana, Fidèle Ntuyenabo, Ntirugirumwe, Nteziyaremye, Niyoyita, Niyigaba, Rugumire, Mwanbutsa, Gakuru, Kwitonda, Ndangiza and Muhunde.
+
+Answer:  That old man had some problems.  It is that old man who had problems with others.  He was a conseiller.  If our house wasn't burnt down, it was thanks to him.  If he were to be -- if he were to be convicted, that would be unfair and unjust.  He was insulted, he was threatened, and he was told that his -- that his stomach would be opened up.  And he had -- he was also being blamed of having a Tutsi wife."  
+
+Part of the document is illegible. 
+
+"Our house would have been burnt down, had those two men not intervened.  They also knew where my children were in hiding.  And if they had wanted to, they would have killed them.  Niyoyita, as far as I know, was an inspector, and that is it.  Muhunde drove a vehicle.  He knew us.  And from time to time he would give us a ride in his vehicle.  That was in times of peace.  If, however, his behaviour changed subsequently, I am not aware of it.  When the situation became critical, we abstained from appearing in public and, rather, sought hiding places.  
+
+Question:  Do you have anything else to add to your statement?  
+
+Answer:  No.  That old man who was a conseiller, as I have previously indicated, I told you how much good he did to my family.  And I have nothing else to add.  I have nothing to say against him."
+MS. DUFFY:
+We will take a break now.  It's almost one o'clock.  We'll take a break from the translations. 
+(Court recessed at 1300H)
+(Pages 7 to 12 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1515H 
+MR. PRESIDENT:
+Good afternoon, everybody.  We now have our decision on the five oral Defence motions; and this is the decision:
+
+On Friday 2nd June 2006 the Defence for Nzirorera reviewed the material inadvertently disclosed by the Prosecution in unredacted form.  It now claims that one of the statements contained in this disclosure was a statement made by Witness HH which directly contradicts Witness T and, therefore, should have been disclosed in accordance with Rule 68 of the Rules of Evidence and Procedure.
+
+It further argues that not only the Prosecution violated its duties under Rule 68 of the Rules, but also under Rule 66(A)(ii) since Witness HH is also a Prosecution witness to be called in the present case and any of his prior statements should have been disclosed to the Defence.  The Defence for Nzirorera also alleges that some of the documents disclosed inadvertently contain information provided by the same 13 witnesses that the Chamber ordered disclosure of identifying information in a prior decision to compel inspection and disclosure.  It expresses serious concerns about the huge redactions made by the Prosecution on the documents issued from Witness T's files and about the fact that in its view the Chamber, "blessed" the Prosecution's decision to disclose redacted documents.
+
+It concludes that such violations of the Prosecution disclosure obligations amount to a serious breach of the rights of the Accused to a fair trial.  As a result, the Defence for Nzirorera made five motions, which are supported by the Defence for Ngirumpatse and the Defence for Karemera.  These motions are as follows:  
+
+One:  A motion for a mistrial.  
+
+The Defence claims that both the indictment and the disclosures made in the present case are so defective that the trial cannot be conducted under these circumstances.  It further argues that there is no way that this case can be finished by the end of 2008, a date by which the Tribunal should have completed its work.  It requests the Chamber to take the necessary steps to provide a solution to this, the trial and suggested a transfer of the case to a state, or severance of the case.
+
+Two:  A motion for reconsideration of the Chamber's decision of 15 February 2006; and that was a decision on the Defence motion to report the government of a certain state to the United Nations' Security Council and on Prosecution's motions under Rule 66(C) of the Rules.  The Defence request the Chamber to, again, review the withheld material in light of the Defence's new submissions and to order the disclosure of all material which falls within Rule 68 ambit, and which disclosure will not affect Witness T's right to a fair trial.  
+
+In its view, it is most likely that the Chamber did not notice that some of the witnesses' statements sought to be kept confidential were made by Witness HH, who is a witness in this trial, and by the       13 witnesses the Chamber already ordered disclosure of identifying information in a prior decision.  The Defence submits that had the Chamber known that it was a case, it would have ordered disclosure.
+
+Three:  A motion to cross-examine Witness T again on the new material to be disclosed.  As a result of the essential Chamber decision to reconsider its prior decision of 15 February 2006, particularly, on the Witness HH statement.
+
+Four:  A motion to order the Prosecution to immediately return all of the CD's received from the state, and to delete from any OTP -- OTP computer all material received from the state.  
+
+The Defence argues that as a result of Witness T's cross-examination, the Prosecution will now take the position that this witness is not credible.  It submits that the Prosecution is illegally in possession    of -- for impeaching material witness -- for -- sorry, is illegally in possession of impeaching material against the witness while the Defence does not know the content of the material.  In the Defence's view this would create an unfair advantage for the Prosecution.  
+
+The Defence request, therefore, that the Prosecution returns the material to the authorities of the state and that the re-examination be done by a Prosecution counsel who has no knowledge of these documents.
+
+Five:  Motion for sanctions against the Prosecution.  
+
+The Defence request that the Chamber imposes sanctions for the Prosecution pursuant to Rule 46(A) of the Rules as a consequence of the Prosecution's violation of its disclosure obligations.  In addition to these submissions the Defence for Ngirumpatse submits that the Prosecution's practice to redact documents raises the issue of the fairness of the trial and the right of the Accused to examine, and have examined the witness against him.  
+
+Defence for Karemera further refers the Chamber to the 1999 Prosecutor regulation number 2, and emphasises that the Prosecution has particular responsibilities which differs from and are broader of those of Defence counsel.  In Karemera's view, the integrity of the proceedings depends on the disclosure made by the Prosecution.
+
+The Prosecution objects to the five motions.
+
+As the Chamber stated in its oral decision of 16 February 2006 on the stay of proceedings, the Prosecution has a particular responsibility and must assist in the proper administration of international criminal justice, particularly by providing the Accused with any information which may assist him to impeach the credibility of the Prosecution's witnesses.  
+
+In the present case the Chamber has been several times seized of matters related to fair trial issues and the rights of the Accused.  The Chamber dealt carefully with each of these issues, considering each time whether the rights of the Accused were prejudiced, and if so, which remedy could be granted.  The Chamber ruled on the defects of the form of the indictment and managed the witness's evidence in a consistent way in light of the allegations pleaded in the indictment and the Appeal Chamber's jurisprudence.  
+
+The Chamber also showed on several occasions that it pays, and will pay attention to any disclosure matter that may affect the rights of the Accused.
+
+In its decision of 15 February 2006, the Chamber fully reviewed the documents sought for non-disclosure in light of the rights of the Accused, and see paragraph 19 of that decision.  The Chamber did not grant a blanket approval of the Prosecution's submissions, but carefully took into consideration the state's submissions regarding Witness T's fair trial, and the public interest of the state.  Particularly with respect to Witness T's immigration files, the Chamber requested further submission from the state and concluded, contrary to the Prosecution's submissions, that these files could be disclosed to the Defence.  And that was a Chamber decision of 17th March 2006.  
+
+Accordingly, the Prosecution did not breach its disclosure obligations, since the Chamber found that for public interest reasons and in accordance with Rule 66(C) of the Rules, some material in the Prosecution's possession should not be subject to disclosure now, or without the consent of the state.  
+
+The Chamber has already reiterated its position and its analysis in its oral decision of 30th May 2006 on the motion for reconsideration of the Chamber's decision of 15 February 2006.
+
+For the same reasons, the Chamber conversely authorised that some statements made by Witness T, and contained in 1 CD, 2B be disclosed to the Defence now in a redacted form.  As a result of the Chamber's oral decision of 30th May 2006, that material was disclosed to the Defence yesterday.  
+
+Now the Chamber further reviewed these redactions.  It must be noted that more than 50 pages of the 217 pages are fully redacted because they are cover pages and the last pages of the procès-verbaux of interview of Witness T by the authorities of the state.  They do not contain any relevant information, but their disclosure in unredacted form could amount to disclosed confidential and protected information about the witness and the proceedings in the state.  
+
+Generally speaking, the Chamber is satisfied that the other redactions were made in accordance with the prior decision of February 15, 2006 in order to avoid that any disclosure of information that could effect Witness T's trial and the public interests of the state.  In addition, it must be noted that a major part of the procès-verbaux are comments made by Witness T on statements made by other witnesses with respect to T, including statements from the 13 witnesses which were disclosed to the Defence in July 2005.  The Defence was, therefore, in a position to confront witness -- confront directly Witness T with these statements.  
+
+The Chamber is satisfied that the rights of the Accused have been guaranteed.  There is, therefore, no grounds for a mistrial, and the Defence application in that respect should be denied.
+
+As also recalled in the Chamber's oral decision of 30 May 2006 reconsideration of a decision may be granted when specific circumstances arise; namely, when a new fact has been discovered that was not known to the Chamber at the time it made that decision, or there has been a material change in circumstances since it made its original decision, or there is reason to believe that it original decision was erroneous or constituted an abuse of power on the part of the Chamber, resulting in injustice, thereby, warranting the exceptional remedy of reconsideration.
+
+When dealing with a Defence motion to report the government of a certain state to the UN security council, the Chamber was fully aware of the facts described by the Defence for Nzirorera, and which led to disclosure, made the authorities of the state of the Prosecution -- which led to disclosure made by the authorities of the state to the Prosecution.  
+
+At paragraph 12 of the decision of 15 February 2006, the Chamber found that while the procedure to disclose to the Prosecution was not the most appropriate one, it is clear that the authorities of the state had difficulties, including security reasons, to comply with the decision of 23rd February 2005 and reserved the view that their position could be presented to the Chamber via another organ of the Tribunal, the Prosecution's office.
+
+These circumstances have not changed.  It must be added that when further requested, the authorities of the state fully complied with other requests for cooperation made by the Chamber regarding the same issue.  See the Chamber's decisions of 14 October 2005, 10th November 2005, 13th February 2006, and 17th March 2006.  The Chamber is still satisfied that the authorities of the state have not failed to comply with the obligations under Article 20 of the statutes of the Tribunal.  There is no matter to reconsider this issue -- there is no reason to reconsider this issue.  
+MR. MORLEY:
+Your Honour`s microphone is off. 
+MR. PRESIDENT:
+I'm sorry.  With respect to the redactions made by the Prosecution and the fact that the Chamber reviewed the material ex part, as the Chamber recently reiterated, ex parte filings must be exceptions, but may be warranted in the interests of justice.  The Chamber has decided and will continue to decide any ex parte filing on a case by case basis that is in accordance to the law.  See the Chamber`s decision of 30th May 2006.  
+
+Moreover, Rule 66(C) of the Rules provides a specific power for the Chamber to review ex parte the information and materials that are sought to be kept confidential.  While the Chamber must always guarantee the rights of the Accused in accordance with Article 20 of the statute, there is no doubt that when ruling on a Rule 66(C) application, the Chamber will pay particular attention to the fairness of the trial and the rights of the Accused, and then ensure that disclosure is done when it may not prejudice further or ongoing investigations or for any other reason may not be contrary to the public interests or effect the security interests of any state.
+
+In the present case, the Chamber reviewed again the procès-verbaux of interviews of Witness HH, and the 13 witnesses named with the pseudonyms ADD, AHP, APA, APB, APC, APD, APE, DCY, FBU, CBO, COB, GMT, and HAF which are contained in CD2A previously disclosed to the Chamber for the in camera review, and which should not be subject to disclosure to the Defence at this stage in accordance with the Chamber decision of 15 February 2006.  
+
+The procès-verbaux of the 13 witnesses are interviews taken by the authorities of the state within the framework of their investigations.  For the reason developed in the Chamber's decision of                    15 February 2006, they may affect the public interest of the state, and they fall within the ambit of Rule 66(C).  
+
+The Prosecution, therefore, is relieved from its disclosure obligation to allow inspection of these statements pursuant to Rule 66(B) at this stage.  In addition, if one considers that they are exculpatory material, pursuant to Rule 68, the same exception as 66(C) is provided by the Rules at Rule 68(D).  
+
+The Prosecution may be relieved of its obligation under Rule 68 if the disclosure may be contrary to the public interest of a state, which is the case in the present case for the moment.  The Defence motion for reconsideration in that respect has no grounds, and falls, therefore, to be rejected.
+
+Even if the Prosecution agrees that the procès-verbaux of interview of Witness HH should be disclosed, the Chamber notes that it falls within the ambit of Rule 66(C) exception, since it is a document extracted from the investigatory file of the state, and it should not, therefore, be disclosed now.  
+
+The Chamber also notes that this witness is a witness in the current proceedings, and that his prior statement may affect his credibility.  The Chamber is, therefore, of the view that specific submissions from the authorities of the state are necessary to determine whether the document could be disclosed as a whole or in part.
+
+The other Defence motions, to cross-examine further Witness T, to order the Prosecution to return the CDs of material disclosed by the state, and to sanction the Prosecution, are also to be rejected.
+
+In conclusion the Chamber denies the Defence motions for mistrial to cross-examine further Witness T, to order the Prosecution to return the CDs of material disclosed by the state, and to sanction the Prosecution.  
+
+The Chamber denies the Defence motion for reconsideration of the Chamber's decision of                  15 February 2006, but reserves its ruling on the disclosure of Witness HH procès-verbaux of interview.  
+
+The Chamber request the authorities of a state, which they will be specified in the close session book of the transcripts, to cooperate with the Tribunal in accordance with Article 28 of the statute, and to make submission on procès-verbaux of the interview of a witness named under the pseudonym of HH, taken by the authority of the state can be disclosed in whole or in part to the Defence of each Accused in the present case.
+
+That is decision of the Court.  
+MR. MORLEY:
+That being Your Honours' ruling, I suspect Your Honours are looking forward to the redirect starting now?  
+MR. PRESIDENT:
+Yes. 
+MR. MORLEY:
+Thank you. 
+MR. WEBSTER: 
+There is a matter I would like to address to Your Honours, perhaps we can do it after we move away from the video link because I don't want to consume the time that we have on the link.  But it concerns the aspect of Mr. Robinson's motion in relation to GFA, because he had some allusion to disclosure violations with respect to three statements of GFA.  I bring it to the Court`s attention now, and I will address it whenever we finish the video link. 
+MR. PRESIDENT:
+Yes, okay, we can deal with that later.  We are going to have to -- it probably will have to be done tomorrow morning because we are going to want to terminate today's session at the close of the video link, assuming Mr. Morley goes for the rest of the afternoon. 
+MR. MORLEY:
+Oh yes. 
+MR. PRESIDENT:
+Mr. Hometowu, can you hear me?  
+MR. HOMETOWU:
+Yes, Mr. President, we are on line. 
+MR. PRESIDENT:
+Mr. Hometowu, can you hear me -- oh sorry. 
+THE ENGLISH INTERPRETER:
+Mr. Hometowu confirms that he can hear the president. 
+MR. PRESIDENT:
+Yes, thank you, I had taken out my earphones during the delivery of the decision, but I am back now with you.  And we are going to continue with the testimony of Witness T.  At this time the Prosecutor will be re-examining Witness T.
+
+Witness T, can you hear me?  
+THE WITNESS:
+I can hear you, Mr. President. 
+MR. PRESIDENT:
+Your testimony will continue now.  I remind you that you remain under the same oath to tell the truth that you took when your testimony began.  The Prosecutor will now conduct his re-examination of you.  
+RE-EXAMINATION
+BY MR. MORLEY:
+Q.	Witness T, can you hear me? 
+A.	I hear you, Counsel. 
+Q.	I am going to be asking you some more questions after your helpful answers in the past two weeks.  And I imagine that I will be asking you questions all through the remainder of this afternoon and throughout some, if not most, of tomorrow.  Do you understand? 
+A.	I understand you, Counsel. 
+Q.	Can we begin together with some straightforward thoughts.  After the 6th of April of 1994 were there massacres of Tutsi? 
+A.	Yes, Counsel, that is of public notoriety. 
+Q.	Were any of the massacres of Tutsi carried out by members of the Interahamwe? 
+A.	(French spoken) among others.  In other words, yes, by the Interahamwe. 
+Q.	Throughout the time of the massacre of Tutsis, some of which occurred at the hands of the Interahamwe, who was in charge overall of the Interahamwe? 
+A.	After the 6th of April 1994, the term "Interahamwe" was generalised, extended to cover all of the youth that participated in the massacres.  I'm making that distinction in order to answer precisely as possible your question.  
+
+The Interahamwe, that general term after the 6th of April included the Interahamwe za MRND, and the youth of the militias of the other parties, such as the MDR party, the PL; the youth affiliated to the parties that had formed a government coalition.  So I mean the Interahamwe za MRND were controlled by the MRND, and the others, respectfully, by the MDR, PSD, and PL essentially. 
+Q.	Who controlled the Interahamwe za MRND after the 6th of April of 1994?  Who in the MRND had control; their names please? 
+A.	Let me start at the top.  The national committee, more precisely, Mr. Mathieu Ngirumpatse,                Mr. Édouard Karemera, Mr. Something Ferdinand, but I think he died a few days after the 6th of April, I don't know when exactly, and Mr. Nzirorera, Mathieu.  And apart from that control it is easier for me to speak of Kigali which I knew better than the rest of the country as far as control was concerned, but more particularly, in Kigali those were the four people responsible, who controlled the Interahamwe. 
+Q.	On the 18th of May of 1994, we know as a matter of record, Mathieu Ngirumpatse made a broadcast on the radio to ask that those at the roadblocks allow Tutsi refugees at the Mille Collines hotel to pass through those roadblocks.
+
+Was that request by Mathieu Ngirumpatse honoured?  
+A.	Yes, that is correct.  It was heard and honoured because the results are known. 
+Q.	You have told us that you participated in the distribution of weapons on the 13th of April of 1994 to people at the roadblocks in Kigali who arranged for you and your colleagues to have those weapons? 
+A.	I will repeat, on the 12th of April Mr. Nzirorera, Mathieu -- forgive me, I am mixing things up.  
+
+Mr. Joseph Nzirorera made arrangements with Colonel Bagosora, who himself had given orders for us to receive the weapons in the evening of the 12th of April. 
+Q.	How -- how were those weapons used? 
+A.	Counsel, those weapons were handed out on the 12th and used for various purposes, massacres, pillages, looting, civil defence.  I couldn't be able to tell you exactly what the weapons were used for.  What are weapons used for; especially at a time such as that when there was massacring, slaughtering, looting, civil defence and fighting of all sorts?  That is what they were used for.  What other purpose could they serve?  
+Q.	You have told us there came a time in May of 1994, approximately, the 15th or 16th of May when you and others attended a meeting with a Colonel Gasake about creating a civil defence.  Were the Interahamwe za MRND to become part of the civil defence? 
+A.	Well, in fact, the government had called on the entire population to participate in the civil self-defence.  And to comply and implement those instructions, military encadreus were appointed in each préfecture by the government to encourage the population that was to participate in the civil defence.  And so the MRND, the MDR, PSD, PL and other members of the provisional committee, and it is in that capacity that I participated in the meeting on civil self-defence which took place under -- with the participation of Colonel Gasake.  I had forgotten to mention the CDR.  There was also a representative of the CDR.  So the Interahamwe participated in civil defence. 
+THE ENGLISH INTERPRETER:
+The witness sometimes says civil defence and sometimes civil self-defence. 
+BY MR. MORLEY:
+Q.	Had the Interahamwe za MRND committed massacres of Tutsis prior to their being invited to become part of the civil defence programme? 
+A.	Well, that should be quite obvious that is the truth.  If the massacres began immediately after the       6th of April and the civil self-defence had been decreed previously, so the Interahamwe participated in the massacres before civil defence was instituted by the interim government.  
+Q.	Are you aware that Édouard Karemera became the minister for the interior on the 25th of May of 1994? 
+A.	Yes, I was aware of his appointment as ministry -- minister of the interior, Counsel. 
+Q.	As minister of the interior, do you know what role Édouard Karemera had in implementing the civil defence programme? 
+A.	My personal understanding, certainly shared by many people, was that the government, the interim government was composed of ministers -- ministers appointed by the various parties such as MRND and the others.  So the decisions made by the government were taken collegially.  I do not see it in any other light. 
+Q.	Which minister was responsible for implementing the civil defence programme once a decision had been taken by the government that there should be a civil defence --  
+MR. PRESIDENT:
+Mr. Morley, Mr. Morley, you are speaking too quickly. 
+MR. MORLEY:
+I do apologise, sir.  
+THE ENGLISH INTERPRETER:
+Well, it wasn't actually, it was another slight technical problem.  Pray proceed, Counsel, sorry. 
+MR. MORLEY:
+I will ask the question again. 
+BY MR. MORLEY:
+Q.	And, Witness, it may help you if you don't know the answer to something, say so.  Which minister was responsible for implementing the civil defence programme after the government had decided that there should be a civil defence programme? 
+A.	Well, as I see it, it was the minister of the interior and the minister of defence. 
+Q.	To your mind, what was the effect of the minister of the interior drawing into a civil defence programme those who had massacred the Tutsi? 
+A.	Well, in fact, and this is my personal belief, my personal conviction, seeing in the government that before the 6th of April the matter of civil self-defence had been raised which was either each time denied or postponed indefinitely, this time they adopted that programme of civil self-defence, which at the same time institutionalised, legalised, absolved in some ways those that had undertaken slaughtering, massacring.  Now the government authorised civil self-defence, notwithstanding the crimes of the massacres. 
+Q.	When you described the pacification tour which took place on the 11th and 12th of April of 1994, you described it as "a snow job".  What did you mean by that? 
+A.	In fact, speaking of a snow job, or pulling the wool over someone's eyes, I wish to emphasise, and it must have been an answer to a very specific question, I wished to underscore that having given us that mission, entrusted us with that mission without supporting it with the necessary means for it to be effective; having seen that that government after having interested us with that mission, then fled.  That was the only conclusion I could come to, that it was a snow job, which they didn't believe in themselves.  Pulling the wool over people's eyes, they then scarped -- they then fled without advising anyone of that.  That is why I used that expression in that sense. 
+Q.	Is it your assessment that the pacification tour was a sincere attempt to stop the killing, or a cosmetic attempt to assist the government's embarrassment in front of the international community? 
+A.	My answer, Counsel, or rather my conclusion, my answer should link several situations.  There was this military pressure by the RPF.  There was the general context, context characters in Kigali, so there was this pressure by the international community, which was effectively exerting such pressure openly.  So putting all of these elements together I would really have to say that as far as I am concerned, all of these ingredients, or circumstances led to this mission been entrusted to us.  So, I would not necessarily say that there was a lack of goodwill, nor can I say that all of these matters were thought through carefully, because we are not provided with the resources.  And it was believed that the matter would be simply resolved by entrusting us with the mission.  It is, therefore, complex, and it is the sum of all of these elements.  
+
+As I said earlier, when we realised that the government had fled without talking to us, we said to ourselves that they probably did not believe in it themselves.  But later as the situation developed, and when the government tried to return to Kigali and when the RPF redoubled its effort to prevent it from returning to Kigali, it was clearer to us. 
+Q.	What resources -- what resources should you have been given if the mission was a genuine attempt to stop the killing? 
+A.	Actually not only should that mission have been entrusted to members of the Interahamwe national committee, it should also have been entrusted to representatives of the youth wings of various other parties,  since they were also positioned at the roadblocks, since it was known that they were also killing, committing massacres, that is one.  
+
+Secondly, the resources belonging to the state include the public order of services, that includes the gendarmerie, the army, the police.  These are some of the ways, or two of the ways, at least, in the short term that could have been provided to us.  I believe that if this had been done in the first days that would definitely have contributed to dissuading and reducing the massacres, especially if the sanctions, the measures had been translated into action. 
+(Pages 13 to 23 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1615H 
+BY MR. MORLEY:
+Q.	Were there ever any sanctions or measures translated into action? 
+A.	Personally, I have no knowledge of this.  I say that personally I have no such knowledge.  Perhaps there were some, but I do not know of them. 
+Q.	You described during questioning the spectacle of soldiers in uniform having been disciplined by being shot for looting.  Are you aware of any example of any member of the militias, whether they be Interahamwe za MRND or others, being shot or arrested or disarmed or beaten, or sent home for continuing the massacres of Tutsis? 
+A.	In fact, that is the answer I gave a while back when I said that if there had been, I had no knowledge, so I do not know of this.  I do not know any. 
+Q.	If there were examples of members of the militias, either the Interahamwe za MRND or others, being shot or arrested or disarmed or beaten, or sent home for massacring the Tutsis, would you expect to know of it, given your knowledge of the Interahamwe movement? 
+A.	At any rate, in Kigali this would certainly have been noticed by me or many others, or any other residents of Kigali.  I gave that as an example, the example of the soldiers whose bodies I saw scattered in the streets of the Kigali business district, the trading district included.  In this way, the business district was seeking to protect itself.  It was a sort of dissuasive measure.  As for the militia and the population, I know of no such cases.  And if such cases had arisen, I would have been informed.  It would certainly not have escaped the attention of the residents of Kigali, whoever they may be, whether this was Interahamwes or anybody else.  
+Q.	Did you ever hear any broadcast by Mathieu Ngirumpatse at any time, requesting or ordering the Interahamwe za MRND to leave the roadblocks on pain of being shot, or arrested, or beaten, or disarmed, or taken away?  
+A.	No, Counsel.  I know of no instruction to the effect that the roadblocks be dismantled, no.  All the measures to ensure vigilance or security, all such instructions were given, but none of the measures called for dismantling of the roadblocks because, indeed, the roadblocks -- there were some rogue roadblocks which were rogue or spontaneous roadblocks.  I know that, in May, there was a call for such roadblocks to be removed. 
+Q.	Did you ever hear a broadcast from Édouard Karemera or Joseph Nzirorera at any time as leaders of the MRND, calling for the disbandment of roadblocks on pain of members of the Interahamwe za MRND being shot, or arrested, or beaten, or disarmed, or sent away? 
+A.	No, Counsel, not in that sense. 
+Q.	Did Ngirumpatse, Karemera and Nzirorera have access as senior figures in the MRND and in the government, to making radio broadcasts? 
+A.	That goes without saying, Counsel. 
+Q.	During the pacification tour, you have told us there was a request for weapons by people at the roadblocks.  How was the request for weapons received at the Hotel Diplomat by Ngirumpatse, Nzirorera and Karemera?  
+A.	In answer to this, when we assessed the situation, we were told, "Go on and tell them, tell them that the government will consider and give a follow-up to their request."  So that is how -- or, rather, the answer that was given to us, which, in turn, was to be relayed to the population. 
+Q.	What was happening at roadblocks?  Were Tutsis being killed?  
+A.	I did not quite understand the question.  
+Q.	Were Tutsis being killed at these roadblocks?  
+A.	Tutsis were being killed at roadblocks, just as they could be killed in their homes or in the forests.  I'm not certain I quite understood your question, but that is all we have been saying up to now, that Tutsis were being killed at roadblocks or elsewhere. 
+Q.	In response to the request for weapons by people at the roadblocks, at any stage were you told by Ngirumpatse, Nzirorera or Karemera, "That is out of the question, because we don't want people at roadblocks killing people"?  
+A.	No, Counsel. 
+Q.	Were women and children being massacred by members of the Interahamwe za MRND?  
+A.	That was the case, Counsel.  Indiscriminately, the population was killed, with no discrimination as to age and sex. 
+Q.	Were women and children RPF infiltrators? 
+A.	In all honesty, in no case were children infiltrators.  It was said that there were some women, but even that number would have been negligent.  So that, for me, women and children were not RPF infiltrators. 
+Q.	You have told us of seeing a little girl aged about four on the 9th of April, distressed by her dying mother, at one of the roadblocks.  And you have told us that you wished to intervene but you were given a strong message not to do so.  What happened to the little girl, and what was the message?  
+A.	Actually, I have no illusions about the fate of the little girl.  She was killed.  And that is why I was telling you it was with no discrimination as to age and sex.  That is when I finally realised that we had taken the wrong side or made a mistake in the conflict.  This went beyond infiltration.  No one can claim that a four year old girl -- or a woman, no.  We were mistaken in our fight and so, unfortunately, you cannot really convince someone, even though you may have illusions that you can.  Whereas the RTLM was saying that the enemy is doing this on its own, whereas people who escaped said, on the other hand, that the RPF was doing the same.  And that is why it was very difficult to intervene in this specific case.  I was told that Regema had left at the same age.  I was threatened, asked whether I would include that little girl among the children.  So -- 
+Q.	When you said that someone had left at the same age, who was it who had left, and where had they gone? 
+A.	As a matter of fact, I was given by way of a retort the name of Regema; Regema, who is considered a person who went into exile at the same age as the young girl, which person became a general who attacked Rwanda in 1990.  That was the gist. 
+Q.	So why kill the little girl?  
+A.	Counsel, why kill the little girl?  There is no justification, just in the minds of those people; they explained it away by saying that she was a potential, or future, enemy.  That is what I can say -- all I can say, rather, in answer to this question which is very difficult. 
+Q.	Who was it who told you that you should not concern yourself about the little girl because she could be a potential enemy, when you saw her by her dead, or dying, mother on the 9th of April?  
+A.	People at the roadblocks, Counsel, the Interahamwe or Interahamwe za MRND, as they were known; people at the roadblocks.  I mentioned this because it was branded in my memory, that picture.  However, I'm certain that at other roadblocks similar incidents arose that other people may have witnessed. 
+Q.	At the pacification tour meeting with Ngirumpatse, Nzirorera and Karemera, at any stage did anyone express concern about the killing of women and children? 
+A.	Not particularly, Counsel, because -- now that I think about it, Mr. Mugenzi would say, "Instead of attacking people who are financial stalwarts or financiers of the RPF, you are attacking women and children."  However, not particularly -- we were not given a mission specific to a certain group.  
+JUDGE SHORT:
+Mr. Morley, for me to understand the statement about Regema, can you ask the witness if he knows the ethnicity of Regema. 
+MR. MORLEY:
+Thank you, Your Honour, a most helpful contribution.  
+BY MR. MORLEY:
+Q.	Witness T, His Honour Judge Short would like to know if Regema was a Hutu or a Tutsi, or of what ethnic origin, please. 
+A.	General Regema was a Tutsi leader, or chief, of the RPF on the 1st of October 1990 attack, and he was killed in the fighting during the month of October.  I hope I have provided all necessary answers:  that is to say, he was Tutsi and an RPF military leader. 
+MR. MORLEY:
+I hope that assists Your Honour.  
+BY MR. MORLEY:
+Q.	At the meeting of Nzirorera, Ngirumpatse and Karemera, also with Mugenzi on the 10th of April of 1994, you've told us that number 1 on your list was present at that meeting.  Was there any discussion of what had happened to number 1's Tutsi family members?  
+A.	Actually, number 1 was discussed because when we responded to the summons for the meeting, not everybody attended.  So number 1, 2, 3, and some others who were not there -- and it was announced that number 1's father, his brother and all his family had also been murdered and that, therefore, it was believed that he would be unavailable, as well as a number of others who resided on that side of town in Kigali, that is, that was inaccessible by road.  It was explained to us why he was not present with us.  
+Q.	You have told us it was your understanding that number 1's family members had been murdered by his own clan, his own people, referring, as I understood it, to his Interahamwe.  Is that right or is that wrong?  
+A.	Counsel, by saying "his own" or "our own" clan, I mean that it was not the RPF that killed him, in no way.  So, our own clan. 
+Q.	Was it your understanding the Interahamwe had killed members of number 1's family?  
+A.	Subsequently, when I met number 1 after the 12th, he was in a position to tell me that it was members of the Presidential Guard.  I cannot tell you more because that is all he gave me.  And, indeed, we presented our condolences, and he kept up the struggle.  
+Q.	Why were they killed? 
+A.	Well, Counsel, it's as hard for me to understand.  I have said that I knew that number 1 was of a Tutsi mother, Hutu father; that is, according to the patriarchal system in Rwanda, he'd be Hutu.  I will go further.  Were he Tutsi, he wasn't perceived as an enemy.  And I know, moreover, that number 1 was supported by his father and his brother in our struggle, and that's where some excesses are incomprehensible.  Personally, I was shocked, as were many others.  We couldn't -- we could but encourage number 1.  It was too much, over the top.  But that was the truth of the war -- of that war. 
+Q.	Were they killed because they were Tutsi?  
+A.	Well, Counsel, a large body of opinion held that number 1 was Tutsi.  Another body of opinion accused his brother of speaking out of both sides of his mouth, on the government side and on the enemy side.  But personally, as far as I'm concerned and from what I knew, I don't know any of his relations who did not support number 1's efforts or activities. 
+Q.	There is a reason why I'm asking you these questions about number 1's family.  All I want at this point, if it's possible, is an answer, yes or no.  As you understand it, were number 1's family members killed because they were Tutsi, or thought to be Tutsi?  
+A.	Yes, Counsel. 
+Q.	Thank you.  Now we come to the point.  What was the reaction of Ngirumpatse, Nzirorera and Karemera to news of the slaughter of members of number 1's family because they were Tutsi? 
+MR. ROBINSON:
+Excuse me, Mr. President.  I'm going to object to that question because, first of all, it assumes that they were Tutsi, which the witness has only said they were Tutsi or thought to be Tutsi.  Secondly, the witness says that he only learned on the 12th of April that the deaths were because -- who committed the deaths, the Presidential Guard, and the reason for them.  So now he's asking a question about what reaction there was to that on the 10th of April, which was before the witness even learned of the reason for that death.  So I don't think it's a fair question.  
+MR. MORLEY:
+Well, let's see what the witness says.  With Your Honour's leave.  
+BY MR. MORLEY:
+Q.	When you met with Nzirorera, Ngirumpatse, Karemera as part of your pacification tour mission, you have previously given evidence that the three, Ngirumpatse, Nzirorera and Karemera, were aware of the deaths of members of number 1's family.  Now, my question is:  How did they behave towards number 1?  Did they express condolences, sympathy?  What was their reaction?  
+A.	Well, let me specify that number 1 was not present, and being informed that number 1 was not present and what had befallen him and informing them at the same time that number 11 had been killed, well, I have described the attitude that chilled me was that they did not express any compassion, that they were indifferent and remained so, as though death was some common or garden -- ordinary.  I could not understand this normalisation of death, even when it's in respect of people fighting the same fight, fighting the same war.  I didn't understand.  
+
+I know that we Rwandans are stoic in the face of death, a certain fatalism, but personally I was wondering, well, if it's like that, I can die, and that's that.  I really ask -- put that question to myself.  
+Q.	How well did Ngirumpatse get on with number 1?  
+A.	Excellent.  Excellent, Counsel, very excellent. 
+Q.	How well did Nzirorera get on with number 1? 
+A.	Perhaps less consistently in the context, since the beginning of their collaboration, but their relations were just as good. 
+Q.	How well did Karemera get on with number 1? 
+A.	Well, I'm speaking in the context of what I know about his relations, but Mr. Karemera's contact and that of the national provisional committee was not as consistent, as close, as for the two others.  I'm not aware of any particular tension or fall-out from the relations, but relations between Ngirumpatse and number 1, Nzirorera and number 1, and Karemera, were progressively less intense, less consistent in comparison -- comparison.  Because the duration, the length of time they had been -- had a relationship was less, but I know of no tension, of no particular misunderstanding.  
+Q.	What impression did it create in your mind that no word of sympathy or condolence were expressed to you and others about the loss of number 1's family? 
+A.	I didn't fully grasp that, Counsel.  Excuse me, could you repeat it, please?  
+Q.	What impression was created in your mind that no word of sympathy or condolence was expressed by Ngirumpatse or Karemera or Nzirorera about the slaughter of the family of number 1?  
+MR. PRESIDENT:
+Mr. Morley, hasn't that been answered already?  
+MR. MORLEY:
+Sort of.  Your Honour knows I'm nothing if not thorough.  If Your Honour feels I've dealt with that point, I'll move on, but - 
+
+MR. PRESIDENT:
+Well, we're not trying to interfere with you, but we do want the re-examination to end some time, and I thought the question had already been answered.  
+MR. MORLEY:
+Thank you.  
+BY MR. MORLEY:
+Q.	You've told us that Mr. Mugenzi made reference to women and children being slaughtered instead of Tutsi businessmen.  Was that said in the presence of Ngirumpatse, Karemera and Nzirorera, and if so, what impression did you form of what Mr. Mugenzi was suggesting should happen to the Tutsi businessmen?  
+A.	In fact, if you would allow me, my opinion of Mugenzi is I see him as an opportunist in relation to what happened before the 6th of April.  It's he who had started things off.  He's the one who fueled the flames in violence between the youth wings, and when he joined the five coalition parties well before the 6th of April, he had declared that these people that do not appreciate what had been achieved by the revolution of 1959, Bazabona ishyano. I do not know how to translate that precisely.  But he meant that they are exposing them to calamity.  Maybe it's a quote from the Bible.  For me, it's a man who is a turncoat, who had just turned his coat because he was hoping for a ministerial portfolio, if he hadn't already received one.  So that was my impression, of someone who had fought on the side of the enemy and now changed -- saying out of the other side of his mouth -- 
+Q.	That's all very interesting -- 
+A.	-- and now is on the side of Mr. Ngirumpatse, Mr. Nzirorera, Mr. Karemera.  
+Q.	Thank you, Witness.  May I make this enquiry of you?  When you are speaking, are you able to see me on a screen?  
+A.	Sorry?  
+Q.	When you are speaking, is there a television which shows me on a screen?  
+A.	You mean while I'm speaking?  While I'm speaking, I cannot see you on the screen, on the monitor.  
+MR. MORLEY:
+Your Honour, it's my understanding that when the witness is speaking, my microphone doesn't work, so that I can't stop him so re-direct him.  And I was wondering whether, if he saw me, I could indicate with a movement of my hand whether we don't need any more of that. 
+MR. PRESIDENT:
+Mr. Morley, I would imagine the witness is seeing what we are seeing, and when he's speaking, the camera is on him. 
+MR. MORLEY:
+Yes, that may be right, but I wasn't sure if, when we see him, he sees us.  That's all I was trying to establish.  Sorry for that enquiry.  I was just looking for a method of controlling the witness.  
+
+THE ENGLISH INTERPRETER:
+Counsel, your microphone does work while he's speaking.  If you speak long enough, I'm sure the French booth can break in, or something like that.  But your microphone does work; I just wanted to make that clear.  Thank you.  
+MR. MORLEY:
+Thank you.  Well, with that knowledge.  
+BY MR. MORLEY:
+Q.	Witness, thank you for that answer about your thoughts about the political career of Mr. Mugenzi.  But what I'm interested in is:  What was he saying should happen to the Tutsi businessmen?  
+A.	He meant that it's they that should be killed as a priority, if you like.  I think my -- that language is clear. 
+Q.	And when he said that in the presence of Ngirumpatse, Karemera and Nzirorera, did any of them object to the suggestion Tutsi businessmen should be killed as a priority?  
+A.	No, they made no comment on that, on what he's said. 
+Q.	From what you've said, Mr. Mugenzi seems to have been complaining that the Interahamwe za MRND was killing the wrong people, that there were other people who should be killed instead.  At any stage in the context of a pacification tour being organised, did Nzirorera, Ngirumpatse or Karemera say, "No, in fact, no one should be killed," Tutsi businessmen notwithstanding?  
+A.	No, Counsel, because -- 
+THE ENGLISH INTERPRETER:
+I'm sorry, could you ask the witness to repeat that answer?  It wasn't terribly clear.  
+MR. MORLEY:
+Your Honour, I'm not going to ask the witness to repeat the answer.  There was a degree of reiteration in the question.  
+BY MR. MORLEY:
+Q.	As part of the pacification tour, did Karemera, Nzirorera or Ngirumpatse offer any medical support for those who had been injured at roadblocks, women and children or others?  Was there any suggestion that people would be helped who had been seized by the roadblocks, and protected?  
+A.	No, Counsel, I did not hear that announcement. 
+Q.	Was there any suggestion that those who had been arrested at the roadblocks should be released and allowed to go home as part of the message that the killing should stop? 
+A.	No, Counsel. 
+THE ENGLISH INTERPRETER:
+Sorry, did the answer not get across?  He said, "No, Counsel."  Thank you.  
+MR. MORLEY:
+Just trying to indicate to the ever-helpful translator that a pause, as Your Honour knows, is usually an indication that my rather slow brain is making its way to the next question. 
+
+THE ENGLISH INTERPRETER:
+Sorry, I thought perhaps I'd forgotten to put my microphone on, which sometimes happens.  
+BY MR. MORLEY:
+Q.	Now, Witness, what I propose to do is take you through some of what you said during the course of your cross-examination; that is when you were helpfully answering questions by Mr. Robinson, Mr. Weyl and Mr. Sow.  Do you understand what I've said?  
+A.	Yes, I understand you, Counsel. 
+Q.	On the 26th of May, when Mr. Robinson was asking you questions, he asked you, "Was there a plan to commit genocide?"  And you responded, "If such a plan existed, then I was not aware of it."  May I ask you, do you know a man called Deogratias, D-E-O-G-R-A-T-I-A-S, Nsabimana, N-S-A-B-I-M-A-N-A, Deogratias Nsabimana? 
+A.	Deogratias Nsabimana was the chief of staff of the armed forces of Rwanda.  I do not know him personally, but everybody knew he was chief of staff.  
+Q.	Were you ever aware of a document produced by this man in which there is a definition put forward by the army of who the enemy is in Rwanda in 1992? 
+A.	I came to know of the document much later, when in exile.  But before 1996 or 1997, I had no knowledge of the document. 
+Q.	We know that the RPF launched an invasion in October 1990; it's a matter of record.  Yes?  
+A.	That is quite true, Counsel. 
+Q.	You have told us that you have become familiar with a document produced by that officer which was produced in 1992, although you learnt about it much later; is that right? 
+A.	I think there is a misunderstanding because I do not believe I said I came to know the document.  No one up to now has mentioned it to me, unless there is a misunderstanding about the document in question.  
+Q.	I don't want there to be a misunderstanding, so I'll ask the question I had thought I'd asked you three questions ago again:  Are you aware of an army definition of the enemy in Rwanda produced in 1992? 
+A.	No, actually. 
+Q.	When you said in answer to Mr. Robinson in response to the question, "Was there a plan to commit genocide," "If such a plan existed, then I was not aware of it," were you aware in the lead-up to 1994, April 6th, of the way in which the army was articulating the definition of the enemy in Rwanda?  
+A.	Counsel, when I answered that if such a plan existed, I had no knowledge of it, that is a way of saying no.  So, now, we are discussing this document and I tell you I heard about the document.  I got to know about the document subsequently in a document that said that the army had apparently created a commission that defined the criteria for the enemy, but I only got to know about this after I had left, after 1996. 
+(Pages 24 to 31 by Karen Holm)
+
+
+1700H 
+BY MR. MORLEY:
+Q.	Are you aware that the document that you have learned about defines the enemy in its opening paragraphs as -- the main enemy is the Tutsi inside or abroad, extremist and hungry for power, who has never and has not yet recognised the realities of 1959 social revolution and wants to take power in Rwanda by all means, including armed conflict?  Now, are you aware that that was an army definition of the enemy in 1992, yes or no? 
+A.	Counsel, I did not understand the question. 
+Q.	I am trying to establish your state of knowledge.  I am trying to establish what you can tell the Tribunal when you said you were not aware of any plan to commit genocide.  Now, yes or no, do you understand what I have said? 
+A.	Yes, I understand what you read (sic), Counsel. 
+Q.	Now, you have told us that you became aware of the existence of an army document defining the enemy produced in 1992.  Do you understand what I have said? 
+A.	Yes, Counsel. 
+MR. WEYL:
+Mr. President, I have an objection.  I do not think that I heard the witness say he had knowledge of an army document.  These are words the Prosecutor is putting into his mouth by citing a document which, for his part, he attributes to an individual.  However, I never heard the witness make the remarks that the Prosecutor claims he made, the Prosecutor who is putting words into his mouth. 
+MR. MORLEY: 
+Well, I heard him say that he became aware of an army document defining the enemy.  He told us that it was later than the year in which it was produced.  All I am trying to establish is whether he is aware of its definition. 
+
+Now, what I would respectfully submit and, as a matter for Your Honours, maybe Mr. Weyl just missed it because it is late in the day and I know how difficult it is to be listening to translations, but there we are.  I don't think I have done anything wrong.  I asked the question and I went over it again.  
+MR. PRESIDENT:
+I can clarify.  
+
+Mr. Weyl, the witness did say he became aware of it when he was in exile.
+MR. WEYL:
+Mr. President, I agree, but to be specific, the witness stated he heard of a document.  For now, though nobody -- at least, the witness said he did not say he came to know of an army document, which is very specific.  At no point did the witness give any specificity as to the document that has been referred to and the author of the document.  The witness said he came to know of a document, but without being specific as to the content of the document and the authorship of the document. 
+MR. PRESIDENT:
+I think he did answer with regard to the authorship. 
+JUDGE SHORT: 
+Let me read the question.  I think it's -- the answer comes from the question.  The question was:  
+"Were you ever aware of a document produced by this man in which there is a definition put forward by the army, of the enemy in Rwanda in 1992?"  That was the question.  And the answer was:  "I came to know of the document much later when in exile, but before 1996 or 1997, I had no knowledge of the document. 
+MR. MORLEY: 
+May I thank Your Honour.  It is late in the day and Mr. Webster, my learned leader, is enquiring whether Your Honours may want to have a short break.  For my part, I am happy to continue, but it may be that Mr. Weyl has just indicated how difficult it is to keep concentrating after an hour and -- what is it now, it's coming up to two hours. 
+MR. PRESIDENT:
+Mr. Morley, how much longer do you intend to be?
+MR. MORLEY: 
+I am going to be a lot longer.  I am going to go through into before lunch time tomorrow.  
+MR. PRESIDENT:
+(Inaudible) ... tomorrow. 
+MR. MORLEY: 
+No promising because I know how Your Honour likes, as best as possible, a time estimate, but I would have thought I will take up the morning tomorrow. 
+MR. PRESIDENT:
+Mr. Morley, we don't think there is any point in having a break and coming back.
+MR. MORLEY:
+I respectfully agree, Your Honour. 
+MR. PRESIDENT:
+But what we are willing to do, in view of your indication of completing tomorrow morning, we could close the session in another 15 minutes or so. 
+MR. MORLEY: 
+As Your Honours please. 
+MR. PRESIDENT:
+So if you went on for another 15 minutes, we could then adjourn for the afternoon. 
+MR. MORLEY: 
+Very well.  I am very happy if it suits Your Honours to go through to six o'clock.  I don't need a break at all, but I do know how difficult it is for my learned friends opposite to be listening to these answers over the minutes and hours going through their headsets.  It is a tiring process.  
+MR. PRESIDENT:
+We understand that too, but you see it is 5:20 now and there is no point in taking a break and coming back.  So it's really -- it's far better to stop early. 
+MR. MORLEY: 
+Very well.  If I may, with Your Honours' leave, turn back to the witness.  
+BY MR. MORLEY:
+Q.	Witness, can you hear me? 
+A.	Yes, Counsel, I can hear you. 
+Q.	Now, all I want to establish is whether you were aware of an army definition of the enemy in Rwanda from 1992.  Do you understand what I am saying? 
+A.	Yes, Counsel.
+Q.	I am going to read you the definition which appears in the document in the first paragraph.
+MR. MORLEY:
+	For Your Honours' assistance, it is at tab 4.  
+BY MR. MORLEY:
+Q.	It says:  "The main enemy is the Tutsi inside or abroad, extremist and hungry for power, who has never and/or has not yet recognised the realities of the 1959 social revolution and who wants to take power in Rwanda by all mean, including armed conflict." 
+
+Now, do you understand what I have said? 
+A.	Yes, Counsel.
+Q.	It further goes on in the next line.  "An enemy supporter is anybody who renders assistance to the main enemy."  Do you understand what I have said? 
+A.	Yes, Counsel. 
+Q.	Now, my question is:  prior to the 6th of April 1994, were you aware that the army in Rwanda was defining the enemy in Rwanda in the terms I have just read? 
+A.	Yes, Counsel. 
+Q.	When did you become aware that that was an army definition of the enemy from 1992? 
+A.	But I said it earlier, these army definitions or anybody else's definitions, I came to know about them much later, after 1994, or perhaps I do not understand your question. 
+Q.	It really is a small point, and I am troubled by the fact that it is taking so long to sort out.  From what you have told us, it seems to be the case that you were not aware of the 1992 army definition of the enemy by the 6th of April of 1994.  Am I wrong about that? 
+A.	Counsel, the enemy for me, like everybody else, we knew who the enemy was, but as for this army definition, I came to know about it through the document I made reference to after 1996, at any rate, not before.  I do not believe I had knowledge of that definition before 1992, the way you have read it to me. 
+Q.	There we are, that is the point.  I want to move on to another subject.  Just concentrate on the question, if you can.  I know it is late in the day.  But on the 26th of May of 2006, in response to Mr. Robinson, he asked you:  "Do you believe that if President Habyarimana had not been assassinated on the 
+	6th of April 1994, the massacres would never have occurred?"  And you responded, "Personally, I believe, no, and I would say, at least, not -- not at that scope."  
+
+	Now, do you understand what I have said? 
+A.	Yes, Counsel. 
+Q.	What did you mean by saying that if President Habyarimana had lived, massacres may not have been at that scope? 
+A.	I gave that answer out of my experience, Counsel.  Each time tension -- ethnic tension arose, it was sufficient for Habyarimana to call upon the population, and as if by magic, people would follow his orders.  So in answer - or, in any case, not at that scope; it is because of his charisma that he was known for putting a stop to that sort of thing.  So that is the spirit in which I gave that answer. 
+Q.	Did you anticipate that had the president lived, there would nevertheless have been some massacre of Tutsis from time to time, or is that not the meaning of what you were saying at all? 
+A.	I had not anticipated anything because inter-ethnic tension had arrived on the scene after the 
+	1st of October 1990.  We saw cases of it, and it is in that spirit that I gave my answer.  The tension that obtained at the time -- unless one were blind, there were murders left and right.  It was an undeclared war, a war that had not yet spoken its true name, and it is still in that spirit that I gave that answer. 
+Q.	Thank you.  That is very helpful.  
+
+Now, may I ask you this question?  Do you understand the difference between something that you know as a fact and something that you believe as an opinion which is not necessarily based on personal knowledge?  Do you understand the distinction between fact and opinion? 
+A.	Quite. 
+Q.	On the 26th of May, Mr. Robinson asked you about killings in Bugesera and he asked you whether the Interahamwe had been involved, and your response was:  My personal belief is categorically no."  
+
+	Now, do you understand what I have said? 
+A.	Yes, Counsel.
+Q.	At the time of the killings, were you in Bugesera? 
+A.	No, Counsel. 
+Q.	At the time of the killings, we know that Mathieu Ngirumpatse was the minister of justice, and we also know from your testimony later with Mr. Weyl, that 400 people were arrested in respect of the Bugesera killings.  Do you understand what I have just said? 
+A.	Yes, Counsel. 
+Q.	Do you know of anyone being prosecuted under the auspices of the ministry of justice run by 
+	Mathieu Ngirumpatse for the killings in Bugesera? 
+THE ENGLISH INTERPRETER:
+Have we lost the link?  I can't hear the -- 
+THE WITNESS:
+(No interpretation) 
+BY MR. MORLEY:
+Q.	I am sorry, Witness, we lost the link, so we didn't have the beginning of your answer.  A very simple question, we know that Mathieu Ngirumpatse was minister for justice at the time of the Bugesera killings and, as a result of Mr. Weyl asking you questions, it is now in evidence that 400 people were arrested in respect of the Bugesera killings.  My question is very simple and it may be answered, yes or no.  Do you know of any prosecutions conducted under the auspices of the ministry of justice run by Mathieu Ngirumpatse for the Bugesera killings, any prosecution at all? 
+A.	Yes, I know prosecutions being launched, Counsel. 
+Q.	Thank you.  With what outcome? 
+A.	One thing is certain, the Interahamwe were not found to be -- to have participated in the Bugesera slaughter, massacres. 
+Q.	Who conducted the investigation which exonerated Interahamwe? 
+A.	I think it was the Rwandan judicial apparatus, the prosecutor's office.  It is the prosecutor's office that undertakes investigations and conveys to the Tribunals.  I don't know who because I did not know them.  I don't know the magistrates or anyone, but I know that it was the judicial apparatus of the ministry of justice. 
+Q.	Who was the lawyer who would help out members of the Interahamwe who found themselves in trouble?  Who was the senior figure in the MRND, as a lawyer, who would intervene to assist? 
+A.	Mr. Karemera would act officially, judicially, legally, but I knew that other people could also intervene, and intervened. 
+MR. MORLEY: 
+Your Honour, I see the time.  I am about to move dealing with the document and that will, therefore, take us a little bit more time.  Your Honour's address is 15 minutes, 15 minutes ago.  I am in 
+Your Honours' hands. 
+MR. PRESIDENT:
+The document has a logical connection with this question or is it a new subject?
+MR. MORLEY:
+No, it's a new subject.
+MR. PRESIDENT:
+Well, this might be an appropriate time to take a break, then.
+
+MR. MORLEY:
+I hope so, thank you.
+MR. PRESIDENT:
+Yes, we'll take the adjournment now and resume again tomorrow morning. 
+THE ENGLISH INTERPRETER:
+With the link?  
+MR. PRESIDENT:
+With the link.
+THE ENGLISH INTERPRETER:
+Thank you, sir.
+MR. PRESIDENT:
+We start at 9:30.  I don't think we will come to (inaudible) after the completion of this witness's testimony and presumably his testimony could be completed tomorrow -- tomorrow afternoon. 
+MR. MORLEY: 
+Your Honour means Witness T completed by tomorrow afternoon?  Yes, I believe so. 
+MR. PRESIDENT:
+Yes.  We have another witness who we have to call who will be continuing his testimony at the conclusion of Witness T's testimony. 
+MR. MORLEY: 
+My invitation would be for that witness to be available from after lunch, and if there is an overlap, then we can deal with that as it comes.  
+MR. PRESIDENT:
+Yes.  Is it a question from -- that I was responding to, was an enquiry as to whether we would start with the witness before (inaudible) beginning, but I didn't think that would be appropriate.  So we will start with the video link tomorrow morning and deal with the witness after the completion of Witness T's testimony. 
+MR. MORLEY: 
+Thank you. 
+MR. PRESIDENT:
+So we will take the adjournment now. 
+(Court adjourned at 1737H) 
+(Pages 32 to 37 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Eleanor Bastian, Roxane Meena, Donna M. Lewis, Karen Holm and Sithembiso Moyo, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Eleanor Bastian
+
+
+___________________________	 Roxane Meena
+
+
+___________________________	Donna M. Lewis 
+
+
+___________________________	Karen Holm 
+
+
+___________________________	Sithembiso Moyo 
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE 2006
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE, 2006
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 6
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 12
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 23
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 31
+
+	KAREMERA ET AL	TUESDAY, 6 JUNE 2006
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 37
+
+	KAREMERA ET AL		TUESDAY, 6 JUNE 2006
+
+ICTR - TRIAL CHAMBER III
+

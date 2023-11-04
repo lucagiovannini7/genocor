@@ -1,0 +1,1284 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+THURSDAY, 1 JUNE 2006
+0944H 
+CONTINUED TRIAL
+
+Before the Judges:
+	C. M. Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+For the Registry:
+	Ms. Stephania Ntilatwa
+	Mr. Issa Mjui
+	Mr. Constant Hometowu (Video Site)
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Iain Morley
+	Mr. Gilles Lahaie (Video Site)
+	Ms. Alayne Frankson-Wallace
+	Mr. Iain Morley
+	
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye (Video Site)
+	Mr. Mussa Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi (Video Site)
+
+Court Reporters:
+	Ms. Ann Burum
+	Ms. Donna M. Lewis
+	Ms. Karen Holm
+	Ms. Roxane Meena
+ 
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS T
+Cross-examination by Mr. Weyl (continued)	3
+Cross-examination by Mr. Sow	33
+
+
+EXHIBITS
+Exhibit No. D. NG13	21
+Exhibit No. D. NG14	21
+Exhibit No. D. NG15	21
+Exhibit No. D. NG16	25
+Exhibit No. D. K4	45
+Exhibit No. D. K5	45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Madam Registrar, could you open the proceedings.  
+MS. NTILATWA:
+Yes.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding; Judge Francis M. Short (sic); and Judge Gberdao Gustave Kam, is now sitting in open session today, Thursday, 1st June 2006, for continuation of trial in the matter of the Prosecutor versus Karemera et al., Case Number ICTR-98-44-T. 
+
+Please, Your Honours.  
+MR. PRESIDENT:
+Thank you.  The appearances are the same.  
+MS. HOUNKPATIN:
+Yes, Mr. President, the team stands as before.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Weyl, do you proceed now? 
+MR. ROBINSON:
+Excuse me, Mr. President.  Before Mr. Weyl proceeds, I have a motion I would like to make, and it involves planning for the next witness.  
+
+You may recall that I made a motion to be allowed to meet with Witness XBM, and the Trial Chamber ruled on that motion.  Since then, Mr. Webster changed the order of his witnesses.  And the next witness is going to be GFA -- 
+MR. PRESIDENT:
+Mr. Robinson, perhaps I can cut you short.  The -- our trial coordinator gave us written notice of your intention to raise this motion, and we suspect that the motion is not necessary because we think that the matter has probably been addressed in the protective measures order that we made initially, where the Defence was only requested to notify the Prosecution in writing, on reasonable notice, of its wish to contact a protected victim or potential Prosecution witness, or a relative of such person.  
+
+And it has also specified that the witness and victim support section of the Tribunal may facilitate the interview.  Unless the Prosecutor has any particular submissions to make, we think that that covers the current situation.  
+MR. ROBINSON:
+Well, Mr. President, I did notify the Prosecutor and WVSS and requested WVSS to contact the witness on my behalf.  And Mr. Webster objected to that.  So perhaps you can ask him for an explanation.  But as we stood now in our informal efforts to resolve this problem, Mr. Webster was not willing to have WVSS contact the witness.  Apparently, he wanted everything to be channeled through him.  
+MR. WEBSTER:
+Yes, Your Honour.  My concern is simply logistic.  In fact, all of these requests for the witnesses are made through WVSS.  I simply alert WVSS that the Defence -- or, that Mr. Robinson wishes to meet with a witness.  They make the request of the witness and report back to me and then we work out the logistics of scheduling.  
+
+So, for me, the concern is really practical.  It's just a question of when these meetings are set up, if the witness consents to the interview.  We had an incident sometime in 2003 where an appointment was made.  Mr. Robinson arrived.  I was not present because I had not been notified.  There was some miscommunication between WVSS and my office, and I'm trying to avoid that by having all of the -- the arrangements made through the Office of the Prosecutor.  
+
+I did not put the -- the request of the Defence to meet with the witness to the witness myself.  All of that is channeled through WVSS, and it's all documented by email.  And I believe I've copied your 
+Trial Chamber coordinator on the correspondence on this issue.  So I don't really see it as a fundamental issue.  
+
+The Trial Chamber's order of the 10th of December 2004 is quite clear, and I don't see this as an issue at all.  It's one of courtesy and scheduling, and that's my only concern. 
+MR. PRESIDENT:
+Very well.  So there seems to be agreement that there's no need for any order from the Court -- any further order, because we think we have covered it already. 
+MR. ROBINSON:
+Very well.  Thank you.  
+MR. PRESIDENT:
+Mr. Weyl, you may proceed now.  
+MR. WEYL:
+Thank you, Mr. President.
+
+Are we in contact with the room in which Witness T is present?  
+MR. HOMETOWU:
+Yes, Mr. President.  The link is established.  Thank you and good morning. 
+MR. PRESIDENT:
+Thank you, and good morning to you as well.  
+
+Mr. Hometowu, are you -- are you hearing me? 
+MR. HOMETOWU:
+Yes, Mr. President, I can hear you very clearly. 
+MR. PRESIDENT:
+Mr. Weyl will continue his cross-examination now.  
+
+Mr. Weyl, you may proceed.
+CROSS-EXAMINATION (Continued) 
+BY MR. WEYL:
+Q.	Good morning, Witness.  
+A.	Good morning, Counsel Weyl. 
+Q.	I will be raising a few questions with you again this morning, and I would like to ask for clarification on the problem of weapons distribution, which you referred to previously.  
+
+I'd like to put it to you that Mathieu Ngirumpatse never distributed any weapons, and he never issued any instructions for anybody whosoever to distribute weapons.  That having been said, as a preliminary, I would like to remind you that, in the course of your examination-in-chief by the Prosecutor, you were asked to say what you knew about weapons distribution towards the end of 1993.  In your testimony you said that this was conducted by Turatsinze and number one.  That was your testimony, wasn't it? 
+A.	Yes, that is correct, Counsel. 
+Q.	And on a rather leading question from the Prosecutor requesting your opinion, you answered that you thought that it was at the behest of Ngirumpatse; is that correct? 
+A.	Yes, that is correct, Counsel. 
+Q.	Now, I would like to have a very precise answer from you to a very specific question.  And please do not speculate.  Did you ever see Mathieu Ngirumpatse carrying any weapons? 
+A.	No, Counsel. 
+Q.	Did you ever hear Mathieu Ngirumpatse order instructions or issue instructions for weapons to be distributed personally? 
+A.	No, Counsel. 
+Q.	Did you personally hear with your own ears Mathieu Ngirumpatse give instructions for weapons to be distributed? 
+A.	No, Counsel. 
+Q.	Did you personally see any weapons stockpiled in any of the MRND locations? 
+
+THE ENGLISH INTERPRETER:
+"MRND premises," rather, correction from the interpreter. 
+THE WITNESS:
+Let me specify what I have said previously:  What served as an antechamber or a room in which weapons may have been stored, let me say that I never saw any stockpiled weapons, but I did see some pistols that were used to demonstrate how those kinds of weapons can be handled and manipulated.  I was personally initiated into that, or I may say I was given a demonstration of how that weapon works.  
+
+But the specific answer to your question is that I didn't see any weapons stockpiled anywhere.
+BY MR. WEYL:  
+Q.	Next question:  You never counted any weapons, did you? 
+A.	No, Counsel, I couldn't count any weapons because I didn't see any weapons stored anywhere. 
+Q.	That is why I said that your answer was indeed an answer to the question I just put to you.  
+
+Next question:  You never participated in the distribution of any weapons, did you? 
+A.	I participated in the distribution of weapons.  I did participate in the distribution of weapons on the 
+	13th of April 1994.  
+Q.	Yes, that is correct.  And that is what you said previously.  But I was thinking more of the distribution of weapons that the Prosecutor would like to ascribe to Mr. Ngirumpatse by the end of 1993.  But before the 13th of April 1994, you never participated in any distribution of weapons; isn't that correct? 
+A.	That is correct, Counsel. 
+Q.	In summary, therefore, you never saw nor heard Ngirumpatse, Mathieu, issue any instructions for weapons to be delivered or to be distributed or to receive any weapons or distribute the same.  You never were a direct witness of any such transaction; isn't that correct? 
+A.	That is correct, Counsel (as interpreted). 
+Q.	Thank you for your answers.  
+
+Now, let me move on to my first question -- or, let me go back to my first question.  When you say that the weapons were distributed by Turatsinze and number one, were you a witness of that, or were these just presumptions? 
+A.	Counsel -- 
+THE ENGLISH INTERPRETER:
+Mr. President, the interpreters did not hear the first part of the answer.  If the witness would start all over, it would help us to get a clear picture.  
+MR. PRESIDENT:
+Mr. Weyl, could you -- 
+THE WITNESS:
+(Microphones overlapping)
+THE ENGLISH INTERPRETER:
+The witness is saying that there was no presumption, there was no supposition, that he did not participate nor did he witness the distribution of weapons, in summary. 
+MR. WEYL:
+Mr. President, did you want to say something?  
+MR. PRESIDENT:
+The witness preempted what I was going to say.  I was going to invite you to ask him to repeat his answer, but he did it in any event.  
+BY MR. WEYL:
+Q.	Witness, you were close to number one, weren't you? 
+A.	Yes, Counsel. 
+Q.	Did you discuss the issue of weapons distribution with him? 
+A.	Yes.  We talked about weapons distribution, yes, we did. 
+Q.	Did you ask him the source of the weapons?  Did you ask him about the source of the weapons? 
+A.	Counsel, I could not put any such questions to him under the prevailing circumstances at the time, and considering the habits that obtained in my country.  I had said this previously, namely, that the source of weapons could only have been one, and it is only the army that handles weapons in Rwanda.  There is no free marketing of weapons in Rwanda.  So I don't know whether it was possible for us to go into any such discussions.  
+
+You see, for some time there had been a need for training, and that training necessarily called for a distribution of weapons.  I, therefore, could not put such a question to him in the manner in which you are suggesting. 
+Q.	Did number one ever tell you, that is, as a friend, that Mathieu Ngirumpatse had given him weapons and that he had asked him to distribute the weapons?  Did he ever ask you to help him or to take part in that distribution of weapons?  Did he ever say any such thing to you as a friend? 
+A.	Counsel, yet again, I did mention an intervention by Ngirumpatse, who warned people who were caught inadvertently with weapons to be extremely careful, extremely prudent, because those who would be caught with firearms could no longer count on the assistance and could no longer be expected to be defended by the MRND.  I said it.  I repeated.  It was in a meeting, and that was when the (unintelligible) arms have been issued.  
+
+When they are told UNAMIR soldiers are allowed to go searching even private residences, as far as I'm concerned, and as far as the context was concerned, it was superfluous.  
+
+Forgive me for saying so, but it's just to rememorize (sic) what the situation was.  But I'm not saying what your -- that your question is superfluous.  Far be it from me to suggest anything -- any such thing.  But it's so that we are back in the context of the times, and which is all the more necessary in view of the correspondence you showed me yesterday. 
+Q.	Witness, thank you for your answer and the very precise way in which you have answered my question.  Because my question was very precise and had to do with the preliminaries, that is to say, Mathieu Ngirumpatse's initial position in respect of the distribution of weapons.  And I did hear your answer to that question. 
+
+I should like to now solicit more or less the same sort of answer in respect of Turatsinze.  Did Turatsinze tell you that Mathieu -- Mathieu Ngirumpatse had asked him to distribute weapons? 
+A.	Turatsinze did not tell me in so many words.  Once again, I apply the same logic.  Perhaps I should repeat the circumstances under which I came to receive the weapon I mentioned to you and the how and the wherefore Mr. Turatsinze tried to recover the weapon.  
+
+As regards relations between Mr. Ngirumpatse and Turatsinze in the Interahamwe movement, knowing Mr. Turatsinze's activities in respect of the Interahamwe youth and the MRND party in general, that question goes without comment from me.  I could not put it like that.  It was understood.  In fact, it's the same answer as you said to the -- similar answer to a similar question to that you put to me in respect of number one. 
+Q.	Do you think that Turatsinze was a trustworthy man, who always spoke the truth under all circumstances? 
+A.	Counsel, as regards his activities in the movement in the party, he was Mr. Ngirumpatse's trusted assistant.  And most of the instructions issued to the Interahamwe came via Turatsinze, who was his right-hand man until a given point, from information I received.  Until then I had no reason to doubt his commitment and his reliability.  I always saw him with the same stance in favour of the Interahamwe in the context of the situation as we saw it in Rwanda. 
+Q.	Well, I understand from what you've said that Turatsinze was a trustworthy man, and we know that trustworthy men are those who betray (sic) trust, which is why we call them trustworthy.  
+
+Do you now consider that Turatsinze was trustworthy? 
+A.	Counsel, I cannot answer anything else than what I have said.  I gave you an answer firmly based in the context of the time.  I told you that I subsequently heard some news, received some information.  So it would be to speculate to answer in respect of three different periods, whereas you put me a question that was clearly situated in time.  
+
+But I subsequently learned that Mr. Turatsinze did not correctly fulfill some of his missions.  I can tell you that with relative certainty today -- with certainty -- with his (unintelligible) relative certainty today. 
+Q.	Very soon after he issued you a weapon, Turatsinze was accused, it was rumoured, he'd -- that he'd deviated some weapons.  
+A.	I heard that subsequently.  
+Q.	But you have said, I think I heard it several times, that Turatsinze came to your house to ask you to give back to him the weapon he'd given you because he was being accused of not having distributed weapons and he wanted to prove to the military authorities that he had, indeed, distributed weapons.  That is what you told us? 
+A.	Yes.  What made me hesitate was that you said "it was rumoured."  But the rumour could just as well be well founded as not.  That is the term which I can say disturbed me, but I tried to take it into account in my answer.  I could not consider that it was a rumour because it was he, himself, who spoke to me about it.  So I -- I could not consider that a rumour. 
+Q.	You are quite right, Witness.  But what surprises me in Turatsinze's démarche, what he was doing, that it was a bit -- a bit funny that he should come and ask you to give him the weapons so that he could prove that he had given it to you.  
+A.	Not to prove that he'd given it to me, but that he'd (sic) really had distributed weapons to the people they were intended for, and he could prove it like that.  And he said that because he knew very well I didn't need the weapon.  He spoke to me because he was convinced that I could return it to him, unlike certain other people who were much more eager to keep their weapons than I.  That's what I thought that he'd thought.  
+
+In fact, he had confidence in me that I could do that for him, to show some people that he really had distributed weapons, because I would return it to him. 
+Q.	But to prove that he'd given you a weapon wouldn't (sic) have been much simpler and easier for him to ask you to inform the authorities yourself?  Because, in recovering the weapon, he doesn't prove that he issued it to you.  It proves that he's still got it in his hands.  So that was a really very funny way of going about things.  
+A.	Counsel, it did not seem at all funny to me.  It was as I have said.  If you feel that he should have done it -- done better to do otherwise, you are free to think so, Counsel.  But I'm reporting what Turatsinze did, what his démarche -- démarche -- démarche was.  As to being whether -- as to whether it (sic) efficient or more efficient or less efficient, that's not up to me to determine.  
+Q.	To stay with Turatsinze, because it is he that interests me for the moment, and how he could have gone about reporting things to his interlocutors, you know that is (sic) is he who was informed (sic) as Dallaire's informant in the famous fax of 1994.  
+A.	Yes, we know that now. 
+Q.	You know that fax -- Dallaire's fax regarding the informant was not credible, isn't it? 
+A.	Well, that -- the document is not credible for me, yes, especially the information in there and concerning, more particularly, Turatsinze.  So, in other words, I do not think that that démarche in that written document is true -- is really true. 
+Q.	Several explanations are possible:  Either Dallaire in the fax is not telling the truth or he misunderstood or the informant did not tell him the truth.  We agree.  
+A.	Or there was no informant at all, and so on. 
+Q.	That's another hypothesis.  
+
+But what you noted was what the informant is supposed to have said -- and we know that informant now to be Turatsinze -- was imagination, a fantasy.  
+A.	I did not believe in the authenticity of that document.  I've explained at length why that document and the information it contained was a manipulation in respect of what we know.  
+
+As we are speaking of Turatsinze now, the Turatsinze that I knew in the Interahamwe movement, in one word, I'll tell you, I don't believe in that business.  Turatsinze or no Turatsinze, I don't believe in that business.  That is my conviction.  Other people can have other convictions, and maybe they're right and maybe I'm wrong, but that is my conviction.  
+Q.	Today, with hind -- the benefit of hindsight and all the information we've obtained, can you exclude that Turatsinze could have lied? 
+
+I'm not speaking of the telegram alone, but do you exclude that Turatsinze had not perhaps always spoken the truth? 
+A.	I will repeat that I even wonder whether it was Turatsinze or whether there was any informer.  That is also the question I am putting.  
+Q.	But I am asking you to answer my question, my precise question:  Can you exclude that Turatsinze, in all circumstances, could have not spoken the truth? 
+THE ENGLISH INTERPRETER:
+I'm sorry.  I don't know if I got that right.  
+THE WITNESS:
+I cannot exclude that any human being, whether you or me or anyone else, cannot lie.  I cannot exclude that any human being might not lie.  
+BY MR. WEYL:
+Q.	Thank you, Witness.  
+
+I should like to put another question to you, a matter that you, yourself, brought up in answering Mr. Robinson in respect of a more complex problem, which was that of the authority of the state.  
+
+From what you were able to observe, according to you, between September 1993 and April 1994, was there a real state authority in Rwanda? 
+A.	Very rapidly, Counsel, I would say that as a -- in the real sense of the proper authority of the state, there was no longer any state authority, at least as regards the minimum the population could expect from the government in situ at the time. 
+Q.	And what was the condition of the army? 
+A.	Counsel, the army often had to cede positions to the enemy. 
+Q.	Was it united or was it divided? 
+A.	It seems to me that the army did not always speak with the same voice, the same words, use the same words in referring to the position of certain higher ranking officers. 
+Q.	Was it motivated?  
+A.	An army that has -- loses its positions, well, motivation must be relative.  
+Q.	Under examination-in-chief, you mentioned numerous desertions.  Were there a lot of deserting from the army? 
+A.	That is correct, Counsel. 
+Q.	It was incapable, according to you, of facing up to the RPF attacks? 
+A.	It was not capable, in certain cases, of containing the RPF advances, which was why it had to cede it -- the positions it occupied.  
+Q.	Well, that's one of the reasons for why, on 2nd March 1993, the political parties thought of reinforcing the army by means of the civil defence.  
+A.	That is quite correct, absolutely, Counsel. 
+Q.	And the army was anxious as to its future under the Arusha Accords with the integration into the army of RPF elements? 
+A.	Not only the army, but other observers outside the army.  Part of the accords, even if they were signed for reasons in -- with the intention of reinstoring (sic) peace, some parts of it were inacceptable (sic).  Well, that was a -- the conclusion was negotiated from a position of weakness, if I can express myself like that.  Conditions were imposed on it because it's the weakness of its position, through various pressures, various circumstances.  I can't say it capitulated, but it was a lesser evil to allow the people to hope for an end.  It was the price of peace, you could say. 
+Q.	Counsel, from the point of view of the main elements of force in the power structure of the state, the gendarmerie was also weak? 
+A.	Well, if the head is rotten, what about the other parts of the body, the limbs?  If the government is rotten, how -- the various branches can't do much better. 
+Q.	So I think your answer would be more or less the same as regards the judiciary, the administration of justice, prosecution, sanctions; I suppose you would answer the same thing? 
+A.	More or less, yes, Counsel. 
+Q.	So at that time the government did not speak with one voice; it was divided? 
+A.	It was very much divided, as I have said.  Each one had his position according to whether he was allied or not to the enemy, so it was not the government that spoke with a single voice in the negotiations, which would be the case under normal circumstances, which is why I should like to maybe come back to this and answer other questions that might arise by the same stroke.  
+
+Multiparty politics got off to a bad start in Rwanda.  That's according to me and probably other observers too, not only it got off to a bad start in itself, but it was in a context of war, where that sort of thing could only lead to what we, in fact, experienced.  
+
+Let me explain myself and illustrate what I have said:  After the events of 11th of September, the discourse regarding democracy changed in the United States.  You're either for or against the army.  You're (sic) either condemned or not the enemy.  And that is what happened.  The normal behaviour, any logical behaviour at the time of war, was not followed.  Traitors are -- paraded themselves in broad daylight.  There was impunity.  There was no longer any control over the population movements in Kigali or elsewhere.  
+
+I don't think that Rwanda was more or less democratic than other countries who, in order to secure the security of their population, at time -- exceptional times do control population movements, and this especially -- a -- a special type of war that is not between soldiers, but which is between soldiers and the civilian population that they're supposed to be defending, without any concern for their well-being.  So that is the contrast that -- that characterised the multiparty politics in Rwanda at the time. 
+Q.	So what you felt at the time in Rwanda was your powerlessness in face of the needs of the Rwandan people, needs as regards security, basic needs -- powerlessness to help the displaced persons?  Do you agree? 
+A.	Well, one cannot not agree because the international community was a witness to it, had been alerted, was -- witnessed everything that happened, and nobody ever said the opposite.  However, people stood up for the enemy.  They seemed to acknowledge the good grounds of the war and to prove that they should attack the population, shoot at the population, whereas their point was to bring democracy.  
+Q.	If I were to tell you at that time, between September 1993 and April 1994, the only institution that retained a minimum authority and could mobilise the Rwandan people was President Habyarimana.
+A.	That is quite correct, Counsel.  He was still listened to.  The people still listened to him, those who were -- hadn't been converted to the enemy's side, because the enemy was attacking the people.  Some people said it was a funny war.  I don't understand what they mean by "funny war," but, indeed, it was a very funny war, who claimed to be bringing democracy but from the end of a rifle.  It's a bit like what's happening in Iraq.  Democracies (sic) comes out of the barrel of the gun.  
+Q.	President Habyarimana's moral authority, without that, we're not far from anarchy and everything could collapse? 
+A.	That is quite correct, Counsel.  I will concede that entirely.  In fact, it's not a question of concession; it was reality. 
+Q.	President Habyarimana was conscious of that when he made his speech at the time of the mourning declared after President Ndadaye's assassination.  You have that in mind, and you told us about it.  Do you want me to remind you what you told us about it, or do you recollect sufficiently? 
+A.	Quite.  
+THE ENGLISH INTERPRETER:
+Answers witness.
+THE WITNESS:
+Quite.  
+BY MR. WEYL:
+Q.	To be quite clear -- to be quite clear, you have translated his speech at one point -- interpreted -- and he said that the assassination of President Ndadaye led to various acts of violence that should serve as a lesson for the Rwandan people so as not to surrender to every temptation to indulge in violence in Rwanda.  Do you remember that? 
+A.	Yes, Counsel, I remember that. 
+Q.	Don't you think with hindsight that it was a premonition of what was to happen in April 1994? 
+A.	Premonition, yes, exactly.  That's exactly the right word. 
+Q.	Were (sic) the enemy of those who wanted to install -- bring democracy to Rwanda have the same idea? 
+A.	I did not understand your question, Counsel. 
+Q.	Well, let me be much more brutal, then.  Those who preferred the -- the use of arms, the RPF, could they not think the same that Habyarimana -- Habyarimana felt in October 1993 and translated into their own needs in 1994? 
+A.	Indeed, it was not the same approach, and I have said this already, and I will repeat myself.  I still have not understood why Habyarimana was accused of being the enemy of peace, whereas he stood for peace.  I do understand that, for political reasons, when people seek their own political promotion, that kind of politics can be accepted within political parties, but there must be some limitations.  When somebody is attacked by soldiers and he seeks to negotiate, whereas you have other ideas, other plans -- because by attacking there is a war plan in place, and the objectives in mind are not necessarily the same as those of the person who is being attacked.  When the RPF attacked Rwanda, their purpose was to unseat Habyarimana, whom they considered to be a dictator, and that was the same position the MRND party held. 
+
+Now, with the various developments that took place, whether it be within the context of multiparty politics, internally or otherwise, everything focussed on that particular -- that specific claim as to whether one was for or against Habyarimana.  Now, your friend's friend became your friend.  Your friend's enemy became your enemy.  So things got worked out in a manner that was not natural.  
+Q.	Let me revisit the chronology of events.  From December '93 -- or, rather, January '94, UNAMIR, to your mind, in its activities, did it contribute to the restoration of state authority or did it compromise it, as far as you know? 
+A.	Now, whether the good faith or bad faith of UNAMIR has been discussed or not, what I say is that UNAMIR simply compromised its own mandate.  The UNAMIR, its commander, its former commander of that force, the former commander of that force does recognise this failure when he talks of having shaken the hand of the devil.  He -- he recognizes and acknowledges failure. 
+
+Now, he would cover himself by claiming that it was the Interahamwe who did it.  But the UNAMIR had already taken sides, and it could not have been otherwise.  UNAMIR was not neutral.  As far as I know, and from what I saw and from what has been somewhat acknowledged here and there, what I know is that there has been a mea culpa on the part of UNAMIR for not having been able to -- or, for not having known what ought to have been done.  And I am referring to the statements made by the former commander of that force. 
+Q.	By taking sides in favour of one of the warring factions, don't you think that this would further weaken the authority of a government which was already quite weakened? 
+A.	That is obvious, Counsel.  
+Q.	At that time the RPF battalion was in -- at the CND in Kigali; is that correct? 
+A.	Yes, that is correct.  And this was to the great surprise of the inhabitants, who actually were in a state of panic because they were wondering who was concerned about the population's security, who had any -- who paid any attention to the concerns of the inhabitants.  There was generalised panic at that time.
+Q.	It was said that, in addition to the official battalion that was in place, there were infiltrators into Kigali and surrounding neighbourhoods and that there were truckloads of weapons that had also been delivered. 
+A.	Yes, that is correct, Counsel, and that further worsened the state of panic and worry because people did not know what to rely on.  The government was not getting stronger.  The enemy was taking up positions, and so people were wondering, "Why don't we just surrender and recognise what is going on rather than continue to play this game?"  
+Q.	In early 1994, there was no more state authority in place.  Everybody was wary of the other, and one could even say that one no longer trusted one's friends; is that correct? 
+A.	Well, one does know one's friends, doesn't one?  But, again, human nature is such that it is what it is.  But I would rather talk about polarisation, or a polarisation of those who claimed to be friends of one camp or the other. 
+Q.	Now, the longer this took, the more time this took, the worse things got, isn't it? 
+A.	I would say that the greater the panic became, and as things heated up more and more, people felt the pressure of the tension and fear.  And all wondered as to what the outcome would be.  So, under those circumstances, only the worse was expected.  It is very difficult to describe the situation, but, you see, when the enemy is right in your own bedroom, whereas when he was in the living room you were already frightened, what state would you be in?  You see, people only expected the worse (sic) as the days went by and as no solution was forthcoming and as the warring factors continued to declare that if such-and-such an unacceptable condition was not accepted, then only the war could be expected to go on.  
+
+This is the type of tension that one could perceive over those years and in those months of 1994, in addition to other acts of provocation, which simply fueled the increasing tension further. 
+Q.	In January 1994, as far as you know, who was the obstacle to the setting up of the transitional institutions? 
+A.	It was the RPF.  And it does say it clearly because the RPF sought to impose its own conditions.  And even though they were in deviation of the Arusha Accords, they always had been explanation for their position.  And there was no choice in the matter.  This is the memory that has remained engraved on my mind in spite of the time that has gone by. 
+Q.	In March 1994 -- and I'm getting closer to the most tragic period of your history -- at the end of      March 1994, who was -- or, who stood in the way of setting up the broad-based transitional government? 
+A.	The answer will be the same, Counsel, briefly.  
+Q.	My learned friend, Robinson, did show you a document, which was the last-ditch attempt by diplomats and friends to try to set up the broad-based transitional government, which talked about difficulties relating to their presence at the CDR.  Do you have that in mind? 
+A.	Yes, I do, Counsel. 
+Q.	Now, were you aware of a letter which raised those questions and which was written on the              27th of March 1994 by Madam Agathe Uwilingiyimana, prime minister, and who wrote that letter to the president of the republic?  Are you aware of that letter? 
+A.	No, Counsel, but I am sure that, one way or the other, either by some summary or otherwise, the content of that letter must have been published in the journal -- or, in the newspapers or -- or broadcast over radio because the inhabitants were being provided with information as to what the obstacles to the setting up of the transitional institutions were, because that was the major bone of contention.  And that is why I have told you that, whenever a problem was solved or overcome, another one surfaced.  
+
+So I cannot say that I am aware of that letter of the stated date, signed by the purported author and forwarded to the person you referred to. 
+Q.	Now, I would like to ask Mr. Constant Hometowu to show you letter number 9, appended to my letter.  It is document number 9, K0505650.  Could you please look at that document, and then I'll put a few -- a few questions to you thereafter.  
+MR. WEYL:
+Mr. Issa, would you please also show document number 9 to the President, please.  
+THE WITNESS:
+I have the document with me, Counsel.  
+BY MR. WEYL:
+Q.	This is a letter with a letterhead from the prime minister's office, very urgent date, 27th March 1994.  Is that the document you have? 
+A.	Yes, Counsel. 
+Q.	In order not to waste time, let me ask you to read number one and the first two paragraphs of number two.  
+A.	"Number one, the position of the RPF on the CDR party is contained in the letter forwarded to you as an annexed -- as an annex to this present -- or, to this letter.  
+
+"Two:  As it emerges from the conclusions of the above-mentioned meeting, which were communicated to Your Excellency and to all Rwandan people, neither the CDR party nor any other party can hold the country hostage and, thereby, he -- rather, stop the setting up of the broad-based institutions.  
+
+"As far as the CDR is concerned, it has been agreed that, regardless of the ongoing consultations, the country deserved to have its transitional institutions set up on the 26th of March 1994. 
+
+"At the same time, it is in order to remind Your Excellency that the two parties concerned, namely, the PDI -- Party for Islamic Democracy -- and the MDR -- the Democratic Republican Movement -- or the MDR, the members of parliament who have been enlisted are Mr. Hamidu, (phonetic) Omar, and Tigirye, Gerard (phonetic).  
+Q.	Thank you.  
+
+Could it not be said that two things emerged from those excerpts, namely, that the process of setting up the institutional -- institutions was under way; isn't it so? 
+A.	Yes, that is true. 
+Q.	But, secondly, we can also say that there was opposition on the part of the RPF for the CDR party to be part of the institutions; is that correct? 
+A.	Yes, that is obvious, Counsel. 
+Q.	Was the CDR an authorised political party in Rwanda, or recognised political party? 
+A.	Yes, the CDR was a legally registered party, and I believe it was in March -- March 1992, I believe.  
+Q.	Would you know -- maybe not the details thereof, but do you -- are you aware of the protocol agreement between the government of the Republic of Rwanda and the RPF in respect of power-sharing within the context of the broad-based government following the 30 October 1992 protocol agreement? 
+A.	What I remember from -- what I remember is that, within the framework of that power-sharing of seats in parliament and for the national transitional parliament, a number of seats were allocated to a number of parties.  So, one may wonder whether democracy could be effectively carried out by designations by the various headquarters of political parties, who would have designated members of parliament who would not have been elected or received any mandate from members of their party.  So one -- one -- one -- one may wonder, because political parties met and seats in parliament were being shared with the RPF for the transitional national assembly.  So this is what I can recall transpired at the time. 
+Q.	The CDR was a registered party, and the protocol agreement provided for registered political parties to be part of the transitional institutions; isn't it so? 
+A.	Yes, that is correct, as far as I know -- as far as I remember. 
+Q.	Now, when someone objects to the participation of the CDR, or if somebody says they wouldn't be part of the institution so long as the CDR was not excluded therefrom, would that not be an obstacle to the implementation of the Arusha Accords? 
+A.	Yes, that is correct. 
+Q.	Now, to confirm all what we have said, can Mr. Constant Hometowu show you document number 10, K0505756. 
+
+And in order to gain on time, I simply disclose the excerpts that are relevant to our cross-examination.  Do you have the document, Witness? 
+A.	Yes, I just wanted to confirm that I have the document in my hands, Counsel. 
+Q.	Now, on the first page, we see mention of protocol agreement, the one I just referred to a short while ago; isn't it so? 
+A.	The caption is the following:  Protocol Agreement Between the Government of the Republic of Rwanda and the Rwanda Patriotic Front on Power-Sharing Within the Broad-Based Government."  And, in parentheses, "Following the protocol agreement of 30 October 1992."  
+Q.	Could you then turn to the next page, Witness, and read the first paragraph of Article 61.  
+A.	"Article 61.  All registered political parties in Rwanda at the time of the signing of the protocol agreement, as well as the RPF, shall be represented at the national transitional -- at the transitional national assembly on condition that they uphold the provisions of the peace accord.  In this connection, all these parties and the RPF shall sign, prior to the setting up of the transitional national assembly and the transitional broad-based government, a code of political ethics, the principles of which are spelt out under Article 80 of this agreement -- of this protocol." 
+Q.	Thank you.  
+
+Towards the end of the month of March 1994, there was no reason for the CDR to be excluded from the transitional institutions, was there? 
+A.	Maybe I can answer your question from another angle.  The diplomatic corps offered its good officers to bring the various parties to an agreement on this issue and came to the position that the CDR should be part of those institutions.  The international community, therefore, played the role of an arbiter in view of those divergences that had blocked the progress in any state operations.  
+Q.	At that time President Habyarimana was ready at any cost to set up the transitional institutions; isn't it so? 
+A.	That is correct.  After the international community had come to that position, the population seemed to heave a sigh of relief because they believed that the decisions of the agreement were going to be implemented.  So the population expected that the obstacles will be dealt with so that the second and third phases of the agreement could be implemented. 
+Q.	The RPF had every reason to fear that any peaceful approach would succeed, particularly as it had lost elections organised in areas that it occupied; isn't it so? 
+A.	Yes, that is quite correct.  All analyses have pointed to the game the RPF was playing.  Because, when they called for democracy through the ballot -- ballot box, they noticed -- or, they came to the conclusion that they would not succeed through that means because the elections they had organised elsewhere had not come out in their favour.  So their only option was war because they had seen that the ballot box was not the way forward for them.  They had conducted a survey in the area they occupied and had come to the conclusion that they would not succeed through the ballot box. 
+Q.	Are you saying, therefore, that it became increasingly the position of the RPF to oppose the setting up of any institutions that may restore state authority? 
+A.	Counsel, I was a little bit distracted, and I did not quite understand your question.  
+Q.	That is my last but one question before I stop my line of questioning before the break of this morning.  I'm sure the President will be asking us to take the break in a few minutes, but I have two more questions.  
+
+Now, isn't it, then, necessary for the RPF to continue to obstruct the setting up or to be in the way of the setting up of transitional institutions which will restore state authority? 
+A.	What -- what you refer to as necessary for the RPF to -- to stand in the way of, well, when you put it that way and we analyse the situation, we see that, when the former allies, both internally and outside of the country, when in July 1993 they disassociated themselves from the activities of the RPF, it is at that time that the RPF undertook acts of provocation and assassination of its former allies, who had jumped ship, so to speak.  
+
+I am referring particularly to the assassinations of 1993 of Gatabazi and Bucyana.  I am also referring to the attempts to -- the foiled attempts to assassinate the president of the PL, Mugenzi.  I believe that his driver or his bodyguard died in that assassination attempt.  
+
+I also want to talk about the attack on Mr. Mbonampeka, Stanislas's, life of the PL; that is he who had castigated and denounced the RPF.  So I'm saying that the determination to obstruct was in place even before the month of March.  And as I have said consistently, once a problem was solved, the RPF brought one forward again.  And that is the situation that obtained up to the time of the tragedy.  
+MR. PRESIDENT:
+Mr. Weyl. 
+MR. WEYL:
+Witness, that will be my last question now.  
+MR. PRESIDENT:
+(Microphones overlapping) there was a name that didn't come out, Stanislas, the name connected with -- 
+MR. WEYL:
+Could the witness spell out that name?  
+THE WITNESS:
+M-B-O-N-A-M-P-E-K-A, Stanislas Mbonampeka.  Stanislas is spelled S-T -- 
+MR. WEYL:
+Well, that's fine.  That's fine.  I think we can spell the first name, Witness.  
+THE WITNESS:
+Thank you, Counsel. 
+MR. PRESIDENT:
+Mr. Weyl, was it a -- a P or a B after the M?  
+MR. WEYL:
+It was a P, Mr. President.  
+
+And I hope the witness can confirm this.  
+THE WITNESS:
+Yes, P, like "papa." 
+MR. WEYL:
+It's difficult.  P as "father," it's difficult.  
+
+My last question, Mr. President, and then thereafter we may -- you may decide that we take the adjournment. 
+BY MR. WEYL:
+Q.	Now, on the 6th of April, a few days after this last-ditch effort, at that -- it was on the 6th of April that, as the president was returning from Arusha to set up the transitional institutions, come what may, it is on that date that the last vestiges of authority that remained were assassinated upon their return to Kigali; is that so? 
+A.	Is that question for me, Counsel?  
+
+Yes, I heard you refer to the President, and I thought you were referring to the President of the Court.
+Q.	But the -- the question was for you, Witness, whether you could confirm whether it was on the 6th of April, at the time when the president was returning with the determination to set out the transitional institutions, come what may, that it was at that time that the remaining vestiges of state authority were assassinated or -- in Kigali; isn't it so? 
+A.	That is correct, Counsel.  And I could probably provide some -- further explanation.  When the RPF launched the war against Habyarimana and his party on the 1st of October, the objective was achieved on that day because they had declared that he was the greatest obstacle, and he was the certainly the last obstacle in the way.  
+
+Curiously, the secret document of the MDR, which portrayed the RPF's position, we see exactly the same stance.  I do not have in mind the entire content of the document, but there was some premonition that looked like fiction in that document when reference was made that it would only take a spark for blood to flow again.  So there are very worrisome similarities here.  
+
+So what finally happened was part of a plan that had been in place for a very long time.  That is my position, based on various documents, various statements, and on the facts.  That spark, which set off everything, was the explosion of the presidential plane, and that was the last obstacle, as can be seen from the various statements and various positions of the RPF.  
+
+That is my analysis of the situation.  I may be mistaken; I certainly must be mistaken.  But my analysis is based on facts, the facts that we observed in the field. 
+MR. WEYL:
+Mr. President, maybe this is the time to take the break.  
+MR. PRESIDENT:
+Yes.  We take the midmorning recess now.  
+(Court recessed at 1108H) 
+(Pages 1 to 18 by Ann Burum)
+
+
+
+
+
+
+
+1145H 
+MR. ROBINSON: 
+Excuse me, Mr. President, I would just like to introduce the newest member of Mr. Nzirorera's defence team.  We have an intern who has arrived to begin working with our team.  Her name is Tara Long, that is T-A-R-A, L-O-N-G.  She is seated to our immediate left.  And she is also from California. 
+MR. PRESIDENT:
+Welcome, Ms. Long.  I hope you enjoy working with our case. 
+MR. WEYL: 
+Mr. President, the more I sit with you, the more I have respect and admiration for my colleague,         Mr. Robinson, and it is always good to know from whence he draws his strength.  
+
+Are you there, Witness?  
+THE WITNESS:
+Yes. 
+BY MR. WEYL:
+Q.	We agree that before the 6th of April we were very close to chaos in Rwanda.  What was the situation in your eyes on the morning of the 7th -- 7th of April?  Did President Habyarimana's assassination lead to restoration of authority in Rwanda?  In your eyes, was there any authority, any control of the situation in Kigali on the 7th of April? 
+A.	In fact, with the assassination of the country's leader, a vacuum -- there was a vacuum, and it had to be filled. 
+MR. WEYL: 
+Can we, with the help of Mr. Hometowu , Mr. Issa, and with the English booth, because my English is very poor, could we look at document number 4 in the bundle, Mr. Hometowu?  
+BY MR. WEYL:
+Q.	Do you speak English, Witness? 
+A.	Perhaps even less well than you, Counsel.  But I do nonetheless understand a bit, but don't ask me to read it. 
+Q.	But do you understand it if you read it to yourself? 
+A.	Well, I understand, perhaps, but not as well as French. 
+MR. WEYL:
+Very well.  Can I ask for the assistance of the English booth to read the document number 4 in the bundle I gave to the booths.  
+THE ENGLISH INTERPRETER:
+I think counsel needs the help of the French booth because it is already in English, the document.  We can't translate it into English.  Counsel needs the help of the French booth. 
+
+MR. WEYL: 
+Could you please translate para in the document L0001689?  
+THE ENGLISH INTERPRETER:
+Should I read it in English, Mr. President?  Or should the French booth give a site-translation?  
+MR. PRESIDENT:
+If you read it in English, the translation would automatically follow, wouldn't it?  
+THE ENGLISH INTERPRETER:
+Well, not if I do, because he is not listening to me, he is listening to the --  
+MR. WEYL: 
+I should like the English booth to read the document in English so that the French booth can translate it. 
+THE ENGLISH INTERPRETER:
+But counsel doesn't understand, it doesn't work like that. 
+MR. PRESIDENT:
+Mr. Weyl, that cannot work because the translators do not listen to each other.  So, if the English booth read it, the French booth would not be able to translate.  So you will have to read it. 
+MR. WEYL: 
+So, once more with the help of Mr. Robinson, we are going to find the solution to this technical problem.  And I would ask Mr. Robinson to read para four of the document, and then we will have overcome this technical difficulty. 
+MR. ROBINSON: 
+"Number 4:  RPF personnel in compound under UNAMIR protection were restrained by UNAMIR personnel, but at about 1630 local time, 10:30 New York time, a third of them, i.e., 150 to 200 out of 600, forced their way out, and there has been fighting in the street between them and the Presidential Guard."  
+BY MR. WEYL:
+Q.	Witness, is that in fact the situation you experienced at the time when you spoke of the sound of gunfire, automatic gunfire?  Does that correspond to the situation as you recall it? 
+A.	Yes, Counsel.  I don't see any date here.  If my English -- oh, it's the 7th of April, okay.  
+
+But I heard gunfire already very early in the morning of 7th.  Now, if they're speaking of the troops leaving their barracks, their countrement, that is perhaps one thing, but there was the sound of gunfire. 
+Q.	But the war did rage in Kigali? 
+A.	As I have said in fact, the war merely got worse and worse, but there had already been skirmishing, explosions, firing.  So, after the event, the shooting got worse and people made war-like statements. 
+MR. WEBSTER: 
+I will interrupt one second.  Could we give this a number so it would be clear on the record?  I imagine it is going into evidence. 
+MR. WEYL: 
+(No interpretation) Well, I can, of course, enter the documents, either one by one, or perhaps at the end all together.  There will be two this morning.  
+MR. WEBSTER: 
+For me, it is always easier to keep track if we number them as we go along.  We don't actually have to enter it formally through the registry, but at least give it some sort of identifying number so that we're all referring to the same thing. 
+MR. WEYL: 
+In that case, Mr. President, can I ask the Bench that this be admitted?  The first document was number 9 in my bundle; I should like it to be admitted as D. NG12, the letter of 27th of March 1994.                  D. NG -- D. NG13, Counsel Sow advises me. 
+MR. PRESIDENT:
+Yes, the first exhibit will be D. NZ13 (sic), I think.  Mr. Registrar, could you confirm that for me?  
+MS. NTILATWA:
+Yes, Your Honour.
+(Exhibit No. D. NG13 admitted)  
+MR. WEYL: 
+And now I should like number 10 to be admitted, the extract of the protocols, D. NG14. 
+MR. PRESIDENT:
+Yes, they are both admitted. 
+(Exhibit No. D. NG14 admitted) 
+MR. WEYL: 
+And I pray that the Chamber admits as D. NG15, the document that we were on, which was number 4 in my bundle, the outgoing code cable.  
+MR. PRESIDENT:
+That is also admitted.
+(Exhibit No. D. NG15 admitted) 
+MR. WEYL: 
+And I should like back on this point to again solicit my friend, Counsel Robinson, to read to us on the second page, on page two, the beginning of para six. 
+MR. ROBINSON: 
+"SRSG and FC inform that there is no authority in control at this moment in Kigali." 
+THE ENGLISH INTERPRETER:
+"SRSG" being the special representative of the secretary-general; "FC", the force commander.
+BY MR. WEYL:
+Q.	Witness, does this confirm your personal experience at the time following upon the death of     President Habyarimana?  
+A.	There was no longer any authority in control of the situation in Kigali. 
+THE ENGLISH INTERPRETER:
+Oh dear, I think we've lost the link.  I can see the witness's mouth moving, but I can't hear anything. 
+BY MR. WEYL:
+Q.	Witness, we cannot hear you.
+THE ENGLISH INTERPRETER:
+It is back. 
+THE WITNESS:
+I was saying that that confirms the constitutional vacuum that had just been created by the demise of the president of the republic, the supreme institution of the state. 
+BY MR. WEYL:
+Q.	At that time do you think that UNAMIR played the role expected of it, or do you consider that they had failed in their duty? 
+A.	Well, from what I know of the events today, what I know of the situation today is not what we knew at the time, so I don't know exactly what you are aiming at with your question.  At the time of the events panic prevailed.  People were hanging on every word of any instructions that might come over the radio, but I think that the people had no illusions as to inter-positioning by UNAMIR, of whom there was a negative impression.  For the time being -- 
+Q.	I'm sorry for having interrupted you.  
+A.	No, please, pray proceed, Counsel.  Perhaps I will just be repeating.  It is not of any particular importance.  Pray proceed. 
+Q.	Do you think that the international community at that time could have assisted, could have helped, by inter-positioning itself and contributing to re-establishing peace and security? 
+A.	Counsel, it was that time or never.  The force should have played its part in the context of the mandate given to it. 
+Q.	Could we, with Mr. Hometowu's assistance, could -- number 7 in the bundle, with the assistance of Mr. Hometowu, could it be laid before you?  
+
+Could you tell us what is the title of this document? 
+A.	"Confidential, exclusively intended for the Belgium authorities." 
+Q.	And who is the author of this document?
+A.	This document comes from the general intelligence and security services. 
+Q.	And what is the date of the document? 
+A.	The document is dated the 9th of April 1994.  And the document consists of six pages.  It is stated that the document contains six pages but I only have four before me. 
+Q.	Well, me too, because I obtained this from the Prosecution database.  And the document given to me only contains the four -- first four pages with K number 0082919, up to K0082922.  And what was disclosed to us were only four pages which is why I couldn't give you more than four pages.
+
+Witness, can you tell us under the line in the middle of the page, can you read the first few lines from the subtitle, "Informations."  
+A.	"Additional" --
+THE ENGLISH INTERPRETER:
+I think the witness has started above the line which is "Additional Information, Subject Rwanda:  Elements of the Situation". 
+THE WITNESS:
+Then under the line, "Information, A. Situation of the Various Forces, Sub 1:  UNAMIR.  The United Nations Security Council has not yet decided to withdraw UNAMIR." 
+BY MR. WEYL:
+Q.	Thank you, that is enough for now.  So on the 9th of April 1994, the question was already being put as to whether the security council has not yet decided to withdraw UNAMIR? 
+A.	It is clearly stated that United Nations' Security Council has not yet decided to withdraw UNAMIR.  Would that mean that at the time that there was need to reinforce the inter-positioning -- and where there was little control over the situation in Kigali, there was still a pending question as to whether the forces would be withdrawn or not.  And the question can be that one wonders why there was no decision on that point.  That is also the observation that I come to from reading through this mail. 
+Q.	Please, could you turn to page 3b, "The Situation in Kigali"? 
+A.	"B, Situation in Kigali." 
+	"Ongoing fighting between TP" -- I don't know what TP stands for, but I believe it must be for troops, "That is fighting continues between the RPF and FAR troops.  Acts of atrocities carried out by FTC," that is soldiers, to my understanding, "particularly the presidential guard who were regularly in the company of militia, probably the Interahamwe or the MRND and the Impuzamugambi of the CDR are also ongoing.  These atrocities are committed particularly against Tutsi, but also against opposition Hutu.  
+
+"There was a lull in the afternoon which enabled medical teams of the MFS to rescue wounded persons, or provide assistance to wounded persons.  But firing flared up again in the afternoon, towards the end of the afternoon." 
+Q.	Thank you, that will be enough for now, Witness.  Now, maybe you want to turn to the next page, Witness, would you, and look at small c.
+
+"Situation within the Country, Common Stances and Actions of the RPF.  The common positions and stances of the RPF:  General Kagame refused to recognise the new interim and legal officials, officially recognised in Rwanda, accusing them of being the party responsible for the ongoing massacres in Kigali town.  He asserted that the current conditions had made it impossible to further implement the Arusha Peace Accords."
+Q.	Now, could you, for purposes of gaining time, go down to paragraph number 3, which starts with (French spoken).  Please, could you read that excerpt? 
+A.	He states "To understand that the West wishes to evacuate its nationals.  His representative in New York also declared 'that foreign forces shall be considered to be hostile if they remain after the evacuation operation which to his mind should only last a reasonable time.'  [He refuses to condone all of those who are attempting to transform humanitarian -- purported humanitarian missions to -- into a military assistance to an autocratic -- or to autocratic regimes."]  
+
+"He warned the TP troops," parenthesis, "FR - France, not to obstruct or to stand in the way of their combatants who are ready to confront them."  
+MR. WEYL: 
+Thank you, Witness.   
+
+Mr. President, I would like to produce this document into evidence D. NG, Number 16. 
+MR. MORLEY:
+Your Honour, I rise to my feet at this stage having been listening to my learned friend's interesting line of questioning.  It is, perhaps, right to say that just because I am not up and down on my feet all of time, conscious as I am of Mr. Robinson referring to me liking the sound of my own voice, it should not be assumed that all of these questions which relate to what the RPF were doing or not doing are conceded by the Prosecutor to be relevant.  It is a matter for Your Honours as to whether or not these matters are relevant, but for our own part as we listen to this material, we just want to make it clear on the record that we put forward the proposition that this material is irrelevant to the issue of whether or not the three defendants are guilty of what they are charged with, relating to the circumstances following the death of the president on the 6th of April.
+
+Effectively, what my learned friend seems to be doing is reviewing the history of conflict between the RPF and the Rwandan government prior to the death of the president, and no doubt will have a bit more about after the death of the president.  Conflict or not, it won't excuse the indictment which lies at the feet of these defendants.  And Your Honour is aware of the general principle in international criminal law that to query is not a defence.  
+
+And I simply say at this stage, this line from the point of view of the Prosecutor but it is a matter for  Your Honours, is irrelevant.  And I say no more.  
+MR. WEBSTER:
+On another note, just to be helpful to Mr. Weyl, I have located the two pages that he explains were missing.  I don't know why they are not accessible through the EDS because I have just looked through the same database, and I have located the additional pages.  So, I will bring them after lunch, and we can include them in the exhibits.  
+MR. PRESIDENT:
+Thank you, Mr. Webster. 
+ (Exhibit No. D. NG16 admitted)	
+MR. WEYL: 
+Thank you, Mr. Webster.  
+
+No comment on what my learned friend, Morley, has said because I think it was not timely because the assessment lies with the Trial Chamber.
+
+May I proceed?  And I believe the Trial Chamber has fully understood that my line of questioning deals with the issue of authority, and the possibility or not to exercise authority following the death of President Habyarimana.  
+MR. PRESIDENT:
+Yes, Mr. Weyl, you may proceed. 
+MR. WEYL: 
+Thank you, Mr. President. 
+BY MR. WEYL:
+Q.	At the time where there was less authority than there had been before the 6th of April, do you think that the RPF's main concern was to avoid the killings? 
+A.	My answer does not only relate to what I experienced, but it flows also from statements made by the RPF itself.  And my answer will be no.  And the RPF made such statements itself that they were going for power and nothing else, and that nothing will stand in its way, not even Doctors Without Borders, that's (French spoken).  I think that is eloquent and clear enough, particularly as it flows from the content of this report. 
+Q.	Mr. Witness, at the same time, several radio announcements, or communiqués, were made by   Mathieu Ngirumpatse or representatives of the armed forces, the minister of defence, the president of the republic, the prime minister, all calling for restoration of peace and security, and for the safety of goods and persons.  Do you have that recollection?
+A.	Yes, Counsel, I do remember all of that. 
+Q.	Those who made those statements at the time were calling on the international community to help in the restoration of peace; do you still have that recollection?
+A.	Yes, Counsel, I do. 
+Q.	But that was the time at which the international community withdrew? 
+A.	Yes, that is what happened. 
+Q.	And in so doing gave the RPF a free hand to move freely, unchecked to Kigali to join those who were already controlling the situation in Kigali? 
+A.	Yes, that is correct, Counsel.  And those were statements that were made by those belligerents who had issued several warnings. 
+Q.	Yet at the same time, the RPF stated that humanitarian issues were not a priority concern for them, isn't it? 
+A.	Yes, that is correct, Counsel. 
+Q.	Following your pacification meeting -- or mission at the behest of the officials of the national committee of the MRND, did you become aware of any attacks by the RPF which caused the death of several persons within the civilian population? 
+A.	Well, I didn't die, but I experienced that myself, it is not just a matter of knowing about it.  I was still in Kigali and I experienced it myself. 
+Q.	At that time, state authority was more or less depleted to a level far below that of the -- that prior to the 7th of April.  Did you feel that there was an attempt to put out the fire rather than flare the flames? 
+A.	Counsel, the speeches that were made, the calls that were issued, all seemed to point towards fanning the flames. 
+Q.	I hope you are not talking about the call made by Mathieu Ngirumpatse on the 10th of April when he asked that one should respect one's neighbour.  That didn't fan the flames.  It instead sought to restore calm, isn't it? 
+A.	That is what I said; I said that the speeches were of a nature to call for calm, and the end to the killings.  That was the purpose of our messages that we conveyed during the pacification tour.  That was the thrust of the speeches that were broadcasted over radio, and I didn't say the contrary. 
+Q.	But then those who stood in opposition to those efforts were those in favour of war, who sent out soldiers to impede the conduct of humanitarian actions, isn't it? 
+A.	Well, Counsel, when you talk about those who wanted war to resume, I would like to say that it is more correct to say those who had already resumed the war because the war was raging, and they didn't want any obstacles in their way, whether it be the animals or children, women, men, what have you.  Their position was clear.  Their warnings were clear.  And they targeted both the national and foreign bodies. 
+Q.	Do you believe that at that time the army had more power than it had had prior to the 6th of April? 
+A.	Counsel, I do not believe so.  I have already spoken of the military being in a position of weakness or powerlessness.  I do not think that anything had changed in the meantime, particularly in view of the event that had taken the life of the general chief of staff of the Rwandan army.  My answer, therefore, is very clear even though I might not be an authority in military issues, but that is what one can observe. 
+Q.	Did the gendarmerie enjoy more power or authority than it had prior to the 6th of April? 
+A.	I do not think so under those circumstances; it could not have been possible for the gendarmerie to have more power than previously. 
+Q.	Do you sincerely believe that the Abatabazi government had any state authority, any real state authority at all? 
+A.	Counsel, I can only go on the basis of my observations.  A methodical answer to your question would lead me to breaking it down into two:  The government had been officially put in place.  The population was invited to respect that government.  And from that point of view, it did enjoy, or it was vested with, authority.  
+
+The second aspect of my question would relate to the fact that when I found out that the government had fled because it was afraid of being captured by the RPF, which actually intended to do so, I, therefore, cannot say that practically speaking this government had any authority or that it could have exercised any authority. 
+Q.	If I were to translate the Abatabazi government as a government of public salvation, would that be mistaken or would it be correct? 
+A.	That would be very close to the truth, Counsel. 
+Q.	That government of public salvation, did it have an army?  Did it have a common army that was efficient and well structured that could execute its decisions? 
+A.	I am not in a position to assess, but once again let me recall the prevailing circumstances.  We are dealing with an army which was losing its positions, its grounds more and more, which was weakened and which, additionally, had lost its chief commander, or its head, that is the head, general chief of staff. 
+Q.	Would I be generally mistaken if I said that the government of public salvation was a government of the survival of the fittest so to speak? 
+A.	Under those circumstances, yes, it would be dishonest on my part to state the contrary, whereas I did experience the events. 
+Q.	Your "yes" may be misinterpreted, Witness.  So are you agreeing with me that this was a government of the survival of the fittest? 
+A.	Survival of the fittest, no.  It is a government which had spelt out a number of objectives.  But, yes, there was survival of the fittest, but it was not exclusively that.  This government was working under very difficult circumstances which we have already described.  But a government of the survival of the fittest would not be referred to as a government, to my mind.  
+
+But, of course, you do understand that when you say "survival of the fittest" you are probably referring to a government that worked under very exceptional conditions and made it difficult for it to exercise its power. 
+Q.	And it didn't have the necessary resources to exercise its powers, did it? 
+A.	In -- that government had the resources that were available to it.  It worked under exceptional circumstances, quite distinct from normal circumstances.  That would be my answer, Counsel. 
+Q.	The government is working under exceptional circumstances where there is total chaos across Rwanda; is it so? 
+A.	Yes, that is correct. 
+Q.	Displaced persons were settled under subhuman conditions before the 6th of April, but that was prior to the 6th of April.  But thereafter all the displaced persons joined them in great numbers; is that so? 
+A.	Yes, you are very correct. 
+Q.	Was it, therefore, easier at that time to distinguish between who was a friend and who was an enemy? 
+A.	No, Counsel, at the very least not within the classical definition of an enemy because of the techniques and strategy of the enemy who could not have been defined in the traditional terms of military enemies.  So this was a war of opposition, of positions that were compounded by a guerrilla warfare strategy, which, may I say in view of the Trojan horse policy, had invaded the city and which had pervaded all of the organs of state as well as civilians institutions.  That is why I say that this is an exceptional situation, because in military terms one can define an enemy to have come from here or from there, and maybe having this colour or that colour and so on and so forth.  That is the best I can say, Counsel. 
+Q.	It has been your testimony that at that time anybody who had the insignia of the MRND Interahamwe was not necessarily one; is that correct? 
+A.	Yes, that is correct, Counsel. 
+Q.	Therefore, the one who did not fight against the enemy may, indeed, be the enemy? 
+A.	Yes, he may be the enemy, or he may be associated to the enemy in one way or the other. 
+Q.	So, that would be a traitor; is that so? 
+A.	Yes, Counsel. 
+Q.	From the picture you paint, are we not dealing here with panic paranoia and collective hysteria? 
+A.	As we described the fear and the panic that was inherent in the community, I refer to some general craziness, because at that time it was not possible to know exactly what would happen; but also, the expectation was that only the worse could happen.  That is what I saw, that is what I experienced.  That is what I saw as people fled, as people panicked and as people were frightened.  
+
+I don't know whether you have ever experienced fear, the fear to the extent of paralysis; this kind of paralysis of your guts.  It is difficult to figure out what happened in Kigali at that time, particularly in view of the trends of the four-year war; the misery that had arisen because of the war, hatred that had grown out of the war, and the hatred that had been ignited by those who had other intentions.  It was generalised panic. 
+Q.	Now, when the army called for calm, and Mathieu Ngirumpatse -- and here, I am referring to him as well as to the other accused persons here, but I can only deal best with the situation that I know best, that is Mathieu Ngirumpatse's situation.  When he called for calm, could those calls have been truly heeded in a context where the population was panic-stricken and frightened by their neighbour? 
+A.	Well, that is the line of thought I have been putting forward up to now.  Calls for calm would not suffice, at least, at a certain period following upon the assassination of President Habyarimana and the resumption of the war, which is why I said that action leading to -- action, in addition to a speech, could only -- only action could succeed, because only action could obtain results. 
+Q.	Another witness tried to illustrate the position in Kigali at that time.  The corporal did not listen to the general; the conseiller did not listen to the bourgmestre; the bourgmestre did not heed the préfet.  Do you think that corporals heeded generals? 
+A.	I think that is somewhat exaggerated.  Perhaps they're trying to intimate that there was more disobedience than before.  But only a general could really answer that question, your question, Counsel, from what I understood of it.  Authority, nonetheless, did exist, but perhaps the authorities should have chosen a line of action more courageous than just resigning themselves.  But normal conditions no longer obtained.  But I think that it was not Kigali's sole privilege.  I think in any situation of hostilities, that is the case.  There are more acts of disobedience in times of war than in times of peace, wherever you are. 
+Q.	Under examination-in-chief where you spoke of how it was necessary to fire on soldiers in uniform who were indulging in acts of violence -- of vandalism, sorry; do you remember that?
+A.	Yes, I remember. 
+Q.	So, a military uniform was not a guarantee of the preeminence of authority? 
+A.	Even in peacetime, soldiers may indulge in poorly disciplined actions and in acts of indiscipline but that can be dissuasive in nature. 
+Q.	I think I am going to finish with the lunch break as I had thought at the outset; but at this juncture in my line of questioning, I nonetheless have the feeling that authority was highly dispersed. 
+A.	That is the truth, indeed, Counsel.  Authority only functioned in exceptional cases. 
+Q.	Some used their authority to indulge in acts of vandalism, looting and settlement of accounts? 
+A.	Well, that is the case of the soldiers we have just talked of. 
+Q.	Or those who exercised violence in the neighbourhoods on the roadblocks who had some authority and who thought each one had his own degree of authority, and used it as they thought best even if sometimes it meant that they used it ill? 
+A.	That is quite correct, Counsel. 
+Q.	When we spoke of the pacification mission, you said that you understood it as a means to find an umbrella to pass the burden on to you to control people who are uncontrollable.  You did use the expression "umbrella" and "passing on the responsibility"; is that correct? 
+A.	Yes, that is correct and I maintain that position. 
+Q.	Don't you think rather that in that context, those who called for calm were trying to mobilise all people of good intention from wherever they were to unite in one authority representing peace and respect for the -- each other; that each one in his own immediate situation had a tiny bit of influence? 
+A.	Well, in what I have just told you and what I will stick to, it was a specific incident in respect of the message given us because they thought we had more authority.  That is the answer that I would provide, in that situation.  In respect of that precise event, they thought that -- that message -- we would pass, although we had less authority and less means, would be sufficient to achieve the results without exercising control.  And the fear of authority which is exercised through -- that is where I said that it was to get rid of a problem by considering that the Interahamwe committee could bring an efficient solution in respect of those who were doing what was not allowed; if I have understood correctly.  
+
+I should like you to hear what I have to say on that specific point; but if we are generalising, I would say that if you do not have any authority when you have been endowed with authority by law, what about someone who is not invested with any powers but, who, nevertheless with good will, responds to what you ask him to do?  I have not said anything else. 
+Q.	You, Witness, used the word, a term that I have on my list of questions, you say that, "when you have no power, you resign, they should have resigned."  Do you think that that is an attitude that would lead to saving those who could be saved? 
+A.	Counsel, I mentioned that thought.  Either one sees one has the necessary authorities, one assesses one's self, one draws conclusions.  But far be it from me to intend to say that that was the best solution, no.  I say one must face up to certain situations as they are acknowledged, the difficulties, but           also acknowledge the strengths.  I have no afterthoughts.  I have no particular accusations.  But I know the situations, and especially in the precise instance where it was considered to be sufficient to have said -- held such a discourse, and called for such-and-such to be done to consider that that is enough.  I think you understand me.  And I should -- the words should not be put in my mouth. 
+Q.	Well, I don't at all want to put words in your mouth; I should like you to understand me.  To multiply efforts to establish security, respect for each other, to multiply the number of announcements and communiqués, is that not already to do what one can? 
+A.	Well, Counsel, I think we both are thinking along the same lines.  I said yesterday, if I correctly recall, in speaking of, I think it was with you, in speaking of a combined effort of the three parties, and involvement of the international community through UNAMIR and the two warring parties, results were obtained.  I also said that that was only -- would have been possible progressively in time, but you have to begin somewhere.  And the way to begin is by calling out, sending forth the message.  But the sending forth of a message was not sufficient unless supported by energetic action.  So, that is why I must interpret what I said in the specific context in which I said it. 
+Q.	Witness, we are all convinced that if all who had the means to do so, especially in the international community, had done what they could, there would not have been the Rwandan tragedy.  But what I am driving at is to see with you what could be done by those who are being tried here today before this Tribunal.  The good offices, the (French spoken), in good will towards Dallaire and the other warring parties was all that could be done? 
+A.	Well, yes, one can only do one's best.  Without complaining, I should like to remind you here that I am also accused, along with my former brothers in arms; but I note what is real.  And my démarche is only to, as faithfully as possible, set forth the events as I remember them, what was done as I remember it, what was said as I can recall it and interpret it.  My point of view was not only of what was done, but also of what could be done.  I am not proceeding otherwise.  I should like this to be clear that is my testimony.  
+
+My testimony is intended for those who have the competence, the jurisdiction, to assess the situation in relation to the acts and -- of those who were the established authorities.  I am not favouring one party above another.  That is my testimony.  I am also judging myself as to my actions or omissions, but I also contend that one cannot do the impossible.  One can only do what one can, and there are limits, Counsel. 
+Q.	Well, Witness, since the beginning of your testimony, I feel great emotion as to the way you set forth your perception of events.  I have many questions to put to you because you provide us with answers that are extremely important for us.  I have had to cut it short because the hour has struck, the time is nigh.  
+
+And with you I should like to ask, and this is as true for Mathieu Ngirumpatse as Karemera, as Nzirorera, you said that you remember that Mathieu Ngirumpatse was an orator? 
+A.	A great orator.  I added that it was a pleasure to listen to him; and I was not the only one. 
+Q.	His weapons were speech and the pen? 
+A.	And even action when that was necessary and well founded. 
+Q.	Well, action could be mediation, as was the case when he saved the hostages at Amahoro, and those seeking refuge at Hôtel Mille Collines?
+A.	All of that, yes, Counsel. 
+Q.	To use only his abilities as a diplomat to appeal to the international community? 
+A.	Yes, that was part of his duties, moral duties in view of the authority and competence he had. 
+Q.	It might have been more comfortable for him to desert, to abandon ship? 
+A.	I would not recognise Mathieu in that, and that is not what he did.  So, it is yet again through observing the facts. 
+Q.	It may be possible for him to save lives? 
+A.	That is true, Counsel, people of good faith, people who had the opportunity to do so.  I must say there weren't only murders of Tutsi either by Interahamwe or MRND, or by Interahamwe, in general, the population, in general.  There was also, and one often forgets it, Tutsi lives were saved, at great risk to one's life.  And I know of what I speak.  So there was not only that monstrous aspects of the massacres, but there were also efforts, and even successful efforts, to save Tutsi.  But very often we forget that.  One -- only as is human nature, one only remembers the negative side. 
+Q.	Witness T, do you know that at the time you thought Mathieu was indifferent to the fate of the family of number 1, he was doing -- sparing no effort in trying to save the nephew of number 1, the sister-in-law, all of those who had not been massacred by others than the Interahamwe or the MRND?  You accuse him of indifference.  Can you exclude that he was moved by the essential concern to save whoever he could? 
+A.	Counsel, I should like to grab this opportunity to express myself on this point, because in describing the general attitude which I observed, I would not have judged Mathieu, Karemera or Nzirorera through that attitude that perhaps I misinterpreted, but it is what I felt as a resulting -- as being a consequence of the tragedy that befell us.  The ordinariness that might have been present in what some people said, but not everyone -- that is what I felt, and that is what I interpreted in the face of that attitude.  
+
+In any case, as he has told us, those who were dead were dead; and we had to save those who were still alive.  So I repeat, don't blame me for having described an attitude that I perceived, and which I perceive as I explained it, that I expressed reservation that I could not interpret laughter of a certain type.  
+
+In Rwandan culture, as in any other cultures, there are words that can be mentioned, and that can be differently interpreted.  That is all I can say.  Someone might, who had saw my attitude, might have interpreted it differently than it, in fact, was; but it was this attitude in face of a tragedy. 
+Q.	Witness, on behalf of Mathieu Ngirumpatse, who is by my side here, nobody blames you.  And my cross-examination is now finished.  I should like to tell you also how much your answers have, I think, touched many of us through their profound humanity, and I should like to thank you.  
+A.	Well, I should like to thank you equally.  Thank you, Counsel. 
+MR. PRESIDENT:
+Okay, thank you, Mr. Weyl.
+
+Mr. Witness, your testimony is not yet ended.  
+THE WITNESS:
+Yes, Mr. President. 
+MR. PRESIDENT:
+Yes, and we will resume after luncheon -- after lunch, and you will be examined by Mr. Sow on behalf of Mr. Karemera.
+
+Mr. Morley, did I catch you trying to get my attention?  
+MR. MORLEY:
+I was going to, but I see the hour, and I want to reflect on what it is that I propose to say. 
+MR. PRESIDENT:
+Okay.  We will take the luncheon adjournment now. 
+(Court recessed from 1302H to 1443H)  
+
+MR. PRESIDENT:
+Good afternoon, everybody.
+Mr. Sow, you have the floor.  
+MR. SOW: 
+Thank you, Mr. President.
+CROSS-EXAMINATION
+BY MR. SOW:
+Q.	Witness, are you online? 
+A.	Yes, Counsel, I am online. 
+Q.	Good afternoon, Witness.
+A.	Good afternoon, Counsel. 
+Q.	I would like to introduce myself.  I am Papa Mussa Félix Sow, co-counsel for Mr. Édouard Karemera.  My lead counsel is Ms. Dior Diagne, who is in the room where you are.
+
+Witness, I come from a country called Senegal.  I'm not sure, if you know it, but like you in our country, we experienced too, perhaps to a lesser degree, events similar to the ones you experienced between Senegal and Mauritania.  And unfortunately, when this happened in Mauritania, Senegalese were persecuted and killed.  And, on the other hand, Senegalese killed and persecuted Mauritanias.  Yet, since in this case, we are dealing with victims and the vanquished, no one has been prosecuted.  
+
+However, in this case, my interest in you is based on the fact that you are a witness who had firsthand experience of the events.  You have been here for almost a week, and I have been listening to your testimony.  And this reminds me of a quotation by the philosopher, Goethe --
+THE ENGLISH INTERPRETER:
+The interpreter didn't get the beginning of the quotation. 
+BY MR. SOW:
+Q.	If you lose your courage, you lose everything. 
+MR. PRESIDENT:
+I don't think the interpreter -- we didn't get the whole interpretation in English, so if you can do it again, please. 
+MR. SOW: 
+Mr. President, I will try to take it slowly.  
+BY MR. SOW:
+Q.	The philosopher Goethe said, "If you lose your money, you do not lose much.  If you lose your dignity, you lose much.  If you lose your courage, you lose all."  That is to say, Witness, that whatever the gravity of the events, I note that you have shown much courage, and I thank you for that.
+
+My first question, my first line of questioning will centre or focus on the party and the Interahamwe.  The second will deal with the war and civil defence.  
+MR. SOW: 
+Mr. President, I will make use of three documents; unfortunately, I was not able to forward them in good time and I did not know that on the other side they did not have the equipment that would have allowed them to receive the documents instantaneously.  So that I will use them and equally read out the portions of text that have a direct relation to my cross-examination, so that the witness is able to know what passages we are going to read from. 
+MR. PRESIDENT:
+Mr. Sow, would it be helpful if the registrar was able to send the documents by fax?  
+MR. SOW: 
+I think that that is what he did; but I was told that the documents can only be received at the hotel and only in the evening.  That is the problem, Mr. President. 
+BY MR. SOW:
+Q.	So, Mr. Witness, my first line of questioning relates to the party and the Interahamwe.  You stated that you were a member of the MRND, correct? 
+A.	That is quite correct, Counsel. 
+Q.	So, can you tell us the meaning of the acronym MRND at the time that the period was the only party; and, secondly, when the party was reformed? 
+A.	Thank you, Counsel.  At the time of the single-party state, the acronym MRND meant                   National Revolutionary Movement for Development. 
+Q.	Thank you.  Now, when the party was reformed -- when the party was reformed, the same acronym or abbreviation meant the National Revolutionary Movement for Development and Democracy.  
+A.	I hope I am not mistaken, because the person you are representing is a specialist in these matters, a top level specialist. 
+Q.	Mr. Witness, indeed, you have made a mistake.  The reformed MRND meant -- or stood for        National Republican Movement for the Democracy and Development.  
+A.	I thought that is what I -- that is what I thought.  And that is why I suggested that there was an error on my part, because I was hesitant.  I hesitated between the term "republican" and "revolutionary" at the time that the party was operational -- or operating during the multiparty era. 
+Q.	Thank you for the correction, though.  Witness, tell me, was recruitment in the MRND based on ethnicity? 
+A.	Counsel, if there was a party preaching harmony amongst the three ethnic groups, that was -- the party was the MRND in the time of the second republic.  And it is this position which continued to be expounded. 
+Q.	Thank you.  Did persons from various ethnic groups join the MRND? 
+A.	That is very true, Counsel. 
+Q.	Were Tutsi among those people? 
+A.	The Tutsi were among these members, both at grass roots level, and all other echelons right up to management. 
+Q.	Witness, am I, therefore, to understand that the Hutus and Tutsi lived in harmony within the MRND? 
+A.	Yes, I can confirm this.  And by way of example in support of what I say, many wicked tongues, quote, unquote, said that "the MRND harboured Tutsi".  And by that they meant most -- mostly the president of the Interahamwe youth wing and other people who were working in the MRND. 
+Q.	Can one say in this framework that the Hutus and Tutsi during the second republic were living in harmony in the country? 
+A.	I hesitate to say that such an observation would be universally true; however, strangely enough, before things changed with the advent of the war, harmony was such that some people said that the ethnic groups have a tendency to disappear, or were tending to disappear, and that it was probably more appropriate to talk of the rich and the poor.  So that phenomenon was not a part of                    President Habyarimana and his party's policy. 
+(Pages 19 to 35 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1500H 
+BY MR. SOW:
+Q.	Witness, can you tell us when was the democratisation process launched in Rwanda? 
+A.	Once again, I have to caution you, but from my recollection, the legalisation of the process, the enshrinement of the process was launched either on the 5th or the 10th in 1991.  
+Q.	Did you monitor the work of the national synthesis committee which was led by Mr. Édouard Karemera which led to the constitution of the 10th of June 1991? 
+A.	I monitored the process, Counsel, and this process earned him the nickname which I affectionately use, Rukusanya, which means the coordinator who is efficient.  More specifically, in the context of the word, that is an observation by those who were or remained in the MRND, as well as those who rushed to the opposition parties.  This is a way of summing up the efficacy with which this work was conducted by Mr. Karemera. 
+Q.	Mr. Witness, tell me when you speak of Mr. Édouard Karemera's efficacy, am I to understand by that that the work was difficult to conduct, that is, was not an easy task?  What do you mean by that? 
+A.	I mean that it was neither easy, that was something new, and that everybody needed to take part in this operation which, on a legal basis, needed to be irreproachable.  You needed to accord with the fundamental law, the constitution, of the republic, for which reason -- I'm not very good in Kinyarwanda, but "rukusanya" means taken from all sides and attempting to harmonise. 
+Q.	Let me help you out a bit to translate rukusanya, even though I do not speak Kinyarwanda.  Rukusanya means the synthesiser, the synthesiser, harmoniser.  I'm not very far off indeed.   So tell me, in his capacity as a civil servant, what can you say about Mr. Édouard Karemera? 
+A.	I know that Mr. Édouard Karemera held at least three ministerial portfolios, public service and employment, the ministry of institutional bodies.  He was minister in the presidency, but I'm not exactly certain of the name of the department, but I am aware that he was always considered a real technocrat.  
+Q.	The other portfolio was institutional relations.  Witness, could you please repeat what you have just said? 
+A.	He was rigorous, from rigor. 
+Q.	What about his integrity? 
+A.	Counsel, in the notion of rigor, one identifies -- or one can identify a certain measure of integrity.  It's not exactly a synonym, but within rigor there is integrity.  It is rigor in the positive sense, and not in the sense of stiffness. 
+Q.	According to you, this man who fought for multi-party politics, could he have become a sectarian to the point that he would have become a member of a criminal enterprise that aimed to eliminate the Tutsis? 
+A.	I do not believe this, Counsel. 
+Q.	Thank you.  I'd like to discuss with you the restructuring of the MRND.  Based on your knowledge, can you describe the process of restructuring the MRND? 
+A.	In fact, there was a first stage, an initial stage, during which the single party MRND, using some of its bodies or authorities, in April 1991 had its congress meet so as to accept the principles because it was up to the single party state to accept reality and the plural party system.  So the multi-party system was consecrated during the congress.  So in the next stage, which occurred after the law legalising multi-party politics, on the 10th of June 1991, there was a need for the MRND to take on a new acronym, a name, as we have seen.  It needed to register this new entity.  It needed to adopt new statutes, which was done under Mr. Édouard Karemera, and from what I know, until the national congress in April 1992.  That is what I would term the first phase of renewal.  
+Q.	Until what we call the constitutive committee of the MRND which we have on the 4th and 5th of July 1991, just shortly afterwards the extraordinary congress of April 1991 of which you have spoken, Witness, did you follow the work of the restructuration committee within the MRND? 
+A.	In the media, in the press, not through my personal attendance or personal participation, no.  And in any case, one must recall that at the time, in fact, I joined the MRND through what was my joining of the youth wing, the Interahamwe, but I wasn't as such a bearer of a party card, an MRND party card, in any form.  I felt I was a member of MRND through my conscience, my commitment, but it wasn't more formalised by formally joining and becoming a member, a card-carrying member of the party. 
+Q.	Thank you for that clarification.  So now we're in full multi-party politics.  The renewed MRND was therefore created.  I should like to know, Witness, according to you, multi-party politics, did it strengthen or weaken the MRND? 
+A.	Counsel, I think I can say strengthened and weakened, because the end was not glorious.  I told you that at one point -- I don't wish to anticipate anything -- but at one point the population, the people, regretted the advent of multi-party politics in the shape in which it appeared, and in the face of misfortune, the population preferred to have the MRND as the single party, and that the one party state under the MRND was the lesser evil.  
+Q.	Under multi-party politics, the MRND was obliged to return to the state the assets it had; is that not correct? 
+A.	You are quite correct, Counsel. 
+Q.	Under multi-party politics also, members of the MRND left the MRND to go and establish other parties; is that not correct? 
+A.	To my great astonishment, even those who a few months before the return to the new formula MRND, as it was popularly called. 
+Q.	Since there was no longer a single party, since there was no longer a one-party state, was there any consequence as regards the administrative structures? 
+A.	The administrative structures, if I'm not mistaken, leads us to a government headed by a prime minister from the opposition, a government which was a coalition of party -- of parties in opposition to the MRND. So the MRND was no longer the master of the ship as it had been before? 
+Q.	Well, I wanted to draw your attention, as it happens, to the administrative structure because the MRND has often been blamed, having been the single governing party, to have practised a juxtaposition of party structure with administrative structures.  So with the advent of multi-party politics, the position was no longer the same, already at government level, and even more so for administrative structures? 
+A.	I can confirm that, Counsel. 
+Q.	So there is no longer hegemony of the party over the country? 
+A.	Not at all, to the extent that the new parties think that democracy is to turn against the party of which it had been a member and criticise it.  And criticism being a matter of personal preference, that is why I criticised those that blamed the MRND for everything.  They were the same people who had contributed to drafting that party's guidelines.  So they were, in fact, accusing themselves.  But I don't think they should have proceeded thus.  It was merely to try and give credit to their new line of action. 
+Q.	From the financial point of view, since the party was the state and was certainly subsidised by the state, with the advent of multi-party politics, since the MRND had returned its assets to the state, how did the MRND manage its budget in order to maintain its activities, run its activities? 
+A.	As far as I can remember, that had given rise to some polemic.  At the time of the one-party state, the very structure, the very foundation, the very grass roots at cellule level, authorities were paid an annual bonus of 10,000 Rwandan francs at the time.  You could say it was more or less, at the time, $120 at the time.  So those who created the new opposition parties made of that bonus their -- they made it their main argument and sought to have it abolished, so it was at the basis of a great deal of polemics and the MRND, having returned its assets to the state, I think a protocol was concluded between the ministry of finance and the MRND to ensure some compensation, which I don't think was paid, all the more so since that ministry was in opposition hands.  This was argued over for a long time.  The polemic lasted a long time. 
+Q.	So, Witness, if I am to summarise, can I suggest to you that the renewed MRND had seen its organisational capacity reduced in the context of multi-party politics, both from the view of the members, from the financial point of view, from the point of view of its hegemony over administrative structures, local government structures? 
+A.	That is quite correct, Counsel.  They shoved the MRND around so much, that some thought it would -- the party would disappear.  At least, in the months following the advent of multi-party politics and the arrival on the scene of the new parties who did not go about it lightly. 
+Q.	Thank you, Witness.  So as of that moment, according to you, why did the MRND, the single party, take advantage of its hegemony to exterminate the Tutsi? 
+A.	That is, according to me, the question -- or the thought, the reflection, that any objective observer -- it is a question that every objective observer should consider before swallowing whole, before ingesting, all the rumours that were circulating about the MRND, a virulent campaign waged by the RPF as of the 15th of October 1990.  I cannot analyse this, I cannot reflect upon it without involving that triggering event of everything that happened, whether it was the hypocritical play between the parties, who would, I'm sure, have behaved much better if it hadn't been in that environment, that atmosphere, where some supported and others bemoaned the war as a solution to the problem. 
+Q.	We shall come back to 1990, and I think I can ask you a few questions in that regard, but I'm still on the MRND line.  And when you were examined in-chief and under cross-examination, you said that it was thanks to the creation of the Interahamwe that the MRND began to be seen in a better light.  Do you confirm that?  
+A.	I can confirm that, Counsel. 
+Q.	So, the MRND, thanks to the Interahamwe, gets a second wind, if I can put it like that, and the Interahamwe are led by the national provisional committee.  So the natural question is the following:  The national provisional committee, did it have real authority over its members? 
+A.	 "Real" in quotation marks, "Interahamwe", also in quotation marks, because at the time of the establishment, of the movement, it began in Kigali.  And since you're speaking of authority, well, really, the provisional national -- national provisional committee only had authority as such in Kigali.  I can also tell you, in the context of what you have just said regarding the revitalisation or this coming of a new energy, the second breath that came to the MRND, the youth wing was taken over by the party.  So you can't have one with the other -- without the other.  There was that hierarchical relationship.  But everything was based on the voluntary character of the national provisional committee as a contribution to this new democratic state of affairs, to this new multi-party democracy, I mean. 
+Q.	Well, thank you, Witness.  But if I put that question to you, it is because I'm basing myself on the name of the committee, which was the national provisional committee, which doesn't derive its legitimacy from a congress, a conference or any assizes that elected the committee.  So, basically, could that committee have had authority over the membership? 
+A.	I think you've just repeated what I said, unless I misunderstood you.  
+Q.	But, in fact, Witness, what I want to know, because according to your answer, I had not understood that you had emphasised the provisional character of the committee, to wind up by saying that that committee did not have any legitimacy consecrated by regularly established structures.  So consequently, the legitimate authority it might have over members was problematic.  Do you confirm that, or do you wish to contradict it?  
+A.	From the legal point of view, your analysis is quite correct.  Nothing was consecrated in any written instrument.  Provisional must be seen as not being definitive, and so by the very word, because -- the committee only exercised authority over the members in Kigali. 
+Q.	Indeed, I agree with you, Witness, because as you know, the Interahamwe were presented as being structured throughout the national territory, and therefore answerable to the national provisional committee. So it is important to make the -- to contribute those details in order to help us to better understand what happened.  And I also note that your jurisdiction finished at Kigali city limits, préfectoral limits.  But I also wanted to know whether you knew if there were any Interahamwe in Kibuye.  
+A.	Counsel, returning to the term "Interahamwe" that some threw every epithet at and others who interpreted as they liked and took it as a rival organisation, so Interahamwe also came to mean something else in time, with time.  "Interahamwe", well, it came -- was seen to mean not only the youth but every -- all members of the MRND party after the 6th of April.  The party -- or, rather, that name, in the post-genocide literature, if I might call it that, it came to be considered that all militias of all parties, at least those that were opposed to the RPF, were called Interahamwe.  And I think -- I have come to learn that after the RPF came to power, any Hutu was considered to be an Interahamwe, and the same concept extended to any opponent of the RPF, even if he was a Tutsi, and so on and so forth.  So I think we should draw a distinction, since you apparently want to go into that notion or concept in detail.  But there was no legal definition of the term when the people decided -- took it upon themselves.  
+Q.	Witness, I wish to reassure you -- assure you or reassure you that my intention is not to indulge in legal niceties, but you bring a stronger light to bear on things, and I agree with you that things were lumped together.  And I should like you, yourself, to shed light on that lumping together of things because the Interahamwe were considered to be everywhere throughout Rwanda and all answerable to the national provisional committee.  What I understand by Interahamwe is Interahamwe za MRND, which means the youth wing of the republican movement for democracy and development.  Is that correct? 
+A.	That is correct, which is why I wanted to emphasise it, underscore it, so that those who want to play with words should understand that the first -- in the first instance, it was the youth -- the youth wing of the MRND party. 
+Q.	I fully agree with you, Witness, and I can tell you that before, when I was in Senegal and took -- was reading up about the case, I did not have the understanding of it that I have today of the word "Interahamwe".  
+
+So, Witness, since you are an intellectual, I'm going to put to you questions as to what was called the Interahamwe's uniform.  I should like to put it to you, because French is very delicate -- anyhow, the MRND wore external colours -- items in the colours of the MRND party and not a uniform, because my understanding of the word "uniform" is something that you have to wear compulsorily, like soldiers.  
+A.	I agree with you entirely.  Some distinctive item of clothing in the party colours, the wearing of which had no other purpose than to strengthen the image of the party, and it was never in any case only practiced by the MRND.  I think every football team has its uniform when it goes out to play.  Every country has national colours, the national flag.  That is how it must be understood.  But detractors, the denigrators, the caricaturists, were not in short supply.  
+Q.	I understand you, Witness.  I understand you well, and I agree with you that things must not be lumped together.  The youth wings of other parties, did those youth wings not also wear uniforms in the colours of their parties? 
+A.	Indeed, Counsel.  I would even go further to say that the regular armed forces, the Rwandan armed forces, had a uniform that identified them.  The RPF -- the military wing of the RPF, had quite distinctive signs in their uniform; it is that they wore plastic boots.  I'd say like black Wellington boots.  But the government, the Rwandan army, had leather boots that were shorter, short-sleeved, I'd say.  There's nothing specific, other than the traditional garb that can distinguish one movement from another and in which they can take pride. 
+Q.	The provisional national committee issued a communiqué on the 1st of February, forbidding the wearing of what was referred to as the Interahamwe uniform because some people were using the uniform to carry out atrocities.  Can you confirm this?  
+A.	I can, and I took part in the working group's activities, the activities of that working group leading to the issuing of the communiqué. 
+Q.	You also indicated that there was violent exchanges between youth wings of parties and you noted when there was violence, each party would intervene to release its members, and in respect of Interahamwes, you said that Mr. Édouard Karemera or advocate Édouard Karemera had intervened at some point.  Can you confirm this? 
+A.	I can, but I must say he was not the only one within the party or the MRND.  However, to be more specific, as you point out, it was in his capacity as a man of the law, an advocate, the legal counsel of the MRND who was defending the legal interests of the MRND and its members, and that is how we were told that in one way or another, those who had problems could be assisted by Mr. Édouard Karemera.  However, in practice, he was not the only one who could or who would intervene. 
+Q.	Thank you for that clarification.  Do you agree with me that his intervention was legal? 
+A.	If you want my opinion, this intervention was legitimate, especially since we felt that the people who were carrying out attacks in some cases were doing so in self defence.  But I must say that there were cases of abuse.  This is a society made up of human beings, after all. 
+Q.	Witness, I believe I did not put my question correctly.  I'm referring to his intervention as a lawyer, because when a lawyer acts, he is supposed to do this on the basis of the presumption of innocence.  So sometimes the people on whose behalf he acts may be convicted, just as they may be acquitted, and it was in that regard that I was putting a question.  So I meant, as a lawyer, was it right or correct for him to intervene? 
+A.	We're on the same wavelength, Counsel. 
+Q.	Witness, were you aware of the results of the trials that took place where Mr. Édouard Karemera worked to defend accused parties? 
+A.	Generally speaking, perhaps, but I cannot tell you specific -- with any specificity the cases in which Mr. Karemera worked.  However, in general terms, we knew that trials took place, that there was presumption of innocence, provocation and legitimate self defence.  So we knew that there was that.  However, I did not keep up or keep abreast of actual developments in that regard. 
+Q.	Thank you.  In your statement you said, with respect to Édouard Karemera, that he had no particular relations with the Interahamwe.  Can you confirm this? 
+A.	I repeat, the venue of the first meetings was the office of Mr. Édouard Karemera, and this was even before the April 1992 congress.  Once again, with all due reservation, I found that Karemera's attitude was lukewarm at best towards the Interahamwe.  And at the congress where the members of the national provisional committee were invited, a campaign was mounted and it included me, to see that Mathieu rather than Mr. Karemera be elected.  So relations were not very warm or cordial.  That was my observation.  If I am mistaken, I apologise to Mr. Karemera. 
+Q.	Thank you.  After the 6th of April 1994, did you notice any change in his attitude towards the Interahamwe? 
+A.	Counsel, let me make myself clear so that there is no ambiguity.  The Interahamwe, as time went by, as soon as they were co-opted into the MRND party -- I don't know if that is the right term -- they would accompany, escort, members of the national committee, including Édouard Karemera . That does not mean that there was aversion or personal hatred on Mr. Karemera's part towards the MRND, or vice-versa, but it is a comparison I make to Mr. Ngirumpatse, Mathieu, or Mr. Nzirorera.  But in official functions, Mr. Karemera as a leader was receiving -- was respected by the Interahamwe.  He would be applauded based on his functions.  And so there is need to make this aspect clear.  
+
+You asked a question about a possible change in attitude after the 6th of April.  But I would rather say that it seemed to me that Mr. Karemera as a party official became more flexible towards the Interahamwe.  He had perhaps gained greater understanding of the youth wing, but I did not see a particular attitude being displayed by Mr. Karemera vis-à-vis the Interahamwe.  
+Q.	Tell me, Witness, do you remember one Rwambuka, Fidel.  I can spell it:  R-W-A-M-B-U-K-A; Fidel, like fidèle, "faithful", in French.  
+A.	Rwamabuka, Fidel, whom I did not know personally, was bourgmestre of Kanzenze commune in Bugesera region, where the well-known incident took place, the confrontation whereby certain elements of the Interahamwe or MRND were targeted or accused of perpetrating, or originating the confrontations.  If my recollection is correct, Fidel Rwamabuka, following that incident, lost his position as bourgmestre.  But the circumstances of the incident and the investigations -- 
+Q.	Do you know that he himself was assassinated and that there was prosecution, the perpetrators were prosecuted? 
+A.	In fact, what I was just about to say was that, in the interim, he died.  That is what I was about to say when you took the floor. 
+Q.	Indeed, he was murdered and the perpetrators were prosecuted.  His family were the plaintiffs and Mr. Édouard Karemera represented the family in the case.  Were you not aware of this? 
+A.	No, Counsel.  You know, such details -- it actually comes as a surprise to me that I should still have a general recollection of these events.  You must remember I had other fish to fry, professionally speaking. 
+Q.	I understand you, Witness.  I must, in fact, compliment you on your powers of recollection, given the time that has elapsed.  I must say you have an excellent memory.  
+A.	Thank you.
+  MR. SOW:
+Mr. President, I should like to make use of two documents, read from them.  These documents were forwarded to us by the Prosecutor.  I will now give the reference of the disclosure so as to allow the Prosecutor to find the reference.  
+
+A moment's indulgence, Mr. President.  I am looking for the document, the paper, where I had noted down the references.  Oh, there it is.  It is here.  
+
+It is the letter dated 20th February 1992, a document that was forwarded by the Prosecutor on CD 006A-6.  It is a letter that Mr. Mathieu Ngirumpatse, minister of justice, addressed to the honourable prime minister.  
+
+The second letter is dated 7 March 1992.  It is a document that marks -- is marked CD 006A-7A.  This CD was transmitted on the 4th of June 2004 to the Defence.  Since the witness does not have the document with him, in order to give him some background on the Bugesera events that took place in March 1992, I will read the documents to him, I will pick out portions of text, but in regard to the letter by Mr. Ngirumpatse to the prime minister, given the importance of the letter, you will allow me to read it in extensio.  It is a five-paragraph document.  
+
+"His Excellency, the Prime Minister, Kigali.  Your Excellency, Mr. Prime Minister, following the situation report drawn up by the Kigali public prosecutor following his trip to Ngenda commune on the 1st of February 1992, a copy of which was sent to Your Excellency, I have the honour to provide to you, sir, my opinion and considerations on the current situation in Bugesera.  
+
+"Rwandan refugees, acting in complicity with the Burundian authorities, are alleged to be preparing an armed attack against Rwanda through this region.  We would be committing a very serious mistake if we continued to believe that this was simply a case of cattle rustling.  These enemies of the state are, no doubt, exploring the terrain in order to ensure that there will be no resistance by our army to their invasion.  Any perspicacious Rwandan recalls similar acts that were perpetrated in Mutara by the Inkotanyi during the period preceding the 1st of October 1990.  Consequently, vigorous measures ought to be taken by the ministry -- ministry of defence, the ministry of the interior and communal development, in order to dissuade the enemy and show him that his Machiavellic plans have been shown.  The intelligence service should in particular carry out surveillance on one Kamatari, a teacher in Ngenda commune, who is acting in obvious collusion with people on the other side of the border, and we should be advised as soon as he commits an offence in order for him to be prosecuted.  I trust in your usual cooperation.  
+
+Minister of Justice, Mathieu Ngirumpatse."  Signed, Mathieu Ngirumpatse.  
+
+On the 20th of March 1992, a second letter was addressed to the minister of the interior and communal development.  I'm sorry, it is the 7th of March 1992.  And this time the letter is signed by order -- or, by the secretary general of the ministry of justice, Mr. Ntagozera, Charles.  I know I am mispronouncing it.  It is spelt N-T-A-G-O-Z-E-R-A, Ntagozera.  
+
+In his letter dated 7th March -- I am going to read just one paragraph to gain time.  The secretary general, writing to the minister of the interior, said the following:  "I take the liberty to point out to you, Mr. Minister, that the localised crisis in this region at this time is clearly being sustained and constantly exacerbated by the incendiary speeches and intrigues or actions of the Parti Libéral, which is not hiding its intention to provoke.  Now that the straw has broken the camel's back, I'd like to ask you to consider the possibility of suspending all functions and rallies of the party liberal in this region until the atmosphere has cleared." 
+
+I am done with the reading of the two documents.  
+BY MR. SOW:
+Q.	Mr. Witness, you have responded to the Prosecutor in answer to questions about the Bugesera events that the Interahamwe were not involved in the violence in March 1992.  Can you confirm this to us? 
+A.	I can, and to illustrate this, this issue of Bugesera was the subject of several speeches, including the letter, the open letter by those accusing the MRND of being involved in the events.  So I can confirm that the Interahamwe had nothing to do with it in their capacity as the youth wing of the     Interahamwe -- of the MRND party.  This is borne out by the letter of the Interahamwes in which they invited -- I remember they invited Mr. Mugenzi to a debate so that Rwandans themselves could hear the arguments or the basis of the accusations against the Interahamwe.  Mr. Mugenzi refused.  Mr. Twagiramungu who was, at the time, president of a consultation committee grouping opposition parties who were identified in the letter, was informed by the Interahamwe that the violence that they were exalting -- since this was the basis of their speech against the Interahamwe, they were saying this, and in a way it was a kind of premonition, when you consider how he ended up, and these are the people who are considered the greatest democrats.  I think he has changed his tune now.  Thank you, Counsel.  
+Q.	I thank you, Witness.  Now, I'd like to ask you -- and certainly thereafter I will ask the President to take the break.  I'd like to ask you about the documents I just read out.  Do these documents reflect the reality on the situation in Bugesera? 
+A.	The situation is reflected by the letters -- as reflected in the letters, has always seemed real to me, and it is confirmed nowadays by what happened when those who came to power are those who had been propagating this violence, encouraging discord amongst the civilian population.  Mr. Mugenzi can attest to this. 
+MR. SOW:
+Thank you.  Mr. President, before we go, with your leave, to take the break, I'd like to ask you to admit the documents, that is the 22nd of February letter written by Mathieu Ngirumpatse, who was minister at the time.  
+THE ENGLISH INTERPRETER:
+The interpreter did not get the K-number.  
+MR. SOW:
+As well as the letter by the secretary general of the ministry of justice dated 7th of March 1992, and we'd like it to be admitted as D. K5, Exhibit D. K5, and the previous exhibit, D. K4. 
+MR. PRESIDENT:
+Mr. Sow, can you give us the K-numbers, please?  
+MR. SOW:
+Mr. President, unfortunately, there is no stamp, but I can give you the CD references.  It is CD of the 4th of June 2004, 5006-A.  Thank you, Mr. President.  
+MR. PRESIDENT:
+Admitted in evidence.  
+(Exhibit No. D. K4 admitted)  
+(Exhibit No. D. K5 admitted) 
+MR. SOW:
+Mr. President, I suggest that we should take the break, the afternoon break. 
+MR. PRESIDENT:
+Yes, thank you very much.  We take the mid-afternoon recess now.  
+(Court recessed from 1602H to 1629H) 
+MR. PRESIDENT:
+You may continue, Mr. Sow.  
+MR. SOW:
+Thank you, Mr. President.  
+BY MR. SOW:
+Q.	Witness, are you on line? 
+A.	Yes, Counsel Sow. 
+Q.	Let us proceed.  If you do recall, we were talking about the events in Bugesera.  I will proceed with questioning on those events.  Witness, isn't it true that the origin of the violence or the acts of violence in Bugesera was the speech delivered at a meeting in that area? 
+A.	That is correct, Counsel. 
+Q.	Could you tell us which party was involved? 
+A.	The Bugesera event involved the liberal party, the PL, and I believe that the speech was delivered under the chair or direction of Mr. Mugenzi, Justin.  I believe that it was Mugenzi, Justin.  You see, as a matter of fact, the Interahamwe had requested an open -- a public radio broadcast debate, and there was an objection to that request. 
+Q.	Witness, could you tell us the relations between the PL and the RPF at the time? 
+A.	There was partnership between them and the PL did not hide it. 
+Q.	Following the Bugesera killings, isn't it true that the party went on to arrest several people? 
+A.	Counsel, could you repeat your question?  
+Q.	Following the killings -- following the Bugesera killings, isn't it true that the prosecutor's office carried out a significant number of arrests? 
+A.	Yes, that is quite true.  I do recall as clearly as if it were just yesterday. 
+Q.	And who was the minister of justice at the time? 
+A.	Mr. Ngirumpatse, Mathieu, was the minister of justice at the time.  And the prime minister was Nzanzimana, Sylvestre. 
+Q.	That is correct, witness.  It has also been your testimony, Witness, that those who were arrested were ultimately released.  Can you confirm that testimony? 
+A.	Counsel, I do not have the relevant documentation in that connection.  What I do remember is that the investigations came to the conclusion that the Interahamwe were not responsible for those massacres, contrary to what public opinion may have been.  Now, whatever happened to the accused, I do not know for sure or for certain.  But what I know is that the Interahamwe were found to be innocent.  
+Q.	Following the decision to acquit those persons who had been accused, do you know who the minister of justice was at the time? 
+A.	After the 16th of April, that is, following the setting up of the multiparty government under prime minister Nsengiyaremye, Mr. Mathieu lost his position as minister of justice.  Mr. Mbonampeka, Stanislas, became the minister of justice, if my recollection is correct.  I'm sorry, Counsel, please proceed. 
+Q.	Well, I'm sorry, Witness, I'm the one who interjected.  Please proceed.  
+A.	I was saying that, as far as I can recall, it's Mr. Mbonampeka.  Well, I think I did spell out his name earlier on in the day and if it's necessary, I can repeat. 
+Q.	No, it is not necessary.  
+A.	I was saying that he was in office for about six months.  He resigned six months thereafter.  
+Q.	So are you confirming that Mr. Stanislas Mbonampeka was minister of justice at the time?  If that was the case, how is it, then, that it was being said that the release of the Interahamwe came about because Mr. Mathieu Ngirumpatse was the minister of justice?  I hope I did pronounce his name properly.  I hope that I pronounced the name properly.  Well, from the question, Witness, did you understand what I was saying? 
+A.	Yes, I did.  We have been looking at the successive ministers who occupied the position of minister of justice.  Mr. Mbonampeka was of the PL party and, once again, all of this was part of the politics.  Maybe if it had been Ngirumpatse people would have said that it was normal for him to acquit the Interahamwe, but in this particular case, the minister was of the PL party. 
+Q.	Thank you.  Witness, the national political bureau or executive bureau of the MRND, did it -- or was it able to design, plan, conduct and execute the elimination of Tutsis? 
+A.	Counsel, not as far as I know. 
+Q.	Do you think that the MRND created and organised the Interahamwe for the purpose of eliminating Tutsis? 
+A.	I do not think so, but I'll go on to say that I'm a former Interahamwe and I would not have been part of that youth wing and of that party if those were its objectives.  
+Q.	You also told us in your testimony that at some time, specifically from the 6th of April 1994, all those who were opposed or against the RPF were referred to as the Interahamwe.  Can you confirm that testimony? 
+A.	Yes, I do confirm.  You see, Counsel, earlier on in your cross-examination I attempted to distinguish between the various meanings of that expression, but in all cases there was an abusive use of the expression as far as the real Interahamwe were to be understood.  Because, to some extent, Interahamwe was used to refer basically to all members of the MRND.  So there was a -- there were various shades of meaning to the word, some more accurate than others, some reflecting the truth more than others.  So that is why I believe that when reference is being made to the Interahamwe, there is need to clearly distinguish between Interahamwe za MRND and Interahamwe over time.  This is what I was trying to do earlier on when I tried to talk about this concept of the Interahamwe. 
+Q.	I do understand you, Witness, and you're right.  Could it have been that the Interahamwe were a heteroclitic group of reserve soldiers and young persons from all parties, all factions of parties that were opposed to the RPF, that is, within the time period running after the 6th of April? 
+A.	That is correct, Counsel. 
+Q.	Under those circumstances then, would it be correct to say that the executive bureau of the MRND exercised authority over those persons who belonged to various political parties? 
+A.	That is why, Counsel, my approach to that question is that we are dealing here with -- with responsibility, be it at one level or another, responsibility or liability that must be shared between the various parties, namely, the RPF as well.  And that is why we can understand why the RPF refused registration as a party in order to play this internal game, whereas it is the RPF that had called for that game.  Now, to be more specific, the answer to what happened will be the following:  Full responsibility to the RPF - responsibility -- full responsibility to all parties, the government parties, shared responsibility.  Now, for the international community, shared responsibility as well.  That is the analysis I make of the events at that level.  
+
+So, forgive my language and the comparison I will make.  I will refer to a biblical proverb which talks about the adulterous woman that was brought by the Pharisees before Jesus for judgement.  It would appear that when push came to shove, everybody disappeared, and when Christ said that whoever was not guilty should cast the first stone.  Now, let me say that in matters of adultery, it is not only the woman who should be accused because there is a male partner involved as well.  So one person, one single person cannot commit adultery or the kind of adultery that the MRND is being blamed for.  
+
+I go from that premise, therefore, to say that the two main actors, the RPF and the Rwandan government, represented by the various parties involved, were to share the responsibility, as well as maybe some member of individual -- certainly, some measure of individual responsibility, that is, individuals who committed the killings.  So it is -- although the liability or responsibility does not change, accusing the MRND for being responsible for all that happened would not be correct.  That is my opinion, Counsel 
+Q.	Thank you very much for your explanations.  Isn't it true that the analysis you made could also apply to the Interahamwe za MRND, namely, that everything cannot be blamed on them? 
+A.	That is absolutely true, Counsel, because if you talk about the Interahamwe, you are definitely talking about the Interahamwe.  If you talk about the Interahamwe, you are talking about the MRND, exclusively.  So I believe that we need to continue to think about these issues.  And that is the position. 
+Q.	After the 6th of April 1994, how did the national provisional committee communicate with members of the Interahamwe?  Was it through some structured coordination or was it through communiqués or press releases?  
+A.	I would take an example to answer your question.  When the national committee asked the committee to conduct a mission, it had failed to bring all the members to a meeting under those circumstances.  So there was no coordination, no structural coordination of its activities.  Again -- once again, you lead me to talk about the prevailing circumstances at the time, because we were not operating under normal circumstances.  So it was either through communiqués, which was the main method, or by word of mouth.  Messages were conveyed by word of mouth as much as possible. 
+Q.	Given the war situation that was prevailing, particularly from the 6th of April 1994, would you agree with me that there was generalized insecurity in Kigali? 
+A.	Yes, there was generalized insecurity in Kigali, but this was further compounded in all areas at that time. 
+Q.	Did the curfew make it possible for security to be restored? 
+A.	Counsel, from the environment where I lived and where I found myself, I did learn -- or my experience was that this curfew was never respected in the suburbs.  That is why I can say that the curfew was not effective in some neighbourhoods of the town.  
+Q.	Would you know why? 
+A.	No, Counsel, I do not know.  But my presumption is that people felt that they were not secure and deemed the curfew to be baseless in view of the neighbourhoods in which they lived.  How can you impose a curfew when everybody believes that they can be attacked at any time by a rather elusive enemy?  So this answer can only be speculation.  I do not know what the reasons why, but I think that the reasons can only be related to the generalised war that was obtaining in the town. 
+Q.	I agree with you, Witness, that with the prevailing atmosphere of insecurity, the assassination of the president of the republic only led -- could only have led to a general state of chaos across the country.  Would you agree with me? 
+A.	Yes, I agree with you.  Specifically, in Kigali, in those early days. 
+Q.	Under those circumstances then, Witness, could the MRND have proceeded otherwise or by ways other than broadcasting communiqués over radio in order to reach out to the population in order to call on them to stop the killings? 
+A.	Now, Counsel, when you talk about the MRND -- well, I do not want to impose any methodology to your line of questioning, but, personally, I think that under the prevailing circumstances the MRND was not the only actor at the time.  It was the government in place and the state institutions which, to my mind, are one and the same thing.  Had I been in their shoes, I do not think that any single person could have claimed to be working single-handedly.  Only concerted action between the three actors, the three stakeholders at the time could have led to any efficient and immediate solutions.  You see, when a fire breaks out, you don't put it out immediately. 
+Q.	Well, that is true, Witness.  But when a fire breaks out, some may try to put it out, while others may sprinkle some fuel on it and, therefore, problems can arise.  Don't you think that once the MRND had noticed that the interim government was made up of RPF partners and therefore the MRND would have the right to talk to its militants, its supporters and members in order to call on them to stop the killings because the main enemy was the RPF; don't you think that these were timely initiatives that were taken by the MRND under such difficult circumstances? 
+A.	I have never said the contrary, Counsel, but I have spoken consistently about the complexity of the situation and about the bad faith of the actors or stakeholders - or, one actor who, on the one hand, stood for a use of force, while on the other hand, stood for negotiations.  You see, one of the actors rejected the other's authority and the other said, "It is time to stop the killings, but in order to stop the killings, you must stop the fighting as well."  And then the other would say, "I would not stop the fighting so long as you have not stopped the killings."  It is that kind of behaviour, as far as I am concerned, that made it impossible to check the situation.  You see, it takes more than two to come to peace. 
+Q.	Yes, I agree with you.  It takes more than one person to beat the drums.  
+MR. SOW:
+Mr. President, it would seem that we have some difficulty with the image or the pictures. 
+MR. PRESIDENT:
+Yes.  Mr. Hometowu, are you hearing me?  
+MR. HOMETOWU:
+Yes, Mr. President.  I can hear you, but we also noticed that there were problems with the pictures or the video.  Please, we would like to take a little time and ask the technicians to correct this problem -- or to solve this problem. 
+MR. PRESIDENT:
+Okay.  Thank you.  We may have to do that.  
+
+Mr. Sow, about how much longer do you think you are going to be?  Are you going to finish this afternoon or do you think you are going to go over to tomorrow morning?  
+MR. SOW:
+Mr. President, I have about two or three pages of questions for tomorrow morning.  I am not certain that I can finish today.  But tomorrow I might need about 30 minutes to finish.  I think I could also ask my learned friend Morley to offer me, not a beer but some fruit juice so that he doesn't have to start very early tomorrow morning.  
+MR. HOMETOWU:
+Mr. President, I believe that the problem has now been sorted out. 
+MR. PRESIDENT:
+Thank you very much.  
+MR. MORLEY:
+Your Honour, I'm on my feet because I'm thinking about when I start the exercise of re-direct.  I had thought that my learned friend, Mr. Sow, along with my learned friend, Mr. Weyl, between them would probably finish around 4 o'clock today.  And can I address Your Honour at the close of business today?  We'll see exactly where we are with Mr. Sow. 
+(Pages 36 to 50 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H
+MR. PRESIDENT:
+Yes, Mr. Sow.  
+MR. SOW:
+Obliged, Mr. President.  
+BY MR. SOW: 
+Q.	Witness, do you hear me? 
+A.	Yes, I hear you clearly, Counsel.  
+Q.	Witness, from your testimony, you said that you did not listen to Radio Muhabura, but you were aware of what was being said.  I would like to ask you the following:  Did the RPF use Radio Muhabura to broadcast its communiqués and send messages to its supporters and infiltrators?
+A.	That is correct, Counsel.  I did learn that, using coded language and language previously agreed to, infiltrators were instructed to go to such-and-such a location, or follow such-and-such an instruction.  I did not hear those with my own ears, but those messages were indeed broadcast over that radio station which, may I say, was created for that purpose.  And I would like to say that in spite of the RPF's claim that it was a legal radio station, it was, to my mind, an illegal radio station.  
+Q.	Thank you.  Witness, we are in times of war.  There is no security.  You, yourself, have testified that there were some excesses in the killings as of the 7th of April.  Those excesses, Witness, were they linked to or caused by general (unintelligible) in the populace following the death of the president, or did it arise from loss of authority, or both causes?
+A.	Contrary to those who believe in a scheme or planned action, I believe that those two factors, as well as other considerations, are the basis on which one can find an explanation to what had happened and how it happened.  With the specific mention of the fact that nothing could have explained these circumstances following the setting up of the government.  Yes, there were excesses, those two among them, but there were others arising from the conditions of war.  People took advantage to plunder, people took advantage to settle scores.  That is what I think.  Some do stand for the theory or thesis of a  planned activity, but these must be in respect of those who were on the spot.  But what about those who planned to take power?  What do we make of the situation after power was captured, or was taken?  Now power had been taken, but the war went even beyond from Kigali to Kinshasa, and there was even talk about exporting democracy to Togo.  So I believe that any intellectually honest person, there is much more that can be said 12 years after the fact.  
+
+I think that the people of the sub region deserve to understand this.  Why are we not able to dig into the causes of this event?  We are only looking at the facts.  How can you treat a disease without getting to the root cause of that disease?  I don't understand.  These are questions that come to my mind.  
+Q.	Witness, I agree with your questions.  They are relevant.  Witness, your analysis is very similar to that of Captain Ruzibiza, a former RPF official, who felt that the trigger for the killings was the assassination of the president.  So you are quite right in wondering, why are we not looking at the cause in trying to diagnose the illness.  
+
+But given the insecurity that prevailed, Witness, in the framework of the pacifying committee -- pacification committee campaign, you needed or had to call on a military escort in conducting the campaign.  Tell me, if you had not had that military escort, would you have ventured out on this pacification campaign?  
+A.	The answer is a resounding no, unless we had fallen on our heads.  Even then I do not think if we had been out of our minds we would have gone out in (unintelligible) to do this.  
+Q.	Witness, on the 10th of April 1994, a number of members of the Interahamwe national provisional committee were called or summoned to the Diplomat hotel.  Can you confirm this? 
+A.	I would qualify that, Counsel.  All members of the national committee were summoned, but given the circumstances, some responded to the call, whereas others did not. 
+Q.	Thank you for the clarification.  Who summoned you?
+A.	We were summoned by -- or, through one of our members, number 6 on the list.  
+Q.	Did he tell you who had summoned you?
+A.	The national committee of the MRND, Counsel.  No one else, in fact, could summon me.  The army could not summon us.  The MDR party could not summon us.  
+Q.	But, in that case, can you explain to me why Mr. Justin Mugenzi was present at the meeting?
+A.	I must point out to you that we were at the Diplomat hotel where all members of the government were gathered.  Actually, Mugenzi joined -- or, associated himself in disclosing the message.  However, in the room all ministers were present, all officials were present, so I felt it was in the capacity as government members, although this was an inter -- a party message which had been sent to us by our party.  They were present in that capacity.  
+Q.	For your information, that same day the interim government held a meeting during which mention was made of the killings.  And some parties of the opposition complained and felt that these killings were the work of the Interahamwe, and that there was a need for the interim government to summon you, so as to ascertain what had happened and ask you to embark on the pacification tour.  And Mr. Justin Mugenzi was not there just by chance.  Do you understand this, Witness?
+A.	Counsel, I do not know what circumstances -- in what circumstances the government debated the issue.  Personally, however, when we were told that the international community blamed the government for the killings, once again I'm speculating, the government -- I felt that obviously people had turned against the government and that now it was being said it was the Interahamwe responsible.  So here we were dealing with the parties that had always criticised the MRND through its Interahamwe.  However, I was not privy to the process that had led to our presence there.  I could not have been privy to those details, no one else could have been, but this seems to me the most logical explanation.  However, we were not present earlier on to know what had happened, and that is what needed to be known.  And it was not for us to enquire as to how we had been called for the meeting.  
+Q.	I agree with you, Witness, that the pacification message was useful and that this is what really counted, but for the purposes of cross-examination sometimes we have to go into details to obtain further details, indeed.  But, believe me, the pacification message was what mattered, and I do note that you actually attended.  
+
+I would like this to be made clear and, therefore, want to suggest to you, because it is possible that on this score you may have forgotten some details.  This is in respect of Mr. Édouard Karemera:  On that 10th of April 1994, he was, as you say, present at the Diplomat hotel, like all the other officials or dignitaries who were being protected for that reason, but as regards to your meeting of the 10th -- on the 10th, I would like to put it to you that Édouard Karemera did not attend the meeting because, as a matter of fact, he was in the Hôtel des Diplomates, busy drafting the communiqué that the five parties, the MRND, MDR, PSD, PDC, and PL signed jointly and published the same day.  Based on the information I have given you, do you still maintain that Mr. Karemera was present at the meeting held on the 10th of April?
+A.	Counsel, I do not wish to enter into debate, but I tell you I have nothing against any one of the Accused, and certainly not Mr. Karemera, but this is my recollection of the meeting.  I do not know what more I can tell you.  I have no interest in adding or making up any part of this story.  This is all I can tell you.  
+Q.	Thank you, Witness.  I do respect your recollection, and I believe that you are not adding or making anything up.  If this is what is your recollection, I do respect that.  This meeting, after all, had a positive purpose to stop the killings and, therefore, a way of showing that everyone agreed that these senseless killings should be stopped, which is why I put it to you that it is just a minor detail, but it needed to be aired.  
+
+So if, on the 11th of April, when you were -- could you please tell us if you were there -- if Édouard Karemera was there on the 11th of April when you were reporting the situation?  
+A.	Counsel, again, I do not want to go into the details.  If those who commissioned the mission did not admit it themselves, there are people in Rwanda they told who would not believe that such a thing happened in those circumstances.  So, in talking about it -- that is not to say that there is anything negative that anyone is being blamed for.  So, once again, I would like to reiterate what I said earlier.  I am not talking about something I did not see, that I do not know of.  I do not like lying, even if I -- well, I certainly am not in this.  And I, therefore, stand by my testimony.  And, as you say, it is a good thing.  
+Q.	Thank you.  What about Mugenzi's presence on the 11th of April 1994.  Was he present?  
+A.	Well, as we were given the report, I do not recall Mugenzi attending with a group to whom we were reporting.  I was shocked Mugenzi bought us drinks.  You would think he was trying to redeem himself, but he had done this before because he had attended meetings with the MRND and other parties whereby this time he did recognise the justification of the 1959 revolution.  But his presence did strike me when he came, together with our leaders, to confirm his mission to us, whereas, he had been at the origin of all the ills that had befallen us.  This certainly struck me.  However, in the next few days -- over the next few days he was definitely in the hotel, but we did not report to him.  As a matter of fact, we had no report to give to Mugenzi.  
+Q.	Thank you.  During the pacification mission, can you tell the Court what was the attitude of the leaders of youth wings of other parties?  By that I mean the MDR, the PSD and PL.
+A.	Counsel, first of all, we were addressing people we knew.  But I must say that we did not know all of the Interahamwe, for example.  They might have known us, but we did not know all of them.  So we would see them in the meetings, we would be addressed by representatives of the neighbourhoods.  Which is to say that when some people recognise you as one of their own, the message easily went through.  But youth wings from other parties, who were also claiming to be Interahamwe, who were maybe even more zealous than the real Interahamwes or MRND -- as a matter of fact, everybody was proud to call themself an Interahamwe, was proud to be perceived as a true patriot, opposed to the war, and supportive of the national army.  I can describe the attitude.  
+
+There was also an element of jealousy when, for instance, we distributed weapons.  They called for weapons themselves.  But we told them to speak to their leaders to ask them for the weapons.  Many people understood that they had played with fire, that there was a danger.  And we would say, "We do not know where -- what you're driving at with this attitude." 
+Q.	In fact, I actually wanted to ask you if they took the floor, if they spoke to support you in your pacification mission, or did they show any resistance, any reluctance?
+A.	To be frank, we were speaking mostly to our members who were known to us and to whom we were known, and so that's it.  On the other hand, we also asked them to relay the message.  You must understand that the roadblocks were manned by locals of the neighbouring neighbourhoods.  And the problem, perhaps, also resides in the layout of the type of roadblock, the surrounding area.  And it is to be noted that killings did not just take place at the roadblocks, also within the neighbourhoods.  The infiltrators were not just at the roadblocks, they also used other paths.  It is very difficult to understand for someone who was not there, and I do not understand it.  
+Q.	Thank you, Witness.  Again, with reference to the pacification movement, or tour, if as you say the MRND executive bureau did not ask you to -- had not asked you to carry out the pacification mission, would the committee have taken the initiative to do it? 
+THE ENGLISH INTERPRETER:
+No sound.  
+MR. SOW:
+Mr. President, we no longer are receiving the sound.  
+THE WITNESS:
+I was saying something about being at my home in a neighbourhood that was considered safer than others.  My wife would be escorted when she went to attend to her professional duties -- her duties.  There was a colleague who would come to -- in the national committee who would come to look for me.  And I think I left only on the 9th or the 10th, or even afterwards, which is to say, in this regard, and if I'm not mistaken -- in fact, I do not think I'm mistaken in saying that this initiative would not have been taken by the committee if it had not been asked to do so.  What message would it have had to give and why?  What particular information would it have had to channel into the message?  
+
+We must not lose sight of the fact for one moment -- of the fact that this was a group of volunteers who wanted to improve the country, and this group was working within the MRND.  But we had no more authority than any other Rwandan citizen or any other political party.  Perhaps this is another thing that is not understood.  They look at the logical structure of the Interahamwe. 
+BY MR. SOW:
+Q.	Witness, are you done? 
+A.	Yes, I have concluded my thought.  
+Q.	I thought maybe there was a problem with the link.  Thank you for your answer.  
+
+You had expressed your disappointment upon learning of the sudden departure of the government.  You certainly had had no advance information that would have enabled you to understand that hasty departure.  However, subsequently, were you informed that as a result of the insecurity -- growing insecurity in Kigali, that the army was no longer in a position to protect the government authorities and that it had been at the request of the army that the government had left Kigali for a better destination?  Was this brought to your attention? 
+A.	In fact, at a later date, in the days that followed, the government attempted to return to Kigali, and this led to intensified pressure by the Kigali -- by the RPF's military wing so as to prevent the government's return to Kigali so that when such things became clearer, we understood, and now, with hindsight, we are free to put ourselves in the place of that government.  Had I been in their place, would I have acted any differently?  However, I must say that at the time we did not understand.  Put yourself in our position.  We had been asked to carry out a very difficult task.  We had undertaken to do it, and then those who had commissioned us, we were told they had left, just like that, no follow-up.  In my place, what would you think?  This is a rhetorical question.  I'm just thinking aloud.  
+Q.	Witness, I understand you.  You experienced a difficult situation and I quite understand you.  In this war context -- context of war, whereby communiqués given out on -- be it on RTLM or Radio Muhabura, basically, can you tell me whether the messages broadcast by RTLM were a reaction to those broadcast by Radio Muhabura?
+A.	In fact, in relation to the issue of the radio station, that is, that radio station's political aspect, it was a pro-republican station, and it certainly did favour or promote republican ideals contrary to the RPF.  So it seems that even the journalists, the broadcasters knew -- or, had previously worked at Radio Rwanda.  They knew each other by name, these broadcasters.  So this ideology was quite opposed.  And so when that radio station was created, this was to satisfy certain political ideals and so as to counter the propaganda that was broadcast by that radio station, which never was a legal station.  It was never known exactly where they were transmitting from.  I had a friend who happen to be a technician, a radio technician, and it seems it was never possible to locate that radio station so as to jam its broadcasts.  
+Q.	Thank you.  I am coming back now to the 6th of April 1994.  The president of the republic is assassinated.  When the news gets out, did it not provoke a very deep psychosis of fear, but also anger among the people? 
+A.	Counsel, I come back to the extreme tension that existed in Kigali in the previous months after the arrival of the RPF, the various political assassinations, the security problems in the neighbourhoods.  It was a war already, but not being without a name because we knew that both parties were on a war footing.  There was the obstructionism in the face of the implementation of the Arusha Accords.  It was the last straw that broke the camel's back.  Fear had been prevalent for many months, that -- what made it just that little bit worse, what -- that was the event that was the last straw that broke the camel's back.  
+Q.	Thank you, Witness.  I have finished my first line of questioning on the MRND and the Interahamwe.  I will, therefore, now begin my second line of questioning in respect of the war and civil defence.  
+
+Witness, you have stated that, under the second republic, the ethnic groups lived together in harmony.  I should like to ask you at which point the ethnic and regional schisms emerged under the second republic?
+A.	It was with the outbreak of the war of October 1990, because the war was perceived as being the work of the Tutsis.  You must call a spade a spade.  And the climate began to deteriorate between the main ethnic groups, the Hutu and the Tutsi.  But I must be fair to the Tutsi.  Many Tutsi who, at the outbreak of the war, firmly condemned it, denounced it.  So -- so this phenomenon of the war, being perceived as the work of the Tutsi against the Hutu who progressively -- matters deteriorated with the various actions and reactions. 
+Q.	Can you speak to us of the consequences -- economic consequences in the region affected by the 1st of October 1990 attack?
+A.	Well, Counsel, not only did the enemy, the RPF, attack the rural -- the population, but especially they were targeting economic targets, national -- of national economic importance.  That is why when people claim to be a patriot do they want to return to rebuild their country, and yet you start begin by destroying so as to then rebuild?  These were contradictions, divergent views, which were not the reflection of a sincere and frank language in their claims.  But what -- in addition to what they said outwardly, there was something else behind it, and they were testing the political maturity or naivety of Rwanda.  But they managed to do it in the end because they were echoed by -- and I would rather denounce the people that echoed their point of view -- the supporters.  Because the -- rather than the people who had started the war, because the people who started the war, they knew exactly what they were doing.  But the others fell into their trap.  
+Q.	Tell us what you know of the RPF; what was the basis from which they recruited?
+A.	The basis for the recruitment of the RPF was some came from the NRA, the Ugandan army.  That was -- for the most part, actually, consisted of the officers that constituted the military elite, that is, in power now in Kigali, former Tutsi refugees.  None they recruited from among young people, among the exiles, the young Tutsi from the countries of the sub region, Burundi, Zaire, Uganda, Tanzania.  Later, as things progressed, the young Tutsi men from Rwanda, and even young Hutu, because there were some among them, bearing the label of Chairman Kanyarengwe, Hutu also, who sought that Kanyarengwe was playing a double game, and so they joined the movement.  So progressively -- and they did include some -- the young Tutsi, including some young Hutu, it must be said.  
+Q.	And according to you, where were the -- the base camp of the RPF?
+A.	Well, they'd come from Uganda.  It was Uganda who had sponsored them, and when things were difficult, the Ugandan president would exert pressure.  So their base camp was -- of the RPF was always Uganda.  
+Q.	And Burundi?
+A.	As a supporter, perhaps, but at the last moment, after the 6th of April, apparently they joined up.  Some elements of the essentially Tutsi army of Burundi joined the RPF to attack Butare, which is in the south, since you speak of Butare.  They also had sympathisers in the former Zaire.  The diaspora of the sub region will never change because it is historical, that's the way it is.  
+Q.	After 1990, the RPF attacked again in '92, '93 and '94 until they achieved final victory.  According to your information as what you experienced, what was the RPF's attitude towards the Hutu?
+A.	Counsel, one thing might explain another.  The RPF in the -- in the north-east, especially, where they always attacked first, where the local population was displaced were -- from whence they deported people, they attacked people of Hutu ethnicity who remained the majority, the considerable majority in that area, which nourished the hatred to the extent that, at the end, people said, "Well, it's a war between the Tutsi and the Hutu", correctly or incorrectly.  
+Q.	In respect of the Hutu of the hinterland, what was the RPF's attitude?  Because if we come back to Captain Ruzibiza, the RPF had considered the Hutu of the hinterland.  The Tutsi -- they were only Tutsi by their nose, the Tutsi of the interior.  Now, what do you know about that exactly, in precise terms?
+A.	Counsel, it would be speculation, or it would be subjective.  But let me tell you an anecdote:  It was confirmed that after the RPF came to power, some RPF people, for socio-economic reasons, because they wanted to take one or another asset or because -- or, they came to reproaching Tutsi survivors for -- for being themselves, Interahamwe, and asked why they weren't dead.  
+
+Ruzibiza knows certainly better what was the conduct or the attitude, the philosophy of the RPF.  But it is surprising that, if you espouse the cause of the Tutsi that they were supposed to defend, how can you hold it against your Tutsi brother to not be dead?  And, if he isn't dead, he is, ipso facto, an Interahamwe.  
+
+That is how I would answer your question.  
+Q.	And that answer was highly satisfactory, Witness.  
+
+Witness, it has been your testimony that, with the assassination of President Habyarimana in the night of the 6th of April 1994, the war resumed.  Can you tell us how the RPF and its supporters in Kigali reacted to the assassination of the president of the republic?
+A.	It is the RPF which launched the war and which conducted the war.  Yes, the RPF processed the war that it had launched.  
+
+Maybe I did not understand your question.  But their attitude was that the war, which was not being referred to as a war, as such, in Kigali, had become officialised.  I believe that it is one of your colleagues who gave me the RPF's statements, which I read, and in which I found out that even humanitarian organisations, which it considered to be fake, actually, did not want to be bothered or did not want to have any witnesses of their own very behaviour.  I believe that is the case, and I cannot interpret things otherwise.  
+Q.	Following the announcement of the downing of the president's plane, if the RPF immediately resumed the war, that must mean that the RPF was expecting that plane to come down -- to be brought down, it was expecting a decapitation of the head and, therefore, proceed to resume the war and capturing Kigali; is that correct?
+A.	Well, Counsel, some negotiations had taken place for the RPF battalion and the political staff of the RPF to be set up at the CND, that is, the Centre national de développement.  
+
+Now, quoting from -- or, referring to Dallaire's book, there came a time when the political leaders of the RPF, who were settled in the CND buildings, apparently all left for Mulindi, their headquarters.  Well, it is their right to have moved, but given that the battalion was supposed to be protecting those leaders, why then did it continue to be necessary for that battalion to remain in Kigali?  
+
+You see, Counsel, the same questions that you put to me are the questions that I am putting to myself.  
+Q.	Witness, I do know that this situation has led you into very difficult circumstances, and I do understand it because I cannot, myself, understand how it is, as you said, that one can invite one's worst enemy into one's bedroom.  Well, given that this Trojan horse was there in Kigali all the same, did that make it possible for further infiltrations to take place within Kigali, that is, infiltrations by the RPF?
+A.	Several books have been written today on the events and which go into various analysis.  Once again, I'll refer to the commander of that force, who had direct supervisory authority over that force.  And somewhere he says -- he asks the question whether it is necessary to go fetch firewood 80 kilometres away:  "Is water more potable in Mulindi than in Kigali?" 
+
+Now, if the choice was to set up in Kigali, why all those movements?  All those movements were designed to facilitate infiltrations. 
+Q.	I do agree with you, Witness.  
+
+Now, the infiltration of the -- was the Interahamwe infiltrated by RPF -- by members of the RPF?
+A.	My answer would be that it is possible, but I don't have any personal experience of that.  
+Q.	Yes, indeed, because I was told about somebody who was very active at the roadblocks but who is in the army today.  And when they asked him how it is that he is in government today, his answer, indeed, was that, at the time, he had been sent to infiltrate the Interahamwe.  So that might have been possible.  Particularly as infiltrations occurred, all -- in all secteurs, particularly the infiltration or tarnishing of the Interahamwe, was there not a policy in place to destabilise the Interahamwe, even prior to the 6th of April? 
+A.	Well, that -- that is what I have always tried to explain in relation to the act of violence within the youth wings and the collapse of security, with the explosion of mines here and there.  And, as I have said before, I am not an expert in military matters.  But what emerges today -- you have referred to Ruzibiza.  I have read his writings.  I cannot say -- by the way, how can you run a guerilla warfare when you do not apply the various techniques of guerilla warfare?  Maybe not at that time, when all those acts of destabilisation were blamed on the Interahamwe.  Now, today, people understand who stood to benefit from that internal insecurity.  
+Q.	You do not need to say more than that, Witness.  
+MR. MORLEY:
+Before the questions continue, Your Honour, I've been listening to my learned friend's interesting line of enquiry.  Your Honours will recall over the past days reference to the distinction between the witness being a witness of fact and a witness giving expert opinion.  
+
+We've just had a series of opinions offered as to whether the RPF were infiltrating the Interahamwe, and he's got no idea from personal knowledge whether they did or didn't.  And I simply rise at this stage to invite Your Honours, late in the day as it is, to be alive to the distinction between fact and expert opinion.  
+MR. SOW:
+Mr. President, I do not agree with my learned friend, Morley.  Infiltrations were facts.  When I talked -- when I put questions to the witness about the Interahamwe, he said that, indeed, infiltrations were possible, but that he didn't have a specific example in mind.  The RPF was in Kigali within the CND building.  It is, therefore, only normal that these things are facts and not opinions, because the witness himself said that, in order to avoid any speculation, he would only speak to the fact that he was aware that there were infiltrations in Kigali, particularly as the resident's card had been suppressed.  So I don't believe that this is an inappropriate statement.  
+MR. PRESIDENT:
+We don't disallow the question.  
+MR. SOW:
+Obliged, Mr. President.  
+
+Mr. President, I see that it is 18 hours (sic).  Shouldn't I stop here and resume tomorrow morning?  And I would like to say that tomorrow I might not take the 30 minutes I mentioned previously.  I'm almost done.  
+MR. PRESIDENT:
+Thank you.  It is about -- we do take the adjournment now.  
+MR. SOW:
+Thank you, Mr. President.
+MR. MORLEY:
+Your Honour, I can say I am definitely going into Tuesday.  That is the first thought.  We have had a full day in court.  
+
+I don't know how much longer Mr. Sow is going to be.  If we imagine he's going to be another half an hour, perhaps, then there's two hours left on Friday morning.  There is a lot of material to review.  I have it all piled up beside me.  
+
+Realistically, as we are going to go into Tuesday, I just wonder if Your Honours might think that it makes more sense for me to start on Tuesday.  It seems to me that from the review of material I will be conducting this evening into the small hours and then early this morning -- or, tomorrow morning, that I will still be doing work over the weekend, and I just wonder whether Your Honours might be minded to say that when Mr. Sow finishes some time around 10 o'clock tomorrow morning, we might consider drawing matters to a close then and starting on Tuesday fresh for the re-direct.  
+
+Now, Your Honours know there is quite a lot of work to be done on this re-direct.  Your Honours have been listening to the witness talking and one maybe forgiven for wondering whether an exact of cross-examination was taking place.  There was the feeling that quite a lot of the evidence was emerging almost in the form of direct examination.  So I'm going to ask Your Honours to consider whether we might begin the re-direct on Tuesday.  We are definitely going into Tuesday anyway. 
+
+MR. PRESIDENT:
+I just want to inquire, Mr. Morley.  If we start on Tuesday, when do you intend to finish?  
+MR. MORLEY:
+My hope is it is just going to take a day.  I don't like long re-directs.  It seems to me that there are certain things that -- which need to be concentrated on.  And Your Honours knows, I have never been longer than a day before.  I was only a day with G and I was, I think, three quarters of a day with UB.  UB was a witness that lasted four weeks, G was a witness that lasted three.  
+
+The real problem with this re-direct is its tone and texture.  And I respectfully submit there are some strategic decisions to be taken as well as decisions about the content of the material we've heard, and these things take a little time.  In short, I would hope not to take more than a day.  I don't know if I will be less than that.  But my own experience is re-direct is not an opportunity, or should not be, to conduct a further direct examination.  It should focus on those things which may be of interest and generally, therefore, it is not a long exercise.  A day.  
+MR. SOW:
+Mr. President, with your leave, sir.  I don't mind Mr. Morley organising his work in order to do his re-direct, but I would have also requested that he be aware of the fact that the Defence teams conducted their cross-examination without a number of documents; namely, the PVs which were requested by the Trial Chamber to be disclosed to us by Mr. Morley within 48 hours for the purposes of our cross-examination.  In spite of everything, in spite of those omissions, we went on to conduct our cross-examination that not withstanding.  
+
+Now, Mr. President, if these documents were to be provided to us or to be disclosed to us subsequently, it would seem that a message was sent to Peter Robinson in that connection, and most unfortunately we -- they tend to forget us.  The message was sent to Peter Robinson and the content was that the document would only be disclosed next week, at which time we would have already completed our cross-examination.  It is unfortunate that the equality of weapons must be respected -- rather, equality of weapons ought to be respected here, Mr. President.  
+
+We agree that he organise his re-direct properly, but he should not shoot us in the foot, Mr. President, because that is not fair, given that -- I must begin to wonder whether in view of those subsequent disclosures the Trial Chamber would not be inclined to allowing us to revisit the cross-examination by putting a few additional questions to the witness.  That is my suggestion to the Trial Chamber.  And I thank you for your attention, Mr. President.  
+MR. WEYL:
+Mr. President, I would like to agree with my learned friend, Sow, and to add, on a personal note, that when I listen to Mr. Morley say that he intends to revisit a number of issues, fair and good, and I do understand that following these past days of hearings he may need to walk through his documents and he would have three days to do so if the Trial Chamber were to say, "yes".  But let me draw the Trial Chamber's attention to the need for the re-direct to be strictly limited, so much so that it would not amount to a new examination-in-chief to which the Defence would have no opportunity to respond.  So I would like the Trial Chamber to be very alive to this new information that is likely to be submitted in the course of the re-direct.  Thank you.  
+MR. WEBSTER:
+Your Honours, since the issue of the disclosures has come up, maybe I can take this opportunity to place on the record that I did make a disclosure of a portion of the debriefing that we received from Joseph Serugendo.  And that was disclosed to Defence, I believe it was yesterday, by e-mail and through CMS.  That was done after Mr. Robinson had completed his cross-examination.  So maybe if the Defence could respond if any of them would need additional time to ask questions on the basis of that so that we can put it to rest as an issue on the record with respect to this witness before we start the re-direct.  
+MR. MORLEY:
+May I also mention, it's my understanding that my learned friends have had the redacted PVs, which simply show the material that they already had in the excerpts document, in the PVs form.  I'm just being whispered to behind me.  Mr. Sendze, behind me, tells me that they have gone to the CMS evidence disclosure unit, and they are on CD.  And if they haven't made their way already, to my learned friends, they are available.  But I remind Your Honours that all that one has is the PVs with blankings on them showing those sections or excerpts which my learned friends already have.  Now, it may not be for me to say this, but the material on the PVs is material which would suggest that the witness is a person who may have been involved in bad behaviour during the genocide and, therefore, would be material with which my learned friends might cross-examine him to suggest he is unreliable, and incredible, and untrustworthy and not to be believed.  
+
+In light of the cross-examinations, which have taken place on behalf of the Defendants, during which each of my learned friends have devoted themselves to saying to the witness how reliable and credible and trustworthy and likable he is, I cannot imagine that any of this material will ever see the light of day.  But having said that, it is on its way in the form that Your Honours have ordered, although my learned friends have it substance in any event.  
+MR. PRESIDENT:
+Yes, Mr. Sow.  
+MR. SOW:
+Mr. President, I have not received the redacted PVs that the Trial Chamber had ordered disclosure of to the Defence.  We have not received that information.  When I opened my e-mail, I saw a message in English and I tried to understand it, but Mr. Peter Robinson said that this would be disclosed next week.  So I have not received the redacted PVs.  I can understand Mr. Morley's attempt to be kind enough to put himself in our shoes, but it is for us to determine how the PVs would be used and he should comply with the decision of the Trial Chamber.  If he's not in a position to do so, he must say why.  Otherwise, it would mean that he disregarded the decision of the Trial Chamber.  
+MR. PRESIDENT:
+Mr. Weyl, it is already quarter past 6:00.  We have -- there's one question that was interesting to me which would be important in considering what we're going to be doing tomorrow morning.  If Mr. Sow finished at ten o'clock -- the question of losing two and a half hours is of importance to us -- and I was wondering if that was the case if we could have made some further inroads on the cross-examination of ZF, if you were to comply with that.  Mr. Robinson, do you have anything to say about that?  
+MR. ROBINSON:
+No, Mr. President.  I completed my cross-examination of Witness ZF -- 
+MR. PRESIDENT:
+Who is -- Ms. Hounkpatin is it now?  Yes, Ms. Hounkpatin, would you be ready to start your cross-examination of ZF tomorrow morning if necessary?  
+MS. HOUNKPATIN:
+Mr. President, I could do that in order to please the Trial Chamber because I needed only a few more hours to complete my cross-examination of Witness ZF.  But let me say that the Defence teams are walking on one leg only, but now our two legs are being cut off.  How are we going to walk, Mr. President?  
+MR. SOW:
+Mr. President, let me say that if Counsel Chantal were to conclude tomorrow, I would be expected to proceed with my own cross-examination and I would be requesting some time to consult my documentation and look at my notes so that I may properly cross-examine ZF.  Thank you.  
+MR. PRESIDENT:
+Mr. Webster, the only directive we're going to give now is to request that you have ZF available tomorrow morning.  
+MR. WEBSTER:
+Could the Court make that directive to the registry and have them communicate with WVSS?  I would be more than happy to send an e-mail or to -- 
+MR. PRESIDENT:
+No, no, no, we can do that.  But he's your witness.  
+MR. WEBSTER:
+Your Honour, I have no contact with the witness once he starts his testimony.  I have no problem contacting WVSS, and I will do that, but I cannot produce him here.  All I can do is make the request with WVSS.  I think it would be more effective for the Court to deal directly with the registry since that is the unit that is going to (Microphones overlapping). 
+MR. PRESIDENT:
+Okay.  Madam Registrar, we would like you to make arrangements for Witness ZF to be available tomorrow morning.  
+MS. NTILATWA:
+Much obliged, Your Honour.  
+MR. PRESIDENT:
+Thank you.  We take the adjournment now.  
+MR. MORLEY:
+May I make the polite inquiry as to whether Your Honours require me to start the re-direct tomorrow?  
+MR. PRESIDENT:
+We have not made that order.  We're still thinking about it.  We may not.  We have taken provisions that -- we didn't want to make an order right now.  
+MR. MORLEY:
+Well, the difficulty which arises is if I'm starting on Tuesday I don't have so much time to do tonight.  It is now quarter past 6:00.  I have, at least, nine hours work to do in preparation for this re-direct.  Now, what I'm trying to work out is whether or not I'm doing it tonight.  And it would seem most unfortunate if I do it tonight and we don't start tomorrow.  But in all the circumstances, it may be thought -- 
+MR. PRESIDENT:
+All right, Mr. Morley, we'll set you free.  
+MR. MORLEY:
+Thank you.  
+MR. PRESIDENT:
+We'll take the adjournment now. 
+(Court adjourned at 1818H)
+(Pages 51 to 64 by Roxane Meena) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Ann Burum, Donna M. Lewis, Karen Holm and Roxane Meena, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Ann Burum 
+
+
+___________________________	Donna M. Lewis
+
+
+___________________________	Karen Holm 
+
+
+___________________________	Roxane Meena  
+
+
+
+  
+
+
+
+
+
+
+
+
+	KAREMERA ET AL 	THURSDAY, 1 JUNE 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	THURSDAY, 1 JUNE 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 1
+
+	KAREMERA ET AL 	THURSDAY, 1 JUNE 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 35
+
+	KAREMERA ET AL	THURSDAY, 1 JUNE 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 50
+
+	KAREMERA ET AL	THURSDAY, 1 JUNE 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 64
+
+ICTR - TRIAL CHAMBER III
+

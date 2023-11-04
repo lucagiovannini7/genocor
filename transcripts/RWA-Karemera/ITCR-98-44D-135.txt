@@ -1,0 +1,1083 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+WEDNESDAY, 5 JULY 2006
+0919H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Emile Francis Short
+	Gberdao Gustave Kam
+
+
+For the Registry:
+	Ms. Rose-Marie Kouo
+	Mr. Issa Mjui
+
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Gilles Lahaie
+	Ms. Alayne Frankson-Wallace
+	
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	
+
+Court Reporters:
+	Ms. Ann Burum
+	Ms. Roxane Meena
+	Ms. Kirstin McLean
+	Ms. Donna M. Lewis
+I N D E X
+
+
+WITNESS
+For the Prosecution:
+WITNESS XBM
+Cross-examination by Mr. Robinson (continued) .	20
+Cross-examination by Ms. Hounkpatin .	47
+
+
+EXHIBITS
+
+Exhibit No. D. NZ171A and D. NZ171B .	34
+Exhibit No. D. NZ172A and D. NZ172B .	34
+Exhibit No. D. NZ174 .	51
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Madam Registrar, can you open the proceedings. 
+MS. KOUO:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding; Judge Emile Francis Short; and Judge Gustave Kam, is now sitting in open session today, Wednesday, 5th of July 2006, for the continuation of trial in the matter of the Prosecutor versus Karemera et al., Case Number ICTR-98-44-T. 
+MR. PRESIDENT:
+Thank you, Madam Registrar.  
+
+The appearances are the same. 
+
+Good morning, Mr. Robinson. 
+MR. ROBINSON:
+Yes, good morning, Mr. President.  I would like to address you this morning on a motion that I have.  
+
+Well, once again, our -- I think our trial has been plunged into chaos by a -- disclosure violations by the Prosecutor, and so I originally thought perhaps I would make another motion for stay of proceedings, but, instead, I'm going to make a motion to exclude the testimony of Witness XBM in its entirety and for sanctions under Rule 46(A). 
+
+I first would like to acquaint you with the text of the statement which has -- is the subject of the violation of the disclosure rules.  As the witness stated, it is a statement dated the 6th of September 2005 in -- which he made in Gisenyi to the principal investigator for the Government I case, Charles Mengalle -- that's M-E-N-G-A-L-L-E -- and another investigator named Oumarou Hamo, O-U-M-A-R-O-U H-A-M-O. 
+
+And during -- in the statement itself, which, as the witness says, six pages, indicates that it was -- the witness was asked specifically whether he had information about Mr. Nzirorera, Mr. Ngirumpatse, and Mr. Karemera, and appears that the purpose of the statement was to obtain information for use during this trial.  And during the course of the statement, he talks about the times that he has seen Mr. Nzirorera, first in 1988, another time in 1991.  He talks about the meeting of 27 October 1993, which has been the subject of his direct testimony and cross-examination.  And, very significantly, from his accounts that he -- of that meeting that he's given at this trial, he does not make any mention of hearing Mr. Nzirorera speak on RTLM radio, which contradicts his testimony during cross-examination.  
+
+He indicates that he was in prison because he was reluctant to testify but was freed when he finally accepted to testify, which is different than what he's told us about his own case in Rwanda.  And then, remarkably, he describes a meeting on the 14th and -- or 15th of April at a bar in Gisenyi where he claims that he, along with some other friends, were sitting at a table when they recognised Mr. Nzirorera, Colonel Anatole Nsengiyumva, and the president of the MRND in Gisenyi, Banzi Wellars, sitting nearby, and he was able to hear them discussing.  And he repeats in some detail statements he claims that Mr. Nzirorera made concerning the extermination of Tutsis.  
+
+Then he says that he saw Mr. Nzirorera again at Mukingo commune, which statement conflicts with virtually all the Interahamwe from Mukingo commune who have been interviewed by the Prosecution.  Then he talks about the meeting in Gisenyi in June 1994 where financial contributions were solicited, which was also the subject of his testimony at the trial.  And when he was asked by me if any of the three Accused were present at that meeting, he said no.  But during this interview he told them that Mr. Ngirumpatse was present at the meeting.  
+
+So, essentially, that's the topics and -- and coverage of the statement that has been disclosed to us yesterday for the first time.  It's our contention that this is a clear violation of Rule 66(A)(ii), which requires that the statements of Prosecution witnesses be disclosed well in advance of their testimony, and 60 days before the commencement of the trial, in fact.  
+
+This statement was clearly in the possession of the Prosecution, and it was clearly not disclosed.  We don't know on this present record whether that failure to disclose was deliberate.  It's possible that it was, given that there are many contradictions in this statement, given the lengths at which Mr. Webster went to prevent the witness from speaking with me before he gave his testimony, and given the attitude and performance of the Prosecution's disclosure obligations throughout this case.  But, at the very least, the failure to disclose was negligent, since the witness has indicated that on the 17th of November 2005 he specifically informed Mr. Lahaie that he had given a statement to investigators from the ICTR on the topic of Mr. -- of this case and no efforts were made to find the statement so that it could be disclosed.  
+JUDGE SHORT:
+Not investigators of the ICTR.  
+MR. ROBINSON:
+Yes. 
+JUDGE SHORT:
+Is it -- was it not in Kigali in -- 
+THE ENGLISH INTERPRETER:
+There's an exchange which cannot be interpreted by the French booth.  One speaker at a time, therefore, please. 
+JUDGE SHORT:
+Was this statement given to investigators of the ICTR?  
+MR. ROBINSON:
+Yes. 
+JUDGE SHORT:
+In Arusha or in Kigali? 
+MR. ROBINSON:
+In Kigali. 
+JUDGE SHORT:
+In Kigali?  
+MR. ROBINSON:
+Yes.  The statement is given to two ICTR investigators from the Office of the Prosecutor, who are stationed in Kigali, one of whom is the chief investigator for this particular case.  And Mr. Lahaie was informed on the 17th of November 2005 that the witness had given a statement to the ICTR investigators in Rwanda, and it was never produced.  
+
+This disclosure violation comes as part of a history in this case in which similar disclosure violations have occurred with virtually every witness.  You recall for the first witness, Mr. Mbonyunkiza, his Rwandan judgement, which was shown to have been in the possession of the Prosecutor before 60 days prior to trial, was not disclosed to us until he had already begin (sic) giving his testimony.  We delayed the trial while it was translated.  We were forced to cross-examine on that without any investigation or preparation.  
+
+You recall that during the first session the expert report of Alison des Forges was ordered to be prepared by the Tribunal Chamber and a deadline given for that.  The Prosecutor ignored the deadline, didn't provide the report on time or seek an extension, and the Trial Chamber made reference to Rule 46(A) on that occasion.  
+
+For Witness UB in the second session, his trial judgement, which had specifically been ordered to be obtained in the Karera trial, was not obtained by the Prosecution until Witness UB was testifying and not disclosed to us until shortly before he was cross-examined.  Once again, we disrupted the trial to translate that judgement, and we were forced to cross-examine without preparation or investigation of that material.  
+
+In this session, the first witness, Witness GF, the Prosecution never disclosed the closed session trial testimony of witnesses who directly refuted his testimony concerning their presence at location A and the presence in Gisenyi of Lieutenant Bizumuremyi.  An order had to be obtained from Trial Chamber I, and we had late disclosure of that in the middle of our cross-examination, when Trial Chamber I finally ruled in our favour.  
+
+You'll recall that for Witness T we had the fiasco about the 25 pages of redacted statements that Witness T had given from the -- to the state, that the Trial Chamber ordered to be disclosed back in November but which was not disclosed until the eve of Witness T's testimony.  And you gave a warning to the Prosecution under Rule 46(A).  
+
+You have also in your oral decision denying our motion for stay of proceedings specifically found that the Prosecution had committed several violations already of Rule 66(A)(ii) and Rule 68 and had exercised a lack of diligence in discharging its disclosure obligations.  You expressed disapproval of the conduct of the Prosecution, and you strongly recommended that the Prosecution improve its management of disclosure in this case.  
+
+Besides Witness ZF and T, this session also was marked by the late disclosure of Rule 68 materials for Witness GFA of people who he got to lie for him.  And when they were provided during his testimony, they were provided in redacted form, and we obtained his unredacted -- those unredacted statements only during his cross-examination.  
+
+And the question for Your Honours at this stage is whether the trial is going to continue along those lines.  Once again, with Witness XBM, the Prosecution has had a prewarning under Rule 46(A), a formal warning under Rule 46(A).  You've disapproved; you've asked them to change their disclosure practices.  And here we are again for this witness, with a critical statement taken for the purposes of this trial, dealing with these Accused, now surfacing only during the cross-examination.  I don't think there's been a more unprofessional discharge of the Prosecution's obligation in the history of any of the ad hoc tribunals.  We're in the midst of a genocide trial that's being handled like a drunk driving case.  
+
+All the measures that the Trial Chamber has taken have failed.  And in every instance the Trial Chamber has placed the burden on the Defence to proceed, despite the violations of the disclosure obligations.  And it's our submission that it's time for the Trial Chamber to do something meaningful to protect the rights of our client, the integrity of the trial, and to avoid what will turn into an -- an appellate embarrassment.  
+And so we ask you to exclude the testimony of Witness XBM.  And we know you don't like to do that.  You've told us that it was the -- an extreme remedy, but the other remedies which you have imposed have failed to do the job.  
+
+In the alternative, or in addition to excluding the testimony of Witness XBM, we ask that you issue monetary sanctions against the Prosecution for this violation of the disclosure.  For example, the Prosecution could be made to pay the cost of this day that we are now going to spend dealing with Witness XBM, the cost of operating this Court, with the salaries of everyone involved, to be paid by the Prosecution team personally.  
+
+I note that the Defence counsel at this Tribunal have been sanctioned monetarily over 50 times by Trial Chambers of the ICTR for frivolous motions or abuse of process, and those monetary sanctions have been in the tens of thousands of dollars.  And so it would not be inappropriate to dock the Prosecutor for the cost of the results of his disclosure violation in this case. 
+
+I would also indicate that, in addition to the Rule 66(A) violation caused by the failure to disclose this statement, the Prosecution is also in violation of Rule 68 because the information contained in this statement is contradicted by other information that we believe to be in the possession of the Prosecution, which they have not disclosed.  For example, among the people who this witness claims was present with him at the bar when Mr. Nzirorera made these statements is at least one individual who we have strong reason to believe has been interviewed by the Prosecution and may have testified in another trial and made no mention whatsoever of this meeting, even though he was asked directly, we believe, about information he has concerning Colonel Nsengiyumva and perhaps Mr. Nzirorera. 
+
+We also believe that the Prosecution is in possession of information that on these very same days, the 14th and 15th of April, witnesses have given them information that Anatole Nsengiyumva, who was supposed to be at this bar with Mr. Nzirorera, was, in fact, in Kigali.  And none of that has been disclosed, and it will need to be disclosed if, in fact, you deny our motion and we're to proceed with Witness XBM. 
+
+So disclosure violation has been, once again, the cause of great disruption to this trial.  It ought to be the cause of great concern to the Trial Chamber, and we hope you'll do something about it.  Thank you.  
+MS. DIAGNE-MBAYE:
+Mr. President, Your Honours, I will be very brief following my colleague, Robinson.  I just want to bring you to an observation I have made.  I'm sorry for repeating this, but it is not contestable.  
+
+Mr. President, yesterday you noticed, with us, that we received disclosure of a statement by Witness XBM in the middle of his testimony.  Mr. President, it is undeniable that in that testimony mention was made of names of our clients.  And in that statement XBM accuses them of facts that should normally have been discussed before you.  And, Mr. President, since it happened in front of you -- that is to say, the witness at one point in his testimony, given that no crime is perfect, announced that the statement existed on the 6th of September 2005.  
+
+And, Mr. President, it is obvious, it was obvious yesterday, that the office of the president (sic) was very well aware of the statement.  We do not know why it was not disclosed to us, but the fact remains.  
+
+Mr. President, these are the observations I wanted you -- to share with you.  Will you continue to issue warnings to the Office of the Prosecutor?  Because one day we may have to count the number of warnings that they have received.  
+
+And another undeniable fact is that your warnings have no effect, and this has bearing on the fairness of this trial.  Mr. President, I'm in the habit of reminding you that we are dealing with international law and that there are things that are absolutely unacceptable under such law.  And, therefore, I am calling on you, Mr. President, to exercise your wisdom in order to confront the Office of the Prosecutor in the attitude it has been displaying.  
+
+Mr. President, I would like to advise you that these prejudices are immeasurable, in our opinion, and we call on the wisdom of the Court to put a stop to these intrigues by the Office of the Prosecutor.  
+MS. HOUNKPATIN:
+I would like to fully support the motion presented in detail by my colleague, Mr. Peter Robinson, and the few words of support of my learned friend, Dior.  I would like to say that I would have listed the same complaints as to the violations of disclosure rules:  The fact that the Defence has had to adapt to the game of the Prosecutor, the fact that the Defence has had to make do with this consistent violation of disclosure rules.  
+
+Normally when disclosure has not been done according to the rules, the practice is to reject the exhibit.  But that has not been the practice in this Tribunal, and we are very uncomfortable in the face of such a situation, whereby exhibits are communicated to us and yet such exhibits are of a nature to unbalance the Defence.  And we have just experienced such a case, disclosure of statements made by a witness.  It is not even the Prosecutor who is giving us advice of such disclosure; it is the witness.  That is the worst thing that could happen.  Therefore, we wonder what will happen with the next witness, AWB.  It will, perhaps, be even worse. 
+
+And, also, I call on you to desist from just making warnings, because they have received warnings and they seem comfortable with that.  And they're making use of this situation to increase the level of violation.  I think sanctions need to be made to send a clear message so that they know that, if they continue to violate the rules of disclosure, such sanctions will remind them.  The fact that we have passed a certain threshold, we've passed the stage of issuing warnings.  
+
+Therefore, I'd like to repeat that I fully support the applications made, and I hope that real sanctions will be applied so that we can move on in the administration of fair trial to our clients. 
+MR. WEBSTER:
+Well, Your Honours, it seems that the Prosecution has run the gauntlet yet again to these litany of complaints from the Defence, which I can only assume the Chamber finds to be a useful exercise, since Mr. Robinson was allowed to go on at length about issues that we've covered over and over again in this trial, and which I assumed had been brought -- had been put to bed by some of this Chamber's previous rulings.  
+
+My understanding, when he rose to his feet this morning, was that he was going to address the specific issue of XBM, and he went far beyond that in a manner, that I would offer to this Chamber, was entirely useless, needless, excessive, and insulting.  And it really shouldn't happen repeatedly.  There's no reason why the Prosecution should be maligned in this manner and why the Defence should be allowed to continue with their baseless complaints in this manner.  And if the concern is to save time, we would have saved a great deal of time if Mr. Robinson had been stopped when he veered away from the course that he began with his initial submission.  
+
+I'm only going to concentrate on the statement from XBM because I assume that that's the issue that we are supposed to deal with this morning.  
+
+Mr. Robinson began by going through the statement, making references to bits and pieces of it, and, as usual, has coloured it with his own interpretations, which are independent of anything that this Court would read from the statement if it took the opportunity to read the text itself.  
+
+But one thing I would like to clarify is Mr. Robinson's accusation that the witness offered testimony in this Trial Chamber simply because he was released from -- from custody.  And I would note that the witness's first statement to the OTP was in February of 2003 and that he was released, according to this statement, in January of that year.  So his contact with the ICTR began after he had already been released from prison and had given information to both the Rwandan authorities and then after that to the -- to the ICTR.  
+
+And the Court can look at page -- I think it's the second-to-the-last page of the statement, when the witness made reference to being released from incarceration in Rwanda, it was in regard to talking about his own case, not about anything that was pending before this Tribunal.  But for such a clear manipulation of the facts, I think it was worthy of my going back to that specific incident in relation to this witness.  
+
+Now, I think it should be apparent to all, from how the information on this statement developed, that this statement comes as a surprise to this Prosecution team.  Mr. Robinson has placed the good faith of this team in issue.  He's done so in a manner not only with regard to this statement but with regard to the interview that he attempted to have with this witness before he commenced his testimony.  My recollection was that this Chamber, on at least two prior occasions, told him not to go into those matters, and yet he was able to do it again a third time.  
+
+When the witness was commenting on this very issue, the Court interrupted the witness.  So when we had an opportunity to hear evidence from a witness on this issue, it didn't seem to generate the interest that it deserved.  And I would request, that when the witness resumes his testimony, that this Court make an enquiry about the circumstances of that interview, since Mr. Robinson has, yet again, put it in issue.  
+
+Concerning the statement itself, this is a statement that we would have loved to have received and disclosed well in advance of trial because it is excellent Prosecution evidence.  And the fact that we did not have it is a disadvantage to the Prosecution, not to the Defence.  All of the information in the statement are things that we would have led in-chief had we had the statement before the witness testified.  So to suggest that somehow we are violating the rights of the Accused by not disclosing the statement, there was some a deliberate action in that -- in that regard, is ridiculous.  
+
+It is not a Rule 68 statement for information that we did not even have when this witness began his testimony.  To suggest that somehow we've been hiding this statement because it somehow has exculpatory value is ridiculous.  And if the Court takes the time to consider Mr. Robinson's submissions carefully, we'd see how wasteful that line of argument is.  To the extent that anything the witness said on the stand contradicts -- is contradicted by this statement, that's a feather in the cap of the Defence and one that we were not prepared for.  The witness gave his testimony.  If there's any inconsistency, Mr. Robinson can place this statement in evidence and the Court can examine its contents and weigh the testimony of this witness accordingly.  
+
+Returning to the issue of our good faith efforts to locate this statement, I don't think that they could be more clear.  The minute that this information arose from the lips of the witness yesterday, I have been active, here in the courtroom and outside of the courtroom, to track down a statement that we didn't even -- even know existed.  When I review the mission report authored by Mr. Lahaie in regard to this witness from November of 2005, the mention of this witness in regard to information provided to the OTP was that the witness acknowledged having met with investigators in September of 2005.  There was no specific allegation that there was a signed witness statement.  When we had that information, we searched our database and found nothing.  
+
+There's nothing unusual about that.  Investigators meet with witnesses all of the time without necessarily recording a statement or an investigator's note.  This interview took place a few days before the opening in this trial.  The witness had already made two statements to the OTP by that time.  We would not assume that a confirmatory meeting with an investigator would necessarily generate yet another statement.  We made good faith efforts at that time to track down any record of an interview with the OTP.  We found nothing because it was not in our OTP database, which is where we look for the material.  It was only when this witness, on cross-examination, gave additional details as to who he spoke to and the fact that he made a signed statement that we then undertook to make extensive follow-up with that information in hand to locate what has now been disclosed to the parties. 
+
+There is nothing prejudicial to the Defence with this late disclosure because the information contained in the statement was not led in the direct examination.  And to the extent that this statement can be used to impeach the witness's credibility, the Defence still have an opportunity to do so.  This was an honest mistake.  We were very forthright about it.  There is no prejudice to the Defence.  We operated in good faith, as we always have.  And, quite frankly, I've had enough of this litany of complaints by the Defence in this team, and I would think that the Chamber would have had enough by now.  If we want to be productive in the way that we proceed in this case, we should concentrate on substantive issues.
+
+If we have violated the regime of Rule 66, Rule 68, and the Chamber finds that these violations were material or that they were made in bad faith or deliberately or there was some subterfuge, I invite the Chamber to sanction the Prosecutor.  We are not afraid of Defence motions.  We are not afraid of sanctions.  We accept our responsibilities.  If we have done wrong, we are willing to suffer the consequences.  But with regard to this statement, we've done everything that we can to rectify what was obviously an oversight, and we've exercised great diligence in making the maximum amount of disclosure available to the Defence in this case.  To go beyond that, in my submission, would be excessive because much of what the Defence said is not worthy of response.  
+
+If the Court has further enquiries of the Prosecution team, I would be happy to answer any question from the Chamber in regard to this specific allegation of disclosure violation or any disclosure issue in regard to this case from its inception three years ago.  So I thank you, and I invite further enquiries from the Chamber, if they're necessary to resolve this issue, but I would also request that this Chamber summon XBM to respond to Mr. Robinson's allegations that there was some impropriety on the part of the Prosecution when Mr. Robinson met with him in my presence two or three weeks ago. 
+
+Thank you.  
+MS. DIAGNE-MBAYE:
+Mr. President, very quick and brief response.
+
+Mr. President, with your -- with your leave, sir.  
+
+Mr. President, I wish to speak very briefly to say, with all due respect, that they -- the Prosecutor is taking us for granted.  He feels some measure of anger.  And when he says that what we are saying is ridiculous, this means that he has not taken the full measure of his attitude, his behaviour.  Mr. President, he would like you to simply admit that he acted in good faith and that he did everything to disclose the statement, which we received yesterday.  
+
+Mr. President, that is why I would like you to observe this matter carefully with us.  We do not believe in the good faith that he alleges to have.  When he says he was not aware of this statement, how do we believe that, Mr. President, in view of his previous conduct towards the Defence?  
+
+Mr. President, when he goes on to tell you that there are no applicable sanctions and that he is now fed up with our complaints, well, it is because, Mr. President, he does not take the full measure of what the Defence here feels as against his own attitude.  All what he has said may be fair and good, Mr. President, but what you must take into consideration, as the Trial Chamber, is that this statement was disclosed to us yesterday, flowing from the witness's revelation of the existence of this statement.  How, then, is the Trial Chamber, and the Defence, how are we going to be able to determine that the Prosecutor was acting in good faith, that he did his level best to disclose this statement?  
+
+That is irrelevant, Mr. President.  What really matters is that there was a statement, a witness statement, which was not disclosed and that, when it was disclosed, we could only come to the conclusion that this statement levelled serious charges against our clients.  And we have no opportunity to cross-examine this witness on this statement, which we received yesterday.  
+
+And to add injury to everything, the Prosecutor exhibits some measure of anger.  And that is why, Mr. President, we want to state very clearly to the Trial Chamber that this is our interpretation of the situation.  Thank you.  
+MR. WEYL:
+Mr. President, with your leave, I'll have a few words to add as well.  
+I believe that we have reached the very summit in terms of mistakes in disclosure.  Mr. Webster used a very appropriate word when he said that, if the witness had not spoken of this statement, nothing would ever have been known of it, whereas they knew about it.  Yesterday we were reminded that Mr. Lahaie was aware of the existence of this declaration -- of this statement from as far back as November.  But if the witness had not blundered to raise that statement, which he was fully aware of in detail, then we would not have become aware of anything.  
+
+And when I say that the witness blundered and then regretted having so blundered, it is simply to point out to you, Your Honours, the circumstances under which the witness mentioned this statement and then tried to do everything to backtrack and to try to cover up that statement, including, Mr. President, a refusal to answer your questions, which was bordering on disrespect for the Trial Chamber. 
+
+So I believe, Mr. President, that it is simply by some blunder that the witness referred to this statement, which, on the other side of the Bench, the whole team was aware of its existence.  So this is a serious matter, Mr. President.  Mr. Webster is right when he says that it is simply because the witness referred to that statement that we are aware of its existence today, that you are aware of its existence today; whereas, Mr. President, the Prosecutor was fully aware of the existence of this statement but did nothing to disclose it to us.  It is simply through his witness's mistake that this thing came out in the open.  
+
+So, Mr. President, I believe that at this time, when we are seeing yellow cards and red cards flying up, I think one yellow card, two yellow cards, three yellow cards, that is too much, Mr. President.  Maybe the time has come for the red card.  Enough is enough, Mr. President, and I believe that this should be made clear to the Prosecutor.  
+
+Thank you, Mr. President.  
+MR. ROBINSON:
+Mr. President, if I could just add one thing, and I have to believe that this is very disconcerting to a Judge, or three Judges, to see the level of discourse (sic) between the parties.  And I have to tell you that in -- even in my 26 years as a lawyer, 12 as a Prosecutor, I have never had a case where the level has gotten to this low in terms of trust between the opposing parties.  
+
+And I -- I really have to tell you that I don't trust Mr. Webster.  I'm sorry to say that.  Time and time again he has been shown to have violated his obligations and have done things, even in my presence, which appear to me to be inconsistent with his obligations as a Prosecutor.  And I think it's -- it's a very sad situation for me, and I'm -- I'm -- I realise it's probably a very sad situation for the Bench.  
+
+But I think that it's a question of attitude.  Mr. Webster thinks that this is all baseless, but how many times now have we all caught the Prosecution in violations of their disclosure obligations?  Is this just some base -- another -- another baseless allegation you have before you now, when a statement by a witness is produced in the middle of his cross-examination, dealing with the very topics that he covered at the trial?  If you think that's baseless, well, then, you -- you know what to do.  You can deny our motion.  
+
+But I think we're in a very serious situation here, and I think that the attitude that the Prosecution has towards disclosure obligations was reflected when Mr. Lahaie took no steps to follow up, because they don't take their obligations seriously.  When they find out there's some statement -- even giving them the best interpretation, that they didn't know about it -- they were negligent.  They didn't do their jobs because they don't take disclosure seriously.  It's a form of impunity, and the Trial Chamber has to bear some responsibility for that because, time and time again, they haven't suffered the burdens of the disclosure violations.  Those burdens have fallen on us to do our best, do what we can with the late disclosure.  And I hope you won't put the burden of this confrontation on us at the end of your deliberations again.  
+
+Thank you.  
+MR. PRESIDENT:
+The Chamber finds itself in a position where the -- the issues that have been placed before us require more time for deliberation.  We don't think that we can immediately adjudicate on the application which has been made.  
+
+Now, in terms of moving forward with the trial, we think that any orders that are open to us could be made at any stage of the trial.  And what is of interest to us now, and partly because the discussions before us did not include any reference as to whether or not -- if the motion was dismissed, or was not granted in its entirety, whether or not there would have been an -- an intention to cross-examine the witness on the new material.  We are not sure that the -- what the position is.  And we would like to know so that it will assist us in making an order for the continuation of the -- the proceedings. 
+MR. ROBINSON:
+Yes, Mr. President.  Alternatively, I'm making application to be allowed to cross-examine Witness XBM concerning the contents of that statement.  And in terms of time frame, I would like to have a few hours to consult with my client before commencing that cross-examination because I received the statement in -- translated by my legal assistant after Mr. Nzirorera had left yesterday.  I worked on it last night, and now I need some time to discuss it with him.  And so I propose that if you're insisting that we go forward, I have to do the best I can under these very deplorable circumstances, that we begin this afternoon at -- after the lunch break with the cross-examination.  
+MR. WEBSTER:
+Your Honour, given the comments from the Court, I would suggest that the -- the Court acquaint itself with the statement itself.  I don't believe we've served it on the Court, but we will do so during the -- the morning break, since its contents go directly to the issue of what remedy the Court may wish to fashion.  If there are elements in the statement that cause some sort of prejudice to the Defence, that can only be judged by looking at the contents of the statement itself.  
+
+So I would invite the Court to actually read through and appreciate the contents of that statement before addressing the issue of what remedy to apply, if a remedy is justified beyond a simple short delay to allow Mr. Robinson to -- to discuss the statement with his client.  So we'll serve it on the Court at 10:30.  
+MR. PRESIDENT:
+Just in terms of ensuring that our schedules are not irreparably damaged by any decision that we take, the two questions that are concerning us at the moment, if we grant the adjournment until 2 o'clock, what is the likelihood that the entire cross-examination and re-examination will be completed this afternoon?  That's one question.  
+
+The second question has to do with, does it make more sense to start the examination-in-chief of the next witness immediately after the adjournment for tea -- or, midmorning recess?  Those are the questions that we are considering at the moment. 
+MR. ROBINSON:
+Mr. President, I can give you our -- my answer to that.  I don't think the -- the cross-examination and redirect examination is likely to be completed today.  
+
+Secondly, with respect to the next witness, when we learned that the order was to be changed and the witness was to be AWB, we asked that he be -- or, I asked that he be brought at 8:30 this morning, because he previously agreed to meet with us.  And I notified Mr. Webster by email last night.  He received that email and responded.  However, at 8:30, Mr. Webster wasn't here this morning, and we were unable to have that meeting.  So we would need to have sufficient time to meet with Witness AWB before his testimony could commence. 
+
+Thank you.  
+MR. PRESIDENT:
+Mr. Webster -- Mr. Robinson, what is your anticipated cross-examination time?  Again, it's not binding, but a best estimate at this moment. 
+MR. ROBINSON:
+My best estimate would be it would take the bulk of three hours or so. 
+
+MR. PRESIDENT:
+About three hours or so? 
+MR. ROBINSON:
+Yes. 
+MR. PRESIDENT:
+Would anybody else on the Defence wish to cross-examine?  Ms. Hounkpatin, do you wish to -- or, Ms. Diagne-Mbaye, would either of you wish to cross-examine the witness further on the new statement?  
+MS. DIAGNE-MBAYE:
+Mr. President, after consulting my client, we realised that it was impossible for us to provide any guidance in terms of timing.  It is true that we have chosen not to cross-examine that witness, but, as I expressed some reservations yesterday relating to the new statement, it would seem to me, Mr. President, that this is not the way to proceed, that a statement be disclosed to us and that I consult my client, who doesn't even have a copy of that statement.  
+
+I've tried to read it to him, Mr. President.  This is -- these are not circumstances under which we can proceed normally.  And, under those circumstances, Mr. President, for the record, I would rather abstain.  I would rather abstain.  
+
+Thank you, Mr. President.  
+MS. HOUNKPATIN:
+Mr. President, I am rather confused, as you can see, because I am not in a position to state clearly how much time my cross-examination may take.  You probably observed that I was brief in my cross-examination.  It took three hours, but the document that we have just received does not enable me at this point to tell you how much time I will require for the cross-examination because this would depend, first of all, on what my learned friend, Robinson, would have done, which may enable me to curtail on my own cross-examination.  
+
+But this document is a very important statement, Mr. President, and it has just been disclosed to us.  I have not had opportunity to discuss it with Mr. Ngirumpatse, and I am somewhat at a loss, Mr. President, because right now I cannot tell you whether I will cross-examine for thirty minutes, one hour, or two hours.  I am not in a position to do so right now, Mr. President. 
+MR. WEYL:
+Mr. President, to address the other component of your question relating to the examination of Witness AWB, it is likely that I will be cross-examining that witness on behalf of Mr. Ngirumpatse.  And I must say that we are likely to run into some communication problems relating to this witness as well, although we have not yet made a full assessment.  That is why I would rather have the opportunity to deal with all disclosure issues at least 60 days before the trial begins so that I may proceed judiciously with my cross-examination.  
+
+Thank you, Mr. President. 
+MR. PRESIDENT:
+Mr. Robinson, since you're the -- seem to -- the -- the counsel who is most prepared and ready to commence the cross-examination, what I'm -- what we would like some advice on, the statement is not evidence.  We don't know to what extent -- it seemed from the discussions that we've heard about the statement that not much of the material contained in the statement was adduced in evidence up to now.  Why is it necessary to cross-examine on it?  
+MR. ROBINSON:
+Well, two reasons:  First of all, there are subjects of the statement that were touched upon in direct examination and that are inconsistent with what's been stated by the witness so far, particularly with respect to the meeting of the 27th of October 1993 at the Umuganda stadium and the fundraising event in June 1994 that took place at the MRND palace in Gisenyi.  So there's two elements that are directly covered by the statement. 
+
+Then with respect to issues of credibility, the witness in his statement talks about his reasons for testifying and his reluctance to testify and the connection that it had with his being imprisoned and staying in prison, which is directly related to his motives and his credibility.  In addition, he's testified that he made a statement which included allegations that Mr. Nzirorera spoke on RTLM radio, which is not contained in his statement.  So he needs to be impeached with -- with that.  
+
+Then the meeting that he has created in this statement concerning Mr. Nzirorera and the statements he attributes to Mr. Nzirorera are inconsistent with the direct testimony -- with the testimony he gave in his -- in his examination -- his cross-examination on the 3rd of July.  When I specifically asked him about conversations in Gisenyi with Mr. Nzirorera, he said, number one, "I could not recall what Nzirorera said in any conversation."  Number two, "I never made any mention to the investigators of having heard anything that Nzirorera said in conversation," that "I saw Nzirorera speaking to other persons only in connection with legislative campaigns," and that he had never been asked by investigators about hearing any comments or statements from Mr. Nzirorera, all of which are belied by the contents of this statement. 
+(Pages 1 to 15 by Ann Burum)
+
+
+
+
+
+1030H
+MR. PRESIDENT:
+Perhaps you could educate me a bit on this because if this is what his testimony before us is, why would you want to challenge the credibility of those statements by reference to the allegations of the statement?  
+MR. ROBINSON:
+Because I think it's -- I can also prove that those allegations are completely false, not only with cross-examination, but through testimony.  I mean, basically, I think this is an opportunity where the witness has been caught in some lies that can really be demonstrated, creating meetings with Mr. Nzirorera at times and places where he never was, with people with whom he never was.  
+
+And I also believe that once I receive Rule 68 disclosure from the Prosecutor, that they have at least two or three witnesses of their own that I can use to -- who were apart of this event who I can use to show that this witness is lying.  So, to me, this is an opportunity to completely blow the witness's testimony out of the water once and for all, because I also think he's totally unprepared to be cross-examined on this statement, which is why all of a sudden he wants to go home.  Because I think he learned his statement of February 27th, 2003, very well, learned it by rote in fact, and has been able to repeat the meetings and things that he talked about in that statement.  But since this statement was not available to him, I think that when we question him about the details that he gave in the statement, they're going to be -- he's not going to be able to remember what he said when he made up these lies, and I think I'll have a lot of fodder for cross-examination, if I'm allowed to do so.  
+JUDGE SHORT:
+Mr. Robinson, this new statement, the Prosecution would have no opportunity to examine the witness on it.  Now, if you cross-examine on it, the whole statement most likely would go in, so you have to consider very carefully whether the overall benefit to your case of cross-examining the witness on this statement, and allowing the entire statement to go in.  And you have to calculate carefully how the witness is going to respond to your cross-examination on this new statement, and how it will affect your case -- the overall impact of your case.  I just mention that for your consideration.  
+MR. ROBINSON:
+I appreciate that, Judge Short, and I think in a normal situation, my own experience would tell me exactly the same thing.  But I'm -- I want -- I'm going to introduce the statement myself, in fact.  And this is not a normal situation, because this is a witness that is a hundred per cent perjurer, and I think that I'm not afraid of anything he says.  And the more he says, the more I'm able to demonstrate it.  
+
+So in this situation I think I'm -- I'm not afraid of the contents of any of his statement, and it's best for my client that we fully explore them.  But I understand what you're saying.  And in my normal practice I would treat it in the way you've suggested.  
+MR. WEBSTER:
+Yes, Your Honours.  If we were applying normal -- not normal, excuse me, conventional common law rules of procedure, what Mr. Robinson is suggesting would be completely inappropriate because what I gather is that he wants to use this statement, which would serve as a basis for impeachment of the witness's testimony -- I'm sorry.  Mr. Robinson is suggesting that he will use this statement to impeach the witness on the evidence that is already on the record.  He can do that simply by offering the statement in evidence, and the contradictions will speak for themselves.  But what he has suggested to the Chamber is that he will use this statement to extract additional detail and other incidents from the witness that did not present themselves in his direct examination, and then contradict that information with extrinsic evidence from other witnesses, which is completely inappropriate.  That is not the purpose of cross-examination.  
+
+He has a prior statement from the witness.  The statement speaks for itself.  The Court can observe the contradictions.  But I say that not to oppose Mr. Robinson's application; he can cross-examine the -- cross-examine the witness as long as he wants to.  But it does seem to me to be rather wasteful of this Court's time and the resources of this Tribunal, but we do not oppose that.  
+
+I rose to my feet basically to suggest that we proceed with the cross-examination from XBM, and that we not take any further testimony from any other witness until XBM has completed his evidence.  
+
+And at the cost of sounding redundant, I do take umbrance (sic) to Mr. Robinson's completed -- repeated references to the witness's -- well -- to his contention that somehow this witness's testimony was motivated by his release from -- from prison, which is completely false.  And that in itself will be quite apparent to the Court when the Court reads the statement and appreciates it for itself.  And I would hope that before we reconvene, that the Court will examine the statement and read the contents, not as evidence in the case, but as a basis for its determination of what -- how it will respond to Mr. Robinson's motion. 
+MR. PRESIDENT:
+Mr. Webster, just a point of interest, I don't know if you have any indications as to how long the re-examination is likely to be.  Again, not a binding, but a best estimate.  
+MR. WEBSTER:
+As we stand before the Court now, the re-examination would be very short.  Minimal, in fact. 
+MR. PRESIDENT:
+In terms of less than one hour?  
+MR. WEBSTER:
+I would think so.  I will ask my colleague, Mr. Gilles Lahaie, to respond to that question.  But it also depends on what comes out during the cross.  But we're not expecting an extensive --
+MR. PRESIDENT:
+Our question -- you see, we wanted to know whether -- it's really relative to whether we -- at what time we start the cross-examination, and -- and to what extent we will still be on schedule to complete the examination-in-chief of the next witness by midday on Friday.  That's what our question is related to.
+MR. WEBSTER:
+Your Honour, my representation to the Court has consistently been that if we start on Thursday morning with AWB, we should complete in time, by my calendar.  So I think we have at least another five hours ahead of us.  If we reconvene at two o'clock, depending on what the Defence does, I would think that we would be on track. 
+MR. PRESIDENT:
+Well, we've decided to grant the adjournment until two o'clock.  
+
+We wanted to say, Mr. Robinson, that the leave to cross-examine is not a complete answer to the application you've made.  It is not even answers, yet, to the application you've made.  That's the first point.  
+
+The second point is that we wanted to also emphasise that this is not a liberty for a general new cross-examination, and we expect you to confine yourself to matters arising from the statement only.  And that would apply to any other cross-examination conducted by any other of the Defence teams, if the opportunity -- so the leave is granted for everyone to cross-examine at this stage.  And if advantage is taken of this liberty, we expect any cross-examination to be limited by the content of the statement which has recently been disclosed.  
+
+So we'll -- yes, Mr. Robinson.  
+MR. ROBINSON:
+Yes, Mr. President.  I'm going to -- I understand that.  And you'll see I'll abide by that.  
+
+I really ask the Trial Chamber to use this time to deliberate on our motion.  Perhaps we could save some time in the afternoon if you grant the motion to exclude the testimony, but I understand you're taking some time.  It's a little bit disappointing to us to feel that the only -- you know, the Court's primarily concerned with its schedule, and we feel that there's been some serious violations of our clients' rights.  I realise you're managing things, but it would be appreciated if you could make a ruling on the motion during the time that we're working on the preparation of our cross-examination.
+MR. PRESIDENT:
+Mr. Robinson, we've been -- we've thought about that.  The issue of exclusion of the testimony, and the issue of sanctions, even if we granted the application, the time at which you do it is not important.  These are applications or orders which we could make at any time.  And so I don't think that anybody suffers prejudice by us taking a little bit of time to be certain about what we do. 
+MR. ROBINSON:
+I appreciate that, but if you exclude the testimony we don't have to -- we can proceed quicker with AWB. 
+MR. PRESIDENT:
+We take the adjournment now. 
+(Court recessed at 1046H)
+(Pages 16 to 19 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1417H) 
+MR. PRESIDENT: 
+Yes, Mr. Robinson?  We are ready to resume; what do you wish to do? 
+MR. ROBINSON: 
+In the absence of any decision on my motion, I'm prepared to cross-examine the witness.  
+MR. PRESIDENT: 
+We don't have a decision at the moment, yet.  
+
+So, bring the witness in.  
+MR. LAHAIE: 
+Good afternoon, Mr. President.  Counsel Robinson sent us a request for information, including a series of names that we then sought after, and we found a statement.  I am not convinced that this is under Rule 68, but we intend to transmit this statement to Counsel Robinson, and to the other counsel -- that statement, and also the testimony in the Bagosora trial.  Thank you.  
+MR. ROBINSON: 
+Mr. President, I would obviously like to have that before rather than after my cross-examination. 
+MR. PRESIDENT: 
+Mr. Lahaie, is there any time frame on your intention to transmit this information? 
+MR. WEBSTER: 
+Yes, Your Honour.  I looked at the material during the luncheon recess.  I've made it available electronically to the Defence, and it was sent by email, but that was just a few moments ago.  But that was the first opportunity I had to review it; it's three days of transcripts and an OTP statement.  Quite frankly, I don't see if there's Rule 68 material, but in the interests of expansive disclosure we're making it available.  So it should be on everyone's email now, but we don't have copies in the courtroom to distribute.  
+MR. ROBINSON: 
+Well, I'll go ahead, Mr. President, and we'll deal with that later.  
+(Witness entered courtroom)
+WITNESS XBM
+CROSS-EXAMINATION (continued) 
+BY MR. ROBINSON:
+Q.	Witness XBM, we now have your statement of the 6th of September 2005, and I have been permitted to ask you questions based on that statement.  So I'm now going to ask you series of questions concerning events that you mentioned in the statement.  And the first things I want to ask you about concerning -- concerns when you saw Mr. Nzirorera in Gisenyi.  
+
+Now, you've told us that you were at Mudende university from the 7th through the 10th of April.  Can you tell us when the first occasion was, after the 10th of April, that you saw Mr. Nzirorera? 
+A.	I saw him on the 14th of April. 
+Q.	And where was it that you saw him?  
+A.	I saw him at the Bikini Tam Tam hotel, the hotel belonging to President Habyarimana's son.  
+Q.	Now, when you saw him on that occasion, were you with some other people?  
+A.	Yes, I was with other people. 
+Q.	And can you give us their names? 
+A.	There was Mr. Bitwayiki, and a man by the name of Nzabarushya, and somebody called Sebudeheri, and somebody called Rwasibo, and some other people.  
+Q.	Now, Bitwayiki, is that spelt B-I-T-W-A-Y-I-K-I? 
+A.	Yes, it is. 
+Q.	And the Nzabarushya, is that spelt N-Z-A-B-A-R-U-S-H-Y-A?  
+A.	Yes, it is. 
+Q.	And was he connected with any military units?  
+A.	Yes, he was a member of the Presidential Guard.  
+Q.	And you mentioned the name Sebudeheri.  Could you spell that for us, please?  
+A.	Sebudeheri is spelled S-E-B-U-D-E-H-E-R-I. 
+Q.	Is he still alive? 
+A.	Yes, he is. 
+Q.	And in what secteur does he live?  
+A.	He lives in Busiza (phonetic) secteur. 
+Q.	Now, you mentioned Rwasibo; is that spelled R-W-A-S-I-B-O?  
+A.	Yes, that's how his name is spelt.  I am used to Rwandan names.  I presume that you are talking to other people that do not quite know how to spell those names.  
+Q.	Well, can you spell the name of Rwasibo for us, please?  
+A.	I think that this will just slow down proceedings, but I will do so if you compel me to.  R-W-A-S-I-B-O is how it is spelt.  
+MR. PRESIDENT: 
+Mr. Witness, the reason why we get assistance with the spelling sometimes is so that the people who are typing the transcript of the proceedings can record your testimony more accurately.  So it's really to assist in the process of an accurate transcript.  That's the purpose of the spelling.  
+THE WITNESS: 
+I follow you, Mr. President.  
+BY MR. ROBINSON:
+Q.	Now, was a person named Kagene, K-A-G-E-N-E, also present?  
+A.	Yes, he was also present.  
+Q.	And do you know where he's currently located? 
+A.	Well, the last information I had on that subject in 1994 was that he was in the Congo.  During the entire period that I spent in prison, I was given no idea of his whereabouts.  
+Q.	Was a person by the name of Pascal Ntawumenyumunsi also present?  Spelt N-T-A-W-U-M-E-N-U-M -- excuse me, Y-U-M-U-N-S-I.  
+A.	Yes, that person was also present. 
+Q.	And is he currently alive, and if so, in which area does he reside? 
+A.	Yes, he is still alive, and he lives in Rubavu commune.  But, there were administrative changes, and beforehand Gisenyi préfecture comprised 12 communes.  So I would not be in a position to tell you whether that commune is still in existence, because the commune that I lived in, well, if you leave the commune that I lived in and you go towards the border, it is now called Rubavu district.  But in the past it was not part of the same commune.  
+Q.	Was there anyone else present with you in your group that has not been mentioned? 
+A.	Other people turned up at a later stage, but it's very difficult for me to remember all those people, or to provide the names of the people who were present.  
+Q.	Now, with whom was Mr. Nzirorera when you saw him? 
+A.	He was in the company of Anatole. 
+Q.	Was there anyone else with them? 
+A.	Yes, there were other people, but I do not know their names.  
+Q.	And can you tell us where Mr. Nzirorera was compared to where you were sitting at that time?  
+A.	I think that in terms of distance, it was between 7 and 10 metres.  No more than 10 metres, in any case.  
+Q.	Could you hear what Mr. Nzirorera and his party were speaking about? 
+A.	They were having a conversation, and at some point they raised their voices and we could hear what was being said. 
+Q.	And tell us, to the best of your recollection, what you heard.  
+A.	All I can provide is general ideas.  He was having this discussion with Anatole about Bishop Wenceslas Kalibushi, who was the bishop of Nyundo.  That bishop had been arrested by the Interahamwe, who, it was being said, wanted to bury him alive.  And Anatole was among those who saved his life.  And Nzirorera was putting questions to him about that event, or that incident.  He wanted to find out what had happened, and at what location the bishop was at the time of the incident.  
+Q.	Now, Witness, your recollection of this conversation that took place in the Tam Tam bar, do you recall being asked, on the 3rd of July, here in this courtroom, whether you ever saw Mr. Nzirorera in Gisenyi before he went into exile, but after the 6th of April 1994?  Do you remember when I asked you those questions? 
+A.	Thank you for that question.  I was getting ready to put the same question to you, or to say something to the Judges in that connection, because from all the questions you have put to me in relation to my statement of 2003, I believe that most of those who were present at that time are still present here today.  So, I have observed that the questions you were putting to me do not have any connection with the statement of 2003.  But, as I thought about your questions, it appeared to me that you were in possession of that statement.  So, from your questions I was able to see clearly that you were drawing inspiration from that statement.  Maybe the Prosecutor is not aware of this, but I noticed that you were drawing your inspiration from that second statement of mine.  That is why I did not want to answer your questions, because I am aware -- or, I felt that you were using a document which is not official, that is, an unofficial statement.  
+Q.	And why was that statement unofficial?  
+A.	I am not saying that it is unofficial statements or not.  When I arrived here, the Prosecutor led me in examination-in-chief, and I thought that during your cross-examination you would raise issues relating to the examination-in-chief.  Well, you never told me that you were in possession of that statement, but I was able to notice that you have that statement, because of the nature of the questions that you were putting to me.  But you do not want to acknowledge that you were in possession of that statement.  
+Q.	Witness XBM, I asked you the question:  Had you seen him in Gisenyi before the time you saw him at the border, but after the 6th of April 1994?  And you answered that you knew Nzirorera already, so that when you saw him it was not on the occasion of a rally, except for 1993 when you had told me that you'd seen him at a rally in Gisenyi.  "Otherwise, on other occasions, I would see him, like a person who would be moving through Gisenyi or Ruhengeri region without any problems."  And I'm reading from page 48 of the draft transcript.  
+
+And then I asked you if you spoke with Mr. Nzirorera in 1994, and you said, no, that:  "He was just someone that was considered good natured, and who would purchase beer for members of the public.  In that context I would see him."  
+
+And then I asked, "Did he ever purchase beer for you?"  And you answered:  "He would not buy it for anyone he knew.  Everyone knew he was in the habit of doing it.  When you saw a vehicle filled with crates of beer, he would pay for it for members of the public to consume.  However, he did not necessarily know the names of the people who drank the beer."  
+
+And then I asked you:  "And did you ever hear Mr. Nzirorera speaking, other than on the radio?  Were you ever in his presence when he spoke?"  And your answer was:  "I just told you I knew him.  As to what he said, one would not recall.  He may have made -- one may recall what was said at rallies, but not what was said in conversation."  
+
+So, two days ago you testified, under oath, that you did not recall anything that Mr. Nzirorera may have said.  And now you're testifying to statements that he made in your presence.  Would you like to explain to us why your testimony, under oath, has been different on these two days?  
+A.	I don't know whether you expect an answer from me to that question.  
+Q.	I do.  
+A.	All right, I will answer your question.  And I will provide some examples; given you have drawn on a number of examples, I will also use some examples.  You asked me whether I saw Nzirorera on another occasion.  And you say that I said that I had not seen him, but that he was someone whom I knew.  When I answer in those terms, I had not forgotten that I had been questioned and that the statement existed.  I, therefore, did not seek to give you an answer which tallies with what is contained in the statement, because I was aware that the second statement existed.  
+
+You see, when one makes a statement, it is clear that one cannot state everything in one statement.  Particularly when you are being questioned, you might be taken unawares, you are not prepared to answer questions, and all that happens is that you draw on the material that you can remember.  But subsequently you might remember one or two other things, and then investigators may follow up the issues.  And I know that there are people who are in charge of the -- following up these types of issues, and I also understand that.  Investigators may try to locate one by finding out one's address and then following up on issues that may need follow-up.  I therefore do not see any problem with what I said.  
+
+From all the questions you have been putting to me, I believe that you were trying to find out whether I knew officials of the former regime who had incited members of the population to kill.  I do remember saying that the first of them was Theodore Sindikubwabo.  
+
+You then asked me whether there were no other authorities, figures of authorities (sic) who had incited members of the population to kill, and I told you that there were others, and these would include one of the persons whom you are representing, and that that person had spoken over RTLM and incited people to kill.  
+
+Then you asked me whether the person was Nzirorera -- Mr. Nzirorera.  And I told you that that individual was among the three accused persons, but I did not give you his name.  Then you asked me whether it was Mr. Nzirorera, so that we can clarify this matter once and for all.  And I hope that you do remember.  
+
+Now, when you asked me that question, I was fully aware that you were in possession of that statement, but you did not want to acknowledge it.  I only mentioned Nzirorera's name when that question was put to me by the Presiding Judge.  I said that there were video recordings, as well as other statements that Nzirorera had made publicly, and I also said that there were other persons who could come and testify openly in that connection.  
+
+I came here to speak the truth, and may I say that nobody had mentioned the existence of this statement.  I am the one who brought it up myself.  And I said that Nzirorera had spoken over Radio RTLM, and that he had also made other statements openly.  
+
+Now, you may want to put questions to me about the locations where Nzirorera made those statements.  But since you have not put the question to me, I will not venture into answering it.  But if you do put it to me, I am ready to -- I will be ready to answer.  
+Q.	Witness XBM, you've given us a long answer, but you avoided answering the question that I asked you.  On the 3rd of July I asked you if you ever heard Mr. Nzirorera speaking other than on the radio.  "Were you ever in his presence when he spoke?"  And your answer at that time was:  "I have just told you that I knew him.  As to what he said, one would not recall.  He may have made -- one may recall what was said at rallies, but not what was said in conversation."  
+
+So you have told the Trial Chamber, under oath, that you do not recall what Mr. Nzirorera said in conversation.  Now you've come here, two days later, and told the Trial Chamber what you claim Mr. Nzirorera said in conversation.  Now, can you tell us why, in between these two days, you have told the Trial Chamber two completely opposite stories?  
+A.	The answer I can give relates to the statements that I have made, and those statements which you are mixing up, that is, the first and the second statements.  It is in the second statement that the information about my having seen Nzirorera make open statements inciting people to kill, it is in the second statement that this is narrated.  So I don't believe that we should belabour this point, because I have never denied the fact that he did make statements.  So, the answer I give you was in relation to the information contained in the first statement, but I was also aware that there was a second statement.  And that is why I refused to speak on the second statement, whereas we had not yet exhausted the content of the first statement.  
+Q.	Well, Witness, you didn't refuse to speak on the content of the second statement, you lied.  You said that:  "I don't recall what was said in conversation."  Now -- 
+MR. PRESIDENT: 
+Yes, Mr. Robinson, we try to avoid pejorative words like that in our Trial Chamber, please.  
+MR. ROBINSON: 
+Okay.  
+BY MR. ROBINSON:
+Q.	Witness XBM, I'm suggesting to you that when you were asked about what you heard, you didn't simply refuse to answer, but you gave an answer and your answer was not truthful, because you said that you did not recall what was said in conversation.  So, do you acknowledge that you have given false testimony under oath before this Trial Chamber?  
+MR. WEBSTER: 
+Excuse me, I'm objecting to the form of that question.  Based on everything that's transpired in this witness' testimony, there is no basis for any Defence counsel to suggest to this witness -- or to offer him an opportunity to claim that he's given false testimony.  The two statements can be reconciled.  If Mr. Robinson asked the question in a different way, he would proceed on that basis.  What he's trying to get the witness to do is acknowledge one of those statements as a lie when that's not necessarily the case.  And to put the question to the witness in this way is offensive and is not appropriate.  So Mr. Robinson can explore this area, but not in this way.  That's my objection.  
+MR. ROBINSON: 
+Mr. President, I can rephrase the question.  
+BY MR. ROBINSON:
+Q.	So, Witness XBM, you have told us that you didn't want to discuss the contents of your second statement, but when you were asked whether you were ever in Mr. Nzirorera's presence when he spoke, you said that:  "One would not recall what he said, that one may recall what he said at rallies, but not what was said in conversation."  
+
+When you gave that testimony, was that the truth?  
+A.	I would like you to know that at Hotel Bikini Tam Tam in Gisenyi, I was not part of the discussion.  As I have already explained, many people were gathered, and all those who were present heard and understood the statements that were made by that figure of authority.  Furthermore, I do not know why you are belabouring this point and asking me that I said that I did not hear Nzirorera speak to anybody else.  Please, move on.  I answered the question in relation to my testimony of 2003, and I wanted to remain within that framework, because I knew that it was likely that you would put questions to me on the second statement.  
+
+If you want to know the truth, as far as the second statement goes, the only thing you can do would be to go and interview all those persons whose names I have provided.  Now, when you ask me why I answered in that manner, I do not understand why you insist on that question.  You have the statement with you now.  Please go on and interview those persons whose names have been mentioned.  
+
+Yesterday I thought that we had come to some understanding that there were some video recordings that were available, and that some members of the population were present at the premises.  Go on and conduct your investigations to find out for yourself what the truth is.  I say this because you only agree with the things that you have seen for yourself, and when you would have done that, then you would stop refuting what I have said.  
+Q.	Witness XBM, I assure you we will conduct those investigations.  We would have conducted those investigations already, except for the fact that the Prosecution never disclosed your statement of 2005 to us.  So, we're handicapped by that.  
+
+But, in any event, we're also handicapped by the fact that you have given inconsistent answers to the same question during this trial.  For example, on the 3rd of July, after you told us that you didn't recall what was said in conversation, I asked you if you were ever present when Mr. Nzirorera was having a conversation with other people.  And you said that:  "I never spoke to Mr. Nzirorera, but I saw him speaking to other people."  
+
+And I asked you:  "And where was that?"  And your answer was:  "A long time ago, and it happened on many occasions, during electoral campaigns; 1983, a long time ago."  
+
+So, why didn't you tell us at that time that you recalled some conversation at the Tam Tam bar on the 14th of April 1994? 
+A.	Even if I had talked about it, you would still have asked me why that was not -- that information was not provided in the written statement.  
+Q.	And is that why you didn't tell the truth?  
+A.	Well, I think that you do not want to know the truth.  I have granted that it is indeed my statement, and I told you that I did not talk to Nzirorera.  So, all I can ask you to do is to interview other persons so as to discover the truth.  
+Q.	I asked you, on the 3rd of July, if the investigators from the Prosecution asked you if you'd ever had -- heard any comments or statements by Mr. Nzirorera.  And your answer was:  "They did not ask me questions about that."  Was that the truth? 
+A.	I am not sure that I know which investigators you are talking about.  I have already told you that I met two different groups of investigators.  Now you are asking me whether investigators put questions to me on that topic.  On the 3rd of July I knew that this document was not available, and that is why I did not answer the question.  Now that the document has been found, I think the onus is on you to interview those persons whose names are mentioned in the document.  As far as I am concerned, when you put questions to me which are not based on a document, I think that those questions have no value.  
+Q.	Witness XBM, we can agree, can we not, that you never mentioned the meeting in the Tam Tam bar to the persons who interviewed you from the Office of the Prosecutor in 2003, correct? 
+A.	In 2003, when I was interviewed, I had just been recently released.  I had just left prison, and I was at the solidarity camp.  And that is where the investigators arrived, unannounced, and told me that they had been referred to me by other persons.  The questions they put to me focussed on soldiers and senior military officers like Bagosora and Anatole.  So -- I remember having talked about this already before this Trial Chamber, namely, that the investigators expected me to speak mostly about the soldiers who were being tried at the Tribunal.  Now, as I have already said, if somebody appears unannounced to seek information from you, it is possible for you to forget or omit some of the information.  
+
+Now, if the issue of Tam Tam had been mooted, I would probably have talked about it.  
+Q.	Now, also in 2003, you came to Arusha to give testimony in the trial of Anatole Nsengiyumva.  Did you meet with prosecutors before you gave your testimony?  
+A.	I do not know which prosecutor you are referring to.  When you say that I met a prosecutor -- well, you're asking me if I did indeed meet a prosecutor in the year 2003; are you not?  
+Q.	That's correct.  Did you meet the man who questioned you at Colonel Nsengiyumva's trial, Mr. Rashid?  
+A.	I think it would be better to ask Rashid himself.  Had I refused to answer his questions on -- I refused to respond to his questions on Nzirorera.  
+THE ENGLISH INTERPRETER: 
+Not very clear.  
+THE WITNESS: 
+What is more, Rashid is not following up the case file for Nzirorera, so I do not see how your question is relevant.  
+BY MR. ROBINSON:
+Q.	I see you're no longer in a hurry to get back to your family, since you're spending a lot of time avoiding answering my questions.  So I will ask it again:  Did you -- 
+MR. WEBSTER: 
+Your Honour, I would like to object, because this issue has been thrashed out over the last 20 minutes, and at some point we're going to have to move on.  Now, Mr. Robinson may not be satisfied with the witness' answer, but the witness has essentially answered the question, and I don't think persistence on this point is going to generate any more of an answer.  He's saying -- referring to Mr. Robinson -- I get the impression that he's on -- engaged in an expedition to demonstrate the statement of 2005 as some sort of recent fabrication in relation to the previous statements.  But that's not the issue that this Court has to address in assessing the witness' testimony.  
+
+Now, this issue has been thrashed out, we've sat through this for the last half hour, we're all in a hurry to see this examination come to an end, and Mr. Robinson is co-responsible here.  So we should not presume the witness' responses are the only things that's dragging us down.  
+BY MR. ROBINSON:
+Q.	Witness XBM, did you meet with Mr. Rashid before you gave your testimony in Colonel Nsengiyumva's trial?  
+A.	I didn't quite grasp your question, Counsel.  I seem to have a problem with my headset.  
+Q.	Okay, let me ask it again -- can you hear me right now?  
+A.	Yes, I can. 
+Q.	Did you meet with Mr. Rashid -- did you meet with Mr. Rashid before you gave your testimony in Colonel Nsengiyumva's trial?  
+A.	Yes, I did.  
+Q.	And did you tell him about seeing Anatole Nsengiyumva and Joseph Nzirorera in the Tam Tam bar on the 14th of April? 
+A.	Whatever the case, I did not talk to him about that, because we only talked about the elements, or the contents of the statement.  I did not talk about any other subject.  
+Q.	And when you testified at Colonel Nsengiyumva's trial in July of 2003, you made no mention of seeing Colonel Nsengiyumva or Mr. Nzirorera at the Tam Tam bar, correct? 
+A.	No, nobody interviewed me on that subject, so I didn't mention anything about it.  
+Q.	Now, tell us the next time, after the 14th of April, that you saw Joseph Nzirorera? 
+A.	I explained that I had seen him on a number of different occasions, but I saw him when he was walking, he was on foot.  I remember when yesterday or the day before you put me -- or, put a question to me on the subject of the period during which the members of the population of Gisenyi were providing financial contribution as support in the war effort.  I remember that I, myself, had to contribute 3,000 francs at the time.  
+
+So, you put a question to me that showed me that you had access to the statement of 2005, and that you were hiding that fact from me.  You asked me whether -- during the meeting where funds were raised in order to help the military, you asked me whether I'd seen Nzirorera.  And I responded by saying that the money was handed over at the préfectoral level.  The senior military officers were to receive the money, and the money had to be handed over to them.  
+
+You asked me whether I saw Nzirorera during that fundraising activity, and I responded by saying that the fact that I did not see him does not mean that he was not present, and it could be that other people saw him.  But, personally, I did not lay eyes on him.  But others might have seen him.  
+Q.	Witness XBM, my question to you was:  Where and when was the next time that you saw Joseph Nzirorera after the 14th of April?  
+A.	I saw him in the months of June and July.  And with reference to the occasion in the month of July, I told you that I saw him on the 13th of July when he went to Kora (phonetic), where his sister lives.  She is the wife of Bonabihama (phonetic).  So, he went to that place on his way through.  He had luggage with him, and I saw him in the month of July.  
+
+Now, with reference to the fundraising activity, it was Banzi who addressed the meeting, and also the military commanders.  
+THE ENGLISH INTERPRETER: 
+Mr. President, the Kinyarwanda interpreter did not understand what the witness meant by his last response.  The last sentence he gave, Mr. President.  
+
+Mr. President, the English interpreter will repeat what she just said to you.  The Kinyarwanda booth did not quite grasp the last sentence that the witness uttered.  Could it be repeated, please.  
+MR. PRESIDENT: 
+Mr. Witness, the interpreter did not get what you just said, and they request that you repeat it.  
+THE WITNESS: 
+I was saying that Counsel Robinson asked me the number of occasions that I saw Nzirorera after the 14th of April, and I responded by saying that I had seen him on two occasions, but that it could be on more than two occasions.  During that period he did not convene any meetings, nor did he address any meetings.  I said that I saw him on the 13th of July 1994, and he was talking to his brother-in-law, who's called Bonabihama, and lives in Kora, and he is therefore the husband of his sister.  He was passing through; he was on his way to the Congo.  
+
+But, before that occasion I saw him during the fundraising activity when the members of the population of Gisenyi raised funds as a war effort, and he was present at that time, but he did not give a speech.  He was sitting in a place of honour, but he did not address the meeting.  
+
+But when I talk about Nzirorera, I just talk about the times when he actually made a speech.  I didn't talk about the times that I saw him when he didn't address the meeting, because I don't think it's of any importance to mention that to the Trial Chamber -- the occasions at which he did not make a speech, that is.  
+BY MR. ROBINSON:
+Q.	Witness XBM, you are tangling yourself up in contradictions.  
+
+On the 3rd of July, just two days ago, I asked you the following question:  "At this meeting of May or June in 1994, when financial contributions were being sought, did you see any of the Accused, Ngirumpatse, Karemera, or Nzirorera?"  And your answer was:  "People were jousting at the time to make their --" 
+THE ENGLISH INTERPRETER: 
+Counsel, the witness has a problem with his headset.  
+MR. WEBSTER: 
+Also, I would like to take this opportunity to -- to request that Mr. Robinson resist his temptation to editorialise as he's asking his questions -- posing questions to the witness.  Now, in the past we've experienced repartee back and forth between Mr. Robinson and the witness that almost rises to the level of argument.  The responses can get argumentative, and I think -- or, what I would offer to the Court is that the way the questions are being asked can provoke that.  And I think that we would all like to avoid that.  So if Mr. Robinson can simply ask the witness if he can explain an inconsistency, as opposed to accusing him of tangling up his information, it would be much more helpful to this process.  
+
+And then with regard to that last question, both Mr. Robinson and I are aware that there were several fundraising meetings in Gisenyi during the period April to July, so perhaps if he could specify which one he's talking about, then there would be clarity on this point.  There are disclosures -- I won't go any farther than that, but Mr. Robinson has a clear idea of what I'm suggesting to him in the way that he's asking this question.  
+MR. ROBINSON: 
+Yes, Mr. President, I will go back and read a longer passage of this, so that it's clear to everyone what we're -- what meeting we're talking about.  
+BY MR. ROBINSON:
+Q.	So I'm reading from page 47 of the transcript of the 3rd of July, at line 12, and I asked:  "So my question was whether there were any other meetings of the MRND that you attended that you haven't told us about."  And your answer was:  "Another rally took place in June; that was in June.  If I remember well, it was in the month of May or June, and I don't quite remember.  It was in 1994 still.  On that day there was need to collect financial contributions to assist the soldiers."  
+
+And then I asked:  "Did this take place in Gisenyi?"  And you said:  "Yes, at the MRND headquarters in Gisenyi."  
+
+And my question was:  "Was it the MRND headquarters or the MRND palace, from the time the MRND was a unique party?"  And your answer was:  "The building was commonly referred to as palace, the movement's palace, since 'movement' was the first word in the abbreviation for the word the MRND.  So, it was known as the palace of the movement."  
+
+And then I asked you:  "And at this meeting of May or June in 1994, when financial contributions were being sought, did you see any of the Accused, Ngirumpatse, Karemera, or Nzirorera?"  And your answer was:  "People were jousting at the time to give their financial contributions.  I did not see that any of the Accused -- at the time there was jousting."  
+
+Now, you've told us today that you saw Mr. Nzirorera at that meeting.  Can you explain to us the difference between the testimony you gave two days ago and the testimony you're giving today?  
+A.	What I can say is that there is a difference between what somebody said and what somebody did.  If you ask me whether I saw Nzirorera there, I answered according to how I had understood your question.  He was there, but even if he was one of the senior leaders of the MRND, he did not address the meeting.  It was the people of Gisenyi who made speeches.  People were there providing financial contributions.  So, I have come here to explain what the Accused did.  Apart from the fact that he provided a financial contribution, he did not address the meeting.  
+
+The fundraising took place, and he contributed, so I don't see what you hold against me exactly.  I think that we have agreed on a number of facts, and that my testimony will be taken into account in order to reveal the truth.  Because some people might think that I am not telling the truth in this Trial Chamber.  I have no ambition to occupy the posts occupied previously by the Accused.  What is more, it is not in my interest to lie, because I have nothing to gain by telling lies.  I am testifying according to the events that I remember.  If I sometimes forget some facts and remember them the following day, well, then on that day I will discuss them.  Even my first statement I talked about the events of the month of May and June, and I forgot to mention his name.  Well, I talked about it in the second statement, so I cannot be blamed for that.  If I forget somebody's name the first time round but remember it subsequently, there's no problem, in my opinion.  
+
+So, I do not understand why you constantly throw the same question at me, unless you are denying, or refuting the fact that that fundraising activity ever occurred.  There were two meetings held in Gisenyi, and I know that the tribunal of first instance in Gisenyi has those cassettes.  The chairman of the MRND at a préfectoral level in Gisenyi was tried on that matter, and he lost.  I know that before this Trial Chamber, no one is going to throw me into prison, because I have no problems here in this Tribunal.  
+
+So, I am telling the truth, and I am seeking the truth.  If you need further information, I suggest you seek out the video cassettes.  I would like for those authorities to research the question, because I can see that our cross-examination and counsel leading the cross-examination is slowing proceedings down once again.  Because everyone knows that those events occurred.  
+(Pages 20 to 32 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1530H 
+BY MR. ROBINSON:
+Q.	And just so I understand you, when I asked you two days ago did you see any of the Accused there, Ngirumpatse, Karemera or Nzirorera, and when you answered, "No, I did not see any of them,"  you had forgotten that you had, in fact, seen Mr. Nzirorera; is that your testimony? 
+A.	As I said, you are asking me questions on the subject of my first statement.  I know what the contents of that first statement are.  And I didn't want to give you a response that was different than that contained in the first statement.  I could not reply to you because you had not shown to me my second statement.  Now that you have managed to find it, I think that we can discuss it.  But I don't think that it will be lengthy because, in my opinion -- or after me, there will be other witnesses.  I don't know whether I will be able to provide you with all of the answers that you want in an exhaustive manner. 
+Q.	I'm going to read to you what you said in your statement of the 6th of September 2005 about this meeting.  It is on page 5 in June 1994, during a meeting held in the MRND palace in Gisenyi:  
+
+"Financial contributions were initiated by leaders of the MRND.  It was requested to the population to contribute to the war effort, as the country did not have enough money.  I attended this meeting, and I even paid my contribution for the sum of 3,000 Rwandan francs.  I noticed at this meeting the presence of Mathieu Ngirumpatse, Bagosora, Banzi Wellars and other local military authorities."
+
+So, Witness XBM, you made no mention in your statement of 2005 of having seen Mr. Nzirorera at the meeting where fundraising was done.  Can you explain that?  
+A.	I would like us to understand each other.  When you are explaining something -- or when I am explaining something you cannot do it in an exhaustive manner; some points or items, you will forget.  So, I am going to answer the question that you have just put to me.  
+
+You said that I did not give the name of Nzirorera, but towards the end you said that I had mentioned the names of Bagosora, Ngirumpatse, Wellars and other authorities, and I did not say that Nzirorera was not one of those authorities that I mentioned.  
+Q.	Witness XBM, what I read to you said that, "I noticed at this meeting the presence of                    Mathieu Ngirumpatse, Bagosora, Banzi Wellars and other local military authorities."  Mr. Nzirorera was not a military authority, was he? 
+A.	Counsel, I would like you to read on because if you go to the end of the page you will realise that I never said that that person wasn't present.  If you find an excerpt in the statement where I said that Nzirorera was not there, well then I shall be convinced.  I think that you are trying to waste time. 
+MR. ROBINSON: 
+Mr. President, I see that we have gone past the time for our break.  Would you like to take the break now?  
+MR. PRESIDENT:
+How much more time do you have on this?  
+MR. ROBINSON: 
+On this particular point, zero.  As for my entire cross-examination, I think I will be finished around 5:30. 
+MR. PRESIDENT:
+Okay, we will take the adjourn -- the mid-afternoon break now. 
+(Court recessed from 1536H to 1605H)
+MR. PRESIDENT:  
+Mr. Robinson, I find it necessary to say that I think the progress is being too slow.  There has been a lot of repetition, we think.  And we have actually reviewed the statement.  And we don't think that what is necessary should take as long as you have projected.  I hope I have said enough. 
+MR. ROBINSON: 
+Okay.  I will do my best.
+
+Mr. President, also I would like to offer two exhibits which had been offered in English yesterday as     D. NZ171 and 172.  They are excerpts from the transcript from the Bagosora proceeding on the         ****************.  And I have the French versions, which I have given to the Prosecutor and the registrar.  So, I would ask that the French be D. NZ171A, for the French, pages 80 through 82, and D. NZ171B for the English.  And then D. NZ172A, for the French, page 16, and D. NZ172B for the English.  
+MR. PRESIDENT:
+Admitted. 
+(Exhibit No. D. NZ171A and D. NZ171B admitted) 
+(Exhibit No. D. NZ172A and D. NZ172B admitted) 
+BY MR. ROBINSON:
+Q.	Now, Witness XBM, you have told us about the times you saw Mr. Nzirorera in Gisenyi between the  6th of April and the time you went into exile.  Can you tell us if you saw him in any other préfecture during that period? 
+A.	Which period are you referring to, Counsel? 
+Q.	The period between 6 April 1994 and 13 July 1994. 
+A.	If you are referring to a rally or a political meeting, I never saw him during that period at any meeting.  But I saw him on a regular basis when he was passing by or when he was going to see his family. 
+Q.	But I was asking you whether or not during the period of the 6th of April 1994 through the                 13th of July 1994 you ever saw him in a préfecture other than Gisenyi? 
+MR. PRESIDENT:
+Mr. Robinson, does this arise from the new statement?  
+MR. ROBINSON: 
+Yes, it does, Mr. President.  You will find it in the first paragraph, at the top of the last -- of page 5. 
+MR. PRESIDENT:
+Witness, you may answer the question.  
+THE WITNESS:
+I do not quite understand the question that's been put to me.  I do not know whether you are talking about the fact that I just saw him passing by, or whether you are insinuating that a rally or political meeting occurred.
+BY MR. ROBINSON:
+Q.	Well, Witness, I'm not limiting my questions to rallies or to political meetings.  I'm asking you if you saw him at any time between the 6th of April 1994 and the 13th of July 1994 in any préfecture other than Gisenyi. 
+A.	No, I do not recall having seen him in another préfecture, apart from that of Gisenyi. 
+Q.	Can you tell us why then you told the investigators on the 6th of September 2005 that you had seen him in Byangabo in Ruhengeri préfecture, encircled by young people? 
+A.	I would like to say something because I think that you are more versed in the subject than I am.  I have always told you that sometimes when one gives information, a certain item might not come to memory, but when you do recollect it, then you can mention it.  Now with reference to that occasion when I saw him in Byangabo, I had gone to Ruhengeri, but I did not seek to find out what items were covered on that occasion.  
+
+Since 1993 when Nzirorera had set up Iyamuremye force, an organisation, it was an organisation that was involved in the Kubohoza practice throughout Rwanda.  So not everyone could follow the entirety of what was said within that organisation, and even more so myself because it was not my préfecture.  I was at that location, but I was passing by.  I was going -- I was travelling in a vehicle. 
+Q.	So, Witness XBM, what is the truth?  Did you see Mr. Nzirorera at Byangabo between the                  6th of April 1994 and the 19th of July 1994 as you said in your statements, or did you not see him, as you testified to under oath in this trial? 
+A.	I told you that I saw him on a number of different occasions.  I saw him when he was heading meetings, and I saw him also wandering about.  I am not God and I cannot explain to you everything that Nzirorera did or what his thought process was.  I think that the most important thing is not to ask me the question as to whether I saw him or not.  I think the important thing would be to ask me questions about what he said.  He said things that had serious consequences.  And I think that you are trying to avoid that point because it could be serious for your client. 
+Q.	Did you see Mr. Nzirorera in Byangabo between the 6th of April 1994 and the 19th of July 1994? 
+A.	I did not intend to give you precise dates.  I told you that I saw him on a number of occasions.  Byangabo was his native area.  If you ask me how many times I saw him, well, I didn't take any notes.  I just told you that I saw him on a number of occasions. 
+Q.	In your statement of the 6th of September 2005, after discussing the meeting at the Tam Tam bar on the 14th of April, you said, "After this, I saw Nzirorera once again at Byangabo from where he comes, encircled by young people."
+
+Now, was that a true statement?  
+A.	Counsel, are you referring to the post-2005 period or the pre-1994 period?  
+Q.	Witness XBM, I am referring to the period after the event which you claim occurred at the Tam Tam bar on the 14th of April 1994, and before you and Mr. Nzirorera went into exile, also in the year 1994.  And I'm just quoting what you said yourself and asking whether or not it is true. 
+A.	Yes, I did see him, but I can't give you a precise date.  I would see him on frequent occasions.  The occasion that you are talking about, the 14th of April, I told you that Nzirorera had said that he was going to Byangabo to meet the youth of that area.  So I do not understand what you are saying when you say that I saw him surrounded by a group of young people.  
+
+Before leaving, he said that he was going to Byangabo in order to meet the youth of that area. 
+Q.	And how long was it after the meeting of the 14th of April that you yourself observed Mr. Nzirorera in Byangabo? 
+A.	Counsel, it is difficult for me to remember, unless you were to give me a moment in order to refresh my memory; or maybe somebody else could refresh my memory for me?  If you are convinced and accept what I say happened at the Tam Tam hotel, then I am happy.  I think that the event that occurred at Byangabo, when you say that he was surrounded by a group of young people, I don't believe that that is the most important point.  To my mind, the most important point is the event that occurred before that. 
+Q.	Witness XBM, approximately how long after the event that you claim took place on the 14th of April at the Tam Tam bar did you observe Mr. Nzirorera at Byangabo?  How much time had elapsed between the time that you say you saw him at the bar, and the time that you say you saw him at Byangabo? 
+JUDGE SHORT:
+Mr. Robinson, he said this is difficult for him to remember. 
+MR. ROBINSON: 
+That is correct, so I'm asking him to give me an approximation.  He doesn't have to give me the day, it could be the month of April, month of June. 
+THE WITNESS:
+I think that you are asking me to provide you with an approximation, and I think that this will slow down proceedings somewhat.  I think the fact that I saw him in -- whether I saw him in Byangabo or not were not the most important point, i.e., what happened before Byangabo. 
+BY MR. ROBINSON:
+Q.	Well, Witness XBM, first of all, I put it to you that Mr. Nzirorera was not in Gisenyi on the 14th of April, was not at the Tam Tam bar.  And your testimony concerning that event is false.  
+Secondly, I put it to you that you never observed Mr. Nzirorera in Byangabo between April and         July 1994, and that even the members of the Interahamwe of Mukingo commune, who have been interviewed by the Prosecutor, didn't see Mr. Nzirorera in Byangabo during that period.  Would you like to comment on that? 
+MR. WEBSTER: 
+I'm sorry to interrupt, but as to the last portion of Mr. Robinson's question, I'm not convinced that that is entirely accurate.  So, I would ask him to reconsider, and reformulate that question.  I don't understand how he is in a position to know how many people the Prosecution has interviewed in regard to events to Ruhengeri to come up with the proposition that no one that the Prosecution has spoken to, among the Interahamwe, have seen Nzirorera during that period in Ruhengeri.  I can't confirm it definitively, but off of the top of my head, I don't think that is an accurate statement.  And I would appreciate it if he would rephrase the question. 
+MR. ROBINSON: 
+Yes, Mr. President, I can be more precise. 
+BY MR. ROBINSON:
+Q.	Witness XBM, I am putting to you, first of all, that Mr. Nzirorera was not in Gisenyi on the 14th of April.  He was not at the Tam Tam bar, as you have testified, and that leaders of the Interahamwe in Mukingo, some of whom who have testified before this Tribunal, such as Witness******************************* ****************, have testified that they did not see Mr. Nzirorera in Mukingo commune between the 6th of April 1994, and the swearing-in of the bourgmestre in late June 1994.  Would you like to comment on that? 
+MR. WEBSTER: 
+I'm sorry, but I'm going to keep jumping up anytime there is a misstatement of fact on the record, that is clearly not the case.  Mr. Robinson knows full well -- I'm not going to be more expansive than that.  But I will object to the formulation of that question.  And I will keep objecting until the point in which the question is posed in an appropriate manner. 
+MR. ROBINSON: 
+Very well, Mr. President.  I will keep trying to formulate a question that is acceptable to Mr. Webster. 
+MR. PRESIDENT:
+No, no, we don't -- this not a game.  You see, we are not in a position to verify the factual element of your question.  And I'm not certain exactly what Mr. Webster is saying.  We just don't have enough information to assess that.  But we have to rely on the professionalism of the counsel before us.  So, please try to get to this evidence as quick as possible. 
+MR. ROBINSON: 
+Thank you.  
+BY MR. ROBINSON:
+Q.	Witness XBM, I am putting it to you that Mr. Nzirorera was not in Gisenyi on the 14th of April 1994, and was not at the Tam Tam bar on that date, or any date, anywhere close to that date.  Do you have any comment on that? 
+A.	When I am talking to you as somebody who was there, present with him, and I know that Nzirorera could not divide himself in two.  He, one person, was present.  And when I saw him, I was not alone.  I do not intend to enter an -- into an argument with you.  I know it is very difficult to convince you.  I have told you that I have --  that I saw him.  So, do not try to make me believe that he was not present.  
+
+I see that you are still trying to find an escape route, and, of course, that is very understandable because you are defending Nzirorera's cause. 
+Q.	Witness XBM, you told us on Monday that you had heard an interview by Mr. Nzirorera on radio RTLM with a journalism by the name of Gahigi, approximately a week after President Habyarimana was killed, and that you had discussed the speech of Nzirorera on the radio with the Prosecution in your interview of 6th September 2005.  Do you remember giving that testimony? 
+A.	I think I said that to him, unless he did not take it down in writing, but today, I am ready to confirm that he gave that interview to the journalist, Gahigi. 
+Q.	I put it to you, Witness XBM, that no reference whatsoever to that interview in Radio RTLM is contained in your statement of the 6th of September 2005.  Do you have some explanation for that? 
+A.	I just told you that even if I mentioned the fact and the Prosecutor didn't take it down in writing, well, I am here now to confirm that fact.  And I am mentioning the fact today because I do not want you to say tomorrow that I never mentioned it. 
+Q.	In between the time that you testified that you had discussed this with the Prosecution on the             6th of September in your interview, and today have you had an opportunity to look at your interview statement to see that, in fact, no mention was recorded of your RTLM discussion? 
+A.	I think you are asking this question on purpose, Counsel.  I gave that statement, and I know that the Tribunal had that statement at its disposal.  You say that you lost it, but I did not have a copy of it.  And in any case, if you discover that that fact was not taken down in writing, well now is the opportunity for you to take note of what I am saying here today.  I think that you are trying everything you can in order to find an escape route.  And as I have already said, and other people have understood, the interview was not for my attention; the interview was for the entire nation.  So you should check the radio broadcasts because I know that those broadcasts have been archived somewhere.  That interview did, indeed, occur with the journalist Gahigi.  
+
+Maybe you want to ignore -- or you should ignore what the Witness XBM is saying for the time being, and seek out the interview, and you will find that the interview did, indeed, occur.  If you find the recording of the interview, then you will no longer need to refute what I am saying. 
+Q.	Well, Witness XBM, I am struck by the fact that two days ago you stated positively that you had discussed the RTLM interview with the Prosecutor on the 6th of September 2005.  And today when that subject was broached, the first thing you said was, "Well perhaps they did not write that down."  And that leads me to believe that in between the two days, you have had access to your statement, so that you could determine why -- or what is the content of that statement before giving this testimony; is that true? 
+A.	Now, with reference to what I said to the Prosecutor, and the fact that I have revisited the contents of my statement in 2005, and whether I had anything else to add, i.e., further allegations to levy against the Accused, things I had not mentioned in my first statement, I did, indeed, mention that I had some allegations to add, and that I was going to talk about it once I appeared before the Trial Chamber.  If you want to have all of the information about the events that occurred in Rwanda, I suggest that you only cover the relevant questions, and refrain from asking me whether I discussed such-and-such an issue with the Prosecutor, because I'm not your first nor your last witness.  I think, therefore, that that is what I said to the Prosecutor.  I remember that I appended my signature to the document, and I did not have the time to read through it because it was late, but I trusted the investigators. 
+Q.	Now, Witness XBM, I put it to you that Mr. Nzirorera had no such interview on RTLM, that, in fact, the Prosecution has had access to the archives of the RTLM, and had such an interview taken place, would have been under an obligation to disclose that and, indeed, would have been using it themselves in this trial if the content was as you have claimed.  Do you have any comments on that one? 
+MR. WEBSTER: 
+Your Honour, I have the same objection.  And I would think that the Court -- 
+MR. PRESIDENT:
+Yes, Mr. Robinson, he can't comment on what the Prosecutor -- on that.  The question is phrased in a manner that he can't comment on. 
+MR. ROBINSON: 
+Well, I'm attempting to put to him -- to put my case to him on this point. 
+MR. PRESIDENT:
+Yeah, but he can't comment on the Prosecution motives, or Prosecution technique or method of proof. 
+MR. ROBINSON:
+All right.
+MR. WEBSTER: 
+Not only that, Your Honour, excuse me for interrupting, but I would like to revisit this issue because the Prosecution is not playing games here and it raises an ethical question that this Court should address.  
+
+Mr. Robinson's last question, when we had an exchange before the Tribunal, was about his allegation -- his statement that he was putting it to the witness that Mr. Nzirorera was not in the Mukingo, or not -- between the 6th of April and sometime in June.  We have had testimony in this trial from BTH of evidence that Mr. Nzirorera was in Mukingo on the 22nd of April for the presentation of the préfet, the new préfet of Ruhengeri.  That's a fact that is already part of this record.  So for Mr. Robinson to suggest to this witness that we have had evidence in this trial that runs counter to his testimony is disingenuous and it is false.  
+
+And I have in my hands a document dated the 18th of June 2004, which is Joseph Nzirorera's notice of alibi.  And in his alibi notice, which is his case that he is putting forward, in paragraph 5 there is a statement that "On the 30th of April 1994, Mr. Nzirorera was in Mukingo commune."  Now, that is his case.  That is the Defence case in their notice of alibi that runs directly counter to the proposition that he was putting to the witness just ten minutes ago.  
+
+I see this as a serious matter, and this Court needs to make some pronouncement on what the Defence should put to witnesses in putting forward their Defence case.  It is not appropriate to make disingenuous statements to a witness, and then ask the witness to comment. 
+MR. ROBINSON: 
+Mr. President, there is nothing disingenuous about what I put to the witness.  Mr. Nzirorera was not in Byangabo centre surrounded by youth at any time.  And no member of the Interahamwe, or other witness, or -- that the Prosecution has interviewed, to my knowledge, and I could be wrong, has ever said that he was.  And, yes, he was in Mukingo commune at various times, but not in Byangabo centre, as this witness had claimed in his statement to OTP.  So I have not put anything to the witness that is not part of our case.  
+
+And I'm trying to -- this whole idea of putting my case to the witness is something that the Prosecution has insisted that I do.  And so, I think they have to live with the way I put my case to the witness.  If they don't like it, or they want to bring some evidence later on to refute it, they are free to do so.  But I don't think it is a well-taken objection to object to my question simply because the Prosecution doesn't agree with our case. 
+MR. PRESIDENT:
+We can't rule exactly.  I don't think that was the point he was making.  He was suggesting that you put a matter to the witness that was factually inconsistent with the case you were presenting.  I think that is the gravamen of the case he was making.  Now, you have explained that it was not factually inconsistent, so you can move on. 
+
+Mr. Robinson, apart from the question as to whether you were accurate or not, we are getting concerned about the technique of dealing with this issue, and the propriety of trying to get a witness to comment on testimony of other witnesses is beginning to be a matter of concern to us.  Now you see, problems are arising now on the issue of the precision of your précis or paraphrase, you have thought it was accurate.  And the Prosecutor has criticised it as being inaccurate.  It is a little bit embarrassing for us at this stage to adjudicate on that issue.  And it is a danger which is going to recur.  And we would like to minimise that.  
+
+We are --  we are -- we recall -- I recall the issue of your putting your case to the -- how it arose.  But maybe we may have to give some further direction on that. But at the moment you might be going a    bit -- carrying it a little bit too far.  We don't think it is appropriately necessary to get the witness to comment on the testimony of other witnesses.  And that might be one way of avoiding this kind of impasse from redeveloping. 
+MR. ROBINSON: 
+Thank you. 
+MR. WEBSTER: 
+I'm sorry, I don't mean to beat a dead horse, but actually my concerns actually go beyond that because this is not something that the Prosecution requests.  It is part of the Rules of Procedure.  It is in the rules that the Defence should put their case to the witness.  But that is not what I am disputing,        Your Honour.  
+
+My understanding of what Mr. Robinson said a few minutes ago is not only asking this witness to comment on another witness's testimony, another witness's affirmative testimony, he has asked this witness to comment on the fact that another witness didn't say the same thing.  So, he is asking this witness to comment on what he perceives as an omission in another witness's testimony, which goes even further and it makes the issue -- it compounds this very issue.  
+
+So I think it would be appropriate for the Chamber to give this whole matter some thought, and issue some very specific instructions to the parties.  But I'm sorry to belabour the point, but I think it is a very serious point.  
+MR. ROBINSON: 
+Well, Mr. President, I acknowledge that I am not used to having to put my case to a witness.  I don't do that in my own jurisdiction; I don't really know how to do that.  So I'm trying to learn how to do that in the course of these proceedings.  I have had comments from Mr. Morley, from Mr. Webster, and from the Bench.  And I'm trying to be in a position that when we put on our Defence nobody can claim that we have not put our case to the witness, such that the credibility of our own Defence is being diminished.  So, I'm, if anything, erring on the side of putting my case about every point at every opportunity so I don't come back and have the Trial Chamber make some finding that I didn't give a witness an opportunity to explain.  But I will try to improve my technique.  In doing that, I think I understand what you said.  And I will try to put my case in a less controversial -- with less reference to other witnesses. 
+BY MR. ROBINSON:
+Q.	Witness XBM, I want to now turn to the meeting at Umuganda stadium that we've talked about before because you said some things about that in your statement of the 6th of September 2005.  First of all, I would note that, as you did in your statement of February 2003 and your testimony of *****2003, you placed the date of this meeting as the 27th of October 1993.  Were you wrong about that when you gave that statement on the 6th of September 2005? 
+A.	I have already explained, but there would have been a problem if I had mentioned another date, in which case you could have argued that I contradicted myself.  And there we would have a problem.  But what I can say regarding that meeting has already been said.  I have already provided the explanations to you.  I am sure you already said that you had gone to Gisenyi to ask for a video cassette on that meeting, and that you were not given that cassette.  Well, maybe you should continue looking for that video recording.  And when you find it, the content will reveal to you that what I am saying is true.  
+
+Now, if you continue to put the same questions to me over and over again, we will not be making much progress. 
+Q.	Well, Witness, why was it that you yourself were inconsistent when you testified here at this trial that the meeting took place sometime in November -- or in October or November 1993 when on every previous occasion in which you had talked about this meeting, you had indicated it took place on the              27th of October 1993?  What happened between the time you gave this statement in 1995, and the time you came to court in --  excuse me, in 2005 and the time you came to court in 2006 that made you change your testimony about the date of this meeting? 
+A.	I did not change anything.  One can provide a date and one can also provide an approximate date, or an approximation, or one can give a date that slightly departs from the date previously mentioned.  So, I don't see what the problem is here.
+
+I do not see why you are blaming me for not being able to remember the specific date.  Whatever the case may be, that date is not very important.  It is not because of that date that the accused persons are here before the Court, before the Tribunal.  It is not because of that date that they were arrested by the Tribunal.  They were arrested on the grounds of statements that they had made themselves.  
+
+I still remember that I mentioned that date, and I know that even in 2005 I again referred to that date.  But that was an approximation.  So, I do not know whether the interpretation was in order.  But I remember that I also said that I felt that it was either in October or in November.  I do remember having said that the event occurred in October or November.  So, I do not know whether we really need to dwell on this, Mr. Robinson.  
+Q.	Witness XBM, you have testified about this meeting in this trial and told us who the speakers were, one by one, from the préfet -- excuse me, from the bourgmestre of Rubavu commune all the way through the closing speech of Mr. Ngirumpatse.  And you gave that same information in your statement of February 2003, listing all of the speakers.  And you gave that same information when you testified in ******of 2003 at the trial of Bagosora.  Yet when you were questioned about Mr. Nzirorera on the         6th of September 2005, you included him as one of the persons who had made a speech at that meeting.  Can you tell us why you did that? 
+A.	I believe that the more important issue, or the more significant issue would be that he is being made to have delivered a speech which he did not deliver.  That would, indeed, be a problem.  But when questions are put to you, you may be able to remember some facts and forget some.  One is not God to be able to know everything at the same time.  By the way, there is no interest for one to remember every single detail.  I told you the circumstances under which I was being interviewed by the investigators.  And when the investigators interviewed me, they actually told me not to focus on the speeches delivered by civilian authorities.  They, rather, invited me to focus more on the speeches delivered by military officers.  That is why I did not provide any further information and explanation with respect of the statements made by Nzirorera.
+
+Now, the July statement, which was rather in another case, that is, Military I, my testimony in that case -- well, let me tell you that emphasis was placed on the facts of the case as they related to the Accused.  The Prosecutor and the Defence counsel did not focus at that time on the Accused in this case.  If that had been the case, I would not have been required to come before this Trial Chamber to testify.  
+
+Therefore, let me repeat, the investigators put questions to me depending on the accused persons whom they were dealing with at the time.  And my answers were also provided accordingly.  So you cannot blame me for not having talked of -- or having talked about certain facts, whereas those questions were never put to me by the investigators.  
+Q.	Well, let's revisit what you said at the trial of Colonel Bagosora on the ****************2003 about this meeting.  And I'm reading from page 17.  You were asked by the Prosecutor, "Did anyone speak at this meeting?"  That is at line 30.  
+
+And you said; "Yes, many people spoke during that meeting."  
+
+Then he asked you, "Who was the first person to speak?"  
+
+And you said, "The bourgmestre of Rubavu commune."  
+
+And then you were asked what he said.  And then you answered.  
+
+And then you said that, "The préfet introduced the visitors."  
+
+And then were you asked, "Who spoke next?"
+
+And you said, "Wellars Banzi."   And you told us what he said.  
+
+And then you were asked, this is on line 26 of page 18, "Did anyone speak after him?"  
+
+And you said, "Yes, Augustin Ngirabatware," N-G-I-R-A-B-A-T-W-A-R-E.  And you said what he said.  
+
+And the next question on line 35, "And after his speech, did anyone else speak?"  
+
+And you said, "Yes, Mr. Karemera."  And you testified to what he said.  
+
+And then the question on page 19, line 20, "And did anyone else speak after Karemera?" 
+
+And you said, "Yes, Mr. Bagosora."  And you said what he said.
+
+And then after Bagosora -- you were asked on page 20, line 14, "After Bagosora finished speaking, did anyone else speak?"  
+
+And you said, "Yes, Mr. Mathieu Ngirumpatse."  And then you said what he said.  
+
+And then you were asked on line 25, "Was Ngirumpatse the last speaker at this meeting?" 
+
+And you said, "Yes." 
+
+And is it your explanation for all of this, Witness XBM, that the reason you didn't mention Mr. Nzirorera having given a speech was because you were not asked?  
+A.	If you look at the document you have just read carefully, you will see that it mentions various speakers having spoken.  You have just read some five to six sentences from that document.  Those people spoke on a vast number of issues.  I, therefore, could not provide details as to what each of the speakers said.  So, if you were to mention all of the details of their speeches, you would need to have an mémoire or a jotter to be able to remember all of the details of their speeches.  
+
+In *****2003, I was mindful of the case in which I was appearing.  And I, therefore, focused my attention on Bagosora and Anatole because I did not want to waste time -- to waste my time.  So you cannot go on to mention somebody's name who is not involved in the case before you.  It is true that I was asked about the sequence in which the speakers took the floor.  But I was also mindful of the fact that I was appearing in the military trial.  
+
+If one were asked to provide all of the details relating to the speeches that were delivered at that time, one might need to spend a whole year to provide all of those details, that is, with respect to the content of the speeches that were delivered. 
+(Pages 33 to 45 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1705H
+BY MR. ROBINSON:
+Q.	And, Witness XBM, since you are focusing on the Military trial and those who were present, why didn't you testify at the Military trial that Anatole Nsengiyumva was present at that meeting?
+A.	Counsel, what are you referring to?  What place are you referring to?  
+Q.	I'm referring to the fact that when you listed the persons who were present at the meeting, Umuganda stadium, you never made any mention either in your statement in February 2003 or your testimony at Colonel Nsengiyumva's trial that he was among those present.  
+A.	Counsel, I think we are not dealing with Anatole's case here.  It is very difficult to delve into details whereas no questions were put to me in that connection.  
+Q.	Witness XBM, you have told us that you joined the CDR in 1992; is that correct?
+A.	I believe that I discussed this with the Defence counsel for Mr. Ngirumpatse, and I provided sufficient information to him.  And I also remember that I talked about it to you. 
+Q.	Yes, I remember that also, and it's my recollection that you testified that you joined the CDR party in 1992.  But in looking at your statement of September 6th, 2005, on the first page, it's listed there that you were a member of the MDR party from 1992 through 1993, and a member of the CDR party from 1993 to 1994; is that what you told the investigator on the 6th of September 2005?
+A.	I believe that the answer I provided is clear enough.  If I made a mistake which was written down, that should not be reason enough to warrant that we belabour this point.  If that is what I said, it was a mistake.  
+
+By the way, you seem to be prying into my personal life.  If I made a mistake about my personal, private life, you shouldn't avail yourself of it.  It doesn't mean that all that I am saying doesn't hold together. 
+Q.	Witness XBM, I want to ask you about one more thing that you said during the statement of 6 September 2005.  It is at the top of page 4.  And you said that, during the events of 1994, "I was in my cellule.  I did not take part in the events directly.  However, I have been in prison because I was reluctant to testify.  I was held at Gisenyi prison from ******************************2003.  I was freed because I have finally accepted to testify on incidents I witnessed."  Is that statement true?
+A.	Yes, it is true.  
+Q.	So your freedom is a result of your willingness to testify against others; is that correct?
+A.	If you look at my case file, you will see that I did not testify against some of the Accused here.  I did not say that he was a mere civilian, that person.  
+MR. ROBINSON:
+Mr. President, at this time I have no further questions.  However, I would like the opportunity to review the Rule 68 material which the Prosecutor indicates that he's provided to me.  I haven't had access to my e-mail to check that, but assuming I received that I'll review that overnight, and I can let you know in the morning if I have any further questions based on that.
+MR. PRESIDENT:
+Thank you.
+MR. WEBSTER:
+I'm sorry, I didn't understand the last response from the witness.  Would you mind either asking him the question again, or if we could get some repetition from the interpreter's booth, because I couldn't understand what was said.  
+MR. PRESIDENT:
+Mr. Witness, could you recall the last question that you were asked? 
+THE WITNESS:
+Yes, I do remember the question that was just put to me, Mr. President.  I was asked -- I was asked whether I had been released because I had accepted to testify against other people.  I said that I was released because I had told the truth, that I had recounted the events to which I was an eye witness.  And I specified that I had not mentioned the names of the Accused here present.  And I invited him to consult my case file.  And I said to him that he would see nowhere mentioned that I said that Nzirorera had looted cattle.  So what I said has nothing to do with these high-ranking officials who are accused in this case.  That is the answer that I gave to Counsel Robinson.  
+MR. PRESIDENT:
+Thank you.  
+
+Ms. Hounkpatin, do you have any questions that you would like to put to the witness arising out of the new material that was disclosed?  
+MS. HOUNKPATIN:
+Yes, Mr. President, but it won't be at all lengthy, in the sense that my learned friend, Counsel Robinson, has conducted a rather exhaustive cross-examination on the subject of this document.  I have one area that I would like to cover with the witness, and that will include two small questions.  
+MR. PRESIDENT:
+You may proceed.
+MS. HOUNKPATIN:
+Thank you, Mr. President. 
+CROSS-EXAMINATION
+BY MS. HOUNKPATIN:
+Q.	Good afternoon, Witness.
+A.	Good afternoon, Counsel.  
+Q.	I'd like to come back to the subject of the meeting that you said took place in the month of either May or June 1994 at the MRND palace.  In your statement of the 3rd of July, my learned friend Counsel Robinson asked you the following question:  "On the occasion of the meeting that occurred either in May or June 1994, during which financial contributions were initiated, were the Accused present?"  I'm referring to Ngirumpatse, Karemera, or Nzirorera.  And your response was:  "At the time, people were jousting each other, trying to give their contribution.  I did not see any of the three Accused on location at that time.  There was a lot of jostling, or jousting going on."  That was your response of the 3rd of July.  
+
+My question is as follows:  Do you confirm that there was indeed a lot of jostling going on when that contribution occurred in the month of May or June?  Do you confirm that there was a lot of movement in the crowd?
+A.	Yes, I do confirm that fact because, as you see, 7 million Rwandan francs were in fact raised.  So that is not a small sum, and it is not a sum that can be raised by a handful of people. 
+Q.	Do you also confirm that since there was a lot of movement in the crowd, that it was impossible for you to distinguish who was there?
+A.	I do confirm that there were a lot of people there.  There was movement or jostling in the crowd.  I think that the problem resides in that you're asking me whether I saw those people or not.  Maybe you will provide me with a helping hand here.  In the month of June, when we were raising funds, I told you that I covered that subject in my statement of the year 2003, but when the investigators came to interview me, I presumed that they had consulted other people in order to get my address.  And when they arrived they asked me that question, and it came to my mind that I had seen those three people.  But those three people did not say anything, they did not use inflammatory language such as they had during political rallies previously, so they did not use inflammatory language as before. 
+THE ENGLISH INTERPRETER:
+Repeats the witness.  
+THE WITNESS:
+I think that that is where the problem lies.  
+
+What is more, when I was answering the question put to me by counsel who addressed the Court before you, he was not clear.  I think that earlier on you must have been listening to the questions that he was asking me, and it wasn't clear.  So in response to those questions, I had to refer to another statement, i.e. the one that you are referring to right now, and that is why I provided a response that was not a clear one, because I thought that I would be clearer when we moved on to the statement that you are now referring to.  
+BY MS. HOUNKPATIN:
+Q.	Witness, I presume that your reply of the 3rd of July was a very clear one.  You said, clearly, that there was jostling in the crowd, that there was a large crowd of people who were willing and wanting to contribute financially, and that, as a result of that jostling in the crowd, you were not able to recognise anybody.  That was a very clear answer on your part, and you confirmed that in the answer that you just gave me.  And I thank you for it, Witness.  
+MR. PRESIDENT:
+Thank you, Ms. Hounkpatin.  
+
+Ms. Diagne, do you have any questions that you wish to put as a result to the material which has just been recently disclosed?  
+MS. DIAGNE:  
+As I said, Mr. President, I shall not be cross-examining the witness because I believe that the conditions in which the document was disclosed to me does not allow me to decide on the contents of my questions.  So I will not be cross-examining this witness.  Thank you.  
+MR. PRESIDENT:
+Thank you very much.  
+
+Mr. Lahaie, any re-examination?  
+MR. LAHAIE:
+I am somewhat in a difficult position because our learned friend, Mr. Robinson, has informed us that tomorrow morning only will he inform us that he has other questions to put to the witness following the disclosures.  So I think we should wait for tomorrow morning in order to take that decision.  However, if I do have a re-examination to conduct, I'm sure that it won't be a lengthy one.  I can guarantee you that.  But as my learned friend said, that we were not entirely true in what we said earlier, I don't know whether you will have a response to that request tomorrow morning.  
+MR. WEYL:
+Mr. President, with your leave, we have had the joy of sharing the privilege with the Prosecutor of having an internet link by Defence team.  I am making the most of it as we speak, and it gives me the privilege to inform you, as I can inform my lead counsel at this very moment, of the disclosure that I received at 4:16 p.m.  So this is a Rule 68 material disclosure.  I have not yet been able to tell Madam Hounkpatin about it, but I think that when Mr. Lahaie says that we are causing grief to the Prosecutor, we would like to thank him for having disclosed -- because, of course, the cavalry also -- always arrives on time.  And I would like to say that now we have the disclosure, that we will be able to put to the best of use, but only if we have the time to read it.  And I share Counsel Robinson's comment that you should leave us the time to work on it.  I think there might be another disclosure, but I have not yet had time to consult it.  I am receiving my e-mails in reverse chronological order and the connection is a very slow one.  I think that Counsel Robinson will be able to make the most of this new disclosure in order to put new questions to the witness tomorrow morning.  
+MR. PRESIDENT:
+Mr. Witness, I am mindful that yesterday I suggested to you that your testimony would have ended today.  Unfortunately that is not the case.  You are going to have to return tomorrow morning.  Hopefully it will not be long before your testimony is ended, but I think it is most likely that tomorrow we'll see the end of your evidence in this trial.  
+MR. LAHAIE:
+I'm sorry to interrupt, Mr. President.  I do not know whether I've lost trace of the exhibits, but has Counsel Robinson produced the statement of the 6th of September 2006, or is he intending to do so?  
+MR. ROBINSON:
+I have not and I do not intend to.  
+MR. WEBSTER:
+That seems a bit inconsistent to me, Your Honour.  Every statement that has formed the basis for cross-examination up to this point in the trial has become an exhibit in this trial.  This witness was extensively cross-examined on that statement; we spent the whole of today on that statement alone.  And I believe this Court has reasoned in the past that it wanted to see -- when I objected initially, at the initial stages of this trial for submitting statements in evidence once the witness's commented on them, my recollection is the Trial Chamber reasoned that the document should be exhibited because the Trial Chamber itself wanted to compare the document with the testimony to assess, on its own, the degree of inconsistency.  And I would think that we should apply the same method of reasoning with the present exhibit.  
+
+So my suggestion to the Trial Chamber is that it's inconsistent and inappropriate not to exhibit this statement, of all statements, given the history of these proceedings over the last six months.  
+JUDGE SHORT:
+Mr. Robinson -- 
+MR. ROBINSON:
+Yes. 
+JUDGE SHORT:
+-- you told me you were going to put this into evidence. 
+MR. ROBINSON:
+I intended to, and what changed was that -- two things:  First of all, when I received -- I basically had a limited amounts of time to conduct my examination on this statement, and so I was selective in the content in which I chose to put before the Trial Chamber.  And I did that specifically not to open up certain areas which had not been covered in direct examination, and not been covered by the pre-trial brief, just as you advised me to do when we were discussing that -- or, you advised me of the dangers of opening up areas that had not been covered.  So I was selective in my use of that statement for that very reason and because I knew that I was limited in time.  And if I had, for example, gone into the substance of Mr. Nzirorera's remarks at either of these meetings that the witness has claimed, we could have spent another day.  So as a result of that I chose not to introduce the exhibit.  
+
+If the Trial Chamber wants to receive the exhibit for the limited purpose of evaluating the inconsistencies that were put to the witness, I have no objection to that, but I don't believe that under the circumstances under which this statement was disclosed to me, and the time limits that I was working under, that it would be fair to admit the exhibit for any other purpose.  
+MR. PRESIDENT:
+Mr. Robinson, we feel that the -- our evaluation of your cross-examination on this document could not be properly undertaken unless it is exhibited.  Now, we don't want to order you to put it in, but if you don't we will put it in proprio motu.  
+MR. ROBINSON:
+No, I don't have any problem having that -- being considered for that purpose.  But I think -- I want to make -- have a clear understanding that the document is admitted for the purpose of evaluating the inconsistencies.  If it's admitted for material which is contained in the document but which were not part of the subject of my cross-examination, then that would be on a different footing and I would have to -- 
+MR. PRESIDENT:
+What the document -- the document is not evidence.  The witness's answers are evidence.  But we need to be able to review the document to assess the witness's answers. 
+MR. ROBINSON:
+Yes, I have no problem with that. 
+MR. PRESIDENT:
+Now, there's another rule in cross-examination, is that if you open up the document in cross-examination it gives certain privileges to the Prosecutor in his re-examination. 
+MR. ROBINSON:
+That's correct. 
+MR. PRESIDENT:
+Okay. 
+MR. ROBINSON:
+And we can cross that bridge as to what was opened and what wasn't, if necessary, tomorrow. 
+MR. PRESIDENT:
+(Inaudible) 
+MR. ROBINSON:
+So I will offer the statement of 6 September 2005 as exhibit D. NZ174 -- it should be under seal because it contains the identity of the witness -- for the purpose of having the Trial Chamber evaluate the inconsistencies.  Thank you.
+MR. PRESIDENT:
+Admitted under seal.
+(Exhibit No. D. NZ174 admitted, under seal)
+MR. WEBSTER:
+Then we would like to provide a copy of the document tomorrow with ERN numbers on it to maintain -- you know, for purposes of maintaining the authenticity.  So --  
+MR. PRESIDENT:
+We'll do that tomorrow morning.
+MR. WEBSTER:
+Yes.  
+MR. PRESIDENT:
+Yes, Mr. Weyl.  
+
+Mr. Weyl, do you want to be recognised?  
+MR. WEYL:
+Yes, Mr. President.  I did have a question on the fact that something could be introduced -- or, could be introduced into evidence, a document that was disclosed after the examination-in-chief, after the cross-examination and that includes details that we did not manage to examine.  So a document that can have consequences on the entirety of a client's defence.  I believe that this practice is current in the Tribunal --  
+MR. PRESIDENT:
+You've lost me.  What are you referring to?  
+MR. WEYL:
+Mr. President, I'm talking about the -- the acceptance into evidence of the statement of the 6th of September 2005.  And the Trial Chamber knows that that statement was disclosed to us after the end of the -- our own cross-examination, in conditions that are unusual and contrary to all principles of spontaneous and -- disclosure of evidence.  If it was accepted into evidence solely on the items that were argued in re-direct, then we would not be against it, but if it is accepted into evidence in its totality, and under terms that would enable the Prosecutor to discuss or cover elements or facts that we were not able to cover in our cross-examination, then I think it would be against the interests of the Defence.  
+
+And I would come back to a practice that is widespread in your Tribunal, notably, that the statement should be admitted into evidence, but redacted of all the details that were disclosed at a late date by the Prosecutor.  And I think that any other solution would be against the interests of the Defence.  I think that the Trial Chamber should be particularly vigilant on this matter and that they should not admit into evidence a document that has been disclosed in the circumstances in which it was disclosed, in the fact that it is a precedent and an extremely worrying way in which evidence can be admitted into.  
+MR. PRESIDENT:
+Mr. Weyl, we think we should take the adjournment now.  If you wish to renew your application tomorrow morning, you can do that.
+MR. WEBSTER:
+May I suggest that in terms of Mr. Weyl renewing his application that that take place after the re-direct when we can (Microphones overlapping) 
+MR. PRESIDENT:
+Yes, yes.  But we want to take the adjournment now.  
+
+Mr. Witness, we take the adjournment now.  Now, you were trying to attract my attention earlier.  Was there a problem that you had?  
+THE WITNESS:
+Thank you, Mr. President.  With reference to the schedule for tomorrow, I will comply with your instructions, but you will remember that I did submit my problems to you.  I am a parent and, as such, as every parent, I am not at all happy with the idea of spending months here without knowing how my family is.  I need to earn a living for my family, and I think that I am not the cause of the lengthy proceedings and the delay.  From what I've seen in this Trial Chamber -- 
+MR. PRESIDENT:
+Mr. Witness, we think this matter will be resolved tomorrow.  So we'll take the adjournment now.  And I think that your testimony will come to an end tomorrow morning.  We have understood the concerns you have expressed to us.  
+
+We take the adjournment now. 
+(Court adjourned at 1734H)
+(Pages 46 to 53 by Roxane Meena)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Ann Burum, Roxane Meena, Kirstin McLean and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Ann Burum
+
+
+___________________________	Roxane Meena
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	Donna M. Lewis
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL 	WEDNESDAY, 5 JULY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	WEDNESDAY, 5 JULY 2006
+
+ANN BURUM - ICTR - TRIAL CHAMBER III - page 15
+
+	KAREMERA ET AL	WEDNESDAY, 5 JULY 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 19
+
+	KAREMERA ET AL	WEDNESDAY, 5 JULY 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 32
+
+	KAREMERA ET AL	WEDNESDAY, 5 JULY 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 45
+
+	KAREMERA ET AL	WEDNESDAY, 5 JULY 2006
+
+ROXANE MEENA - ICTR - TRIAL CHAMBER III - page 53
+
+	KAREMERA ET AL		WEDNESDAY, 5 JULY 2006
+
+ICTR - TRIAL CHAMBER III
+

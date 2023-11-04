@@ -1,0 +1,919 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO. : ICTR-98-44(C)-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+
+
+THURSDAY, 19 JANUARY 2006
+0920H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Ms. Dior Fall
+	Mr. Adama Niane
+
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporters:
+	Ms. Gifty C. Harding
+	Ms. Wendy Molnar 
+	Ms. Karen Holm
+	Ms. Donna Lewis
+	
+	
+	
+
+I N D E X
+
+WITNESS
+For the Defence:
+WITNESS 7/3
+Examination-in-chief by Mr. Hooper (commenced in closed session)	 5
+Cross-examination by Ms. Cummings-John 	 16
+Re-examination by Mr. Hooper	35
+
+WITNESS 4/16
+Examination-in-chief by Mr. Hooper 	 48
+
+
+EXHIBITS AND EXTRACTS
+
+Exhibit No. D. 199	41
+Exhibit No. P.  86	41
+Exhibit No. P. 87	41
+Exhibit No. P. 88	41
+Exhibit No. P. 89	41
+Exhibit No. P. 90	41
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Good morning, everybody.  
+
+Mr. Registrar, can you open the proceedings, please.  
+MR. FRY:
+Yes, Your Honour. 
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of 
+Judge Byron, presiding, Judge Hökborg, and Judge Kam, is now sitting in open session, today, Thursday, the 19th of January 2006, for the continuation of trial in the matter of the 
+Prosecutor vs. Rwamakuba, Case No. ICTR-98-44(C)-T. 
+
+Thank you. 
+MR. PRESIDENT:
+Thank you, Mr. Registrar.  
+
+The appearances are the same on both sides.  
+
+Yes, Mr. Hooper.  
+MR. HOOPER: 
+Yes, can the witness be brought in?  I'm afraid we haven't brought him back, have we?  He's in (unintelligible) this morning.  Can he be brought into court, please.  
+MR. PRESIDENT:
+We asked the registry just to delay that just so that we could have -- review the position with the witnesses with you.  
+
+We have some information here which suggests that the witnesses in respect of whom subpoenas have been issued have still refused to attend, and the registry is about to implement the second phase by contacting the Rwandan authorities.  We are wondering whether the Court could, proprio moto, request the registry to determine whether the said witnesses will accept to testify by video link.  Would there be any objection from either party in relation to that?  
+MR. HOOPER: 
+Not from us -- 
+MR. PRESIDENT:
+Madam Prosecutor?  
+
+MR. HOOPER: 
+-- the Defence, that is.  
+MR. PRESIDENT:
+In general, Madam Prosecutor, there are two other applications -- four other applications for Defence subpoenas to be issued.  Does the Prosecutor have any objection, in principle, to these witnesses testifying by video link as an alternative to invoking the state cooperation of the Rwandan authority to compel their attendance here?  
+MS. FALL: 
+Mr. President, since these are witnesses that appear on the list of witnesses, we do not have any objection in principle.  
+MR. PRESIDENT:
+Thank you.  
+
+There was one other matter which was of concern to us.  We have received information concerning the way in which the registry is bringing witnesses to Arusha, and we thought it was -- it would be useful for you to confer with the Prosecutor on the -- at the times at which the new witnesses will testify to avoid delay in court on these issues.  We have seen what is deprivated as proposed, and we think it would be reasonable for consultation between you and the Prosecutor on the times at which these witnesses will be called.  
+MR. HOOPER: 
+Yes.  
+MR. PRESIDENT:
+We want to emphasise again our view that there has been adequate time for the completion of the Defence case by the 10th of February, and we intend to expect the closure by that date.  
+MR. HOOPER: 
+If I can just revert for a moment to the subpoena video link position, just so that our position is plain.  It's our submission that the subpoena should remain the principal means of obtaining the witnesses, with the video link as a secondary support to that, rather than a principal alternative, if I can put it like that.  Because of the time restraints we don't want to find ourselves in the position where on the day of the video link the witness just turns around, declines to appear on the video at a time when we might be very close to the end of this case and its evidence.  And so for that reason, it's our view that the subpoena should -- that the video link option subsists as a secondary option to, but a complete option to travel to Arusha.  
+MR. PRESIDENT:
+Thank you, that is noted.  
+MR. HOOPER: 
+Can I just add one other thing?  The witness in Rwanda, who's already demonstrated a willingness or an intention to appear by video link, it's our submission that it would be a -- an encouragement perhaps to others, and a good test in a way, to have that video link as soon as possible.  And we've proposed by early next week, or as early as possible next week, that that video link evidence be taken, Tuesday or Wednesday, perhaps.  And an order for this Court in respect of the day on which that witness is expected to give that testimony by video link may exist.  This may put a degree of pressure on the technology side of matters, but if it's been done, then I hope that we can all share the view that an early successful video transmission in that way will assist in our objective of getting as many witnesses as possible to testify by the 7th of next month.  
+MR. PRESIDENT:
+Thank you, for that.  I can let you know that the relevant authorities are working in that direction and they are, in fact, going to be providing the Court with information as to whether it is technically feasible to make an order for the video link to take place next week Wednesday. 
+
+It is our view, however, that it might be appropriate as an efficiency and cost effective process, in view of the estimated -- estimated time that this witness is proposed to testify, if other video linked testimony could have been taken at the same time on the same day.  So it is with that in mind that we wanted -- or that we have decided, proprio moto, that -- to request the registry -- and, Mr. Fry, could I make this as an order, that the Chamber is requesting the registry to determine whether Witnesses 4/4, 5/7 and 5/16 will accept to testify by video link and to report back to the Chamber as soon as possible.  
+
+This is not replacing the existence of the subpoena order, but an additional step that we are requesting the registry to take.  
+MR. FRY:
+Yes, Your Honour.  
+MR. HOOPER:
+In respect of that, can I just refer to the particular position of Witnesses 5/7, 5/15 and 5/16.  Pseudonyms for me I know don't spring to mind very easily, but they are all women and all of a category.  And, in their case, it would be difficult for any two to give evidence the same day because of their situation.  That's the only matter there, but the others can.  So any one of those, paired with any of the other remaining witnesses.  
+
+And Witness 9.21 is not based -- is based in Kigali, so she is -- that witness is not a problem in terms of being in conjunction with the others.  
+MR. PRESIDENT:
+Thank you very much.  This information will be relayed to the relevant authority.  
+MR. HOOPER: 
+Thank you.  
+MR. PRESIDENT:
+Thank you very much for that information and we can now proceed to hear the witness scheduled for today.  
+
+Who is the first witness that's being called, is it witness -- 
+MR. HOOPER: 
+It's witness -- 
+THE ENGLISH INTERPRETER:
+Microphone, please, Counsel.  
+MR. HOOPER: 
+-- Witness 7/3.  
+MR. PRESIDENT:
+Thank you.  
+MR. HOOPER: 
+I expect to conclude or have concluded both -- both these witnesses today.  I have no other witnesses today 
+MR. PRESIDENT:
+That should not be a reason for prolonging their testimony.  
+MR. HOOPER: 
+No, certainly not.  
+
+With this witness I'd ask that we go into closed session straightaway in what I hope would be one period of closed session testimony not lasting more than 20 minutes to half an hour.  
+MR. PRESIDENT:
+Yes, for the benefit of the waiting public, the Chamber will go into closed session for a short period of time to protect the identity of the witness who is about to give testimony.  
+(At this point in the proceeding, a portion of the transcript [pages 5 to 9] was extracted and sealed under separate cover as the session was heard in camera)
+(Pages 1 to 4 by Gifty C. Harding)  
+
+
+
+
+
+
+
+
+
+BY MR. HOOPER: 
+Q.	So, Mr. Witness, we won't refer to you in any way by name, and if you find yourself about to say something which you think may compromise you and your identity, and you don't want to be compromised, let us know.  And if you do say something by mistake, we have means of taking it out of the record retrospectively.  So, I hope that's some confidence for you.  
+
+Now, in closed session we spoke about who you were and where you lived.  We know you are from Gikomero commune and that you've witnessed events there relating the genocide.  And you've also told us that in particular Gacaca hearings you've never heard the name André Rwamakuba and, in particular -- in the particular circumstances in which you were in Gacaca took place.  
+
+And now, let me go to the events of 1994, and let me ask you this: In all you saw or experienced, or anything that you've heard since 1994, that is from your first-hand knowledge and from all you've heard since, do you know if André Rwamakuba played any part in the events in your commune in April 1994 or anything to do with the genocide in that commune? 
+A.	From information that I have gathered so far during the Gacaca sessions ***********************, up until today, I've heard nobody accuse Rwamakuba of anything whatsoever.  Even during the killings that took place at Kayanga, Rwamakuba was not involved.  We know the criminals; I was with them.  I myself was with them.  I therefore give testimony -- and I know that this is the truth -- to the fact that the criminal acts that were perpetrated, in particular, at the Kayanga health centre and in the secteur in general, I certify therefore that Rwamakuba never played a role in the events. 
+Q.	Now, we know the fateful date of the 6th of April when Habyarimana was killed, and I want you, just briefly, to take us through the subsequent days leading up to the time when you left the commune.  
+
+So we know the 6th of April, which was a Wednesday, and we start from there.  As far as you are concerned, where were you in the days after that?  Were you in your secteur or were you moving about in the commune?  Can you help me as to that. 
+A.	As instructed by Rwandan authorities, each citizen had to stay at home, but since we had to ensure security in our commune, there were roadblocks erected almost everywhere and in Kayanga as well, and that is why I was at the roadblock that was erected here and there in the secteur.  So in the days that followed -- that followed the death of the president, be it in Kigali, since we are not far from Kigali city, or be it at Byumba or Kibungo, we were hearing gunshots and this caused us to go to the roadblocks in order to maintain or ensure security.  It is within that context that I used to move from roadblock to roadblock in the Kayanga secteur.  
+
+At a certain point in time, that is on the 11th of April, refugees came from locations from where we were hearing the sound of gunshots and came to our commune.  And this is how the spirit of genocide engulfed us.  They contaminated us, as it were.  We used to be united together and then suddenly we started killing each other.  That is how on the 12th, people were killed at Gikomero at the primary school.  Those people were killed there by people who came from Rubungo.  I wasn't present; I wasn't an eye witness to the killing, but from information that I gathered during the Gacaca hearings -- there is a man called Liserurande who admitted to having led the attack. 
+Q.	Just pause there.  
+A.	Other on the other hand, other people fled. 
+Q.	Just so we can catch up with the names.  The name's on the list, Bernard Biserurande (sic).  And was Bernard Biserurande (sic) in fact a -- in the gendarmerie or, rather, a policeman from that area; can you confirm that? 
+A.	Liserurande was a communal policeman and he was the assistant to the brigadier of the Rubungo commune.  He is therefore the one that led the attack at the primary school. 
+Q.	I don't know, Mr. Witness, can -- the spelling in fact on this may not be right.  Can you spell it, his second name, for us, so we can correct it if we haven't got it right?  Mr. Biserurande (sic), can you do that for us, please? 
+A.	His name is Bernard Liserurande; it is not "B". 
+MR. HOOPER: 
+Can we have the spelling for that from anyone, please?  
+THE KINYARWANDA INTERPRETER:
+L-I S E-R-U-R-A-N-D-E. 
+MR. HOOPER: 
+So it's an "L".  Thank you very much.  
+BY MR. HOOPER:
+Q.	Now, those are events on the 12th in Gikomero that you hear about, and we've heard quite a lot about in this trial so far.  And you mentioned how you were overtaken by the spirit of genocide.  Where you were in Kayanga, if we can just go back, you mentioned the 11th, did anything happen in particular on the 11th in your -- in your area? 
+A.	If I have to go back to the 11th, it would be for us to talk about external events: Interahamwes coming from Remera who came to the Remera communal office and who threatened the bourgmestre, who was there present, and who, by the way, gave instructions to the Interahamwe.  These were not real MRND Interahamwe, but these were young militiamen.  So that group that they found on the spot started the killings.  Those militia, under the leadership of Michel Mira -- Nyarwaya, found us at the roadblock where we were and scolded us.  They asked us what we were doing there -- they asked us what we were doing -- why we were at the roadblock doing nothing.  And that is how suspicion began between -- to exist among people.  They took two persons from amongst us and pierced them.  That is when the killings began and then spread throughout the commune. 
+Q.	And you mentioned Brigadier Nyarwaya, Michel.  Maybe you can name the others who were with him.  I don't ask you now to do that, and you can name the people who were seized, the Tutsis who were seized and killed at the barrier; is that right?  If you are asked you can provide those further details? 
+A.	I would like to make a correction.  They came to the roadblock and they ordered people who were at the roadblock to kill those Tutsis.  After having issued instructions, they left and went away.  They were MRND youth, including Nzaramba, Nyiringira -- so Michel Nyarwaya's group came to our roadblock and ordered those two young men and those of us who were at the roadblock to start killing.  So a certain Mugire (phonetic), a certain Karigera (phonetic) took Munyanshongore and Kaniga and killed them.  And that is when the genocide began at -- in our area. 
+Q.	And just -- just for clarification, the two young men, Tutsis, who Nyarwaya directed be murdered, what were they doing there?  Were they just passing by?  Did they live in Kayanga?  Were they on the barrier?  What were they doing there? 
+A.	Michel said that the Tutsis in general had to be killed, but then at the roadblock where we were, some of us were Tutsis, and that is how Munyanshongore and Kaniga were killed.  Prior to that, the entire population of the area were united.  Tutsis as well as Hutus were manning roadblocks, but when that group came on, distrust was sown amongst the population and that is how we started to kill Tutsis. 
+Q.	Did Nyarwaya tell you why they had to be killed, just because they were Tutsis?  Did he -- did he act -- or did he say anything more about it? 
+A.	This will cause me to go back to Rwandan history, but it's rather complicated.  I wonder if I'm going to make any headway here.  In any case, if we have to start from the year I was born, this -- 1959, as I was growing up, I realised that there was always a problem between Tutsis and Hutus.  These were people who were always fighting for power.  Now, we know that since 1999 -- 1990, there was a war in Rwanda, and from 1990 to 1994, people were saying that Tutsis were sending their children to join the RPF-Inkotanyi.  Even if we were united and were cooperating with each other, there was some suspicions against the Tutsis because it was said that the Tutsis were sending their children to join those who were attacking us.  And that is why it was easy for us to be convinced to kill the Tutsis. 
+Q.	Very well.  I thank you for that.  Now, we've heard of a commune -- the commune -- the bourgmestre, the head of the -- the administrative head of the commune at this time was a man called 
+	Telesphore Rutaganira.  We've heard about him.  I don't want to talk -- ask you anything other than this:  Did you see him at all at this period? 
+A.	I want to say something concerning him.  I have told you that a group of Interahamwe came to the communal office and threatened him.  They asked him -- or they told him that the Tutsis had to be killed and that is how the Interahamwes of our area also ordered him to start killing Tutsis, and that is why he left the communal office to flee and take refuge at *************.  What this means is that up until when we took flight, he was living ************ because we were scared of the Interahamwes.  But I must say that I wasn't afraid of the Interahamwes ****************************************.  So the Interahamwes of our area could not do any harm -- could not bring any harm to me.  So it was following this threat that the bourgmestre left the communal office to take refuge ************. 
+Q.	Now, on the 12th, you've told us that there was this killing at Gikomero secteur, which you heard about, led by Bernard Liserurande.  And Bernard Liserurande, is he still in prison or not? 
+A.	Liserurande was first imprisoned in Remera and then transferred to Rerema (phonetic) prison afterwards and he was freed, but the information I have indicate that he is still in detention. 
+Q.	And you told us that he had admitted the part that he played and his history of events concerning the murders of the refugees at the Gikomero Protestant School; is that correct? 
+A.	I do not say that he admitted the killings that were perpetrated in the Gikomero primary school.  What he admitted was that he perpetrated an attack in Gikomero commune.  He recognised -- or he agreed that the attack was first launched in Jurwe secteur.  This was one single attack which then went on to Gikomero commune. 
+Q.	Okay.  And in the context, may I ask this -- there is no concern of me in this case -- but have you ever heard in Gacaca or elsewhere, whether a man called Jean de Dieu Kamuhanda played any part in these events at Gikomero? 
+A.	Nobody talks of Jean de Dieu Kamuhanda, and I know personally that he played no role in the killings that were perpetrated in Gikomero commune. 
+Q.	So we've dealt with the events from the 6th up to the 11th and the killings at the barrier there, to the 12th.  In brief, did anything happen on the 13th of April in which you participated or know about? 
+A.	On the 13th in Kayanga secteur, a certain called Seyanga was killed.  I am referring to this person because I took -- I had a hand in his death.  I know that there was killing everywhere, and I know that one Murekezi, working with Andreas, who was also called Hakizimurame (phonetic), killed one Seyanga.  So this was the genocide that was going on. 
+Q.	And the day after that, the 14th, what happened, if anything, then? 
+A.	The next day, on the 14th, there was a military outpost on Gasabo hill.  They had come from Kami camp.  These soldiers asked for reinforcements.  I saw many soldiers who were coming to provide reinforcements, but they were not able to arrive in Gasabo; they stopped in Kayanga because they were afraid of the Inkotanyis who were pounding these positions.  They knew that they could advance no further, so they decided to return to Kami camp. 
+Q.	On the 15th, did anything happen and, in particular, anything that you saw and witnessed with your own eyes or participated in? 
+A.	I already told you this.  The bourgmestre sought refuge *********.  This meant that the police came to look for him ***********.  On the 15th the brigadier and other policemen came ************** to report to the bourgmestre on the security situation.  They also told him that in Giti in Byumba secteur, apparently Tutsis coming from our secteur had gathered there and wanted to come back and attack us.  And the bourgmestre asked us to go and evaluate the situation.  So on that day we went to Muhazi, to this place from which we thought that the Tutsis would come to attack us.  When we got to Muhazi we saw refugees on the other side of the lake.  There was a young man called Gatera who owned a motorcycle.  When he observed that we were forming an attack, he went and sought reinforcement, and they brought back a gun.  When he observed that we would not be able to withstand -- when they observed that we would not be able to withstand the attack, the police fired into the air and we withdrew, but Gatera shot at us but he didn't hit anyone.  We were furious when we returned.  
+
+Among the people who were with us, people were killed, including Murasira, Nyiramabuye, as well as his son Muvunyi.  These people were killed with the young -- by young people who were with us, including Ngirwosanga.  And I plead guilty to this even if I did not do so personally, and even if I did not give the order for them to be killed, I had to plead guilty because I was with these killers.  
+
+When we left this place, we went on our way and when we got to the health centre in Kayanga, a policeman called Kayibanda learnt that young people had come from Gasabo and Rubungo and were boarding at the health centre.  He heard that they had money, so he was tempted to go and extort monies from them, and since that was not enough for him, he ordered that the people who were with him should kill these young people.  So after extorting money from these young people, these people killed them in the pit that was in Kayanga.  So I got there when these had already started.  I couldn't do anything.  Even if I was not directly responsible for these killings, I pleaded guilty because I was present.  So this happened on the 15th. 
+Q.	The man, Gatera you mentioned, do you know his first name? 
+A.	I do not know his first name.  I just know that his father is called Mubunga. 
+Q.	So that's the event on the 15th -- and I've only got a few minutes more with you.  On the 16th, did anything in particular happen? 
+A.	It is clear that the genocide was going on, but nothing particular happened as far as I am concerned, but people were being killed here and there.  The genocide was going on. 
+Q.	And the 17th, which I think is the day you told us you left -- 
+A.	I think I have already said that on the 14th the Inkotanyi were attacking Gasabo from Nduba, so let me give further details. Our area was therefore almost entirely under RPF control.  The people of Kayanga and Rutunga had already sought refuge in Gikomero.  That was the day when I went to Gikomero.  So when I got there, I realised that the Inkotanyi could fire at where I and my family were, so I asked Nyarwaya, who had a vehicle, to take me to Rubungo.  So from Rubungo, I began my flight into Congo. 
+Q.	And your flight from the commune, did it take you through Kigali itself or not? 
+A.	There is perhaps one point that I didn't mention.  This is that between the time Habyarimana died and the date on which I fled, I must say that it wasn't easy to flee from where we were living to Kigali because the Inkotanyi had overrun strategic positions, especially on the Zoco (phonetic) and Gikomero hills, and they were attacking our areas.  What is more, between Gikomero and Kigali, there was fighting that petted the Inkotanyi against members of the Presidential Guard.  In Ndera and Remera, there were Interahamwe killing and looting, so there was total disorder.  It was not easy to flee since even in Nyacyonga there was fighting; nor was it easy to go to Rugende.  Since the Interahamwe could not -- who were there could not distinguish Tutsis from Hutus, it was difficult.  So when I was fleeing I couldn't follow that road, I was therefore obliged to go to Rubungo and then unto Bicumbi.  From Bicumbi I went to Kanombe.  We went to Butamwa and from Butamwa, we went to Gitarama.  So when we were fleeing we tried to look for the safest routes.  In addition, one could only flee if one was lucky.  There was disorder.  There was -- there were killings and fighting everywhere.  We were lucky to be able to flee right to Congo.  Along the way, we came across many roadblocks. 
+Q.	Thank you very much, Mr. Witness.  Those are all my questions.  We'll shortly have a break and then when we come back you'll be asked some questions by my colleagues over there.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Witness, we take our mid-morning break for a few minutes.  So the Court is going to recess now for about 15 minutes.  
+(Court recessed at 1038H)
+(Pages 10 to 15 by Gifty C. Harding)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1112H)
+MR. PRESIDENT:
+We can now resume.  
+
+Mr. Witness, your testimony will continue, as counsel indicated just before the recess, by questions put to you by the Prosecutor.  So you will now have to answer the Prosecutor.  
+
+Madam Prosecutor?  
+MS. CUMMINGS-JOHN:
+Thank you, Mr. President.  
+CROSS-EXAMINATION 
+BY MS. CUMMINGS-JOHN:
+Q.	Good morning, Mr. Witness.  Mr. Witness, you testified, did you not, that your name was published -- 
+A.	Good morning, Madam Prosecutor.  
+Q.	Sorry.  You testified, did you not, that your name was published in the Rwandan official journal and that you were listed as being a category 1 participant in the genocide; is that correct?  
+A.	That is true.  My name was published in it.  
+Q.	And what was the year of this publication?  Can you tell the Court?  
+A.	I do not know the year of publication, but since the publication of that list, my name was on it.  
+Q.	Would it -- would it have been in 1995 or thereabouts?  
+A.	It is possible.  
+Q.	So since around 1995, give or take a year or two, you were aware that your name was in this journal as a category 1 perpetrator of the genocide; is that correct?  
+A.	I knew.  
+Q.	And would I be correct in saying that category 1 is the highest category, reserved for the organisers and leaders of the genocide?  
+A.	Madam Prosecutor, that wouldn't be correct, because the list in question is provisional.  It is modified all the time.  The reference is made to organisers when Gacaca courts confirmed this, especially as there are people who were acquitted, who were cleared, who were not found guilty of genocide.  
+Q.	Can you tell the Court how many categories exist of perpetrators, according to the Rwandan authorities?  
+A.	There is the category of the planners and implementers of genocide.  There are the people who executed the genocide.  There is the category of people who committed crimes relating to genocide.  So they are category 1.  There is category 2.  There was also a fourth category, but subsequent -- there were four categories before, but after legal reforms, these were reduced to three.  
+Q.	And category 1 refers, does it not, to the planners of the genocide?  
+A.	That is correct.  
+Q.	Would I be correct in saying that you were arrested in 1996?  
+A.	That is true.  
+Q.	And can you tell the Court how you pleaded to the charges when arrested?  
+A.	When I was arrested in 1996, I did not know what interest there would be in pleading guilty and admitting one's crimes, but when it was explained to me, I understood that the reason one pleads guilty is to assist the cause of justice and, most of all, to solve the problems of Rwanda, in addition to having a reduced sentence.  Consequently, I decided to make a guilty plea in accordance with legal provisions.  
+Q.	So would it be correct to assume, therefore, from your answer, that initially you did not plead guilty, as you did not know what the benefits were of pleading guilty?  
+A.	Initially I was not aware of the benefits that I would derive from a guilty plea.  
+Q.	Can you tell the courtroom again who you believe was responsible for the crimes that were committed in your commune during the genocide?  You had earlier mentioned one Bernard Liserurande in relation to the Gikomero school massacres.  Can you name some other people who you believe were responsible for the crime?  
+A.	The people responsible for genocide in our commune of Gikomero are many.  In every secteur there are figures of authority.  If I were asked to prepare a list during Gacaca sessions, I would have done so.  However, what is obvious is that I mentioned one Nyarwaya who perpetrated genocide.  I referred to young Interahamwe.  I also referred to Interahamwe who came from Remera and asked people to kill Tutsis.  So I have described those who perpetrated genocide in our commune.  So it is difficult for me to describe or to mention all the people who were responsible for genocide here and now.  
+Q.	You made reference to figures of authority.  Is it your position, therefore, that figures of authority in your commune were responsible for the genocide?  
+A.	I referred to the brigadier.  I referred to the bourgmestre who sought refuge *********.  I mentioned policemen -- or at roadblocks there were conseillers and members of the comité de cellule and people who were figures of authority in the district and the secteur.  Even if these people played an indirect role, I would still say that these figures of authority were present and did -- were unable to stop the genocide.  It is up to each individual to answer for what responsibility he may have had.  
+Q.	And do you class yourself amongst those figures of authority who were responsible for the genocide, Mr. Witness?  
+A.	Pursuant to the provisions of the law against genocide and the part I took -- I played in it, and considering my position within the commune or district, I consider that I have some share of responsibility in the genocide.  
+Q.	Are you aware of the number of people who have given evidence against you in Rwanda, who cite you amongst the perpetrators of the genocide in Gikomero commune?  
+A.	I have not been tried yet.  So I do not know those who have given evidence against me, but surely there will be people who will do that because these events occurred in broad daylight.  That is why I pleaded guilty, in order to receive a reduced sentence and mostly to assist justice.  
+Q.	Are you aware that you have been cited amongst the perpetrators in connection with one Jean de Dieu Kamuhanda in this Tribunal?  
+A.	I am aware, because ICTR staff came to see me -- I do not remember when, but they came and told me that I had been cited in the Kamuhanda trial.  But I told these people of the ICTR that Kamuhanda never played a role in the genocide in Gikomero.  I stated that we committed our crimes, but that Kamuhanda never played a role in the genocide.  
+Q.	Are you aware, Mr. Witness, that you have been cited as a perpetrator in connection with the present Accused, Dr. André Rwamakuba, in this Trial Chamber by witnesses?  
+A.	I do not know whether I have been mentioned as a co-perpetrator of the genocide with Rwamakuba.  All I know is that Rwamakuba played no role in the genocide that was perpetrated in our commune.  I say this based on what I did, what I saw, and based on investigations that I conducted.  And I say that what I am stating here is true.  
+Q.	Yet what you stated in 1996, after being arrested, was not true, when you stated that you had never participated in any killings; is that correct?  
+A.	I did not completely deny my role in the genocide, but if you were to ask the prosecutor in my area, you will find that I acknowledged that I was *************************************.  I also admitted going to Muhazi where we clashed with one Gatera.  I also admitted that I had shared responsibility in the death of certain people.  I provided explanations afterwards.  
+Q.	Do you recall giving a statement to the Defence in which you say that you remained at home from the 6th to the 19th of April 1994?  
+MS. CUMMINGS-JOHN:
+For the purpose of the parties, this is paragraph 8 of the statement that was served on us by the Defence.  
+THE WITNESS:
+I stick to my statement.  From the 6th till my flight, I stayed at home.  However, ************************, I used to move about, but I always bore in mind that I should stay at home.  
+BY MS. CUMMINGS-JOHN:
+Q.	So when you say you stayed at home, you stayed at home, would that be in your mind, or did you actually stay at home?  You bore in your mind that you should stay at home, but you didn't actually stay at home?  Can we be correct -- can we be accurate, rather? 
+A.	It is obvious that the fact of staying at home, that I did not effectively stay at home all the time.  I left my home and I went to Muhazi and to the health centre.  I didn't stay at home all the time.  
+Q.	Mr. Witness, can you name those or some of those who were responsible for the Kayanga health centre attacks?  
+A.	As I already told you, the attack was launched from Gikomero, and the attack was led by Nyarwaya in the company of policemen like Kayiranga (phonetic) and others.  I was there too.  There was one Ngiruwonsanga, Karangwa, and other people whose names I don't remember.  But I place responsibility -- major responsibility for this squarely on the shoulders of Kayibanda who went to look for people at the health centre.  We went there afterwards, and we realised that Kayibanda had delivered the victims over to the people who were there and who took them away to be -- to be killed.  
+Q.	In relation to the Kayanga health centre massacres, what did you plead guilty to, if anything at all?  
+A.	I admitted guilt that I was in that attack because I had come from Gikomero during that attack.  I was well aware that we were going to Kayanga to hunt down Tutsis.  We couldn't take part in the fighting as we were not soldiers.  This is a major responsibility.  We, therefore, planned to attack the health centre, and Kayibanda was the first to do so.  This is participation in a crime.  So I encouraged people to kill.  What is more, **********************, that is an aggravating circumstance.  These are acts of genocide, which is why I pleaded guilty and asked for forgiveness.  
+Q.	And when you talk of "We planned the attack," who are you referring to?  Who are the "we," Mr. Witness?  
+A.	When I say that, I am referring to figures of authority who were in the attack.  It is not necessary to prepare an attack well beforehand, but an attack can be planned a few moments before it is actually launched.  Sometimes an attack is planned well beforehand, and sometimes you will just meet a few moments before you actually launch an attack.  So this is the context in which we prepared an attack that took us to Kayanga.  
+Q.	And can you tell us approximately how many of you prepared and launched the attack on the Kayanga health centre?  
+A.	Yes.  I was there.  Nyarwaya, too, was there.  Kayibanda, the commune policeman, who went to fetch the victims and deliver them over to the people who killed them.  
+THE ENGLISH INTERPRETER:
+Mr. President, indicates the Kinyarwanda interpreter, the witness has mentioned his name.  
+MR. PRESIDENT:
+Thank you for not mentioning it.  The name is redacted.  
+BY MS. CUMMINGS-JOHN:
+Q.	Would you say there were approximately ten or more attackers on the Kayanga health centre?  
+A.	I have just told you about the planners of the attack.  There were three of them in number.  As for those who came along with us, these were people that we used to launch the attack.  
+Q.	Can you give us an approximate figure of how many of those people came along who you used to launch the attack?  
+A.	It wouldn't be easy to give you the number of all the attackers since there is a group that came from Gikomero.  There were between 12 and 15 people who were in a bus, and when they got to Kayanga, I told you that Kayibanda had to convince the refugees that were on the spot and that had come from Byumba.  I, therefore, cannot tell you the precise number of people who took part in the attack.  
+Q.	I'm going to try and assist you, Mr. Witness.  Now, there were about 12 to 15 from Gikomero.  There were also those who were from Byumba.  Can you give us an approximate figure of those who were from Byumba alone?  
+A.	I wouldn't be able to give you the exact number since there were people who were dragging the victims.  There were others who were putting the victims in common graves.  I think that out of the group that was dragging the victims, didn't total more than 12.  As for those who were putting them into the common graves, I am unable to give you the exact number.  
+Q.	Would you be comfortable if I came up with a figure of, say, 30 perpetrators, including the figures of authorities and the refugees and those who had been brought from Gikomero?  Would you be happy with a figure of 30, or would you say there were more?  
+A.	I would say that that figure would represent only an estimate on your part, because nobody counted the people to know the exact number of assailants.  
+Q.	Can you tell us how many victims there were at the Kayanga health centre who were, according to you, buried in the mass grave?  
+A.	There were four young people from Gasabo and two other young people who came from Rubungo and who were patients hospitalised at that health centre.  As for the victims -- or the corpses of victims that were exhumed from that mass grave, it is possible that they number a total more than six.  I saw six persons buried in that pit, but I do not know whether I can say even the number of people exhumed from that pit didn't total more than six.   
+Q.	So according to your testimony, if we exclude the authority -- the figures of authority, with a conservative calculation, 12 people from Gikomero, 12 from Byumba, who were dragging bodies, but there were others, let's just say a very conservative figure of 24 perpetrators; 24 perpetrators killed six people?  Is that your testimony?  
+Q.	Madam Prosecutor, I will maintain that that figure is only an estimate.  There were very many of us.  I have only given you the figure of the persons that were in authority.  Now, if you retain the figure 24, I would say that this is only an estimate on your part, but that is -- that wouldn't be my own estimate.  
+Q.	But my question to you, Mr. Witness -- you say there were very many of you, which suggests to me that there were very many, more than 24, which is the figure I gave.  My question is, these perpetrators, who numbered at least 24, killed just six people at the Kayanga health centre; is that your testimony?  
+A.	I would say that it is possible that 24 people can kill six, and even people who (sic) less than 24 can kill six persons.  
+Q.	Do you know how many patients were housed at the Kayanga health centre at the time?  
+A.	No, I do not know the number of patients unless you ask the directors of that health centre.  Even if the persons are working elsewhere today -- and by the way, the person who was assisting him is also still alive.  I think those two people know the number of patients that were hospitalised at that Kayanga health centre at the time.  
+Q.	Are you aware if there were any refugees -- any Tutsi refugees who were seeking refuge at the Kayanga health centre?  
+A.	I have told you that amongst the victims were people who had come from Rubungo and Gasabo.  Some persons had been wounded in their respective areas of residence, but they had come to the health centre to take refuge.  
+Q.	Now, you testified to being at a roadblock, maintaining security.  Do you recall testifying to that effect?  
+A.	Yes, I do recall that.  
+Q.	What did "maintaining security" mean in 1994, Mr. Witness?  
+A.	The maintenance of security in 1994 at roadblocks meant that since we were in a time of war, we had to make sure that no RPF soldier could pass through the roadblock to come and disrupt security.  And if you discovered that there were intruders amongst the people of the community, such persons had to be taken to the authorities.  
+Q.	Did the intruders include the Tutsi population?  
+A.	It's understandable that since amongst the RPF soldiers there were Tutsis and Hutus, one had to know why a person from Byumba would be present at Kayanga.  You needed to ask why such a person was present at Kayanga even though they originated from Byumba.  
+Q.	So to summarise what you're saying, if a Tutsi person was fleeing from Byumba and came via Kayanga, he would be suspected of being an RPF accomplice; is that correct?  
+A.	Yes, such a person would be considered as an Inkotanyi in 1994, in particular, following the death of the president.  
+Q.	And to be truthful, such a person would not exclude women and children, would it, Mr. Witness?  
+A.	Yes, that was possible.  It was possible that a child, a man -- a woman, could be an Inkotanyi.  An Inkotanyi did not mean only people who were fighting the war, not only combatants.  It could be a woman or a man who was providing the Inkotanyi with information.  
+Q.	Or a child.  
+MS. CUMMINGS-JOHN:
+Now, I'd like to move on.  There's some documents which I will wish to tender later on, Mr. President, at the end of my cross-examination.  They have been served on the Defence, and the translations -- the translation booths already have copies.  I would like to perhaps ask the assistance of the registrar to provide your copies to you now.  
+MR. PRESIDENT:
+Ms. Cummings-John?  
+MS. CUMMINGS-JOHN:
+Yes, Mr. President.  
+MR. PRESIDENT:
+Have you got an idea of how much longer you're likely to be?  
+MS. CUMMINGS-JOHN:
+I'm going to limit myself to the one-and-a-half-hour leeway, but I may not be longer than another 30, 40 minutes.  
+
+MR. PRESIDENT:
+Thank you.  
+BY MS. CUMMINGS-JOHN:
+Q.	Mr. Witness, do you recall giving statements to the Rwandan authorities in relation to your case in 1996 and in 1997?  
+A.	Yes, I gave several statements in respect of my case file.  When I obtained additional information concerning my file, I gave an additional statement.  
+Q.	Well, we have received three statements from you -- one dated the 26th of November 1996, one the 30th of June 1997, and another, the 24th of December 1997.  Now, these statements were submitted to us, and we attempted to have them translated, in vain, so we resorted to an unofficial translation which all the parties should have attached to the document at the back.  I'm going to ask you some questions in relation to these statements which you gave.  Now, do you recall naming the following people to the Rwandan prosecutors as perpetrators of the genocide in your commune, one Jean-Baptiste Nzaramba -- Nzaramba is N-Z-A-R-A-M-B-A -- one Désiré, son of Ndazaro, spelled N-D-A-Z-A-R-O -- 
+MR. HOOPER:
+Sorry.  Just to the interrupt -- I'm sorry.  
+MS. CUMMINGS-JOHN:
+Yes. 
+MR. HOOPER:
+Which statement are you looking at, and does the witness have one?  And the witness speaks French and a little English.  
+MS. CUMMINGS-JOHN:
+I am referring to the statement of the 26th of November 1996, and as I am simply putting questions to the witness which he's free to answer yes or no, I do not feel it necessary to provide him with a copy as yet.  You are -- you do have a French copy for you to consult.  
+MR. HOOPER:
+Well, I respectfully suggest, if you're going to put a statement to him, in fairness, you should give him the statement, as you've got one available, and it's in Kinyarwanda and in French, which is a language he understands.  He can follow what you're saying.  It'll save time, because otherwise I just have to go through it with him later.  
+MS. CUMMINGS-JOHN:
+Mr. President, with all due respect, I do not feel that it's necessary to provide the witness with a copy as yet, as I am simply putting questions.  I do not intend to quote from the witness statement.  He is at liberty to recall whether he said these things or to refute them.  I do not wish to quote from the statement.  
+MR. PRESIDENT:
+It depends on what your purpose is.  If your purpose is to test the quality of his memory, then what you are doing is appropriate.  But if you -- but he made these statements ten years ago. 
+MS. CUMMINGS-JOHN:
+That's --
+MR. PRESIDENT:
+So if it is just a memory test, then that is valuable.  
+MS. CUMMINGS-JOHN:
+Yes.  I mean, if he has a memory of -- 
+MR. PRESIDENT:
+But if he sees what he has written, then he will tell you that he said it or not.  But if you want to test his memory, then you may proceed as you are doing --
+MS. CUMMINGS-JOHN:
+Absolutely.
+MR. PRESIDENT:
+-- if that's the only point that you're making.
+MS. CUMMINGS-JOHN:
+That's the only point that I'm trying to make at this stage. 
+MR. PRESIDENT:
+Okay. 
+MS. CUMMINGS-JOHN:
+If I need to proceed further and test other issues, I will provide him with a copy.  Thank you.  
+BY MS. CUMMINGS-JOHN:
+Q.	Mr. Witness, I will commence the question again.  Do you recall naming as perpetrators, to the Rwandan prosecutors, one Jean-Baptiste Nzaramba, a Désiré, son of Ndazaro, spelled N-D-A-Z-A-R-O, and the son of Bideli, as well as Ngiruwonsanga, whose name you have mentioned here in the court?  Do you recall telling the prosecutor in Rwanda that these people were some of the perpetrators in the Gikomero massacres?  
+A.	Mr. President of the Trial Chamber, I would like to tell the Prosecutor that she is confusing the events of the Kayanga secteur with those of the Kayanga health centre.  I stated that on the 11th, Nyiringira Ephrem, Nzaramba, were the ones who caused the killings at Kayanga, but this does not mean that these are the very persons who continued to carry out the killings right after the Kayanga health centre.  Those are two different events.  And I have also told you that Nzaramba and his colleague found us at the roadblock.  
+Q.	Thank you for that clarification, Mr. Witness.  Now, do you recall telling the Rwandan prosecutor that when you went -- that you went to your commune office only twice during the events, once on the 7th and another time on the 11th?  
+A.	Yes, I do remember.  
+
+MS. CUMMINGS-JOHN:
+For the benefit of the Defence, this is also in the 26th of November 1997 statement.  
+BY MS. CUMMINGS-JOHN:
+Q.	And do you recall testifying earlier, when asked by the Defence, to events that took place on the 12th, the 13th, the 14th, and the 15th of April 1994, and giving quite detailed accounts?  
+A.	I do not remember the precise dates that I gave.  I do -- I acknowledge that nobody was taking down the dates at the time.  So you, therefore, shouldn't take the dates as gospel truth.  One can easily be mistaken as to dates, but the important thing is to know about events that took place during that period.  
+Q.	Granted.  Perhaps it would assist you in recalling that you didn't provide the dates.  The Defence counsel provided the dates and asked you if you recalled what took place on these particular dates.  So we accept that you may not recall them with as much accuracy as we would like.  
+
+Can you tell us when you went to Lake Muhazi?  
+A.	We went to Lake Muhazi on the 15th.  
+Q.	Do you recall telling the Rwandan prosecutor on the 26th of November 1996, that when you went to Lake Muhazi, you were accompanied by Michel Nyarwaya and policeman Ruhamya, spelled R-U-H-A-M-Y-A, Kayibanda, and Muhizi, spelled M-U-H-I-Z-I, amongst others?  
+A.	I think that is what I repeated before this Trial Chamber.  I told you that the bourgmestre had fled and they had taken refuge *************, and they sent us on mission to go close to Lake Muhazi to see what was happening there.  I think I've already stated this before this Trial Chamber.  
+Q.	And perhaps you could assist me, would that be the bourgmestre Rutaganira, Telesphore?  
+A.	Yes, he is the one I'm referring to.  
+Q.	And it is your testimony that he sent you to Lake Muhazi, where later you perpetrated some crimes; is that correct?  
+A.	Yes, he is the one who sent us to the area, to the spot, but he didn't ask us to commit crimes.  He only sent us to go and verify to see whether Inkotanyi had already attacked that locality.  As for the crimes that we committed along the way, he's not the one who asked us to commit them.  
+Q.	You took your own initiative, didn't you, in committing those crimes?  
+A.	Yes.  That was our personal responsibility.  He's not the one who asked us to commit the crimes.  
+Q.	Do you recall telling the Rwandan prosecutor in the same statement of the 26th of November 1996, that you went in the vehicle of one Father Michel, and that you could not be certain if he had borrowed -- if he had loaned this vehicle to Brigadier Nyarwaya or not?   
+A.	Yes, that is how it happened.  Michel Nyarwaya found me at my home where **********************, and this is how we went to Lake Muhazi, in that car, that is, in the car that he had.  
+Q.	And this car which belonged to Father Michel, was this Father Michel Donnet?  
+A.	Yes, Michel Donnet was reverend father in the Gishaka parish from where Nyarwaya hailed.  
+Q.	And was he good friends with Brigadier Nyarwaya, this Father Michel?  
+A.	I am not in a position to say whether he was a friend -- whether they were friends or not because we usually cooperated with him.  The commune cooperated with the father, so I can't tell whether there was any relationship -- relation of friendship between Nyarwaya and the priest because we ordinarily cooperated with him.  
+Q.	So much so that you thought it was possible that the priest would have loaned his car, in the middle of the genocide on the 15th, to Brigadier Nyarwaya?  
+A.	Subsequently, after investigations, we learned that that vehicle was seized; so Michel Nyarwaya confiscated the priest's vehicle and forcibly so.  
+Q.	Can you remind us again -- I'm not sure if you told us earlier -- can you remind us when you made your confession?  
+A.	I pleaded guilty for the first time in 2001, and in 2002, I gave an additional confession, as well as in 2003.  And then I made -- or gave several statements.  And as I understood the advantages or the benefits of pleading guilty to all the crimes I was accused of, I gave additional statements.  
+Q.	Indeed.  And at no point did you understand or realise the benefits of simply telling the truth after being arrested in 1996?  
+
+Mr. Witness, do you agree that in 1996 and 1997, during the course of giving these three statements which I have quoted, you denied having committed any crimes whatsoever?  
+A.	I agree with you that at that time I had not gained a sufficient understanding of pleading guilty, clearly, but I admitted that I went to Lake Muhazi.  I did not plead guilty to all the crimes.  I made a partial plea in 1996.  
+Q.	And can you tell us what that partial plea was?  Because according to the record which I have, aside from going to Lake Muhazi, at no point did you admit to doing anything, simply going there.  
+A.	I think the law governing matters of genocide and, in particular, that part of the law that refers to guilty pleas and admissions of guilt, were not immediately understandable to people, but as the authorities further explained and I gained an understanding, I understood that according to the law, an act such as that, that I may have committed, would be a crime, and so on and so forth.  
+
+You know, this is what happens in Rwanda.  There are amendments to amendments to this law on genocide that was enacted.  Sometimes you are -- they explain to you, and sometimes you understand that an act which was not considered a crime before is now considered a crime in a subsequent amendment.  So you will plead guilty to that crime.  
+Q.	And prior to the amendment of this genocide act, you did not know that it was a crime to order people to kill innocent people?  You were not aware of that?  You were not aware that telling someone to kill somebody else was a crime?  
+A.	Right now in Rwanda there are always people who think that a crime -- that the crime consists in taking up a machete and killing somebody with it.  Some people who pleaded guilty immediately are those who used a machete to kill someone directly.  No one knew that the fact of accompanying the killers or having someone killed in your presence implied criminal responsibility.  It is God who has taught me what sin is.  I thought that the person who took up a weapon and killed someone personally or directly would be the criminal.  I did not know that being with such a criminal would itself constitute a crime.  I know that there are many people who are yet to understand what I, myself, understood only a short while ago.  
+Q.	With the help, as you say, of God, and the reduced sentence, of course.  
+
+Now, do you recall telling the Rwandan prosecutor that there were no killings, there were no deaths at Lake Muhazi, in the same statement of the 26th of November 1996?  
+A.	It is possible that I didn't refer to the victims, but in the statement that followed, I know that I said that we killed people.  I told you that as we gained further understanding, we made additional statements wherein we added new information.  I believe I have said so.  
+Q.	In the statement that followed the 30th of June 1997, do you recall telling the Rwandan prosecutors that there were no people killed where you were?  Do you recall telling them this in the statement following the one of the 26th of November?  
+A.	I don't know whether you have read the statement.  If you've read the statement -- I'm not sure that I brought it with me -- I believe that in that statement I stated clearly that during my -- the second statement I gave, that it was a guilty plea.  And that what I had not said before, I was now admitting as crimes, and I was pleading guilty to these crimes.  I think you will find that in my second statement.  
+Q.	I'm afraid, Mr. Witness, there's no such thing in your second statement.  In fact, in your second statement, which I -- 
+A.	I have copies of all the statements that I've made, and I know that I mentioned such thing in my statement.  Because I know that whatever statement I made would be very important, I couldn't, therefore, have failed to include it.  
+Q.	Would it assist you to consult the statement which I have before me, dated the 30th of June 1997?  
+MR. HOOPER:
+I'm sorry, I'm failing to quite note the point here, and I'm sorry if I've misunderstood, but, again, it's one of the disadvantages, perhaps, of the witness not having the statement.  But can you read to him the second question and his reply to that question, please?  
+MS. CUMMINGS-JOHN:
+With all due respect, as the person conducting this cross-examination, the part that interests me is further down.  
+MR. HOOPER:
+Well, I'm only asking you to put his own statement -- he's already said that he was circumspect with the truth at this time, but you put this statement unfairly.  Now, you said to him that he said that no one had been killed, but in his second answer, direct question followed by direct answer, he names, does he not, six people and many others that he can't name?  Now, if you're going to put to this witness that he said that no one was killed, you must, in fairness, now read his principal answer right at the beginning of this short statement:  "Sont décédés (unintelligible), Kaniga, Munyanshongore, Bihizi, Ruhamya, et beaucoup d'autres dont je ne me rappelle plus."  
+MS. CUMMINGS-JOHN:
+Mr. President, with all due respect, Mr. Hooper can deal with this issue.  He has the document.  He can deal with it in the further -- in the re-examination.  I am dealing with the matters that I am and I'm not misquoting.  I will quote the relevant part.  
+MR. PRESIDENT:
+Ms. Cummings-John?  
+MS. CUMMINGS-JOHN:
+Yes, Mr. President. 
+MR. PRESIDENT:
+This I don't think warrants much argument.  You've put to the witness that he made a specific statement to the prosecutor in the statement which you have.  
+MS. CUMMINGS-JOHN:
+Yes. 
+MR. PRESIDENT:
+He has told you that what you've said does not reflect what he said. 
+MS. CUMMINGS-JOHN:
+Yes. 
+MR. PRESIDENT:
+The next step is to show him the statement. 
+MS. CUMMINGS-JOHN:
+That's exactly what I wanted to do before being interrupted by Mr. Hooper.  
+
+If the registrar can assist me.  
+MR. PRESIDENT:
+Can you direct the Court as to what the witness is being shown?  
+MS. CUMMINGS-JOHN:
+The witness is being shown number 4, I've just written at the top, document number 4, dated the 30th June 1997.  The part which I have quoted is towards the end, the last quarter of the -- the -- unofficial translation which is at the end.  It's a single-page translation, and it starts, "*****************************."  
+MR. PRESIDENT:
+Okay.  
+
+BY MS. CUMMINGS-JOHN:
+Q.	Mr. Witness, can I direct your attention to the -- to the question that I have just started reading?  The question you were asked was:  "*******************************************, quelle personne as-tu sauvé pour qu'elle ne soit pas tuée?"
+THE ENGLISH INTERPRETER:
+Translation:  ************************, who did you save so that they should not be killed?  
+BY MS. CUMMINGS-JOHN:
+Q.	Can you see what your response was in the French translation?  Or you may -- if you can find it in the Kinyarwanda original, you may read it in Kinyarwanda.  Can you find the relevant response to that question, Mr. Witness?  If you're comfortable, you may read the French.  It is entirely up to you.  
+A.	I can see the passage, yes.  
+Q.	Can you tell us what answer you gave to that question in relation to who you saved?  
+A.	Madam Prosecutor, I thought that this was the statement that I gave.  I thought you were referring to my written statement, a statement written in my own hand.  These are questions that were put to me and answers by the prosecutor.  So when I returned from Congo, if I said that anyone -- no one died where I was, I may have been referring to the roadblocks through which I passed, which is why I said that no one died where I was.  But when I thought about it, I found that we killed people.  I told you that with the passing of time, we observed that we were responsible for one act or another, whereas previously we had thought that we bore no responsibility.  I think that in the statement that follows the truth comes out.  
+Q.	So in this statement of the 30th of June 1997 and the statement of the 26th of November 1996, the truth had not yet come out?  Is that correct?  
+A.	I had not clearly understood that the truth was to be told.  
+Q.	Do you recall being asked or being told -- I will read the French, the unofficial translation:  "Tu n'avoues pas tes crimes, donne des témoins qui peuvent affirmer que tu n'as pas tué?"  "You do not admit your crimes, so give us witnesses who can state that you did not kill."  
+
+To which do you recall responding, "Demander à n'importe qui"?  "Ask anyone."
+A.	(No response)
+Q.	And, finally, in relation to these statements, do you recall, Mr. Witness, the one given on the 24th of December 1997, where we'd like to think the truth would be coming out then, you stated that you would like to ask for an investigation to be carried out regarding the false accusations that have been brought against you?  Do you recall saying this in 1997, 24th of December, when speaking to the Rwandan prosecutor?  
+A.	Madam Prosecutor, you're always repeating questions to which I've already provided answers.  I told you that as we read further, we interpreted the law governing the crime of genocide, and we gained a further understanding of our responsibilities.  I told you that before, that only the person who had taken up a machete or gun and used it to kill someone else was the sole perpetrator of a crime.  And since up till then I knew that I had not taken up a machete or a gun and used it to kill anyone directly, I did not think that I would be considered responsible of any crime.  I am telling you that even today there are people who say that they are not responsible because they've not taken up a machete or a gun to kill anyone with it.  But, of course, afterwards, we understood that the fact that we were present with the killers when they committed their crime meant that we were responsible for the crime.  It is when I got this understanding that I acknowledged or admitted that I had committed crimes.  
+Q.	You testified -- 
+THE ENGLISH INTERPRETER:
+Mr. President, the witness also mentioned his name.  
+MR. PRESIDENT:
+The name is redacted.  Thank you.  
+BY MS. CUMMINGS-JOHN:
+Q.	You testified, Mr. Witness, that you were sent to a solidarity camp after having confessed; that's correct, isn't it?  
+THE ENGLISH INTERPRETER:
+The Kinyarwanda interpreters indicate that they did not understand the Prosecutor's question and ask if she would be so kind as to repeat it.  
+BY MS. CUMMINGS-JOHN:
+Q.	Mr. Witness, you testify that you were sent to a solidarity camp after having confessed in 2001, did you not?  
+A.	I was not sent.  The solidarity camps were set up in 2003.  I went to the solidarity camp in August of last year.  So I was not sent with the first contingent of 2001.  In other words, I had pleaded guilty, but the prosecutor had not yet decided to send me back to my home.  But recently, when the act was amended, the prosecutor thought it wise to release me, and I was freed.  So when I went to the solidarity camp, I was arrested again and returned to prison for reasons that, up till now, are yet to be elucidated.  
+Q.	You have never been told by the prosecutor or any of the authorities that you were transferred back because they thought that your confession was not sincere?  
+A.	Since I was dragged out of the solidarity camp, I have not met the prosecutor or anyone else who would have been likely to inform me or who was able to inform me of the reasons why I had been returned to prison.  
+Q.	Are you aware that the authorities accuse you of inciting other detainees to not confess?  
+A.	I was not aware of that.  I did not know that this is what I was accused of.  However, I know that false allegations could be made against me.  I do not see how I could possibly incite people not to confess, whereas I, myself, have understood the merits of doing so.  Even if you tried to make someone plead not guilty, I think you would be thought of as a madman because everyone has now understood the advantages of pleading guilty.  Especially as I did this since 2002, I am the one who encourages people to plead guilty.  But what I see is that the authorities can find any reason or circumstances that will enable them to keep you in prison.  I know that I've understood the advantage inherent in pleading guilty, and my co-detainees have understood the advantage of the guilty plea as well.  
+Q.	Do you know why you were transferred to a different prison after being brought back from the solidarity camp?  
+A.	The reason for my transfer from Kimirongo to Mpanga was not explained to me, but generally it was said that this was a disciplinary transfer.  But I lacked the courage to ask what it is or what aspect of discipline I had failed to comply with.  But I think that these are false reasons.  I think that I'm going to ask the prosecutor the reason for my transfer.  I think the prosecutor transferred me to a remote area so that I would not be able to follow up my case.  I am not detained legally.  How could I have been released and then re-imprisoned?  I was re-imprisoned and transferred to Mpanga, and I think that this is unjust.  
+Q.	Thank you, Mr. Witness.  
+A.	Madam Prosecutor, please help me to solve my problem.  
+MS. CUMMINGS-JOHN:
+Mr. President, at this stage, I still have a few more questions, about ten minutes in closed session and five minutes before we go into closed session so -- I'm hoping, provided the answers are quite short and precise.  So I don't know if you wish to take the luncheon adjournment now.  
+MR. PRESIDENT:
+Yes.  
+
+Yes, Mr. Hooper?  
+MR. HOOPER:
+If we are going to take the luncheon adjournment, can I invite, please, the prosecution to provide the witness with all the statements and documents they've referred to so that he can look at them over lunch because I'm going to deal with them in re-examination, and it will save time if he's had the opportunity to deal with it.  Thank you.  
+MR. PRESIDENT:
+Okay.  
+MR. HOOPER:
+And the other matter is, we have one statement or document -- and I'm not entirely sure whether you, Mr. President, or your colleagues have this, or the documents that have been referred to.  Did you get the documents?  Because I don't know if they were just passed to me. 
+MR. PRESIDENT:
+We have a bundle of four. 
+MR. HOOPER:
+Very well, thank you.  Well, one of them is dated the 20th of October '05, and is from the director of the prison at Remera, and I'd like to know from the Prosecution how they came by this document.  Did they go to the prison and ask for documentation, or was this a document that was provided to the Prosecution in the context of this case?  It's of some significance to us.  
+MS. CUMMINGS-JOHN:
+Mr. President, do you want me to respond to that question now?  
+MR. PRESIDENT:
+If you are able to.  
+MS. CUMMINGS-JOHN:
+The document was provided in the context of this case.  
+MR. PRESIDENT:
+Mr. Witness, we take our luncheon adjournment now.  It's approximately 90 minutes.  During this adjournment, as on any other adjournment, you are not to discuss the case or your evidence in this case with anybody.  Do you understand that?  
+THE WITNESS:
+Yes, I understand, Mr. President.  
+MR. PRESIDENT:
+Okay.  Thank you very much.  We'll take the adjournment now. 
+(Court recessed at 1237H) 
+(Pages 16 to 31 by Wendy Molnar) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Court resumed at 1428H) 
+MR. PRESIDENT:
+Court resumed.  Your cross-examination will continue.  
+MS. CUMMINGS-JOHN:
+As indicated earlier, Your Honours, I shouldn't be more than 15 minutes, I think, provided everything goes smoothly.  
+BY MS. CUMMINGS-JOHN:
+Q.	Mr. Witness, good afternoon.  
+A.	Good afternoon, Counsel. 
+Q.	Now, I'd like to go back to the statement that you gave to the Defence in this case.  In that statement, do you recall telling them that you fled your commune on the 19th of April?  
+A.	Well, it's a question of dates, isn't it?  I think, if my memory serves me right, it was, rather, the 17th. 
+Q.	So the 17th rather than the 19th.  Now, you stated that you went via Kanombe; is that correct? 
+A.	I first went to Rubungo and then I moved on to Kabuga, Bicumbi and Kanombe and then went on to Butamwa.  
+Q.	So on the 17th of April you were able, with the assistance of Brigadier Nyarwaya, who you testified dropped you off at Rubungo, but you were able to travel from Gikomero to Kanombe.  How many kilometres would you say Kanombe is from Kigali-ville?  
+A.	I don't know how to measure the distance in kilometres, but I believe that the distance was 12 kilometres or so.  As you said, I didn't leave Gikomero to go to Kanombe directly, but I passed through Rubungo and then Bicumbi, and then I finally got to Kanombe.  I reached Kanombe on other dates, not on the 17th.  
+Q.	Can you recall the dates you reached Kanombe? 
+A.	I can no longer remember, but that was in early May. 
+Q.	So, from the 17th of April, when you travelled from Gikomero to Rubungo, then from Rubungo to Bicumbi -- spelled B-I-C-U-M-B-I -- and then on to Kanombe, did you come across many roadblocks? 
+A.	Yes, I came across many roadblocks.  They were all over the place.  I wasn't the only one to be fleeing.  There were many of us displaced persons. 
+Q.	And these roadblocks, would it be correct to say they were manned by Interahamwe?  
+A.	Habitually, when you are referring to Interahamwe, you are talking about those who received training as Interahamwe.  But given what was happening at the time, actually, you can refer to all people who were at roadblocks as Interahamwes, since some of those persons were equipped with guns.  
+Q.	And would it be logical for me to conclude that no harm came to you, even though you went past many of these roadblocks from Gikomero to Rubungo to Kanombe and on to Gitarama?  
+A.	From Gikomero to Rubungo, I didn't have any problem, but starting from Rubungo, I had difficulties because I had to produce my identification papers, like anyone else.  By the way, when we got to Kanombe, a soldier threatened me and wanted to take my purse because he thought I had money.  So I cannot claim not to have had any difficulties. 
+Q.	And you state that from Gikomero to Rubungo, you didn't have any problems.  Is that because you were in a vehicle with Brigadier Nyarwaya?  
+A.	That wasn't the reason.  Because those who were manning the roadblocks knew me and could not turn me back.  And by the way, when we got to Rubungo, Nyarwaya was sent back and was treated as an accomplice.  He was asked to go and fight on the battlefront as anyone else.  But as for me, I was left to continue along with my family.  
+Q.	Mr. Witness, how well do you know André Rwamakuba, the Accused in this trial?  
+A.	I know Rwamakuba very well.  He hails from our commune.  He was an intellectual, to the extent that he was always present at communal meetings.  That, therefore, made it possible for me to know him.  Furthermore, he worked at the health -- the Kigali health region where we used to go to get equipment and supplies, so I know him very well. 
+Q.	Can you tell us when you first met him? 
+A.	I don't know the year, but he used to come to our commune upon the invitation of the technical commission.  This commission essentially was in charge of communal development.  I, therefore, cannot tell you the precise year, but I have told you that ****************************************************, so when he used to come to take part at meetings, I would see him. 
+Q.	And in your statement to the Defence, you state that he was the director of the commune technical committee; is that correct? 
+A.	Whom are you referring to?  
+Q.	The Accused, André Rwamakuba.  Did you say in your statement to the Defence that he was the director of the commune technical committee?  
+A.	I stated that he used to take part at the meetings of the technical commission.  I didn't say, however, that he was the chairman thereof. 
+Q.	Perhaps that was a misunderstanding on the part of the person who took the statement.  
+MS. CUMMINGS-JOHN:
+Your Honour, if I may, I would like to go into closed session before ending the cross-examination.  I just have three more questions for the witness.  
+MR. PRESIDENT:
+Yes.  We go into closed session now.  
+
+Mr. Witness, you understand that means that the public is excluded and what you say will be used only for the benefit of the Court and the court officials?  
+(At this point in the proceedings, a portion of the transcript [pages 34 to 42] was extracted and sealed under separate cover, as the session was heard in camera)  
+(Pages 32 to 33 by Karen Holm)
+
+
+1607H 
+MR. HOOPER: 
+Before we move on to this witness, very briefly, can I raise two matters:  The first concerns a matter between myself and the registrar.  You may remember, Mr. President, that I have raised, on an earlier occasion, the registrar's rule, if I can put it like that, that witnesses returned to Rwanda who aren't called, results in me, as lead counsel for the Defence, being made, if that is the phrase, to pay their -- the expenses incurred by WVSS which averages about two and a half thousand dollars per witness.  I wrote to the registrar in respect to two witnesses who I did return to the Rwanda without calling in the last session.  And I wrote to the registrar six weeks ago asking him to clarify, or state his position with respect to that particular incident of two witnesses.  And I wrote again two weeks ago, and I have not had a reply.
+
+But I understand that one matter that may be holding up that reply is that WVSS may be asked to -- or may have been asked to comment as to what they want the registrar to do, or what view they want the registrar to take; that, despite the fact that they're clearly an interested party.  Now, there is nothing I feel that this Chamber can do at this stage, and I don't ask it to, to intervene in this matter at this stage; but it is a matter of considerable importance to me.  But what I ask, if possible, is this, that the Chamber support me in my request for a timely response to the enquiry, that is all, because otherwise it may be that I won't get one for a very long time.
+
+The second matter, if I can --  
+MR. PRESIDENT:
+I'm not certain I can do any more at this stage than simply to note what you have said. 
+MR. HOOPER: 
+Thank you.  The second matter is this; in the course of the last witness's testimony various procès verbales statements were produced during the course of his cross-examination.  Those statements, we submit, are clearly statements that should have been served on the Defence under Rule 66.  The indictment has (By order of the Court, this portion of the evidence was extracted and filed under seal).  It would be difficult -- sorry.  Can I have the last matter struck? 
+MR. PRESIDENT:
+Yes. 
+MR. HOOPER: 
+The phrase -- 
+MR. PRESIDENT:
+It is redacted from the record. 
+MR. HOOPER: 
+One only has to refer to the indictment to see the relevance of the person that I refer to.  These are matters that clearly, aside from being intended for use quite irrespective and regardless of that, were matters that could have assisted the Defence. 
+MR. PRESIDENT:
+Mr. Hooper, if you are right, what is the remedy that you are requesting?
+MR. HOOPER:
+If there were any statement of procès verbales statements related to the current witness, the one in the witness box now, they should be disclosed now.  They should have been disclosed earlier, but I ask that they be disclosed now; and the last witness is merely a demonstration of that necessity? 
+MS. FALL: 
+Mr. President, with regard to problems of disclosure under Rule 66 as we interpret it, and I believe that it was -- this interpretation was confirmed by various decisions taking at this Tribunal, we have already disclosed everything we've had to.  We have discussed it amongst ourselves, in our team.  And it would appear that -- it would appear to be a serious problem because the application of 66 is only in the preparation of the Prosecution case; in other words, preparation of Prosecution witnesses.  There, we note, we have no obligation to disclosure it.  And we have, in that respect, done everything we had to, because everything we had was disclosed.  We feel that disclosures that Defence want us to disclose, refer to -- are in the context of cross-examination, and 66 does not apply.  We have had various decisions along those lines.  
+
+And I think it would be desireable, Mr. President, to make a written motion as regards the application of Rule 66 which would lead us to a final decision by the Trial Chamber, and would greatly inform us on that score.  And we would present, therefore, written submissions. 
+MR. PRESIDENT:
+Thank you, very much.  
+
+Mr. Hooper.  
+MR. HOOPER: 
+Can I take it very briefly just to assist you, I hope, Mr. President, very briefly indeed?
+MR. PRESIDENT:
+Mr. Hooper, how much time are you going to be in-chief with this witness?  
+MR. HOOPER: 
+One hour. 
+MR. PRESIDENT:
+It is already quarter past four.  
+MR. HOOPER:
+Yes. 
+
+MR. PRESIDENT:
+I think you put your position pretty clearly, but if the Prosecutor put her position, I'm not sure there is anything that we can do now.  So --
+MR. HOOPER:
+Well, I haven't yet --
+MR. PRESIDENT:
+-- can't we get on with the case and see how things go?  
+MR. HOOPER: 
+I haven't yet called this witness, so it is a significant juncture.  And what I am saying is this; you can measure it in a way by seeing what happened with the last witness.  And what I ask is for disclosure of any similar material in the hands of the Prosecution on this basis:  
+
+Under Rule 66(B), "At the request of the Defence, the Prosecutor shall, subject to sub Rule (C), permit the Defence to inspect any documents, et cetera, in its custody or control which are material to the preparation of the defence."
+
+Now statements, such as we had from the last witness, clearly fall into that category.  Saying those that were specifically responsible and completely omitting the name Rwamakuba, someone he never mentions.  And that is quite capable of being material that is material to the preparation of the defence.  Under Rule 67(D), it is clearly a continuing responsibility.  And under 67(D):  "If either party discovers additional evidence or information which should have been produced earlier, that party shall promptly notify the party and the Trial Chamber of the existence of the additional evidence or information or materials." 
+
+And under Rule 68(A):  "The Prosecution shall, as soon as practicable, disclose to the Defence any material which in the actual knowledge of the Prosecutor may suggest the innocence or mitigate the guilt of the Accused, or effect the credibility of Prosecution evidence." 
+
+And that is clear, we submit, that those statements, each of the three of them, fall within both Rule 66 and its duty of continual notification under Rule 67(D).  And 68, we can take it as far as that, as exculpatory material.  And it should have been disclosed as part of their duty.  So the question is, how long have they held that material, and why did they not disclose it earlier; because it assisted us.  
+
+If, for example, I had been in possession of any of those statements prior to calling the last witness, I would have put them in evidence.  If I had them during the Prosecution case, as Mr. O'Shea reminds me, I would have put them in then.  They are clearly exculpatory. 
+
+MR. PRESIDENT:
+Then that means that you are making an application under Rule 66 --
+MR. HOOPER:
+I'm making application -- 
+MR. PRESIDENT:
+That is a difference. 
+MR. HOOPER: 
+Well, the trouble is, I am not exercising criteria here.  I'm not in possession of what the Prosecution have demonstrated continually in this trial that they sit on, blind to their responsibility.  This is my difficulty.  And so as we start this witness, I am saying -- well, this is the position, it has been demonstrated through the material produced by the last witness.  If the Prosecution have this kind of material now, they should serve it now and before I go any further with this witness.  And the same extends to other witnesses that they know are coming.  And this would be under 66.
+
+I think -- I will say it again, we are applying under 66.  But if, in fact, it does not mention, for example, Rwamakuba as perpetrator, then it is also capable and does fall under 68, exculpatory.  So, that is the application.  And it can't really be deferred because it is material that may effect the way in which I view a witness or -- and we may want to look at it now, yes.  
+MR. PRESIDENT:
+Yes, Mr. Hooper, the Court has not been given any information as to what material the Prosecutor actually has.  And we do not think that, at this stage, we should order them to answer that question.  So, in that context there is no order that we can make, as there is not a prima facie showing that there is a breach, or non-compliance with any of the rules of the Court.
+
+I would like to say, however, that this is not the type of issue which we expect to have to arbitrate.  We think that counsel are officers of the Court, and that the rules clearly indicate a mandatory obligation where the situation arises.  So we would expect that if the Prosecutor has material which should be disclosed that it would be.  We don't wish to act on the assumption that they are in default of their obligation, unless it is shown that they are.  And they have not reached that threshold.  
+MR. HOOPER: 
+Appreciate that, thank you.  So, Mr. President, can I move then to the witness?
+MR. PRESIDENT:
+Yes. 
+MR. HOOPER: 
+Yes, I don't know if you have introduced the witness in terms of the position. 
+MR. PRESIDENT:
+Mr. Witness, we thank you for coming to the Tribunal to give evidence in this matter.  A preliminary step is required, and that the registrar will administer an oath to you to tell the truth.  So the registrar will now ask to you take that oath.
+(Declaration made by the Witness 4/16 in Kinyarwanda)
+MR. PRESIDENT:
+Now, Mr. Witness, as a protected witness we don't refer to your name in open session.  You will be giving your testimony by responding to questions put to you by the lawyers who are designated for that purpose.  And your questioning will begin by the lawyer representing the Accused in this matter.  You will have to answer his questions.
+
+Mr. Hooper.  
+MR. HOOPER: 
+Can I ask that we go into -- in closed session for 20 minutes to 30 minutes, for the security and non-identification of the witness? 
+MR. PRESIDENT:
+Yes, the order is made.  
+
+For the benefit of the public, this step is necessary in relation to protected witnesses to protect the disclosure of their identity from questions which may reveal it.  We will be in closed session for approximately 20 to 30 minutes, and then the open session will be resumed. 
+(At this point in the proceedings, a portion of the transcript [pages 48 to 54] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 43 to 47 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BY MR. HOOPER:
+Q.	So, Mr. Witness, do you know André Rwamakuba? 
+A.	Yes, I know André Rwamakuba, but it has been a long time.  I do not know if I will be able to recognise him, but I saw him on two occasions. 
+Q.	And can you tell us what those two occasions were, please? 
+A.	The first time was when there was an MDR political rally held in Rutunga, he was standing and making a speech; I attended that meeting and I saw him.  As to the second time I saw him, he was in a vehicle.  He was heading for a baptism at Ndamage.  Those are the two occasions on which I saw Rwamakuba. 
+Q.	And the last time, the baptism at Ndamage, that is N-D-A-M-A-G-E, N-D-A-M-A-G-E, Ndamage? 
+A.	Anaclet Ndamage. 
+Q.	That is A-N-N-A-C-L-E-T, Anaclet, or maybe one N.  When was that; can you remember the months and years that that was?  
+A.	I don't remember the dates, but I know it was in the month of July 1993. 
+Q.	And I'm not going to ask you about the meetings, others might.  And throughout the time that you have been in prison and attending gacaca, may I ask you this, do you attend gacaca just in the prison or do you go outside to gacaca as well?  What is the position? 
+A.	I take part -- I attend the gacaca proceedings within the prison.  But we did, at some point, make a list of our names.  And we had that list circulated among the secteurs of our commune, and my name was also on the list.  And so when they got to my village, everyone on the list was freed, except for me. 
+Q.	In the time that you have been -- 
+A.	Those are -- 
+Q.	I'm sorry.  
+A.	Those are the results of the gacaca proceedings within the prison. 
+Q.	At any time in the prison did you hear André Rwamakuba's name mentioned any way in connection with any of the events during the war and genocide in Gikomero commune? 
+A.	In fact, the way gacaca proceedings take place within the prison, all of the people found innocent circulate in three secteurs bordering on their secteur of origin.  So, my name was before Rutunga, Kayanga and Gikomero.  And all of the people from those secteurs said that I was innocent.  So it means that I have all of the information from the gacaca in the three secteurs. 
+Q.	And in respect of the information, have you ever heard any allegations made in gacaca that           André Rwamakuba played a part in the killings in the genocide in Gikomero commune?  Have you ever heard such a thing? 
+A.	I never heard anyone mention André Rwamakuba's name, not a single person whether in Rutunga, in Gasabo, in Kayanga secteur.  No one ever mentioned the name of André Rwamakuba.  No one ever said that Rwamakuba arrived in those secteurs. 
+Q.	Are records kept of these gacaca statements and hearings within the prison? 
+A.	Yes, the prosecution and the director of the prison appoint people to make notes.  And it is all put down in big registers.  And when there are -- they have been noted down, the registrers are sent to the director's office. 
+Q.	Now, can I turn then to the events of Ndatemwa.  And am I right in understanding that throughout the events, until the 14th, the date you have told us about, you were living there and remained there during that time; is that correct? 
+A.	I was at Ndatemwa, but at about 11 o'clock, let's say sometime between 10 and 11, the RPF soldiers came and took up a position at Gasabo.  There was firing.  We had to flee.  And I don't know what happened subsequently.  After 10 o'clock, I cannot tell you what happened, therefore, in the evening. 
+Q.	All right.  So the RPF arrived, and what date was that that they arrived?  Can you just tell us that, please?
+A.	The RPF arrived on the 14th, between 10 and 11.  The firing intensified.  There was firing from Gasabo, and all that lived there had to flee that place. 
+Q.	Thank you.  Now, let's then go to the earlier days.  And we start on the 6th, or just after that because we know that President Habyarimana was killed that night.  And let me ask you this; in Ndatemwa, on the 7th, was there any particular problem or not? 
+A.	On the 7th of April 1994 there was no problem in Ndatemwa.  Public order reigned as usual.  I was present there from morning to night.  I did not go anywhere. 
+Q.	All right.  Let's move on to the 8th.  Was there any problem on the 8th or not? 
+A.	On the 8th, there was public order, but people were upset, sad, because of Habyarimana's demise; but there was no particular problem. 
+Q.	What about the next day, the 9th, did anything happen then? 
+A.	On the 9th, at about 11 or 12 noon, I can't be more specific than that, two young boys who were very devout, who liked to pray a lot, of Ndatemwa and (unintelligible) were beaten by soldiers, that was on the 9th.  I saw it with my own eyes.  Gasabo secteur conseiller by the name of Ntamuhanga asked the soldiers to stop beating those young men.  And he ordered that the two young men be taken to the Kayanga hospital.  And because the soldiers had piled them up, they asked the counseller -- because they had been roughed around in the mud, pushed around, mauled and dragged, they asked if they could go change.  So, I helped the others to take them home to wash, and change their clothes, and another group took them to Kayanga -- sorry, I made a mistake.  I'm getting mixed up between events.  I'm sorry; it was a long time ago. 
+Q.	Never mind, you can straighten it out.  
+A.	What I have just told you about, what -- that happened, rather, on the 11th.  However, on the 9th in the evening, a man by the name of Nyavumu, had a problem with some soldiers, Habyarimana's soldiers.  They beat him up at Ndatemwa.  And the Brigadier Nyarwaya came.  On his arrival he quarrelled, squabbled with the soldiers and said that the man who had been beaten up was a bit of a nut case, and that he should have been taken to Nyabera hospital.  And he said that the communal vehicle had broken down.  And local inhabitants came running up because of the problem, and Nyarwaya shot in the air, fired in the air; and the people scattered, panicked stricken.  I myself quickly entered my house because it was a surprise.  After Nyarwaya's departure, we came out of our houses -- I'm sorry, I confused the Nyarwaya incident and the incident Rutembya and Rutembesa.  That is, rather, what happen on the 9th? 
+Q.	The Nyarwaya incident with this man Nyamvumvu, N-Y-A-M-V-U-M-U, on the 9th and the beating up of the man and the taking -- being taken to Kayanga health centre on the 11th.  Let's just stay with the 11th, and let's move on from there.  Now, do you remember what happened? 
+A.	On the 11th, between 11 and 12, Rutembya and Rutembesa, two young men who used to pray a lot, arrived at Ndatemwa.  And the soldiers beat them up.  And they were flopped down on the ground when the Gasabo secteur conseiller came and asked why they had been assaulted, beaten up.  And the soldiers said those young people had refused to show their ID cards.  The conseiller said, these young people are well behaved, they have no problem with any member of the population, they pray a lot.  And the soldiers left them.  And Ntamuhanga asked the locals to take those young people to the hospital.  
+
+	And they said, "Well you see we are here muddy and dirty, let us go wash up and change, and then go to the hospital.  I was among the people who carried them to their house, and then another group took them to the hospital.  But I didn't returned home until night fell, that was on the 11th. 
+Q.	Sir, can you help us now with the next couple of days before you came to leave.  What about the 12th; can you remember what happened, if anything, on that day? 
+A.	On the 12th, nothing special happened except that the leader of the Interahamwe, whose name was Ephreim, I can't remember his surname, all I know is that he was chairman of the Interahamwe, president of the Interahamwe, arrived in Ndatemwa in an ambulance.  And he turned around in front of my house.  And the ambulance was being driven by Nzaramba.  And as far as I am concerned, when I saw Ephreim come, I went inside because at some time, there was some tension between MDR party members and MRND party members.  So when I saw him, I went in and I observed what ensued from the window.  He stayed there a little while and then he went off.  So, nothing special happened on the 12th, until night fell. 
+Q.	And now, the 13th, the day before you leave what, if anything, happened? 
+A.	On the 13th at about 11, Ephreim came back in the same ambulance.  And when he got to Ndatemwa, he stopped, got down from the ambulance which drove off again.  And a few minutes later, let's say after five minutes, we saw the displaced people from Gitega, where there was a camp of IDPs from Byumba.  These IDP's arrived in Ndatemwa, and they found Ephreim, they clustered around Ephreim.  
+
+And as I was on the side, I was not with the MRND people, so I watched things from the house.  Ntamuhanga arrived -- Ntamuhanga arrived and spoke to him.  When I saw Ntamuhanga arrive, I went and greeted him.  And he told Ephreim, where are you going.  And Ephreim answered, I am here.  So the conseiller asked him, why are these IDP's here?  And they were armed with machetes and clubs.  And the IDP's answered, Ephreim told us we were going to attack Gasabo and get food.  And Ntamuhanga replied,  I am the conseiller of Gasabo and I dissuade you from going there.  So, there was quarrelling between the Ephreim and the conseiller.  And Ephreim told the conseiller, "Who made you a policeman?"
+
+The conseiller went on and said, "I will not let you go and attack Gasabo." Show me the letter that the bourgmestre gave you that would allow you to go and attack Gasabo.  And Ephreim did not have that letter.  And Ephreim said, "Well, whether you want us to or not, I will attack Gasabo.  And when the conseiller saw that, he asked the soldiers to come.  And they came and they fired in the air.  And the IDP's dispersed.  And there was no problem after that until night fell.  That is what happened in Ndatemwa. 
+Q.	Was Ephreim in uniform at all? 
+A.	He was wearing a police uniform. 
+Q.	Was he, in fact, a policeman? 
+A.	He was not a policeman.  He was the leader of the MRND youth throughout the commune, that man named Ephreim that I am talking of. 
+Q.	Was he armed at all? 
+A.	I think he had a grenade in his hands, no other weapon or arm, but he did not throw that grenade at anyone at Ndatemwa.  And I stayed there until the evening, I was present until the evening. 
+Q.	Was anyone killed at Ndatemwa at all during the period that you lived there? 
+A.	The people chased someone whom I don't know, chased someone I don't know, a young man by the name of Murasi, and other people living in Ndatemwa.  So they chased that person.  And one Ndori, who is detained, told us in the gacaca proceedings that they killed that person in Karuranga.  Rutabagirwa killed all of the people who participated in killing that person, only Ndori survived. 
+Q.	Now, the next day you fled, as you have told us.  And I don't want to go over that.  And at the time you fled -- 
+A.	(No interpretation)
+Q.	At the time you fled, did you flee with your wife and your six children or not? 
+A.	No, we did not flee together, but that was because of the firing.  They fled on their side and I fled on my side.  They went to Rutare and as far as I was concerned, I did not go there.  After the war, they came back home and they are still alive. 
+Q.	When did you next meet up with your family, your wife and children? 
+A.	On the 1st of August when I returned from Kibuye, that is when I saw my family.  When I returned home, when I got home, I saw that Rutabagirwa had given my house to someone.  After the war, the survivors gathered at the trading centre.  When I arrived home, I saw that the Rutabagirwa had given my house to someone.  So I had to go and ask my paternal uncle to shelter me.  And that is where I found my wife, who had gotten there on the 17th.  She saw that our house had been occupied by someone and she had to go to my uncle, my paternal uncle.  I stayed at my paternal uncle until Rutabagirwa found me there and arrested me. 
+MR. HOOPER:
+I only have less than five minutes, can I complete it tonight?  Thank you.  Very quickly, it is just two brief matters? 
+BY MR. HOOPER:
+Q.	The first one is this, we are concerned to know here, if you can help us a little as to what the position was as to access for vehicles coming up from Kigali to the commune.  Have you any observations on that? 
+A.	Which period are you referring to, when exactly do you mean?
+Q.	Well, can you help us as to the position?  Could vehicles get up from Kigali, to your knowledge, to the commune, from your knowledge, from what you learnt or understood to be the position, after the        6th of April?  At any time after that, are you aware of the position? 
+A.	After the president's demise, after the president's demise, the RPF captured Rutunga area, and the people from Rutunga, one Munyakazi sought refuge in Rutunga.  That man fled on the 9th and he said that the RPF had taken Rutunga.  After he arrived, that was on the 9th, no vehicle could move because Rutunga commune had entirely been taken by the RPF.  So no vehicle could use the roads as of then. 
+Q.	And that commune, we can remind ourselves, is the commune that lies to the west of the Kigali, Byumba road; is that correct? 
+A.	There is an asphalted road running through that commune which is the road from Kigali up through Kabuye, Mugambazi, and the direction of Byumba and Uganda. 
+Q.	Right.  Now the final thing I want to ask you about is this; to your knowledge have you ever been asked by the Prosecution of this Tribunal to make a statement; and if so, what are the circumstances in which that happened? 
+A.	I didn't see -- I did not see any Prosecutors, and I don't think I could recognise them.  It is true that people came from the Tribunal to see me at the hospital and asked me if I knew Rwamakuba.  I said I knew him.  Then they asked me if Rwamakuba had come to Ndatemwa.  And I gave them the same answer I have already given you, that I know Rwamakuba and that I had not seen him at Ndatemwa. 
+Q.	Did they say anything to you about why you might make a statement? 
+A.	When I was in Kigali central prison, there was a man who came with a young lady, who looked a bit Indian.  And they asked me if Rwamakuba had come to Ndatemwa; and that was in 2001.  And I said that Rwamakuba did not come to Ndatemwa.  And they went away.  It is only more recently that I have been asked to come here. 
+Q.	And you were asked, of course, by us.  And may I say now that we are very grateful for you coming.  It is now 20 to 6:00.  And I finished all of my questions, but my colleagues will be asking you some questions tomorrow.  So we will be stopping now.  And you will have to come back tomorrow morning.  
+And I just stress, I cannot talk to you, or anyone on the Defence, we cannot talk to you or speak to you until you have finished your evidence.  Thank you.  
+MR. PRESIDENT:
+Thank you.  
+
+Madam Prosecutor, do you have any idea how long the cross-examination will be?  
+MR. MORLEY:
+No more than one hour and a half, probably shorter. 
+MR. PRESIDENT:
+Thank you.  
+
+Now, Mr. Hooper, how does that fit with your promise to finish by midday tomorrow?  How long is your next witness going to be in-chief?  
+MR. HOOPER: 
+Well, he has not arrived.  He is arriving later tonight. 
+MR. PRESIDENT:
+He has -- 
+MR. HOOPER: 
+I'm going to see him later tonight.  I may not be able to see him tonight.
+MR. PRESIDENT:
+He has not arrived yet?  
+MR. HOOPER: 
+No, he is arriving tonight. 
+MR. PRESIDENT:
+Okay. 
+MR. HOOPER: 
+And he hasn't been seen. 
+MS. FALL: 
+Mr. President, I should like once more to draw the attention of the Trial Chamber to this problem of witnesses that put the Prosecution in a very difficult position.  We have a list of witnesses.  We have often accepted certain variations.  We try to be as conciliatory as possible, but it is others that -- in respect of the witnesses due to appear tomorrow, whether they come or not, I did ask whether it was to be 2/18.  I think if they would have brought another witness tomorrow, it will be a problem for the Prosecution.  And I wanted once more to draw the attention of the Trial Chamber to this problem of the order of appearance of Defence witnesses. 
+MR. HOOPER: 
+We are not changing the order.  It is 2/18 still tomorrow.  It is just that we are concerned when we are going to see him if he is getting in late tonight.  But we will try to get around that, particularly if you have an hour or so with this witness.  
+MR. PRESIDENT:
+Thank you, very much.  
+
+Yes, Mr. Witness, we are taking a recess now.  We will resume tomorrow morning at 8:45.  And at that time you will be examined by the Prosecutor, who will ask you some questions. 
+THE WITNESS:
+Fine. 
+MR. PRESIDENT:
+During the adjournment, during this or any adjournment during the trial, you are not to discuss the case or your evidence with anybody at all. 
+THE WITNESS:
+I'm listening. 
+MR. PRESIDENT:
+Okay, but did you understand me?  
+THE WITNESS:
+Yes, yes, yes.  I understand you well, Mr. President. 
+MR. PRESIDENT:
+Okay, thank you very much. 
+
+All right, we will take the adjournment now until tomorrow.  
+(Court adjourned at 1745H)
+(Pages 55 to 61 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Gifty C. Harding, Wendy Molnar, Karen Holm and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+	___________________________	Gifty C. Harding 
+
+	_____________________________	Wendy Molnar 
+
+	______________________________	Karen Holm
+
+	______________________________	Donna M. Lewis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+GIFTY C. HARDING - ICTR - TRIAL CHAMBER III - page 13
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 18
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 33
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 43
+
+	RWAMAKUBA	THURSDAY, 19 JANUARY 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 56
+
+	RWAMAKUBA		THURSDAY, 19 JANUARY 2006
+
+ICTR - TRIAL CHAMBER III
+

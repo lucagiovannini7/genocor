@@ -1,0 +1,970 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+
+WEDNESDAY, 20 JANUARY 2010
+0855H
+CONTINUED TRIAL
+
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dow
+	Mr. Takeh Sendze
+	Ms. Sunkarie Ballah-Conteh
+	Ms. Florida Kabasinga
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+	
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Kelly Surina	
+	Ms. Sithembiso Moyo
+	Ms. Melissa Hook
+		
+
+
+I N D E X
+
+WITNESSES
+
+For the Prosecution:
+WITNESS 11A (continued)
+Cross-examination by Mr. Sendze	4
+
+For the Defence
+WITNESS 10A
+Examination-in-chief by Mr. Nimy	17
+Cross-Examination by Mr. Sendze	25
+
+CLAIRE NYIRABUTSITSI
+Examination-in-chief by Mr. Nimy	28
+
+EXHIBITS
+
+Exhibit No. D. NZ709	 ..........................................................................................17
+Exhibit No. D. NZ710	 ..........................................................................................29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S
+MR. PRESIDENT:
+Please be seated.
+
+Good morning, everybody.
+
+Mr. Registrar, could you open the proceedings, please.  
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding; Judge Gustave Kam and Judge Vagn Joensen, is now sitting in open session, today, Wednesday, the 20th of January 2010, for the continuation of the trial in the matter of the 
+Prosecutor versus Édouard Karemera, et al, Case No. ICTR-00-98-44-T. 
+
+Thank you.
+MR. PRESIDENT:
+Good morning.
+
+I was going to say the appearances are the same except that I see a new headpiece on this side of the Prosecutor.  
+MR. WEBSTER: 
+Yes, Your Honour.  I was going to bring it to the Court's attention that we do have the assistance of a legal researcher who will be with us for the next month or so.  So you will see him in court.  The Court seemed exceedingly pleased when it came in.  And I was wondering what that was about, but it probably is about having noticed the new member of our team.  
+MR. PRESIDENT:
+I think I was looking forward to the new headpiece besides you.  
+MR. WEBSTER: 
+I'll refrain from comments, Your Honour.  The Prosecutor is assisted by Alejandro Gordano who will be with us for the next month.  Thank you.
+
+And there is something I would like to put on the record before we move on to the testimony of the witness after the appearances from the Defence.
+MR. PRESIDENT:
+Yes.  The appearances from the Defence are the same.  Yes.  
+
+MR. WEBSTER: 
+Mr. Robinson circulated an email to CMS -- I believe it was yesterday or the day before yesterday -- suggesting that Thursday would be a good day to handle some housekeeping issues on numbering exhibits, but to save time I'd like to advance that a bit.  
+
+There is one exhibit that I've discussed with the Defence.  It's D. NZ136.  This is a Gacaca document that we've referred to many times with other witnesses.  And during my examination of 
+Witness No. 6, I commented that I was a bit perturbed by some translation errors and dropped text, text that had not been translated from the original Kinyarwanda.
+
+So during the break, my team worked with the language section, and we revised the translation, and I circulated it to the parties.  And I'm not aware that anyone has an objection.  And the accommodation that I've made with Mr. Robinson was simply to add these revised translations to the record as DNZ-E for the English and DNZ-F for the French -- excuse me.  D. NZ136E and D. NZ136F.  And they would simply supplement our trial record.  We wouldn't remove any document.  We would simply add or revise the translation.  I think some of the difficulties we had with the translation was because the original Kinyarwanda document was scanned out of order.
+
+And I have reordered that document, and I've numbered it so that there will be no mistaking how we move from one document to the next.  And what I'd request is for CMS to rescan the document or to enter the document as I've reassembled and renumbered it so that we can follow it without difficulty.  So I have these three documents, and I don't think it is a controversial matter because I've discussed it with Mr. Robinson and have also communicated with the other Defence teams.
+
+So I have them here if the Court can approve that application.
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Yes, Mr. President.  That's correct.  We have no objection to that.
+MR. PRESIDENT:
+We make the Court order accordingly.  
+MR. ROBINSON: 
+Mr. President, I just want to alert you to one other thing before we start the testimony of this witness, and that is that the following witness who will testify today, Witness 10A, will also be requesting protective measures.  We didn't have time to implement your instruction that it be done in writing.  So if you would like to bring him in now to question him and you can think about it.  Or else if we can just do it in the regular way, and in the future we can make written applications.
+MR. PRESIDENT:
+We can deal with it when he comes in.  But, Mr. Robinson, I think another thing we would like to say before we start -- it's almost sort of an order or direction, and it goes something like this:  Following our oral decision on the 18th of January, we have been considering that the witnesses allocated for your client, Mr. Nzirorera, for this session may not be sufficient to fill the available time.  What we would like you to do is to file an amended order of appearance for witnesses for the current session taking into account the increased sitting hours.
+
+And we would hope that that could be done by Friday of this week, Friday, the 23rd.  We would like to invite you to liaise with our trial coordinator to facilitate this exercise.  We think that would be of assistance to you.  
+MR. ROBINSON: 
+Very well, Mr. President.  I already am trying to bring back-up witnesses.  So I think I can give you a list that at least reflects our aspirations for this session and try to implement them.
+MR. PRESIDENT:
+Okay.  We can proceed now.
+
+Mr. Witness, good morning.
+THE WITNESS:
+Good morning.   
+MR. PRESIDENT:
+Your testimony will continue today.  You're being under the same oath to tell the truth that you took when your testimony began yesterday.
+
+And now you'll have to respond to questions from the Prosecutor.  
+MR. SENDZE: 
+Good morning, Mr. President, Honourable Judges, and dear colleagues of the Defence.
+
+For the record, I am called that Takeh Sendze.  And for the benefit of the President, I am so robed because I am now also a member of the bar association of Cameroon.  
+MR. PRESIDENT:
+Do we need to say congratulations?  
+MR. SENDZE:
+Thank you, Mr. President.  
+
+
+
+WITNESS 11A (continued), 
+CROSS-EXAMINATION
+BY MR. SENDZE:
+Q.	Now, Witness, I represent the Office of the Prosecutor, and I'll be asking you some questions to seek clarifications and to better understand the evidence you gave in-chief.
+
+Now, it is not standard procedure for you to ask questions to me --
+MR. SENDZE:
+But with the leave of the Court, I would like to give the witness a question so that he would ask it to me, and then I would respond.  And then we will proceed from there.  If I have the Court's leave, I will proceed in that manner.
+MR. PRESIDENT:
+Proceed, and then we'll see what the question is.  
+BY MR. SENDZE: 
+Q.	Witness, I want you to ask me the following hypothetical question.  Please ask me how many -- if there are any people seated behind me presently in this courtroom.  Could you do that, please.
+MR. PRESIDENT:
+Witness, you are permitted to ask the question if you wish to do so.
+THE WITNESS:
+I don't quite understand the context of that question, but if he so desires, I can see the people seated behind him.
+
+Well, as you wish, let me ask you the question.
+
+Tell me:  How many people are seated behind you?  
+BY MR. SENDZE:
+Q.	Now, my answer to your question is that nobody has told me how many people are seated behind me today in the courtroom.  
+
+Now, having heard my answer, I want to ask you, being an educated young man, what impression do you make of my answer?  Do you understand me to mean that there is nobody seated behind me, or do you understand me to mean that I do not know because nobody has actually told me about it?  Which of those two impressions do you get from my answer?
+A.	Thank you.  You have tried to avoid reality.  That is all.   
+Q.	Witness, I gave you two impressions that may arise from my answer, and I am asking you which of the impressions you gathered from my answer to your question.
+A.	My impression is as follows:  You tried to hide the fact that there are people seated behind you.  You are aware that people are seated behind you, and you asked me to ask you the question.  
+Q.	Okay.  Let me put it this way:  If somebody told you that they were not informed about something, does it mean that that something never happened, or does it mean that you are simply not informed and, therefore, you do not know?  
+A.	Thank you.  You may be aware that an event happened because someone told you about it, but you can't say that event didn't happen; whereas, someone talked to you about it. 
+Q.	What if no one told you about the event?  Would you conclusively say that it never happened?  That's what I'm asking, Mr. Witness. 
+A.	No.  That is not possible. 
+Q.	Thank you.
+
+Now, yesterday you testified about your visits to Mr. Nzirorera's ********************************.  And from what I gathered, you used to visit that house sometimes when you were on holiday from school.  And when you left school, you occasionally visited on Sundays.  But after you gained employment in 1993, your visits to that house diminished.  The number of times you visited the house diminished.  Is that correct?  
+A.	That's correct. 
+Q.	So it is fair to say that you were not always at that residence? 
+A.	"Always"?  What do you mean by that?  Considering the fact that I was not a member of that family, I was not there all the time.  But any time there was an event in that family, I would hear about it. 
+Q.	Now, you cannot testify to what happened at Nzirorera's ***********************during the times when you were not present at that house, can you? 
+A.	What you are saying is correct, but you also said that one can learn about an event that happened somewhere.  Even if I were not in the family, I could hear about what happened in it. 
+Q.	Now, when you were asked yesterday about possible gatherings of authorities, figures of authorities at Nzirorera's ********************, your response was that nobody told you about any such gatherings; correct? 
+A.	I was straightforward in my answer to that question.  I said people did not meet within that family and that no one had told me that people had met there.  As far as I'm concerned, I personally didn't see them, and my entourage did not talk to me about it. 
+Q.	Yes, but drawing from the general principle which we established when we started, that the fact that you are not told about something does not mean it did not happen and also the fact that you were not always present at that residence, it is fair to say that you are not absolutely sure that authorities never gathered at Nzirorera's *********************; correct? 
+A.	My answer to your question would be as follows:  I was asked a question and have just repeated the answer I gave to you.  You can understand it how you wish.  Others can also understand it in another manner.  I think the Bench would be in a position to decide whether those people met within that family.  But as far as I'm concerned, I know you understood my position. 
+Q.	Okay.  We'll move on.
+
+You also discussed yesterday a certain youth association in *********** to which ********** and *********** belonged.
+
+Do you know the name of the association? 
+A.	The association was known as Uyurange.  It was an association, as I told the Court yesterday, which was focused towards income-generating activities such as for agriculture and brick laying.  
+Q.	You were also asked about the Interahamwe.  And in your response to counsel for Nzirorera, you said you had heard that the Interahamwe had existed in Kigali.  And as far as ********** was concerned, you said you were not aware of any Interahamwe.  But you went ahead to say, if we wanted to know more, we could talk to a certain Jean Damascène Niyoyita, who was a leader of the MRND in **********; is that correct?  
+A.	Correct. 
+Q.	You agree, therefore, that, because Jean Damascène Niyoyita was a leader of the MRND in **********, he is in a better position to tell us whether or not the Interahamwe existed; true?
+A.	Yes.  Such was my understanding when I was answering the question. 
+MR. SENDZE:
+Would Mr. Issa kindly put before the witness the first document in my bundle.  
+MR. ROBINSON: 
+May the bundle be distributed because we've never seen it.  
+MR. SENDZE:
+It has been distributed.  
+MR. ROBINSON: 
+I'm sorry.  Thank you.  We do have it here.  
+BY MR. SENDZE:
+Q.	Witness, are you comfortable reading English or French?
+A.	Those are not my first languages, but I would be happier if you could provide me a Kinyarwanda version.  As they are legal texts I am unable to read, I would be more at ease with a Kinyarwanda version.  
+Q.	Anyway, it's not a problem.
+
+Now, do you know Juvénal Kajelijeli?  
+A.	Yes, I do know Kajelijeli. 
+Q.	And you are aware that he was a member of the MRND party and he was the bourgmestre of Mukingo? 
+A.	Yes.  He was the bourgmestre of the Mukingo commune. 
+Q.	Okay.  
+MR. SENDZE:
+For the record, I am referring to Exhibit No. P. 374, which is Mr. Juvénal Kajelijeli's testimony in his own trial on the 17th of April 2003.  
+BY MR. SENDZE:
+Q.	Now, Witness --
+MR. SENDZE:  
+And I'll direct the parties to the third page of that first document, which is in English.  
+THE ENGLISH INTERPRETER:
+Mr. President, would you ask counsel to kindly provide copies of the documents to the 
+interpretation booth.  
+MR. SENDZE:
+Rest assured I would not be reading verbatim, and it is not a long passage.  And I assure you I will be slow enough to enable you to interpret properly.  Thank you.  
+BY MR. SENDZE:
+Q.	Now, Witness, this is an exhibit in the trial -- at the trial of Mr. Juvénal Kajelijeli -- 
+MS. HOUNKPATIN: 
+Excuse me.  The French interpretation booth would like to have the documents which you are using.  
+BY MR. SENDZE:
+Q.	Witness, I was saying that this is Mr. Juvénal Kajelijeli's testimony in his own trial.  And just like Mr. Jean Damascène Niyoyita, he is an official of the MRND party.
+
+And when he was asked about the existence of the Interahamwe in *********, this is what he had to say.  Mr. Kajelijeli acknowledged that the Interahamwe had been formed in Kigali in 1991.  He was asked if the Interahamwe was later created in *********.  And his answer was yes, the Interahamwe was later on created in *********.  That is the gist of what Mr. Kajelijeli said during his trial.
+
+Now, with this information before you from a high-ranking member of the MRND, do you still insist that the Interahamwe never existed in Mukingo?  
+MR. ROBINSON: 
+Excuse me, Mr. President.  I want to object to the form of that question and ask Mr. Sendze what position Mr. Kajelijeli had with the MRND because I think that he held none.  And I think, therefore, he's qualifying Mr. Kajelijeli in his question in a way that's not correct.
+
+So what I was saying, Mr. President, is I think that the form of the question is improper because it asserts a fact that's not correct, that Mr. Kajelijeli was a high-ranking MRND official.  And I don't believe that that's the case.  
+MR. SENDZE:
+Do I understand counsel -- 
+MR. ROBINSON: 
+If you want to rephrase your question, then perhaps it can be put more accurately.  And, Mr. President, I also noticed another problem, and that is that this is -- what is being put to the witness is incomplete.  And perhaps the witness can be asked to take off his headphones because I would like to show to the Chamber some additional passages from this very same colloquy with Mr. Kajelijeli.  And then I think it would have some impact on the witness's testimony.  So I don't want him to be influenced by hearing that.  
+MR. SENDZE:
+Your Honours, Counsel would have an opportunity in redirect to go into the areas he deems necessary.  So I think it's not proper for him to do that at this time.   
+MR. ROBINSON: 
+Well, Mr. President, if the question is misleading, I think I have a right to at least bring that to your attention.  You can decide how to deal with it.  But I would prefer not to do that in a way which might influence the testimony of the witness.
+MR. PRESIDENT:
+Yes, Mr. Prosecutor, there are two issues here.  I agree that you do have certain freedoms in the way that you present your case.  But the Chamber would be interested to ensure that questions are not put to the witness in a manner which could mislead him.  So to that extent, we have to respond to the complaint which has been made.  
+MR. SENDZE:
+Obliged.
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Yes.  Thank you, Mr. President.  Mr. President, the passage that is being referred to that was provided by the -- 
+MR. PRESIDENT:
+The question has been raised that the witness is able to understand English.  
+MR. ROBINSON: 
+That's true.  He does understand some English.  That's a good point.  Perhaps he can be excused then.
+MR. PRESIDENT:
+Yes.
+
+Mr. Registrar, could you invite the witness to step out of the courtroom for a few minutes, please.
+
+Mr. Witness, the discussion that is taking place really should not be heard by you, and it may have an impact on the way you answer the questions that are going to be put to you subsequently.  So we ask you to step out of the courtroom for a few minutes while it's taking place.  
+(Witness exited courtroom) 
+MR. PRESIDENT:
+Yes, Mr. Robinson.  
+MR. ROBINSON: 
+Thank you, Mr. President.
+
+Mr. President, this question that was asked that's included in the Prosecution's excerpt -- it says something like, "It now spreads to the other parts of Rwanda including the Mukingo commune; isn't that correct?" speaking of the Interahamwe.  And Mr. Kajelijeli is recorded as having answered that as, "Correct."  
+
+But on the next page, which is not included in this exhibit, Mr. Kajelijeli says, "There was no such Interahamwe organisation in my commune."  That's on line 13.  And I think it's unfair to present one aspect of the evidence without being more complete where the actual opposite was said by Mr. Kajelijeli.
+
+And it appears -- I'm not sure exactly what the explanation for that is.  We'll have Mr. Kajelijeli here as a witness, and he can explain that.  But the Prosecution is presenting a very selective and misleading representation of his testimony.  And I would ask, if he's going to make a representation as to what Mr. Kajelijeli said, that he include both of those portions so that the witness is not misinformed when answering the question.  Thank you.  
+MR. SENDZE:
+What I can say is that that excerpt of the transcript can also be included as an exhibit if it is not already part of the exhibit.  If the Defence so pleases, I have no objection on that being done.  
+MR. PRESIDENT:
+Yes.  Mr. Prosecutor, you know, is this really an important issue?  Here we have Kajelijeli who makes one statement and then contradicts himself.  Is this really a useful thing to address?
+
+We are actually not sure, but we are wondering whether it would really be fair to put it to the witness without saying the whole story.  
+MR. SENDZE:
+We do not need to insist on it, Your Honours.  The witness can be brought back to court now.  
+MR. PRESIDENT:
+May the witness come back to court.  
+MR. ROBINSON: 
+Mr. President, while the witness is coming back, I just want to thank Mr. Sendze for that.  And I would maybe explain to him if at one time he said that there were five people behind him and then a few minutes later he said that there were seven people behind him, it wouldn't be fair to tell the witness or to say to somebody, "Takeh Sendze said that there were five people behind him."  And I think that was the point that I tried to make.  Thank you.  
+MR. WEYL:
+And we didn't know whether we should also include the interpreters when counting the people found behind Mr. Takeh Sendze.  
+	(Witness entered courtroom)
+BY MR. SENDZE:
+Q.	Mr. Witness, we will come back.  We will put that document aside, and I will ask you about 
+	Isimbi house.  You testified that you know the Isimbi building at ************.  How often did you visit that Isimbi building?
+A.	That building is located by the roadside, and every time I used that road, I would see that building.  I didn't have any special reason to go there, but every time I used that road, I would see that building.  
+Q.	And again, the only reason why you testified that Mr. Nzirorera did not lend his building to Niyigaba and his friends is because nobody told you about it; correct? 
+A.	I said -- I stated that that Isimbi building belonged to Nzirorera's wife who had bought it from an Indian.  Hence it's a building that belonged to the Nzirorera family.  I know that many people had businesses in there.  As to the fact Nzirorera had lent it out to whosoever, I am unaware of that.  
+Q.	Thank you.  Now let's talk about Mr. Nzirorera.  You testified yesterday, using your own words, that Mr. Nzirorera was in a very unique position in **********.
+
+Now, from your testimony, is it fair to say that this unique position that was occupied by Mr. Nzirorera was a position of influence?
+A.	He was an important personality, not only in ********** but in the entire country.  He was a well-respected personality.  You talked about an influential person.  What are you referring to?  Could you be more specific.  What is the context from which you are speaking?  
+Q.	Is he the kind of person who people would listen to? 
+THE ENGLISH INTERPRETER:
+"Of course" states the witness in English.  
+BY MR. SENDZE:
+Q.	Now, when you were asked about the distribution of kitenge uniforms in **********, your response to Defence counsel again was that you were never told about uniforms being distributed.
+
+Is that the only basis for your testimony, that nobody told you?  
+A.	He asked me a question.  He wanted to know if I had seen uniforms being distributed or if I had heard about it.  I answered that I didn't hear about it, but that does not mean that there were no people wearing kitenge fabric.  You had women wearing them, and women were dressed in clothing made from kitenge fabric.  
+MR. SENDZE:
+Thank you.  
+MR. HOMETOWU:
+Your Honours, going by the time standards, the Prosecutor has ten more minutes to go.  
+MR. SENDZE:
+That would be sufficient.  
+BY MR. SENDZE:
+Q.	Now, you testified yesterday that you visited the ************ centre on one occasion when you attended the burial of *********.  Is that the only time you visited ************ in April of 1994? 
+A.	I told you that in April 1994 there were people who were being tracked down and who were in danger.  So we had to hide them in our various families.  The war was raging at the time.  So I avoided going to ************* because I was very busy.  So I did not have time to go there.  In short, therefore, I can say that during the month of April I did not go to **************. 
+Q.	Do you know the circumstances under which ********* died? 
+A.	I heard that ********* was gunned down by a policeman or, rather, a soldier, a deserting soldier, of the ex-FAR.  People heard it that they had come to fetch him, and as ********* was fleeing, he was shot down.  
+Q.	Okay.  Now, you also testified that sometime after the death of the president you were busy saving the life of your cousin's Tutsi wife as well as other inhabitants of your local area.
+
+Is it fair to state that your cousin's wife was being targeted because she was Tutsi?
+A.	Yes.  That would be correct. 
+Q.	Who were those carrying out these attacks against Tutsis? 
+A.	Yesterday I already stated that some members belonging to the association which I mentioned were involved in killing people.  And the association is known as Uruyange.  There was also the Abakombozi members of the MDR who tracked down and killed Tutsis, and they adopted the name Interahamwe.  So it could be said that all those who were involved in the killings were known as the Interahamwe.  
+Q.	Okay.  One last thing before we finish.  Yesterday you discussed the circumstances under which you were arrested and locked up in *********************, but I was not very clear about -- I was not very clear about the evidence you gave yesterday.  So I want to find out from you if you were -- if ***************** talked to you before or after you were locked up at the *********************.
+A.	I never had any discussions with *************.  I consider him to be my enemy because he arrested me and threw me in jail.  Why would I have had any discussion with him and what about?  
+Q.	Yesterday you testified that ****************** tried to convince you to give false evidence against Mr. Nzirorera.  Isn't that the case?
+A.	Shortly after arresting me, he asked me to testify against Nzirorera stating that he would release me if I granted his request.  But when I turned it down, he threw me in jail, and I was held in detention for * ******** and above.
+
+And it was only subsequent to a lengthy investigation that I was released.  Allow me to add that in 1998 there was a group of persons who were natives of ********** including ********** and Marc Samvura Sanvoure -- Épimeque, Samvura, rather, and there was a deputy prosecutor from ********* as well who wanted to take revenge or avenge themselves of something.  And so they said that the youth were going to be involved in the killings.
+
+They also were looking for persons who had relations to members of the former government, and they did their level best to arrest them and put them in prison.  
+Q.	So ********** asked you to testify against Mr. Nzirorera, and you refused.  And yesterday you testified that ************** was subsequently dismissed for bad conduct; correct? 
+A.	Yes. 
+Q.	It is, therefore, fair to say that the prosecutor's office in ************** did not condone such conduct from its personnel.  That is why **************was dismissed; correct? 
+A.	I was not present when the decision was made.  So it is possible that that consideration might have been one of the reasons for which he was fired.  However, I do not know the details and I am not aware of the manner in which decisions are taken at that level.  I am not in a position to give you the exact reasons for which he was dismissed.  
+Q.	And you were locked up in ********************, charged with genocide, and you refused to testify falsely against Mr. Nzirorera.  The prosecutor's office carried out its investigation and concluded that you had nothing to do with the genocide, and you were released.  Isn't that the case in spite of the fact that you refused to testify falsely against Mr. Nzirorera?  True?
+A.	Yes.  Like you have stated, investigations were conducted and I was released therefore.  But when I was being released, mention was not made of the fact that I had refused to testify against Nzirorera.  My case was reviewed, and I was released.  
+Q.	All right, Witness.  Thank you very much for attending.  I'm sure the Judges will make good use of your evidence, and I wish you a safe trip back to your destination.  
+MR. SENDZE:
+Thank you, Mr. President.
+MR. PRESIDENT:
+Thank you.
+
+Mr. Robinson.  
+MR. ROBINSON: 
+Yes, Mr. President.  I have no further questions, and I, before excusing the witness, would ask you to grant permission for him to meet Mr. Nzirorera.  Thank you.
+MR. PRESIDENT:
+Mr. Witness, this concludes your testimony before the Tribunal, and we thank you, as we do all witnesses, for assisting us in our work.  You are now free to leave.  The registrar will make arrangements to grant the request made by counsel.
+THE WITNESS:
+Thank you.  
+MR. ROBINSON: 
+And, Mr. President, when the witness leaves, if the registrar can bring in Witness 10A.  He would be our next witness.  And as I indicated earlier, he is requesting that protective measures be granted and he be allowed to testify by way of pseudonym.  His examination will be conducted by Mr. Nimy.  Thank you.  
+(Witness excused)
+MR. ROBINSON:
+Mr. President, while we're waiting for the witness -- I have so many witnesses here today that they're putting them on other floors.  So that may explain the delay.  But there was one issue I was going to raise with you on Thursday, and it won't take very long -- maybe we could use the time now -- and that is that on the 8th of February I'm going to call General Augustin Bizimungu as a witness.  He's presently awaiting his judgement.  
+
+And his lawyer, Giles Saint-Laurent, has asked to be present during the testimony of his client, General Bizimungu.  So I'm wondering if you might be willing to grant that request orally or if you preferred to have a written motion by Mr. Saint-Laurent.   
+MR. PRESIDENT:
+Mr. Robinson, we will consider that this is an application.  We can't rule immediately.  We will direct the registry to make some enquiries as well, and we'll give you a ruling as soon as we can.  
+MR. ROBINSON: 
+Very well.
+MR. PRESIDENT:
+But I'll invite -- 
+
+Mr. Prosecutor, do you have any submissions you'd like to make on the application?  
+MR. WEBSTER: 
+In principle, quite frankly, I hadn't considered -- I did receive Mr. Robinson's email, but I hadn't really thought about it seriously yet because we're going to deal with it tomorrow morning.  In principle I see no problems.  I recall on other trials when other accused persons have testified as Defence witnesses, the lawyers have been present in order to protect their rights.  And with respect to General Bizimungu, his case has not moved to judgement.  It's still in deliberations.  So I can understand that there be some concern about him saying something which would compromise his Defence.  
+
+It's just a question of how the lawyer is present.  If the lawyer is just to be simply in the room sitting on the side, that would be fine.  But certainly I would object to the lawyer sitting and consulting with the witness while he's testifying.  So with that caveat, I don't really see a problem, Your Honour.  But I'll look into the issue and give it some more thought, and I will certainly raise the issue with the Chamber if I would like to revise the submission in any way before the Chamber makes its decision.  
+MR. PRESIDENT:
+Thank you very much.
+(Witness entered courtroom)
+MR. PRESIDENT:
+Good morning, Mr. Witness.
+THE WITNESS:
+Good morning.
+MR. PRESIDENT:
+Before you testify, you have to take an oath to tell the truth.  And I will now invite the registrar to assist you to do that.  
+(Declaration made by Witness 10A in Kinyarwanda)
+MR. PRESIDENT:
+Now, you will testify by responding to questions put to you by counsel.  And you'll have to respond, 
+first of all, to counsel representing Mr. Joseph Nzirorera.
+
+Before you testify though, there is an issue that we needed to clarify.  There is no order for your protection, but your counsel has indicated that you wish to request that you be treated as a protected witness.  Is that so? 
+THE WITNESS:
+Yes, Mr. President.  I made that request.
+MR. PRESIDENT:
+Could you explain to the Court why you -- what's the problem that you need us to assist you to manage. 
+THE WITNESS:
+I believe that after my testimony I may encounter some problems on my return to **********.  I would not like to have my testimony broadcast over the BBC or over other radio stations, and I would not like these cameras that are surrounding me here to publish my photograph.
+MR. PRESIDENT:
+Okay.  We understand that.  But why do you have these views? 
+THE WITNESS:
+Mr. President, as you may know, when one tells the truth, one may be exposing oneself to danger.  That is why I have to be careful to ensure that my identity is not disclosed to anyone.
+MR. PRESIDENT:
+What danger are you speaking about? 
+THE WITNESS:
+These accused persons were leaders who have political problems.  And I think, therefore, that testifying in their case might have some serious consequences relating to my safety and security.
+MR. PRESIDENT:
+Mr. Nimy, do you wish to proceed with your questions?  
+MR. NIMY: 
+Thank you, Mr. President.  I take it that the protective measures have been granted, Mr. President?  
+MR. PRESIDENT:
+Not just yet.  I have asked a few questions which will facilitate our decision, and I just wondered if you thought that there were any additional questions which should be put to the witness for this purpose.  
+MR. NIMY: 
+In relation to his safety?  
+MR. PRESIDENT:
+As to whether we should make an order for protection.  If you have no further questions, then just say so.  I wasn't directing you to ask further questions.  I was just providing you an opportunity if you thought further questions were required.  
+MR. NIMY: 
+No.  Maybe just an additional comment as need be relating to the general issue of safety that has been raised.  And that relates to what the witness has already stated, that the accused persons are political leaders.  And you may want to know, Mr. President, that there is a political theory in Rwanda known as revisionism or negationism under which all Rwandan citizens who do not repeat or uphold the difficult theory that government propagates relating to the Arusha accused persons are considered as revisionists or negationists.
+
+It is for those reasons that the witness here is being classified as one of such and, accordingly, there are consequences that may flow from such a classification.  That is the only additional remark I can make to what the witness has already stated, Mr. President.
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Prosecutor.  
+MR. SENDZE:
+Yes, Your Honours.  I do not want to make the situation any more difficult, but looking at the anticipated testimony of this witness, I do not see any information that is key or sensitive that could cause this witness to fear for his life, and the witness has not been able to tell the Court that he has particularly been under threat from anybody.  So unless we are saying the mere fact that a person comes to testify for an accused person is enough to grant him protective measures, I do not see that the witness has provided the Court sufficient information to grant him protective measures.
+MR. PRESIDENT:
+Yes.  And in general, the Chamber has been exercising the principle that it is better to be safe than to be sorry.  And we have -- we think that the witness's testimony has crossed the threshold which we have, in fact, been applying during this trial.  So we make the order that he is now a protected witness and the usual terms, the main feature of which is that his identity is not to be revealed to the public as a witness in this trial.
+
+Mr. Nimy, what is the pseudonym that this witness will be using?  
+MR. NIMY: 
+10A, Mr. President.
+MR. PRESIDENT:
+Thank you.
+
+Mr. Witness, you will be known as 10A for the purpose of these proceedings.  Do you understand? 
+THE WITNESS:
+Yes.  I have understood you.
+MR. PRESIDENT:
+Okay.  Mr. Nimy may now begin to examine you.  
+(Pages 1 to 16 by Kelly Surina)
+
+
+
+
+
+
+
+
+
+
+
+1000H 
+MR. NIMY:
+Thank you, Mr. President. 
+WITNESS 10A,
+first having been duly sworn,
+testified as follows: 
+EXAMINATION-IN-CHIEF 
+BY MR. NIMY:
+Q.	Mr. Witness, I cannot see you.  There you are.  Please come closer to your microphone so that I can see you.  
+
+Mr. Witness, we will begin examination-in-chief, and I would like to start by asking you to carefully read the personal identification sheet that is before you.  By the way, do you have a document before you?  
+A.	No, I do not have any document before me.  
+MR. NIMY:
+Mr. Issa, kindly place that document before the witness.
+BY MR. NIMY:
+Q.	Do you have it, Witness?  
+A.	Yes, I do.  
+Q.	Can you read and write?
+A.	Yes, I can. 
+Q.	So I would ask you to read the PIS, and if you think it is correct with respect to your identification, then date it today and sign it.
+A.	I would need a pen.  
+MR. NIMY:
+Mr. President, I would like to pray you to grant me leave to have this admitted into evidence as 
+number 709 pending confirmation from Mr. Issa.  
+MR. PRESIDENT:
+Admitted, under seal. 
+(Exhibit No. D. NZ709 admitted, under seal)  
+MR. NIMY:
+Thank you, Mr. President.  
+BY MR. NIMY:
+Q.	Good morning, Witness.  
+A.	Good morning, Counsel.  
+MR. NIMY:
+Mr. President, you -- 
+MR. PRESIDENT:
+Just a minute.  Could you give me one moment, please. 
+
+Mr. Registrar, may I have a word with you, please.  
+
+It's just been drawn to our attention that the United Nations has recommended that institutions such as ours observe a minute of silence in respect of the victims of the tragedy in Haiti.  And I would assume that we would like to do that this morning, and we are proposing that we will take the minute of silence immediately after our resumption from our mid-morning recess, unless there are any objections.  So we will fix it for that time.  
+
+I am sorry to interrupt you, Mr. Nimy.  
+MR. NIMY:
+Much obliged, Mr. President.  
+
+Mr. President, I would pray that part of my examination-in-chief should be in closed session as the questions I am going to put to the witness would clearly reveal his identity.  
+MR. PRESIDENT:
+How much time do you anticipate it would take? 
+MR. NIMY:
+About 15 minutes, Mr. President.  
+MR. PRESIDENT:
+Thank you.  
+
+For the benefit of the public, we have made an order for the protection of this witness which includes that his identity be not revealed to the public.  Now the questions that are going to be put to him now might do just that, and for that reason we have to go into a closed session which will last approximately until the mid-morning recess.  So we will be back in open session at around quarter to 11.  
+(At this point in the proceedings, a portion of the transcript [pages 19 to 20] was extracted and filed under separate cover as the session was heard in camera) 
+(Pages 17 to 18 by Sithembiso Moyo)
+
+
+
+
+
+
+
+BY MR. NIMY:
+Q.	Now, Witness, we are now in open session.  And as you are well aware in the answers that you are going to give, you would endeavour to not to state things likely to reveal your identity.  Is that understood? 
+A.	I have.  
+Q.	Witness, I was asking you if the driver was sent on mission by Nzirorera to you to collect a vehicle meant to be used by Mr. Nzirorera.  
+A.	Not at all.  That never happened.  Not at all.  A vehicle for what?  I mean, he had his own vehicles.  He had lorries.  He had sedan cars.  Why would he have needed my vehicle?  
+Q.	Could you be more specific, Witness?  
+MR. SENDZE:
+Mr. President -- 
+
+Sorry, Mr. Nimy.
+
+What came in through my headphones was that the witness was asked whether Nzirorera requested his vehicle so that he could use the vehicle, as in Mr. Nzirorera.  And I don't think that is the evidence we have on the record.  
+MR. PRESIDENT:
+Mr. Nimy, it may be necessary it would appear, to ask the question again so that we can get the matter clarified.  
+MR. NIMY:
+Much obliged, Your Honour.
+
+Mr. Nzirorera is accused of having pulled down the flags of a political party that was opposed to his own.  And to do this, he asked a certain number of people to carry out that operation, and one of the contributing actions towards removing the flags of the party that was opposed to him, namely, the PSD, was to have a vehicle.  And according to the Prosecution witness, the driver -- Nzirorera's driver apparently went at the request of the latter, that is to say, Mr. Nzirorera, to the witness to ask the witness to lend his vehicle to Mr. Nzirorera so as to be able to carry out this operation.  That is the framework of the witness (sic) which we are expecting from this witness today.  And in my question, I didn't get into further detail because for it to be used by Nzirorera, the usage includes all sorts of use.  But I have been specific just a while ago with respect to the indictment.  
+
+Mr. President, does that shed more light on what I am trying to do?  
+
+Silence means consent.  So the Prosecution -- the Prosecutor understands me to be clear.  
+MR. SENDZE:
+I do.  You may proceed, Mr. Nimy.  
+BY MR. NIMY:
+Q.	Witness, could you be more specific.  When you say that Nzirorera had vehicles at his disposal, could you be more specific? 
+A.	Nzirorera did not ask me for a vehicle.  When I say that he had lorries, jeeps and sedan cars, it is because he had them and his brother Mutimba and his brother Édouard and his father Eliezer as well had vehicles, as well as his school's STB and ESIE, there were vehicles.  Why would he have wanted me to lend him my vehicle?  I was in *********** and he was in the Ruhengeri préfecture.  Why would he have asked me to lend him a vehicle while he had more vehicles than I did.  
+
+Furthermore, my vehicle was bought with a loan I had taken from the commercial bank.  I used it myself, and I had used it for my *********************************************.  I have never been a driver for Nzirorera.  I never applied for work from him.  I have never met him for us to discuss about lending or borrowing my car.  
+Q.	Very well.  Witness, did you ever run into trouble with the Rwandan legal system?
+A.	Yes, at some point in time I ran into trouble.  
+Q.	What sort of trouble? 
+A.	When I was returning from Kigali when I had gone to ********************, I was attacked by 
+	armed robbers.  And as I was armed, there was an exchange of fire and someone was wounded.  We were arrested, and I was sentenced to ***********.  And then I was later on released.  These are events that occurred before the war.  
+Q.	How did you obtain the firearm? 
+A.	We were living in an area that had lots of robbers.  We would notice that people had been killed or we would have ****************or property stolen.  And the government stated that there weren't enough policemen or gendarme officers to protect us, and we were asked, with respect to those who had the means to apply to the ministry of defence, for us to be given firearms for personal protection.  
+
+So I wrote to the minister of defence which provided me a firearm.  And at the time when I was applying for that firearm, there were so many robbers in our area.  So we had to go through the conseiller, the bourgmestre, the préfet who would examine your application and then write an opinion for the ministry of defence, and then you would be allowed to purchase a firearm.  And so I asked someone to buy it for me in *************.  He told me that he had bought it for 70 euros.  I was not the only person who owned that firearm -- a firearm, and I used it for self-defence as I had been attacked on several occasions in my region.  
+Q.	Very well, Witness.  With the advent of multiparty politics, were you interested in politics? 
+A.	No, I had no interest in politics, especially as I had not gone far with education.  As a matter of fact, during the war in my region, we fled into exile into Congo and sought refuge in a refugee camp.  And when the refugee camp was dismantled, I returned to the region where I live presently with the survivors, and I have no problems with them.  
+Q.	You are not a member of a political party; is that it? 
+A.	No.  But at the time you had a single party to which the president of the republic at the time belonged, and everyone was a member of that party; otherwise, I was not interested in politics.  And I continued to carry on the same activities as before the war, and I continued to live where I was as -- where I was before the war.  
+Q.	Lastly, you stated that the last time that you met Nzirorera was in 1993 during the burial of his younger brother.  You didn't meet him after? 
+A.	I told you that I also saw him when I went to ask him to enroll my brothers who had not succeeded in the official exam for -- to be enrolled in his private school.  I met him at his home, in his ministry in Kigali.  I went to his home in Kigali.  He wasn't in.  In Busogo I didn't see him.  So I decided to go to Kigali to meet him there.  
+Q.	Very well, Witness.  
+MR. NIMY:
+Your Honours, I am done with this witness.  It is 10:30.  Maybe it is an appropriate time for the mid-morning break.  
+MR. PRESIDENT:
+Yes, we will take the mid-morning recess now.  
+
+Mr. Hometowu?  
+MR. HOMETOWU:
+Your Honours, 30 minutes.  Thank you.  
+(Court recessed from 1032H to 1127H) 
+MR. PRESIDENT:
+As we announced before we had our mid-morning recess, the Chamber, in accordance with the 
+United Nations policy, pays special respects to the deceased, the bereaved and the injured who suffered in the recent tragedy that occurred in Haiti.  And in all of those sentiments, we now take 
+one minute of silence starting from now.  
+
+Mr. Nzirorera has completed your examination-in-chief, and you will now have to respond to cross-examination from the Prosecutor.  But before I do that, I should enquire.  Do any of the 
+other Defence teams wish to put any questions to this witness?  
+
+No.  The answer is no.  Thank you.  
+
+Mr. Witness, you will now have to respond to the Prosecutor, who will commence his examination of you.  
+(Pages 21 to 24 by Sithembiso Moyo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1130H 
+CROSS-EXAMINATION
+BY MR. SENDZE:
+Q.	Good morning, Mr. Witness.  
+A.	Good morning, Counsel for the Prosecution.
+Q.	During your evidence-in-chief you testified that on two occasions Mr. Nzirorera -- you had requested Mr. Nzirorera to assist you to enrol your children into certain schools, is that correct?
+A.	They are not my children, rather, they were my younger brother -- brother's.
+Q.	Okay.  What schools was he supposed to assist your younger brother's children to attend?
+A.	It was a private school that was found in Busogo .  It was a secondary school known as STP.  As they had failed the official exam, I was seeking enrolment for them in that private school.  It is a 
+	handicraft school.
+Q.	Is it ESTB or STB?
+A.	I believe it is STP.  STP.  It is a private school found in Busogo and it is still there.
+Q.	And you say these were students who had failed the public exam?
+A.	Yes, indeed. 
+Q.	Was Mr. Nzirorera the principal of that school?  
+A.	He was one of the founding members of the private school. 
+Q.	So you went to him because he had some influence and he could assist you do what you would otherwise not be able to do? 
+A.	Yes.  I was looking at the situation of my junior sister and junior brother, the very last siblings of my family, and I was seeking his assistance.  
+Q.	Okay.  Now when you discussed the availabilities of cars to Mr. Nzirorera you said that he had the possibility of obtaining a vehicle from the ESTB as well as ISAE, is that correct? 
+A.	I do not know.  I was neither a staff of the STP or of ISAE.  I never even asked for employment there.  I was ********* and I used to transport produce from ******** to Kigali.  And I never worked at STP nor at ISAE.
+Q.	Witness, did you ever attend a gathering at Mr. Nzirorera's mother -- not at his mother's house, I'm sorry.  Did you ever attend a gathering at Nzirorera's house? 
+A.	Never.  He was not my neighbour.  And what would I have been doing at his place?  He lived in Mukingo commune in Ruhengeri while I lived in ********************************.  We never attended a meeting together and I never attended a meeting at his home. 
+Q.	And there's never been any occasion when you have -- when you happened to have left your car at Nzirorera's house?
+A.	No, I left my car at my house.  When I was going to ********* I took my car along and I brought it back to Rwanda when I returned to Rwanda.  I never left my vehicle at Nzirorera's house.
+
+MR. SENDZE:
+Okay.  Issa, please, could you assist?  
+THE WITNESS:  
+Thank you, Mr. Prosecutor.
+MR. SENDZE:
+What I've handed to the registry is a list of two individuals and I intend that the list be shown to the witness.
+
+Have you been able to look at the list?  
+THE WITNESS: 
+(Microphones overlapping) 
+MR. SENDZE:
+Witness -- Witness, sorry.  Please refrain from mentioning the names on the list. 
+MR. PRESIDENT:  
+I will order that that be redacted from the record. 
+BY MR. SENDZE:
+Q.	Witness, have a look at the list.  Please tell the Court if you know those two gentlemen without referring to their names, please.  
+A.	No.  Mr. Prosecutor, I do not know those persons.  I can see the names on the piece of paper, but I do not know those people. 
+Q.	So you do not know these people, and that implies to me that you've never had any disputes?  Or you've never encountered any problem with these individuals, is that correct?  
+A.	How do you expect me to have problems with people whom I do not know?  So maybe if you're looking for information on them, you should contact people who know them. 
+Q.	Do you know of any reason why these two people would decide to speak falsely of you? 
+A.	I cannot say anything about people whom I do not know.  I am not able to figure out any reasons for which they may accuse me falsely.  Their names do not ring a bell at all. 
+Q.	Okay.  Witness, to be fair to you I have put those names before you because these persons have given evidence before this Trial Chamber suggesting that your vehicle was used by a group of Interahamwe to go and tear down the flags of opposition parties in Ruhengeri.  That is the reason why I've put the names before you.  Do you have anything -- 
+A.	I am very surprised at that.  Why did they not bring down the flags of those parties in ********?  I do not know whether there's any relationship between those persons and Nzirorera.  Maybe you can put the question to him.  Nzirorera had some vehicles and if he wanted to use vehicles to bring down the flags, he could have asked his junior brother to provide the vehicles or provide the vehicles himself.  His neighbours also owned vehicles.  I needed my own vehicle for my ******************************* activities.  In any event, Mr. Prosecutor, I do not know those people and all that I have said is false. 
+Q.	What kind of vehicle did you drive? 
+A.	It was a *************. 
+Q.	And it was a *****************, wasn't it?
+A.	Yes, Mr. Prosecutor.
+Q.	Thank you, Mr. Witness.  I have no further questions.
+A.	I thank you, Mr. Prosecutor.
+MR. PRESIDENT: 
+Mr. Robinson -- Mr. Nimy, any further questions -- any re-direct?  
+MR. NIMY: 
+I have no re-direct for this witness, Mr. President.
+MR. ROBINSON: 
+Mr. President, may we ask that the same order be made for this witness to be able to meet with Mr. Nzirorera?  
+MR. SENDZE:
+For the completeness of the record, I would like to say that the witness identified Witnesses BTH -- 
+MR. PRESIDENT: 
+Wouldn't you just -- okay, fair enough, yes. 
+MR. SENDZE:
+BTH and GAV. 
+MR. PRESIDENT: 
+Thank you.  You mean that the names on the paper that was shown to him?  
+MR. SENDZE:
+That's correct. 
+MR. PRESIDENT: 
+Thank you. 
+MR. ROBINSON: 
+You know, Mr. President.  This is not so significant, and I don't mean to be technical about it.  But there is a breach of the protective measures when it's done this way because the identity of the witnesses are disclosed to this witness.  So in the future it might be better to -- to allude to the fact that those persons have stated on another occasion, the substance of it, rather than identify them as witnesses in front of another witness.  Anyway, I don't make a big issue of it. 
+MR. PRESIDENT: 
+You probably are -- are correct.  And I think that note should be taken in that technique of addressing that type of issue in the future.  
+
+Mr. Witness, your testimony has come to an end and we thank you for assisting the Court with its work.  You are now excused and free to return, to leave.  The registrar will make provisions to enable you to see Mr. Nzirorera before you leave. 
+MR. ROBINSON: 
+Mr. President, the next witness can be brought at this time.  Her name is Claire Nyirabutsitsi.  She was once the subject of protective measures in another case.  And in that case there has been a decision on the 9th of September last year in which she waived those protective measures and is no longer subject to them and so, therefore, she'll be testifying in her own name. 
+MR. PRESIDENT: 
+Mr. Issa -- Mr. Issa, this is not a protected witness and we understand that an application for protection will not be made, so you can draw the curtains.
+(Witness entered courtroom)  
+MR. PRESIDENT: 
+Good morning, Madam Witness. 
+THE WITNESS:
+Good morning, Mr. President. 
+MR. PRESIDENT: 
+Before you begin to give evidence, you have to take an oath to tell the truth and the registrar will assist you to do that now.
+(Declaration made by Claire Nyirabutsitsi in Kinyarwanda). 
+MR. PRESIDENT: 
+Thank you.  You will testify by responding to questions put to you by the lawyers designated for that purpose.  And you'll respond, first of all, to counsel representing Joseph Nzirorera, who will now begin to examine you.
+MR. NIMY:
+Thank you, Mr. President. 
+CLAIRE NYIRABUTSITSI,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF 
+BY MR. NIMY:
+Q.	Good morning, Madam Witness. 
+A.	Good morning. 
+Q.	Madam Witness, I take it there is a personal identification sheet before you.  Can you confirm that? 
+A.	No, I do not have that document.
+MR. NIMY:
+Mr. Issa, please kindly place the document before the witness.
+BY MR. NIMY: 
+Q.	Do you have the document?
+A.	Yes. 
+Q.	Please read through the document and tell the Court whether the information contained therein is correct.  And if such is the case, please, date the document and sign it.  Is everything okay, 
+	Madam Witness? 
+A.	Yes. 
+MR. NIMY:
+Mr. President, I would like to produce the document into evidence.  That should be marked D. NZ710, if Mr. Issa does not contradict me. 
+MR. PRESIDENT: 
+Admitted.
+ (Exhibit No. D. NZ710 admitted) 
+MR. NIMY:
+Thank you, Mr. President. 
+BY MR. NIMY:
+Q.	Madam Witness, I would like you to tell the Court about your educational background.  
+A.	I attended primary school for eight years and then proceeded to six years of secondary education.  Part of my primary education was in Congo from Year 1 to Year 6 and then from Year 7 to 8, I attended primary school in Busogo One in Rwanda.  I went to secondary school in Byumba. 
+Q.	To be more specific, Witness, could you tell the Court the years during which you attended those various levels of education.  From Year 1 to 6, in primary, in Zaire, which years were those, 
+	Madam Witness? 
+A.	It was in 1990 that I completed my sixth year of primary education in the DRC.  From 1991 to 1993, I attended Year 7 and 8 primary.  From 1993 to 1996, I completed my secondary education. 
+Q.	Very well.  Now, I would like you to briefly tell the Court about your professional background? 
+A.	Following my secondary education, I was appointed as a social worker. 
+Q.	Where? 
+A.	I was at the STB in Busogo.  
+Q.	Is that ESTB, Witness, is that what you said? 
+A.	STB. 
+THE ENGLISH INTERPRETER:
+Says witness. 
+BY MR. NIMY:
+Q.	They called it (inaudible) Techniques de Busogo, which is ESTB, is that correct, Witness?  
+A.	STB. 
+THE ENGLISH INTERPRETER:
+Says witness. 
+
+BY MR. NIMY:
+Q.	Very well.  Until what year? 
+A.	Until 1994. 
+Q.	Madam Witness, from the time you left Zaire, the current DRC, in 1990, where did you live in Rwanda? 
+A.	When I returned from the Congo I settled in Bigabo at Nyiraramakuba's. 
+Q.	Nyiraramakuba, who is Nyiraramakuba? 
+A.	Nyiraramakuba is my aunt. 
+Q.	Do you know Joseph Nzirorera? 
+A.	Yes, I know him. 
+Q.	What relationship did you have with Nzirorera? 
+A.	Nzirorera is my cousin. 
+Q.	Could you be more specific, Witness? 
+A.	Well, Nzirorera is my cousin because his mother is my aunt and my mother is Nzirorera's aunt, and that is why I conclude that he is my cousin. 
+Q.	What is the relationship between Nzirorera and Nyiraramakuba? 
+A.	Nyiraramakuba is Nzirorera's mother. 
+Q.	Very well.  So, Madam Witness, when you say you lived at your aunt, Nyiraramakuba, that means that you were living at Nzirorera's mother's house, is that correct? 
+A.	That is correct, indeed.  I lived at Nzirorera's mother's house. 
+Q.	Very well.  And that was from 1983 till when? 
+A.	Please, could you be -- repeat the question?  
+Q.	So you lived at your aunt, Nzirorera's mother, till when?  As from -- from the year when you returned to Rwanda? 
+A.	Since 1980 during secondary education, I lived at Nyiraramakuba's from 1983 to 1990.  During Easter and Christmas holidays and summer holidays I would be in that family.  When I started working in 1990 I'd spend a night in Busogo, but on weekends and Easter -- Easter, summer and Christmas holidays and during public holidays I would go to Nyiraramakuba's where I would spend the time.  And that lasted up till when we fled the country in 1994. 
+Q.	Witness -- Witness, did you notice in Nzirorera's mother's house a meeting of politicians at any point in time? 
+A.	Every time I was at Nyiraramakuba's house I never witnessed any form of meeting in that house and nobody told me that a meeting was held in that house where I lived. 
+Q.	Witness, Madam, I would like you to be more precise on this matter.  
+A.	What I'm saying is that no meeting was held in that house because every weekend I was within that family.  I would spend the entire day there and I saw no one come there to hold a meeting.  And during working hours I often went down to that family to collect certain items and go back.  And every time I went there I met people and no one told me that a meeting was held there.  Meet there -- meet there -- I would go there for lunch and I would meet no one.  And in the evening when I went to collect bread for the students, or to collect other things, I would lock up the house.  I would get in -- I never saw anybody holding any meeting in that house.  All I saw were the domestic servants and the children who lived in that house. 
+Q.	And, more specifically, on the 6th of April 1994 -- 1994, where were you, Witness? 
+A.	On that date I was at Nyiraramakuba's. 
+Q.	Apart from yourself, who else was at your aunt's house on that date? 
+A.	In my aunt's you had myself, my aunt, one Muhombo, Bagabo, Dusabe, Innocent, Mukamusoni, Mitterand, Marcel.  Those are the people who were in that house 
+Q.	And how did you hear about the death of President Habyrimana? 
+A.	I heard about the death of President Habyrimana over the radio.  We were sitting and suddenly we heard a voice over the radio stating -- announcing that the president's plane had been shot down, but the journalist was not saying specifically whether he had died or not.  It was the following morning that the radio announcement stated the death of President Habyrimana and his Burundian counterpart. 
+Q.	So what did you do after that? 
+A.	After hearing that news -- I would like to let you know that we heard about this while we were in the kitchen.  Muhombo went and told his grandmother.  He said:  "Grandmother, have you just heard what has been announced."  And he told her what had been said over the radio.  We continued to be seated and others went to bed.  My aunt and I remained seated until late when we went to bed and sometime later we heard the cock crowing. 
+Q.	What time was that about -- thereabout? 
+A.	Between 3 and 4 a.m.  We were unable to sleep. 
+Q.	And while you were, so to speak, not sleeping, did you see somebody come to your aunt's house, that is to say, Nzirorera's mother's house?  Did you see any politicians arriving that night? 
+A.	No one came to Nyiraramakuba's that night, be they an ordinary civilian or a politician.  While Nzirorera was minister lots of people used to come and visit us, but when he lost his ministerial position people no longer visited us. 
+Q.	Witness, Madam, I would like to ask you a more specific question, although you have already answered it, do you know Kajelijeli? 
+A.	Yes, I know Kajelijeli. 
+Q.	Did you see him that night in your aunt's house? 
+A.	No one came to my aunt's house that night. 
+Q.	What about Colonel Setako, do you know him?
+A.	I know Colonel Setako?
+Q.	Was he there?
+A.	No, he wasn't there. 
+Q.	Bazimenera.  You know him I'm sure.  
+A.	Could you tell me his first name again, please?
+Q.	Ézéchiel Bazimenera.  
+A.	No, I no longer remember the person who has that name.  You know it's been quite a while. 
+Q.	Jean Baptiste Nyabusore, do you know him? 
+A.	Yes, I do. 
+Q.	Was he there that night? 
+A.	No, he didn't set foot there. 
+Q.	So my understanding is that, if I -- is that -- my understanding, according to what you've stated, is that no politician came to your aunt's house on that night, is that correct?  
+A.	I confirm that no one came to that family, be they ordinary people or politicians.  We stayed in that house the way we had always been living in it.  No other persons beyond the usual inhabitants of that house came. 
+Q.	Very well.  On the morning of the 7th of April at dawn, what did you do?  After you woke up what did you do, Madam Witness? 
+A.	When we woke up in the morning after having learnt that we had been asked not to go out, we stayed in.  We wondered how Nzirorera could survive in the CMD, the CMD.  We were worried that Nzirorera and his family might have been killed. 
+Q.	So what did you do? 
+A.	There was little we could do.  Quite simply we cooked.  And considering the circumstances, we couldn't go out and work.  I mean if you have lost people you couldn't go out and work in the farms.  And if you have a problem in your family, you couldn't go out and work in your shop, so everyone stayed in. 
+Q.	And on the night during which you practically stayed awake till dawn, that is the night of 
+	6th to 7th of April 1994, didn't you receive phone calls at your home from people who were trying to seek further information on the situation? 
+A.	It wasn't possible for anyone to call us because we did not have a telephone in that house. 
+Q.	You never had a telephone, or you didn't have it at that point in time? 
+A.	At some point in time there was a phone line connected to that house.  We misused it.  The bill was so high and before 1993 the telephone had been disconnected. 
+Q.	And on the 7th of April did you leave the house or did you stay indoors?  What exactly did you do with respect to your movements? 
+A.	With regard to my own movements, I tried to stroll round the house because we could not move to a distance of more than one kilometre.  One kilometre we could hear gunshots, we could see smoke here and there.  And one couldn't actually go far away more than a kilometre from their home, so we were scared. 
+Q.	Did you -- did you get to hear what happened around your house during that day of the 
+	7th of April 1994? 
+A.	Later on on that day one Segahirere came to our home and informed us that some of our neighbours who lived not far from the Bigabo market square had been killed.  He told us, for example, he told us that one Rukahara had been killed. 
+Q.	Did he tell you the specific circumstances of those killings? 
+A.	He didn't get into detail.  He told us that people had been killed, including one Rukahara.  Subsequently, he left.  This is someone who did not live in our house and he subsequently went back to his own house. 
+Q.	And on that day, was there a meeting of political authorities in your house or the house of your aunt? 
+A.	On that day, apart from the young man who came to our home, no one else set foot there. 
+Q.	Not even in the afternoon? 
+A.	In the afternoon no one came to my aunt's house. 
+Q.	And on the 8th of April where were you, Madam Witness? 
+A.	On the 8th of April I was at home. 
+Q.	Didn't -- didn't you see or notice the arrival of political or military authorities at your house for a meeting? 
+A.	No one came there.  No soldiers set foot there.  No civilians set foot there, be it a politician or not. 
+Q.	Madam Witness, were you interested in the politics of your country? 
+A.	No, I have never been interested in politics.  My entire life I have never liked politics.  All I like are social activities. 
+Q.	But -- but did you hear about some people, some individuals, who -- who had rascally behaviour within your commune? 
+A.	If you are talking about the entire commune, well, a commune is very large.  But if you were to limit yourself to the market square and the parts near the market square, I knew that you had some rascals.  For example, there was a young man who came during my internship who been arrested because he was committing crimes.  Another was arrested because he raped girls when you had sorghum fields which -- which were very luxuriant. 
+Q.	Can you put names to these people you describe? 
+A.	For instance, Rugamire, who was arrested, and I met him during my internship.  He was arrested in Ruhengeri.  You had Gato and Gakuru.  These were vagabonds.  When you had sorghum fields which had -- were about to be harvested, they would carry -- they would wear balaclava hats and attack young women -- women and young girls.  And when they had drunk -- had too much to drink, they just did whatever they wished.  There was another one who was arrested, his name was Gasore.  He was also a vagabond, a well-known rascal. 
+Q.	Witness, these people you just cited, did they come to your aunt's house on any day? 
+A.	Those rascals never came to our home.  But Michel, who was Bagabo's age, used to come to our home.  But Gakuru, Rugumire, none of them came to our home.  There's a difference to be made between the people who could be termed as being jobless and robbers.  Niyigaba, Michel, was jobless, but other ones were hoodlums. 
+Q.	Madam Witness, did you see these people along -- I mean, with Nzirorera? 
+A.	On no occasion did I see Nzirorera with these hoodlums because usually birds of a feather flock together, and Nzirorera's stature did not allow him to go about with these hoodlums or to hold meetings with them.  Those people knew him, but he didn't know them.  They knew he was a minister but he, Nzirorera, did not know them.  He didn't know their faces. 
+Q.	Didn't you hear, even though from others, that they had seen -- witnessed meetings between Nzirorera and these hoodlums, as you describe them? 
+A.	I never heard Nzirorera met those people.  He couldn't have met them because he didn't live in our area.  During the month of April Nzirorera did not live in Mukingo.  He lived in Kigali. 
+Q.	And when Nzirorera came to Mukingo to see his mother, were you there? 
+A.	Yes, I was present.  Never did he visit his mother in my absence.  I was always present. 
+Q.	And during that time political authorities took advantage of his presence at his mother's house to come and meet him there, didn't he? 
+A.	Nzirorera came to his mother's house when he had a specific reason to visit.  He didn't come unannounced.  If he came, for example, for a wedding, he wouldn't hold meetings.  He would come for the wedding, for example, but he wouldn't come for political reasons.  No one came to our house to hold a meeting with Nzirorera. 
+Q.	Madam Witness, do you know a building called Isimbi? 
+A.	Yes, I know the Isimbi building. 
+Q.	What is it?  What was it used for? 
+A.	Isimbi was a building in which a pharmacy was found, in part, and the other part was occupied by a grocery where you could buy milk, for example. 
+Q.	Yes, please carry on.  Milk, pharmacy, yes, carry on.  
+A.	You had a grocery where you could find drinks and various foodstuff. 
+Q.	Were you there in any meeting halls? 
+A.	No, that building was not big enough to hold a conference hall. 
+Q.	Was that building -- was that building a form of headquarters for the meeting and workshops of the youth of Mukingo? 
+A.	That building was located on the macadamised road from Ruhengeri to Gisenyi.  When you drove past, you -- one could see the building.  So meetings could not have been held in that building without the knowledge of people.  Further, there wasn't enough space for a meeting.  And the building was about -- at least 20 metres from the macadamised road. 
+Q.	To whom did this building belong, Madam Witness? 
+A.	I do not know the owner of that building.  I can't say it belonged to Nzirorera or his wife or not, but more often than not, I saw Nzirorera's wife next to that building. 
+Q.	Did you ever hear, be it from the people who used to go to that building, or from other people, that that building had been given by Nzirorera to someone or to a group of people? 
+A.	As far as I know about this building, there were things in that building -- that building that belonged to Nzirorera's wife and she monitored the building.  The people who worked in it were under her control and that house was never actually given to any person whomsoever. 
+Q.	Madam Witness, did you participate in political activities? 
+MR. PRESIDENT: 
+Just a minute, Mr. NIMY -- 
+MR. NIMY:
+Yes, Mr. President. 
+MR. PRESIDENT: 
+How much longer will you be?  
+MR. NIMY:
+I am almost done.  Let me say ten minutes. 
+MR. PRESIDENT: 
+We better take the luncheon adjournment now. 
+MR. NIMY:
+Yes, indeed.  Mr. President, you are correct.  It is 12:30. 
+MR. PRESIDENT: 
+Yes.  Mr. Weyl is on his feet.
+MR. WEYL:
+Yes, Mr. President.  I wanted to draw the attention of the Chamber to the fact that Mathieu Ngirumpatse was not feeling well and he has had to go to the clinic where he has been admitted by the -- Dr. Epee.  And I believe it is unwise for us to carry on as if he were present.  He is unwell and he is not present in Court.
+
+Mr. President, I would like to draw the attention of the Chamber so that it would take the appropriate measures. 
+MR. PRESIDENT: 
+Thank you.  Thank you very much for that insight.  
+
+We take our luncheon adjournment now until 2 o'clock.
+(Court adjourned at 1233H)
+(Pages 25 to 35 by Melissa Hook)
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Kelly Surina, Sithembiso Moyo and Melissa Hook, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Kelly Surina
+
+
+___________________________	 Sithembiso Moyo
+
+		
+____________________________ 	Melissa Hook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	WEDNESDAY, 20 JANUARY 2010
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	WEDNESDAY, 20 JANUARY 2010
+
+KELLY SURINA - ICTR - TRIAL CHAMBER III - page 16
+
+	KAREMERA ET AL	WEDNESDAY, 20 JANUARY 2010
+
+SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 24
+
+	KAREMERA ET AL	WEDNESDAY, 20 JANUARY 2010
+
+MELISSA HOOK - ICTR - TRIAL CHAMBER III - page 35
+
+
+
+	KAREMERA ET AL		WEDNESDAY, 20 JANUARY 2010
+
+
+
+ICTR - TRIAL CHAMBER III
+
+
+
+
+

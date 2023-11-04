@@ -1,0 +1,828 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.:  ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+MONDAY, 23 NOVEMBER 2009
+0904H
+CONTINUED TRIAL
+
+Before the Judges:
+	C.M. Dennis Byron, Presiding
+	Gberdao Gustave Kam
+	Vagn Joensen
+
+For the Registry:
+	Mr. Constant Hometowu
+	Mr. Issa Mjui
+	Mr. Jacques Yves Kemmi
+	
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Saidou N'dow
+	Mr. Arif Virani
+	Ms. Sunkarie Ballah-Conteh
+	Mr. Takeh Sendze
+	Mr. Eric Husketh
+
+For the Accused Édouard Karemera:
+	Ms. Dior Diagne-Mbaye
+
+For the Accused Mathieu Ngirumpatse:
+	Ms. Chantal Hounkpatin
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+	Mr. José Patrick Nimy Mayidika Ngimbi
+
+Court Reporters:
+	Ms. Tanya West
+	Ms. Eleanor Bastian
+	Ms. Jean Baigent
+	Ms. Rebecca McCoy
+	
+
+
+I N D E X
+
+WITNESS
+
+For the Defence:
+ASSIEL NDISETSE 
+Examination-in chief by Mr. Robinson.......................................................................................16
+
+EXHIBIT AND EXTRACT
+Exhibit No. D. NZ687.............................................................................................................17
+Extract...............................................................................................................................12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody. 
+
+Mr. Registrar, could you open the proceedings, please. 
+MR. HOMETOWU: 
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, presiding, Judge Gberdao Gustave Kam, and Judge Vagn Joensen, is now sitting in open session today, Monday, the 23rd of November 2009, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al., Case No. ICTR-98-44-T.
+
+Thank you.
+MR. PRESIDENT: 
+Thank you, Mr. Registrar.  
+
+The appearances are the same. 
+
+Mr. Robinson, I gathered you had a motion you wished to -- to make. 
+MR. ROBINSON: 
+Yes, Mr. President.  This would be my 27th notice of Rule 66 violation and motion for remedial and punitive measures.  I don't know if you'd had a chance to see the correspondence -- or, the pleadings that have been filed over the weekend.  But Mr. Webster and I actually managed to complete the briefing on this motion over the weekend.  It involves a document which he plans to use with this current witness who is on the stand, Jean Damascène Niyoyita.  And the document is number 11 in his bundle.  We received it on Thursday, and had -- it had never been disclosed to us before.  
+
+The content of the document is a complaint made by an individual named Aloys Karekezi, in which he recounts that, on the 29th of November 1993, the militia of Mr. Nzirorera, including members of his family, had molested -- or, accosted Tutsis on the road between Gisenyi and Ruhengeri in Mukingo commune.  
+
+And it's our position that the failure to disclose this letter until after the testimony of the witness violates Rule 66(B).  In the pleading that I filed over the weekend, I attached two letters that I tried to demonstrate -- in which we had made requests for material which would be encompassed by this letter, one going back to 2002 and the other on the 29th of October of this year.  
+And on the 29th of October of this year, among the items we had indicated were material to our defence, in which we had requested inspection of under Rule 66(B), were documents which pertained to the acts and conduct of the Interahamwe in Ruhengeri préfecture and Joseph Nzirorera's knowledge, notice, or responsibility for the acts of the Interahamwe.  And I believe that this document comes squarely within that request.  And, therefore, the Prosecution's failure to disclose it prior to the cross-examination of this witness violates Rule 66(B).  
+
+And I've asked that you make a finding that the violation has occurred and, as a remedial measure, you preclude the Prosecution from using the document and, as a punitive measure, you limit the Prosecution to the time of direct examination for cross-examination of this witness.  Since these disclosure violations consume trial time, I think if the Prosecutor realised that his cross-examination would be curtailed whenever these violations would crop up, then perhaps it would have some deterrent effect so that we can have finally some compliance with Rule 66(B).
+
+And, again, I would -- I'm going to refrain from -- from too much commentary.  But I, again, would like to point out that this is really a continuation of an ambush and trial by ambush.  And I think it should be not condoned by the Trial Chamber.  Thank you. 
+MR. PRESIDENT: 
+Thank you.  
+MR. WEBSTER: 
+Okay.  Good morning to the Court, the parties, the registry, and everyone. 
+
+I did have email exchange -- or, a series of exchanges with Mr. Robinson over the weekend, which then matured into the motion he filed yesterday in the morning.  And I responded in writing that same afternoon.  And I would hope that the Chamber has the written filing, because my argument is really premised on what I've already set forth in writing. 
+MR. PRESIDENT: 
+Actually, we -- we don't at the moment. 
+MR. WEBSTER: 
+Okay. 
+MR. PRESIDENT: 
+Is it possible to get a printout quickly?  
+MR. WEBSTER: 
+It should.  It was filed officially this morning with CMS.  I only have one copy with me.  I'm certainly willing to share it with the Chamber, but that may put me at a slight disadvantage. 
+MR. PRESIDENT: 
+No.  No.  No.  We will hear your argument now.
+The registry will assist. 
+MR. WEBSTER: 
+Okay.  I'll continue and summarise it as I go along, Your Honours.  Let's take this in two stages:  The 14th of June 2002 request, and then afterwards I'll deal with the 29th of October 2009 request.  
+
+With respect to the first one, Mr. Robinson's letter actually addresses a specific collection of documents that were mentioned in a status conference that was held on the 8th of February 2002.  At that time this trial was being handled by STA Ken Fleming, and he mentioned to the Court and to the parties at that time that he had received a large collection of documents from the government of Rwanda and that, even if the Prosecution didn't find them useful, that he would make them available to the Defence.  And that was on the 8th of February 2002.  
+
+And thereafter, on the 14th of June 2002, Mr. Robinson wrote to him and asked him if he could provide those documents and then he also -- provide material -- provide documents that would be material to his defence from among that specific collection.  
+
+In my written response I indicated that those documents had been disclosed.  If this letter was among them, the Prosecution would have satisfied Mr. Robinson's request.  And if it was not among them, then it would not have been addressed by his request.  So I didn't think there was much substance to the 14th of June 2002 request because either it was satisfied or the document was not contained in that request.  
+
+But after I submitted this written response, I continued to look through material so that I could verify everything that I represented.  And I now note that the document in question was actually received by our evidence unit in October of 2002, which is after the status conference of February and after Mr. Robinson's request of June.  So it probably was not among the -- the documents that Mr. Fleming was referring to.  But in any case, we acquired the document or it appears that we acquired this specific document after Mr. Robinson made his request.  
+
+And relying on this Chamber's holding when a motion of this nature was addressed a few weeks ago, this Chamber, relying on the Appeals Chamber and several other Trial Chamber decisions, clearly stated that requests for inspection or rights of inspection are only triggered by a specific -- a -- a specific request and that, if we do not have the document when the request is made, then there cannot be a violation.  So simply, on that principle alone, there's no violation with respect to the request that was made on the 14th of June 2002.  
+
+And I can hand up to the Court -- I do have extra copies of this -- the actual document itself and the printout of the field that accompanies this document in our evidentiary database.  And at the bottom I've highlighted it in yellow so the Court can see it.  But it shows where it was deposited in IESS, or our evidentiary database, on the 9th of October 2002, and it also indicates that it was placed in our EDS, which is accessible to the Defence.  
+
+So even relying on Mr. Robinson's characterisation of the Prosecution having an ongoing obligation to provide these materials, he had access through it -- to it through the EDS, because he's consented to take a password from the OTP.  He can consult the EDS from his home computer terminal.  And if he was searching for this document in those collection of materials, he could have found it himself.  So I'm suggesting to the Chamber that there cannot possibly be a violation with respect to the 14th of June 2002 request.  
+
+So if Mr. Issa could hand this up to the Chamber.  It's a document that I have circulated by email.  I don't think the field is -- was circulated on Sunday, but it was circulated this morning when the -- our motion was officially filed with CMS.  
+
+With respect to the request that Mr. Robinson made recently, on the 29th of October 2009, my suggestion to the Chamber is that the request is too broad.  Mr. Robinson wanted to inspect -- and I'll read verbatim from his letter -- "all documents obtained from the government of Rwanda, its agencies, departments and subdivisions, or its Gacaca jurisdictions, which deal with the following issues which are material to our defence."  
+
+And at item 1 he lists the acts and conduct of the Interahamwe in Kigali, Ruhengeri, Gisenyi, or Kibuye.  And at item 3 he lists the existence of the Interahamwe in Kigali, Ruhengeri, Gisenyi, and Kibuye prior to the death of President Habyarimana.  
+
+And my suggestion to the Court is that this is an impermissibly broad description of documents.  Usually, it would encompass literally thousands of documents.  Any document that mentioned the word "Interahamwe" would have to be subject to inspection.  And my suggestion is that there is a specificity requirement and a materiality requirement the Defence has to make out in order to compel inspection under Rule 66(B), and neither are satisfied by this particular request.  
+
+As this Court will recall, the Prosecution -- actually, it was the Defence that placed in evidence the minutes or report from the MRND national congress that was held on the 28th of April 1992 at D. NZ006, I believe it was.  
+
+And at item 4 of the resolutions that were read by Mathieu Ngirumpatse on that date, the MRND party leadership officially -- and here I quote -- "commended the founders of the Interahamwe organisation and requested that this organisation be established in all préfectures and even the communes and, if possible, affiliated to the MRND party."
+
+So noting that after April of 1992, the Interahamwe was a legitimate organisation that was affiliated with the MRND party, literally thousands of documents could conceivably fall within the parameters of the request that Mr. Robinson articulated on the 29th of October 2009.  It's simply too broad.  There's no way we can satisfy that request.  
+
+Practically speaking, however, this Chamber should recall that we have disclosed and provided inspection of thousands upon thousands of documents already, MRND documents, declassified documents from the US State Department, documents we obtained from the RPF archives.  We can't even keep track of all of the materials that Mr. Robinson has requested and that we've made available to him.  There are literally thousands upon thousands of documents that he's obtained under my management of this case, and that was preceded by extensive disclosures that were made by the previous STA.  
+
+So in that context this re -- this request is simply unreasonable.  It's not practical.  It cannot be achieved.  
+
+He has those materials.  Documents that are non-confidential are placed in a common or public documents folder within the EDS, and he can access those documents with the same software that the Prosecution uses to look for the documents -- look for any document in our evidentiary database.  
+
+So my suggestion to the Court is that he already has access to this document.  He could have looked for it himself in the EDS.  It doesn't fall -- his -- the request that he made is too broad.  We can't satisfy a request of that nature.  Requests have to be particularised in order for this Court to compel inspection.  
+
+And there should be no discussion of violating Rule 66(B) without a motion to compel inspection of the material that he seeks.  So any discussion of violating Rule 66(B), even if the Chamber were to deem his request reasonable, cannot be grounded at this stage of our motion practice.  When we look at the document itself, nowhere in the document is the word "Interahamwe" used.  So even if this Chamber would deem his request sufficiently particularised, it doesn't even fall within the rubric of Interahamwe documents.  
+
+The Court can look at the English translation -- it's actually my unofficial translation -- at footnote 3 in my written response.  The passage that Mr. Robinson -- that concerns Mr. Robinson states -- and here I'm reading my unofficial English translation -- "Mr. Joseph Nzirorera, executive secretary of the MRND, has an armed militia in Byangabo, Mukingo commune, which includes a certain Noheli, a nephew of Nzirorera, who was a former student at the École des sous-officiers in Butare; and Musafiri, the son of Rwirasira, Ephrem, who is a former soldier of the Rwandan army that, during the war, was dismissed for disciplinary reasons; and Bagabo, a cousin of Nzirorera and a son of Mukangahe and Nyiramajerenge, the paternal aunt of Nzirorera."  
+
+So clearly, the Prosecution views this militia as related to the MRND party and the Interahamwe.  But this document on its face does not refer to the Interahamwe.  
+
+So by any standard Mr. Robinson's requests are not specific enough, even the request from back in 2002.  They are too broad.  They cannot ground an allegation of violation.  And even so, the document itself doesn't fall within the parameters, the broad parameters, that he's outlined.  
+
+So the Prosecution can offer several arguments for both the June 2002 request and the October 2009 request.  And I would urge this Chamber to deny his request and to support its decision with several of these arguments and not simply rely on the issue of the Prosecution not continuing to provide inspection for a request that was made years ago.  
+
+So that is essentially my submission.  It is in writing in the document that we circulated yesterday and that the Court may have now.  And the Court can inspect the document itself and the IES (sic) printout of the field that indicates that we did not receive it until October of 2002 and that, on its face, it does not refer to Interahamwe.  Thank you. 
+MR. PRESIDENT: 
+Thank you. 
+MR. ROBINSON: 
+Mr. President, if I could just reply briefly.  
+
+I'm really surprised to hear Mr. Webster say that the document was in EDS and, therefore, he's complied with his disclosure obligations.  The Appeals Chamber has held, in this very case, that the putting of a document in EDS does not relieve the Prosecution from complying with its obligations under Rule 68 or Rule 66.  And that decision is the decision on the inter -- on the Prosecutor's interlocutory appeal regarding the role of the Prosecutor's electronic disclosure suite in discharging disclosure obligations on 30 June 2006, at paragraph 10.  
+
+There couldn't be a more case on point than a decision of our very own Appeals Chamber in our very own case in an appeal by the very same Prosecutor who now represents that he satisfied his disclosure obligations by placing the document on the EDS.  And you -- this Chamber itself has subsequently made two decisions in which you also repeated the fact that to satisfy -- that the -- putting a document on the EDS doesn't satisfy the Prosecution's disclosure requirements.  
+
+So to hear Mr. Webster, on the 23rd of November 2009, continuing to claim that his disclosure obligations are satisfied when he -- when a document is placed on EDS simply shows that the Prosecution refuses to obey Appeals Chamber jurisprudence and the jurisprudence of this Chamber.  In fact, we have done searches of Mr. Nzirorera's name after October of 2002 and have never located this document.  
+
+Now, specificity.  If the document was received in October of 2002, then the June 2002 request under this Chamber's jurisprudence would not operate to trigger the Prosecution's disclosure obligation.  As an aside, I continue to claim that that jurisprudence is wrong and that there is no -- that there is a continuing duty under Rule 67 to provide disclosure.  
+
+But let's put that issue aside, because the 29 October 2009 request is even more specific than that of 2002.  And so, looking at that request, this is clearly a document which comes within that request.  
+
+The request is broad.  But so is the Prosecution's allegations in the indictment.  The Prosecution would have you hold Mr. Nzirorera liable for any acts of any Interahamwe in Rwanda.  In fact, I'll never forget Mr. Morley telling us that Mr. Nzirorera was liable for any rape that took place in the entire country of Rwanda under the indictment.  And so a request for evidence of acts of the Interahamwe in Ruhengeri préfecture is well within the parameters of specificity, given the nature of the indictment.  
+
+And, in fact, this whole exercise of trying to make requests for inspection, which will force Mr. Webster to disclose these secret documents that he's been hoarding for cross-examination of my witnesses, has turned into a game in which we have to try to make requests that, we hope, will uncover these documents that he's hiding.  
+
+If you look at this document, it's obviously material to the case and to the Defence.  It's an allegation that Mr. Nzirorera in November 1993 has a militia in Mukingo commune.  That's a live and critical issue between the parties as to whether such a militia existed in Mukingo commune at that time and any connection with Mr. Nzirorera to it.  It's hard to imagine a document that's more material to the case.  And for Mr. Webster to withhold this document was really an error in judgement on his part and a clear violation of Rule 66(B).  
+
+And so I would ask you, once again, to come down on the side of a fair trial, not on the side of scorched-earth litigation tactics, to find that the Prosecution has violated Rule 66(B) and to impose some measures, both remedial and punitive, which will finally put a stop to this pattern of abuse of the rules.  Thank you. 
+MR. WEBSTER: 
+Your Honour, I am going to have to respond to Mr. Robinson, because I believe he's misstated the law and mischaracterised the way we've approached this issue.  So I would simply like to clarify a few matters.  
+
+First of all, with respect to the Appeals Chamber jurisprudence on the EDS, that Appeals Chamber decision concerned the Prosecution's obligation under Rule 68.  So although Mr. Robinson makes an impassioned argument on the basis of that decision, that decision does not hold what he suggests that it does.  With respect to the EDS, the Appeals Chamber has stated that it is a means by which the Prosecution can discharge its disclosure obligations.  
+
+We have reconfigured EDS to comply with the standard that was set forth in that Appeals Chamber decision.  Now there is a designated folder for the Karemera team.  We can place items in that folder that specifically address the issues in our case.  And Mr. Robinson can look for materials in a segment of the entire evidentiary holdings.  It's not searching through the entire database.  It's searching through a segment of the database that would be relevant to our case.  
+
+Now, with respect to this particular document, I will concede and clarify to the Court that this particular document was in the public documents folder of the EDS.  It was not in the narrow, segregated documents that are set aside from the Karemera team.  But they are still accessible to Mr. Robinson or anybody who wants -- anyone with a password who has agreed to the terms of accepting inspection or disclosure through EDS to look for and find on his own.  
+
+What I find objectionable in Mr. Robinson's submissions, however, is his constant attempt to conflate inspection with disclosure.  They are two separate regimes.  When one speaks of disclosure, there is an affirmative obligation on the Prosecution to look for materials, find them, to copy them, and send them out to the Defence.  That is not the case with Rule 66(B).  Rule 66(B) is for inspection.  It anticipates physical inspection.  
+
+Under Rule 66(B), the Prosecution could invite Mr. Robinson to come to our office and look through documents physically and leave without even making a copy of them.  He has to -- in order to compel inspection, my understanding of the jurisprudence is that he has to make a sufficiently particularised request, identifying the document so that we can look for it in particular.  His request is too broad.  And even the broad request that would address thousands upon thousands of documents does not include this particular document.  
+
+The Prosecution has disclosed almost its entire evidentiary database to the Defence.  They have access to it.  They can look through it in the same ways that we do.  In addition to searching the database with the software that we've given them and the offer of assistance that we've -- we've made, we have copied thousands of documents and provided them to the Defence on CD-ROMs.  This document may even be among those.  
+
+So when Mr. Robinson suggests that we've adopted a scorched-earth litigation style, it's simply inaccurate.  We've given thousands upon thousands upon thousands of pages of materials to the Defence over the past five years.  
+
+This Chamber has already relied on the Appeals Chamber's jurisprudence in the Bagosora case to hold that the Prosecution does not have a broad affirmative obligation to provide disclosure of the documents that it will use in cross-examination.  That's the jurisprudence.  It doesn't come from this Chamber.  It comes from the Appeals Chamber.  And this Chamber has relied on jurisprudence that was established by the Appeals Chamber several times, because this issue has resurfaced several times.  
+
+We have provided inspection of this document.  The reason that Mr. Robinson can make this motion now is because we provided inspection last week on Thursday, which is when this Chamber ordered us to do so, because all of the parties are expected to provide copies of the documents that they will use in cross-examination at the beginning of the cross-examination.  That's an inspection request.  It's to facilitate the process of the trial, and we've complied with that.  
+
+So Mr. Robinson's motion is baseless.  We can use several arguments for each of the requests to show how baseless it is.  And his constant refrain that somehow inspection should be equated with disclosure is simply wrong.  So that's my submission, Your Honours.  Thank you. 
+MS. DIAGNE-MBAYE: 
+Thank you, Mr. President, for giving me the floor to say just a couple of things.  
+
+Over the past ten minutes, we have been examining an issue.  But, Mr. President, I think Mr. Robinson is right when he said that the Prosecution is playing a game.  When we -- the Prosecutor simply -- want to use a document which he's had in his possession since 2002.  Never mind whether this was subsequent to Mr. Robinson's request in 2002.  At least he should admit the fact that he's had the document in his possession since 2002.  
+
+And once he knows that he's going to use the document and once he knows that the acts contained in that document are indisputable, do we really need to know -- to say that in a folder, not this one, in another one, or that the Appeals Chamber has said, or that we are interpreting the Appeals Chamber decision regarding ED -- EDS?  
+
+Mr. President, the witness is here.  The accused person is here.  The acts are serious.  There are universal principles regarding the Defence.  
+
+But is there any problem in communicating -- in disclosing the document which is going to be used against an accused person?  Do we need to really dwell on this issue for so long and say that it is the Chamber that has allowed me to do that?  I think these kind of discussions, that has gone on for years within this Chamber, are things that revolt me and a little more each day.  
+
+The truth is that the Prosecutor is playing a game.  That is true, Mr. President.  That is the truth.  
+
+This document ought to be disclosed to all the Defence teams so the accused persons can prepare properly before the examination-in-chief of the Prosecutor (sic).  Why play this hide-and-seek game, Mr. President?  
+
+The juris -- jurisprudence is clear.  The jurisprudence of the cham -- Appeals Chamber is clear.  The jurisprudence of article -- of the rule is clear.  There is no requirement of specific -- specificity.  He has to disclose everything he has to the Defence to enable the Defence to prepare its case.  Thank you.  
+MS. HOUNKPATIN: 
+Mr. President, for once I do not want to participate in this discussion which has been recurrent, whichever witness the -- is called.  
+
+I think the game of the Prosecutor is to disclose documents in a haphazard manner.  The fair trial for the accused person cannot be assured if this game is allowed.  The respect of the rules of trials demand the disclosure of such documents, which ought to have been done long ago, since he knew he was going to use it.  
+
+Now, to philosophise over the various words that he has used -- disclose, examine, EDS, and so on and so forth -- it's not honest.  The honest thing would have been to disclose this document to Defence so Defence can rely on it and also prepare this witness.  Thank you, Mr. President. 
+MR. WEBSTER: 
+Just one last statement, Your Honour.  
+
+The Defence seems to put the good faith of the Prosecution directly in question.  And simply to reply to that point, let me state for the record that, with respect to this particular document, my team became aware of this document for the first time last week.  This is not something that we've had for the last -- we've had access to for the last six or eight years and have somehow secreted.  
+
+It's in the evidentiary database.  It's in the EDS.  The legal premise is that it's in the possession of the Prosecution.  That's clear.  The legal arguments that I've made so far still stand.  
+
+But when we get to the issue of good faith and fairness, let me just indicate to the Chamber and to the other Defence teams -- because this is something I confided to Mr. Robinson on Sunday -- I still maintain we had no obligation to make this document available earlier.  But as a practical matter, it only came to our attention last week.  Thank you.  
+
+And we -- there's certainly nothing secret about it.  We would have made it available earlier in the course of the thousands of other documents that we've made available to the Defence.  They probably already have it already (sic). 
+MR. ROBINSON: 
+Mr. President, if I could just respond briefly.  
+
+If the Prosecution couldn't find this document for the last seven years, certainly they couldn't expect us to find it.  Thank you.
+MR. PRESIDENT:
+We -- we would need a little time to consider these -- these submissions.  
+
+What we wonder, could we interrupt the cross-examination of this witness and call the next witness?  Now --
+MR. ROBINSON:
+Mr. President, I could do that.  The next witness is here, and he's ready.  
+
+I wonder though if it wouldn't be better to continue the cross-examination of the witness without using this document and leave this to the end of the cross-examination and then come back to it after you've ruled.  That will be a little better to have -- not have to interrupt the testimony of the witness.  But whatever you prefer, we can do.
+MR. PRESIDENT:  
+Mr. Webster, what do you think?  
+MR. WEBSTER: 
+I mean, to be quite honest, Your Honour, I don't find either -- either option attractive.  I think I should be allowed to proceed with my cross-examination.  I will use the document in substance, and then we can argue about whether it should be admitted into evidence afterwards.  We can do that at another time.  But I should at least be allowed to put questions to the witness on the substance of the document and to continue.  I'd actually prefer to finish with the witness right away.  
+
+But I -- I rely on the Court's judgement and discretion.  It -- it starts to get a bit disruptive when we stop and start witnesses and cross-examinations and -- and so on and so forth.  And if -- if the issue presents such a challenge, actually, I would prefer that the Court simply withdraw for -- for an hour or half-hour, however long it takes to -- to resolve the motion before we continue.  That's -- that's my preference, but, of course, I respect the Court's judgement. 
+MR. ROBINSON: 
+That would be my preference also, Mr. President, to just resolve it and move forward.  Thank you.  
+MR. PRESIDENT: 
+Yes.  We -- we -- we are affected by the requirement that the day's proceedings ends at 12:30, however the time is spent.  The -- this witness's cross-examination has already been interrupted for three days, and a further short interruption while we're dealing with the oncoming witness doesn't add or take away anything from that position.  We think we should proceed with the next witness.  We undertake that we will consider it this afternoon and have a decision by tomorrow morning. 
+MR. ROBINSON: 
+Very well, Mr. President.  We can call (By order of the Court, this name was extracted and kept under separate cover).  
+
+Before we do that, though -- actually, Mr. President, Mr. -- in fact, if you could just redact that name for the moment.  This -- the next wit --
+MR. PRESIDENT: 
+Yes.  The order -- the order is made. 
+MR. ROBINSON: 
+Okay.  The next witness actually is subject to a protective measures order in the *************, in which he testified as a Defence witness.  However, he wishes to testify in his true name in these proceedings.  And you'd in -- you've previously indicated that the Chamber is in a position to vary the protective measures orders in the **************************, which is a completed case.  
+
+And so what I would ask that you do is bring in the witness and enquire of him whether or not he wishes to have his protective measures varied so that he could testify in his true name.  And if he satisfies you that he's willing to do that, then perhaps you can make an order that he be allowed to testify in his true name.  Thank you.  
+
+MR. PRESIDENT: 
+Yes.  We can adopt that procedure.
+(Pages 1 to 13 by Tanya West)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0950H 
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning.  
+MR. PRESIDENT:
+You're going to testify before our Tribunal.  But before you do that, you have to take an oath to tell the truth.  And the registrar will now assist you to do that.  
+THE ENGLISH INTERPRETER:
+It appears the witness is not on the right channel, Mr. President.  
+MR. PRESIDENT:
+Mr. Registrar, could you please assist? 
+THE WITNESS:
+Yes, now I can hear in Kinyarwanda, Mr. President.  
+(Declaration made by Assiel Ndisetse in Kinyarwanda) 
+MR. PRESIDENT:
+Thank you.  
+
+I've noticed curious eyes.  We were just ensuring that our consultation with the ********** bench included this witness, and it had.  (inaudible)
+
+Mr. Witness, you were the beneficiary of a protection order for security reasons when you gave evidence in another case before this Tribunal.  It has been suggested to us that you would like to request the Chamber to remove or vary the protection order to allow you to testify in your own name in this trial.  And we would just like to enquire if that is so, and what is the reason for that?  
+THE WITNESS:
+I've decided to testify under my real name because during my travel here everybody saw me.  So, one cannot pretend that I'm still anonymous, because everywhere I passed everybody knew the purpose of my trip.  
+MR. PRESIDENT:
+Mr. Witness, we will still enquire from you whether at this time you have any further concerns about your security if you testify in your own name in this case.  
+THE WITNESS:
+No problem.  
+
+Well, what I was saying is that anything I can say in a closed session is well known to a large segment of the population.  
+MR. PRESIDENT:
+Yes.  Counsel, Mr. Robinson.  
+MR. ROBINSON:
+Yes, Mr. President. 
+
+We would ask that the protective measure order from the **************** be varied and that the witness be allowed to testify here in his true name. 
+MR. PRESIDENT:
+Mr. Webster.  
+MR. WEBSTER:
+I think it's a sensible move on the part of the witness, Your Honour, and I certainly do not want to oppose it. 
+
+My only question is whether the closed session testimony, if there was any in Kajelijeli, is now publicly accessible or how do we handle that?  
+
+It is just if the Court could clarify.  Does that now become a publicly accessible -- or, is that testimony publicly accessible now, or do we still try to shield it?  
+MR. ROBINSON:
+Mr. President, if I can make my point of view known on that.  I would (inaudible) that this affects the closed session testimony in the *****************.  If there is a need to refer to that, it probably should be done in closed session here, and that, essentially, this is only for the purposes of this case which is the same as we've done with witnesses for the Ndindiliyimana case where we've actually had an order from another Chamber.  
+
+It's been stated specifically in that order that the protective measures continue to apply to those cases but are not applicable to this case.  Thank you.  
+MR. PRESIDENT:
+Mr. Webster, we can simply state that we agree with Mr. Robinson's submission.  So we modify the order for the protection of this witness to the extent that he can testify in this trial in his own name openly.  
+
+Now, Mr. Witness, you can give your testimony by responding with the questions put to you by the lawyers designated for that purpose.  And you'll have to respond first of all to lawyers for Joseph Nzirorera who will begin his examination of you.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+ASSIEL NDISETSE, 
+first having been duly sworn, 
+testified as follows: 
+EXAMINATION-IN-CHIEF
+BY MR. ROBINSON:
+Q.	Mr. Witness, is your name Assiel Ndisetse? 
+A.	Yes, that is my name. 
+Q.	Now we've asked that there be placed before you a piece of paper which indicates that your date of birth is 1936; that you are a male Rwandan Hutu; that you currently are a prisoner; in 1994 you were a conseiller in Busogo; you were born in Mugogo cellule, Busogo secteur, Mukingo commune and you resided there in 1994; you currently reside in Ruhengeri central prison; your father's name is Nkundabakuze and your mother's name -- 
+THE ENGLISH INTERPRETER:
+The witness says that his father's name is Nkundabakura.  
+BY MR. ROBINSON:
+Q.	Okay.  Can you spell that for us, please?  
+THE ENGLISH INTERPRETER:
+Nkundabakura is spelt, N-K-U-N-D-A-B-A-K-U-R-A.  
+MR. ROBINSON: 
+	Thank you.  
+BY MR. ROBINSON:
+Q.	And your mother's name is Nyirabasage? 
+A.	The name is Nyiragasage.  
+THE ENGLISH INTERPRETER:
+Nyiragasage is spelt, N-Y-I-R-A-G-A-S-A-G-E. 
+MR. ROBINSON:
+	Thank you very much.  
+
+Mr. President, may -- 
+BY MR. ROBINSON:
+Q.	Are all of those facts I have indicated correct? 
+A.	The information is correct apart from the corrections that I have pointed out regarding my father's name, Nkundabakura, and my mother's name, Nyiragasage. 
+MR. PRESIDENT:
+Thank you. 
+MR. ROBINSON: 
+Mr. President, I would ask that the personal information sheet -- and we can amend it accordingly -- be admitted as D. NZ687.  
+
+MR. PRESIDENT:
+Admitted as amended.
+(Exhibit No. D. NZ687 admitted)
+MR. ROBINSON:
+Thank you, Mr. President. 
+BY MR. ROBINSON:
+Q.	What was your occupation in 1994? 
+A.	I was conseiller of Mukingo commune, and I was responsible for Busogo secteur. 
+Q.	And how long had you been -- well, when were you first appointed to the job of conseiller of Busogo secteur? 
+A.	I do not remember the date.  But, I think that I held that position for 20 years.  
+Q.	Do you know Joseph Nzirorera? 
+A.	Yes, I know Nzirorera. 
+Q.	And how do you know him? 
+A.	I know that he hails from the Mukingo commune, specifically from Busogo secteur. 
+Q.	Did you know him when he was a child? 
+A.	Yes. 
+Q.	And later on when he lived in Kigali and would come back to Mukingo commune would you see him when he visited his commune? 
+A.	Yes, I used to see him. 
+Q.	Now, after the war started in October of 1990, can you give us any kind of approximation as to how often you might have seen Joseph Nzirorera in Mukingo commune? 
+A.	When the war broke out, I saw him on one occasion when he came to the Mukingo commune. 
+Q.	Thinking back to the actual beginning of the war in October of 1990, during the period between then and the death of Habyarimana, can you tell us approximately how often you might have seen him in Mukingo commune? 
+A.	I saw him probably thrice. 
+Q.	During the period between October of 1990 and the death of President Habyarimana, did Mr. Nzirorera come to Mukingo commune every weekend? 
+A.	No.  And in any case, I didn't see him. 
+Q.	Now, when he did come to Mukingo commune and you did see him, at what location did you see him? 
+A.	On the occasion that I saw him, I saw him at his home because I used to visit him in his residence when he came. 
+Q.	Were any meetings of authorities ever held at Mr. Nzirorera's mother's house in Busogo secteur? 
+A.	No.  No one held a meeting at that residence. 
+Q.	When you did see Joseph Nzirorera at his own residence, what did you talk about? 
+A.	We discussed the situation that was prevailing and we would exchange information.  
+Q.	Did you attend any meeting of authorities at Mr. Nzirorera's house that included Casimir Bizimungu, General Augustin Bizimungu or Colonel Setako? 
+A.	I never knew of any such meeting that brought together those officials. 
+Q.	Now, do you know some young people in the commune named **************************************** 
+A.	I know those two young persons. 
+Q.	To your knowledge, did they ever hold any meetings with Mr. Nzirorera? 
+A.	I never saw those young men holding any meeting with Nzirorera. 
+Q.	Now, when Mr. Nzirorera would come to Mukingo, what would be the reaction of the population? 
+A.	Prior to the outbreak of the war, the population reacted positively to his visits because people could notice that everyone was seeking to meet him.  And he did not make any distinction as to whether you were Tutsi or Hutu.  Everybody went and met him in his house, even the Twas.  So, anyone seeking to meet him when he came to the commune -- well, everyone sought to meet him each time he came to the commune. 
+Q.	And what kinds of things did they want to meet Nzirorera about? 
+A.	Well, there were all kinds of reasons that people had, because when the school holidays were finished, people would come to seek to meet him in order for him to find a place for their children in the school.  Irrespective of the secteurs of Busogo or the neighbouring secteurs, people sought to meet him in order for him to find a place for any of the children seeking to attend secondary school. 
+Q.	Do you know whether or not Mr. Nzirorera paid the school fees of children in Mukingo commune? 
+A.	There are many for whom he did.  Those people -- those children came from all ethnic groups, the ethnic groups that I have mentioned. 
+Q.	Thank you.  Now, were you yourself a member of a political party in the multiparty system? 
+A.	Yes, I was a member of the MRND party. 
+Q.	In Busogo secteur were there other political parties also present? 
+A.	Other parties were present.  We had for starters the MRND, then we had also the MDR party which had members in the secteur, and there was another party that operated in the secteur but whose name I can't remember right now.  Actually, I know of three parties that operated in the Busogo secteur. 
+Q.	Would that other party be the CDR? 
+A.	Yes, indeed, the other party was the CDR party. 
+Q.	Did you ever hear of any occasion in which the youth of Mukingo commune had taken down the flags of parties -- of other political parties? 
+A.	I never heard any such thing because such an incident never occurred in Busogo secteur. 
+Q.	Did you ever hear of either the youth or the communal authorities being asked to make lists of Tutsis in Mukingo commune? 
+A.	That never happened. 
+Q.	Was there a person who lived in Busogo secteur named Makoni? 
+A.	I knew Makoni. 
+Q.	Was he Hutu or Tutsi? 
+A.	He was Hutu. 
+Q.	How did he die? 
+A.	We heard people say that he was killed by his neighbour.  
+Q.	And was his neighbour a soldier? 
+A.	Yes, he was a soldier. 
+Q.	And did his death have anything to do with political parties or ethnicity? 
+A.	No.  His death had nothing to do with that.  Actually, we did not know there was a quarrel between the two of them.  They were neighbours, but we did not know about the dispute or quarrel that they had between the two of them. 
+Q.	Were there night patrols in Mukingo commune? 
+A.	Yes, night patrols were organised in the commune. 
+Q.	Approximately, when did those night patrols begin? 
+A.	I think it would be very long if I started explaining things to you from the beginning.  But I think that those night patrols were instituted when people started saying that the RPR (sic) was getting ready to attack the country.
+Q.	And the persons who conducted the night patrols, did they have guns? 
+A.	Those who were assigned to night patrols went to the military positions, and the soldiers would lend them firearms that they would use during the night.  And in the morning, they would return the firearms to the military posts located at Ruhehe, not far from the communal office.  Ruhehe is located up the road or above the communal office. 
+Q.	Did the MRND party have anything to do with the night patrols or the distribution of weapons to the people who were conducting them? 
+A.	No.  The idea was to ensure the members of the population's security. 
+Q.	And who was it who supervised the night patrols?  Was it the communal authorities? 
+A.	It is -- it was the responsables of cellules who supervised night patrols. 
+Q.	Okay, thank you.  Now, was there any military training conducted in Mukingo commune prior to the death of President Habyarimana? 
+A.	I never saw them. 
+Q.	Did you ever hear of any such training? 
+A.	The military training never took place.  
+Q.	Prior to the death of President Habyarimana, was there any distribution of weapons to the population of Mukingo commune? 
+A.	Prior to the death of the president, there are some members of the population who learned how to handle firearms in order to provide security for the entire population during night patrols.  Now, these persons who learned how to handle firearms were drilled or trained in the Mukamira military camp. 
+Q.	Thank you.  And were any weapons distributed to members of the population other than those who conducted night patrols? 
+A.	No.  That never happened. 
+Q.	Do you know a building known as Isimbi? 
+A.	As far as that Isimbi building is concerned, I would tell you that I know the building, especially as it is situated opposite or in front of my own house. 
+Q.	And what was that building used for in 1992 through 1994? 
+A.	First, the owner of the building ran -- well, sold maize there.  But later there were some young persons who came and took over the building -- or, who came and rented the building and opened a bar there. 
+Q.	Was there any military training conducted at Isimbi building? 
+A.	No.  
+Q.	Was there a flag of the MRND that flew in front of the Isimbi building? 
+A.	The MRND flag flew at that location because the representative of the MRND party in Busogo secteur had requested from the organisation that had rented the Isimbi building to hoist an MRND flag in front of the building. 
+Q.	Did the MRND have an office in that building? 
+A.	No. 
+Q.	Do you know who was the owner of the Isimbi building? 
+A.	The owner of the building is known.  His name is Vincent.  And he had bought that building from a Muslim from Ruhengeri.  
+Q.	And what was the relationship of the owner of that building to Mr. Nzirorera? 
+A.	Vincent was Nzirorera's brother-in-law. 
+Q.	To your knowledge, did Mr. Nzirorera ever give the Isimbi building to the youth of an association led by *******************? 
+A.	No.  That never happened.  That building belonged to Vincent, and I have told you that the youths who had formed an association had rented the building.  That is what I have already said. 
+Q.	Thank you.  
+MR. ROBINSON:
+Mr. President, would you like to take the mid-morning break at this time. 
+MR. PRESIDENT:
+Yes, thank you very much.  We will take our mid-morning break now. 
+(Court recessed at 1030H)
+(Pages 14 to 20 by Eleanor Bastian)
+
+
+
+
+(Court resumed at 1126H) 
+MR. PRESIDENT:
+Mr. Robinson.  
+MR. ROBINSON:
+Thank you, Mr. President.  
+BY MR. ROBINSON:
+Q.	Mr. Ndisetse, what was the association that was led by ************************? 
+A.	I knew it was an association, but I did not know the name of that association.  
+Q.	And what was the purpose of the association, as you understood it? 
+A.	It was an association of youths engaged in agriculture -- in farming, and it is the communal administration that put farms at their disposal.  
+Q.	Did this association have anything to do with the MRND party, as far as you know? 
+A.	No, that association had no link with the MRND political party.  
+Q.	Was the association -- did the association have any link with Mr. Nzirorera that you knew of? 
+A.	No link.  
+Q.	Did the association have any link with the Isimbi building that you knew of? 
+A.	I know that the young people used to go and have a drink in that Isimbi building, but there was no link between the association and the Isimbi building itself. 
+Q.	And prior to the death of President Habyarimana, did this association or its members commit crimes against Tutsis? 
+A.	Did you say, "prior to the death of President Habyarimana"?  No.  Prior to the death of President Habyarimana, members of this association did not conduct any violent acts against the Tutsi.  
+Q.	And did members of this association claim to be members of the Interahamwe that you know of? 
+A.	None that I'm aware of.  All I know is that they're an association of young persons, but I did not know them as members of the Interahamwe.  
+Q.	To your knowledge, did members of this association receive the MRND kitenge cloth from Mr. Nzirorera or Juvénal Kajelijeli? 
+A.	In actual fact, the kitenge cloth, with the MRND colours, were never distributed freely to the population.  I recall that I, myself, had to buy some myself to get it sewn, and I know that all those who wore this kitenge had to buy it themselves.  
+Q.	Thank you.  Now, can you tell us where you were when you heard of the death of President Habyarimana? 
+A.	I heard about the death of President Habyarimana when I was at home, and this was around 2030 when my neighbours came to wake me up, because I was already in bed because I was down with an illness.  So these people came to see me and told me that the presidential plane had been shot down.  That is how I got to know about the death of the president.  
+Q.	And on the morning of the 7th of April, did you leave your home, and, if so, where did you go? 
+A.	It was announced on Radio Rwanda that no one was allowed to leave his house, but since there were a lot of displaced persons in the Busogo secteur -- and these displaced persons came from communes such as Butaro and Kinigi, and there were others that even came from Zaire.  So on that morning of the 7th of April, I had to go to the Byangabo centre to try and get some information on the prevailing situation.  
+Q.	And can you tell the Trial Chamber what happened when you got to Byangabo.  
+A.	When I got to Byangabo, I found a group -- a group of persons who were worried.  I got to the centre around 6:30, and from that time on I realised that people were gathering in small groups, and I also observed that there were young persons who had been joined by soldiers who had deserted the 
+war front.  
+
+And these young persons contacted me and told me that they wanted to go and avenge the death of the president, and I told them that I was not allowed.  And I asked them whom they wanted to vent their revenge on, and they told me that the president had been killed by the Tutsi.  But I continued preventing them from implementing their -- their plan.  And I continued talking to Nambatware (sic), who were (sic) there.  
+
+A soldier came from Ruhengeri.  I don't know if I'm allowed to give you his name in this public session.  May I?  
+
+This soldier was called Mburuburengero.  And when he arrived, the soldiers placed themselves in front of the vehicle of -- in front of his vehicle, and he told -- they told him that there was a conseiller who was preventing them from avenging the death of the president.  So they started shouting at me, booing me and called me a traitor.  They said that I was preventing -- preventing them from avenging the death of the president because I received cows and farms from the Tutsi.  
+
+Mburuburengero then told the young persons that they could also kill that conseiller, who was an obstacle on (sic) their way, and that he was going to explain that.  It was following Mburuburengero's intervention that the young persons started killing, beginning with one Rukara.  And it was 
+*************************** who killed Rukara, and ************** himself has confirmed -- confessed to this -- confessed to his crime.  Subsequently, these young persons dispersed and continued killing in the entire Busogo area.  
+Q.	And after that, did you try to get a message to the bourgmestre about what was going on? 
+A.	Even before the killings started, I sent the Rwankeri responsable de cellule -- his name is ******************* -- for him to inform the bourgmestre.  But when he got there, he was not able to contact the bourgmestre, and when he came back to Byangabo, I had already left.  
+Q.	Can you tell us, approximately, how much time you spent in Byangabo that morning? 
+A.	I got to Byangabo around 6:30.  And I left around 9-9:30.  
+Q.	During that time, did you ever see Juvénal Kajelijeli? 
+A.	I did not see Kajelijeli at Byangabo on that day.  
+Q.	Did you see Joseph Nzirorera? 
+A.	No, I did not see him there.  
+Q.	Did you see Colonel Setako? 
+A.	I did not see him either.  
+Q.	Did you see General Augustin Bizimungu? 
+A.	No, I did not see him there.  
+Q.	Did you see Casimir Bizimungu? 
+A.	No, I did not see him there.  
+Q.	Did you see chief warrant officer, **************, there? 
+A.	No.  
+Q.	Did you see the director of ISAE, Nyabusore, there? 
+A.	No.  
+Q.	To your knowledge, had there been any meeting of authorities at Mr. Nzirorera's mother's house on the 7th of April? 
+A.	No.  No meeting was held in that house during that period.  
+Q.	What did you do after you left Byangabo? 
+A.	The young persons had been authorised to kill me.  So when I left Byangabo, I hid myself in the hills on the other side so as to save my life.  
+Q.	Now, on the next day, the 8th of April, what did you do? 
+A.	Which date did you refer to, Counsel?  
+Q.	The 8th of April.  
+A.	On the 8th of April, the then bourgmestre of Mukingo came to organise the burial of the persons who had been killed, but I did not take part in this burial because I was afraid of being killed by this group of young persons who had been authorised to kill me.  
+Q.	Later that day, did you learn of the death of the bourgmestre? 
+A.	On the 8th, during the night, I heard that the bourgmestre had been taken to the health centre at the Rwankeri parish, and the following morning I heard that the bourgmestre was dead.  And on the 9th, we went to bury him.  
+Q.	And who took over the duties of the bourgmestre on the 9th? 
+A.	Pursuant to the administrative law in force, as at then, from the 9th of April, I had to take over because that law provides that in an event of a problem which prevents the bourgmestre from fulfilling his duties the conseiller was to take over.  So it was -- it fell on me to take over the responsibilities of the bourgmestre.  
+Q.	And, approximately, how long did you serve as acting bourgmestre of Mukingo commune? 
+A.	I'd say about ten days, and following those ten days, there were elections.  The elections were organised by the communal development council.  
+Q.	And during the time that you were acting bourgmestre, did you go to the commune office every day? 
+A.	Yes.  I used to go to the communal office each day in the course of those ten days when I was the acting bourgmestre.  
+Q.	Did Joseph Nzirorera ever make a telephone call to the commune office, to your knowledge, during that period? 
+A.	No, he never called me on the telephone.  
+Q.	Did you hear about the attack on the Tutsis at the court of appeal in Ruhengeri on the 14th of April? 
+A.	No, I was never informed about that attack.  We heard journalists announcing on Radio Rwanda that the appeals court building had been shelled by the RPF.  That is what was said on the radio.  
+Q.	At any time did the youth of Mukingo commune come to the commune office on their way to attack the court of appeal building, that you know of? 
+A.	I'm not aware of that.  
+Q.	Okay.  Thank you.  Now, returning to the procedure for selecting the new bourgmestre, you spoke about the communal development council.  Can you tell us, who were the members of that council.  
+A.	The communal development council was made up of the chiefs of section -- of services, the 
+conseillers des secteurs, representatives of political parties operating within the commune, members of the technical committee, representatives of religious bodies within the commune.  These are the persons who constitute the communal development council.  
+Q.	And was Joseph Nzirorera a member of the commune technical committee? 
+A.	I never saw him, particularly since I was not informed about the technical committee meetings.  So I'm not able to tell you if he's a member of the technical committee or not.  
+Q.	Did Joseph Nzirorera participate in the meeting of the communal development council at which the bourgmestre of Mukingo commune was elected? 
+A.	No, he did not take part in that meeting.  
+Q.	Who presided over that meeting? 
+A.	It was the préfet, Basile, who himself had just been appointed as préfet of that préfecture.  
+Q.	And what was the result of the election by the communal development council? 
+A.	There were several candidates, including Kajelijeli and one Semahane.  Let me point out here that even the assistant bourgmestres were candidates.  At the end of the elections, Kajelijeli came ahead of the other candidates with the highest number of votes, and the second candidate was Semahane.  
+
+Unfortunately, the communal development council said they could not appoint Kajelijeli as bourgmestre because he had previously occupied that position and was suspended, and that the second candidate, who was a census officer, had been disqualified because he had embezzled funds of the commune.  So the position finally went to Semahane, who was in third position. 
+Q.	And do you know how long Semahane served in that position? 
+A.	He remained in that position for a long time.  And when he replaced me, he continued in that position until the month of June before being replaced by Kajelijeli.  
+Q.	And do you know who it was who appointed Kajelijeli as bourgmestre of Mukingo commune in June 1994? 
+A.	In my opinion, it was the then government that appointed him to that position.  No other authority could have appointed him into that position, apart from the government.  
+Q.	And to your knowledge, did Joseph Nzirorera have anything to do with the appointment of Juvénal Kajelijeli? 
+A.	Counsel, I don't -- I'm not sure if I'm able to answer your question.  Consider my status at the time.  
+I wouldn't know the inner workings of the government.  
+Q.	Thank you.  And did you attend the swearing-in ceremony of Juvénal Kajelijeli? 
+A.	Yes, I was present at that ceremony.  
+Q.	And who presided over that ceremony? 
+A.	There was the préfet, Basile.  
+Q.	Was Joseph Nzirorera there? 
+A.	Yes, he was present, but he did not speak on that occasion.  
+Q.	Did you ever hear of a group known as Amahindure? 
+A.	I heard about that group; I used to see them pass by.  And when I was going to the communal office, I saw them handling pieces of wood, which they considered as guns, and they were being trained by soldiers who had deserted the army.
+Q.	And, approximately, when did that training take place, in which month? 
+A.	These training sessions took place after the death of the president, but I'm not able to specify the period during which the training took place.  
+Q.	Thank you.  Did there come a time when the land of the Tutsis was distributed in Mukingo commune? 
+A.	No.  A communiqué from the then minister of the interior announced that there were some persons who had died and others who had fled and that properties of such persons should be maintained.  And the communiqué -- the press release requested the communal authorities to ensure that the refugees or displaced persons coming back to their properties should not find themselves in a situation where other members of the population had illegally occupied their properties.  
+
+The bourgmestre, once again, convened a meeting of the communal development council to examine the issue.  The council decided that those farms should not be left to fallow, but that they should be rented out to other persons and that, when the displaced persons returned, they could -- their properties would be given back to them.  We, therefore, set up a committee which was in charge of the renting out of these farmlands.  The communal accountant was to issue a receipt for monies paid in rent for such lands, and this money was paid into the communal coffers.  
+Q.	And were you a member of that committee? 
+A.	Yes, I was a member of that commission at the level of the secteur over which I had charge. 
+Q.	And who was the bourgmestre who set up that commission? 
+A.	Félicien Semahane. 
+Q.	Did Mr. Nzirorera have anything to do with the rental or giving of Tutsi land to anyone? 
+A.	No.  He played no part in the entire process or procedure.  
+Q.	Now, did the association led by ********************* get some land? 
+A.	I would say that customarily that organisation received assistance from the commune, and, within that context, lands belonging to a person called Rachel were forcibly -- or were seized by that organisation, and we gave a report on this to the bourgmestre.  
+Q.	Did they have the permission of the committee to take over that land? 
+A.	No, not at all.  That commission never gave them authorisation to take over the plots of land.  On the contrary, the members of that organisation physically occupied the land and prevented us from renting out that plot as per the process that was used at the time -- that was followed at the time. 
+Q.	As conseiller of Busogo secteur, did you ever receive any complaints from businessmen concerning demands of money from that association, led by ****************************? 
+A.	Those persons admit to this themselves, but as far as I am concerned, I did not receive any complaint from anyone in that respect.  From the day that an order was issued to the effect that I should be killed, I was no longer operating on the same wavelength as those young persons.  I, therefore, had no contact with them.  
+Q.	Can you tell us approximately when it was that you left Rwanda? 
+A.	I left Rwanda in 1994, in June.  I believe I left on the 13th of June, if I'm not mistaken.  That is when I left Rwanda to go and take refuge in Congo.  
+Q.	Is that June or July? 
+A.	I am in doubt as to the month.  I think, rather, the date was the 13th of July.  Rather, it was on the 13th of July that I went into exile.  
+Q.	And when did you return to Rwanda? 
+A.	In December 1996.  
+(Pages 21 to 26 by Jean Baigent)
+
+
+
+
+
+
+
+
+
+1200H 
+BY MR. ROBINSON:
+Q.	When were you arrested? 
+A.	I was arrested on the 12th of December 1996. 
+Q.	And when did you arrive in Ruhengeri prison? 
+A.	I can't remember the date but what I would say is that I remained in the commune holding cell for 
+	85 days.  And after that period evidence was fabricated against me because previously they hadn't had any evidence against me.  And so after that period, I was transferred to the Ruhengeri prison.  
+Q.	And are you still held in Ruhengeri prison today? 
+A.	Yes, indeed, I am in detention in the Ruhengeri prison.  
+Q.	Did there come a time when you and other authorities were isolated from the other prisoners? 
+A.	Yes, at some point in time.  The prosecutor at the time was Karugarama.  And there was a wing or 
+	block number 9 that was prepared for us and that is where we were -- that's where we were kept and closed up and we never -- the door was always locked and we were never allowed to go out.  I stayed there for more than a year.  And it is the prosecutor who replaced Karugarama, that is, Mbarushimana, who brought us out of that block.  Apart from that, we remained in that block for about two years without permission to go out of the building.  
+MR. WEBSTER:
+I'm sorry to interrupt.  If -- I have the same concern with this question that I raised with previous witnesses, and if Mr. Robinson could ask him who he means by the authorities and perhaps give us specific names.  And if he could also specify when he was first put in block number 9.
+MR. ROBINSON:
+Okay.
+BY MR. ROBINSON:
+Q.	Mr. Ndisetse, first of all, can you try and remember about what year it was that you were placed in 
+	block number 9.  
+A.	I would be hard put to remember the date on which we were put into that block.  This happened during a certain period.  And that is when it was being said that there were some people who were going to have recourse to the confession and guilty plea procedure.  It was, therefore, during that period that some of the detainees were taken to that block.  And the reason for this was that the former authorities did not have recourse to that procedure.  And so we were isolated in order for the other detainees to have recourse to the confession and guilty plea procedure.  And any person who was in block number 9 who decided to have recourse to their confession and guilty plea procedure would leave the block and so would be able to receive visits from their family members, whilst those who had refused to resort to the confession and guilty plea procedure could not have such visits.  
+Q.	And can you recall approximately when it was that you came out of isolation?  About what year that was? 
+A.	Frankly speaking, I can't remember the year.  I cannot remember the year in which we came out of that block number 9.  I really do not remember.  
+Q.	And can you give us an estimate of how long you were in block 9? 
+A.	We remained in block number 9 for approximately one year and a half. 
+Q.	Now, speaking about authorities.  You have mentioned the name of Tharcisse Karugarama, who was prosecutor general at the time that you began the isolation; is that correct? 
+A.	Yes, indeed, his name was Tharcisse Karugarama. 
+Q.	And prior to your going into isolation did he hold a meeting of prisoners and explain the guilty plea and confession procedure? 
+A.	That is, indeed, the case.  It was an instruction.  And I think this was part of the law.  This is a procedure that was governed by the law that was regulated and people were encouraged to make confessions and -- in order to implicate or incriminate the authorities that had caused them to commit crimes. 
+Q.	And then by the time you were released from isolation, there was a new prosecutor general; correct?  You told us about someone named Mbarushimana.  
+A.	Yes.  And that, indeed, was the case.  It is the prosecutor, Mbarushimana, who said that we had to be allowed to receive visitors like the other detainees.  So he is the one who opened the doors of our block, that is, block number 9.  
+Q.	Now, in the time that you've been at Ruhengeri prison, from 1997 to 2009, did you become aware of other prisoners who were making accusations against authorities who were in Arusha? 
+A.	I didn't quite understand your question, Counsel.  I haven't quite understood your question. 
+Q.	I was wondering about whether or not while you were at Ruhengeri prison you heard anything about people accusing the authorities who were here in Arusha.  People like Nzirorera, Kajelijeli.  
+A.	Yes.  Of course, we were aware that people were coming to give testimony against persons who stand accused here in Arusha.  We were aware that some of the detainees at the prison were coming to give testimony against the accused persons in Arusha. 
+Q.	And were you aware whether that was truthful testimony or false testimony? 
+A.	Regarding these witnesses who came to testify for the Prosecution, it is clear that most of them came and gave false testimonies because even in Rwanda, in our country, in Rwanda, they had given false testimonies against certain persons.  And at the time that they gave their confessions, they implicated or accused people falsely.  Consequently, I think there are some who came and gave testimony here in Arusha but the testimonies they gave against the accused here were false.  
+Q.	Did the persons who were giving false testimony receive any benefits while in prison? 
+MR. WEBSTER:
+I'm sorry.  I think Mr. Robinson is leading a bit too much now.  Some degree of leading is understandable because it moves the testimony along, but this is a sensitive area.  
+
+And I would also request that he ask the witness to provide the names, specifically the names of the persons that he's aware of going to Arusha and providing false testimony.  
+MR. ROBINSON: 
+Okay.  
+BY MR. ROBINSON:
+Q.	We can start with the names, Mr. Ndisetse.  Can you tell us the names of the people you believe were making false accusations against the authorities here in Arusha.  
+A.	There were witnesses who came and made false accusations -- or gave false testimonies.  And, 
+	for instance, I will mention ************************.  I'm saying this because these persons talked about a meeting that was allegedly held in Nzirorera's mother's house.  But then when the trial was conducted by the Gacaca court in Busogo against Baheza, Esdras, those people contended that no meeting was held in Nzirorera's mother's house.  So you, yourself, can now understand that when they gave that testimony elsewhere, they gave a false testimony.  
+Q.	Do you know whether *********came to Arusha to give false testimony? 
+A.	He falls under the same category as those other two persons I have mentioned.  During Baheza's trial, he, himself, gave testimony to the effect that no meeting was held in Nzirorera's mother's residence.  And he said this before a Gacaca court. 
+Q.	What about *****************************? 
+A.	Are you asking me about **************************?  Well, I don't know him that well.  And I do not know what he might have said against Nzirorera in his testimony.  In any case, however, in this trial, that is, in Baheza's trial, he testified that no meeting was organised in Nzirorera's mother's residence.  It is, therefore, clear that if they said so -- if they confirmed this elsewhere, they gave a false testimony.  
+Q.	Were any benefits given to these people at the prison? 
+MR. WEBSTER:
+For this question as well, if Mr. Robinson could ask the witness to clarify when, either if he remembers the month or the year or if he can relate it to another event.  I mean, much of this testimony is not going to be very effective unless we can pin these incidents down in time.  
+MR. ROBINSON: 
+Mr. Webster, are you speaking about when they received benefits or when the testimony at Gacaca was given? 
+MR. WEBSTER:
+Both, actually.  But my primary concern is when they received benefits.  
+BY MR. ROBINSON:
+Q.	Okay, Mr. Ndisetse, let me ask you first to -- hold on.  Let me just ask you now two questions.  First, can you tell us approximately when was the Gacaca hearing of Mr. Baheza that you referred to? 
+A.	It is in 2008 that Baheza's trial took place. 
+Q.	Okay.  And I asked you what benefits these people received at the prison.  And if you could tell us that, and if so, if they did receive benefits, can you tell us approximately when they received those benefits? 
+A.	Did you say witnesses who gave testimonies in which trial and about what?  I am asking to know the persons against whom those witnesses might have given false testimonies. 
+Q.	Well, let me ask you this:  For example, ************ did he have -- did ************ have any position at the prison? 
+A.	Yes, he was what was referred to as the capita general in the prison.  As to ***************** he held the position of *********** and was later in charge of the kitchen.  Now, as to ***********, I think that he also held the position of ******************n the prison. 
+Q.	And ******************? 
+A.	He, himself, he also held the position of ************************************, in the prison.
+MR. WEBSTER:
+The witness has never mentioned the name of *************** among these.  Perhaps Mr. Robinson can establish that before we take any more information. 
+BY MR. ROBINSON:
+Q.	So you've told us the position that ******************** had at the prison.  Do you know whether or not he was one of those making false accusations against people in Arusha? 
+A.	No.  Well, he merely asked me the question as to what was his position while he was in prison.  Apart from that, well, I don't list him amongst those persons who came and gave false testimony. 
+Q.	Okay.  Now, did some prisoners have the opportunity to go outside of the prison? 
+A.	After the confession and guilty plea procedure, the detainees who resorted to that procedure were allowed to go out in civilian clothing to meet members of their family.  They would leave the prison yard in the morning and come back during the day.  And this, of course, encouraged all the detainees to have recourse to the confession and guilty plea procedure.  Now, this exercise continued and there are many detainees who decided to have recourse to the confession and guilty plea procedure.  
+Q.	Okay.  Thank you.  
+A.       The results were surprising.  
+MR. ROBINSON: 
+Mr. President, I'm now going to go into one other area that's going to take a little bit of time.  And I think it would be better if we took our break at this time and resumed tomorrow.  
+MR. PRESIDENT:
+Your estimate for the remainder of your examination would be what? 
+MR. ROBINSON: 
+About 15 minutes.  
+MR. PRESIDENT:
+For the remainder of your examination? 
+MR. ROBINSON: 
+Yes.  
+MR. PRESIDENT:
+Yes.  We'll take the break now.  
+
+Mr. Witness, we -- our proceedings today are going to be adjourned and we resume tomorrow morning.  During this, or any adjournment while you are still a witness, you are not to discuss the case or your testimony with anybody.  Do you understand? 
+THE WITNESS: 
+Yes, I have understood you, Mr. President.  
+MR. PRESIDENT:
+Okay.  We take our adjournment now.  
+(Court adjourned at 1227H)
+(Pages 27 to 31 by Rebecca McCoy) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+We, Tanya West, Eleanor Bastian, Jean Baigent and Rebecca McCoy, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+
+___________________________	Tanya West
+
+
+___________________________	Eleanor Bastian
+
+
+____________________________	Jean Baigent
+
+
+____________________________	Rebecca McCoy
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+TANYA WEST - ICTR - TRIAL CHAMBER III - page 1
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+ELEANOR BASTIAN - ICTR - TRIAL CHAMBER III - page 14
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+JEAN BAIGENT - ICTR - TRIAL CHAMBER III - page 21
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+REBECCA McCOY - ICTR - TRIAL CHAMBER III - page 27
+
+	KAREMERA ET AL	MONDAY, 23 NOVEMBER 2009
+
+ICTR - TRIAL CHAMBER III
+

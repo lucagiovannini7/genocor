@@ -1,0 +1,519 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44C-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ANDRÉ RWAMAKUBA
+	
+
+TUESDAY, 17 JANUARY 2006
+ 0907H 
+CONTINUED TRIAL
+
+
+Before the Judges:
+	Dennis Byron, Presiding
+	Karin Hökborg
+	Gberdao Gustave Kam
+
+For the Registry:
+	Mr. Christopher Fry
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Ms. Dior Fall
+	Mr. Iain Morley
+	Mr. Adama Niane
+
+For the Accused André Rwamakuba:
+	Mr. David Hooper
+	Mr. Andreas O'Shea
+
+Court Reporters:
+	Ms. Karen Holm
+	Ms. Wendy Molnar
+
+
+I N D E X
+
+WITNESS
+For the Defence:
+WITNESS 3/4
+Examination-in-chief by Mr. Hooper	5
+Cross-examination by Mr. Niane	9
+Re-examination by Mr. Hooper	20
+
+
+
+EXHIBIT
+Exhibit No. D. 197	6
+
+
+P R O C E E D I N G S  
+MR. PRESIDENT:
+Good morning, everybody.  Mr. Registrar, can you open the proceedings, please?  
+MR. FRY:
+Yes, Your Honour.  Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Byron, presiding, Judge Hökborg and Judge Kam, is now sitting in open session today, Tuesday, the 17th of January 2006, for the continuation of trial in the matter of The Prosecutor v. Rwamakuba, Case No. ICTR-98-44C-T.  Thank you, Your Honour.  
+MR. PRESIDENT:
+Could we have appearances, please?  Prosecutor?  
+MS. FALL:
+Thank you, Mr. President.  The Office of the Prosecutor is represented by Mr. Adama Niane, Mr. Iain Morley, Mrs. Tamara Cummings-John and myself.  Cross-examination will be undertaken by Mr. Adama Niane.  
+THE ENGLISH INTERPRETER:
+But Madam Fall mentioned somebody else in the team and it was too quick for the interpreter.  I'm sorry, I missed the name.  There's a lady in the back. 
+MR. PRESIDENT:
+Mrs. Fall, the interpreter did not get the name.  I think it must be Mrs. Cummings-John. 
+MS. FALL:
+Mr. Adama Niane is going to lead cross-examination.  
+THE ENGLISH INTERPRETER:
+I don't think Madam Fall heard.  I'm sorry, Your Honour, it wasn't the lady in the back; it's the gentleman at the back, a gentleman at the back.  His name escaped us.  Sorry.  
+MR. PRESIDENT:
+The interpreters think that you mentioned a name of a gentleman at the back, a name that escaped them.  I don't know if that's accurate, but could you kindly repeat just for the benefit of the record. 
+THE ENGLISH INTERPRETER:
+And it isn't on the counsel appearance slip.  
+MS. FALL:
+Mr. Adama Niane will lead the cross-examination.  
+THE ENGLISH INTERPRETER:
+I'm sorry, I don't think the message has gotten across.  
+MR. PRESIDENT:
+Ms. Fall, the interpreter thinks that you mentioned the name of a person that they did not pick up, and they think it relates to a gentleman sitting in the back row.  I don't know if you, in fact, mentioned the name of the person but -- so I ask you just to repeat for the basis of the record who you say is the Prosecution team in this matter.  
+MS. FALL:
+Thank you, Mr. President.  I will start again.  The Office of the Prosecutor is represented by Mr. Adama Niane, Tamara Cummings-John, Iain Morley and Kadi Lapika and myself.  
+THE ENGLISH INTERPRETER:
+So that was the missing name.  Thank you.  
+MR. PRESIDENT:
+Yes.  Defence, please.  
+MR. HOOPER:
+The Defence team is constituted by myself, David Hooper and Andreas O'Shea, both of the Bar of England and Wales, and joined today by my new legal assistant, Mr. Celestin Buhuru, who is from Rwanda, qualified through the University of Butare, and he has since 1997 been a member of the Kigali Bar Association, where he practises.  Mr. O'Shea is still on his way.  I believe he is between here and Kilimanjaro airport, speeding, no doubt, to get here.  
+
+Following, of course, our recent visit to Rwanda -- before, Mr. President, we go on to the witness -- may I, on behalf of the Defence in particular, but I dare say on behalf of all parties, extend our thanks to all those who organised and participated in the judicial site visit to Rwanda that took place between Friday the 13th of this month and yesterday?  In particular, may I thank you, the Judges, for your participation in which was two certainly fairly long days of site viewing, both in Gikomero commune and later at Butare hospital on Saturday and Sunday respectively.  
+
+The court staff here, the court management service, Miss Denis and Mr. Fry in particular, of course, who accompanied us, were very supportive, and I think that deserves, if I may say so, particular mention from us.  And also the people there -- I'm not going to list them all, but Mr. Frimpong, who is the head of security, who dealt with everything and the occasional sensitive area, with a very light hand, and from our point of view, witness protection there, and in particular, may I mention Sera Attika, who has been the person really responsible for organising witnesses coming from Rwanda, and having, as it were, revisited that place again this weekend, I think I can all the better appreciate the quality of her efforts in getting witnesses, often in some difficult circumstances, geographically, I mean, to come to Arusha.  
+
+So, Mr. President, from our team, our heartfelt thanks to everyone for that participation.  
+MR. PRESIDENT:
+Thank you, Mr. Hooper.  We would just like to welcome the new member of your legal team and hope that he has a successful tour of duty at this new position.  
+
+As far as the Court is concerned, we would just like to put on the record that we did have the site trip to Rwanda from the 13th to the 16th of January and that the official report will be filed by Mr. Fry and will become part of the record of our trial.  I echo the appreciation you've given -- expressed, to all those who made the trip successful, and I think that the staff did an excellent job, and we are all greatly appreciative for the high quality of the services we received.  I should also mention that I thought that counsel for the Prosecution and the Defence cooperated admirably and contributed to the successful conclusion of the mission.  
+
+Mr. Hooper, this is the beginning of a new year, and as we have been doing from time to time, and I think it's even more appropriate at this stage, to note the absence of the Accused from the trial process.  Is there anything you have to report concerning that?  
+MR. HOOPER:
+I know of no change in attitude, or the reasons for it.  I don't repeat those now.  Thank you.  
+MR. PRESIDENT:
+Once again, we ask you to continue to impress that the Court thinks the Accused should be present and that he is welcome to come at any stage, even at this late stage in the trial.  
+MR. HOOPER:
+Would it assist -- it will assist, but doubtless irritate, if I just indicate what my witness position is in terms of today and tomorrow.  And it's rather threadbare, I'm afraid.  We have one witness waiting to come in, but I don't anticipate he will be very long; an hour and a half, I would have thought, altogether, maybe a bit longer.  And that is all I have available today.  There's a witness, (By order of the Court, this name has been extracted and filed under seal); the difficulty with him is that the Prosecution may not have received sufficient notice -- in fact, I'm not even sure he's available because I don't -- 
+MR. PRESIDENT:
+Mr. Hooper, I have just been reminded that these witnesses are protected, and their names should not be mentioned.  So the name is stricken from the record. 
+MR. HOOPER:
+Yes.  Thank you for reminding me of that.  I have to remind myself of the names of -- there's a protected witness, 714, as far as I know -- I had no indication last night that he'd been brought yesterday, and there may have been a difficulty after we left Kigali in respect of him.  But my sources yesterday were limited, and today I haven't yet been able to speak to Kigali because, as we know, it's an hour behind and it's only, in fact, coming up to half past eight -- or an hour ahead, I should say.  It's only coming up to half past eight there.  So that's all, I'm afraid, I'm in a position to offer the Chamber today.  
+
+Tomorrow I won't be in any better position, other than the organisation -- and I don't know what stage it's reached -- of the video link between here and The Hague in respect of that protected witness.  I have witnesses arriving tomorrow, but they won't be arriving in time to be brought into court, and I'll need to speak to them before they come into court, and they'll need familiarisation and the rest of it.  So they won't be ready at the earliest until Thursday.  And I'm not sure entirely how many witnesses are coming tomorrow.  So I'm afraid there have been these difficulties, which I share with you.  But I am in a position now to call -- and I merely assure the Chamber that we're doing our utmost to -- or we will do our utmost, when we're in a position to, to be in contact with parties -- outside court, that is, to try to see what's happened. 
+MR. PRESIDENT:
+Mr. Hooper, what I think is, we should call the witness.  We expect that, despite these minor problems, that the arrangements discussed for the scheduling of the Defence will continue, and we expect that time will remain to meet our ultimate goals. 
+MR. HOOPER:
+We hope so and anticipate that will be the case. 
+MR. PRESIDENT:
+Thank you.  
+MS. FALL:
+Mr. President, I think I have a problem, to the extent that we had a discussion, and if I remember correctly, there was a list of witnesses -- Witness 7/14 is one of the new witnesses, and I think it was decided that that witness would be heard towards the end of the week, and in order to help the Prosecution to prepare that had no knowledge of the statement or even the presence of those new witnesses, that they should come at the end of the trial.  A list of witnesses had been agreed, and the first witness was supposed to be 3/4, followed by Witness 3/15, because it was -- the video link would come after the first two witnesses, who wouldn't take long.  So I am a bit astonished that today that list of appearance of the witnesses that had been well established should be turned topsy-turvy.  And that had been the order agreed until to the contrary. 
+MR. HOOPER:
+There's been a -- probably lost in translation.  There's no change.  The first witness is 3/4, and that will be followed by the video link.  I have no option in any event other than that, so there must have been a mistranslation, I think, or a misunderstanding, may I say.  So can I call 3/4?  
+MR. PRESIDENT:
+Ms. Fall, it seems that the witness is available now, is Witness 3/4, which was agreed that would be the first witness.  Now, the problem is, efforts are being made now to communicate with WVSS to see what happens after this witness has completed evidence.  So we will take the witness now, and at the end of this witness's testimony, we will just have a short session to chat what happens next.  
+(Witness entered courtroom)
+ 
+MR. PRESIDENT:
+Good morning, Mr. Witness.  
+THE WITNESS:
+Good morning. 
+MR. PRESIDENT:
+We thank you for coming to give testimony before our Tribunal.  The first step is that the registrar will give you an oath to tell the truth during your testimony, and you'll take that oath now.
+(Declaration made by Witness 3/4 in Kinyarwanda)  
+MR. PRESIDENT:
+Thank you, Mr. Witness.  Now, you'll be giving your evidence, answering questions put to you by the counsel designated for that purpose, and the first person who will be questioning you will be Mr. Hooper, who a representative for the Accused André Rwamakuba.  
+
+Mr. Hooper.
+WITNESS 3/4,
+having first been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. HOOPER:
+Q.	Good morning, Mr. Witness.  In front of you -- in front of you will be placed, I hope -- 
+A.	Good morning to you, Counsel.  
+Q.	-- an identification document.  I'm afraid I haven't produced sufficient for the translation/interpretation booths.  I'm sorry, I didn't have enough time this morning.  But I hope there's just about sufficient for the Judges to each have had one; the Prosecution have got one; and it deals with your own personal details there and you have it.  
+
+First of all, the only language I understand you speak is Kinyarwanda.  Is that correct, Mr. Witness?  
+A.	That is true, I only speak Kinyarwanda, Counsel. 
+Q.	But you can see those details which we discussed last night and which I've put on a piece of paper.  It gives your name; it gives your marital status; it tells us where you live now; where you lived then in '94; and where you were born; what your job was then and now; your religion and your political affiliations, which are none.  And if that is all correct -- first of all, is that all correct or are there any mistakes in the document which you can see? 
+A.	Yes, all these particulars are correct. 
+Q.	Very well then.  I ask you to sign it.  If you haven't a pen, one will be provided.  
+
+And that will be exhibited under seal with a Defence exhibit number of -- we'll get that in due course.  
+MR. FRY:
+D. 197, Your Honour.  
+MR. PRESIDENT:
+Admitted.  
+	(Exhibit D. 197 admitted, under seal) 
+BY MR. HOOPER:
+Q.	On April the 6th in the evening, early night, we know that President Habyarimana's plane was shot down and he and everyone in the plane was killed.  Where were you living when that happened? 
+A.	I lived in Remera. 
+Q.	Now, we've all recently visited Kigali, so we have a good idea of where Remera is.  So in relation to -- we know in Remera, for example, there's Amahoro stadium as a prominent landmark.  Where in relation to the Amahoro stadium were you living? 
+A.	I lived near the Amahoro stadium in the neighbourhood called *********. 
+Q.	Are you able to help us as to how far your home was from the stadium itself?  Can you give us a distance in metres, not precisely?  
+A.	I lived about **** metres away from the Amahoro stadium. 
+Q.	And which side of the Amahoro stadium would that be?  For example, we know that there's the side where Remera prison is further down the road and we know that there's the side where the CND is, the parliament building, on the other side.  Which side or other side of the stadium was your home? 
+A.	I lived on the side where**************************, but this was also the side that also led to ********.  Right next to my home there is a major road that goes past and leads to ********. 
+Q.	All right.  So you're living there when President Habyarimana's plane is brought down, and what I want to ask you, essentially, is this:  Over the next days or weeks, was it possible, or not, to get from the area where you were, where your house was, to Gikomero -- to the Gikomero commune? 
+A.	No, that wasn't possible. 
+Q.	I want you to tell us -- let's take it in stages -- why you say that, why you say it was not possible?  Now, where you were living in your home -- just pause a moment.  Where you were living in your home, did you -- what happened?  Just tell the Judges what you experienced yourself.  
+A.	This was how it is, and I would like to explain why it was difficult to go to Gikomero commune.  When the president's aircraft was shot down, there was an RPF battalion that was in the CND.  So this battalion came out of its barracks and fighting began.  This fighting extended to the Remera neighbourhood where I lived so that on the 9th my neighbourhood was under RPF control.  
+
+I remember that around the 8th of April I tried to return to my home in Gikomero, but I was not able to find a way to do so.  So I would like to tell the Trial Chamber that on that date I was obliged to flee towards Gikondo because the neighbourhood where I lived was already under the control of the RPF.  On the 11th -- 
+Q.	May I interrupt you, please?  
+A.	-- I tried to take another road. 
+Q.	Just pause for a moment, Mr. Witness, because people are making notes and also reflecting on what you say.  So just pause for a moment.  Now, on the 9th of April you tell us that area was under RPF control, the Remera area.  And you told us that on the 8th, just shortly before that, you had tried to go home.  And we know where your home is from the document we have in front of us, and it won't identify you if I indicate it's in the Gikomero commune.  So you are seeking to get up to the Gikomero commune on the 8th, and on that occasion before you moved to Gikondo, what routes did you attempt to use?  How did you attempt on the 8th of April to get home?  
+A.	I tried to take another road which goes through Gatsata and which leads to my home town.  It goes through Karuruma.  But when I got to Gatsata, I learned that Karuruma had already fallen to the RPF.  Even in Gatsata one could already hear gunshots or gunfire.  So I tried another road to go through Gisozi, but I observed that much gunfire could be heard so I found that all roads were blocked and I couldn't go through.  So I decided to return to Gikondo.  
+Q.	Now, how far -- where did you go to in Gikondo?  Don't spell it out if it might identify you, but if you can tell us, was it someone's house or a friend's house or what?  Where did you go to in Gikondo?  
+A.	It was an acquaintance of mine, so I went to this person's house. 
+Q.	And what kind of distance from your home in Remera was this house belonging to your acquaintance in Gikondo?  What distance away was that? 
+A.	I might estimate the distance to be about two kilometres. 
+Q.	And Gikondo is another area within Kigali city and, if you can, does it lie -- if you can help us with north and south, does it lie -- where does it lie in relation to Remera?  
+A.	I cannot explain to you very well the location of Gikondo in relation to Remera, but I think that Gikondo is to the south of Remera.  
+Q.	Well, we have a map, but I'm not going to produce it just now.  We may have some idea where Gikondo is in any event.  
+
+So you're in Gikondo and you've tried to get out on the 8th; you've failed.  You're now in Gikondo, and what happened there?  What was the situation when you were in Gikondo?  Were they still fighting or not? 
+A.	The fighting was going on.  Things had actually gotten worse so that the fighting had already reached the hill located in Gikondo, but we did not flee.  The fighting had reached Rebero hill.  
+Q.	Now, when you said, incidentally, that you'd tried to flee on the 8th, one matter I didn't ask you was, how were you travelling?  Were you in a vehicle or not?  
+A.	It was impossible to move about in a vehicle.  I had to move about on foot.  
+Q.	Did you try to get home again at any time? 
+A.	Yes, that is what I was trying to explain to you a while ago.  I tried to go back to my home again, going through Gatsata, and that is where I found that Karuma -- or Karuruma was already under RPF control and there was gunfire in Gatsata.  I also told you that I tried the Gisozi road and that I heard many gunshots so I decided to go back.  And so I went to Gikondo. 
+Q.	And how long did you stay in Gikondo? 
+A.	I spent a lot of time in Gikondo, but since the fighting was approaching Gikondo, we fled for some time and that is when the RPF seized the city of Kigali.  So we stayed in town.  That is all I can say about the fighting that took place in the city of Kigali. 
+Q.	All right.  Now, let's just go back to the routes that you've indicated that you tried to access but could not because of fighting.  And first of all, Remera, from Remera it is possible, as we know, having been there, to go up to Gikomero commune.  There's doubtless ways, but there's a road also that goes past the prison and goes up to the commune in that way.  Did you try going that way at all? 
+A.	Yes, I tried to go down that road, but it wasn't possible.  It wasn't possible because the entire neighbourhood beyond the stadium had fallen to the RPF, and there was fighting between the RPF and government forces.  I was therefore not able to reach that neighbourhood. 
+Q.	There's another road there that goes out towards Kanombe, where the airport is, and eventually leads on to Tanzania, with various branch roads that lead off in the direction of the north and the communes, including Gikomero.  Could you get down that road or down that way at all? 
+A.	In view of the prevailing situation, there was -- there were many shots fired in that neighbourhood.  I did everything in my power to go back to my commune of origin, but it wasn't possible for me to do so.  There was heavy fighting.  One heard gunshots everywhere.  I couldn't use that road either. 
+Q.	Now, leading past the CND is a road that goes up through the German radio station, Deutsch Welte, that leads up to Bumbogo hill.  Did you try to go up that way? 
+A.	No.  I must tell you that this was the first neighbourhood to fall to the RPF.  I didn't even try that road because I knew that all the RPF forces were coming through that road.  There was heavy fighting on that side. 
+Q.	And you mentioned going to Gatsata and the Karuruma bridge, and just for clarification, we know that that's the road that leads out of Kigali up to Kibuye -- up to Byumba is the road up to Nyacyonga.  And to pass over to that road, you cross the bridge that leads out of Kigali at Gatsata, and you told us that you tried to go that way.  What did you see, if anything, when you reached that area?  
+A.	When I got to that neighbourhood, I heard a lot of gunfire.  There was heavy artillery; there was light gunfire, so it was impossible for me to find a road.  I had to have been really tiny to be able to slip through all these guns or gunfire and shelling. 
+Q.	Did you ever manage to get up to your home commune to your family, and, if so, when was that? 
+A.	I was able to go to my commune of origin when Kigali was taken.  That is when I realised that all the members of my family were dead.  The only person who had survived, that is my younger brother, was in detention.  So I realised that the people who had detained him were the people who had taken part in the killing of my family.  So I thought it wise to return to Kigali. 
+Q.	Did you have any sisters who survived? 
+A.	No.  My sisters died, except for those of my sisters who lived very far away.  All those who lived in my commune of origin died. 
+Q.	And from neighbours and other people there, did you learn how -- who had killed them, as far as you know, if you're willing to tell us? 
+A.	Neighbours or other people were not able to explain to me.  However, I was told that people came, tied them up.  Others explained to me that they did not know the circumstances under which -- or in which my family died because they themselves had fled.  But I thought that the people who killed my family members are the same as those who caused my younger brother to be thrown into prison. 
+Q.	Very well.  That's all my questions.  Thank you.  
+A.	Thank you, Counsel. 
+MR. PRESIDENT:
+Thank you, Mr. Witness.  Your examination will continue, and now you'll have to answer questions put to you by the Prosecutor.  
+	
+	Mr. Niane.  
+THE WITNESS:
+Thank you. 
+CROSS-EXAMINATION
+BY MR. NIANE:
+Q.	Good morning, Witness.  
+A.	Good morning, Mr. Prosecutor.  
+Q.	I'm going to cross-examine you.  You told us a while ago that you tried on several occasions to go to Gikomero.  How many roads are there that link Gikomero to Kigali? 
+A.	The roads I know are three in number.  I explained that there was a road that went through Remera; there were other roads going through Gatsata and Nyacyonga and another one that went through Gisozi.  So those were the roads that I knew that could lead to Gikomero, and I tried them all.  
+Q.	Amongst these roads, can you tell us which were tarred and which weren't tarred?  I am referring, of course, to roads leading to Gikomero.  
+A.	Regarding the tarred roads, I think there was only one, and this is the one that went through Gatsata.  As to the roads that went through Rubungo to Gikomero, I think they were dirt roads.  However, there was a small part of the road going through Remera that was partially tarred.  And if you went along that road, you would get to a dirt track that went towards Shaba.  That is what I can say about the state of the roads.  If you require further information, you might ask me and I will give it to you.  
+Q.	Now, regarding your occupation in 1994, which I shall not reveal since we are in open session, did your occupation give you cause to move around in the area? 
+A.	I knew this area because it led to my home town.  Consequently, I knew the place well. 
+Q.	You knew the place well.  I know that you are not an expert, but did you conduct a study of the various roads that lead to Gikomero? 
+A.	I was not responsible for surveying the roads.  What I am telling you is that I knew these roads because these roads led to my home town.  That is why I knew the area. 
+Q.	You said in your testimony that you tried unsuccessfully to get to Gikomero but that you were able to get to Gikondo.  How long did it take you to get to Gikondo? 
+A.	The roads were not yet under the -- under RPF control, so I left with a group of people heading to those places that had not been overrun by the RPF.  I got to Gikondo on the 9th on the day -- on the same day that I left Remera.  
+Q.	What road did you take to get to Gikondo? 
+A.	To get to Gikondo, I went down the tarred road of Kicukiro, then I got to the point called RWANDEX.  I turned to the MAGERWA stores because I was going to a place that was slightly above the MAGERWA stores. 
+Q.	But you told us that from the 7th of April, an RPF battalion that was based in CND had overrun the zone.  How did you manage then to cross the area?  
+A.	That is not what I said.  I am here and I can explain, so you cannot ascribe to me words that I have not spoken.  I said that when the aircraft of President Habyarimana was shot down, RPF soldiers scattered in the area until they captured Remera.  On the 8th, the area through which I went was not under RPF control.  This means that when I went through that way, Remera had not yet fallen to the RPF.  It was actually on the 9th, the day we left that area, that the RPF overran Remera.  So I would like you to understand these facts.  You are a representative of the Prosecution.  I am going to ask you to stick to the facts. 
+Q.	Thank you.  Mr. Witness, I shall ask you in my turn to refrain from making any comments and just answer the question.  So, you left your house to go to Gikondo.  Did you meet any soldiers on the way?  
+A.	There were government soldiers in the area through which I passed, so there were no RPF soldiers, and we were fleeing toward that area because the RPF was not yet there.  
+Q.	Were there roadblocks manned by the Interahamwe? 
+A.	There were all sorts of things along my way.  There were roadblocks manned by government soldiers; there were also other roadblocks here and there manned by the Interahamwe, and these Interahamwe committed acts of violence.  But there were roads -- on the road that I took, there were roadblocks manned by government soldiers, and everyone was frightened of these roadblocks that were manned by the Interahamwe.  
+Q.	So, how did you manage to go across these roadblocks? 
+A.	With reference to the roadblocks held by government soldiers, we went past in a group.  We were a group of displaced persons.  We were fleeing and the soldiers told us to go on our way.  You may put other questions to me. 
+Q.	Were there identity checks at the roadblocks? 
+A.	When I went past there the first time, there were many displaced persons.  We had not -- they had not yet started asking people to show their identity cards.  Everybody was fleeing.  
+Q.	So I shall return to your attempts to get to Gikomero.  With whom did you try to get to Gikomero? 
+A.	I was alone at the time and I wanted to go along the roads that were covered by government soldiers.  You may now put your next question.  
+Q.	You told us that it was impossible to move about because the RPF battalion that was based in the CND came out of their barracks.  Did you see them with your own eyes? 
+A.	I told you that one could not approach those areas that had been seized by the RPF.  We saw these soldiers.  We were witnesses to fighting between government and RPF forces.  We were eyewitnesses to this fighting. 
+Q.	When you say "we", who is this, you and who else?  
+A.	Me and -- I and the other people who lived in that area. 
+Q.	And you did say that -- you had just said that you tried to go to Gikomero alone.  
+A.	I said that I was the only person who was trying to go to Gikomero because the other people who lived around there did not want to go back to Gikomero.  But with reference to having been an eyewitness to this fighting, everybody was an eyewitness.  It was complete disorder.  In my particular case, I wanted to go back to my home town.  No one else wanted to go to that particular place; that is, to the place where I wanted to go.  So I was the only one who wanted to get to Gikomero.  
+Q.	How do you know the other people did not want to go to Gikomero? 
+A.	That wasn't their home.  I had reasons to want to go there.  
+Q.	You said that you also tried to go via Gisozi.  Did you actually get as far as Gisozi? 
+A.	Yes, I got very close to Gisozi, and I could see that the fighting was heavy, intense, that all the roads were blocked, which is why I decided to go back through Gikondo, and that was, in any case, towards the end of the day.  
+Q.	When you say you got very close to Gisozi, what do you mean by that? 
+A.	I have explained that there is Gisozi hill.  I did not climb that hill.  I saw that there was shooting.  I heard -- could see there was fighting.  I heard shooting, and that is why I explained things thus.  I could not get to Gisozi hill because of the fighting there.  
+Q.	When you tried to go to Gisozi, how far were you when you realised you could not advance any further, you could not go any further? 
+A.	I don't know how to explain to you.  You see, there is a hill called Gisozi hill.  I don't know if you know it.  It's a hill.  So you can climb that hill.  I got close to the hill because I could see fighting there, so I decided to turn back because I could not pass.  As to the distance from where I stopped to Gisozi hill, well, it's a very short distance.  
+Q.	So, you conclude that no one could go to Gikomero? 
+A.	No one, unless you could metamorphose yourself into a tiny thing that could duck through the shrubbery, the bushes.  No one could get to Gikomero.  I tried myself and I can tell you no one could get through. 
+Q.	Can you tell us how many ways to Gikomero were blocked? 
+A.	I'm going to mention places because it's not only roads that were under the RPF control.  There was firing, shooting around the prison on the 8th, on the 8th.  No one could go that way.  And then the other way, passing by the CND.  The CND was the first place to be captured.  The road through Karuruma, I have already -- I already knew one couldn't get through there when I arrived at Karuruma.  So in the environment I am describing there was heavy firing.  One could not get through to Gikomero. 
+Q.	But the information you're giving us concerns only the roads you tried.  How can you give any information in respect of the roads you didn't try? 
+A.	Well, it might be useful if you could tell me, Prosecutor, what those roads are.  I gave you information as to the roads I know of.  Or then maybe you might wish to explain to the Trial Chamber what other roads you are talking about.  
+Q.	So those are the only roads going to Gikomero? 
+A.	That is why I'm asking you to tell me what these other roads are that you're talking about.  If there are any other roads that I have not mentioned, tell us which ones they are.  
+Q.	Witness, I said in relation to your occupation in 1994, you travelled within the area; is that what you told us? 
+A.	I have explained that I knew the area, as someone who knows the roads that go to his home, Counsel.  
+THE ENGLISH INTERPRETER:
+We didn't hear counsel's question.  
+THE WITNESS:
+No, it wasn't possible, but before I knew all the roads going to my place -- 
+THE ENGLISH INTERPRETER:
+Yes, can you ask him to wait for the interpretation?  We missed the beginning of his questions.  
+THE WITNESS:
+I did everything I could because -- 
+MR. PRESIDENT:
+Mr. Witness, I'm afraid you are going to have to repeat your last answer because it was lost in the interpretation. 
+THE ENGLISH INTERPRETER:
+And the question also, Your Honour.  Excuse me, the question was lost.  
+MR. PRESIDENT:
+Yes, Mr. Niane, it would help also if you repeated the question.  
+
+BY MR. NIANE:
+Q.	The question was as follows:  Did you take -- did you try all the roads to Gikomero?  
+A.	I have said that I tried all the roads to Gikomero, and I said in respect of those roads, should the Prosecution know of other roads that I haven't mentioned, could they please tell us what they are because, otherwise, I assert that I tried every road to Gikomero in vain. 
+Q.	All right.  So, in two or three days, you tried all the roads to Gikomero? 
+A.	As I have already stated, that is what I attempted.  I have nothing to add.  
+Q.	Well, let us move on.  You tell us that when you returned home after Kigali was taken, you noted that all the members of your family were dead, had been killed.  
+A.	I said that my parents were dead, and I told you what the neighbours had told us with regard to the deaths of the members of my family, but I think I also stated that my younger brother survived and that he was detained.  I also pointed out that my sisters who lived quite far from there, were married, also survived.  I think I have already stated that.  
+Q.	Well, let us come back point by point.  You said the neighbours did not tell you how the members of your family were killed.  
+A.	I have stated that some neighbours had given me some information and that my relatives had been tied up before being killed.  But in a way, you're right, because I was not told exactly how my parents died, the members of my family died.  And I thought that the people behind the incarceration/detention of my younger brother were the same people who had killed my family members.  That is the deduction I made.  
+Q.	And yet in your statement to counsel for the Defence you state that the neighbours who had survived "told me what they knew; they told me that my family had been killed by the RPF in April."  
+A.	I agree that with regard to that I did not give any further information, but I did say that the people who had got my brother arrested were the same people who killed my family members.  In fact, in my statement I didn't want to make things clear in order to avoid problems of personal safety, but I merely said that the people who had detained my younger brother were the same people who killed my family members.  There's no difference between what I said and what is stated in the written statement.  
+Q.	No, there is a very big difference because in your statement to the Trial Chamber here today you said you don't know -- you didn't know the circumstances of your parents' death, nor did you know who had killed them, whereas in your statement you clearly state that it was the RPF, or RPF soldiers, who had killed your family.  You see, there is a very big difference.  
+A.	I think I have tried to explain this point to you.  I was with the lawyer you have referred to.  We were alone, whereas here I was speaking in general terms, and I thought you understood what I had said, and what I said was that the people who killed my family were the same people who threw my younger brother in prison.  I think everybody will understand that it is those people who were in the government.  So there is no difference between what I said in my statement and what I've said here.  But as I did not witness those events, I must express my reservations, not being a witness, nor has anyone signed a statement as to so-and-so being killed by so-and-so.  So I'm speaking in general terms.  
+Q.	In fact, the problem is, you didn't say that in your statement, for reasons of security problems, personal safety.  Now, here, there is no problem, no threat to your personal safety.  
+MR. HOOPER:
+I'm sorry, can I intervene?  Can I invite the Prosecution to reflect carefully on what it's saying and the approach that it's making to this witness?  He couldn't have spelt out his situation with greater care.  If you want to assist the witness, then we should go into closed session.  Can I ask that we go into closed session if these questions are going to continue to be asked?  
+MR. NIANE:
+Mr. President, I must say that it is up to the Prosecution to ask for closed session or not.  Defence did not ask for a closed session when they were undertaking examination-in-chief.  I will ask for closed session when I feel it is needed.  
+BY MR. NIANE:
+Q.	I'm not trying to get you to say anything you don't want to say, but I'm pointing out a contradiction to you.  In your written statement you said it was the RPF, and here you tell us that you don't know who it was.  We should like it clear.  
+MR. PRESIDENT:
+Mr. Niane, the witness is protected, and one has to respect the particular reservation that he has given.  It's obvious that this may be an issue which, as far as he's concerned, may be relevant to his safety.  So the method of your approach should be tailored to that consideration.  
+
+Mr. Niane, it's about 10:30 now.  How much longer do you anticipate being?  I'm wondering, do we take the break now, or are we likely to finish in just a minute or two?  
+MR. NIANE:
+No, I think it might be wiser to take the break now, Mr. President. 
+MR. PRESIDENT:
+Okay, thank you.  
+
+	Mr. Witness, we take our mid-morning break for just a few minutes.  We will take the break now, and then we will resume in about 15 minutes from now.  Do you understand that?  
+THE WITNESS:
+Yes, Mr. President, I understand.  
+MR. PRESIDENT:
+Thank you.  
+	(Court adjourned at 1030H)
+(Pages 1 to 14 by Karen Holm)
+
+(Court resumed at 1121H) 
+MR. PRESIDENT:
+Mr. Niane, just before the break, you had indicated you might want to go into closed session?  
+MR. NIANE:
+Yes, Mr. President.  
+MR. PRESIDENT:
+Now, is the rest of your examination going to be in closed session?  
+MR. NIANE:
+Mr. President, I think I have two questions to put to him in closed session.  
+MR. PRESIDENT:
+And you wish to do it immediately?  
+MR. NIANE:
+The rest will be in open session, Mr. President.  
+
+Yes, to the question as to whether you (sic) wished to go into closed session now. 
+MR. PRESIDENT:
+Okay.  Members of the public, we have a protected witness, and this means that questions which may lead to information concerning his identity and his security are put in closed session.  We have given permission for the closed session to take place now.  It's likely to be very short, probably about -- no more than ten minutes.  We'll resume in open session immediately after that.  We'll go into closed session now. 
+(At this point in the proceedings, a portion of the transcript [pages 16 to 17] was extracted and sealed under separate cover as the session was heard in camera) 
+(Page 15 by Wendy Molnar) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BY MR. NIANE: 
+Q.	Witness, we are going to return to the state of roads.  We do agree that there were three main roads that linked Remera, Rubungo, Gikomero, Kanombe, Gikomero (sic) and others.  Could there have been other secondary roads that could have led to Gikomero from Kinyanya, Mubogo, Ndera, Rugende, and so on?  Is it possible?  
+A.	As you have said, that is a road that leads to Kibungo.  That is the road that goes through Rugende.  This is what I have explained time and time again.  In that area, we could hear gunfire.  It was not possible to take that road either.  Try and understand me.  
+Q.	Witness, we do agree, don't we, that there were several other roads that led to Gikomero apparently, don't we?  Please answer by yes or by no.  
+A.	No.  I need to explain first.  I cannot answer yes or no -- unless perhaps you do not wish for clarifications to be made.  I'd like to emphasise that on all roads leading to Gikomero, there was fighting.  So there was no safety.  You are suggesting that I might have used the road that goes through Rugende.  That road leads to Kibungo.  It does not lead to my hometown.  I do not know why you're referring to the Rugende road.  
+Q.	Mr. Witness, do you agree that you did not try all the roads that lead to Gikomero?  
+A.	As I have already said, I tried all the roads that were going to Gikomero.  I think I have given you detailed explanations about that.  
+Q.	Yes.  But you did say that you used -- you tried three roads, didn't you?  
+A.	Two roads, I beg your pardon, to go to Gikomero.  If you remember correctly, you put questions to me about the number of roads leading to my home in Gikomero.  I told you that, even taking account of the prevailing situation, if we were to take all the roads through which one would have gone to Gikomero, we would have found that they were not safe because there was shooting and gunfire everywhere.  
+Q.	Witness, what you maintain is that from that date, it was impossible to get to Gikomero, but I am saying that Defence witnesses who came here to give testimony did say that it was possible to go to Gikomero.  What do you say to that?  
+MR. HOOPER:
+I'm sorry.  Just before that question is answered -- 
+THE WITNESS:
+(Microphones overlapping)
+MR. HOOPER:
+Please, please, don't answer that question just yet. 
+
+Can the Prosecution indicate which witness indicated any such thing, please?  Can the Prosecution please indicate, because we challenge that.  
+MR. NIANE:
+By way of example, I shall refer you to Witness 15 (sic).
+MR. HOOPER:
+(Microphones overlapping)... just that the matter that was put --  
+THE ENGLISH INTERPRETER:
+Witness 1/5.  
+MR. HOOPER:
+(Microphones overlapping)... whose testimony is a false understanding of the witness's evidence.  It would be a matter for the Court, in due course, to weigh that point, but we do not accept that that witness, in fact, indicated that there was any principal route that could be taken by a vehicle that would lead one from Kigali to Gikomero.  Quite the opposite.  So we're talking here of routes that vehicles could use, let alone people on foot, that link Kigali with Gikomero.  And it's our assertion, as it is of this witness, that there's no such route.  
+
+And while I'm on my feet, what I'd invite the Prosecution to do, as the witness has requested the Prosecution to do five times so far, is to indicate the road that the Prosecution say the witness has not referred to.  The witness asserts he has covered all the roads by his own direct experience and that there is no other route by road and, in particular, capable of vehicular access, that he has not covered.  
+
+Now, if the Prosecution are asserting that there is, now, with respect, is the time to put its case fair and square to the witness so that the witness can deal with it.  Thank you.  
+MR. NIANE:
+Mr. President, regarding the testimony given by Witness 1/5, I shall let the Trial Chamber weigh the evidence.  I shall continue with my cross-examination.  
+BY MR. NIANE:
+Q.	When did the RPF overrun the area?  
+A.	What area are you referring to, Mr. Prosecutor?  Are you referring to the place where I lived or perhaps to other places?  
+Q.	We are referring to the area where you lived.  
+A.	I think I've already said this. I have talked about this at length.  I explained to you that -- that the RPF battalion broke out of CND and that it did so immediately after the president's aircraft was shot down.  So all the soldiers in the battalion spread out everywhere, and the fighting began.  I explained to you how on the 8th I tried to go back to my hometown, and I found that my hometown was inaccessible.  I think I also indicated that my hometown was under RPF control by the 9th and that all the people who lived in the area fled.  I don't know whether you understood me.  
+Q.	We know that the interim government left Kigali for Gitarama on the 12th of April.  
+A.	Perhaps you might help me and tell me the circumstances under which the government moved and where the government moved to.  
+Q.	I shall put the questions.  You answer them.  I'm just saying that government left Kigali for Gitarama under the control of government forces.  So when you say that it was impossible to move about because the RPF had overrun the area, it cannot be true.  That is what I'm driving at.  
+A.	I'd like you to understand this.  Our area was under RPF control, that is true, but the entire city was not under the control of the RPF.  Areas like Gatsata, Remera, Kakiru (as interpreted) do not include the whole city of Kigali.  You were telling me that at one point the government moved towards Gitarama.  That is possible, but I was not aware of it.  Even if government had moved to Gitarama, it might be at a date that you should tell me.  I do not know whether you are referring to the 10th and -- or that you changed this and referred to the 12th.  I do not get the exact date.  Perhaps you might be so kind as to tell me on what date exactly this happened.  But I'm telling you what I know.  
+Q.	I did not refer to the date of the 10th.  I referred to the 12th.  Besides if, and it has been proven, the government had moved to Gitarama, then it means that it was possible to move from area to area, from region to region.  
+A.	Yes, that is what I'm explaining to you.  I'm explaining that I could only move about in areas where the RPF was not present.  That is where we fled, towards areas where the RPF had not taken over.  As to the date on which the transitional government moved, perhaps you might be so kind as to tell me when this was because I do not know when it was.  
+MR. NIANE:
+Mr. President, I shall end with this.  
+BY MR. NIANE:
+Q.	Mr. Witness, a decision was rendered in this Trial Chamber which indicated that at that time it was possible to move about in the area.  
+MR. NIANE:
+Mr. President, I have finished with the witness.  
+
+Thank you, Mr. Witness.  
+MR. PRESIDENT:
+Yes, Mr. Witness, the Defence attorney is entitled to ask you a few questions in re-examination.  So he will now -- you will now have to answer his questions.  
+THE WITNESS:
+(No interpretation)
+RE-EXAMINATION 
+BY MR. HOOPER:
+Q.	I wasn't quite clear in my mind what was just being put to you in relation to Gitarama, but I want to ask you something about your country's geography.  Do you know of a river called the Akanyaru -- I dare say I pronounced that badly, and I hope it can be conveyed to you accurately by name -- a river called the Akanyaru?  Have I got that pronunciation correct?  
+A.	Yes, I know the Akanyaru river on the map, but I've never been to the river itself.  
+Q.	And it's not a matter that needs to be within your own personal knowledge because we have maps, and we can take notice of those.  But is it right that that river flows into the Nyabarongo river?  
+A.	No, I do not have that particular information.  I didn't think about it.  I did not know that you would put such a question to me, which is why I do not have the exact information. 
+Q.	No, I don't blame you for saying that, but I merely used that for us to assert that it was being suggested that there would be a back route from Gitarama, that that wasn't put to you, after the 12th.  The geography stands in the way of that suggestion.  But it wasn't put to you clearly or at all.  
+
+And I have no questions of you, Mr. Witness, but merely to say that the Prosecution have been clearly requested by the Defence to nominate to this witness a route to Gikomero that this witness has not dealt with in his evidence, and the Prosecution have not done so.  I have no other questions.  Thank you, Mr. Witness.  
+MR. PRESIDENT:
+Thank you.  
+
+Mr. Witness, this concludes your testimony before our Tribunal.  We thank you for coming to give evidence, and you are now excused, and you may go.  
+MR. HOOPER:
+Before this witness leaves, may he have permission to meet Dr. Rwamakuba if he so wishes to?  
+MR. PRESIDENT:
+Permission granted.  
+MR. HOOPER:
+Thank you.  
+THE ENGLISH INTERPRETER:
+Mr. President, I believe the witness is indicating that he wishes to say something.  
+MR. PRESIDENT:
+Mr. Witness, you may speak.  
+THE WITNESS:
+I would like to tell the Prosecutor -- I would like to add, for the benefit of the Prosecutor, that the road to Gitarama has nothing to do with the area in question.  I would like him to understand that the people who fled Kigali fled towards Gitarama, and so all the information that I gave him is correct.  Thank you.  
+MR. NIANE:
+I have nothing to add, Mr. President.  
+MR. PRESIDENT:
+Thank you, Mr. Niane.  
+
+Mr. Witness, as I indicated, thank you very much, and you are now free to leave.  
+MR. HOOPER:
+Can the witness just be left in the building long enough for me to see him before he goes, please?  Thank you.
+(Witness excused)
+MR. PRESIDENT:
+Okay.  Before we rise, our trial coordinator has communicated by e-mail, indicating the video-link schedule for tomorrow.  It will commence at 11:30 Arusha time, and the first session will go on for 90 minutes until 1:00 Arusha time.  We propose that the session commence at 11:00 to give us a few minutes to deal with any matters which need to be dealt with, so that once we are on video link, there are no interruptions with the testimony.  
+
+Are there any other issues that need to be discussed now?  
+MR. HOOPER:
+No.  But we've confirmed the language will be French.  
+MR. PRESIDENT:
+The language will be French. 
+MR. HOOPER:
+Yes. 
+MR. PRESIDENT:
+Thank you.  The registrar will take appropriate steps.  
+
+Any other problems, Ms. Fall?  
+
+Okay.  We take the adjournment now until tomorrow morning at 11:00. 
+(Court adjourned at 1151H) 
+(Pages 18 to 22 by Wendy Molnar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Karen Holm and Wendy Molnar, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+	___________________________	Karen Holm
+
+
+	_____________________________	Wendy Molnar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	RWAMAKUBA	TUESDAY, 16 JANUARY 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page i
+
+	RWAMAKUBA	TUESDAY, 17 JANUARY 2006 
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 6
+
+	RWAMAKUBA	TUESDAY, 17 JANUARY 2006
+
+WENDY MOLNAR - ICTR - TRIAL CHAMBER III - page 15
+
+	RWAMAKUBA		TUESDAY, 17 JANUARY 2006
+
+ICTR - TRIAL CHAMBER III
+

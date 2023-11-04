@@ -1,0 +1,1033 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-98-44-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+	v.
+	ÉDOUARD KAREMERA
+	MATHIEU NGIRUMPATSE
+	JOSEPH NZIRORERA
+
+TUESDAY, 20 JUNE 2006
+0912H
+CONTINUED TRIAL
+
+Before the Judges:
+	C. M. Dennis Byron, Presiding
+	Emile Francis Short
+	Gberbao Gustave Kam
+
+For the Registry:
+	Mr. Constant K. Hometowu
+	Mr. Issa Mjui
+
+For the Prosecution:
+	Mr. Don Webster
+	Mr. Gilles Lahaie
+	Ms. Alayne Frankson-Wallace
+	
+For the Accused Édouard Karemera:
+	Mr. Félix Sow
+
+For the Accused Mathieu Ngirumpatse:
+	Mr. Frédéric Weyl
+
+For the Accused Joseph Nzirorera:
+	Mr. Peter Robinson
+
+Court Reporters:
+	Ms. Kirstin McLean 
+	Ms. Karen Holm
+	Ms. Donna M. Lewis  
+
+
+I N D E X
+
+WITNESSES
+For the Prosecution:
+WITNESS BTH
+Cross-examination by Mr. Sow (continued)	3
+Re-examination by Mr. Webster	25
+
+WITNESS XBM
+Examination-in-chief by Mr. Lahaie (commenced in closed session)	48
+
+EXHIBITS
+Exhibit No. D. NK7A and D. NK7B	4
+Exhibit No. P. 33	63
+
+
+
+P R O C E E D I N G S 
+MR. PRESIDENT: 
+Good morning, everybody.  
+
+Mr. Registrar, could you open the proceedings.  
+MR. HOMETOWU:
+Thank you, Mr. President.  
+
+Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Dennis Byron, Presiding, Judge Emile Francis Short, and Judge Gberdao Gustave Kam is now sitting in open session today, Tuesday, 20th June 2006, for the continuation of the trial in the matter of the Prosecutor versus Karemera et al, Case Number ICTR-98-44-T.  Thank you.  
+MR. PRESIDENT: 
+The appearances are the same?  
+
+Welcome to our new courtroom, which we will be occupying for today and tomorrow.  It's a bit smaller and, I suppose, more intimate because of that.  But I trust we should be able to work with it during today and tomorrow.  
+
+Mr. Webster, do you have anything to report on the Serugendo issue?  
+MR. WEBSTER: 
+Yes and no, Your Honour.  On the one hand, I understand that the registry has made a strictly confidential filing with regard to his health, and that was in response to a motion that was filed by Serugendo some time last week, and I believe the date of that filing is the 19th of June.  We're making arrangements to have it filed with the Court this morning.  But beyond that I have no information.  
+MR. PRESIDENT: 
+In this particular proceeding?  In our case?  
+MR. WEBSTER: 
+I will file with this Court the filing from the registry in regard to Serugendo that was filed by Trial Chamber I.  That was dated yesterday, the 19th of June.  It does provide information about his current medical condition.  Beyond that particular filing, I have no information.  But it's going to be filed with CMS this morning.  
+MR. PRESIDENT: 
+Who would have access to that?  
+MR. WEBSTER: 
+The registry himself (sic), Trial Chamber I, the courtroom it was filed.  I have a copy.  I did make arrangements to have it filed before this Chamber, but it hasn't made its way through the pipeline to the Court yet.  But I don't think it would be too difficult for this Trial Chamber to request a copy from the registry, from CMS.  And I did take the precaution of sending a copy, as an email attachment, to the Trial Chamber coordinator, but I was instructed that it should only be filed through CMS.  So, while it's available, it's an ex parte filing, strictly confidential, which the Court will disclose to the parties if it deems it prudent to do so.  
+MR. PRESIDENT: 
+Okay.  Thank you very much.  
+MR. ROBINSON: 
+Yes, Mr. President.  We would like to have a copy of that, since it's our witness that's being discussed.  And we would also like you to proceed to adjudicate on our motion, since the Prosecution has failed to make a motion to amend its witness list.  So, we are now faced with a seriously critically ill witness for the Defence who needs to be heard by the Trial Chamber at the earliest opportunity.  Thank you.  
+MR. PRESIDENT: 
+Thank you, Mr. Robinson.  
+MR. WEBSTER: 
+The issue is one of practicality.  It's not really an opposition to making a motion to calling him -- calling Mr. Serugendo as our witness.  It seems that the Defence would like to have his evidence; so would the Prosecution.  So if it makes matters easier, I will make an oral motion now to add him to the Prosecution witness list.  
+
+We're doing everything that we can to move the whole process forward.  I've made arrangements to go and visit him on Friday, so I will make an assessment, face to face, of his condition and how likely it is that we will be able to hear his evidence, either here in Arusha, or in Nairobi, or via video link.  So everything that can be done is being done.  So I don't understand Mr. Robinson's disquiet.  We're all moving forward to do the best that we can to provide his evidence to the Court in the best possible form.  
+MR. PRESIDENT: 
+Now, Mr. Webster, the Prosecutor has now made an application to have him added to the witness list?  So, you have now decided that you are going to call him as a witness?  
+MR. WEBSTER: 
+It's our intention to call him as a witness.  The problem is with the modalities for doing that.  
+MR. PRESIDENT: 
+Yeah, we understand the problem, Mr. Webster.  But the -- Mr. Robinson's motion was made because it was not clear whether the Prosecutor intended to call him as a witness.  But you have clarified that now.  
+MR. WEBSTER: 
+I thought it was always clear.  And we discussed it before; it should have been clear.  If it wasn't clear, I apologise.  But I couldn't make it any more clear.  
+MR. PRESIDENT: 
+Okay.  
+
+What we will do -- in fact, we will just defer this for a while until we have a chance to see the registrar's submissions.  And then we will probably discuss it again just after the mid-morning break.  
+
+Mr. Witness, your testimony will continue this morning.  I remind you that you are still on the same oath to tell the truth that you took at the commencement of your testimony.  And Mr. Sow will continue his examination.  
+
+Mr. Sow.  
+MR. SOW: 
+Thank you, Mr. President.  
+
+Good morning, Your Honours.  Good morning, everybody.
+WITNESS BTH
+CROSS-EXAMINATION (continued)
+BY MR. SOW:
+Q.	Good morning, Mr. Witness.  
+A.	Good morning.  
+Q.	Mr. Witness, you may recall yesterday we had stopped at President Habyarimana's speech in Ruhengeri, and I had presented you with two statements.  And from these statements we noted, in particular, the statements you made in the hearing of the 30th of March 2004, and the hearing of 8 June 2006, that there were two contrasting versions.  
+
+With regard to Tuesday, the 30th of March, in the transcript at page 23, you summarised as follows the president's speech.  And you said what he meant when he said "descend".  I quote you.  For reference it is the transcript of 30 March, page 23, at the very top of the page.  You were referring to the president.  "I understood that he meant to go and fight the enemy.  I understood that it meant that we were going to fight with the enemy where the enemy was, or go to find the enemy.  Go to find all of those people, especially in Kigali town.  As regards the parties opposed the MRND, there were many people from the GDR, the Abakombozi.  We had to face all of those people, to show them that the MRND was strong.  To my understanding, he said those things and that is what I understood from what he said."  
+
+In the hearing of the 8th of June 2006, in cross-examination by Peter Robinson, you said -- at page 36, in the middle of the page.  In summary, you said:  "Another thing is that he mentioned the fact that the soldiers were going to conduct his campaign, but that essentially it was the Interahamwe who were to be responsible for his electoral campaign."  
+
+The question I put to you is very simple:  Of the two statements, which is the one you consider to be truthful?  
+A.	I would like to give you an explanation and tell you what I understood from that speech.  On the 30th of March 1994 I was asked what I had understood in the speech given by Habyarimana, especially with regard to the expression "to descend".  Recently, on the 8th of April -- on the 8th of June 2005 -- 
+THE ENGLISH INTERPRETER: 
+Says witness. 
+THE WITNESS: 
+-- I repeated what President Habyarimana had said.  Mr. Robinson did not ask me what I had understood from this speech.  And the Prosecutor asked me a question.  I gave my opinion, the way I understood the speech.  So, do not just consider the cross-examination by Robinson.  If you read my answer to the Prosecutor, you will see my answer to that question.  
+BY MR. SOW:
+Q.	Mr. Witness, from what you have just said, am I to understand that, for you, the two statements are complementary? 
+A.	The two statements are different.  In one statement I am asked to repeat, or go over the words of the president.  In the second, I was asked my opinion, how I had understood the speech.  I believe you have both documents.  Look carefully.  So take the place where I was asked about my understanding of President Habyarimana's remarks, and in a second statement, or piece of testimony, I was asked how I'd understood the statement.  
+Q.	Thank you, Witness.  
+MR. SOW: 
+Mr. President, by your leave, I would like the transcript of 30th of March 2004, including pages 22, 23 -- or, rather, from page 19, 20, 21, 22, and 23 be admitted into evidence -- I have also filed the English version -- under Exhibit number D. K7A (sic) for the French version, and B for the English version.  
+MR. PRESIDENT: 
+Admitted.  
+(Exhibit No. D. NK7A and D. NK7B admitted) 
+MR. SOW: 
+Thank you, Mr. President.  
+BY MR. SOW:
+Q.	Mr. Witness, now I would like to ask you about your activities within the party.  Do you acknowledge you were a member of the MRND? 
+A.	Yes. 
+Q.	You stated that you chose this party for fear that you would be otherwise considered an enemy; is that correct? 
+A.	That is correct. 
+Q.	Was there no other opposition party that would not have been considered pro-RPF? 
+A.	I do not know of any.  
+Q.	For you, apart from the MRND, were all the other parties against the MRND, or opposed to the MRND? 
+A.	Are you asking me for my opinion?  Well, I will give it to you.  When the MRND began, there were also other parties like the MDR, PSD, and PDI (sic).  Then the CDR was born.  The only political party that was on good terms with the MRND was the CDR.  Subsequently there were splits within the political parties, for instance within the MDR.  There was the MDR, and the MDR Power.  When the PSD also split into two there was also a PSD Power element.  So these power wings joined, or merged with the MRND subsequently.  So the part of the party that was not considered "power" was said to be -- or, considered to be associated with the RPF.  
+Q.	From that point on, were you in no position to freely choose the party you could adhere to?  
+A.	All I can tell you is that when the political parties were born, or came into being, this coincided with the war against the RPF.  So that when these parties were born, the Bagogwe in our area had already been killed, exterminated.  All Rwandans knew their country had been attacked by the RPF.  So, everybody had to show the government that it supported the government.  The authorities -- or, almost all authorities were from the MRND.  They would go into the countryside to sensitise the masses to the fact that the RPF had just destabilised the country, and that it owed its development and whatever gains had been achieved to the MRND.  
+
+So, if you now joined an opposition party, you would be considered an enemy, whereas it was said that the MRND had brought development to the country, had been at the origin of peace and national unity, and that the RPF stood against all this.  So, it was said that anyone who was a member of the opposition parties was considered an enemy, and that there was a need to persecute such a person.  
+
+So I chose to be a member of the MRND for my safety.  Individuals could choose their political parties because such an act served one's interests.  So for my sake I joined the MRND.  I must remind you that all these political parties were created at a time when the RPF had already attacked the country.  
+Q.	Thank you, Witness.  But tell me, in those circumstances, if apparently the other political parties could be considered enemies, can you explain why, then, the interim government was led by the opposition?  
+A.	Yes, thank you.  I have just explained that at one point the MDR Power, the PSD Power, and other wings of other parties that aligned themselves with the "power" element got on well with the MRND.  As for the others, they were considered Inkotanyi.  Let me give you an example.  Agathe Uwilingiyimana was of the MDR.  She was killed because she was not in the power wing, because she was not supporting the actions of the MDR Power or the MRND.  Boniface Ngulinzira was also killed.  The interim government was led by an MDR member, however, from the power faction.  
+Q.	Witness, can you tell me about the recruitment of members in the MRND, on what basis was recruitment conducted into the MRND? 
+A.	If you want further explanations, ask your clients.  But, what I do know is that in our locality the responsable de cellule and cellule members would register members in registers.  Then you would go to the communal office where you would be given a membership card.  I do not even know -- therefore I do not know what other criteria were taken into account when recruiting members.  But another way of doing it was to organise political rallies where people would be sensitised to the need to join the MRND.  
+
+Now, as for other ways, you should ask the people sitting next to you who you are representing, unless they are denying they were in the leadership of the MRND.  
+Q.	Witness, try to answer my questions and avoid making too many comments, especially since we are trying to save time.  
+
+Can you tell me if recruitment was done on an ethnic basis? 
+A.	I know nothing about that.  
+Q.	Did the MRND include all ethnic groups in Rwanda; Hutu, Tutsi...  
+A.	I did not conduct a census but, for instance, I know that within the CDR there were only Hutu members.  As for the MRND, I did not count so as to know whether it included or represented all ethnic groups in Rwanda.  
+Q.	At the time of your recruitment, were you asked whether you were Hutu or Tutsi? 
+A.	No. 
+Q.	Can you tell us in detail if in the MRND -- within the MRND, Hutus and Tutsis co-existed harmoniously? 
+A.	I can assert that they were not co-existing harmoniously because the Hutus from my area were persecuted or chased by Tutsis in my area.  And the Tutsis in my area were persecuted by Hutus in my area.  
+Q.	When would you place that, in time? 
+A.	From 1991 to 1994. 
+Q.	Does this mean that before that -- before that date, Hutus and Tutsis lived in harmony? 
+A.	I think that before the war of 1990 people lived in harmony.  But, from the outbreak of the war, people began to regard each other with suspicion.  And then killings ensued.  People in the MRND began to abduct Tutsis to go and kill them.  I can assert that they would take them to Mukamira camp, and Tutsis would not return again.  Nyaruhongu, Tutsis were taken to that place, and also killed at the communal office.  They were also detained.  There was Gasahani, Biniga, Gasajari (phonetic), and many others who were taken to Nyaruhongu.  Which is to prove that their -- relations between Hutus and Tutsis were not good.  
+Q.	You joined the MRND party.  Did you receive a membership card? 
+A.	Yes. 
+Q.	This card, had it been signed? 
+A.	Yes. 
+Q.	Who signed it? 
+A.	The MRND party president in the commune.  The person -- or, the member was also supposed to sign.  
+Q.	Did you also receive a copy of the rules of procedure? 
+A.	No, no member of the population saw the statutes or rules of procedure. 
+Q.	Did you not try to get to know them, since you were an intellectual? 
+A.	No.  I had no interest in knowing the content.  I was aware that the MRND was a good political party, that the founder was the president, Habyarimana, and that other leaders in the party were people who were trustworthy.  And I therefore had no business verifying the contents of the party statutes.  
+Q.	Can you tell me what you think the MRND abbreviation stands for?  
+A.	Before the MRND stood for "national revolutionary movement for development".  Subsequently it now stood for "republican movement".  I believe that "national republican movement for development and democracy".  I think that after the party was reformed, they added another letter which stood for "democracy".  They added another "D".  
+Q.	Can you tell me about the party's motto? 
+A.	"Unity, peace, development".  But after the reform of the party, they added the word "development" -- rather, "democracy".  
+Q.	Witness, when would you place the dates of creation of the new constitution of the party? 
+A.	I recall that the multiparty system began in 1991.  As for the constitution, I do not know the date of its creation.  
+Q.	What are the changes you noticed with the advent of multiparty politics? 
+A.	After the advent of multiparty politics, certainly there were lots of political parties that came into being.  There were people who opposed the achievements of the MRND.  Whereas initially those people would not speak, people held rallies, made speeches on the radio.  There was a struggle between political party members.  In short, people lived in discord with the advent of multiparty politics.  
+Q.	Witness, in your opinion, did multiparty politics strengthen or weaken the MRND? 
+A.	Personally, I think that multiparty politics aimed to correct the mistakes of the MRND.  There were people who did not have -- who were opposed to the MRND.  It is because there were problems in the country, because the reason the RPF attacked the country is because there were exiled nationals who were being forced to remain in exile, whereas they had a right to return.  So it weakened the MRND because of the existence of opposition parties.  So the MRND did all in its power and used all possible means to ensure that it was not weakened, which led to negative repercussions.  Because the MRND used all sorts of means. 
+Q.	Witness, did you know that the MRND had to cede back all assets it held to the Rwandan state? 
+A.	I know nothing about that.  
+Q.	When you referred to the achievements that were being put into question by other political parties, what are you referring to? 
+A.	In any event, if you live with someone and all of a sudden they decide to go and make speeches against you, that is to say, there must be a reason.  If people were members of opposition parties, there were reasons.  There were reasons why the PSD, the MRND (sic) were created.  I am not privy to the details, but each political party had objectives and wanted to change things.  I told you that the only political party that managed to join with the MRND was CDR.  Otherwise the PSD, the MDR, and other opposition political parties had critics, or criticisms to level at the MRND.  They said that the MRND was a party of thieves, that they were feeding off the assets of the country, among other things.  
+Q.	Did you agree with these -- 
+MR. PRESIDENT: 
+Mr. Witness, I would suggest -- suggesting that you speak a bit slower, so that the translator can keep up with you.  
+THE WITNESS: 
+I was telling you that prior to the advent of multiparty politics, Rwandans were members of the MRND.  So, if other political parties were created, it is because the achievements of the MRND were being questioned, since now there was room for dissent.  So, there was criticism of the clique that had formed around President Habyarimana who had drawn from his native region, and who were embezzling -- or, rather, misusing public assets, and thereby hindering development in the country.  
+
+Secondly, I can cite the example of the RPF who said that President Habyarimana had refused the right of return to refugees in their own country.  It is therefore understandable that some people decided to leave the MRND.  They had reasons for doing so.  I cannot enumerate all the reasons.  If the PL and PSD and other parties were created, it is because each party had reasons that had led to their creation.  I have already told you that it is only the CDR that had joined forces with the MRND in 1994.  When -- this coincided also with the advent of the power factions in other parties that also joined forces with the MRND.  
+BY MR. SOW:
+Q.	Mr. Witness, it seems you have not clearly understood my question.  I asked you, since you had made reference to the achievements of the MRND, which the opposition questioned, I would like you to tell me, what are the achievements you are referring to?  
+A.	According to the explanation of the MRND, the other parties who had come to fight -- they had come to fight against peace, development, and unity.  That is the explanation provided by the MRND.  But the other political parties had their account, their own reasons to advance.  
+Q.	Mr. Witness, if you agree with me that multiparty politics weakened the MRND, can you then explain how it is that the MRND, as a single-party state, with all the assets, or resources it had at its disposal, did not proceed to exterminate the Tutsis?  
+A.	I never said that the political parties weakened the MRND.  I simply told you that the MRND was afraid.  It had never -- it could never have managed that people would oppose it.  Which is why it was derailed and adopted a hard line, which led to the massacres.  
+Q.	But, Witness, you will agree with me that the MRND, when it was the only party in power, was very strong and could therefore have easily exterminated the Tutsis? 
+A.	I would like to tell you something on that.  It is true that the MRND was a very strong party, but when the MRND was the single party in power, it had never been challenged.  It is only after it had been attacked that it realised that it had opposers -- opponents.  The attack was launched in October 1990.  The MRND began to fight back, and realised it was under threat.  It realised that there was an enemy, took fright, and at that point began to analyse the situation and realised there was a core of Tutsis supporting the RPF.  But prior to the attack, the MRND had never been disturbed and would not have indulged in killings, because it was certain that everybody in -- supported it.  So, first there was the RPF attack, the advent of multiparty politics, and then the MRND felt threatened.  And then it adopted the hard line.  
+Q.	Thank you.  Now, I'd like to ask you about your membership in the Interahamwe youth wing.  You have acknowledged you were a member of the MRND youth wing.  
+A.	Yes.  
+Q.	In your opinion, how could the distinction be made between the MRND youth wing and other youth wings? 
+A.	First of all there was the uniform, there were the membership cards, and, thirdly, there was the -- the conviction.  The difference, therefore, between the Interahamwe and other youth wings is that, for example, the MDR had its own youth wing with its own uniform and membership cards, and the MRND had its youth wing, uniforms, and cards, distinctive from other groups.  So, each youth wing had its own distinctive signs, like the cards and uniforms.  It is to be noted that there were cards for the Interahamwe in the MRND.  In short, those are the differences between the Interahamwe and youth wings of other political parties.  
+Q.	What was the ethnic composition of the MRND youth wing? 
+A.	They were Hutu, at least in the area where I was.  
+Q.	At the time of recruitment, were those seeking to become members asked to say what their ethnicity was? 
+A.	What I can tell you on that subject is that when the Amahindure organisation was set up, no Tutsi could join because in the Interahamwe there were no Tutsis, or within the Interahamwe, or Impuzamugambi of the CDR.  Tutsis could not join because of the sort of treatment meted out to them.  It was beyond understanding.  The Tutsis could no longer dare to associate with the Hutus.  Indeed, in our area they were ashamed, and in our area I know of no Tutsi who joined the Interahamwe or Impuzamugambi.  
+Q.	Mr. Witness, was the Interahamwe youth wing organised at national level? 
+A.	Yes. 
+Q.	Did you know anything about the organisation, how the Interahamwes or MRND youth was born? 
+A.	No, I was not there when the idea was conceived.  It is the top leaders of the MRND who came up with the idea.  I can only talk about my experiences, because I was never a member of MRND at national level.  I was never involved at national level.  I merely executed the orders given me by Nzirorera or Kajelijeli.  
+Q.	Were you aware of the existence of the Interahamwe organisation in other préfectures -- préfectures other than Ruhengeri? 
+A.	I know that in all préfectures there were Interahamwe committees.  I cannot give you the names of persons who were in charge. 
+Q.	How are you aware of this?  How did you come by this information? 
+A.	I know it because I had acquaintances who could give me such information.  For instance, Kajuga was introduced to us as president of the MRND at national level.  Everybody knew him.  
+Q.	The structure of the Interahamwe in Ruhengeri, was it related in any way to the national provisional Interahamwe committee? 
+A.	Personally, I did not seek to know what was the organization -- internal organisation of the Interahamwe in Ruhengeri.  We had been set up by Kajelijeli and Nzirorera, we would submit all our complaints to them, so we did not seek to find out what Interahamwe in other préfectures were doing.  All we did was follow orders given to us by our leaders, namely, Kajelijeli and Nzirorera.  Therefore, it was not my concern to know about the organisation of the Interahamwe.  We were well aware that our leader was a very influential man, and that we just had to report to him.  We were always in contact with him and never thought to address anyone else.  
+Q.	Witness, you were a member of an organisation which you had joined, as you say.  When you joined the organisation, did you check to see -- check the existence -- whether there was -- to see whether there were any statutes and whether there was a manifesto? 
+A.	No, I was not to ask such a question.  Had I attempted to ask such a question, I should also have asked if there were statutes or a manifesto.  All I did was execute orders.  We were told "Do this", and we did not ask questions.  You may also wish to be reminded that the officials in the MRND were very influential people, so there was no way we could ask them questions.  We could just comply with their orders.  So, there was no way I was going to go and check if statutes for the party existed, because that might have led people to conclude that I was not convinced.  I think you should address the MRND authorities. 
+Q.	Mr. Witness, for the time being you are on the spot, you are the one who has said you were a member of the Interahamwe.  You will therefore understand that I must ask you these questions, especially since you are an intellectual and you are equipped with capacities to discern and conduct analysis.  Because, if you join an organisation, you should at least understand what are the aims of that organisation.  What were the aims of the organisation, that is, the MRND youth wing? 
+A.	I will tell you what I was told in the area where I was.  At the inception of our organisation, we were told that the MRND youth wing was its force, that the party could not properly conduct its activities without that force.  So, the Interahamwe were created as a force, as it were, a military wing.  So, the -- we -- the wing, the youth wing was the party's force.  Whenever there were problems faced by the party, it would address its force, which was its youth -- these soldiers, I would say, these Interahamwe.  As for us, in our area, our Interahamwe youth wing was the MRND's force in the area.  The Interahamwe were therefore created to save the MRND. 
+Q.	You mentioned the meetings you held.  How frequent were these meetings?  On a weekly basis, monthly basis?  
+A.	I would like you to explain this to me; do you mean Interahamwe meetings or meetings convened by the authorities?  
+Q.	I am referring to meetings of the Interahamwe.  
+A.	It was meetings that were held once a month, or every two months.  But we were always at our headquarters at the place called Isimbi, but the meetings were not something -- or, were not a regular occurrence.  They were not a regular occurrence, we were just there to receive our leaders' instructions, to know how we should conduct ourselves.  
+Q.	Can you confirm for me if there were no relations with the national provisional committee of the Interahamwe, that is, relations between your structure, your organisation, and the national provisional committee of the Interahamwe? 
+A.	In simple terms I would like to tell you that they wore the same uniform as us, the national provisional committee, but there were some differences.  For instance, there was Virunga force, the Zulu of Kigali had their own specificities.  It depended on the area in which that branch was created.  It also depended on the supporters of the organisation, how they went about solving the problems of the organisation.  
+Q.	Mr. Witness, right now I'm dealing with the Interahamwe youth wing.  As for the Amahindure, we will have a chance to discuss that.  But right now I'd like you to limit yourself to the youth wing so that we do not lose concentration.  I will subsequently ask you about the Amahindure.  
+
+Mr. Witness, of course you were not there at the inception of the Interahamwe organisation, but did you ever ask yourself about the term "Interahamwe"? 
+A.	The term "Interahamwe" is a Kinyarwanda word meaning the people who collaborate, who have the same objective.  The name was good.  It is only after 1994 that the word acquired a more problematic meaning, when the Interahamwe began to kill people.  
+Q.	Mr. Witness, you have indicated that one of the distinctive signs was uniforms, correct? 
+A.	Yes. 
+Q.	Did you have a uniform? 
+A.	Yes. 
+Q.	Did you wear it every day? 
+A.	No. 
+Q.	Why not? 
+A.	But it depended on what I was doing.  If it involved party activities, then I would wear the uniform.  But if I was not involved in party activities, I could not put on the uniform.  
+Q.	Apart from what you referred to as a uniform, were there no other distinctive signs, or insignia?  For instance, like a hat?  
+A.	I thought I had told you this.  I told you that every youth wing had its distinctive insignia, like hats, as you say, cards, or uniforms.  Certainly these were distinctive insignia.  
+Q.	Can you tell me if there was an obligation to wear a uniform? 
+A.	Yes.  When required, it would become obligatory to wear the uniform.  Let us say, for instance, when you were in school, in class, you were obliged to wear a uniform because that was a class.  The same went for the Interahamwe.  Regarding party activities, like rallies, the wearing of the uniform was obligatory.  
+Q.	If you say it was obligatory and cite the example of a classroom situation, can you tell us if already -- if there was already in force regulations regarding that? 
+A.	I only know that I had been given the uniform.  If the uniform was given to me, it is because I was supposed to wear it whenever party activities were held.  It was not a uniform I had purchased.  It was a uniform that had been given to me, and which I was supposed to wear whenever party activities were taking place.  
+Q.	But, Mr. Witness, if you say that you acknowledge that wearing the uniform was obligatory -- obligatory, it is as if -- for instance, I give you the example of the army, a uniform that the soldier knows he has to wear.  Was that the case in the Interahamwe organisation?  
+A.	In the case of soldiers, there are different types of uniforms.  For instance, there are uniforms you wear when you are at the front, and the uniforms you wear when you are not at the front.  As for the Interahamwe, we did not have different types of uniforms that we could vary.  We had been given just one type of uniform, and we were to wear that uniform whenever party activities were taking place.  If, for example, there were a political rally and there was a need -- there was, therefore, a need to wear the uniform.  It was an obligation.  
+Q.	Very well, Witness.  You mentioned the violence, political violence between the youth wings of the various political parties.  Can you tell me what the term "Kubohoza" means to you? 
+A.	The term "Kubohoza" -- let us say, for example, there's a person who joined a party other than the MRND.  That person would then have to be forced to leave that party, willingly or unwillingly.  So, in such an instance the term "Kubohoza" applied.  
+Q.	Who do you think came up with the term? 
+A.	I do not know about that.  I just know that the term came into use when the Interahamwe went to attack members of other parties to force them, or compel them to leave those parties. 
+Q.	Witness, if I were to suggest to you that the term was created by the MRND -- rather, by the MDR to attack the MRND, what would you say to that?  
+A.	I told you that I do not know the origin of the term.  I just know that this term could also be applied to our place.  If there were opposition party members who wanted to force MRND members to leave the party, I cannot comment.  But I know that we, in the Interahamwe, also went to force other party members to leave those parties and join the MRND.  
+Q.	Mr. Witness, from what I have understood in the context of the struggle between youth wings, you have said that the Interahamwe youth would deliberately attack other youth wings.  Can I suggest -- or, put it to you that the Interahamwe youth wing was created initially following the other -- creation of other youth wings, and that it is those other youth wings who first attacked the MRND?  What would you say to that?  
+A.	Perhaps this is what you would -- you have been told, but I personally know that the MRND youth wing was created and was to confront youth wings of other political parties.  Once again I would like to remind you that the MRND was acting under pressure.  It was afraid, it was threatened.  So, when other political parties set up their own youth wings, the MRND also created its youth wing.  And that youth wing was stronger than the other youth wings.  
+Q.	Witness, were you aware of communiqués that were, from time to time, published by the national provisional committee of the Interahamwe? 
+A.	No, I was not aware of that.  
+MR. SOW: 
+Mr. President, I would like the second document which I intend to produce in the case, already been admitted as D. NZ17, be shown to the witness, with the assistance of Mr. Issa.  It is the communiqué of the national committee of the Interahamwe regarding "crucial problems being faced by our country".  There is also an English version.  
+BY MR. SOW:
+Q.	Mr. Witness, you have before you a communiqué produced by the national provisional Interahamwe committee.  When you look at the -- the communiqué, it is a communiqué by which the national provisional committee of the Interahamwe denounced a number of acts that were taking place in Rwanda, being perpetrated in Rwanda, and which were being ascribed to the Interahamwe, including people who were using uniforms of the Interahamwe to carry out certain actions.  Were you aware of this communiqué?  
+A.	No, I was not aware of this communiqué.  
+Q.	When you read, or go through the communiqué, what comes to mind? 
+A.	First of all, this is just a document.  There are theories and there is practice.  You can say, "Do not do this", but then in practice you go and do it.  It was said, for example, that they were gathering Bagogwes to jail them because they were RPF accomplices.  It was not said that they were killing the Bagogwe.  This is a smokescreen.  They are trying to show the public that they are concerned, but the fact is that the Interahamwe were committing acts of violence.  They published this communiqué because they had just learned that everyone was against them.  That people -- they had a bad reputation already, and therefore they decided to publish the communiqué.  
+
+I do not think anyone wore an Interahamwe uniform to commit acts of violence.  You were not in the country and would, therefore, not know what situation prevailed in the country.  No one could have risked his life by wearing the Interahamwe uniform to commit an act of violence if he was not an Interahamwe himself.  They knew each other.  This was a smokescreen in the form of a document.  In reality, though, these people were committing acts of violence.  Very grave acts of violence.  
+Q.	Mr. Witness, would you agree with me that this communiqué was addressed to all Interahamwe za MRND? 
+A.	If the communiqué was intended for all Interahamwe, I would have received a copy; my committee would have had a copy of the document.  So, this communiqué should have been published to show the public at large that they were concerned by these acts, whereas that was not the case at all.  
+Q.	Mr. Witness, let me rephrase the question for you.  Do you feel that you were not -- or, would you say, rather, that you were not concerned by this communiqué? 
+A.	This is why this communiqué does not regard (sic) me.  The committee you see here was no -- was not stronger than Nzirorera.  It is Nzirorera who gave me that position, and I was to adhere to the instructions of Nzirorera, given through Robert Kajuga.  Moreover, I must add I did not see the communiqué, unless you say you obtained it from my committee in Mukingo.  These are pieces of paper to show the public that the Interahamwe are concerned by these actions.  
+Q.	What about radio?  It is sad -- 
+MR. SOW: 
+You may not have heard that, Mr. President.  I think we have -- we are at the time we should take our break.  If it is not a problem for you, I suggest we take the break now.  I am done with this line of questioning.  
+MR. WEBSTER: 
+May I make a few comments.  It doesn't require the presence of the witness but it concerns the matter we addressed at the beginning of the session.  I think it's better to address the Trial Chamber before we take the mid-morning break.  
+MR. PRESIDENT: 
+Mr. Witness, we have our mid-morning break now, and you may leave.  You will be told when to come back.  It is our normal mid-morning recess.  
+(Witness exited courtroom) 
+MR. WEBSTER: 
+Yes, Your Honours, perhaps I was neglectful when I addressed Court earlier this morning, because I presumed that information that has been circulating to the parties and to the Trial Chamber coordinator had made its way to the Chamber itself.  But I just wanted, for the record, to clarify that a motion has been filed in Trial Chamber I.  That was a motion that was filed by the Prosecution team that is handling the Serugendo case, to request a deposition.  That was granted by Trial Chamber I.  And in response to that yesterday, I believe, I filed something before Trial Chamber I.  It was an explanation of what the scope of the deposition would be, and the 200-page statement that Serugendo signed was reduced to approximately 35 pages that addressed the scope that was set forth in that filing.  
+
+A copy of that was sent to the Defence yesterday by email, and filed with CMS.  Mr. Robinson and the other Defence attorneys know full well what the scope of the inquiry would be, and the portion of the statement that concerns this in terms of evidence for this Court.  
+
+But I wanted this Trial Chamber to be aware of the procedure that's moving forward in Trial Chamber I, as you consider our application to add Serugendo as a witness.  When I look at Rule 71 and Rule 90, it seems to suggest that the application for a deposition would be made before the Trial Chamber that would be hearing that witness, or be taking evidence from that witness in the case that it's seized of.  That was not done in this case.  The application was made before the Trial Chamber that was adjudicating Serugendo's indictment.  
+
+So I just wanted to make that clear for the Court that there is something -- 
+MR. PRESIDENT: 
+If our discretion is exercised, why wasn't that information filed with this Chamber?  
+MR. WEBSTER: 
+I'm sorry?  
+MR. PRESIDENT: 
+Why wasn't that information filed in our Chamber?  Certainly we are going to have to decide whether deposition -- any deposition taken could be used in our case.  
+MR. WEBSTER: 
+That's a good point, Your Honour.  But initially it was thought there would be several matters -- several cases that would benefit from the deposition, and our thinking on the matter has changed subsequently.  So initially the application was filed by Trial Chamber I, but we had anticipated three or four cases using his deposition, so everything was centralised before Trial Chamber I.  Since then a decision has been made only to use his evidence in the Karemera case.  The procedure has been moving forward, we've made the filings to clarify what the scope of the inquiry -- 
+MR. PRESIDENT: 
+Those applications haven't been made before us.  
+MR. WEBSTER: 
+I'm sorry?  
+MR. PRESIDENT: 
+We have had a chance, in the meantime, to look at the documents filed in the CMS, and it is not providing enough information for us to take a decision.  So, we are thinking, and we probably will be doing today -- making an order requiring the registrar to do some study on the feasibility of this witness giving testimony, either here or elsewhere, and by whatever means is appropriate.  So, we will be asking for a separate submission from the registrar that state to the circumstances that we have to address, insofar as we know what they are.  
+MR. WEBSTER: 
+What I would like to repeat, however, is as recollected in my conversations with Peter Robinson -- I think Mr. Weyl was party to the conversation as well, at one point.  It's preferable -- the Prosecution position is that it's preferable for the Trial Chamber to hear this witness.  So I'm certainly in agreement with Mr. Robinson and what the Trial Chamber seems to be suggesting, which is that we should hear the witness.  But it's -- the issue that we're confronting is one of practicalities, modalities, and everything hinges on the health of this witness and whether he would be available to -- what procedure could be put in place in order to most effectively take his evidence.  I just wanted to make that clear for the Trial Chamber.  
+MR. ROBINSON: 
+Mr. President, I -- first of all, I appreciate the steps the Trial Chamber is taking to obtain the evidence.  I just have two observations; first with respect to the motion that was made by Mr. Webster to vary the witness list so that Mr. Serugendo can be called as a Prosecution witness.  I want to let you know that we don't oppose that motion and ask that it be granted.  
+
+Secondly, I think that the Prosecution should make a motion with Trial Chamber I to vacate the order for a deposition, because as the events have now unfolded, and this is the only case in which the testimony is to be heard, and we all agree it should be heard live.  And I was surprised to see this morning in my email that Mr. Webster is still making filings with Trial Chamber I.  And I think that step should be taken immediately by the Prosecution to consolidate all of the matters concerning Mr. Serugendo before this Trial Chamber.  
+MR. PRESIDENT: 
+Thank you, Mr. Robinson.  
+
+We will take the mid-morning recess now.  We will see what we can do.  
+(Court recessed from 1035H to 1120H) 
+MR. PRESIDENT: 
+Yes, Mr. Sow, you can continue now.  
+MR. SOW: 
+Thank you, Mr. President.  
+Mr. President, with your leave I would like to mention the presence of Mr. Sylvain Wabagande (phonetic), our new investigator.  He is present in the courtroom.  He is a former magistrate and is now practicing as a lawyer, and he will be handling our investigations.  It is my pleasure to introduce him to the Court, and I thank you.  
+MR. PRESIDENT: 
+Well, I welcome you to the trial, and I hope you have a good tour of duty in this capacity.  
+MR. SOW: 
+Mr. President, I did not get the French translation of what you said.  
+MR. PRESIDENT: 
+Do you want me to try to say it in French?  
+MR. SOW: 
+Well, I can guess what you have said, Mr. President, and I thank you for it.  
+BY MR. SOW:
+Q.	Witness, we shall proceed.  I believe I do not have much more to put to you.  We were talking about the situation following the attack by the RPF in February 1993.  So, February 1993, the RPF again attacked Ruhengeri préfecture.  At the time of that attack, what was your reaction, as a factual witness?  
+A.	War is war.  War is not a good thing.  I understood that the Inkotanyi were going to capture my préfecture and, with such a consistent attack on the préfecture, they captured a substantial part of the préfecture.  And like any other reasonable person, I did not wish for this war to have taken place. 
+Q.	Wasn't it just immediately after the RPF attacked that you created the Amahindure organisation? 
+A.	Yes, it was after that attack that Amahindure was set up.  But I am not the one who created that organisation.  Those who put it in place know themselves.  
+Q.	Now, Witness, following that attack by the RPF, what measures did the administrative and military officials take at the level of Ruhengeri? 
+A.	I am not aware of the measures.  What I observed, however, is that the figures of authority, particularly those who hailed from the region where I lived, came out to sensitise us of the civil defence movement, and also they set up the Amahindure force, which was a mixture of the Impuzamugambi and the Interahamwe.  So, what I noticed was that there was close collaboration between the civilian and military authorities.  And they had come to that decision to have a close collaboration in order to face the Inkotanyi, and also seek out the accomplices of the Inkotanyi.  
+Q.	Thank you, Witness.  Did the army conduct any recruitment in order to ensure safety and security and defence of the region? 
+A.	Please, do not put any questions to me regarding military strategies.  I am not in a position to know whether there were any recruitments.  All what I witnessed was the setting up of the Amahindure force, and I noticed that the military officials were playing a role in that arrangement as well.  
+Q.	Witness, we are looking at a time of war here, and the Ruhengeri préfecture has been attacked.  Are you really telling me that, as a stakeholder in that situation, you were not aware of any recruitments that may have been undertaken by the army?  
+A.	Well, you are speaking as if I was a soldier, or as if I was playing a role in the military.  I have told you that I am not aware of anything.  I can testify as to the setting up of the Amahindure force, and the role of the army in the setting up of that force.  Now, as far as recruitments may go, or as far as laying (sic) of people from the army, all I can say is that that is a matter for the army, and I have never been in military service.  So, please, Counsel, if you would put questions to me about the Amahindure, about the merger between the Interahamwe and Impuzamugambi to create the Amahindure, I would be able to answer those questions. 
+Q.	Yes, I understand your concerns, Witness, but I would like you to know that you are a witness under oath, and it is not for you to choose what you want to answer to.  So, please bear in mind the oath under which you are testifying.  
+
+Now, Witness, have you ever wondered why, in view of the war, you did not decide to sign up with the army? 
+A.	The decision to join the military is a voluntary decision.  I was a student and I could not, in that capacity, simultaneously be part of the army.  It is true that it was for me to decide whether or not to join the army.  And, in one's life, one has the freedom to choose one's career.  I have never considered the army as a career for me.  I had something else in mind, different from the army.  I was a student at the time and I could not enrol in the army.  
+Q.	Witness, you decided at least to join the Amahindure Varunga force, didn't you, although you were a student? 
+A.	Yes, I was the member -- I was a member of the MRND, a member of the Interahamwe, and all members of the Interahamwe were expected to receive training within the Amahindure.  And those who were most capable were selected to become members of the Amahindure.  That did not, in any way, disturb my studies, or hinder me from pursuing my studies.  But if one had chosen to join the army, it was impossible to be a soldier and a student at the same time, because once you join the army you leave your family.  
+Q.	I put it to you, Witness, that during the time of war, the army conducted massive recruitment in order to ensure security within the country.  
+A.	That is possible.  It is possible that massive, or large-scale recruitments were conducted.  I am not saying that the country did not have an army, but there was an army on the one hand, but there was also the Amahindure force, and the Amahindure received military training.  And the soldiers played a role in providing that training.  Now, as far as enrolment in the army goes, it was for each individual to choose what they wanted to do.  And I think this is clear.  
+Q.	Witness, can you tell us where the training for Amahindure was conducted? 
+A.	Training was done in the Mukingo communal office courtyard, depending on the level of training.  This training also was conducted in a quarry which was located behind the communal office.  As for those from Nkuli, the training took place at the military camp at Mukamira and at the communal office at Nkuli. 
+Q.	Witness, was this training done in the open so that all and sundry could witness it? 
+A.	Yes, training was done publicly, or in open.  And I might say that even the setting up of the Amahindure was a public -- or, an open event.  People were involved in running, jogging every morning, training was done openly.  But maybe the firing or shooting exercises were done in the quarry, that is, behind the communal office.  And that area was somewhat remote.  It is located on a hill.  
+Q.	Witness, the Prosecutor showed you a picture -- among the pictures that were presented to you, he showed you a picture number K0275239, which is a representation of the Mukingo communal office.  Next to that office there is a building which was the seat of the CCDRE, and there's an open piece of land in front of the communal office.  Was the training also conducted at the level of that field? 
+A.	Yes, I do recall that I was shown that picture on which there was the communal office and the CCDFE (sic) office.  The -- from the CCBFP (sic) office to the main road, there is a vast piece of land, a vast field, and it is on that field that the training took place.  Now, even today that field was used to build the bank of Busogo (sic), and it can be found at that location today.  That is, the Banque Populaire du Mutobo. 
+Q.	Now, regarding the killings, Witness, you said that towards the end of 1993, Mr. Joseph Nzirorera -- and this was in your statement of 24 September 2002 -- you said that Mr. Nzirorera had instructed you to go and kill Makoni; is that correct? 
+A.	Yes, that is correct. 
+Q.	How many of you were present? 
+A.	We were members of a committee. 
+Q.	Could you give me the number, Witness? 
+A.	Five. 
+Q.	Were you armed? 
+A.	Yes, some of us were bearing arms. 
+Q.	Could you tell us which arms you were bearing?
+A.	At that time Dusabe had a pistol and a big gun.  
+Q.	Did you go to Makoni's house? 
+A.	We first of all conducted an investigation.  We went to the bar, one after the other, to investigate.  And we found out that Makoni was carrying a weapon because he knew that he was likely to be attacked at any time, and therefore he was ready.  
+Q.	Did you effectively go to carry out that assignment, or that mission, or did you give up on it after all?  
+A.	Before discharging such a mission, one must ensure that one knows the strength of the targeted person.  So, we conducted our investigation and we found out that Makoni had a weapon and that he was always ready to defend himself, because he knew that he could come under attack at any time.  You may want to know also that at that time the killings had not yet started openly.  So, when you wanted to kill somebody, you'd abduct him discreetly, and then have him disappear.  So, we noticed that if we attacked his house, he was likely to defend himself with his gun.  So, at that time the Interahamwe had not yet begun to operate in the open, so if we had attacked him, we would have been criticised, given -- or, rather, criticised in the same manner as the Interahamwe had been criticised of involvement in acts of violence.  So it was not necessary for the public to know that we had attacked Makoni.  
+(Pages 1 to 20 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145H 
+BY MR. SOW:
+Q.	Am I to understand then that you abstained from attacking Makoni at that time for those reasons? 
+A.	Yes, we gave up that mission because we were told that he owned a weapon, and even those who had sent us on that mission knew that we could not discharge such an assignment openly because at that time, when you needed to eliminate anyone, it had to be done discreetly. 
+Q.	From your testimony, Witness, it emerges that this decision to give up the mission was taken by members of the committee; is that correct? 
+A.	We went to Kajelijeli and explained the circumstances to him and told him about our findings and then told him that it was not possible for us to attack Makoni at his home.  So he told us to suspend the mission, which had been indeed suspended sine die, given that he did not want to make any noise about this.  That is why he said to drop the mission. 
+Q.	Now, Witness, as you talked about the timeliness of attacking, Kajelijeli was absent; is that correct? 
+A.	Yes, he was present.  He was present when we were being given the instructions to go and attack. 
+Q.	No, that is not what I am talking about, Witness.  Once the instructions were issued -- and you have now testified that you went on to conduct your investigations and you found out that Makoni was armed and that it would not be cautious to attack him at that time.  At the time of those discussions and those conclusions, was Kajelijeli with you? 
+A.	No, he was not with us. 
+Q.	Therefore, it was your decision to drop the operation, wasn't it? 
+A.	This is what we were supposed to do -- or, rather, this is what we did:  We went back and told him what the situation was and we asked him -- we told him that if he went on to discharge that mission, it would raise a storm.  And he looked at it, and then came to the decision to abandon the mission. 
+Q.	Did you go back to the person who issued the instructions initially and who commissioned you in the first place, that is, Mr. Nzirorera, to tell him about all this, that is, Nzirorera according to your witness -- according to your testimony? 
+A.	Well, Nzirorera and Kajelijeli, to my mind, were one and the same person because Kajelijeli was just an intermediary.  So when one -- when we talked to Kajelijeli, it was as good as talking to Nzirorera.  
+Q.	Very well, Witness.  Very well, Witness.  That is a deduction.  But, again, Witness, it would seem to me that at least you put your mind to work in this matter because you have previously testified that in all other cases you reacted as robots because you were only following instructions.  What do you say to that, Witness? 
+A.	Whenever you put a question to me, I must answer according to the thrust of the question.  And this is not the first time I am saying this.  Whenever there was a problem or a request to submit to Nzirorera, Kajelijeli was the channel to use.  And whenever Nzirorera had anything to tell us, he told us through Kajelijeli.  I have said this consistently and over and over.  Maybe you did not understand, but this was the procedure in place.  That was the normal thing that happened.  By the way, all -- most of the instructions we received were from Kajelijeli when Nzirorera was not there.  This is my testimony today.  And I will say it again and again, wherever I have to.  Now, my answer is only an answer to the question that has been put to me.  
+Q.	Witness, in your statement of 8 June 2006, page 48, line 36, this is what you said:  "After he told us that, we returned to our homes.  And on our own we attempted to go fetch Makoni at his home, but since he knew that he was a wanted man, he had also purchased a firearm.  So we thought that it would be more prudent to refrain from confronting him at his home, given that he had a weapon."  And I underscore "we thought that".  This is what I would like to underline "we thought that".  That is your testimony.  So it was your decision that it was not timely to conduct that mission even before you went to report to Kajelijeli.  Is that not the case?  
+A.	Yes, that is correct, Counsel.  But I see no contradiction because we said we thought that if we attacked that person, it would create some further trouble and that is why we came to that decision.  But the final decision lay with the officer in charge, and that is why we went back to him, to seek advice, to tell him about the situation as it obtained on the field and then ask him whether we should pursue with the mission or refrain from it.  So our decision was to go seek advice from him as to whether such an action would not have certain consequences.  Now, once we had reported to the officer, to the officer in charge, he told us to stop or to cancel the mission.  Therefore, the final decision did not lie with us.  
+
+	By the way, if he had ordered us to go and attack that person at that time, we would have done so.  So he did not want the MRND to be criticized, because such an action would have led the opposition parties to say that the Interahamwe are doing this, or are involved in this or that activity.  So it is the officer in authority who took the final decision, not us. 
+Q.	Yes, I note, Witness, that you took a provisional decision and the final decision was taken by Kajelijeli.  Now, Witness, I am somewhat surprised by the fact that you were armed but that, on the other hand, Makoni being a single individual, was armed and you did not have the audacity as a group to attack him.  Am I to understand, therefore, that you only attacked those who were not armed?
+A.	Let me explain this to you so that you may understand.  First of all, those whom we attacked were not armed, but Makoni had a firearm.  Makoni was a strong man; he was a strong, young man who owned a firearm.  He knew that he could be attacked at any time, and I have told you already that at that time the killings were not being done in the open yet.  These were conducted in secret.  
+
+	Now, you know very well that certain bourgmestres were killing the Bagogwe and yet claimed that they did not kill them.  They did so because they knew that if it had been done openly, it would have raised a storm and they would have been held liable.  So that is why it was necessary to proceed discreetly, in order to avoid any further problems.  We, therefore, had to act carefully and cautiously.  I think this person was being guarded by three other persons and he had his own firearm.  So if we were going to attack him, there would have been fighting and it would have raised a storm.  So I don't believe that what I am saying should surprise you.  You see, at that time soldiers were abducting people, claiming to take them to prison, but then we would only find out later on that the individual had been killed if -- that the individual had been killed.  So nothing was being done in open, in order to avoid any responsibility.  So what we could do was only to abide by the instructions that we received.  
+
+	I understand that somebody could have been attacked and shot at, but that person could also have shot at us.  And if one of us had been killed, then it would become a public event.  And then, if somebody were also attacked by the Interahamwe, that person was in a position to lodge a complaint.  And those were the circumstances that availed at that time.  If your client is denying what they did, well, I am telling you that those are the instructions they gave us.  
+Q.	Witness, after the RPF attack, we are still in times of war.  Now, can you tell us whether the RPF attacked the civilian population? 
+A.	I know nothing about that because in my area the RPF never set foot in my area. 
+Q.	A short while ago, Witness, you said that the RPF launched a strong -- a very strong attack on Ruhengeri.  You said a strong attack on Ruhengeri.  Can you tell the Court what actually happened?  What happened, really?  Did the RPF come on foot, marching?  Did they bomb areas?  Were people killed when the RPF attacked?  What actually transpired, Witness?  
+A.	First of all, I said that this was a major attack because it covered a vast area.  It would seem to me that the RPF wrote its insignia on the road to Kigali in Rulindo.  And that was the first time such a thing was happening; that is why I said it was a large scale attack.  I heard bombs being dropped here and there, but I do not know whether they were dropped by the RPF or the Rwandan army.  I was not in a position to distinguish who was dropping those bombs, given that whenever somebody was going to fire, they did not announce that it was the RPF firing or the Rwandan army firing.  I wasn't present, so I don't know.   I don't know where those bombs came from, and that is why I said that it was a large-scale attack because it was the very first time that we heard any such bombs being dropped in our area.  I do recall that we went to Gisesero to see how the French soldiers were firing the bombs towards the Inkotanyi.  That was the very first time that we saw any such thing, and it is for that reason that I said it was a large-scale attack.  Now, as far as the material loss or damage goes, I never went to Ruhengeri to do an inventory of how much was lost.  So the soldiers were there, the Inkotanyi were there, and I didn't do any head count of the damage or the loss that occurred. 
+Q.	As far as you know, what was the attitude of the RPF towards the Hutu? 
+A.	I know nothing about that.  Maybe it is better to put the question to the RPF because it is the RPF which knows why they decided to attack Rwanda.  What I know is that President Habyarimana had said that Rwanda was an open country and that refugees who were abroad were free to come back home.  I know that the Hutus who were within the country did not want the Tutsi to come back.  So that was an ethnic problem between the RPF and the Hutus.  Now, if you ask me what the reasons were for launching that attack, well, all I can say is that I was not a member of the RPF and it might be better to put the question to the RPF. 
+Q.	Now, Witness, maybe you did not understand my question.  I did not ask you what the reasons were for the RPF attacking Rwanda.  My question was:  What was the attitude or the behaviour of the RPF towards the Hutu population?  
+A.	I believe that I have answered that question.  Maybe I did not answer it in the manner in which you wanted me to.  I know that Kangarengwe and Pastor Bizimungu were members of the RPF.  They were Hutu.  I never went to RPF activities and the RPF never came to sensitise us, so I don't know whether the RPF loved or hated the Hutus. 
+Q.	Witness, during the RPF attacks in February 1993, were Hutus massacred by the RPF? 
+A.	I have already answered that question.  I told you that I know nothing about it.  I never went to the battlefront at the place where the RPF was operating, so I know nothing about this.  Furthermore, I never conducted any census and I don't know anything about this.  
+Q.	Witness, would you be surprised if I told you that Captain Ruzibiza, member of the RPF, in his book, The Secret Story of Rwanda, talked about the extermination of Hutus and Tutsis alike?  Were you aware of that? 
+A.	Well, you need to put that question to the RPF.  I have never been part of the RPF.  I never lived with them, I never collaborated with them.  As far as I know, and in respect to the area where I was, I never saw the RPF come in, abduct a Hutu and kill him or her.
+Q.	Am I, therefore, to understand that you are only aware of the extermination of Tutsis, exclusively? 
+A.	Yes.  I know that people were killed within the country by the Interahamwe and by those who were in office at the time.  Now, when you ask me whether or not the RPF killed Hutus, let me say clearly that I never saw the RPF kill Hutus.  Now, what Ruzibiza says is valid only for him and he speaks only for himself.  He was a member of the RPF.  I was not with him, and therefore I do not know anything about what he is saying. 
+Q.	Witness, do you have any good reason to continue to argue that only Tutsis were killed by Hutu?  Are you again still afraid for your life, Witness? 
+A.	I do not understand why you have put that question to me.  You asked me whether I was aware of any RPF killings of Hutus, and I said I was not aware of anything.  Why are you insisting?  I do not understand you.  I cannot assert that the RPF killed the Hutus or killed anybody, whereas I never saw a RPF victim.  Now, whether I fear for my life, well, that's another issue.  Who should I be afraid of?  What I am telling you, therefore, is what I know and what I saw, namely, that I saw Hutus being killed by Interahamwe and the former soldiers of the FAR, as well as Tutsi who were killed by the Interahamwe, or members of the CDR, or soldiers.  Now, as far as the RPF is concerned, I believe that it is only RPF members and supporters who can know what they did.  I never was part of the RPF.  
+Q.	I do understand you, Witness.  
+MR. SOW:
+Mr. President, that will be all for this witness.  
+MR. PRESIDENT:
+Thank you, Mr. Sow.  
+
+Now, Mr. Witness, you still have to answer some further questions.  The Prosecutor has the right to re-examine you briefly on matters which he considers may require clarification from your cross-examination.  
+
+Mr. Webster.  
+RE-EXAMINATION
+BY MR. WEBSTER:
+Q.	Good morning once again, Mr. Witness -- or, good afternoon, actually.  
+A.	Good afternoon, Counsel. 
+Q.	I'm only going to explore one or two areas with you, so this should be fairly brief.  What concerns me, initially, are some of the statements that you made to Rwandan authorities right after you were arrested, up until the time that you made your confession.  This was a significant portion of your cross-examination and this is what I'd like to go back to initially.  I believe it was your evidence that you were first arrested on the 3rd of April 1995.  Is that the case, or could you -- does that need additional clarification?  Do you recall the date that you were arrested? 
+A.	I do remember the date on which I was arrested.  It was the *************1995, and it was a**********.  But it was only on the 3rd of April '95 that I appeared before the Prosecutor; that was a Monday.  
+Q.	When you were questioned on the 3rd of April 1995, were you informed of the charges that were pending against you before you were questioned? 
+A.	No.  I was simply told that Samvura had accused me of having killed members of his family, and I provided an explanation.  But I wasn't told all the charges that had been brought against me. 
+Q.	Well, in terms of the statement that was recorded on the 3rd of April, was that a reflection of the first time you were questioned after your arrest, or were there other interrogations between the ******and the 3rd?  
+A.	I was arrested on the*****.  I was questioned on the 3rd.  Between the *****and the 3rd, I was not questioned.  I was arrested in the morning and I was questioned on the 3rd.  So on the******************, I was not questioned. 
+Q.	When you were questioned on the 3rd of April, were you given a choice whether to answer questions or to remain silent? 
+A.	No.  No one said anything to me and I did not have that choice.  I was simply summoned to appear in an office and I was questioned.  
+Q.	When you say you did not have that choice, presuming - presumably, the choice not to answer questions, can you explain that for us, please?  Why is it your position that you had no choice? 
+A.	At that time we did not have the right to abstain from answering any questions.  I was asked to identify myself and then a series of questions were put to me.  But nobody told me that I could refrain from talking pending the arrival of a lawyer.  So I did not have the right to be silent.  
+Q.	Well, were you advised that you had a right to an attorney?  
+A.	No. 
+Q.	Did you receive any type of legal advice from any of the authorities that met with you on that date? 
+A.	No.  From the *********1995 up to 2002, I never benefited from the assistance of any counsel.  But in December 2005, at the time my judgement was handed down, even at that time, I did not enjoy the benefit of any legal assistance. 
+Q.	A person by the name of Bosco is listed as IPJ on that pro justitia.  Here we're still talking about the document of the 3rd of April 1995.  Was he the only one questioning you at that time for that first statement? 
+A.	Mahuku, Jean-Bosco, was one of the IPJs who was present, and he is the one who questioned me, both the first and the second time.  The other person was Samvura, Épimaque.  He's the one who had accused me.  So I saw him the second time holding a list or a piece of paper with additional questions.  It is only subsequently that I was questioned by the Prosecutor before being taken to the prison 20 days after I had been put in the Ruhengeri brigade.  
+Q.	Well, when Bosco questioned you, how many other people were in the room at the time when the interrogation was taking place? 
+A.	Only myself and the IPJ who was questioning me.  The second time around Samvura was present, but he left promptly.  And the questioning was between myself and the person who was questioning me. 
+Q.	Did you feel that you were constrained to make a statement when you were speaking to Bosco that first time?  
+A.	Given the circumstances, I was afraid.  We thought we would be killed, that if we kept silent, we would be beaten.  Therefore, we were afraid.  The fact that we had been arrested by the Inkotanyi government members in itself was scary. 
+Q.	When you say you were afraid, were you aware of any other prisoners that had refused to answer questions and had suffered dire consequences for it?  What was it that made you afraid?  Is there anything that you saw or heard that would lead you to make that statement?  
+A.	Yes, it is true.  There where I was in the brigade, there were detainees who were tied up, who had been beaten seriously.  I had been seeing them for two days prior to the commencement of my interrogation.  When you went to the prosecutor's office, you went on foot.  You were forced to remove your shoes.  You were made to hold your ears as you headed towards the prosecutor's office.  Therefore, there was an atmosphere of constraint wherever we went. 
+Q.	And concerning the prisoners that you saw that were beaten or that were tied, do you know why they were beaten or why they were tied?  
+A.	Actually, they were beaten or tied up because they had refused to answer a number of questions that had been put to them. 
+Q.	You made your second statement, or the second statement that we have, on the 4th of April 1995, the very next day.  When were you questioned on the 4th of April, were the circumstances any different?  And here I'm referring to the day before.   
+A.	No, the circumstances did not change.  The conditions of the interrogation did not change.  I was questioned on the 3rd of April and, in the middle of the interrogation, I was told that it would resume the following day.  When I was questioned on the 4th of April, as I said, the conditions were the same except that in the middle of the examination or interrogation, Samvura entered with a piece of paper producing -- and he produced further charges against me. 
+Q.	Can we conclude then that you were not offered the services of an attorney? 
+A.	Yes.  No lawyer was assigned for my defence or counsel. 
+Q.	You got no other type of legal advice? 
+A.	No, no one throughout the period of the examination -- or, rather, interrogation.  I saw no one. 
+Q.	And were you given the choice to answer questions or to decline to answer questions? 
+A.	No. 
+Q.	Did you feel that you were constrained to answer the questions that were put to you on the 4th of April? 
+A.	Yes. 
+Q.	And would that be for the same reasons that you gave us before? 
+A.	Yes. 
+Q.	The next statement that we have in our files, and that was entered into evidence, is dated the 27th of April 1995.  It's around two weeks later.  Were there any interrogation sessions between the 4th of April and the 27th of April that were not recorded; in other words, were you asked questions again in a manner that did not lead to a signed statement? 
+A.	No.  Between the 4th and the 27th, I was not interrogated.  Mahuku questioned me twice and then I spent a long time in jail.  And then David Uwingoma (phonetic) interrogated me.  And after the interrogation, I was transferred to the central prison.  Once again, during the interrogation by David, I was interrogated under the same circumstances as before. 
+Q.	In other words, you were not given a choice to answer questions or to refuse to answer questions? 
+A.	No, I was not told that I could use this right.  I remember one day I wanted to ask him questions and he said I would ask those questions upon my arrival at the central prison.  So he told me, answer:  "As for questions, you will ask them when you get to prison."  
+Q.	And again you did not receive any legal advice or -- and you were not offered the opportunity to meet with an attorney? 
+A.	No.  No lawyer, no right to meet a man of the law or assistant. 
+Q.	Would you characterise the statement that you made on the 27th of April as one that was constrained?  Did you feel you had an obligation to answer? 
+A.	Yes, because -- besides, when I did seek to ask questions, I was told I should answer the questions being put to me and that if I had comments, I should do so once I got to the central prison. 
+Q.	The next statement, chronologically, is dated the 30th of July 1997.  This also was admitted into evidence through Mr. Robinson's cross-examination, and this is the next statement chronologically that we have in the file for you.  This is some two years later.  Can you tell us what transpired over those three years?  Were you questioned in a way that is not reflected in any of the documentation?  Were you brought to court?  Were there any proceedings with regard to your case between the 27th of April of '95 and the 30th of July 1997?  
+A.	When I arrived at the central prison, it is as if everything had been forgotten.  Nothing changed in my dossier apart from my family members who came to visit me.  I spent a very long time in the central prison.  I was not given a chance to obtain the services of counsel. 
+Q.	Did you ever see an indictment or any sort of charging document with respect to your case up to the 30th of July 1997? 
+A.	No, I never saw an indictment. 
+Q.	During your direct examination or during your cross, you mentioned being on trial with 47 other people.  When did you come to learn that you were charged with 46 others? 
+A.	When an individual was arrested, he was informed of the charges brought against him.  And amongst ourselves we would discuss.  We all hailed from the same area.  We would chat.  We all knew we were being incriminated by Samvura, which is to say one was aware of charges brought against one's fellow detainee.  And in our discussions, we noticed -- we knew that we were being accused by the same person, namely, Samvura. 
+Q.	Did you ever have occasion to go to court together as a group?  What I'm trying to understand is how your case progressed.  Was there ever a time up to the 30th of July 1997 that you were brought before a judge, you saw who your co-perpetrators were, you knew the charges or the elements of the crimes that you were charged with?  Give us some idea of what you understood was happening to you by the time we get to July 1997.  
+A.	I remember that the people from the prosecutor's office came to the prison.  And it was explained to us how we could benefit from -- benefit from pleading guilty.  And the prosecutor's office or officials returned to the prosecutor's office.  In the year 2000, all our group was presented to -- or, rather, appeared in court.  However, on that day the trial did not take place. 
+Q.	The next statement that we have in our file and that was admitted in evidence when you were being cross-examination -- when you were being cross-examined, is dated the 8th of June 1998.  When you made that statement, were the circumstances any different from your previous statements; in other words, were you assisted by counsel, offered legal advice, advised of a right to silence, any of those things? 
+A.	No.  No lawyer was assigned to me and I was not informed of my right -- of my rights. 
+Q.	The next statement we have is dated the 24th of August 1998.  Were the circumstances of making that statement any different from any of the preceding statements? 
+A.	On that date I was questioned in the same conditions as previously. 
+Q.	By your estimation was that statement constrained? 
+A.	Yes, that is what happened.  At that time I was not informed of my rights by anyone, and I still had no confidence.  If I had refused to answer the questions, I thought I might have encountered problems. 
+Q.	The six statements that we've mentioned so far are statements that appear to be typewritten.  Did you record any of those statements in your own hand before they were typewritten, the ones that were signed by the various IPJs? 
+A.	No, I never wrote in longhand any statement. 
+Q.	Well, concerning the statement that you made on the 22nd of November 1999, this is a statement that was written in longhand; would you agree?  What I'm referring to is the statement that was collectively assembled by the persons that were detained.  I believe you told us that you played a role in organising that information and recording it.  Do you recall that statement? 
+A.	Yes, I remember the statement. 
+Q.	How would you distinguish that statement from the others in terms of the way it was recorded, the content of the statement, the circumstances under which it was made?  Do you see a distinction between the statement of the 22nd of November 1999 and the other statements that we've discussed so far? 
+A.	The difference is that in the previous statements, I was questioned by deputies from the prosecutor's office or the CID officers or state employees.  As for the statement of the 22nd of November, we took the initiative of drawing up the statement.  No state employee or judicial officer was with us dictating what should be done.  
+Q.	Was that statement voluntary? 
+A.	No official showed us what was to be done.  We are the ones who decided to draw up the document following the conditions under which we were detained. 
+Q.	Well, would you consider that to be a voluntary statement?  Did you make that statement on your own, or did you feel constrained to make that statement? 
+A.	Yes, it depended on each person's goodwill.  It was not that a state employee or official came to the prison to tell us what to say.  
+Q.	In that statement it records the information from a number of people, including yourself.  Did the information you provided about yourself in that statement acknowledge your responsibility for the crimes that took place in 1994? 
+A.	Yes, I pleaded guilty to certain acts related in the document.  Since we were a large group, there were certain acts I was accused of by my fellow detainees.  And I pleaded guilty to some and not guilty to others.  I even recall that at one point I refused to sign the document because I objected to certain accusations levelled against me. 
+Q.	The next document in the file is dated the **********************2002, and this is your confession and guilty plea.  Tell us -- explain to us the circumstances that led to your writing this document and making this statement.  
+A.	The reasons that motivated my guilty plea:  I had noticed how long I had spent in prison and, guided by my conscience, I found it would be better to plead guilty, especially since I had just learned of the existence of a law governing the reduction of sentences for people who made confessions and pleaded guilty.  Therefore, in accordance with the crimes I'd committed and in accordance with my own conscience, I pleaded guilty. 
+MR. WEBSTER:
+Your Honour, I notice the time.  I was hoping I could finish this before the luncheon break, but would you prefer we come back?  
+MR. PRESIDENT:
+How much time do you have?  
+MR. WEBSTER:
+It would take at least another 15 minutes.  
+MR. PRESIDENT:
+Mr. Webster, if you can finish in 15 minutes we will wait on you.  
+MR. WEBSTER:
+All right.  
+BY MR. WEBSTER:
+Q.	Mr. Witness, I'm sorry.  I forgot where we were, but we were talking about your confession and guilty plea of the *********************2002.  I notice that this is a document with a cover letter, an annex 1 and annex 2.  This is another document that was introduced into evidence by Mr. Robinson.  We've reviewed annex 2, and it appears to be a lengthy statement concerning Nzirorera, Kajelijeli, Dusabimana, and a number of the same people that you mentioned during your evidence in this case.  Did anybody ask you to provide that information, or is this something that came spontaneously from you when you were recounting the events of 1994?  
+A.	No one ever asked me to provide that information, whether it be my parents, my fellow detainees or any officials.  So I wrote the document on my own initiative -- or, rather, I gave that information on my own initiative.  I beg your pardon.  
+THE ENGLISH INTERPRETER:
+Says witness. 
+BY MR. WEBSTER:
+Q.	Do you stand by that account today, the information that you provided in your confession and your guilty plea, particularly annex 2?  
+A.	Yes, I can confirm the content of this annex, and I am prepared to reiterate it or repeat it, even in another tribunal or forum. 
+Q.	The Kinyarwanda text of this statement is handwritten.  Is that your handwriting?  
+A.	Yes.  When I wrote the document, I wrote with a ballpoint pen in longhand.  The document is written in Kinyarwanda.  
+Q.	Is this a document that you generated yourself, or did someone tell you what to write? 
+A.	No one told me to write the document.  It is I who wrote the document, willingly.  
+Q.	What about the document dated the 24th of April 2003, which is described as a supplement to your confession?  I notice that the Kinyarwanda text is handwritten.  Is that your handwriting as well?  
+A.	I am also the author of that document.  I wrote that document in longhand. 
+Q.	Would you characterise this document as having been written voluntarily?  Did you do it on your own, or did someone tell you what to write?  
+A.	No one beat me into writing the document.  I wrote it willingly.  
+Q.	Do you stand by its contents today? 
+A.	Yes, I can confirm the content of the document.  I would even be prepared to repeat it in another forum or before God. 
+Q.	When you made these confessions, were you given any specific promise of being released from jail, a date that you would be released, some idea of how much time you would be sentenced to upon your -- upon acceptance of your guilty plea?  What I'm trying to understand is, what did you understand at the time you made these statements?  Did someone promise you anything in exchange for this information?  
+A.	No one promised me anything.  I was aware of the existence of a law and the benefits of the guilty plea procedure.  I did not even know that the president of the republic would announce a release.  That took us by surprise. 
+Q.	There came a time when you started to collaborate with investigators from the ICTR.  Was that before or after you started making these voluntary confessions?  
+A.	I collaborated with investigators of the Tribunal willingly, and I did so after having pleaded guilty and made confession. 
+Q.	Did investigators of the ICTR lead you to believe that you would gain anything from your collaboration?  Did they promise you anything or give you any assurance in exchange for your information?  
+A.	No, no promise was made to me. 
+Q.	Now, you mentioned that you were finally sentenced sometime in 2005.  Would you provide us with the date of that again, please?  
+A.	I no longer recall the date, but I think it was around the ************2005. 
+Q.	My understanding is that even in spite of having confessed to your crimes, pleaded guilty, and having been sentenced and even gone up on appeal, that you still are required to participate in trials before the Gacaca jurisdictions. Is that accurate, or can you clarify that for me, please? 
+A.	After my sentencing and the appeal, I took part in the Gacaca sessions.  I was summoned.  When a trial involving someone else is taking place, you may be called to appear, to provide information and know what is happening with people one was detained with.  However, most of the time I went because I was called to appear as a witness.  
+Q.	Is it still possible for witnesses to be presented against you in Gacaca, even now that you've been sentenced? 
+A.	Yes.  During the Gacaca hearings people may provide information on a subject.  If, for example, new facts come to light which were not produced during my trial or which I did not confess, I will be held accountable again.  
+Q.	So when does this criminal procedure end for you?  At what point is there some finality to your criminal responsibility?  
+A.	I think it ended when the judgement was rendered.  That was the final judgement.  So when the decision was rendered, or once that decision was rendered, there is no possibility to discuss the case again, unless the judgement is invalidated. 
+Q.	If there were new witnesses that came forward and accused you of wrongdoing in 1994, would you have to face charges again in Gacaca? 
+A.	That is not possible, unless a new fact is discovered, a new fact, therefore, that was not dealt with during my trial.  Besides, in order to admit this new fact, one has to establish why the fact was not dealt with during my trial because, once the file is closed, it cannot be recontested.  So there has to be a new fact.  But facts that were dealt with during my trial cannot be reconsidered. 
+Q.	Thank you, Mr. Witness.  
+MR. WEBSTER:
+Your Honour, I'm sorry, I have another ten minutes or so.  Maybe we should do that after lunch because I'm not going to be able to do it in less than that.  I'm happy to proceed, but I'm also aware that it's already quarter to 1:00, so I'll follow the Court's instruction.  
+MR. PRESIDENT:
+You see, we thought that if we had broken now, we could resume at 2:30.  Your next witness, how long are you going to be in-chief?  
+MR. WEBSTER:
+I think it's one day, Your Honour.  
+MR. PRESIDENT:
+We resume at 2:30 still.  
+MR. WEBSTER:
+All right. 
+MR. PRESIDENT:
+I should let you know that we have issued an order to the registrar in relation to providing information on the witness that we've been discussing.  So that process has commenced.  We thought also that we should invite you to file the applications put before Trial Chamber I before us, as I think that the issues will directly affect our trial.  
+MR. WEBSTER:
+When we resume, it should take no more than 10 or 15 minutes.
+  
+MR. PRESIDENT:
+We adjourn until 2:30.  
+(Court recessed from 1245H to 1440H)
+MR. PRESIDENT:
+Good afternoon.  Mr. Witness, we will continue with your testimony.  
+MR. WEBSTER:
+Yes, good afternoon.  Your Honour, I only have another ten minutes of questioning, and I'd like to do this in closed session because the witness's answers are likely to disclose his identity.  So if we could do that. 
+MR. PRESIDENT:
+For the benefit of the public, many of the witnesses in our trial have been the beneficiary of orders aimed at protecting their security, and the main method of doing this is to limit the publication of information which could reveal their identity.  We're going to go into closed session now because the Prosecutor has informed us that the line of questioning may have that result.  This will last for approximately ten minutes.  We go into closed session now.  
+(At this point in the proceedings, a portion of the transcript [pages 34 to 45] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 21 to 33 by Karen Holm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR. PRESIDENT:
+Can you call your next witness. 
+MR. WEBSTER: 
+Yes, sir.  The next witness is XBM.  My colleague, Gilles Lahaie, is going to conduct the direct examination on behalf of the Prosecution.  
+MR. PRESIDENT:
+Good afternoon, Mr. Witness.  Can you hear me?  
+THE WITNESS:
+Good afternoon to you, sir. 
+MR. PRESIDENT:
+Now, you are now going to testify before the Trial Chamber, and the method by which you will give your evidence is by responding to question put to you by the lawyers who have been designated with that task.  The first -- can you hear me now?  
+THE WITNESS:
+Not very well, Mr. President. 
+MR. PRESIDENT:
+Now, can -- is the sound any better now?  
+THE WITNESS:
+It is fine now -- oh, it is not, sorry.  It is not ideal. 
+MR. PRESIDENT:
+All right, let me try again.  I was advising you that you have to respond to the questions put to you by the lawyers designated with that task.  Do you understand that?  
+THE WITNESS:
+Yes, I understand. 
+MR. PRESIDENT:
+Now, before you do that, however, you will have to take an oath to tell the truth while you are giving your evidence.  Are you ready to do that now?  
+THE WITNESS:
+I am ready. 
+MR. PRESIDENT:
+Well then, the registrar will administer the oath to you. 
+(Declaration made by the Witness XBM in Kinyarwanda)
+MR. PRESIDENT:
+Now the Prosecutor will now examine you; he will be the first lawyer who will be asking questions of you.  
+
+You may proceed. 
+MR. LAHAIE.
+Thank you, Mr. President.  As we are going to begin by identifying the witness, I should like us to go into closed session please. 
+MR. PRESIDENT:
+We will go into closed session. 
+(At this point in the proceedings, a portion of the transcript [pages 48 to 51] was extracted and sealed under separate cover, as the session was heard in camera)
+(Pages 46 to 47 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BY MR. LAHAIE:
+Q.	Witness, I would like to put questions to you covering the period beginning 6 April 1994.  It is my understanding that you learnt that President Habyarimana had been attacked.  Can you tell us when you found out about this, Witness? 
+A.	I heard the news in the morning.  People were going down the road, and I lived near the road.  And people were talking about the news; they said that the president had been killed following a plane crash. 
+Q.	Did you learn that from people only or did you also hear this over radio? 
+A.	Initially I heard the news from people.  Then later on, I listened to international radio stations, RFI, for example, and I continued to follow the news relating to that event. 
+Q.	Am I to understand that you were at your home at that time? 
+A.	Yes, that is correct. 
+Q.	Did you remain in your home for a long time that morning? 
+A.	I did not remain at home because a policeman came and arrested me at my home - rather, he came to fetch me.  He told me that a meeting had been organised and was to hold at the communal office. 
+Q.	What is that policeman's name? 
+A.	His name was Kabilizi. 
+Q.	Did you, indeed, attend that meeting? 
+A.	I did not quite understand your question because I think I am having problem with my headset again. 
+Q.	My question was the following:  Did you effectively attend that meeting? 
+A.	Yes, I went there. 
+Q.	Did you go alone or with someone else? 
+A.	I went there alone and I was responding to the invitation that had been extended to me.  No one else was in my company. 
+Q.	At what time did you get to the meeting? 
+A.	Between 12 noon and 12:30. 
+Q.	Were there other persons already present at the location of the meeting? 
+A.	Yes, of course, I found other persons in attendance. 
+Q.	How many people attended that meeting? 
+A.	More than 70 persons. 
+Q.	Who chaired that meeting? 
+A.	One gendarme, Ntamaherezo, was the chair of that meeting.  He was the chairman of the MRND in my native commune. 
+Q.	That would be number 78 on the list.  
+MR. ROBINSON: 
+Mr. President, we've never received a spelling list for this witness; perhaps we could receive one?  
+
+MR. WEYL: 
+Mr. President, when my learned friend speaks of "we", he is speaking on our behalf collectively. 
+MR. PRESIDENT:
+Mr. Weyl, Mr. Weyl, even the Bench has benefitted from that intervention. 
+MR. WEYL: 
+Mr. President, I am happy to note that the Bench is on the Defence's side.  
+MR. LAHAIE:
+But it would seem that the interpreters have the list.
+BY MR. LAHAIE:
+Q.	The person who chaired that meeting, was he alone or was there someone else with him? 
+A.	He was not alone, he was with all of those people who were in attendance at the meeting. 
+Q.	Was any message delivered at that meeting? 
+A.	Yes, yes, we were given a message. 
+Q.	Who gave you that message? 
+A.	The message came through one Gakwaya, Barayagwiza's driver, and it was read in public, and we were the target audience.  And that is the manner in which we received the message. 
+Q.	What was the content of the message? 
+A.	The content of the message indicated that things had changed in the country; that on his way back from a meeting in Tanzania, the head of state had been killed by Tutsi.  That it is the Tutsi who had killed him, and that we should not show any pity for them, and that Hutus should act or react accordingly. 
+Q.	What did you understand "by act accordingly"? 
+A.	As a matter of fact, the idea was to take into account the fact that the enemy had killed the head of state.  And this amounted to encouraging members of the population to kill those people. 
+Q.	"Those people", who were those people? 
+A.	The Tutsi and many others who supported them or who seemed to share their point of view. 
+Q.	When reference was made to Tutsi, was there any distinction between Tutsi soldiers and Tutsi civilians? 
+A.	Well, a Tutsi who was a soldier remains a Tutsi whether he is a soldier or not. 
+Q.	Was reference being made to children as well? 
+A.	Yes, children were also concerned because we were not expected to spare anybody.  The message was very clear.  Its content was crystal clear. 
+Q.	What was the fate of the Hutu who were married to Tutsi women? 
+A.	Hutu who were married to Tutsi women were obviously considered to -- well, Kangura newspaper had already requested that names or labels be provided for those types of children.  So where a Hutu was married to a Tutsi, the child born of that union would be called a Hutsi.  Now, if a Tutsi had a Hutu wife, the child of that union would be called a Zihu.  Now where a Twa had a Hutu wife, the offspring of that marriage would be called a Twahu. 
+MR. LAHAIE:
+Mr. President, I would appreciate some decorum on the other side of the Court, because there is no respect being shown to the witness, even if they do not agree with what he is saying. 
+MR. PRESIDENT:
+Mr. Prosecutor, your point is well taken.  I will (inaudible) in accordance with the request. 
+MR. LAHAIE:
+Obliged, Mr. President. 
+BY MR. LAHAIE:
+Q.	Now, let me return to the question.  Now, what was the fate of Tutsi women and children, and I'm referring specifically to Tutsi women who were married to Hutu? 
+A.	Tutsi women who were married to Hutu men were in a situation where focus was on their children.  If the child sided with the mother, that child would be killed; but should a child side with the father, that child would be expected to kill his or her mother. 
+Q.	At that meeting was there any discussion of roadblocks? 
+A.	It was said that roadblocks should be set up at an interval of one kilometre. 
+Q.	What was the reason for setting up the roadblocks? 
+A.	The roadblocks were set up in order to check people so as to ensure that no enemies would enter our area.  And this particularly referred to those persons who looked like Tutsi. 
+Q.	What became of the Hutu who were opposed (sic) to their Tutsi colleagues? 
+A.	They were immediately killed, because any Hutu who supported the Tutsi was killed. 
+THE ENGLISH INTERPRETER:
+The Kinyarwanda booth would like to make the correction as follows:  The Hutu was killed because he supported the Tutsi, and not the other way around. 
+BY MR. LAHAIE:
+Q.	Was the issue of political parties discussed at that meeting, Witness? 
+A.	The matter was broached and political parties were called upon to put an end to their awareness building campaigns, and pull together and act together irrespective of their political leanings. 
+Q.	Who was the author of those mess -- that message which you received? 
+A.	The message came from Kigali and the message was Gakwandi Karasira.  He told us that he had received the message from Barayagwiza.  The message had come from Barayagwiza. 
+MR. LAHAIE:
+(Microphone not activated)
+THE ENGLISH INTERPRETER:
+Microphone. 
+MR. LAHAIE:
+Gakwanda Karasira would be number 26, and Barayagwiza would be number 11 on the list of names.
+
+BY MR. LAHAIE:
+Q.	Who was Barayagwiza? 
+A.	Barayagwiza was a senior civil servant in the ministry of foreign affairs.  And he was a native of my commune, that is Mutura commune.  He was also senior official of the CDR party. 
+Q.	Thank you very much, Witness.  How long did that meeting last? 
+A.	The meeting ended at about 3 p.m., 3:30 or 4 p.m. that is late afternoon. 
+Q.	At the end of that meeting, did you receive any specific or special requests? 
+A.	No, nothing special was required of us, but someone came and told us that people should go to Mudende to find out what was happening there, because there had been some confrontation amongsts the student at Mudende. 
+(Pages 52 to 55 by Donna M. Lewis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1700H 
+BY MR. LAHAIE:
+Q.	That message which you received, was it a written message, or was it simply an oral message?  
+A.	It was a written message.  But the oral message would have required that the author come himself.  
+Q.	Were you subsequently told what became of that written message? 
+THE ENGLISH INTERPRETER: 
+From the Kinyarwanda booth, can the Prosecutor please repeat his question.  
+
+And he put the question while the English booth was interpreting, Mr. President.  If the Prosecutor could be asked to repeat his question.  Thank you, sir.  
+THE WITNESS: 
+I explained to you that there were some ethnic problems at the Mudende university, because the students were having some conflicts.  So we went to Mudende because we couldn't go back home without finding out what had happened at Mudende. 
+BY MR. LAHAIE:
+Q.	The message you read, was it only for your secteur and your commune, or would you say it was meant for other places?  
+A.	After the message was read, given that it was a written message, the driver was supposed to go through the entire préfecture to deliver the same message to all the leaders of political parties.  
+Q.	Now, when you were asked to go to the Mudende university, did you effectively go there?  
+A.	Yes.  Yes. 
+Q.	What did you observe upon your arrival at the university?  
+MR. ROBINSON: 
+Excuse me, Mr. President.  Mr. President, I'm going to have an objection to this line of questioning, because it's our position that the massacres that occurred in Mudende university in early April 1994 are not plead in the indictment.  And nor is any killings in Gisenyi préfecture, to my knowledge.  In addition, it's beyond the scope of anything that's alleged in the pre-trial brief.  
+
+And I would like to actually hand out to the Trial Chamber copies of the annex to the pre-trial brief that deal with this witness.  I made extra copies 'cause I know we don't have this electronically.  
+
+It's very short, and I would like to ask Mr. Issa to come and collect those and give them to the Trial Chamber.  
+
+I will also represent to the Trial Chamber that there is absolutely no mention whatsoever of Witness XBM in the pre-trial brief itself.  
+
+So, what we have here is the annex to the pre-trial brief which summarises the testimony of Witness XBM to be given at this trial.  And as I read it, there are only three topics to be covered by this witness' testimony, of which we've been given notice; the first, the meeting of the MRND on the 27th of October 1993; the second, cooperation between soldiers and civilians, prior and during the massacres; and the third, a meeting of the MRND and CDR in February 1994 in Gisenyi.  
+
+So, it's our position that we've had no notice of any other topics to be included in this witness' examination, other than what's contained in the pre-trial brief.  And given that this attack is neither in the witness summary nor in the indictment, that's evidence that should be excluded.  Thank you.  
+MR. LAHAIE: 
+Well, then, Mr. President, the way I see things is that this line of questioning will lead us to the cooperation between the military and civilians at the university.  That's firstly.  And secondly, we're dealing with accusations of genocide, complicity in genocide, aiding and abetting genocide, inciting genocide, and the fact that there were massacres at Mudende is right in the middle of all that.  
+MR. ROBINSON: 
+Well, Mr. President, if that was the case, we wouldn't need a pre-trial brief or a witness summary, because anything that happened in 1994 in Rwanda would be admissible.  The question is one of notice.  And I think that if there is going to be testimony about cooperation between the soldiers and civilians prior and during the massacres, it has to be of a very general nature, because it's described as a very general nature in the witness summary, and not a -- as a boot strap to admit otherwise inadmissible evidence.  
+MR. LAHAIE: 
+And I was going to add, Mr. President, with your permission, that it's also part of the context of the events for which the Accused -- the defendants are accused, and part of the accusations levelled against them.  
+MR. PRESIDENT: 
+Mr. Lahaie, you have not made any mention of the witness statements that were served.  In your responses, you have not made any reference to the witness statements served on the parties in this matter.  
+MR. LAHAIE: 
+Those statements have all been disclosed.  And the one we're referring to is K0 -- 
+THE ENGLISH INTERPRETER: 
+Please, could counsel repeat?  Mr. Webster, could counsel please repeat the K-number.  It was too quick.  
+MR. LAHAIE: 
+The K-number is K0260876, a statement given by the witness on the 26th and 27th of February 2003.  And they were disclosed to -- this was disclosed to the Defence quite some time ago, and I'm referring in particular to pages 11, 12, and 13, which contain that information.  
+MR. WEYL: 
+Mr. President, with your permission?  To the extent that they are -- they precede the pre-trial brief, we are all the more surprised that we are confronted with items in the statement, whereas they are present neither in the indictment nor in the pre-trial brief.  
+MR. ROBINSON: 
+And, Mr. President, I would point out that I think the jurisprudence is very clear that -- and I can cite it to you, that mere disclosure in the witness statements does not cure a defective indictment, nor does it provide the notice.  Because we're not expected to be responding to everything that's in witness statements.  And I think it's very clear we have an indictment that doesn't include the Mudende university attack, so it's defective in that sense.  
+
+So if the Prosecution wants to introduce evidence of it, now the next enquiry is:  What can cure a defective indictment?  And it's the law that a -- it can be cured by a reference in the pre-trial brief, and we don't have that here.  So, the witness statements can't be relied on to cure the situation.  Thank you.  
+MR. LAHAIE: 
+If I could make a last point, Mr. President.  My colleagues have noted that we have not specifically accused their clients in the Defence of the Mudende massacre.  It is merely to establish the context, the background -- 
+THE ENGLISH INTERPRETER: 
+Counsel adds in English. 
+MR. LAHAIE: 
+-- which is important to assessing the matter.  
+JUDGE SHORT: 
+Mr. Lahaie, what is the nature of the evidence you want the witness to give about these massacres?  
+MR. LAHAIE: 
+Well, we wish to demonstrate to you that there was indeed a massacre at Mudende by the soldiers, gendarme -- and it was committed by soldiers, gendarme, and civilians, and the victims, of course, were Tutsi.  And they were not soldiers, they were students.  These are what we wish to bring to your attention.  
+MR. WEYL: 
+Mr. President, it would have been useful for the witness to remove his earphones for such words to be spoken, because I think everything has now been more or less laid on the table.  
+MR. ROBINSON: 
+And, Mr. President, I have something I'd like to add, but can the witness be ordered to remove his headphones.
+  
+MR. PRESIDENT: 
+Witness, you can remove your headphones now.  
+MR. WEYL: 
+Mr. President, but the witness understands French.  Without his earphones he won't understand the English interpretation unless he understands English too, but as Mr. Lahaie is speaking French, there's no point asking him to remove his earphones.  
+MR. PRESIDENT: 
+Mr. Witness -- could you?  We need -- yes.  We need to have a discussion with the counsel for the Prosecutor which we don't think you should hear.  So we're going to ask you to leave the courtroom just for a few minutes, and then we will call you back.  
+(Witness exited courtroom)
+MR. PRESIDENT:
+Mr. Lahaie.  If we were to give you liberty to examine on the issues relating to cooperation between the soldiers and civilians, how would you address that in terms of the details that the witness is going to be asked to provide?  We don't need a -- you to recite the witness' testimony, but if...  
+MR. LAHAIE: 
+Well, actually, it's quite simple, Mr. President.  The witness will say that the soldiers fired with their firearms at the victims, that the gendarme were present and were assisting the soldiers, that the gendarme killed the fugitives, and the civilians pointed out where the fugitives were to those hunting down the fugitives.  So, there was obviously cooperation between the three parties involved.  
+
+If the Bench would allow, there might be a decision that would assist everyone.  In the Ndindiliyimana decision, page 6, decision of Trial Chamber II of 15th of June 2006, I will paraphrase paragraph 27 where it says:  The essential question is -- is to know whether the Defence had reasonable notice of what we wanted to prove, and reasonable time to investigate, and determine the reason for the allegation.  And the Trial Chamber pointed out at the time that the Prosecution wasn't accusing the defendants of personal participation, but rather that of command responsibility, ie, of a superior over his subordinates.  
+MR. WEYL: 
+Mr. President, with your permission I think I should recall that Ndindiliyimana had particular responsibilities which are not necessarily those of the Accused who appear here on the basis of an indictment.  And I must say that Mr. Lahaie's explanation does not show any particular relevance for this line of questioning in respect of the accusations of -- levelled against the defendants, that the accusations against the -- the present defendants have to answer.  
+
+And I apologise to General Ndindiliyimana, whose name I can never pronounce properly.
+  
+MR. ROBINSON: 
+Yes, Mr. President, I don't have that decision immediately in my mind but I read it recently, and it seemed to me also the testimony was referenced in the pre-trial brief, which is what provided notice.  I think the question here is very -- can be very clear, because if you take the sentence "witness will testify about cooperation between soldiers and civilians prior and during to the massacres -- prior and during the massacres", so that the question for you is whether that sentence provides the clear and unambiguous notice of the events at Mudende university on the 8th and 9th of April, such that we would be naturally expected to believe that that event is going to be included in the evidence to be presented on the indictment.  And I don't think that anybody can take from one -- that one sentence and extrapolate such notice.  Because you could also interpret that sentence for every other massacre in Rwanda.  Not only that, but since it's "prior and during the massacres", every meeting that a military officer attended of a political party -- CDR, MRND -- could be considered to be provided as notice.  And indeed this witness speaks of many, many meetings in which military officers attended, which are not specified either in the indictment or in this notice.  
+
+So, I don't think that it would be fair to the Defence for you to read into that one sentence the opportunity for the Prosecutor to lead evidence of anything he wanted to concerning soldiers and civilians.  And given the fact that the Prosecution had the opportunity to plead these facts in the pre-trial brief and its indictment and didn't do so, any ambiguity is construed against them in the jurisprudence.  
+
+And finally I would like to call to your attention the decision of the Appeals Chamber of last Friday concerning judicial notice, in which you're directed to take judicial notice of genocide in Rwanda.  So, what is the purpose -- since there's no connection between the Accused and this particular event in Mudende university, what is the purpose of the Prosecution offering the evidence in any event, regardless of whether notice had been provided or not?  Thank you.  
+MR. WEBSTER: 
+Your Honour, if you don't mind I would like to offer a few thoughts on this matter.  
+
+It's literally impossible to plead everything in the indictment and the pre-trial brief.  If we were to plead every single allegation of fact, or every fact that a witness would testify to in the pre-trial brief and in the indictment, we would be dealing with documents 500 and 600 pages long.  It's simply impossible.  I think the question that the Trial Chamber has to address is:  Have the Defence been prejudiced by a lack of notice in the indictment of this particular incident?  
+
+This is context and background, and it fleshes out the witness' testimony, and it's in his statement.  I don't think the Defence is reasonably suggesting to this Chamber that they weren't aware of this allegation.  The crux of the matter is -- for us is giving the witness an opportunity to flesh out his account of the events.  
+
+The thrust of the indictment and the pre-trial brief is that the genocide resulted from coordination between civilian authorities, political party officials, and military officials and the military establishment.  And that's what this incident fleshes out.  So it provides the witness with an opportunity to explain his evidence in relation to concrete events that he witnessed.  
+
+The Defence is not prejudiced, they knew about this, it was in the disclosures, it's simply to provide the context and a coherent narrative for this witness' account.  We cannot plead every single incident in the indictment and the pre-trial brief.  
+
+If the Accused were being charged with instigating this specific attack, it would be different.  But what we're alleging is that it was the coordination between military and civilian authorities that resulted in this type of violence, and the Accused were indirectly involved.  And that need not be plead in the indictment in order to lead evidence on that point.  
+MR. WEYL: 
+Mr. President, I have the feeling that the Prosecutor's forgotten that one of the main thrusts of the Prosecution was joint criminal enterprise.  And accusing us (sic) of all events committed in Rwanda in terms that are very generalised -- the Prosecution won't -- on the indictment, and which leads to pulling into the net everything and everything (sic).  
+
+And if we were to add up the witnesses of whom the Prosecution has said at one point or the other that they would consider bringing them and then didn't, there would be 300 witnesses, and his reasoning is that in the final analysis, neither the indictment nor the pre-trial brief have any role in defining, in the eyes of the Accused, of what they are accused -- the defendants, of what they are accused, and what will be dealt with -- brought out before the Trial Chamber.  
+MR. SOW: 
+Mr. President, apart from our surprise, what is a point of 73 bis, or 73 bis of the regulations, apart from the surprise we feel?  Because that does stipulate a pre-trial brief, which is supposed to determine the events which will be covered by all witnesses and, at the same time, to indicate which part of the indictment, in respect of which -- which other parts of the indictment, in respect of which each witness is to testify.  Now, what we see when we see the summary regarding this witness, the only thing mentioned are two meetings.  Two meetings.  
+
+Now, the question I'm asking myself is:  In the final analysis, what is the point of the indictment?  And what is the point of the pre-trial brief?  And what is even more serious is that it is a waste of time, because when we do not know what are the items on which the witness will testify, we can net a very wide catch, and our learned friends opposite take -- want to take advantage all the time of overcoming shortcomings -- take the opportunity consistently to overcoming (sic) shortcomings.  And I think we should stick to a rigorous interpretation of the rules, and the Prosecution should stick to them.  And, once again, 73 bis is being violated consistently, which delays us further.  
+JUDGE SHORT: 
+Mr. Lahaie, is this particular massacre of any importance in your case, or is it being used only to demonstrate the cooperation between soldiers and civilians?  
+MR. LAHAIE: 
+Well, our main purpose is to demonstrate this cooperation between soldiers and civilians, the gendarmerie, and the militiamen.  And it is important for that point.  
+JUDGE SHORT: 
+(Microphones overlapping)... is incidental to -- it is not really the crux of the testimony which the witness is going to give, but it is context to demonstrate a cooperation.  Is that what you're saying?  
+MR. LAHAIE: 
+Quite.  How can we demonstrate -- show that cooperation between the various people I mentioned, soldiers, civilians, gendarme, and militiamen, if we cannot prove that -- to come to the conclusion that there was cooperation?  It's not the circumstances of the massacre, but I think it is -- or, at least to my mind, it is quite evident.  
+MR. SOW: 
+Mr. President, when I read the summary appended to the pre-trial brief, "The witness will testify as to the cooperation between soldiers and civilians before and during the massacres.  He will speak of an MRND meeting and a CDR meeting -- and the CDR -- or -- in February 1994 in Gisenyi, where loudspeakers were used to call for the training and the arming of the young Hutu."  So, for the Prosecution, they want to use that example to flesh out their theory.  
+
+But today we're going into massacres that do not concern our clients, to supposedly support that theory of cooperation between the military and the civilians.  I think the Prosecution would -- it would be an advantage as to the Prosecution to go back to what it has already stated, stick to that, and we will move on.  
+MR. WEYL: 
+I must note that the answer given by Mr. Lahaie to His Honour Judge Short is self-evident, because Mr. Lahaie -- Counsel Lahaie is telling us what he's aiming at the massacres at a (unintelligible) element of cooperation between civilians and soldiers, under conditions which is making the massacres an item of accusation which is not present in the indictment.  He wants to go into facts in order to come to judicial consideration which is not indicated by the indictment.  If it was that important in their theory, it should have been mentioned as such in the pre-trial brief, which was filed under Rule 73.
+  
+MR. PRESIDENT: 
+I think we have had enough.  We will reserve our decision and let you know tomorrow morning how we proceed in this matter.  
+
+Could you call the witness so we can just announce the adjournment.  
+(Witness entered courtroom) 
+MR. ROBINSON: 
+Mr. President, while the witness is coming in, perhaps the protected information sheet of Witness XBM could be admitted as Exhibit P. 33, under seal.  
+MR. LAHAIE: 
+That is correct, Mr. President.  It should be entered, under seal.  
+(Exhibit No. P. 33 admitted, under seal)
+MR. PRESIDENT: 
+Okay, Mr. Witness, the time has come when we must adjourn our hearing for today.  So, we take the adjournment now, and your testimony will resume tomorrow morning.  
+
+Now, I must inform you that during this or any other adjournment while you are a witness before our Tribunal, you are not to discuss the case or your testimony with anybody at all.  Do you understand that?  
+THE WITNESS: 
+Yes, I understand, Mr. President.  It's, in any case, not new to me.  I have been here and I cannot and won't communicate with anybody because of the legal constraints.  I have well understood that, Mr. President -- of the language restraints.  But I have in any case understood, Mr. President.  
+MR. PRESIDENT: 
+Thank you very much.  
+
+Well, we will take the adjournment now and we will resume tomorrow morning.  
+(Court adjourned at 1745H)
+(Pages 56 to 63 by Kirstin McLean)
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Kirstin McLean, Karen Holm, and Donna M. Lewis, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+___________________________	Kirstin McLean
+
+
+___________________________	 Karen Holm
+
+
+___________________________	 Donna M. Lewis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page i
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 20
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+KAREN HOLM - ICTR - TRIAL CHAMBER III - page 33
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 47
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+DONNA M. LEWIS - ICTR - TRIAL CHAMBER III - page 55
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+KIRSTIN McLEAN - ICTR - TRIAL CHAMBER III - page 63
+
+	KAREMERA ET AL	TUESDAY, 20 JUNE 2006
+
+ICTR - TRIAL CHAMBER III
+
