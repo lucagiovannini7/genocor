@@ -5,3 +5,5 @@ Please note that YUG-Mladic, YUG-Popovic and YUG-Tolimir have been zipped togeth
 
 * the "doc2txt" Python script was used to perform all aforementioned transformations.
 
+* the "doc2txt" Python script was used to check the correct sequence of the transcripts.
+
