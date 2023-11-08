@@ -1,0 +1,629 @@
+THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-01-71-T	THE PROSECUTOR
+CHAMBER I	OF THE TRIBUNAL
+	v.
+	EMMANUEL NDINDABAHIZI
+
+
+19 NOVEMBER 2003
+ 1410H 
+CONTINUED TRIAL
+
+Before the Judges:
+	Erik Møse, Presiding
+	Khalida Rachid Khan
+	Solomy Balungi Bossa
+
+For the Registry:
+	Ms. Marianne Ben Salimo
+	Mr. Sheha Mussa
+
+For the Prosecution:
+	Mr. Charles Adeogun-Phillips
+	Mr. Wallace Kapaya
+
+For the Accused Emmanuel Ndindabahizi:
+	Mr. Pascal Besnier
+	Mr. Guillaume Marçais
+
+Court Reporters:
+	Ms. Shannon Eboe-Osuji
+	Ms. Trish Grieg
+	Mr. Petrus Chijarira
+	Mr. Rex Lear
+
+
+I N D E X
+
+WITNESS
+For the Defence:
+BERNARD LUGAN
+Examination-in-chief by Mr. Besnier..................................................................................................1
+
+
+EXHIBITS
+
+Defence Exhibit No. D. 49.............................................................................................................40 
+Defence Exhibit No. D. 50............................................................................................................40
+
+
+
+      P R O C E E D I N G S
+MR. PRESIDENT:
+Good afternoon to everyone in the courtroom.  I understand that there was a slight delay because some staff was a little bit late.  
+
+Good afternoon, Mr. Witness. 
+THE WITNESS:
+Good afternoon, Mr. President. 
+MR. PRESIDENT:
+Is your full name Bernard Lugan?
+THE WITNESS:
+Yes, Mr. President.
+MR. PRESIDENT:
+When were you born? 
+THE WITNESS:
+On the 10th of May 1946, at Algiers.
+MR. PRESIDENT:
+And your profession? 
+THE WITNESS:
+University lecturer.  Lecturer, university professor, a lecturer.
+MR. PRESIDENT:
+I have a curriculum vitae here.  It is not signed, but is this your CV? 
+THE WITNESS:
+Yes, precisely, Mr. President.  Absolutely. 
+MR. PRESIDENT:
+Yes, all right.  You have to make a solemn declaration, like all witnesses, and the registry will now make the necessary arrangements. 
+(Declaration made by Bernard Lugan in French)
+MR. PRESIDENT:
+Defence, please. 
+MR. BESNIER:
+Thank you, Mr. President. 
+BERNARD LUGAN
+EXAMINATION-IN-CHIEF
+BY MR. BESNIER:
+Q.	Good afternoon, Expert. 
+A.	Good afternoon, Counsellor.
+MR. BESNIER:
+Mr. President, probably we would gain time if the Prosecutor would tell us whether he wanted to question the expert on his CV, or make observations on the expert CV, because if there were no objections on the part of the Prosecution on the CV, we should go straight into business.
+MR. KAPAYA:
+We haven't got a copy of the expert CV.  No, we don't have a copy. 
+MR. PRESIDENT:
+Well, we just found it in front of us now when we entered the courtroom. 
+MR. BESNIER:
+Very well.  I thought that the CV had already been served to the Prosecution, but this is not the case.  I am sorry for that.  I shall ask a few questions of the expert concerning his CV, and then we should go on to the report of the expert.
+MR. PRESIDENT:
+What you might wish to do is to simply allow the Prosecution to look, glance quickly through the CV. 
+MR. KAPAYA:
+Unfortunately, it is in French so we cannot make any -- you know, a quick assessment of it.  We'll give it to our assistant and see what can be done.
+MR. PRESIDENT:
+Go ahead, please, Mr. Besnier. 
+MR. BESNIER:
+Thank you, Mr. President.  In this case, I should like the CV to be offered as an exhibit, but following the testimony of Mr. Lugan.  This will give time to the Prosecution to look through the document.
+BY MR. BESNIER:
+Q.	Very well, Mr. Expert, if you take a quick glance at your CV, I see at the last line on the first page that you are a lecturer, a distinctive expert.
+A.	Well, this is the university language in the French system, as the French language would classify.  It means that my salary scale is at the highest; that is, the highest grade as far as salary is concerned.  For lecturers, it is an honour, and it is also financial in real terms.  Do you want me to go into details?  Is that answer satisfactory?
+Q.	We shall take a few seconds between the questions so the interpreters can interpret into English. 
+
+What subject do you teach?
+A.	The history of Africa, sir.
+Q.	And since when?
+A.	Since 1972.  My first post was at the National University of Rwanda.  I taught as a professor at the University of Rwanda from 1972 to 1983, first of all in Butare in the south and Ruhengeri in the north.  From 1983, I was appointed at the University of Lyon, and since that time I have been working at the University of Lyon.  That is approximately 30 years that I have been teaching the history of Africa.
+Q.	Apart from the period during which you taught at the University of Rwanda, did you travel inside Africa, especially around the Great Lakes and Rwanda, in particular?
+A.	Mr. President, my research area at the university is precisely Rwanda, because my thesis, my doctoral thesis -- and my doctoral thesis (interpretation unintelligible) is on Rwanda, pre-colonial Rwanda, colonial Rwanda, so that I stayed in various areas of the Great Lakes areas.  But it is not only the Great Lakes that I am interested in, because I published a history of Morocco, a history of Egypt, a history of South Africa, several general works concerning areas that are more expansive in Africa, especially -- this is a voluminous book that came out four years ago on the history of Rwanda; and I am ready to publish in April a book on the history of the genocide; and this week in the United States, a book entitled The African Legacy, which thought (sic) on the history of Africa by a research worker who has been roving the continent over the last 30 years and has come to a stage where he could put something down on paper from his own point of view.
+MR. PRESIDENT:
+The book that you just held up to us, I see on page two there that you have Livres publiés.  Which number is that book, please, on your list? 
+THE WITNESS:
+Mr. President, this is -- let me see through the list.  It is paradoxical to see that this book is not in my bibliography.  Perhaps I forgot.  Let me see.  Yes, thank you, Counsellor, twelve, History of Rwanda, From Prehistory to Our Day, 604 pages, 48 maps.  I'm sorry, Mr. President, for that.  Sometimes I get lost in my list of publications. 
+BY MR. BESNIER:
+Q.	Very well.  I believe that that suffices, appears to me to be comprehensive.  The Defence is happy about your competence as far as this area is concerned.  We could, therefore, begin to talk about your report, your expert report.  
+
+Expert -- you have served (interpretation unintelligible) report entitled, "Report by Bernard Lugan", expert witness before the International Criminal Tribunal for Rwanda; is that correct?
+A.	Yes, Counsel.
+Q.	Now, let us go through the report, the expert report.  We will be more precise concerning questions of pertinence to this case and Tribunal, but so far as questions I should like to ask you, Expert, we all know that the contemporary history of Rwanda appears to be linked to the coexistence of various ethnic groups on the Rwandan territory.  Very quickly, could you say more about that, about the ethnic groups, which are the ethnic groups, where do they come from, and when did they settle down in Rwandan territory.
+A.	Counsel, the question is very important because there is the (interpretation unintelligible) of reality, on the one hand, and then there is the imaginary.  It so happens that the imaginary is, of course, very determining in the events that came afterwards.  
+
+Now, I should like to dwell on a particular issue that is concerning the second point of your question.  Rapidly, I would like to say that this is all known that there are three ethnic groups, the pigmy, the Batwa, the Hutu and the Tutsi.  Now, when one says that one has said all, one has said nothing, because the Hutu and the Tutsi speak the same language.  They have the same religion, the same value systems.  They were aware of belonging to the same state.  Now, semantically speaking, these are not different ethnic groups; they are members of the same ethnic group because the ethnicity is cultural.  We are faced with another thing.  We are faced with two populations which originally were different, and the most modern and contemporary research on this issue would allow us to make considerable progress.  
+
+Now, the Hutu, for example, the (interpretation unintelligible) of the Hutu, that is the proto-Hutu, as they could be called, come from West Africa, following extensive migrations, that are known to linguistic archaeology, and Professor Vansina.  Now, these ancestors of the Hutus arrived when?  It is an open question.  It could be said that they arrived between 8 BC and 500 BC.  Now, we know that they didn't circumvent the forest by the north, but they crossed it from Manyema, and from Manyema, they went through Lake Kivu and Lake Tanganyika.  Linguistic archaeology would determine that the languages in those areas are proto languages of all the Bantu languages around the lakes, which shows the migration.  
+
+As far as the Tutsi are concerned, the situation is more complicated because of the official ideology of the Hutu monarchy, just as the official ideology of the Hutu monarchy was tantamount to saying that the Tutsi arrived recently.  Now, why is that?  Because when the last clans, the Nyginya, the Bega, gave rise to the contemporary and modern monarchy of Rwanda, when they arrived, they are talking about the last migration, because all of the Tutsi, just as all of the pastoral population in the Great Lakes areas and in East Africa, came from the north.  The phenomenon is well known.  It is related to the last phase of the drying up of the Sahara.  And those populations left the Sahara towards the Nile valley -- present-day Sudan.  It took them from 700 BC, and then they went down.  
+
+So that, firstly, in Rwanda and in Burundi, in the Great Lake areas and in eastern Africa, there are pastoral populations of the Tutsi type or Tutsi typology.  But those who were going to create modern Rwanda were the last to arrive.  They arrived in the 14th-15th centuries.  And in order to assert their (interpretation unintelligible) regions invented a divine origin, the Ibimanuka, "that which came from the sky", to determine their civilisation.  So that we are faced with a considerable contradiction here.  We know through archaeology, through history, that the proto-Tutsi, or the P-Tutsi, were there for more than 2,000 years, but the official Tutsi traditions, they ought to legitimise the presence of those people.  So that we are faced with two historical situations created by the Tutsi monarchy.  
+
+Now, the actual (interpretation unintelligible) is that the Hutu are going to use the official mystique, official Tutsi and dynastic mystique, to legitimise the 1959 revolution that we will talk about later on.  So that if you ask me when did the Tutsi arrive, my answer is that for the majority of the Tutsi population, probably 2,000 years ago, but for the leading clans and for the Nyginya, the Bega and the other clans, probably in the 14th or 15th century, because the migrations -- a long migration.  Here, we are at the crux of the entire contradiction -- of the contradictions in the Great Lakes area. 
+
+Mr. President, if we miss that point, we cannot understand the rest of it, because the history of Rwanda is based on a series of falsifications, but those falsifications are culturally dominant.  Hence, what is not said in the history of Rwanda is there.  
+
+Have I satisfied you, Counsel?
+Q.	Yes.  All that is very interesting, Expert.  We have gone very far into the past.  Now, let me bring you back to a more recent period.  You have explained to us, and I thank you for that, that one couldn't understand the contemporary history of Rwanda without shedding light on the more early history of that country.  You've talked about the ethnic groups.  Now could you tell us, on the basis of the history of Rwanda, the history of Rwanda, has it revealed any cleavages, differences, social, economic, political differences between the two main ethnic groups; that is, the Tutsi and the Hutu?
+A.	Counsel, yes -- there are two -- yes and no.  Yes and no, because it all depends on the area that you want to talk about.  It should be said that each and every one wanted to get their system to prevail.  The Tutsi didn't control all of Rwanda.  (Interpretation unintelligible) demonstrated this in his work, in his thesis.  Ferdinand Nahimana, who was one of my colleagues at the university, he worked on prehistory.  (Interpretation unintelligible) demonstrated that Hutu power didn't govern the entire Rwanda.  The Bushiro mountainous areas and the surrounding areas were controlled by the Tutsis during the colonial period only.  
+
+Now, what happened is that in former Rwanda we were dealing with royal domains controlled by the monarchy.  There were peripheral areas which, with history, would be dominated.  
+
+Now, the administration of the land was very peculiar.  The administration was three-fold.  In former Rwanda, that is before 1900, you had agriculture and pastoralism.  The mutwale wa butaka is the first on the line.  These stages are very important because Belgian colonialism brought up an upheaval and Tutsi-ised that area.  And then there is the second stage, and then the third stage, the herdsman.  The lead herdsman is very important for the Tutsi.  
+Now, it so happens that in the former Rwandan monarchy in general, three functions were held by the Tutsi chiefs -- in general, not all the time.  And we've seen many cases in which the land governor was Hutu.  So that the Hutu problem -- the Hutu-Tutsi problems were not there in the former monarchy, just as they are from the colonial period onwards.  They were not created by the colonial period.  But it is a matter of course that when the Belgian administration from 1924 and 1929 reorganised the administrative system in Rwanda, what did it do?  What did the Belgians do?  It extended throughout Rwanda what was prevalent in the areas of the Tutsi royal domain.  And it was at that time that we saw Hutu areas that had never been administered by the Tutsi being put under Tutsi chief administration.  And from that time onwards, the (interpretation unintelligible) hierarchy had no Hutu.  Before independence, out of the 555 sub-chieftains, there are only about 14 left.  
+
+Now, this shows the development of these administrative situations.  That is why I am saying yes and no -- I'm answering yes and no to your question.  Is that acceptable to you?
+Q.	Very well.  As we said, this is very important.  Perhaps you should speak a little bit slower so the English interpreter can follow you perfectly.  
+
+Now, you were talking about the colonial period of Rwanda just now.  Up to what date did that colonial period extend?  At what date did Belgian colonialists exercise power over Rwanda?
+A.	Well, one thing, there were no Belgian colonialists.  It was in '62 that Rwanda became independent, with self-government in 1961.  Throughout the Belgian period, this was what it was before the Belgian administration from 1897 to 1816 was -- 1917, it was -- Germany was there.  It was the United Nations that entrusted it to Belgium, and the United Nations confirmed that tutelage to Belgium.  So that there was no, so to speak, colonisation by Belgium.  Congo was a different matter, between '47 
+and '42 (sic).  There was a report we had given to the United Nations on their mission.  The mission was to get Rwanda -- to lead Rwanda towards independence.  There were not masters there.  Rwanda wasn't a colony.  It was an indirectly administered area. 
+Q.	Now, to the point, then, how administratively and politically was Rwanda administered before the 1959 revolution, and what was the role of the various ethnic groups, that is, the Hutu and the Tutsi?
+A.	Well, there was a vice-governor that was in Rwanda.  There were ten territories with territorial leaders.  There was a certain number of chieftainships, and a certain number of sub-chieftainships.  After 1924, we had 47 chieftaincies and five, six, seven sub-chieftaincies.  It is through these chiefs and 
+sub-chiefs that Belgium governed.  But it was not Brussels; it was Kabgayi; it was a Catholic mission in Belgium: all of them participated in the administration of that area.
+Q.	Now, this system, was it stable, or up to the time of the 1959 revolution did it change considerably?
+A.	No, not considerably, but there were arrangements here and there in the following sense.  Belgium tried, as soon as 1949 and '50, tried to associate the Hutu more to the administration and created the supreme council for the country.  And in that supreme council, that was dominantly Tutsi, Belgium tried to inject more Hutu.  But you can say that the administration was not the crux in the genesis of what happened and which led to 1959.  
+
+I believe that the most important thing is to see -- let me come back to the religious aspect, which is very basic in determining.  The colonisers of Rwanda was the Catholic Church.  It was -- the Kabgayi archbishop was the real master.  A policy in Rwanda developed between 1916 and 1962 and was developed in Kabgayi.  And during the first republic it was done at Kabgayi.  We'll talk about this later on, but what is essential here is to see the manner in which the Catholic Church developed.  Because all the stakeholders in Rwanda, all things in Rwanda, are affected by the way the Catholic Church developed.
+Q.	Now, let us go into the details.  Thanks to you, we know that the church played a considerable role between -- 1959 revolution.  In which manner did it play a role vis-à-vis the ethnic groups?  Did it favour one to the detriment of the other or vice-versa?
+A.	No, the Catholic Church came on the basis of a lie, a state lie.  It came to chase the slave traders, which never were in Rwanda, because there were no slave traders in Rwanda.  They were accused of being in Rwanda.  Of course they wanted an argument.  They had problems in Uganda with the Muslims.  They had problems with the court in Belgium.  They had problems with the Ugandan matters, which were very well known.  They had problems everywhere.  In East Africa, the Protestants were there.  Rwanda was a virgin, so far as external religious influence was concerned.  So they had to come in very quickly.  They used the slave trade as an excuse to come into Rwanda.  They came into Rwanda in 1889-1900.  
+
+So they were received courteously at the court because they were sent by the Germans.  The people in the court were very careful; they couldn't receive them otherwise.  Now, they were given land to keep them aside in the south (interpretation unintelligible) where they set up their first mission.  That was against the royal power.  
+
+Now, so that there was the order of the white fathers with Cardinal Lavigerie (interpretation unintelligible), babouche dress and chéchie, in sort of eastern-looking attire that was meant to re-evangelise the people in East Africa.  They came to Rwanda to change the religion of the chiefs.  
+
+Now, the Tutsi did not want anything about that religion.  They did not understand it.  They didn't know the basis of Rwandan civilisation.  So that was the first contradiction, because -- now, who was going to be converted first?  Of course it was the Tutsi power that -- it was the Hutu who understood that the missionaries were powerful, they were supported by Germany, and they arrived.  They came in with people that transformed the feudal relationship from the Tutsi chief to the Catholic mission by saying the missionary protector will be higher than the chief; at any rate, he will be less exploitative than the chief.  So that the missionaries that came to convert the chiefs saw the rebellious subjects of the chiefs convert themselves.  So that when the 1914 war erupted, there were no Tutsi who were baptised, but thousands of Hutu were baptised.  
+Now, as far as the court is concerned, royal court, people were beginning to think chiefs were saying, "Well, is our competition correct?  If we continue along these lines, most Hutu will be Catholics and we're going to lose.  Our power will be gone".  And the movement developed from 1916 onwards, when the Belgians gave more support to the missionaries as compared to the Germans, because the Germans had maintained parity between the Protestants and the Catholics.  In 1916 there were no more Protestants because they went with the Germans.  So there were only Catholics.  The (interpretation unintelligible) Catholics, that's Belgians, supported the missionaries.  So that the Tutsi chief -- well, it is time for us to change policy.  
+
+Now, Monsignor Classe, Léon Classe, that is the Archbishop of Rwanda, felt that there was a chance.  He established contacts with a certain number of young chiefs that were around King Musinga, and they signed an agreement, a gentleman's agreement, we may call it, an agreement.  We are going 
+to -- the Tutsi said, "We are going to be converted, but you will help us in our power".  "Yes", say the missionaries, "but your king must go, Musinga" -- this is an article written by Monsignor Classe -- "and we will replace him by a Christian".  And this is what happened.  Belgium supported the missionaries' policies.  In 1931, Musinga -- King Musinga, M-U-S-I-N-G-A, is taken away, is sent out to Congo on exile.  And one of his sons, his older son, reigned under Mutara III.  He was seen as the representative of the whites, the missionaries. 
+
+Now, having done -- having abdicated forcibly, the missionaries broke the backbone of what was formerly Rwanda.  From that time onwards, the Tutsi system changed totally.  It changed totally because it was totally under the missionaries and the colonial powers, hence the events that came afterwards.  
+
+And for the Catholic Church, the result was extraordinary.  We're talking about the time -- in Rwanda we are talking about the Holy Spirit being like a tornado.  We're talking about Christ.  The king in 1946, Mutara, the king of Rwanda, consecrated Rwanda under the king.  We are talking about the maximum stage of Tutsi alliance, alliance between the missionaries, Belgium, and the Tutsi.  The Tutsi was no longer traditional; it became powerful.  At any rate, before colonialism it had never had such power, and Tutsi power was generated very strongly.  And from that time, there was a total disruption, Counsel. 
+MR. PRESIDENT:
+Am I right -- this is, of course, extremely interesting, but am I right in assuming, Mr. Besnier, that what you are particularly interested in is the period after multipartism and maybe the way the parties developed, and the factions and so forth?  Because that seems to be maybe where this expert could be particularly helpful.  So if you could assist us a little bit.  
+
+And you, Mr. Expert, we are certainly listening with great interest, and we are always interested in the history of Rwanda, but if your answers now could be slightly briefer so we can now concentrate on the period where we get closer to the political voices.
+MR. BESNIER:
+Yes, Mr. President.  We've gone over a few thousand years in just a couple of minutes.  Now let's come back to a more contemporary period.  As the expert said,  this information is, however, essential to understand the tragedy of 1994 in Rwanda.  
+BY MR. BESNIER:
+Q.	Now we've got to about the end of the 1950s, Mr. Expert, and from the information you gave, I understand that the church and Belgium created an imbalance between the ethnic groups and in the exercise of power.  Now, did that imbalance -- is that imbalance the only cause of the revolution of 1959, or were there other causes?  In other words, how did the revolution of 1959 happen, and what was behind it?
+A.	Counsel, this is an important question and it also helps me answer the President's question.  
+
+Let me just open up an aside.  The origin of Hutu power in 1971-1974, began in 1957.  If we don't see how it was borne, Mr. President, we will go blindly ahead.  It is excessively complex.  We must have this background because phenomena will come one after the other.  
+
+What happens in 1955?  The alliance between the Tutsi monarchy and the Catholic Church and Belgium starts to break.  It breaks in 1955 precisely because two essential parts of the alliance change.  A new vice-governor is appointed to Rwanda.  Harroy, H-A-R-R-O-Y.  Monsignor Deprimoz, the bishop, is replaced by Perraudin, who is a Swiss bishop.  These two men want democracy by majority, differently from their predecessor, who supported Tutsi power.  They wanted the victory of democratic majority, and they would do everything to install a majority in Rwanda, and so the Tutsis would be all alone and have the impression that they were betrayed, betrayed by their religious supporters and by their political supporters.  What would Mwami do?  He's going to turn to the UN, to the UN, the protectorate.  
+
+And the Mwami, the Tutsis -- and here we're at the heart of the issue -- will become nationalist and claim immediate independence.  
+(Pages 1 to 9 by S. Eboe-Osuji)
+
+
+
+
+1445H
+THE WITNESS (continuing):
+And the Hutus, on the other hand, will say, "No, we don't want independence right away.  Oh, our great missionaries and Belgian fathers, please stay".  They were afraid.  They knew if elections were to take place for independence given to the Tutsi, their majority democracy would never come to pass.  And they were before a paradox:  Rwandan independence would not happen against -- would not take place against a colonial power, but an interior colonial power.  The Hutus will use the external colonial powers to chase out those who represent the interior colonial power, that is to say, the Tutsis, and that is where the ideology of Hutu Power comes from.
+BY MR. BESNIER:
+Q.	On a practical level, how did this revolution break out?  Who lit it and how did the bomb explode?
+A.	The Hutu-Tutsi question is never put to Rwandans before 1957.  It is taboo.  You don't talk about it.  Everybody knows who the Tutsi and Hutu are, but the official version is that there are only Rwandans.  They are different, but they are unified in Rwanda under the unificating monarchy.  
+
+What happens in 1957, therefore?  Some Hutus from the southern region, mostly from Gitarama and some from Savi in the south, published what was called the manifesto of the Bahutu in March, in March 1957.
+
+And here we see a rupture, Mr. President.  Why is there a rupture?  Because the manifesto of the Bahutu exposes all of the cleavages that existed that were taboo before.  It globalises the Tutsi and the Hutu worlds.  It considers that all the Tutsis are feudals and that the Hutus are serfs.  What are they going to do?  What are the interior colonisers going to do?  They are more dangerous than the external ones.  They are going to use the Belgians -- external -- to try to eliminate the internal colonisers.  Who signs this manifesto?  This is fundamental, because then we see the parties in the multi-party state.  This is why it is important to explain this background, Mr. President, because we can only understand multi-partyism if we look at the essential parties that are born at this time.
+
+There are nine signatories, seven from Gitarama and two from Savi (phonetic).  They have -- well, there is a common thing between them, they are all Hutu and they are all very devout Christians.  Several of them have just come out of seminary.  And the two leaders of the group, Grégoire Kayibanda, later to be the first president of the first republic, and Joseph Habyarimana, who has no relationship to President Habyarimana; Habyarimana.  Gitera, Joseph Gitera, was about to become an ordained priest.  So they were really from the Kabgayi bishopry.
+
+What would these men say?  What would these leaders say?  They are going to tell Belgium, "Let's not have immediate independence.  No, not right away", and Belgium will be sensitive to this argument.  Everywhere else colonists are being chased out, but in Rwanda, "Please stay, colonists".  The Belgian colonists say that, "This is magnificent.  They want us to stay.  This is great.  But the bad people, those are the Tutsis".  What happens then?  The Tutsis feel betrayed; they are going to provoke.  What are they going to say:  "You want to secede.  You want to divide us".  There was never a Hutu-Tutsi problem in Rwanda, and the Tutsis on the 4th of April 1958 are going to say that there is no longer Hutu or Tutsi, they want to completely suppress on identity cards the mention of ethnic group.  So, in 1958, in April, they want to suppress this from identity cards.  
+
+Mr. President, I would like to read you a very interesting page why the Hutus would refuse that by saying -- here we are at the genesis of these events.
+THE ENGLISH INTERPRETER:
+Can we have the indication for the page, Mr. President? 
+THE WITNESS:
+"We are Bahutu, we will remain Bahutu, and we do not at all want to see Bahutu removed from anything, but Tutsi Batwa removed from official documents.  We want Muhutu, the singular term, to be proudly used and frequently used so that it will be rehabilitated".  So, they become radicalised.
+MR. PRESIDENT:
+What you read from there, what was the source, please? 
+THE WITNESS:
+Yes, this source is called Deliberations of the National Superior Council of the Country, 6th July 1958.  These are the official archives of Rwanda.
+
+Would you like another source Mr. President?  I can give you another source.  You will find this reference in my book, in fact.
+MR. PRESIDENT:
+The system here is that we have your report in front of us, and whenever a reference is made it is important either to find out whether it is in the report or whether there is some other source, and you have now confirmed that this was some other source and you have given the reference, and that was very helpful.  Thank you very much. 
+THE WITNESS:
+Yes, indeed, Mr. President.  Thank you for clearing that up for me.  I have one report here and the document on the other side; I can sometimes mix them up. 
+
+Now, we can see this Hutu ideology being created, an ideology affirming themselves in front of the Tutsis.  Once again, Mr. President, this idea did not exist before in the old Rwanda, in the pre-colonial Rwanda; this never existed.  They became radicalised during the colonial period.  Mwami protested this.  He said, "We are all Rwandans, after all.  This will divide us, and this must stop".  But it was already started.  The Hutus would go even farther in their radicalisation, until we find something we hear in the 1991-1993, discourse.  These are not -- the people who spoke in '91 and '93, the radicals, were not the ones who invented what they said.  It was invented back in 1958.  This means that radicalisation began and political parties would start to exist, and they were going to use these things.
+BY MR. BESNIER:
+Q.	Thank you.  You said that the issue of confrontation between the ethnic groups was taboo before 1957 -- after 1957, and specifically after the revolution of 1959 the cleavage between the ethnic groups got deeper.  Were Tutsis the victim of bad treatment and violence or even massacres on the part of Hutus?
+A.	Yes, indeed they were.  It wasn't so fast, though, Counsel.  You must realise that at that time there were many political parties being created.  There were Tutsi parties, but Tutsi parties would be conservative, but they didn't really act.  There were mostly two Hutu parties behind several political movements.  First they began in the south in Butare, and a party was called APROSOMA, A-P-R-O-S-O-M-A.  It is the Association for the Social Promotion of the Masses.  Its leader is Joseph Gitera.  And what do you see in their program?  What do you read in their program:  "Rwanda shall no longer be a colony of the Tutsis.  They should not reduce the native Hutu to slavery".  Another party, this is created in the northern part of the country, and this will be very different.  It cannot get to the southern part of the region because it is blocked by APROSOMA.  You see Gitarama in the middle of the country, where APROSOMA has influence.  This other party needs activists and supporters and members.  This party turns to the north for support, and here we are at the origin of the alliance during the first republic between some northern zones and the region of Gitarama.  This party would recruit in Ruhengeri.  It will go to recruit in Gisenyi.  And what is the difference between the Parmehutu, this new party, and the APROSOMA?  They have the same political idea in opposition to the Huti (sic), but the Parmehutu always mentions its association with the Catholic Church, and this is a party supported by the Catholic Church.
+
+So in 1959 everybody is in place, everybody for the revolution is in place.  The UN is faced with a major issue.  The UN, indeed, has given over to Belgium the mission to lead Rwanda to independence, but not at the price of a revolution, not at the price of abolishing the monarchy.  The UN sees that there is a disequilibrium between the Rwandan monarchy, Tutsi, which is more and more isolated, and a new alliance between Hutu, the church and the Belgians.  So the old alliance between the Tutsi, the church and Belgium is replaced by Hutu, Belgium and church alliance.  Belgium completely changed its policies, therefore. 
+Q.	Thank you, sir.  You spoke about the Hutus; let's clarify things.  Starting in 1959, starting with the revolution of '59, how is political power exercised?  What is the nature of it?  Is it a presidential power?  Is it dictatorial power?  Are there elections?  Starting in 1959, how is power administered in Rwanda?
+A.	Counsel, you are asking me how the 1959 revolution took place.  We are right before the revolution; Tutsis are still in power; the monarchy is still there.  We must see how the monarchy is overturned and how the republic is proclaimed.  Is that the question you are asking?
+Q.	Yes, sir.  How did the 1959 revolution take place, and starting from that revolution, how was power administered over Rwandan territory?
+A.	The 1959 revolution was brought by two men, the church and Belgium.  There was one military leader and the Governor, Harroy, H-A-R-R-O-Y, and the military chief was Colonel Logiest, L-O-G-I-E-S-T, the military leader.  These two men have written their memoirs, and they are very exciting to read.  They are pro-Hutu activists.  When he arrives -- when they arrive at the head of the Belgian administration in Rwanda, they acted against New York and the UN and against Brussels to place the Hutus in power.  The colonel, Logiest, was very clear; Governor Harroy as well.  I can give you entire passages in their books and memoirs where they speak about their common combat for democracy against feudalism and against colonialism.
+
+I will not dwell on this, because I have the impression of what I'm telling you, all the historical background, might be a bit long for you.  But I will have to stop myself, and that's a bit unfortunate, because we are going to miss some links between some of the things that I want to talk about.
+
+So this revolution is started by Belgium in 1959.  Minor incidents become major ones.  Belgium intervenes, and on the 11th of November 1959 the new state is proclaimed.  The Belgian paracommandos intervene, and each time the Tutsis react forcefully against the Hutu, the paracommandos intervene against the Tutsis.  Belgian soldiers stay, and so Mwami, the king, loses control.  Tutsi power is destabilised.  The subversion worked, and the monarchy is broken.
+
+In 1960 there are communal elections, and they are boycotted by the major Tutsi parties, the UNAR, the U-N-A-R, the National Union for Rwanda, and of course the Hutus win the election.  It is a majority democracy.  The Tutsis are 15 to 20 per cent, the Hutus are 80 per cent.  One man, one vote; it gives the power to the Hutus.  And so what the Tutsis were fearing, happened.  Majority democracy is born.  From that time, on the 18th of October 1960, the governor, Harroy, gives the power over to the Hutus, creating a provisional council of 48 ministers, and that provisional council will define the creation of a provisional government with a prime minister who is appointed, and that is Grégoire Kayibanda, therefore the man from the Parmehutu from Gitarama that we spoke about earlier. 
+
+But, the game is not finished.  The UN does not want to be overtaken by this revolution without having its say.  It feels that it hasn't been considered as politically legitimate, and so the UN demands legislative elections -- they don't want legislative elections to occur, rather, as long as Tutsi refugees haven't come back to the country and as long as the pacification in the country has not gone under way.
+
+Brussels agrees with the UN.  What will happen?  The Belgian governor has a coup d'état.  He disagrees, he disobeys.  They bring about a coup d'état.  They encourage the bourgmestres the government put into place and Hutu authorities to unite, meet on the 28th of January 1961 in Gitarama, and the republic is proclaimed at that time.  The UN is put before a fait accompli.  The UN can no longer lead a country to independence, a country which has just proclaimed its own independence.  By claiming independence, there is no more monarchy, the feudal Tutsi power is overturned, and 28th of January 1962 we have the total independence of Rwanda. 
+Q.	I am completely following you, expert.  You spoke of a problem of refugees and pacification.  Does that mean that that revolution of 1959 was accompanied by violence, violent acts or pogroms, and, if so, who were the victims of such acts?
+A.	Yes.  There was a series of massacres and killings.  If you wish, we can begin to say that even the genocide of 1994 was not an invention from 1994.  The genocide of 1994, over history, begins in November 1959.  There will be variations, but there will be phases of massacres.  The first phase, it is not very bloody; there are deaths, but relatively it is under control.  The Belgian army is still there; it stops most of the massacres.  We are in 1959, in November.  Chieftains think it is better to leave; "Things have gone bad.  Rwanda, which was ours, is no longer ours.  We can no longer live here".
+
+Now, between 1960 and 1961 we see a phenomenon develop towards specific eliminations of persons.  You will see little killings across Rwanda, one individual, one group of individuals, but it is not large scale yet.  And then in the end the situation becomes crystallised in 1963 and 1964.  At that time, there is mass murder, there is a kind of genocide, but it is a small genocide, small scale.  Would you like me to talk about that, Counsel?
+Q.	Yes, please do, sir.
+A.	What happens?  This is at the end of 1963.  Some Tutsi refugees are going to raid Rwanda.  They call them Inyenzis, Inyenzi, which is also a cockroach.  They are called cockroaches by the Hutus.  Now, they raid the country.  These weren't really raids, they just had a few people, peasants, with some traditional weapons, some of them had some firearms, but there was never a military plot described in the propaganda at the time.  Nevertheless, the Hutu government becomes afraid.  These Inyenzi are pushed out, in part, by the Belgian army, and after that in January 1964 they launch a concerted plan for massacres.
+
+What is interesting to see is that these massacres are not going to take place in the north.  They will spread to the north, but they break out in Gikongoro, in that region, which is a region controlled by the Parmehutu, and I told you the Parmehutu terminate.  You want to look at the origins of the Hutu Power.  I have scientific evidence that backs this up.  This is why I am continuing to speak of the genesis of the Parmehutu.  We will see the same phrases over and over in the decades.
+
+In 1964 we have a concerted plan, but unfortunately for the victims there is no communications in Rwanda at the time.  There's no NGOs, there's no observers, there's no journalists in the country.  All communication networks depend on the Catholic Church.  Who is in charge of the Catholic Church in Rwanda at the time?  Perraudin, Monsignor Perraudin.  He is the one who put the Hutus into power.  So it is evident that one year after putting them into power Monsignor Perraudin is in a bad spot.  How can he denounce the massacres that his protégés are committing?  What about the alliances with the UN and the western countries?  This first republic was a triumph of democracy against feudalism and arbitrary Tutsi power.  He is in a bad spot to denounce the massacres that are going on.  That means that this genocide is silent.  It is a closed genocide.  Nobody knows about it.  There are no observers. 
+
+How did the genocide of 1964 occur?  Here, Mr. President, I believe that we have elements, documentary elements that we can find in the future.  How would this happen?  In Gikongoro, the minister of agriculture at the time comes to that region; a small meeting with the prefét.  The prefét calls the bourgmestres.  The bourgmestres call the activists of Parmehutu, the official party.  The order is given to chase down the Tutsis, and only in that prefecture of Gikongoro there are between eight and twelve thousand Tutsis who are killed.  We don't have the exact numbers, I can only give estimations, and I am a researcher and I don't want to give you approximations.  They are vague, but certainly there are thousands.  We can't be more precise than that, however.  
+
+What will happen?  Two hundred to three hundred thousand Tutsis will leave for exile, so the movement of refugees that began in 1959 and spread to '60, '61, will be amplified in 1964.  The refugee camps from that time grow; the refugee camps, but also refugees move to Burundi.  They move to Congo, Zaire, and other neighbouring countries.  So here we are faced with the first reality of a genocide, which is very important.  It won't be surprising to see that the Parmehutus' offspring will continue with the Hutu Power, just like their founding fathers before them.  It will continue.  This is why we must use historical perspective to explain events. 
+Q.	Very well, thank you.  Let us come back to the Hutu party after the 1959 revolution.  Was that party united or divided, that party?
+A.	Now, after '59 there was only one Hutu party, only the Parmehutu, because the opposition at the time was not another Hutu opposition as it is in the south, the opposition is between southern Hutus, Parmehutu Gitarama, and APROSOMA Gitarama.  Now, since the Parmehutu party wanted to impose itself on APROSOMA, it was this time as the general spokesman of Hutuism.  It will turn to the north, to Gisenyi and Ruhengeri, and there will be sort of a division of labour there.  Political power was entrusted to the central Hutus in general, and the army was left to the north Hutus.
+
+Now, Counsel, this question is very important, because we are talking about 1963-1964.  In that period the armies were not a source of power in Africa.  The period of major military coups d'état came about in '66, '67 up to '70.  At that time in the independent countries the elite that ran those countries were civilians, very often from faculties of law, faculties of arts in French universities.  It is not like the period following that, when the military took power through coups d'état.  So that it is not socially correct or beneficial to be an army man, so that they kept the political power and left the crumbs to the army.  Especially in Rwanda; the army didn't mean much, it only provided security.  And that they will regret, because the army had to take (interpretation unintelligible).  So that an opposition it was in the centre south which transformed itself into the Gitarama Parmehutu and englobed the whole of the Hutu world subsequently.
+Q.	Now during the same period, did we have Tutsi kings and how did -- or Tutsi movements?
+A.	There was a Rwandan national movement; it is no longer there, it went into exile.  Another movement, nostalgic, composed of old chiefs, had no control over the events or over the refugees, so that very gradually young refugees, sons and daughters of refugees, began coming into the political game in Uganda, for example, and in East Africa, and the anti-colonial movement was big, so the traditionalists were no longer there.  
+
+Now, the other Tutsi party, that is, rather, the Rassemblement Démocratie de Rwanda, which was only marginal, it also disappeared in the years of independence.  So that the Tutsis were on the decline from 1959 to 1960.  The Tutsi that remained in Rwanda were to consider themselves lucky if they were alive.  They had nothing else to do, they only had their business to do, but nothing to do with politics, and they shouldn't attract any attention.  They were second-class citizens, so to speak.
+Q.	Thank you, expert.  You have given us a clear picture of the Hutu movement and what happened to the Tutsi movement.  Could you briefly tell us developments, political developments between 1960 and 1973?  Was the power satisfactory to the Rwandan people?  Was it the expression of the autonomy of the Rwanda people?  Was it confronted with political, economic or military problems?
+A.	Now, they used to say one thing in Rwanda -- I was in Rwanda, I came in in '72 -- they used to say the Parmehutu governs Rwanda, and Gitarama governs the Parmehutu.  So that nationally, the Hutu nationalism was just never there.  We went to the stage of regionalism.  So that there was a slip between a Tutsi power, which was a power that governed the whole of Rwanda, with contradictory social reports that I've told you about, and a power that didn't see Rwanda as a whole but saw Rwanda in terms of regions.  And the entire share of Rwanda from 1963-64 to 1973 -- 1994 changed a little, but there was a sliding scale for one micro-regionalism to the other and the history of the internal definitions within such regionalisms.
+
+So that the Kayibanda regime was a regime that was brought out, naked, by the Catholic Church, supported as it was by Belgium, a regime that rushed into a political catastrophe, and the political game was closed.  That must make the people from Butare, that is the south, that is, the former APROSOMA people, were set aside, with a few exceptions.  So far as the northerners were concerned, they had played the game of the union with Gitarama's end for several years.  The northerners had lost their patience.  
+
+When President Kayibanda wanted to turn in for a fourth residential term of office, things changed between the various regions and the regime had its back up against the wall because of political and economic problems.  And many difficulties arose, and the more the difficulties were the more they turned to Gitarama, and instead of spreading they really concentrated on Gitarama to the tune of 80 per cent, and the government had its back against the wall.
+
+What did it do?  The magic wand is used.  The scapegoat was the Tutsi.  They tried to use that to create Hutu unity around Gitarama, around the Parmehutu, and this began from January 1973.  It was accelerated in February 1973, and then what happened?  They developed a term that one cannot translate into English.  In my first report that was translated, the scouring away, (interpretation unintelligible), to scour away, to hunt people out; it was not by force, they were told to leave, to go.
+
+Now what happened?  The militants of Parmehutu, in all their administrations, came with their lists.  They came with lists, and once again a certain number of responsibilities that we will see again in 1994 originated in Gitarama, not in the north, but in the first republic.  The linkages are all there.  And this purge went through the universities -- for example, the night of the 15th or 16th February -- in a violent manner.  A personal example, in one night I lost half of my students.  They were beaten up, and I couldn't lecture any more, because the students were not there.  I had to wait for June.  All the students were sent away, and it was surprising to see later on that some of those that were the killers came together in camps that were opposed, up to 1998.  So that the situation was not healthy.  The government was not sure of itself, and the government was scared of the army.  The government was faced with a policy of contradiction, because on the one hand it was coaxing the northerners, the northerners -- that is, the militant heads, that is General Major Habyarimana Juvénal at the time, and some chiefs wanted to kill him.  So that there was a contradiction, total contradiction.
+
+We were in a world that could be compared to a time bomb.  The situation was very serious, and on the 5th of July 1973 Habyarimana cut the Gordian knot and General Habyarimana with his committee of public safety toppled the republic, toppled the Gitarama system, which was fruit that was ripe and ready to fall.  And I can say -- tell you something I experienced:  that coup d'état was welcomed with great relief.
+
+I think we should keep things in perspective and be objective, and we should not be carried away by ideology or propaganda.  I can tell you here that that coup d'état was welcome.  It was a relief, welcomed with a sigh of relief by the Hutu, by the expatriates, except for those that ran Gitarama at the time; except for them. 
+Q.	If I get you correctly, expert, we are now at the 1973 coup d'état.  Now Kayibanda's power enhanced anti-Tutsi confrontations and a drive to enhance his own power, and he failed.  But was that the only cause of the 1973 coup d'état? 
+A.	No, I cannot say that it enhanced.  He organised -- he created all of that, because you had militants coming in with their lists that earmarked Tutsi (interpretation unintelligible) and Tutsi students.  Some were killed here and there during those events.  Men and women were killed here and there.  It was a movement that was organised for a very simple reason:  the regime was at the end of its tether, and it used the Tutsi scapegoat.  The regime would not have been toppled if it had been only that.  It was toppled because everything was shaking.  Everything was machinations, traffic of influence, favouritism, plots.  One should have experienced it at the utmost in Rwanda at the time to get to know what really happened.  It was like it was the day the earth -- I mean the world was going to end.  And it was General Habyarimana that resolved the issue, that settled the question.
+Q.	Let me come back a little.  You said that the government at the time organised the anti-Tutsi pogroms.  Now, did that organisation here and there come with spontaneous anger against the Tutsi in the hills and in the university?
+A.	Not to my knowledge.  The movements, those that scoured away, is different from the type of movement that happened in 1963, because those that ran away or got to run away were not followed to be killed.  It was there, because -- it was there to show that the administration was nice enough to have Tutsi in the government.  So that was a political move to show the Hutu that the government was a Hutu government all the same, and it was for Hutuism.  There were mistakes, of course there were mistakes.  For example, I saw -- the university was closed, and since there were no classes any more I had to go, I took my vehicle and went to Kigera where I used to work at the time, and I saw (interpretation unintelligible) on the road to that area, there were some huts that were burnt down.  So there were events that took place that were very tragic.  We don't have enough documentation on that, but I wouldn't like to dwell on something that I do not know about thoroughly. 
+Q.	Now, did those events occur all over Rwanda or only in certain areas?
+A.	Now, to my knowledge, in the whole area of Rwanda, perhaps with less intensity as compared to those in Kibungo.
+Q.	Well, thank you, expert.  Let us come back to the 1973 coup d'état.  Very quickly, in a nutshell, what happened?
+A.	It happened just as anything that happened in Rwanda; we learnt about it over the radio.  Well, I learnt about it in a different manner, because I was going to Kigali.  I was called over the radio for an administrative matter, and I was stopped at the Kigali bridge roadblock.  Throughout the morning I saw vehicles coming in the other -- from the other direction.  They were being stopped and they were telling me, "You are going to Butare.  Something is happening there", and when I got to Butare there was a military coup d'état.  A committee for public salvation was established, and there was a coup d'état, and that coup d'état was very well received by the population. 
+Q.	Now, you were saying that the coup d'état at that time was welcome.  Was it welcome in terms of its duration?  Habyarimana, was he called to do that, or did he play a role in the events?  Was he for regionalism, the regionalism that beset Rwanda during the '60s? 
+A.	Well, you are jumping the gun here, because there were two periods.  There was the euphoria, and then the regime getting bogged down.  There was the phase of optimism.  General Habyarimana had a very clear discourse.  He said all Rwandans have equal rights; the divisionists should go.  General Habyarimana had a very pacifying discourse, and to the Parmehutu he said, "Our revolution was indeed sold by a clique, and I'm going to put the revolution back online in a disinterested manner".  But that clique, the Kayibanda clique, they toppled it, of course.  Later on General Habyarimana undertook to purge the people of the first republic, and they were all sent to the sinister prisons of Ruhengeri.  But all the spokespeople, spokesmen and women, supported the coup d'état, and the Catholic Church, too.  The Catholic Church was there at the face of Rwandan history.  The Catholic Church immediately disseminated the following message:  "General Habyarimana is a member of one of the oldest families in Rwanda.  His wife was a fervent devout Catholic.  It is a pious couple.  This couple is going to run -- the general is going to run Rwanda like the head of a family, and he is a good head of a family".
+
+Let me correct something in my report.  There is a typing mistake in page 5 of my report.  I would like to correct this, because this report should not be official with this mistake.  The wife of General Habyarimana is not Agathe Kanzinso, but Agathe Kanziga, K-A-N-Z-I-G-A, K-A-N-Z-I-G-A.  Algaseke should be replaced by Karago.  That is two lines after that.  I'm sorry for this.
+(Pages 10 to 19 by Trish Greig) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+1530H
+BY MR. BESNIER:
+Q.	I am sorry for this.  Just let me explain.  In the English version it's page 4.  The expert somewhere at paragraph 2, after chapter 2 -- 
+A.	I think we have made the corrections.  Please bear with my secretary on this, Mr. President.
+MR. PRESIDENT: 
+Mr. Besnier, you are making sure that you are only getting the information that you need for the purposes of your closing arguments.  You are doing that; aren't you?
+MR. BESNIER:
+Yes, Mr. President.  This is exactly what we are doing.
+BY MR. BESNIER:
+Q.	Expert, could you tell us the parties, in which we are talking about the development of modern Rwanda, the parties we heard about in 1994, those parties that played a role in the life of the country?  Now, on which party did Habyarimana base his power?
+A.	Well, he used the power or party that he created in 1975, that is the MRND, that's the Revolutionary Movement, the National Revolutionary Movement for Development, MRND, which became the single party, and all Rwandans were de facto members of that party by birth.  
+
+Now, here we are talking about 1975, the general phase of African history, and Rwanda is no exception to Africa.  We are talking about the single party being in Africa for about 20 years.  Except for a few English-speaking countries and Senegal, Africa will be ruled by single parties.  That is what they used to call the authoritarian short - short cut that was supposed to enhance national cohesion in all countries, and Rwanda, just as any other African country, was also to use that authoritarian short cut.  
+Q.	Now, between '73 and 1990 was there a genesis of political opposition?
+A.	Now, such political opposition -- I would not say it was clandestine, well, it was not official -- it came about through plots, imagined or otherwise, the denunciation of plots here and there.  For example, that involving Major Denise Lizinde who was imprisoned in Ruhengeri and freed by the RPF and who had a tragic end.  There were other events such that the regime also turned to micro-regionalism.  
+
+And what is important here is something that the historian has to contend with on the basis of hindsight, because we saw that the Hutu regimes that came one after the other in Rwanda, apart from certain periods, a limited period during their existence, always had to turn to regionalism, but also to micro-regionalism; in the case of Habyarimana, we are talking about northism.  That is not true for Parmehutu, it talks about the south.  Parmehutu was APROSOMA, and the other one was Gitarama.  Habyarimana's regime cannot be Gisenyi and Ruhengeri at the same time, just as Rukiko or the Bakiga regime, those mountaineers essentially from Bushiri, the high valley of Mukungwa, those mountain people have never been dominated by the Tutsis, except for certain episodes that went to certain Tutsi chief.  I am not talking Bugeyi and Rwenga; I am talking about the mountain areas.  
+
+Now, those mountain people saw first the Tutsi chief during the Belgian colonial period.  So it is clear that in proportion, events went on, and in proportion, as anarchy and the calling into question of power was there, the general had the tendencies to turn towards his own people; that's a human reaction.  He was going to turn those from his own area, his region, his hill, and he was going to turn to his wife.  And from that time onwards, we went from Hutu nationalism to northern micro-regionalism and Bushiri regionalism with that region which was going to run the affairs of state.  In proportion, there were more difficulties, the more one run towards one's own identity; it happened in Gitarama.
+Q.	Did I call your question correctly?  Outwardly you talked about the dwindling of power, you talked about Habyarimana retreating towards his family.  Could you tell us whether his own close circle played a role and what role?
+A.	Yes; what we know as the small house or the Akazu.  Let me, once again, point out a mistake, please blame me if you want; this is not because of my secretary.  It is in the French version, page 6.  I have not the page in the English version.  There is a mistake, page 5.  Now, I may, Mr. President, the sentence beginning with, "In the hands of the Bakiga mountain people, the country was run like a family enterprise whose decision-makers were three; that is, Colonel Elie Sagatwa, S-A-G-A-T-W-A, (the particular -- private secretary to the president), Protais Zigiranyarazo, Z-I-G-R-R -- G-I-R-A-N-Y-A-R-A-Z-O, Préfet of Ruhengeri, and Pascal Simbikangwa S-I-M-B-I-K-A-N-G-W-A in charge of intelligence.  As for Serefo Rwabakumba, R-W-A-B-U-K-U-M-B-A, he was in charge of the family's funds, F-U-N-D-S".  That is the correction I wanted to make, Mr. President.
+Q.	The names you've just read out, Expert, are names of those people who are the inner circle of the Akazu.  What is their influence on Rwandan policy during the months following the ascent to power by President Habyarimana?
+A.	It should be said, Counsel, that Juvénal Habyarimana had a good military career.  He had legitimacy conferred to him by the Catholic Church because his father was one of the first baptised, but his lineage was not very influential.  But the wife of the general, Agathe, came from one of the very interesting families in the country, the Wakagari, in the Bakiga area, the mountainous area.  I have talked about the work of Ferdinand Nahimana that talked about this dynasty in his first works.  I am not talking about his political works; I am talking about his university work, especially his work at the University of Rwanda.  And that lineage was one of the important lineages in the Busero area so that the general had to turn to the people of his wife, his wife's brothers, his wife's people, to influence people, Akazu.
+
+The Akazu was essentially composed by people who were from the family of the wife of the general, and the Akazu had a determining role.  I talked to you about a certain number of responsibilities carried out by the members of the Akazu.  Here we are talking about the apex of state.  The important thing was to be recognised by the Akazu and to be accepted in certain circles by the Akazu.  Akazu seconded certain authorities, so we are talking about a micro-regional system, a system of regional favouritism that came after the experience we had in the Gitarama region during the period of the third republic.  
+Q.	Thank you, Expert.  Now, let us move ahead.  
+
+What is the political situation at the beginning of 1990 in Rwanda?
+A.	Now, for that, I think, we must transgress the boundaries of Rwanda, I am very sorry.  The Berlin Wall fell.  There are no blocks, and Africa is coming into a final phase in its history and the wind of democratisation was blowing almost everywhere.  In July, we had the speech made at La Baule by President Mitterrand of France.  
+
+All over Africa opposition was dying to emerge.  There was a stifling of political life by single party states.  There was movement in Zaire, in Togo, all over Africa; and if there was no movement the call for democracy all over the place became an aspiration, unavoidable as it was and insuperable as it was.  It was in that context that at the time that when the regime was most uncomfortable because of the economic crisis, crisis by the payment of salaries, the food crisis.  Countries were on the brink of shortages, and there was overpopulation everywhere, agonising as it was.  
+
+In my book, I have talked about the suicidal over-population in Rwanda.  It was thus that at the beginning of the (interpretation unintelligible) epoch, the population of Rwanda was six to 700,000.  At about '62, it was about between one and 2,000,000, and in 1990, we were talking about 8,000,000 inhabitants.  Now, all that for a territory as big as two French departments and only 45 to 47 per cent of the land is arable.  Nothing is there to farm, there was no way out; there was land hunger.  The refusal of the fertility pill was going to enhance birth; there was no birth control, realistically.  Rwanda was exploding, was bloating out of itself over its borders, because pre-colonial Rwanda was bigger to the east as compared to what it is now.  Because of the Berlin Conference, it has now been narrowed.  
+
+So all these frictions, all these events were such that we are in the phase of a time bomb which is about to explode.  No one caused it; there were many, many causes.  There was one cause that we have talked about, that is the problem of what is now -- the Tutsi refugees that left in 1959 and came back in - up to 1973, had children, and their children grew up and wanted to come back to Rwanda.  And whenever they said they wanted to come back, they were often refused for several reasons, but one reason was most determining.  How would you in an over-populated country, how would you receive an additional, several hundred thousands of people?  There was no place in Rwanda.  And all these elements were such that tension grew and that is the job -- the context in which the Tutsi attack was going to occur, that is, the RPF attack -- we will talk about the RPF later on.  That occurred on the 1st of October 1990.  That is the context in which it occurred, sir.
+Q.	You spoke of the attack, 1st of October 1990.  What is the RPF?  Where is it from?  Who is it made up of?
+A.	It's the Rwandan Patriotic Front.  The armed branch is the APR or the RPA rather, the Rwandan Patriotic Army.  It's a movement -- a multi-ethnic movement; it's called that.  It's true there are Hutus within it.  There's even Hutu combatants, in the beginning anyway.  In the first fight, the directors would even be Hutu, but the RPF really is an emanation from the Tutsi refugees who lived in Uganda. It would be created slowly but it would become very important in Uganda starting in 1986 on which date in Uganda, as we know, following the tragic events in that country during the 20 previous years, those tragic evens would lead to civil war - civil war.  And finally in that year, the current president of that country, Yuweri Museveni, would come to power now.  
+
+Now, Museveni, who's from L'Ankole, belongs to the Hima ethnic group.  Rwandan Tutsis who took refuge in Uganda took refuge in that L'Ankole area where the Hima live.  Now, the links of ethnic belonging are clear between the Hima and the Tutsi, even if they are one and not the other, but there are links.  There're inter-marriages through history between the two, and in fact, the most determined young immigrants, Tutsi immigrants living in Uganda following the persecution of the Obote regime, which came before Museveni's, would align with Museveni, and they would join his army.  They get into his army, and when Museveni comes to power, those Rwandan Tutsis are very important officers at times in the brigades, in the training, and from that beginning -- time, the Tutsis immigrants are going to have a tool that is going to enable them to play a role in the event.  
+
+Now, when the Habyarimana regime refuses to deal with the question of refugees, these men who are in the RPF are going to decide on the 1st of October 1990, to attempt -- well, we don't know really what they were attempting.  Were they attempting a quick raid to take Kigali quickly, hoping the Hutu opposition were going to support them?  Did they try to start a war?  We don't really know.  Nevertheless, they go into the country near Lake Muhazi, north-east of Kigali, and they are stopped, quickly.  The RPA and the RPF move back and start a war that's going to last for three years, leading to dramatic events that we all know about.
+Q.	Very well.  I believe that Habyarimana's regime must have felt threatened by that attack.  How did they react to that threat?
+A.	Well, militarily, they would be helped very quickly by France and by Zaire.  Zairian military aid would not be useful tactically, but we did see large numbers of troops that can occupy the area between Byumba and Gayayo.  Now you push -- they move the RPF troops towards the north.  Now the French troops come immediately, and it's felt immediately.  Jean-Christophe Mitterrand, Mitterrand's -President Mitterrand's son, called Habyarimana.  The decision was taken directly in Elysée Palace, and they immediately decided to intervene.  France sends troops who don't really intervene, but they are going to take over the airport and secure the areas behind the Rwandan armed forces, enabling them to support on that defensive line and launch a counter-offensive.  That counter-offensive immediately hits the RPF troops, who move back and who go through much difficulty.  Some of their leaders are going to be killed.  Kagame is not there yet.  He is in the United States.  He comes back and he starts to negotiate with the Ugandan government to obtain authorisation to repatriate his troops, under the condition that they are not too visible, and they move back, they walk back very long into the Burunga massif, 3000 metres altitude.
+MR. PRESIDENT: 
+You cannot possibly -- maybe I am wrong -- be interested in detail about the military operations in 1990.  You cannot use that in your closing argument, can you?
+MR. BESNIER:
+No, I won't directly use that information.  What I do want to use is the context in which multi-partysm, a multi-party state was born. 
+MR. PRESIDENT:
+(Microphone not activated) ... interested in.  But, you see, now the expert has very interestingly spoken since 3:10, and we are still not really there, and we are on page 6 of the report and we have the report.  You must assist the Court so that we get to the core issues that you need for your closing arguments.  And, for instance, just to intervene now, when it comes to whether Kagame was not yet there or how they had fought back in the early October days, it cannot be possibly be interesting.  So focus on the context, all right?  Please.  Thank you.
+MR. BESNIER:
+Very well.  We will shorten our questioning, but we must say that Alison Des Forges talked about issues that went well beyond the indictment for more than an afternoon, and we are here in a way contesting the report of Ms. Des Forges.  Des Forges did not only talk about the multi-party state but also about ancient Rwandan history, and I would like this expert to be able to freely express himself on these issues.
+MR. PRESIDENT: 
+That is why you have been allowed to do this.  That is why you have been allowed to do this for more than one and half hours, and we are still listening.
+MR. BESNIER:
+Very well.  As I was telling the Chamber, from now on the questions I will put to the expert will regard the birth of the multi-party state.
+BY MR. BESNIER:
+Q.	My next question, Mr. Expert:  France.  Did France unconditionally support Rwanda militarily, or was that support accompanied by some political conditions?
+A.	Well, by answering your question respectfully I will answer the President's question.  If France can influence Habyarimana's regime through the multi-party state, it didn't -- it reacted immediately, it didn't count on that military support.  
+
+Now, look at the feudal relationship between Mitterrand and Habyarimana.  He is coming to the aid of his serf.  He calls him, "Please, help.  I am being attacked.  My power, my friend, can you please help me?  Send the Foreign Legion".  "I will send the Foreign Legion, but you are going to do what I say politically."  France does not hesitate to unconditionally support Rwanda.  It would be an even better place to impose the multi-party state on Habyarimana.
+
+That is the end of my remark, Mr. President.  I hope that you can be able to place that.  I don't want to go beyond my bounds.
+
+Now, France is in Rwanda.  The speech in La Baule was given in July.  You see a contradiction.  In July, Mitterrand says France will no longer help any country that is not democratic.  And in October, it sends elite troops to help a country that is not democratic.  So you have to play on both sides of the field.  
+
+France is saying to Habyarimana, "We are going to help you, but you are going to start following a multi-party system."  Habyarimana does not agree, though.  He knows what are the main fractures, the deep fractures affecting his country.  He knows he is very well placed to know that, and he knows that if a multi-party state sees the light, these cracks in the system will only get bigger.  So Habyarimana will drag his feet, and finally we have to wait until June 1991 to see the multi-party state come about, or at least to see the day when Habyarimana would accept the idea of a multi-party state.  
+
+How did that multi-party state completely become implemented?  Well, it was implemented in many different ways.  First, political parties were created.   The main political parties that would become created would be those, the offshoots of former parties.  The first party to be created in March 1991 is the MDR, the Republican Democratic Movement.  The MDR movement wants to be, or talks of itself as the offshoot of the Parmehutu which brought Rwanda to independence and had scores to settle with the regime, I must say.  Since 1973, the time when Kayibanda was thrown out and the time when the Habyarimana regime was installed, life was not easy for the Gitarama leaders of the old party.  
+
+The second party that was created -- well, two more parties would be created, and they are very original parties.  They are not at all affiliated with the old former parties.  This is why, Mr. President, I wanted to insist but I wasn't able to fully go into detail about the politics of Rwanda in '58 and '59.  We are at the heart of the problem and we may move ahead blindly.  The MDR is the - inherits the Parmehutu and the political wing of it.  The other parties, and not the PDC because it's a marginal party, but the next two parties are very interesting.  These are parties in rupture, rupture with the Gitarama system and with the Kabaye system, and they don't agree with the MDR nor the MRND. This is the Parti Libéral, the PL, which is a small party, which is original because it is composed of both Hutu and Tutsis, and this is a party of intellectuals, businessmen, and it wants to be a party that is the party of elite.  But it refused the opposition between Hutu and Tutsi.
+
+And then PSD, the Social Democratic Party, which is interesting, which is a party precisely whose political platform is that of refusal of the regional system, but also of the Hutu versus Tutsi ideas.  It's a party that wants to move ahead and not look at the definitions that were created in the past.  This party was created in the south of the country.  It was created in Butare, and it's not by accident it's the big university town, because in Butare there is a tradition of ethnic cohabitation.  It's a university city.  Many research institutes are there.  It's a city that is purely ethnic.  Hutus from the north and the south and Tutsis all get together.  At that time in Butare, there was physical eliminations like in other regions of Rwanda, and the Tutsis are not being threatened in Butare and around Butare.  So, of course, that is an intellectual party.  Filip Reyntjens, who wrote many interesting things about this issue, who I think was an expert before this Tribunal, talks about this.  He said it's a party of intellectuals, of intellects, of idealists, they are idealists who consider that all those old things as opposition between Hutu and Tutsi is old news; "Let's be concrete.  Let's not move forward with our head looking behind".  
+
+And this party would develop, because at first the opposition parties would group against the Habyarimana regime, and here we are dealing with a fork in the road and contradictions.  Why?  I thought -- I think I have explained to the Chamber that extremist ideas that you will find in Hutu Power ideology are ideas that were born between 1957 and 1973.  These ideas were created in the centre and not the north of the country.  Those same ideas will be used by people who would not be afraid to ally themselves with the Tutsi PRF.  Why?  Because their objective is not Hutu nationalism but the eviction of the Kabaya northerners and their system against Habyarimana.  Between cholera and the plague you have to choose one.
+
+Now, this will create fury among the northerners.  They are furious that those around the president and the Rukiga in general, they say, "Where are we going with all of this? You, southern Hutus, or from centre, you have never fought against the Tutsi.  You, who throughout history, you have become used to the presence of the Tutsis.  You who have never revolved against the Tutsis.  You had the Belgians and the churches had to put you in power.  You are the same people who are questioning what we have acquired through the 1959 revolution, and you are going to try to evict Habyarimana by allying yourselves with the Tutsis to triumph in your own domestic programme".  That is why the CDR in 1992 would be created, to get over those fractures.  The Hutus have to be united.  Any house divided inside of itself will lose.  You are opening the doors to the monarchists, to the feudals, to the reactionaries, the return of the immigrants, because this all going to follow suit.  We are faced with a paradox.  The paradox is that the genesis of the Hutu ideology came from Gitarama, and these people, their inheritents are going to join up with the Tutsi, the opposition.  It's going to try to use the RPF to weaken the Habyarimana regime.  This is a more correct way of saying it.
+
+So this is a contradiction.  It is clear, the rupture of those parties was written from the very beginning since they were created.  It is a total contradiction.
+Q.	In that atmosphere of the multi-party system in 1991, did the government spontaneously have those parties work with them in the programme for the government?
+A.	No.  That is the entire problem.  Habyarimana knew very well that the multi-party system would create anarchy and chaos.  He knew the situation.  So during the period between the date when the multi-party state was recognised and his death, he would try to do everything to stop the implementation of that multi-party system.  And when he could not stop it, he would use it to break it, to slow it down.  So the government that would be created, that would found, that would be implemented on the 13th of October 1991, the government that would be presided by a respectable man, a president of my university in Butare, a very reasonable man, Sylvestre Nsanzimana, who was a diplomat at the OAU and elsewhere, and Sylvestre Nsanzimana's government is an open government.  Think, if all the ministries go to the MRND -- I forgot to say that the MRND became MRNDD.  In addition to "development" they added the word "democracy", "for development and democracy".  There is only one opposition minister.  From what party?  One of the smallest ones, the Christian Democratic Party, which only has one seat.  So it's only a façade, this opening, this opening up of the system.  The opposition parties are insurgent.  What are they going to do?
+
+On the 17th of November, still 1991, the opposition parties, the MDR, the PSD, the PL -- the Liberal Party, they sign a common declaration of protest addressed to President Habyarimana, protesting the fact that the political openings are just a facade.  They don't exist.  From that point Rwanda enters into chaos.  From that point the multi-party system will create chaos; I even would say civil war.  
+
+Starting on the 24th of November 1991 up till March 1992, the tension would only get greater.  The fights between activists and armed groups from the different parties would confront one another, and you would start seeing more and more Tutsi massacres, massacres of Tutsis in different areas of Rwanda, in the north, in the centre of the country and in the east.  The situation becomes very serious and explosive, and in March 1992, President Habyarimana retreats.  He retreats, and he realises that he can no longer stop this protest movement which is only getting bigger.  People are getting angrier.  And what does General Habyarimana do?  He decides -- he decides to create a government of national unity, a government of national union.  It's a political revolution, a revolution because the reign of the single party stops there, because the MRND is still in power, but with this new coalition government the MRND must now share power, and the MRND finds itself as one of the composing parties of the government.  Even if the government is mostly MRND, there are nine members with nine seats.  
+
+How is power shared?  The government is created on 16th April 1992.  The prime minister is a member of the MDR.  His name is Dismas Nsengiyaremye, N-S-E-N-G-I-R-A-M-Y-E (sic).  The MDR have four seats, four portfolios, the PSD has three, the Parti Libéral has three, the Christian Democratic Party has one, and the MRNDD -- must add another D - has nine.
+So MRND is no longer the master of the political game, or no longer the only master.  
+Q.	Very well, Witness.  I think we have made up for some of our tardiness in the discussion through that answer.  Now, let's deal a little bit more specifically with the PSD Party.  Witness, you said that the PSD had three seats in the government of 1992, but how representative was that party within the entire country of Rwanda?  In which préfecture was it best represented?  Were there ever elections that would enable one to see how representative that party was?  Were there fractures between one region and another, the north and the south, the east and the west?  What was the influence of that party in the country?
+A.	Counsel, I am completely unable to answer that question.  It's impossible to answer that question.  There were never elections, those parties were created, but they didn't know how they were represented at all.  Power was divided among those who had perhaps the most activists or those who made the most noise.  How can we know the influence of the PSD in a system that had no elections?  I can't tell you what the PL representation was, nor the PDC or anything.  It is completely impossible to do; I can't go beyond that.  We cannot go out of the framework of history to make such assumptions.
+Q.	Now, it is very surprising to me, because other experts before this Tribunal have made assertions on those issues.  I would like for you to take a look at Exhibit No. P. 23. 
+MR. BESNIER: 
+Could the Registry kindly assist me showing Exhibit P. 23 to the witness?  It's a map, registry, just to help you in your search for the document.
+THE WITNESS: 
+Mr. President, could I please have two or three minutes to examine this map?
+BY MR. BESNIER:
+Q.	Do you have that exhibit before you?  Yes, you do.  That is a map that was submitted by expert witness Alison Des Forges.  It represents the political representation in different regions of Rwanda in 1994, as a function of the party to which the bourgmestres belonged.  I have a few questions about this map.  Does it seem relevant to you and does it correspond to the reality in Rwanda?  And the second question:  the criteria used by Alison Des Forges, that is to say the political background of the bourgmestres, does that seem relevant to you?
+A.	I would like to make one remark.  I don't understand this map.  Outside of Akagera Park, the white zone which is uninhabited, outside of Mutara, this is an error.  At the time this no longer existed in 1994.  This became inhabited. This should a commune.  So this map does not correspond to the communes at the time.  What seems bizarre to me, however, is that you have white zones that don't correspond to anything at all, and grey ones that don't have a corresponding legend.  So I don't an explanation for the white, nor the grey.
+
+Now, I could give you some ideas just off the cuff about this.  I am reading that yellow is MRND, green is MDR, orange is PSD and blue is PL, and the title of the legend in English:  "Political parties of the bourgmestres in 1994".  
+
+Now how, Counsel, could I possibly be able to infer from the political belonging, political party of the bourgmestre, how can you infer from that the political affiliation of the population?  They are not - bourgmestres aren't elected.  Some of them have been in posts for 20 years.  This map doesn't mean anything.  It is as if you were saying, "Look at the military zones in France, and ask each general what his political party is, and say, 'Well, that region votes for such and such a party'." Scientifically for me this map is worthless.  It doesn't have any backup.  But we do have a map that shows the political affiliation of the bourgmestres, but in no way does it represent the affiliation of the Rwandan population. So the bourgmestres are appointed by the government or by different institutions up 1994, affiliated themselves with the four major parties.  They affiliated with four major parties after that period, and here we have the affiliation of the bourgmestres, but certainly not of the Rwandan population.  
+(Pages 20 to 29 by Petrus Chijarira)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1615H
+THE WITNESS (continuing):
+Is that sufficient?
+BY MR. BESNIER:
+Q.	Yes, I want to keep going, though.  Let's look at one particular commune.  Let's look at Kibuye because it's in orange, and the bourgmestre is from the PSD.  Can we say -- would it seem reasonable to you and scientifically founded to say that Gitesi is a bastion of the PSD?
+A.	No and yes.  Yes, as far as authority there as a member of PSD.  No, because this doesn't allow me to say that there's substantial militants there for the PSD.  If I have something to tell me that Gitesi, 30 percent of the people voted for PSD, 20 percent for MDR, that is the opposing party, then I am not in the minds of the inhabitants of Gitesi, but that would have been clear, but I cannot tell you.  Here we have a partial map but there are some elements that are not there, a signed affiliation of development prior with political parties.  What this map doesn't show is the political strength of the various political parties, at all.
+Q.	Thank you, Expert, you've covered our question very well.  Let us move ahead a little bit more and come back to the government from the multiparty system, the government and the (interpretation unintelligible) from the PSD.  And the government was to run the country for a considerable period of time.  What were the time frames?
+A.	The first time frame will be one for pacification.  First of all, they should burst out of the war era, because the RPF retreated to the north of Byumba.  It was a war situation.  Negotiations should also be initiated.  By 1st July -- everything before July, 1992, contacts were made with the RPF; a first ceasefire was signed and, after the signing of the ceasefire, gradually we started working towards the Arusha process.  Now that government, subsequent to the Arusha Accords, had to undertake such reforms and leave its seat to another government.  Should we talk about the government that was based at the Arusha Accords or --
+Q.	Before the Arusha Accords, what were the effects on the Rwandan government after the two events that you mention in your expert's report, that is the RPF attack of February 1993 and the assassination of Mr. Ndadaye in Burundi?
+A.	Now, Counsel, these are two very signficant events.  These are two very significant events that should be underscored.  Why?  Here we are talking about frames of mind.  I believe that, as I talk, I have underscored the psychological/mental elements.  Now, this is the situation.  The RPF is represented by it's spokesman, by it's allies, by those that want to use it to weaken Habyarimana.  As a party, it's just like any other party, a party just as any other party that wants to play the game of democracy and, in turn, they propose to re-establish democracy in Rwanda.  Which shows that all the extremist Hutu elements or groups would fall apart and all those groupings will try to insure that the RPF are the only ones to come in, to come into the game, and in February 1993 it so happens, and for reasons that I'm not going to (interpretation unintelligible) upon the RPF, it so happens, attacked.  They attacked victoriously.  It went beyond Byumba.  It moved towards Kigali.  Now, from that time onwards, what we call the Hutu extremists -- I call them Hutu nationalists, because extremists is of what?  The Hutu nationalist are those who do not want Tutsi to return, would be winners.  They would say we told you this is what the CDR is going to do.  This is what the MRND people are going to do, because they are part and parcel of that movement.  They will turn to the MRND.  They will turn to the Hutu.  We told you so.  Look at what happened to your game.  All the games are being brought out to light.  We told you to participate in the elections.  We told you to participate in the democratic game.  No.  They used arms and they attacked and the ceasefire is in force.  Now, this initially gave eyes to major cracks among political parties and this phenomenon was amplified later on, on the 24th of October 1993, when President Ndadaye of Burundi was assassinated.  He was a Hutu.  Following elections -- there were elections (interpretation unintelligible) elections and he was elected; he was assassinated by a branch of the Tutsi army.  
+
+Now, the second thing is that immediately the Rwandan Hutus that are (interpretation unintelligible) and the Burundian Hutus found that they were aggressed and so ethnic solidarity came into play, just as for the Tutsi at another time.  The argument is going to be, we cannot trust the Tutsi.  Look at them. They extend the democratic game.  They lose and they kill the president.  So how would you good Hutus, how would you patriotic Hutus continue to stand as to the position against President Habyarimana?  How could you continue to fight against your camp by supporting the de facto lions with the RPF at the Arusha process, because the Arusha process will give rise to the sharing of power with the Tutsi.  And the traumatism is there, profoundly, among the Hutu, because they are saying, especially the MDR people who hate Habyarimana, they hate him.  It is true they had a very serious bone to pick with him in '73, but there they tell them, "Look, we are the same.  Aren't we betraying our country, aren't we playing the part of the fifth column for the Tutsis?"  So that from that time I believe one can use as a benchmark for the setting aside of regionalism to be replaced by a Hutu nationalism that transgressed the regionalist framework.  In other words, the Hutu political parties, the nationalist factions of the Hutu political parties, came along with the extremist ranks in which said all Hutus must come together, they must unite against the feudals, against Tutsi invasion.  It is the return of feudalism, slavery, serfdom.  They will come back with their cattle, come to -- all the arguments in that direction were used.  This is what happened.  The first development would be accentuated by the disintegration of the main political parties, that is the MDR.  Because the MDR, who is the inheritor of Parmehutu, wanted Parmehutu (interpretation unintelligible) for the return of the Hutu ideology of the '50's, the '60's.  The MDR had people in it that supported the Arusha process.  They supported the continuation of the opposition, so that Faustin Twagiramungu and Agathe Umwilingiyimana, who was appointed prime minister of the broad based transitional government, of course, with the disintegration of the party, which would subsequently come. 
+Q.	Just as a matter of a vocabulary or explanation, you clearly said how the Hutu extremist movement behaved.  Is that same thing as what we call Hutu Power or is that different?
+A.	Well, these are movements that changed in names.  If you took Hutu Power, extreme Hutu extremists, we are talking about the same thing.  But I prefer to use a word that is much more constructive, that is clearer.  And to make a distinction between moderate Hutu and extremist Hutu, moderate or extremist Hutu, these are the vis-a-vis what?  I would like to compare those that go along the Arusha process, that would mean power-sharing with the Tutsi and those, on the other hand, who do not want power-sharing with the Tutsi.  Those Hutu that believed that Rwanda is Hutu which it transgressed leaves none of them to be Hutu and those who, for political reasons, want to topple the political regime, wanted to play the Arusha game.  Hutu Power doesn't mean anything.  I used as my benchmark the Arusha process, those who are for, those who are against.
+Q.	Now, nationalism or extremists (interpretation unintelligible), do they affect the inference of PSD in the long run?
+A.	No.  No.  Every liberal party, which is a party that was set outside the ethnic system and it had two branches, the Hutu -- my friend Nysinga (phonetic) was killed, with his wife, in the genocide.  That party was disintegrated, but it is remarkable to see that the PSD had to escape that.  I will even go further and say that the PSD did not experience any glaring official currents of Hutu power.  It appears they had another political agenda, a political agenda that transgressed those cleavages.  One needs to look at the fate of the members of the PSD on the 7th and 8th of April to understand that.  The PSD is a very strange party.  Let me tell you a story that shows you that this party is very special.
+
+At the end of 1993 there was, at the apex of the tension, the confrontation between the extremists, political chaos, but what happened at the end of 1993?  A delegation of young PSD militants went across the lines and went to Malindi in the military area held by the RPF.  For what purpose?  To play a football match with the young and active militants.  And what is interesting there is to see that the leader of the delegation, called Félicien Ndungutse, was the first vice-president of the party, was
+assassinated.  And what is really interesting was that half of the delegation of the football players remained in the RPF zone.  So if the party, which, according to me, and I'm sure, is a party which is not within the political game.  
+
+The Liberal Party is a party but not the PSD, because PL has Hutu power.  If you have the list, PSD, five members, four are assassinated during these events.  The first was killed in 1994 on the 21st February; Félicien Katanbazi (phonetic) and the others were killed on the 7th.  And out of the eight members I have 50 percent were assassinated on the 7th of April and on the 8th of April, so that here we are dealing - it's a pity -- It is a pity that the representativity (sic) of this entity was not established because the PSD was a party which could have held the key to reconciliation, had it played a better role.  Had it played a better role, the tragedy we saw later on may have been avoided, but the only party that rose above cleavages and rifts was the PSD.
+Q.	Thank you, Expert, for those explanations. (Interpretation unintelligible) we shall go through the Arusha Accords very quickly, because the Tribunal is very well apprised of the contents of the Arusha Accords.  All the same, we should like to hear from you as to the consequences of the Arusha Accords and Rwandan political life and the mermaid (sic) effect of the multiparty system.
+A.	Well, Counsel, I believe I have answered that question and, in fact, I've told you that in proportion -- and here we are dealing with when you want to do your best, you make several mistakes.  
+
+The Arusha Accords was started to pacify Rwanda so we will ask questions, we that are here in the arena, to pacify through our work at each and every step, at each and every time a protocol is signed, there is a magnification of violence. 
+
+Now, in Rwanda the Arusha Accords, in proportion, went on and precipitated violence in Rwanda because, on the one hand, President Habyarimana was going to do everything to (interpretation unintelligible) and those that were called the Hutu nationalists, or extremists will do everything to undermine.  How?  By securing the disintegration of their position, because in 1959 there was the revolution because there were two forces at play.  The Tutsi, the church, and Belgium.  Now, to the extent that the church and Belgium relied against the Tutsi, Tutsi power was condemned.  
+
+The principle of the Arusha Accords was also based on those elements.  The RPF; they were two elements, this is what they were called, literature throughout this area is concerned and the 
+opposition (sic).  Now, the dangerous stakes that were there in the Arusha process was that these three forces wanted to remain together, coherently.  It is clear that on paper, on paper in a parliamentary-type organisation, European time, symmetrically aligned.  We do agree that the political arraignment (sic) of the upper chamber, the lower chamber.  But if one of those elements was to disappear that would be anarchy and all the entire availability of the Arusha process was based on the fact, on the postulate, that none would go away.  The Arusha Accords said that the main component that was the Hutu opposition to Habyarimana was going to disintegrate, so that we have the Arusha process with a game of three and we are in a civil war with a game of two, because there was no civil war; there was only the RPF and the Hutu nationalists.  So the civil war was pre-programmed, so to speak, in the Accords.  
+
+Whereas what happened after Ndadaye's assassination and the MDR (interpretation unintelligible) was such that disintegration was unavoidable.  There was no way out.  Is that clear?
+Q.	Yes.  Now, according to Arusha, the PSD was going to participate?
+A.	Yes, in the transitional government, yes, with three seats.
+Q.	Now, that transitional government, was it in accordance with the Arusha Accords?
+A.	No, the government was not established because people were dragging their feet.  The Tutsi were not in the government; in other words the broad based government, is a repetition of the same government before with the same Rwandan political parties with less representation, and that less representation is compensated by seats to be given to RPF, to be given to the RPF Tutsi, and the Accord didn't give rise to anything (interpretation unintelligible).  There was no government because generally, from April 1994, we experienced the tragic events that we all know of.
+Q.	Now, let us move along those same lines and talk about the tragedy.  What was the situation of the (interpretation unintelligible) of 1994 politically, in terms of military operations, if there were any, and in terms of ethnic tensions in Rwanda?
+A.	Now, Rwandan political life was completely disturbed, all the components disintegrated and there was no (interpretation unintelligible) transitional government, because there was no legitimacy, apart from the PSD that was united, and so far as the PSD was concerned, there was no problem, PSD was not in the game.  PSD was not in Hutu Power.  All the other parties disintegrated so that the various factions of those parties said, well, we, MDR, have two or three seats that are kept for us in the future government, but who in the MDR is going to sit in that seat, the secessionists, the legitimists, the others.  So that in the next following that year after the death of President Habyarimana all of the Rwandan political problems were going to be boiled down to (interpretation unintelligible) civil wars within the parties, all of them tried to persuade General Habyarimana (sic) that they were the legitimate ones and General Habyarimana was going to use that.  He was going to use that card against the others, to support these against the others, and his own team was going to fan the fire.  He was going to put pepper in the wound -- or salt in the wound so that there was total anarchy.  
+
+As far as the president was there, he was there, he was sworn in and face to face with him he had parties that were divided and each was claiming legitimacy.  So that the situation was a non-starter ,so that the broad based transition government was to be set up at the beginning of the month of September of 1993.  It was never to be set up, never to be set up simply because the means were not there to be given by the United Nations for those concerned for the pacification of Rwanda and there was no agreement at all between the political parties.
+Q.	Now, would you say that the situation you've just described, that since the beginning of your talk reflects the events in Rwanda from the death of Habyarimana or do you think that there are other causes that one may not speak about or did not speak about that could compliment research as to the causes of genocide in Rwanda?
+A.	Counsel, I do not understand the question.
+Q.	Expert, you have given us a picture of these (interpretation unintelligible) and political situations in Rwanda.  Now we are at the beginning of 1994.  We do understand that the situation is one of total chaos.  We understand that there's ethnic tension.  We understand that the Arusha Accords instead of giving grace to a political situation, has worsened, political solution has worsened the situation and helped President Habyarimana's plane shot down.  Then this was followed by the massacre of the Tutsi.  Now, the massacres ran for several months.  Were they due to the political situation such as you described or were they due to other causes that you didn't talk about because you are not aware of them?
+A.	Now, Counsel, what is going to happen and what happened is a result of phenomena, long term, medium term, and the triggering cause, that is the death of President Habyarimana. Let us not talk about the medium-term or the long-term causes.  If you want me to say who killed President Habyarimana, you will be quite disappointed because I do not know.  If you want me to speculate about responsibility of one and all, you will also be disappointed because I do not speculate.  I only talk about tangible facts that can be verified.  This is my profession.  So that I don't understand your question clearly.  
+
+I believe I have explained various strings that brush about this fabric in Rwanda which has been heightened up to 1994.  Population, for example.  Food problems with refugees throughout the country.  After that time there were refugees from outside -- from inside, but because they were displaced people from and throughout Rwanda.  We had refugees coming from inside.  The situation was chaotic.  The French troops had left following the signing of the Arusha Accord.  The United Nations was not able to deploy its forces.  It was slow and all that compiled there was rancour.  There was inter-Hutu civil war, which it came back so and because those I called the extremist Hutu, nationalist Hutu.  For them the doors of the Hutu that continue to abide by the Arusha Accords, they're traitors.  They are simply traitors that are allies in their eyes, they are collaborators of the invaders. This is in parenthesis.  I am not talking for myself, I am trying to translate the frame of mind that obtained in the country.  So that we are at a terrible conjunction of facts.  There's a climate of pre-confrontation where Tutsi are being killed behind closed doors.  It was not the Tutsi that were to be in the forefront, that will come out later on.  It was the Hutu and those that were for the Arusha Accord, so that we have gone over regionalism as is tragic to see that in that poor country of Rwanda.  The (interpretation unintelligible) country of Rwanda, that has suffered so much from regional separatism.  His union or unity is going to be brought about by genocide.  It was genocide that brought about some unity.  That is the tragic paradox.  We are in the realm of tragedy in this Rwandan situation.  In Rwanda it is said that lies are equal to duplicity.
+Q.	Thank you very much, Expert.  We have tried to recapture the causes, political, economic and, as such, you have done this with maestro.
+
+I believe that the 7th of April 1994 the political situation drastically changed.  What was the political situation on the 7th of April, 1994, in the morning?
+A.	Well, let us move to the 8th of April, because they massacred the Hutu leaders in the opposition was on the 7th and the 8th of April.  On the 8th of April, in the morning, the country was ungovernable; ungovernable because the president of the country died and the prime minister was killed. All the authorities that were responsible for running the transition died.  There was nobody.  There was nobody in line that was there to insure any political transition.  The only solution for those that were in power was to be contaginated (sic) or blended solution.  I believe that you legal experts are in a better position than myself.  I am a historian.  And probably they would have come back to the former competition, which was the only one which was normally in force.  Because those people responsible for the transition died and there was a void, a total void, as far as power is concerned.
+Q.	You have just said, "those in power".
+A.	Well, that was a mistake on my part.  I shall withdraw it, because there was nobody in power.  So that what I wanted to say was a void in power.  I didn't express myself properly.  I said "those in power", those that were there, but there was no power.  Constitutionally there was a void.  We will see who exercises power, but legally and constitutionally we are faced with a void.
+Q.	In those conditions, who decided to put together a transitional government?
+A.	Counsel, the question you put to me is one that I cannot answer.  Nobody is able to answer that.  I think that is the role of the Tribunal.  As far as current knowledge goes, we have no idea.  According to what we know, we don't know.  What we know, that that government was put together but we don't know who put it together.  We have ideas, but they are not certainties.
+
+Let me move away from science and move into supposition or research.  Yesterday I read General Dallaire's book, which I believe is not yet here.  It came out in Belgium before yesterday; in Canada last week.  And I was able to read it on the plane.  It's very interesting, very, very interesting.  It's very interesting, and many things that he confirms are in that book.  What Reyntjens had said and what others had said before him, it's confirmed by a witness that was there, an actor.  Soldiers tried to impose a military government.  What Reyntjens said in his book, "Three Days That Changed History" even surprisingly Reyntjens is a good researcher.  He has much talent.  Have a committee that would oversee all of this, which is the overseeing committee of that.  This is the committee -- a phantom committee which seemed to exist because a civilian minister would be there.  With the committee we don't know what its composition is, at all.
+
+Counsel, I cannot go beyond that.  Please don't let me leave my area of speciality, which is certainty, it's history.
+Q.	We won't make any hypothesis, but can you shed any light on how the interim government was composed, how was it implemented?
+A.	Yes.  Yes.  We can do that.  We have great documentation.  Here I can speak of certainty and I can say something about that.  The interim government is developed on the 8th.  It takes the oath the next day in Kigali on the 9th.  This interim government, let's put it in context.  Let me go back to history again.  Let me talk about chronology.  
+
+There are two things that we know.  The first thing we know is the meeting at the Ministry of Defence on the 8th, was it very early in the morning.  And I base that on what Alison Des Forges said.  She is completely right.  That meeting was early in the morning.  The meeting took place between 8 and 9 in the morning.  
+
+We have a second piece of information, which is a certainty, completely established by Reyntjens and others.  The government is made up during that morning, composed during that morning.  What is interesting to know is that that government will be composed in the absence of one of the political parties that should participate in the game.  That political party is the PSD.
+Q.	Why is the PSD not present at that meeting?
+A.	Counsel, I told you there's no longer anyone in the PSD, they all died.  I gave you the names of the victims.  Ministers left, they were either fleeing or they were killed.  There was no longer anyone.  So, when the meeting was called at the Ministry of Defence, there's no one representing the PSD.  All the parties are there, even the parti libéral, the PL, because there's the Hutu Power branch of that party is there, but there's no members of the PSD -- well, rather, let's be more precise.  Members of the PSD will show up, but much later.  The meeting will be over.  They will not have participated in the negotiation.  The second thing we know, it's obvious and all the researchers have established this, and let's talk about Reyntjens again.  He talks about this, the PSD shows up at 3 p.m. at the Ministry of Defence.  The meeting began at 8:09 in the morning.
+
+When the PSD arrives, when the members arrive the meeting's over.  The PSD is taken hostage.  Members who are there, who are low-ranking members of that party are taken hostage.  We will see why this government, this provisional government, needs PSD members, but later.  But it's a tragic situation we are faced with.
+Q.	Let me ask you the question right away.  Why was it necessary to integrate PSD members into the government?
+A.	Those who -- I don't know what their name is -- but those who were behind putting that government together, could be perhaps soldiers, perhaps not.  I don't know.  Let's put a big question mark next to that.  They represented a political ideology that was very clear.  They represented the nationalist Hutu ideology, what was called Hutu Power or Hutu extremists.  
+
+Why is it original, compared to the previous political past of Hutus and their affiliation, where we had people in Gitarama, the microregionalism?  Then we had the microregionalism of Rukiga.  People in the CDR wanted to move beyond that.  They wanted to bring the Hutu world together.  So in the context of the assassination or death of President Habyarimana, in the context of the power vacuum, in the context of the complete anarchy, it is fundamental for the PSD to be represented, because the PSD will be their trump card.  It's a party that is not opposed to the Arusha Accords.  It is accused often of playing with the Tutsis, of ailing (phonetic) with the Tutsis.  The PSD is considered as a party that betrays the Hutu cause.  It is important for those in the nationalist Hutu branch to say, "Look, the danger against the Hutu world is so important that even the PSD is here.  All Hutus are united."  That is why they take them hostage.  That is why the PSD must be present, absolutely.  
+
+We can speak of regional equilibrium of balance.  That is a secondary issue.  Regional balance or imbalance is already achieved without the PSD members.  It has already been achieved.
+
+We spoke of political fiction.  When the previous government shared seats in parliament.  These are not determining arguments.  I think that the determining argument and my conviction is that charges show that in spite of the terrible opposition that separates the Hutus, there's Hutu union, and these poor members of the PSD fall into the trap and they won't be able to get out.  Why?  Day after day things keep going and they find themselves, members of this government, dragged by what is considered as some kind of government solidarity.
+
+Mr. President, please pardon me for going back in history a bit because we have to understand what happened in history to understand what happened in '94. 
+Q.	That is very clear, but one thing is a bit obscure for me, did the PSD participate or did it not participate in that meeting of political parties of the 8th of April 1994, which finally decided the composition of the government?
+A.	I'll be categorical.  No.  It did not participate.  The PSD arrived between 3 and 3:30 p.m.  The government was already composed.  The list was already drawn up.  They were put before a fait accompli and there was a survival strategy that had to be put into place.  They didn't have a choice.
+
+Here we're in an air-conditioned room, people who are polite, we are having a discussion.  We are having an academic discussion.  Imagine the 8th of April in Kigali, the cauldron, the burning cauldron.  Three times in my existence I've seen these kinds of situations where either choose between life or death.  
+
+You must know -- you must live through this to know that there are strategies for survival in place that you have to use.  And that will lead to one thing after another, a chain of events that is inferno.  You will see when you see -- when you read General Dalliare's book.  He sees two dead Belgian soldiers, his escorts refuse to stop.  It's complete folly.  It's hell on earth.  And before this hell you have cold reactions, surgical reactions, people who are in situations that are completely exceptional.  I affirm that, according to my current knowledge, the PSD did not participate in the meeting which put together that government.
+
+MR. PRESIDENT:
+In that meeting in the Ministry of Defence in the morning, that's the meeting you are referring to now?
+THE WITNESS:
+Absolutely, Mr. President, that is the meeting, the meeting that composed the government, that put the government together.  Then the government was put together there will be, of course, other meetings, where the PSD ministers, of course, will participate.
+MR. PRESIDENT:
+Your sources for saying that the PSD was not there, could you just mention those sources, very briefly, list them, please?
+THE WITNESS:
+Yes, I have many of them.  Well, there's Reyntjen's work and research; Premyie's work; Alison Des Forges's work.  But Alison Des Forges makes a small minor mistake in her chronology.  
+
+Is it possible to look at her report?  At one point Alison Des Forges says it very well, and she is correct.  The meeting begins without the presence of the PSD, without PSD members being there.  Alison Des Forges makes a minor mistake in her chronology.  She says "soon after delay" or "after some delay", "After some delay members of the PSD arrive."
+
+But they don't arrive after some delay.  It's some hours after.  We have a document that is very interesting, which was given to me by the Defence team, and it is the minutes of a meeting, and let me find it.  Bear with me, please.
+BY MR. BESNIER:
+Q.	Let's just hold on.  We'll get to Des Forges later.  Can you please tell us which page in her report or in her book where she talks about the composition of the interim government?
+A.	Yes, I've got it here.  Page 230, two-three-zero.  Her book and report use, in many ways, the same terms.  She says, "Early in the morning of April 8th Bagosora assembled party leaders to fashion a civilian government."  I don't know if Bagosora was the one who assembled those leaders, I have no information on that.  Yes, I have got this before me, Counsel.
+Q.	Does Ms. Des Forges speak of the participation of PSD members at that meeting?
+A.	In her book?  No, she says the PSD representatives were not present.  She says that, in exact terms, it was difficult.  It had been difficult to locate representatives of the PSD because most of its national committee had been killed or gone into hiding.  But after some delay, PSD members Nyacinthe Nsengiyumva, Francois Ndungutse and Ndindabahizi joined the meeting.  
+Q.	Now, she doesn't talk in this work about Naindabahizi's presence in the PSD delegation?
+A.	No.  No.  Pardon me.  I looked at the index, and I am always cautious with indexes because often it's not the author who puts them together but it's rather assistants who put them together electronically.  I was not able to find Ndindabahizi's name, so I started looking page through page.  No.  She does not mention Ndindabahizi in this book.  In the book you don't see the mention of Ndindabahizi's name.
+MR. BESNIER:
+Yes, Mr. President, we've already raised this issue during examination of Ms. Des Forges.  I have her book, Leave None to Tell the Story and the expert, Lugar, has cited this work as a source when he speaks about the meeting of 8th April.  He also says that the name of Emmanual Ndindabahizi is not in this book.  We have supported that assertion, and we would like that this book, Leave None to Tell the Story, written by Alison Des Forges, be tendered as a defence exhibit.
+MR. PRESIDENT:
+That will be D. 49.
+	(Exhibit No. D. 49 admitted)
+MR. BESNIER:
+Most obliged, Mr. President.
+BY MR. BESNIER:
+Q.	Mr. Expert, you also spoke about the work done by Filip Reyntjens.  Can you tell us in which work -- in which article that he wrote does he mention -- talk about the meeting of April 8th?
+A.	Yes.  He wrote two important books, one about the crises in the Great Lakes Region.  But I'm talking about another interesting work he wrote written in 1995 called Rwanda, trois jours qui ont fait basculer l'histoire, "Three Days That Changed History" published by Amitar in 1995.
+Q.	Very well.  In that book can you tell us, if you have that book before you, and if it's possible for you to do so, where does Reyntjens speak of the participation or non-participation of members of the PSD at the meeting of political parties?
+A.	Yes, it's on page 88.  Reyntjens is very clear.  Should I cite this, yes?  I'll read this, then.
+
+Let me read the entire sentence.  "Next a government must be set up, a new government."  Filip Reyntjens writes here, "And since they wanted to appear to respect legality the government had to include the same representatives as the previous government, so they had to include members of the PSD.  It was decided, therefore, to invite two members from the politburo, François Ndungutse and Nyacinthe, Nsengivumva Rafiki, who arrive with an escort around 3 p.m.  This is on page 88.
+MR. BESNIER:
+Thank you, Witness.  We also have a copy of this document and we should like to ask this document, as well, be tendered as the next Defence Exhibit, Mr. President.
+MR. PRESIDENT:
+That's excerpts of the book, page 88?
+	(Exhibit No. D. 50 admitted)
+MR. BESNIER:
+Yes, Mr. President.  That is correct.
+
+BY MR. BESNIER:
+Q.	Thank you for your cooperation, Mr. Witness.  I'm sure that you have many different sources and I'm sure that you've talked with witnesses, talked with resource persons and I'm sure that the information that you've given is the result of hard research.
+A.	Yes, I even used a source from the Tribunal.  I could even talk about a source from the Tribunal dating back to 1996-1997 on two occasions.  Would you like this source, Counsel?  Should I cite it?
+Q.	Perhaps we'll get to it later, because I have some more questions for you.  I have more questions about the source you are about to mention.
+MR. BESNIER:
+Mr. President, I'm not sure if I should continue in my examination-in-chief at this time.
+MR. PRESIDENT:
+That's a very good point.  Now, your reference to Alison Des Forges, Mr. Witness, that is page 230 of Leave None To Tell The Story book, that's the source, the quote you are emphasising in your report is page 230 of the book now entered as D. 49, isn't that so?
+MR. WITNESS:
+Yes, Mr. President.  Page 230, and on that page Alison Des Forges speaks of the beginning of that meeting of 8 of April, which started early in the morning.  In her report she says the same thing, by the way.  She confirms that in her report, but -- which is also confirmed by my own information.  She is completely right.  The whole question is to know whether it was 8 or 9 in the morning, but --
+MR. PRESIDENT:
+So, in other words, you are commenting on page 14 of her report, page 230 of her book, and you are saying that these two quotes are the same, that is the situation we are confronted with, yeah?
+THE WITNESS:
+Yes, page 230.  But, unfortunately, I don't have the report before me.  But if my memory serves me well, she says approximately the same thing in her report.
+MR. PRESIDENT:
+It follows from your footnote 32 that you refer to page 14 of the report.  All right.  
+
+No, I think you are right, Mr. Besnier, that we will have to stop now and that we will end with you tomorrow and then after that we have the cross-examination.
+MR. BESNIER:
+Most obliged, Mr. President.  Thank you.
+MR. PRESIDENT:
+The Court is adjourned.  We will meet tomorrow.
+(Court adjourned at 1713H)
+(Pages 30 to 41 by R. Lear)
+
+
+
+
+      C E R T I F I C A T E
+
+
+We, Shannon Eboe-Osuji, Trish Greig, Petrus Chijarira, and Rex Lear, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+___________________________	Shannon Eboe-Osuji
+	
+___________________________	Trish Greig
+
+___________________________	Petrus Chijarira
+
+___________________________	Rex Lear
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	NDINDABAHIZI	19 NOVEMBER 2003
+
+SHANNON EBOE-OSUJI - ICTR - TRIAL CHAMBER I - page 9
+
+	NDINDABAHIZI	19 NOVEMBER 2003
+
+TRISH GREIG - ICTR - TRIAL CHAMBER I - page 19
+
+	NDINDABAHIZI	19 NOVEMBER 2003
+
+PETRUS CHIJARIRA - ICTR - TRIAL CHAMBER I - page 29
+
+	NDINDABAHIZI	19 NOVEMBER 2003: 
+
+REX LEAR - ICTR - TRIAL CHAMBER I - page 41
+
+	NDINDABAHIZI		19 NOVEMBER 2003
+
+ICTR - TRIAL CHAMBER I
+

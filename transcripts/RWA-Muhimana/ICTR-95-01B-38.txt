@@ -1,0 +1,2558 @@
+                       THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-95-1B-T                                     THE PROSECUTOR
+CHAMBER III                                                OF THE TRIBUNAL
+                                                           v.
+                                                           MIKA MUHIMANA
+
+
+                                     TUESDAY 18 JANUARY 2005
+                                             1500H
+                                        CONTINUED TRIAL
+
+
+Before the Judges:
+                       Khalida Rachid Khan, Presiding
+                       Lee Gacuiga Muthoga
+                       Emile Francis Short
+
+For the Registry:
+                       Mr. Constant K. Hometowu
+                       Mr. Issa Mjui
+
+For the Prosecution:
+                       Mr. Charles Adeogun-Phillips
+                       Mr. Walace Kapaya
+                       Ms. Renifa Madenga
+
+For the Accused Mikaeli Muhimana:
+                        Mr. Nyabirungu Mwene Songa
+                        Mr. Richard Kazadi Kabimba
+
+Court Reporters:
+                       Ms. Sithembiso Moyo
+                       Ms. Leslie Todd
+                       Ms. Karen Holm
+                       Ms. Judith Baverstock
+                                            ERRATA
+
+
+I, the undersigned, Patrick Enow, supervisor of the English court reporters of the International
+CriminalTribunal for Rwanda, make the following corrections:
+
+
+1. At page 29, lines 6 and 7, in lieu of:
+    “national”
+
+
+    read:
+    “international”.
+
+
+2. At page 35, line 5, in lieu of:
+    “loved”
+
+
+    read:
+    “laughed”.
+
+
+3. At page 45, line 7, in lieu of:
+    “war”
+
+
+    read:
+    “walk”.
+
+
+4. At page 49, line 19, in lieu of:
+    “BJ”
+
+
+    read:
+    “BG”.
+
+
+
+
+                                ___________________________
+                                            Patrick Enow
+          MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1                                             PROCEEDINGS
+ 2   MADAM PRESIDENT:
+ 3        Good afternoon to all. I declare the Court in session.
+ 4
+
+ 5        May the Prosecution introduce the members of its team?
+ 6   MR. ADEOGUN-PHILLIPS:
+ 7        Good afternoon, Your Honours. The Office of the Prosecutor is represented by Mr. Wallace Kapaya,
+ 8        Mrs. Renifa Madenga, Ms. Maymuchka Lauriston, Ms. Queen MacAlice and myself,
+ 9       Charles Adeogun-Phillips. I am grateful, Your Honours.
+10   MADAM PRESIDENT:
+11        Thank you. And the Defence too.
+12   MR. SONGA:
+13        Good afternoon, Madam President. Good afternoon, Your Honours. Good afternoon, my friends of
+14        the Prosecution. The Defence is represented by myself, Professor Nyabirungu, assisted by
+15       Counsel Kazadi and Munderede. I thank you.
+16   MADAM PRESIDENT:
+17        Thank you, Professor.
+18
+
+19       First of all, a happy new year to everyone present in the courtroom.
+20
+
+21        Now we have reached the stage of closing arguments. Before we proceed with the oral submissions,
+22        Mr. Prosecutor, may we know the estimated length of time you will need for your oral arguments?
+23   MR. ADEOGUN-PHILLIPS:
+24        Your Honour, we kind of estimate about 40 to 45 minutes per speaker. Three of us would be handling
+25        the closing arguments. I will deal with counts 1 and 2; Mrs. Madenga, count 3; and Mr. Kapaya will
+26        deal with count 4 and the submissions on sentence, so he may need slightly longer, but I estimate
+27        about three hours in total, Your Honour.
+28   MADAM PRESIDENT:
+29        Does that mean that you will be able to conclude your arguments today?
+30   MR. ADEOGUN-PHILLIPS:
+31        Oh, certainly, Your Honours. Certainly, we have to do that.
+32   MADAM PRESIDENT:
+33        Thank you. Go ahead, please.
+34   MR. SONGA:
+35        Madam President, I crave your indulgence to interrupt the proceedings in order to present to you a
+36        concern. When we parted company last time, there was an important matter pending, inasmuch as
+37        with regard to the Defence Witness DZ and DK, notice was taken of their confessions before the
+
+                                SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 1
+     MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1   Rwandan authorities. However, the case file as presented by the Prosecutor contradicted the claims
+ 2   of the witness inasmuch as the witness was dealing with confessions but which were not included in
+ 3   the files presented by the Prosecutor, and this made the Prosecutor -- they think that we were dealing
+ 4   with witnesses who are not credible.
+ 5
+
+ 6   I am conscious of the difficulty I am raising by presenting this problem to you, but I am also conscious
+ 7   of the fact of the very soul of your Court and the spirit of the statutes and rules as the need for a fair
+ 8   trial. This is a requirement of Article 20 of the Statute. Similarly, the Rules, basically Rule 73, provide
+ 9   that once a person has appeared initially, the Prosecution or the Defence may always make motions.
+10
+
+11   And then, Madam President, I would like to refer you to Rule 85 of the Rules of Procedure and
+12   Evidence, even though the order in which we have to present our evidence, there is a clause in this
+13   text to the effect that you can proceed, otherwise, when the Chamber decides otherwise in the interest
+14   of justice. I would also like to point out that if we read Rule 87 of the Rules of Procedure and
+15   Evidence, we cannot say that the proceedings were over, since according to this Rule, the presiding
+16   Judge of the Trial Chamber shall declare the hearing closed after the closing arguments and the
+17   closing brief.
+18
+
+19   I remember, Madam President, Your Honours, that when this issue was raised on the 8th of
+20   September, Honourable Judge Short expressed many regrets that the Defence had not dealt with the
+21   entire case file which shows that the confessions of the witness were real and that they had actually
+22   been noted by the Rwandan judicial authorities. But after such regrets, the Honourable Judge had
+23   suggested that the Defence should ascertain whether there wasn't a legal source, a text or case law
+24   that would enable the Court to proceed with that matter.
+25
+
+26   I would like to point out again, that in light of the Rules, the proceedings are not being reopened
+27   inasmuch as we haven't presented our closing briefs and closing arguments. As a matter of fact, with
+28   due respect to all the legal references, Your Honours, Madam President, I believe you have a
+29   heightened sense of justice and that you are daily preoccupied with the need to ensure a fair trial. I
+30   would like to state that I wouldn't like the Prosecutor to raise motions, even though they are entitled to
+31   do so, to the motion of the Defence, which would enable us to repair the prejudice done to the
+32   Accused, by the very fact that they try to discredit the witness without any real materials in support of
+33   that challenge and without having any materials or evidence in its possession.
+34
+
+35   Madam President, Your Honours, I once more crave your indulgence for interrupting the proceedings
+36   as envisaged in the Rules, but I believe that the need to ensure a fair trial commands that this motion
+37   be raised. I thank you for your attention.
+
+                            SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 2
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   MADAM PRESIDENT:
+ 2       Have you filed the copies of the confessions? We have not received them yet.
+ 3   MR. SONGA:
+ 4       Thank you, Madam President. As you would imagine, I have only been here for two days. But since
+ 5       this morning, I have done my best to submit the confessions given in Rwanda, and those documents
+ 6       were acknowledged -- receipt of those documents was acknowledged.
+ 7   MADAM PRESIDENT:
+ 8       Professor, if the confession is in Rwanda, how would you expect us to know the contents of the
+ 9       document?
+10   MR. SONGA:
+11       Yes, Madam President, that is precisely what I did by forwarding this document to you accompanied
+12       by the case file which was tendered by the Prosecution.
+13   MADAM PRESIDENT:
+14       Professor, can we know one good reason why you did file this confession so late?
+15   MR. SONGA:
+16       Let me explain, Madam President. I believe all the aspects were already dealt with in the discussions
+17       of 8th September 2004. At the time we had addressed you on the difficulties the Defence had
+18       encountered because of the rule of confidentiality which is part of the practice in Rwanda, you showed
+19       proof of a lot of understanding when the witness said -- stated that he was in possession of a copy,
+20       but that he didn't have it on him. And you had requested that the Rwandan authorities be contacted in
+21       writing in order that they provide those documents, and that if difficulties persisted, you would assist.
+22   MADAM PRESIDENT:
+23       Professor, when did you get hold of that document?
+24   MR. SONGA:
+25       My investigator who lives in Rwanda informed me last week that he had just obtained the document.
+26       As we knew that the case was going to resume, we agreed to meet here. I arrived here in Arusha the
+27       day before yesterday, and I obtained the document yesterday, and I prepared a mail today for
+28       transmission to your Chamber and to the Prosecution.
+29   JUDGE MUTHOGA:
+30       When did you ask for it from the Rwanda government, on which day and in which way?
+31   MR. SONGA:
+32       Perhaps I wouldn't know the exact date, but I know the month. It was immediately after the
+33       appearance of DZ, that was the day after he appeared. We immediately wrote to the Rwandan
+34       authorities. We also wrote to the registry to request it to assist us in the forwarding of the mail. And
+35       when DK appeared in the face of the same difficulties, and in spite of the fact that it was at the end of
+36       the presentation of the Defence case, we immediately wrote to the Rwandan authorities. Whether we
+37       are dealing with the letter relating to the confessions of DZ or DK, the Rwandan authorities did not
+
+                               SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 3
+          MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1        respond to those letters.
+ 2   JUDGE MUTHOGA:
+ 3        Did you copy any of your letters to either the court management or the Prosecution?
+ 4   MR. SONGA:
+ 5        I am not in a position to confirm that, but what is certain is that we agreed during the proceedings that
+ 6        was what had to be done and that was the procedure, and at the same time we were assisted, as
+ 7        usual, by the registrar of the Tribunal himself.
+ 8   JUDGE MUTHOGA:
+ 9        I didn't follow that. You were assisted by the registrar to do what?
+10   MR. SONGA:
+11        The procedure is that when we write to the Rwandan authorities, the mail is not sent directly; it is filed
+12        with the registrar and the registrar himself then forwards the letter to the authorities in Rwanda. That
+13        is the usual procedure. Whether it has to do with what we are dealing with now or whether it is to deal
+14        with the protection of witnesses, we write a letter to the competent authority, but we first have to write
+15        to the registrar to request him to assist in forwarding the letter; that is the procedure.
+16   JUDGE MUTHOGA:
+17        My question is: Was the letter copied to either court management or the Prosecution? The letter
+18        addressed to the Rwandan authorities, seeking that they release to you the confessions of this
+19        witness, is that letter copied to either court management or the Prosecution or any other person
+20        outside the addressee?
+21   MR. SONGA:
+22        Your Honour, I was saying that although I do not have the documents with me here, my answer to
+23        your question is yes.
+24   JUDGE MUTHOGA:
+25        How do you give the answer "yes" if you don't have the document? Is it from your recollection? Is it
+26        because you yourself did the writing, or is it because it is traditional to do so?
+27   MR. SONGA:
+28        I say so because one of my legal assistants says the answer is yes, even now.
+29   JUDGE MUTHOGA:
+30        Prosecutor, do you have a copy of that letter, and if you do, what is the date on it?
+31   MR. ADEOGUN-PHILLIPS:
+32        I don't, Your Honour. I never received any such document.
+33   JUDGE SHORT:
+34        Professor Songa, this case was scheduled for closing arguments for the 6th, 7th and 8th of
+35        December. Now, if close to those dates you were encountering difficulty in getting these confessions,
+36        what efforts did you make to seek the assistance of the Court to get these documents? And don't you
+37        think that this application you are making, you should have made it in writing showing due diligence,
+
+                                  SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 4
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1       the efforts that you had made to obtain the document, and rather than just coming at this time and
+ 2       orally telling us without production of the letter that you say you have written, and you expect us to
+ 3       accept everything you said? You knew about this document in September and we are now in
+ 4       January. What efforts did you make from September to now to get these documents, and why have
+ 5       you not approached the Court if you were encountering difficulties to assist you to get the document
+ 6       up to now?
+ 7   MR. SONGA:
+ 8       Thank you, Your Honour. First of all, all mail passes through the Court Management Section.
+ 9       Secondly, I think we shouldn't be faulted on our perseverance. We didn't know that we would have
+10       this document. I contacted my investigator since -- fortunately, he lives in Rwanda, and he gave me
+11       access to the detainees and obtained the authorisation to obtain the document in his possession. If
+12       the trial had resumed on the 6th of September -- of December, it would have been unfortunate for us,
+13       but since the time frame was extended, we availed ourselves of it; it was in our favour. I believe you
+14       understand me, Your Honour.
+15   JUDGE MUTHOGA:
+16       Professor, I think there is a fundamental point you are missing. The fundamental point is this: It must
+17       be assumed that you believed this document to exist as long ago as 8th September, and, therefore --
+18       and I think you believed then that it was a document which would assist your client's case. What is
+19       being asked of you is this: With that knowledge and keeping in mind the exchanges that went on in
+20       Court on the 8th of September, why did you not do anything tangible beyond asking or writing for this
+21       document to show that we are seeking to get the document, so that, in fact, you would be saying,
+22       "Yes, I have worked diligently and at long last, only yesterday I got the document" because that
+23       doesn't entitle -- that would make it possible for us to see you as somebody who is diligently seeking
+24       to advance his client's case.
+25
+
+26       Now, here you haven't showed us, one, what steps you took to obtain the documents you believed to
+27       be of assistance to your client in this matter, when you did it and what the results were, which as
+28       Her Lordship has said, if you had only sat down yesterday when you came and prepared a written
+29       motion setting out all those things, you would place us in a much more easier way to understand your
+30       predicament. And as you say, we are dealing with the issue of fair trial which is fair to both sides and
+31       not fair to one side. There is no such thing as fair for one side. Fair means it cuts both sides. We
+32       want to try and understand you, Professor, if we can, what diligence you have put in this matter
+33       because our discretion in the matter can only be exercised when that diligence has been exhibited.
+34   MR. SONGA:
+35       Your Honour, I believed the results would precisely be the proof of the diligence. I know that I
+36       contacted my investigator on several occasions, an investigator who is in Rwanda. I don't know if I
+37       could have done more. But with regard to the official correspondences, they were channelled through
+
+                               SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 5
+          MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1        the usual channels. I don't know how much more I could have been diligent. I know you are
+ 2        suggesting I could have raised a written motion yesterday, but I would like you to understand the
+ 3        intensity of the work the Defence had to do the day before the presentation of the closing briefs. The
+ 4        work is tremendous and it wasn't easy at all.
+ 5   JUDGE MUTHOGA:
+ 6        But these documents, these letters, these correspondences which you pass through court
+ 7        management, you ought to have the copies; you ought to be telling us, "I passed a letter to court
+ 8        management dated on such-and-such a day, a copy of that is this one. I wrote again on
+ 9       such-and-such a day, a copy of this is this one." I am unable to see how you would be without the
+10        copies of the letters you send which the Prosecutor -- at least one of which the Prosecutor says he
+11        hasn't received yet.
+12   MADAM PRESIDENT:
+13        Now maybe ask the registry to get the copy of the letter.
+14   MR. HOMETOWU:
+15        Your Honours, we are conducting a search and the result would be made known to you very shortly.
+16        Thank you.
+17   MADAM PRESIDENT:
+18        Professor, when did you get the document, the confession statements of DZ? Can you give us the
+19        specific date?
+20   MR. SONGA:
+21        I received them yesterday, Madam President, and my investigator who lives in Rwanda informed me
+22        of that last week.
+23   MADAM PRESIDENT:
+24        But you said that you received the copy last week, didn't you say that?
+25   MR. SONGA:
+26        No, Madam President. Maybe what I said wasn't well understood. Last week I was in Kinshasa, my
+27        investigator was in Kigali and he informed me that he had just received that document. Knowing that
+28        we had to meet here for the resumption of the trial, I arrived before yesterday and I received that
+29        document yesterday; that is the situation, Madam President.
+30   MADAM PRESIDENT:
+31        Yes, Mr. Prosecutor, what do you have to say?
+32   MR. ADEOGUN-PHILLIPS:
+33        Your Honours, not very much. Suffice it to say that we identify with the observations and comments
+34        that Your Honours have made.
+35
+
+36        I would just make one addition to what you have already said. The statement of Witness DK, who
+37        testified before Your Honours on the 8th of September 2004, as far as we were concerned was
+
+                                 SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 6
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1       actually in his custody. His evidence was that he had a copy of that statement and he had left it
+ 2       behind. The issue then arises as to how long it takes to obtain a copy of a statement from
+ 3       Witness DK himself. That is our first observation.
+ 4
+
+ 5       A second observation is in relation to the statement we have before us. It doesn't seem to relate to
+ 6       the statement that Witness DK referred to in his testimony. In that regard, Witness DK, at page 47 of
+ 7       the transcript of 8th September 2004, stated that he made another confession on the 31st of January
+ 8       2004. Well, the statement I have attributed to him is dated the 27th of July 2004. So as far as I am
+ 9       concerned, we are still not talking about the same statement anywhere.
+10
+
+11       And in relation to the obtaining of the statements, if the correspondence that accompanied the request
+12       to the Rwandan government cannot be found, can we at least have the ones that accompanied the
+13       statements from the Rwandan government? Thank you.
+14
+
+15       And just to add that we would also be asking if Your Honours are minded to admit the statements, we
+16       would ask that the witnesses be recalled so that we can cross-examine them in relation to the content.
+17   MADAM PRESIDENT:
+18       Professor, can you provide us with the communication of the Rwandan authorities?
+19   MR. SONGA:
+20       Madam President, I was saying that regarding that witness, the Rwandan authorities never responded
+21       to our correspondences. So we have no correspondence from the Rwandan authorities on that
+22       matter.
+23   JUDGE SHORT:
+24       Mr. Songa, on what evidence are we to make this decision? What evidence is before us as for the
+25       efforts you made and the results of those efforts? There is absolutely nothing before us, and how are
+26       we to make this decision?
+27
+
+28       And with regard to the evidence -- the confession of the first -- DK, I think it's the witness who said he
+29       had the confession but he had left it in Rwanda, how long -- why was it so difficult for you to get him to
+30       produce the confession soon after he testified? I can't see any explanation for that, your inability to
+31       produce that particular document. In any event, the point is as at this stage, there is absolutely no
+32       evidence before us on which we can make a decision on your application.
+33   MR. SONGA:
+34       I believe I heard that investigations were being conducted on the file that was sent to Rwanda -- on
+35       the correspondences I had sent to Rwanda. If the results of such investigations were presented to us,
+36       I believe the answer to this question would be found. What I know is that the correspondence was
+37       sent on the instructions of the Tribunal and that they exist, even though I did not bring copies. It is
+
+                               SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 7
+          MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1        true that I do not have copies of the correspondences with me here. If we were working under normal
+ 2        conditions, my assistant would have gone to the office to look for it, but we don't have an office in the
+ 3        Tribunal, and the document we are referring to is in our house. This is a difficulty relating to our
+ 4        working conditions. We don't have an office here. We don't have any facility for storing documents.
+ 5   MADAM PRESIDENT:
+ 6        Professor, your witness, during the course of the evidence, had admitted that he had the copies. You
+ 7        could have asked him to send you the copies.
+ 8   MR. SONGA:
+ 9        Madam President, we should bear in mind the fact that the witness -- the witnesses we are dealing
+10        with are detainees. We do not correspond with them; we need authorisation from the prison
+11        authorities. If they were free witnesses, we would have proceeded otherwise, but we are dealing with
+12        detainees.
+13   JUDGE MUTHOGA:
+14        Professor, I am still in a state of perplexity. You have perplexed me by suggesting that your copy
+15        would be in the house because you don't have an office. I mean, the one thing you knew before you
+16        stood up, before you even made a decision to speak to us, is that you would be expected to show
+17        diligence in this matter. It can't be that you thought that you would merely ask the Court and that the
+18        Court would not seek to know what you have done about getting these documents, and, therefore, an
+19        explanation that your copies are lying in your room because you don't have an office in the Tribunal
+20        astounds me. I mean, I get defeated by that kind of practice. I mean, I couldn't possibly imagine a
+21        situation where you are leaving your documents in your house when you know those are the
+22        documents you will be asked to show.
+23   MR. SONGA:
+24        I understand the purport of your comment, Your Honour, but all I am saying is the truth.
+25   MR. HOMETOWU:
+26        Your Honours, after a diligent search in the records -- in the case file, please I want to inform you that
+27        there is no record of such correspondence coming from Professor Songa regarding the two
+28        witnesses, DZ and DK. Thank you.
+29   MADAM PRESIDENT:
+30        We have deliberated and we are inclined to dismiss your motion, Professor. Thank you.
+31
+
+32        Mr. Phillips, please proceed.
+33   MR. ADEOGUN-PHILLIPS:
+34        Thank you, Your Honours. Your Honours, as I --
+35   MADAM PRESIDENT:
+36        Just a minute.
+37
+
+                                SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 8
+          MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1       We have dismissed your motion, Professor, because you could not show us any evidence that you
+ 2        acted with due diligence to prepare the copy of confession statements of Witness DK, and there is
+ 3        also no record in the registry that you have sent the letter to the Rwandan authorities asking them --
+ 4        requesting them to provide you with a copy of the confession statement.
+ 5
+
+ 6        Yes, Mr. Phillips, please proceed.
+ 7   MR. SONGA:
+ 8        Thank you, Madam President.
+ 9   MR. ADEOGUN-PHILLIPS:
+10        Your Honours, on the 25th of October 2004 the Prosecutor filed a closing brief before the
+11       Trial Chamber. The brief was essentially divided into six chapters, Chapter 1 dealing briefly with the
+12        nature and assessment of the evidence adduced at trial; Chapter 2 dealing with the procedure or
+13        history of the case; Chapter 3 dealing with the particulars and personal circumstances as we allege
+14        them to be of the Accused in this case, Mr. Mika Muhimana; Chapter 4 dealing with the legal and
+15        factual submissions adduced during the trial; Chapter 5 dealing with the legal and factual submissions
+16        adduced in support of count 3, rape as a crime against humanity, and Chapter 4 dealing with the legal
+17        factual submissions adduced in support of count 4; namely, murder as a crime against humanity.
+18
+
+19        Your Honours, I will be dealing with the -- very briefly, with an overview of the submissions that we
+20        make in relation to Chapter 4 of the said brief; namely, counts 1 and 2, the charges of genocide or,
+21        alternatively, complicity in genocide.
+22
+
+23        My learned colleague Ms. Madenga will deal with those concerning -- the submissions concerning
+24        count 3, rape, and Mr. Kapaya will deal with those concerning murder as a crime against humanity in
+25        count 4 of the indictment. He would also make some remarks in relation to sentencing. We haven't
+26        filed a separate document, of course.
+27
+
+28        In that regard, Your Honours, the Accused in this case Mika Muhimana is charged in count 1 with the
+29        crime of genocide, and in the alternative with that of complicity in genocide. Suffice it to say that at
+30        this stage the Prosecutor relies in relation to those two counts on the same facts, and they are indeed
+31        charged in the alternative.
+32
+
+33        It is our position as prosecutors that genocide was committed in Rwanda between April and June
+34        1994, and we would also represent to Your Honours that the widespread massacres which occurred
+35        in Rwanda in 1994 were geared towards the destruction and extermination of the Tutsi population
+36        who were specifically targeted because of their ethnic origin and because such people were perceived
+37        to be accomplices of the RPF.
+
+                                SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 9
+     MUHIMANA                                                                       TUESDAY, 18 JANUARY 2005
+
+ 1   For the benefit of the interpreters, I am referring to -- generally to page 11 of my closing submissions.
+ 2   Your Honour, in paragraph 6 of Chapter 4, we state that the Accused disputes that genocide occurred
+ 3   in Rwanda between April, May and June 1994. However, the Accused does not dispute -- the
+ 4   Defence do not dispute that at all times referred to in this indictment, there existed in Rwanda a
+ 5   minority ethnic group known as Tutsi and officially recognised as such, and they obviously make the
+ 6   same admission in relation to the Hutu ethnic group. We refer you specifically to paragraph 32(a) of
+ 7   the request -- our request to admit facts from the Defence where they have made those admissions.
+ 8
+
+ 9   Your Honours, I would represent to you that the totality of the evidence adduced in this case would
+10   indicate to you that Tutsis at various locations and the events -- the various events charged in the
+11   present indictment were killed in great numbers. In that regard, Your Honours, we have made some
+12   submissions in our brief, paragraph 18 onwards in relation to the genocidal intent which is necessary
+13   to be proven in relation to the offence of genocide, what is called the special intent to commit
+14   genocide. In that regard, we outlined in paragraph 18 that before the Accused Mr. Muhimana can be
+15   convicted of a crime of genocide, the Prosecutor has to establish beyond reasonable doubt that he
+16   participated in the killing and causing of serious bodily and mental harm to Tutsi civilians in Gishyita
+17   commune with specific intent to destroy those people or such persons in whole or in part. The
+18   requirement that I have just outlined is indeed unique to the crime of genocide, and in that regard, it is
+19   submitted at paragraph 18 of our brief that the special intent of a crime is a specific intention which, as
+20   an element of the crime, requires that the perpetrator clearly intended the result charged.
+21
+
+22   The Prosecutor would represent to Your Honours, and we have done so from paragraph 19 to 21, that
+23   there are factors that you as Judges can take into account in reaching the conclusion that the
+24   offences underlined in support of the charge of genocide were perpetrated with the specific intent that
+25   I have just outlined. In particular, Your Honours, at paragraph 23 of the closing brief, Chapter 4 of the
+26   closing brief on page 15, we outlined that as part of many inertia -- or indicia that you can take into
+27   consideration, the persistent pattern of conduct displayed by an accused person participating in a
+28   multitude of sustained attacks on Tutsis at various locations, in this case in Gishyita and Gisovu
+29   communes, between the period of April and June 1994, is evidence that his participation in those
+30   attacks was intentional and as such may be constituted as evidence of his genocidal intent.
+31
+
+32   At paragraph 24, we make mention of the actions of the Accused concerning rapes of various women,
+33   the transportation of attackers in various convoys to various massacre sites, and we also talk about
+34   the statements and the directives of the Accused to various assailants as providing direct evidence of
+35   his genocidal intent.
+36
+
+37   Similarly, in paragraph 25 of Chapter 4 on page 16, we state that Your Honours should be minded to
+
+                             SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 10
+     MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1   the striking similarities between the killings of Tutsi civilians as you have heard in this case taking
+ 2   place in Gishyita secteur, Mubuga church, Mugonero complex and areas of Bisesero, and those
+ 3   launched against Tutsis in other areas and part of Kibuye préfecture and in Rwanda as a whole during
+ 4   the same period. And, in that regard, Your Honour, we argue and it's our case that those similarities
+ 5   indicate that the mass killings and other crimes alleged in this indictment must have occurred as part
+ 6   of a wider genocidal plan and policy to exterminate Tutsis throughout Rwanda between April and
+ 7   June 1994.
+ 8
+
+ 9   Your Honours, at paragraph 26, we carry on to say that in assessing the criminal responsibility and
+10   the genocidal intent of the Accused, you as Judges should not assess the evidence against him in
+11   isolation, that is, the evidence adduced by our witnesses, Prosecution witnesses, but, rather, we urge
+12   you to consider such evidence in the context of the overall events that occurred in Rwanda during the
+13   aforementioned period and specifically within Kibuye préfecture.
+14
+
+15   In paragraph 27, 28 and 29, we outline the evidence of some of our witnesses that support our
+16   contention that the Accused possessed the requisite intent to commit genocide. For example, we
+17   outline the evidence of Witness BI, who talked about how Tutsi -- Hutu women that were married to
+18   Tutsi men were evacuated from the Mugonero complex on the 16th of April 1994.
+19
+
+20   We say at paragraph 27 of our closing brief that such evacuation at the time and in the circumstances
+21   was indicative of specific intent to destroy members of the Tutsi ethnic group that were present at the
+22   Mugonero complex at the time.
+23
+
+24   Witness AT says something similar. He also saw certain Hutu gentlemen being evacuated from the
+25   complex. Witness X, as described in paragraph 29, heard the Accused saying it was the Tutsi that
+26   had to die and there was nothing else to be done. She described to Your Honours, how having heard
+27   this, she and her Tutsi husband fled towards the area of Bisesero.
+28
+
+29   Your Honours would also recall the evidence of Witness BJ that was led by my learned friend and
+30   colleague Mrs. Madenga and how she described – how, after she had been raped by persons with the
+31   Accused, she discovered that she had been mistakenly taken for a Tutsi, and that, in actual fact, she
+32   as a Hutu, should not have suffered such a misadventure. Paragraph 30 of our brief summarises her
+33   evidence in that regard.
+34
+
+35   At paragraph 32 of Chapter 4, Your Honours, we say that the totality of the evidence that we have
+36   summarised from paragraph 27 to 32 of the said brief would indicate and provide you with sufficient
+37   evidence that Mika Muhimana, in carrying out the criminal activities attributed to him in the said
+
+                           SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 11
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   indictment, possessed the requisite intent to commit genocide.
+ 2
+
+ 3   It is further submitted that the criminal activities of Mr. Muhimana as outlined in Chapter 2 and
+ 4   Chapter 4 and the entire brief basically describes a pattern of purposeful action over a three-month
+ 5   period and include circumstantial evidence.
+ 6
+
+ 7   Your Honours, I would now go to the summary of the factual allegations that we referred to and we
+ 8   adduced in the brief in support of the allegation in the indictment and a summary of some of the
+ 9   interesting evidence that you may have heard from Prosecution witnesses.
+10
+
+11   In support of the charge of genocide and complicity in genocide in the alternative, the Prosecutor
+12   relied on the evidence of witnesses and divided their evidence into four main events at four main
+13   locations. They were the events in Gishyita secteur, Gishyita commune, which was essentially
+14   evidence about attacks at the Kiziba commercial centre.
+15
+
+16   I am now referring to paragraph 39 of Chapter 4, page 18, for the interpreters. The events at the
+17   Mubuga parish church, Your Honours, the events at the Mugonero complex and the events that
+18   occurred within the area of Bisesero which spanned Gishyita and Gisovu communes. Taking the
+19   events that occurred in the area of Kiziba commercial centre located in Gishyita secteur in Gishyita
+20   commune, the allegation is outlined in paragraph 5(a) of the indictment and it is reproduced at
+21   paragraph 40, on page 19 of the Prosecutor's closing brief, and I wouldn't necessarily repeat what
+22   those allegations are.
+23
+
+24   Suffice it to say, Your Honours, that in summary, the Prosecutor in support of that allegation relied on
+25   the evidence of three witnesses; namely, W, BB and BC. In essence, Your Honours, Witness W, who
+26   was a Tutsi male, on the 9th of April 1994, described to you how he saw the Accused amongst other
+27   attackers in his cellule of origin. His evidence was extremely pointed. He remembered the clothes
+28   the Accused was wearing and saw him carrying a gun. Essentially, W's evidence, as far as the 9th of
+29   April was concerned, was that he saw the Accused replenishing and supplying ammunition to
+30   assailants who were involved in an attack on Tutsis.
+31
+
+32   Now, as part of the said attack, Witness W saw the Accused shoot a Tutsi man aged between 18
+33   and 20. His name was Emmanuel, Your Honours will recall. We asked him why he was sure that the
+34   Accused was implicated in the killing of Emmanuel, and he said, "Well, the Accused was right in front
+35   of me, at a distance of some 20 to 30 metres. I had a very clear view of him." "How do you know that
+36   the Accused shot Emmanuel?" We asked. He replied, "There were very few guns. I had a clear view
+37   of the Accused." His testimony in that regard is summarised at paragraph 42 to 46, pages 19 to 20 of
+
+                          SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 12
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   Chapter 4 of Prosecutor's closing brief.
+ 2
+
+ 3   Witness BB, who was a Tutsi, also testified that on the 9th of April she saw the Accused at her cellule.
+ 4   She saw the Accused whilst there was an attack on Tutsis ongoing, and she was located at a distance
+ 5   of about four and half metres from the Accused at this time. The location of this activity was at Kiziba.
+ 6   Now, she testified, Your Honours, that having arrived at the location where this attack was going on,
+ 7   the Accused ordered the Tutsis who were involved in this attack to be disarmed. They subsequently
+ 8   separated from the Hutu. And in separating or in ordering the separation of the Tutsi civilians from the
+ 9   Hutu at the time in Kiziba, Witness BB said that the Accused said that -- he referred to the fact that the
+10   fate of the Tutsi civilians had in fact been sealed. That was her evidence before Your Honours, and
+11   this happened on the 9th of April.
+12
+
+13   Again, the evidence of Witness BB was summarised at paragraph 47 to 49 on page 20 of Chapter 4.
+14   (Pages 1 to 13 by Sithembiso Moyo)
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                          SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 13
+          MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1        1600H
+ 2   MR. ADEOGUN-PHILLIPS: (Continuing)
+ 3        Pardon me, Your Honour. The evidence I just referred to refers to Witness BC, not BB. We then
+ 4        relied on BB who saw the Accused arrive on the 9th of April at 11 p.m., and it's BB's testimony,
+ 5        Your Honours, that is summarised at paragraphs 47 to 49, and -- BC is summarised from 50 to 52.
+ 6        Pardon me for that error. So going back to the evidence of BB, Your Honour, BB was a Tutsi male
+ 7        who testified before Your Honours that on the 9th of April 1994 at 11 a.m., he saw the Accused arrive,
+ 8        amongst 200 assailants in an area known as Kiziba; the Witness BB was located at a distance of
+ 9        about 50 metres from where the Accused and his accomplices were located and was therefore able to
+10        identify him. He described the Accused as being armed with a long gun with a wooden butt, and he
+11        saw the Accused firing at people. Then comes Witness BC whose testimony I have just summarised.
+12        Witness W talks about a further sighting in the area of Kiziba on the 11th of April. His evidence in that
+13        regard is summarised at paragraph 52 on page 21. Having heard or reviewed the evidence of these
+14        three witnesses, there are certain conclusions that can be arrived at, and we summarise those
+15        conclusions at paragraph 53 to 56 of our brief. In that regard we say the following: That it is clear that
+16        the area that we referred to, namely Kiziba, K-I-Z-I-B-A, is located in Musenyi secteur, and that is
+17        spelled M-U-S-E-N-Y-I secteur. There is very little dispute about that, and we say why we make this
+18        allegation. It is also true to say that all the three witnesses that we've considered, BB, BC, and W,
+19        were all from neighbouring secteurs, secteurs generally neighbouring Musenyi. All three witnesses
+20        described seeing the Accused at Kiziba trading centre on the 9th of April, with one further sighting by
+21        W on the 11th. It is our position that they are talking pretty much about the same event or the same
+22        series of events happening within the locality, the same locality. They all knew the Accused well
+23        before the events; they had no problems identifying him in this Courtroom. Naturally, the Defence
+24        disputes that the Accused was involved in the said attacks at Kiziba, but we say at paragraph 57 on
+25        page 22 of our brief that they do not dispute that Kiziba commercial centre is in fact located in
+26        Karama cellule, Musenyi secteur, Gishyita commune, so we agree on the location of the
+27        Kiziba commercial centre. The Accused disputes the facts that he distributed weapons to members of
+28        the Hutu population located at Kiziba; he disputes the fact that he participated in the attacks on
+29        civilians at the said location at any time; and in support of his case, he calls or he relies on the
+30        evidence of three witnesses: Defence Witness DM, Delta Mike, Defence Witness TQ1,
+31        Tango Quebec 1, and Defence Witness Tango Quebec 13. Three witnesses. We summarise the
+32        testimony of those three Defence witnesses on page 23 and 24 of chapter 4 of the closing brief. DM
+33        says that, well, as far as he or she was concerned -- I can't remember the sex of DM now -- she, she.
+34        I'm grateful, Your Honour. Witness DM stated that, as far as she was concerned, the area of Kiziba
+35        was in effect inhabited by cattle rearers. They were shepherds and illiterate cattle rearers and
+36        consequently such people could not handle ammunitions. We say that you should treat the evidence
+37        of DM with a great degree of caution. And why do we say so? We say so, first of all, because DM
+
+                                   LESLIE TODD - ICTR - TRIAL CHAMBER III - page 14
+     MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1   contradicted herself in cross-examination and stated that the inhabitants of Kiziba were soldiers, or
+ 2   some inhabitants of Kiziba were soldiers in the army of Habyarimana, so she shifted her position from
+ 3   wanting us to believe that because they were all cattle rearers and illiterate, they couldn't handle
+ 4   ammunitions and therefore the Accused in this place could not be replenishing their supplies, and
+ 5   then testified that in actual fact some of them were actually soldiers. We say that you should treat her
+ 6   evidence with caution because she's biased or likely to be, at a minimum. Why? Because she's
+ 7   related to the Accused. Therefore, it is very unlikely that Witness DM would say anything which will
+ 8   jeopardise her chances of having or being reunited with a child which she claimed to have had with
+ 9   the Accused person. We were very worried about her testimony.
+10
+
+11   Witness TQ1 didn't even know that Kiziba existed, had no idea that the place existed, so that defence
+12   was that, well, the place in contention does not even exist to the best of her knowledge. Well, this fact
+13   is contradicted by other witnesses called by the Accused, including Witness DM. So we wouldn't
+14   dwell on Witness TQ1's testimony terribly long.
+15
+
+16   Witness TQ13: 13 heard of Kiziba but certainly did not hear that weapons had been distributed to
+17   people in Kiziba. Well, why should she? And that's really the question, why would she? She did not
+18   provide any factual basis as to why she should have been in a position to hear that weapons were in
+19   fact distributed at Kiziba. We say at paragraph 64 of page 24 that you should reject her testimony in
+20   its entirety. Therefore, we conclude at paragraph 65 to 70 of page 24 of 25 of chapter 4 that
+21   Witnesses W, BB and BC, Prosecution witnesses, have proved beyond a reasonable doubt that
+22   Mr. Muhimana instigated, committed or otherwise aided and abetted in the killing of Tutsi at
+23   Kiziba commercial centre. We state at paragraph 66 and 67 why we think so, and we add at
+24   paragraph 68 that his mere presence, at a minimum, within the immediate environment of Kiziba
+25   among the attackers, considering his position as conseiller would have had a legitimising and
+26   encouraging effect on the perpetrators, and he, Mr. Muhimana, was clearly aware that his presence
+27   amongst the attackers would have had such an effect. In addition, Your Honours only need to believe
+28   one of these witnesses to convict Mika Muhimana of genocide based on the factual allegations in
+29   paragraph 5(a) of the indictment. Just one. You don't have to believe all three of them, and we make
+30   those submissions at paragraph 69 and 70. At paragraph 69 on page 25, we've asked Your Honours
+31   that despite the fact that we've tried to particularise his criminal conduct pursuant to Article 6.1 as
+32   instigation, aiding and abetting you as judges do not have to limit yourself to such characterisation. In
+33   that regard, you are free to apply any theory that you find applicable to the facts of the case as long
+34   as such theory fits within the confines of Article 6.1 of the statute. We say that by pleading Article 6.1
+35   in the indictment we have put my learned friends for the Defence and the Accused on notice that any
+36   one of the theories of direct responsibility would apply to Mika Muhimana's activities at Kiziba.
+37
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 15
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   Very quickly, Your Honours, I would move to the second event, Mubuga parish church, and the
+ 2   allegation is contained in paragraph 71 on page 25 of chapter 4. In that regard, we allege in four
+ 3   paragraphs, 5(b)(i), 5(b)(ii) and 5(b)(iii), that Tutsi refugees were gathered at Mubuga church from
+ 4   about the 8th of April 1994. We say there were 5,600, at least, humans in that church; namely, men,
+ 5   women and children. We also allege that the food supplies that were supplied to those refugees for
+ 6   their upkeep by an organisation called Caritas was looted at some stage after the 8th of April, and that
+ 7   the Accused in this case, acting in concert with others, was implicated in that act of looting. We also
+ 8   allege that the Accused Mika Muhimana was implicated, acting in concert with others, in the
+ 9   distribution of weapons and arms to assailants and attackers at that location.
+10
+
+11   Finally, we allege that the Accused was involved and participated in the attack on Tutsi refugees, all
+12   5,600 of them, that were located in that church on or about the 15th of April 1994. In support of our
+13   allegations in paragraph 5(b) of the indictment, the Prosecutor relies on the evidence of two
+14   witnesses; namely, Witness AV, Alpha Victor, and AF, Alpha Fostrom. Their testimonies are outlined
+15   on pages 26, 27 and 28, paragraphs 75 to 89 of chapter 4. AV testified, Your Honours -- it was a
+16   lady, a very intelligent woman, extremely educated, well educated -- arrived at the Mubuga church
+17   with other relatives on or about the 11th of April. She stated that four days after that, around about
+18   the 15th of April, at around 10 a.m. in the morning, she saw the Accused, who she testified she had
+19   known well before that date, arrive at the Mubuga church in a blue Suzuki Jeep. He had a gendarme
+20   with him; she described what the gendarme was wearing. She then told Your Honours that she saw
+21   the Accused take a box of grenades out of this Suzuki Jeep and placed it opposite the entrance of the
+22   church -- by the entrance to the church. She subsequently then saw the Accused at some stage
+23   throw a grenade through a window into the church. She told you that the grenade exploded, killing a
+24   Tutsi man by the name of Kayihura, K-A-Y-I-H-U-R-A. She said his head was shattered. Witness AV
+25   herself laid on the ground of that church wounded. She was injured and had suffered injuries to her
+26   neck, her head and her shoulder. As a result of this attack, she testified that there were many
+27   corpses in and around the church. That was AV's testimony about the 11th of April.
+28
+
+29   AF, having arrived at the church and sought refuge there from the 10th of April, saw the Accused
+30   round about the 14th; about four days after he arrived there now, he saw the Accused talking to the
+31   parish priest. He said that the Accused was in the company of Charles Sindikubwabo, referring to
+32   page 27, paragraphs 81 to 84 generally. He described how later that day an attack was launched at
+33   the presbytery of the Mubuga church. He was honest enough to say that he didn't actually see the
+34   Accused during this attack, but had concluded that the Accused and others were responsible for the
+35   attack, having seen them at the church earlier on in the day doing bad things. AF talked about how
+36   certain girls were abducted and taken from the presbytery during the night of the 14th and 15th of
+37   April and were subsequently raped. My colleague Mrs. Madenga will deal with that further in her
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 16
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   submissions. He identified one of the girls, and that's reproduced at paragraph 24. He called her
+ 2   Claudine.
+ 3
+
+ 4   On the 15th of April, the day after, AF, still located within Mubuga church, talks about seeing the
+ 5   Accused at the same church during an attack on Tutsis. He thinks and he recollects that the attack
+ 6   commenced at about 6 a.m. It is my submission that the fact that Witness AF states that the attack
+ 7   occurred at 6 a.m. and one says it occurred at ten o'clock, that the testimony of these two witnesses is
+ 8   not necessarily inconsistent. It depends on what they term as the commencement of an attack. In
+ 9   any event, 10 years after the fact, witnesses are allowed to give varying estimates as to time. I don't
+10   think that anyone can fault them for getting it wrong. All right. The issue is, in essence, AF and AV
+11   agree that the attack took place on the same day. They agree that the attack took place in the
+12   morning. Whether at six o'clock, 6:30, eight o'clock or nine o'clock, in my respectful submission, is
+13   immaterial to the evidence 10 years after the fact. What did AF see happen? Well, he told us that the
+14   refugees were, in essence, still sleeping inside the church, having been barricaded therein. The
+15   assailants smashed the doors in to the church, and he was very close to one of those doors. Based
+16   on his location at the church, he was able to identify the Accused with others. They were armed with
+17   guns, and he describes their location as being in front of the church, standing facing the primary
+18   school. In terms of the distance, he was ten metres away from them, he says. AF describes how the
+19   refugees, in a bid to defend themselves, removed bricks at the church and started throwing them as
+20   missiles to the attackers in the hope that they might dissuade or defeat them from attacking the
+21   church. Having failed at their attempt, the attackers threw grenades and tear gas into the church, in
+22   essence, overpowered the witnesses following which is substantial amount -- a substantial number of
+23   them were killed.
+24
+
+25   Now, from paragraph 90 to 93, we draw the salient points from the evidence of these two witnesses.
+26   First of all, the evidence came from two educated witnesses. I think there were perhaps two or four
+27   educated witnesses that testified in this case. Both of them knew the Accused prior to the events.
+28   Both of them saw the Accused at relatively short distances. Both sightings were during the day, clear
+29   visibility, and they had no problems identifying him 10 years after the fact in this courtroom. The
+30   Defence do not dispute that the Tutsi refugees gathered at the Mubuga parish church were attacked.
+31   Paragraph 94 of my brief. But why would they? They actually brought witnesses here who claimed
+32   and admit to having participated in the said attacks themselves. But, of course, they challenge the
+33   fact that the Accused participated in the attack on the Tutsi refugees as we allege in the indictment at
+34   paragraph 5(b)(iii) of the indictment. Interestingly enough, Your Honours, the Defence -- as we say in
+35   paragraph 95 of our brief, page 29, the Defence do not dispute that the Accused participated in the
+36   looting of food supplies meant for the refugees at the Mubuga parish church. In that regard, they
+37   actually produced Witness DC who testified that the Accused was present, amongst other leaders, at
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 17
+          MUHIMANA                                                                        TUESDAY, 18 JANUARY 2005
+
+ 1        the Mubuga church when the food supplies were looted.
+ 2   MADAM PRESIDENT:
+ 3        His mere presence would amount to looting?
+ 4   MR. ADEOGUN-PHILLIPS:
+ 5        I was just going to deal with that. And my submission was that we could draw the inference that at
+ 6        best he was an accomplice to the looting of the food supplies. Mere presence in his position as
+ 7        conseiller of Mubuga or Gishyita, pardon me, would have amounted and would have had a
+ 8        legitimising and encouraging effect on those who were looting the food. In any event, he shouldn't
+ 9        have been there. The Defence produced a staggering amount of witnesses to challenge the evidence
+10        of two prosecution witnesses, and I wonder why. I think in total we heard nine, ten -- ten witnesses,
+11        and those witnesses are identified in paragraph 96 of our brief. There are some things that are
+12        interesting or that is of particular interest about this defence. Their witnesses agree that there were
+13        Tutsis in that church. They agree that the food meant for the Tutsis were looted. They agree that the
+14        accused was at least present when the looting was taking place. They agree that there was an attack
+15        on Tutsis at the church, and the only point of contention really is whether or not the Accused was
+16        there. Witness DA was their first witness and indeed their star witness, a Tutsi woman. She claims
+17        she sought refuge inside the Mubuga parish. She confirms that the food was looted, all right. She
+18        even confirms that girls were killed in the cemetery. She confirms the attack at the church. She
+19        confirms the sort of weapons that were used to attack the church and the fact that grenades were
+20        thrown into the church, but she says it was the bourgmestre and not the Accused. However, Witness
+21        DA, a Defence witness, concedes that there were people amongst those attackers that she couldn't
+22        recognise. A lot of her evidence was hearsay but nevertheless very interesting. We urge you to
+23        reject it in its entirety.
+24
+
+25        Witness DD was another defence witness, another Tutsi, and he claimed to have sought refuge also
+26        at the Mubuga church. He confirms that the food was looted; blames somebody else for it, of course;
+27        confirms that there was an attack at the church but he says that no one was raped at the church, no
+28        one was raped at the church. But how would he know? He wasn't there. Witness DD testified that
+29        he fled from the area of the church on the morning of the 15th of April 1994. The testimony is
+30        interesting. He says he escaped from the church around about the time that we say that the attack
+31        commenced and he did so through the window. We say he is lying, and we say you should reject his
+32        testimony in its entirety. No weapons were distributed, Witness DD says, but he wasn't there, so he
+33        wouldn't know.
+34
+
+35        Witness DF was the first man to confess -- to having confessed in taking part in the attack at
+36        Mubuga church. The witness himself confessed to taking part in the attack on the 14th, pardon me,
+37        and not on the 15th. He actually accepts that he was not at the church, and he was not a witness to
+
+                                       LESLIE TODD - ICTR - TRIAL CHAMBER III - page 18
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   the attack on the 15th. We had problems with the credibility of this witness and we say so in
+ 2   paragraph 119 to 123 of our closing arguments, page 34. In essence, Witness DF wanted you to
+ 3   believe that he took part in the attack on the women at the presbytery, and that when the women were
+ 4   abducted from the presbytery and taken to the Mubuga cemetery, he was present, and was therefore
+ 5   able to provide an alibi for the Accused or at least a defence for him that he, the Accused, was not
+ 6   present during the attack on those said women. Why do we disbelieve him? Well, we disbelieve him
+ 7   because we believe that he has purposefully enhanced his role in that attack in order to provide a
+ 8   defence for the Accused, and we say so at paragraph 119. In describing the same event to the
+ 9   prosecutor in Rwanda on the 13th of July 2000, the witness said, I am unable to explain -- I'm not
+10   quoting, but, in essence, he was unable to explain what happened at the cemetery because he had
+11   not gone there himself, and then he turns up in Arusha and tells us that the Accused in this case was
+12   not present during the attack at the cemetery. We make far reaching conclusions in relation to his
+13   credibility at paragraph 212 and 123 of chapter 4. In essence, Witness DF has a problem with being
+14   truthful, and even his own peers have made that judgement of him, and the evidence is before you,
+15   Your Honours, Prosecution Exhibit 64.
+16
+
+17   Witness DL was the next Defence witness. He said his family was located at the Mubuga church.
+18   They had gone there as refugees. His evidence was simply incredible. First of all, he tells us that
+19   Defence Witnesses DF and DG have confessed to killing the women at the Mubuga cemetery. Well,
+20   there is nothing further from the truth than that, because DF certainly did not confess to anybody
+21   about that. It's not in his confession. The only conclusion we could draw from DL's evidence is that
+22   he has no direct knowledge of anything, and if he knows and said that DF and DG have confessed to
+23   the killing of the women at the Mubuga cemetery, then it means that they colluded to make up that
+24   testimony because it doesn't exist anyway. It doesn't exist in any confession statement produced
+25   before this Court. We urge you to disregard the evidence of DL because he is not credible.
+26
+
+27   Witness DZ is the man who claims that he has several confession statements that do not exist in his
+28   criminal file. He was one of a thousand attackers that took part in the attack on Tutsi at the
+29   Mubuga parish, but he says he was ordered to do so by somebody else and diminishes his
+30   responsibility substantially by saying that all he did was stand at a road several metres, 100 metres,
+31   away to intercept fleeing Tutsis. Amongst 1,000 attackers, he didn't see the Accused. But
+32   Prosecution Exhibit 70, Your Honours, shows you that he never confessed to taking part in the attack
+33   at Mubuga. Having been cornered, he says, "Well, I have another confession statement. You don't
+34   have it." We drew his attention to a document he wrote himself to the prosecutor in Kibuye dated the
+35   19th of January 2004, entitled "Correction to confession statement of 23rd May 2002." We said, "Sir,
+36   you still didn't mention being involved in Mubuga or any other attack." He says, "Well, there is still
+37   one more confession statement somewhere else," and that is the confession statement that my
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 19
+     MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1   learned friend has tried to introduce before this Courtroom today. In essence, Witness DZ constantly
+ 2   lied before Your Honours, changed his testimony by the hour. But what was most shocking about it
+ 3   was that he started off his testimony by telling Your Honours that "I can't read or write." Four hours
+ 4   into his testimony, having warmed up into the process of lying, he had forgotten his testimony. I gave
+ 5   him a document and he read it, Prosecution Exhibit 71. He read it and he even admitted that he wrote
+ 6   the document himself. So much for Witness DZ. We urge you to reject his testimony in its entirety.
+ 7
+
+ 8   Witness DAA: He was one of 6,000 attackers at the Mubuga church. Amazing. And he says
+ 9   Mika Muhimana was not present there on the 15th of April. He says, "I was recruited by other local
+10   authorities but not the Accused." But the question is, how do you single Mubuga out of 6,000
+11   attackers? However, whilst you disregard his testimony, one thing that is important about it, though, is
+12   that he tells you how influential and the role played by the local authorities in Kibuye in all these
+13   attacks, and he does that very eloquently. He did that very eloquently in his testimony. In that regard,
+14   Witness DAA testified, referring to the local authorities, at paragraph 158 of my brief, "If those people
+15   had not come to rally us, things would not have happened that way. We did not have any problems
+16   with our neighbours, we were on good terms." The Defence then called Witness DG, and in essence,
+17   he confirms the abduction story of the girls, but he says they were never raped before they were
+18   killed. He implicates others, and in his defence, he says, "Well, I never saw the Accused between the
+19   months of April and August 1994." Interestingly enough, when we look at his confession statement to
+20   the Rwandan government, yet again, there is no mention of the abduction -- there is no mention of his
+21   involvement in the abduction or the killing of any girls. Witness DG swears that he participated. But
+22   why would anybody want to implicate themselves in what they didn't do? In this case, it's to provide a
+23   defence for the Accused. Your Honours, Witness DC testified that there were refugees at the
+24   Mubuga church. He is our good friend, the man who actually implicates the Accused in the looting or
+25   at least in the looting of food by claiming that he was present; he confirms the killing of the girls at the
+26   Mubuga cemetery and places Mika Muhimana in and around Mubuga church around about the
+27   14th of April 1994. In essence, Your Honours, the evidence of DC, which is summarised on pages 42
+28   and 43, destroys the evidence of five Defence witnesses. These five of them just have to die a
+29   sudden death just based on DC's evidence. Everyone that says that Mika Muhimana was not at the
+30   Mubuga church dies a sudden death; everyone that says that Mika Muhimana was not implicated in
+31   the looting or was not present when the food was looted is simply incredible. We will suggest to you
+32   that, in essence, the testimony of DG, DAA, DL, DD and DA, if for no other reason, have to be
+33   discredited based on the evidence of DC.
+34
+
+35   Last, but not the least, the Defence called or relied on the evidence of TQ1, and his defence was very
+36   simple: I know that the Accused was at home mourning his dead son between the 8th and the 16th of
+37   April; therefore, he could have been nowhere else. It's as simple as that. So, in essence, we say at
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 20
+     MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1   paragraph 180, so if any other defence witness comes and places the Accused outside his residence
+ 2   between the 8th and the 16th of April then there must be something wrong somewhere. For those
+ 3   reasons we say that Witness TQ1 is incredibly -- his evidence is incredible and unreliable.
+ 4
+
+ 5   So there you have it, Your Honours. We have gone through ten witnesses. With the exception of
+ 6   one, DC, most of them are incredible. And what does that one say? Well, the one implicates him in
+ 7   the looting of food. So much for a defence for the indictment, paragraph 5(b)(i), (ii), (iii). Simply no
+ 8   defence. Therefore, we urge you to consider the evidence of Witnesses AV and AF as proving
+ 9   beyond a reasonable doubt that the Accused participated in the killing of Tutsi civilians gathered at
+10   the Mubuga parish church between the 14th and 15th of April 1994.
+11
+
+12   Going to Mugonero complex, the allegation is at paragraph 187 of our brief, and it's simply that on one
+13   day, about 6,000 civilians who were congregated at the Mugonero church -- Mugonero complex,
+14   pardon me -- which is comprised of a church, a hospital, a nursing school were killed. We say that the
+15   Accused, acting in concert with others named at paragraph 5(c) of the indictment, bear full
+16   responsibility for this. In support of our allegation, we rely on the evidence of six prosecution
+17   witnesses outlined at paragraph 188. Some of them are also witnesses that we rely on in relation to
+18   the rape allegation which Mrs. Madenga will deal with at length in her submissions. It would suffice it
+19   to say, Your Honours, that Witnesses BG, BI, BH and AU and BJ knew the Accused prior to the
+20   16th of April. BG saw him leading attackers; he was armed and he was leading. She identified him in
+21   court. BI, another educated witness, saw the Accused at the complex shooting at Tutsis. He was the
+22   man who witnessed the Hutu women married to Tutsis being evacuated from the complex.
+23   (Pages 14 to 21 by Leslie Todd)
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                              LESLIE TODD - ICTR - TRIAL CHAMBER III - page 21
+          MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1        1645H
+ 2   MR. ADEOGUN-PHILLIPS: (Continuing)
+ 3        BH saw the Accused conveying attackers to the complex in the Gishyita commune office vehicle.
+ 4        BH also saw the Accused shooting at refugees.
+ 5
+
+ 6        AU, Witness AU, he knew the Accused very well, Your Honours. He was located inside the surgical
+ 7        ward in the main hospital building, in the basement. She, pardon me. And she saw the Accused with
+ 8        other attackers, armed with a gun and a club.
+ 9
+
+10        Witness BJ sought refuge in room number 3 of the main hospital building. She saw the Accused
+11        carrying out an attack on women at the hospital. And my colleague will deal with that at length.
+12
+
+13        Witness AT, AT saw the Accused at the complex with other local authorities and he also sought
+14        refuge in the surgical room in the basement of the main hospital building. She saw the Accused -- or
+15        he saw the Accused and two other people enter the room. The other people were soldiers, and they
+16        did very bad things to the three girls in that room. Again, that will be dealt with at length in a separate
+17        submission.
+18
+
+19        My learned friends for the Defence do not dispute, Your Honours, that an attack took place at the
+20        Mugonero complex. In fact, they relied on the evidence of some people who claim -- DI, Witness DI,
+21        who claimed he participated in that attack. In essence, they rely also on the evidence of three other
+22        witnesses: TQ1 -- AR1, TQ1 and 28, so there are four in total.
+23
+
+24        TQ1 is the man or the woman who said the Accused never left his house between the 8th and the
+25        16th. We've dealt with that before in relation to Mubuga. There isn't much to say about him.
+26
+
+27        DI, for his part, confessed that -- or testified that he had participated in the attack. DI is at page 53 of
+28        chapter 4, paragraphs 224 down. So he says, "Well, I was at Mugonero complex and I participated in
+29        attacking those 6,000 people, but the Accused was not there." And he was not there because, like
+30        TQ1, DK also said that the Accused was mourning his dead child. But what DI doesn't tell us is how
+31        he came about to know that. There's no direct relationship with the Accused. It was not public
+32        knowledge, as far as we are aware, that the Accused was in this position. And he testifies right after
+33        TQ1 and says pretty much the same thing, that he couldn't have been there.
+34
+
+35        So how would he have come about this information? We suggest that he was briefed on this
+36        evidence by the Defence. The confession statement of DI states that he participated at the Mugonero
+37        complex attack, the attack at the Mugonero complex, all right. But having said that, the contents of
+
+                                   KAREN HOLM - ICTR - TRIAL CHAMBER III - page 22
+         MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1       the confession statement is at variance to the evidence before Your Honours. So what DI does is that
+ 2       he comes here and he diminishes his responsibility before Your Honours and says, "You know what?
+ 3       I just had a club and I didn't kill anyone with my club, even though I participated in this attack."
+ 4
+
+ 5       Unknown to DI, however, we have his confession statement from Rwanda which says, well, he killed
+ 6       six people and hence he's a Category 1 offender. Our position is, so what do we believe? "You've
+ 7       confessed to the Rwandan authorities that you've killed six people but then you came here and you
+ 8       said that you didn't kill anyone. So how can we rely on your evidence in relation to whether or not
+ 9       Mr. Muhimana was at the complex?" Based on that, we say he is not credible.
+10
+
+11       In any event, on the merit of the testimony that he provides, he says to you there were hundreds of
+12       attackers at the complex, the first statement. Then he says, "Well, I myself did not enter any of the
+13       buildings in the complex, so I stayed outside." Well, that being the case, he wouldn't have seen the
+14       Accused because he was in the building for most of the time, doing bad things.
+15
+
+16       AR1 was not present at the complex. That's our position. And if he wasn't present at the complex, he
+17       couldn't have had knowledge of anything that went on at the complex. And I'm not going to dwell on
+18       his testimony at any great length but to say that it's on page 54 to 55, paragraphs 233 to 242 of our
+19       closing brief. No, I'm sorry, 233 to 234 of our closing brief, just two paragraphs.
+20
+
+21       Then we have TQ28, who sought refuge at the complex and says he left the complex at 7 a.m. on the
+22       16th of April 1994. So having left the complex, he says, "We went to the CCDFP building in Gishyita,
+23       and whilst we were there, lo and behold the Accused walks up and visits us." This is on the 16th of
+24       April, 1994. What TQ28 had forgotten is that he had testified in the Ntakirutimana trial, which this
+25       same team handled several years ago, and we remembered him distinctly as telling us during that trial
+26       that he had actually left the Mugonero complex several days before the 16th of April 1994, and that no
+27       one, no local authority whatsoever, had visited them, he and his family, whilst they were at the
+28       CCDFP building. That was three years before his evidence here. So in 2004 he says, "Well, actually,
+29       I remained at the complex until the morning of the 16th so I have reason to know everything that
+30       happened there, and then I also saw the Accused that morning in Gishyita. He came to visit us."
+31
+
+32       We have outlined those contradictions to Your Honours at 235, paragraph 235 to 242 of the
+33       Prosecutor's closing brief at chapter 4. We say he is simply incredible.
+34   MADAM PRESIDENT:
+35       There is the evidence of Witness TQ28 that Mika visited -- welcomed them, rather, at CCDFP along
+36       with the bourgmestre.
+37
+
+                                  KAREN HOLM - ICTR - TRIAL CHAMBER III - page 23
+          MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   MR. ADEOGUN-PHILLIPS:
+ 2        Yes, pretty much, that he had seen the Accused at the CCDFP that morning, yes.
+ 3   MADAM PRESIDENT:
+ 4        Along with Charles Sikubwabo?
+ 5   MR. ADEOGUN-PHILLIPS:
+ 6        Possibly, Your Honour. I didn't make that note, but it's possible. It's possible, Your Honour. I could
+ 7        check up on that, but I -- yes, yes, it's in paragraph 236. Yes, yes. Yes, it's paragraph 236 on
+ 8        page 55 of my brief. He does mention the bourgmestre, Your Honour.
+ 9   JUDGE MUTHOGA:
+10        Do you contend we should -- in your paragraph 239, do you take into account what you state there in
+11        assessing his credibility?
+12   MR. ADEOGUN-PHILLIPS:
+13        Your Honour, yes, I had actually, in my bid to speed up my presentation, I -- I think it goes to his
+14        credibility, and for the record, we make a submission at paragraph 239 that the Witness TQ8 had
+15        testified that he only met with members of his Defence team, or the Defence team in this case, for
+16        more than a minute, during which he was asked to look very briefly at the paper. Well, we all know,
+17        Your Honours, that witnesses don't meet with counsel for a minute, and I think that was -- that was a
+18        very untrue statement. So the answer is yes, Your Honour.
+19
+
+20        Finally, the submissions that we make haven't gone through these four or five witnesses. Well, none
+21        of these are credible and none of them really challenge the Prosecution's case in relation to what
+22        went on at Mugonero. What is important about Mugonero is that it's a single event that occurred on a
+23        single date, in a very -- in an area that is not extremely large. The evidence is direct. It's focused and
+24        pointed, and when my colleague Miss Madenga makes her submissions in relation to the allegations
+25        of sexual violence, you will see that the circumstances of those events mean that it is more likely than
+26        not that those witnesses are speaking the truth and had very good reason to identify and implicate the
+27        Accused in the attacks at Mugonero.
+28
+
+29        Finally, Your Honours, my submissions in relation to Bisesero and for the reasons that I've outlined,
+30        Your Honours, at paragraphs -- at paragraphs 320 to 330 on pages 71 and 73, I am not going to dwell
+31        terribly much on the Bisesero events and the reasons for this.
+32
+
+33        Bisesero, as we've stated in those paragraphs, is a very unique situation. There was nowhere else in
+34        Rwanda where the attacks on Tutsis were resisted as much as Bisesero. The physical layout of
+35        Bisesero is such that it's a combination of hills that span two communes. And the attacks in Bisesero
+36        were sustained and spanned a three-month period. The only place in Rwanda where Tutsis were
+37        being killed as late as June 1994 was Bisesero on such scale. Therefore, it's important to outline, as
+
+                                  KAREN HOLM - ICTR - TRIAL CHAMBER III - page 24
+     MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1   we've done in paragraph 326, that it was particularly difficult for many Prosecution witnesses to
+ 2   remember with any degree of precision the dates and precise location of the attacks that were
+ 3   launched upon them in Bisesero.
+ 4
+
+ 5   Having said that, there were certain attacks that were large enough to remain in the mind, the dates of
+ 6   which remain in the minds of those witnesses, and such was the attack that was launched at Muyira
+ 7   on the 13th and 14th of May 1994 as alleged in paragraph 5D-6 of the indictment and as described by
+ 8   Prosecution witnesses AW and W.
+ 9
+
+10   The submissions I've made in paragraph 326 also have to be seen in the context that many of the
+11   Tutsi refugees that were gathered in Bisesero were not native to the Bisesero area and therefore not
+12   familiar with that area itself. Of course, the attractiveness of Bisesero lay in the fact that the area
+13   consisted of several hills with white summits and provided the refugees with a vantage point from
+14   which they could see the attackers approaching. We have adduced and relied on the evidence of
+15   some ten witnesses: BG, BI, W, AV, BB, BU, BC, BL and AP, and we would represent to
+16   Your Honours that the evidence of these ten witnesses was extremely clear, direct, and was
+17   convincing. These witnesses have provided you with a firsthand account of what they heard
+18   throughout this period.
+19
+
+20   There are certain things that are consistent throughout the evidence. They all describe the Accused
+21   as having led as the commander -- sorry, having acted as though he was a commander of an
+22   armoury, encouraging his troops. The totality of the evidence of all the Prosecution witnesses who
+23   have talked about sightings of the Accused in Bisesero describe a consistent pattern of criminal
+24   conduct between the months of April and June.
+25
+
+26   I would represent, Your Honours, that the circumstances of the identification was good. Most of the
+27   time, it was daylight, most of the witnesses at relatively short distances to the Accused. Most of them
+28   had known him for several years prior to the events and therefore had no difficulty in identifying him
+29   in -- before the Tribunal.
+30
+
+31   The tactics that were employed by the attackers is interesting, and it's spoken about by witnesses
+32   AW, BB and BC. That consisted of luring Tutsis out of their hiding places with promises that medical
+33   attention would be given to them. Three different witnesses talk about this. And they say that, more
+34   often than not, the day after they saw the Accused and others trying to lure them out, there was often
+35   a large-scale attack after such. We will represent to Your Honours that this indicated a consistent
+36   pattern of conduct and these three witnesses just couldn't have made this up. This must have been
+37   something that they actually experienced.
+
+                               KAREN HOLM - ICTR - TRIAL CHAMBER III - page 25
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   The Defence do not dispute that these attacks took place at Bisesero. Many of their witnesses, at
+ 2   least four of them, DF, DY, DK and DL, all participated in attacks. Some of them, like Witness MN6,
+ 3   MN6, on page 34 of our brief, sought to provide him with an alibi. I'm not suggesting that MN6, by the
+ 4   way, is one of those who participated in the attack.
+ 5
+
+ 6   MN6 was an alibi witness who claims that he had seen the Accused no less than 15 times between
+ 7   the 8th and 27th of May 1994. Your Honours would not forget that witness in a hurry. It will suffice to
+ 8   say that as far as we are concerned, the evidence of this Witness MN6 does not provide the Accused
+ 9   with an alibi. He had no reason to keep a record of the important occasions when he claimed to have
+10   seen the Accused, and his account of those meetings were, for the most part, inconsistent. We have
+11   made those submissions at length at paragraphs 336 to 351.
+12
+
+13   Witness AH8, alpha-hotel-8, was another alibi witness. He was on holiday from teaching and was
+14   bombing around with his brother, distributing goods during the genocide. It is our position and our
+15   respectful submission, as indicated in paragraphs 357 to 359, that this witness is not a witness of
+16   truth.
+17
+
+18   Witness DF, we encounter again, was one of the witnesses, and we have made submissions in
+19   relation to him at paragraph 316 to 332. We also rely on the submissions that I made earlier in
+20   relation to his testimony.
+21
+
+22   We also have Witness DY, who also claimed that he participated in attacks, and he's a witness who
+23   deliberately enhances his role in the attacks so that he can provide some defence for the Accused.
+24   We would refer Your Honours to our previous submissions on paragraphs -- at paragraphs 119 to 123
+25   of this brief, and I have dealt with that earlier on in my testimony. That's for Witness DF.
+26
+
+27   Witness DK and DL all claim to have participated in the attacks at Bisesero and all claim that the
+28   Accused, for one reason or the other, was not present at Bisesero.
+29
+
+30   Witness DL is interesting because he is the man who tells us that there was not a single Interahamwe
+31   that participated in the attack at Bisesero for a three-month period. I think that sums up the sort of
+32   person that Witness DL is, and we needn't say more on that.
+33
+
+34   Witness DK is the subject of the application by my learned friend, and again, of course, having been
+35   confronted with the fact that his confession statement was at variance to his testimony before the
+36   Tribunal, he then sought to invoke this story about having an additional confession and that is why we
+37   have told you that he is -- his evidence is unreliable.
+
+                              KAREN HOLM - ICTR - TRIAL CHAMBER III - page 26
+          MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1        Your Honours, if you believe any of the ten witnesses that we have called to support the variation
+ 2        allegations in Bisesero, and there are quite a number of them, we say that you should find the
+ 3        Accused guilty, just based on the evidence of a single witness at any location, of the crime of
+ 4        genocide, pursuant to Article 6.1 of the Statute.
+ 5
+
+ 6        Your Honours, I have taken up a little bit more than I planned to and I would now invite, with your
+ 7        leave, of course, my colleague Mrs. Madenga to address you in relation to the rape. Thank you for
+ 8        listening.
+ 9   MADAM PRESIDENT:
+10        Thank you, Mr. Phillips. We still believe that you will be able to conclude the arguments today.
+11   MR. ADEOGUN-PHILLIPS:
+12        Your Honours took 45 minutes of my time listening to a motion, and I didn't incorporate that time in my
+13        undertaking but we hope to, even if we just have to draw your attention to, like I did, towards the end.
+14        We hope to.
+15   MADAM PRESIDENT:
+16        Yes, Ms. Madenga.
+17   JUDGE SHORT:
+18        Just one second.
+19
+
+20        Mr. Kapaya, before you sit down, you have led evidence about the Accused being involved in the
+21        murder of specific individuals.
+22   MR. ADEOGUN-PHILLIPS:
+23        Yes, Your Honour.
+24   JUDGE SHORT:
+25        It has been submitted that in some of those cases, for example, the murder of AX's children, there is
+26        nowhere in the indictment where mention is made of these murders. What's your response to this
+27        submission by the Defence that, for that reason, the indictment is defective insofar as there isn't
+28        specific mention in the indictment about the identity of the victims, the place of the crime, et cetera?
+29   MR. ADEOGUN-PHILLIPS:
+30        Your Honour, not to take the wind out of Mr. Kapaya's submissions, these were matters that he was
+31        going to deal with because they are part of murder as a crime against humanity. So I would ask him
+32        to take specific note of your queries and to address those.
+33
+
+34        I'm grateful, Your Honour.
+35   MADAM PRESIDENT:
+36        Yes, Ms. Madenga.
+37
+
+                                   KAREN HOLM - ICTR - TRIAL CHAMBER III - page 27
+         MUHIMANA                                                                         TUESDAY, 18 JANUARY 2005
+
+ 1   MS. MADENGA:
+ 2       With your leave, Madam President, if I can proceed.
+ 3   MADAM PRESIDENT:
+ 4       Please.
+ 5   MS. MADENGA:
+ 6       Thank you. Afternoon, Madam President, Your Honours.
+ 7
+
+ 8       On the 29th of March of 2004, the Prosecutor submitted to the Honourable Chamber that what will
+ 9       distinguish the Accused Mika Muhimana from all the accused persons who have appeared before the
+10       Honourable Chamber or who are going to appear before the Chamber is Mika Muhimana's hallmark.
+11       Mika violated women. So the question this afternoon is: We have heard from Prosecution witnesses;
+12       we have heard from survivors and eyewitnesses; this far, what has the Prosecution proved? The
+13       Prosecution's evidence proved beyond a reasonable doubt that, in fact, Mika Muhimana raped brutally
+14       and indiscriminately and that rape was perpetrated as a crime against humanity.
+15
+
+16       I'll dwell on four brief points and I'll be very brief. I'll just highlight one or two things on the law relating
+17       to rape and also on the definition. I'll also make observations on the factual allegations supporting
+18       various paragraphs of the instant brief. I'll talk from Mika Muhimana's home in Gishyita. I'll move on
+19       to Mubuga parish, to Mugonero hospital. I'll end up with Bisesero. I'll also address the
+20       Honourable Court on the evidence which has not been specifically pleaded in the instant indictment,
+21       yet our witnesses credibly testified to those.
+22
+
+23       So with your leave, Your Honours, I'll move briefly to the law. Why are we saying the rape which Mika
+24       perpetrated constituted a crime against humanity? Its inhumane nature, the character of the rape, the
+25       great suffering, that is physically, psychologically, mentally, which the rape caused on the victims. It
+26       was also committed in the content of a widespread and a very systematic attack which was targeted
+27       on Tutsis. This was in Rwanda, in general, as has already been established by so many cases which
+28       I'll refer to later. It also occurred in Kibuye préfecture. This attack was also targeted at some of the
+29       women whom the Court will remember are Hutu. I'm referring in particular to AX and BJ. Why were
+30       they targeted?
+31
+
+32       Firstly, I want to dwell on why civilian women were targeted. They were discriminated basically on
+33       three grounds: They were raped by Mika Muhimana because of their ethnicity. They were Tutsi or
+34       they were perceived to be Tutsi by association. For example, AX was married to a Tutsi. BJ was
+35       working for a Tutsi household and she also sought refuge at Mugonero complex. They were also
+36       discriminated on their perceived political orientation. They were perceived to be supporters of RPF.
+37       This we infer from the language that was used during the rape when they were referred to as Inyenzi.
+
+                                   KAREN HOLM - ICTR - TRIAL CHAMBER III - page 28
+         MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1       They were also discriminated on the ground of gender. They were simply raped because they were
+ 2       women. I'm alive to the fact there were sexual mutilations of men, but the rape and its brutality was
+ 3       targeted at these women because of their gender. I want now to briefly look at the definition of rape in
+ 4       international law. In defining rape in international law, we are going to dwell on the statement of law
+ 5       which is authoritative as opposed to persuasive. This is as formulated in Akayesu. So in that regard,
+ 6       the Prosecutor will submit to the Honourable Court when we refer to rape at the national level, in the
+ 7       national law, we are referring to a physical invasion of a sexual nature which is committed on a person
+ 8       under circumstances which are coercive.
+ 9
+
+10       We also look at sexual violence because it includes rape. This, in the formulation of Akayesu, is
+11       considered to be an act of a sexual nature which is committed on a person under circumstances
+12       which are coercive. Your Honours, in making this submission, I am aware of the development of
+13       jurisprudence in ICTY. I am aware of the expounding legal pronunciations made by cases like
+14       Furundzija and Kunarac , but I still submit humbly to the Court that our case Muhimana is
+15       distinguished from those cases and falls within the four corners of parameters of Akayesu.
+16
+
+17       With your leave, Your Honour, I would move on to the factual allegations in support of rape.
+18   MADAM PRESIDENT:
+19       Before you move on to the -- to prove the crime of rape, four conditions are to be fulfilled. You must
+20       not forget. That is the time of crime, the place of the event, and method of crime, identity of the victim.
+21       So keep these conditions in mind when you argue your case.
+22   MS. MADENGA:
+23       Thank you, Your Honour, I'll keep that in mind when I do the specific submissions on the specific
+24       rapes perpetrated on the victims.
+25
+
+26       I would like to invite the Honourable Chamber to come with me to the events in Gishyita. In our
+27       closing brief, these are located in paragraphs 18 to 24. I'll not repeat in detail the allegations.
+28
+
+29       The first paragraph relates to a meeting which, in our view, started the killings and the rapes. I will
+30       address the Court also in addition to that about the rape of the 7th of April 1994. I want to draw the
+31       Court's attention to Prosecution brief on pages 89 to 92 which relates to the meeting in person and
+32       also which talks about the rape which I'm going to address.
+33
+
+34       The meeting, we relied on the evidence of AP and AQ, and according to those witnesses, a meeting
+35       was held on the 7th of April 1994, and the outcome of that meeting was that there were atrocities
+36       which were perpetrated in Gishyita. Our witnesses credibly told the Court the agenda of the meeting.
+37       I refer to the evidence of AQ.
+
+                                  KAREN HOLM - ICTR - TRIAL CHAMBER III - page 29
+     MUHIMANA                                                                   TUESDAY, 18 JANUARY 2005
+
+ 1   AQ actually indicated that she heard that the meeting was there to sensitise the Hutu population to
+ 2   exterminate the Tutsi. The question is, how did AQ know that that was the agenda of this meeting?
+ 3   AQ had the advantage of staying with Mika Muhimana. She was related to the Accused person so
+ 4   she actually heard because she had inside information, she was staying in the house. AP, on the
+ 5   other hand, was a neighbour, also living in Gishyita. She actually related that, even prior to events of
+ 6   April 1994, she had witnessed numerous meetings at Mika's place, but then she talked specifically of
+ 7   a meeting which took place a day after the death of the president. It's common cause that the
+ 8   president died on the 6th. So we can infer that she is talking of on or about the 7th. I'm aware that
+ 9   AQ put the meeting at the middle of April. I will address that later.
+10
+
+11   After this meeting, we now want to go and say what was the outcome of the meeting. Because for all
+12   we know, none of our witnesses attended the meeting. AQ was from a seeing distance, identifying
+13   some of the political figures who were there. Ruzindana was there. Charles Sikubwabo was there.
+14
+
+15   But what was the outcome of the meeting? The outcome of the meeting was on the 7th of April 1994
+16   AP tells us that Mika Muhimana took the two girls, that is Gorreti and Languida Kamukina, from their
+17   home. I will also address on the identity of the witness because I'm aware of the fact that, at one
+18   stage, although it was relayed that it was Gorreti, our witness said that it was Immaculée who was
+19   taken from the parents' home. On this fateful evening the witness saw Mika taking the girls.
+20
+
+21   I want to come to a stage where the girls were at Mika's house. Your Honours will remember that we
+22   did not adduce evidence, direct evidence, as to what happened in Mika's house, but I want to highlight
+23   the established facts.
+24
+
+25   It was established from AP that the girls walked freely and happily. They followed Mika because Mika
+26   was a family friend. He was someone whom they knew. The witness AP also knew, as a matter of
+27   fact, that when events unfolded in Gishyita, the girls' father had actually given a cow to Mika
+28   Muhimana. Why did he do that? Because violence was imminent. Mika was a very influential person
+29   and the father wanted Mika to protect the children.
+30
+
+31   Why did AP follow Mika to his house? AP was also a mother. Because of the same natural instincts,
+32   she also wanted Mika to protect her own children. So she wanted to know what was going to happen
+33   to these girls so that she would also ask Mika for protection.
+34
+
+35   What did she see? Arriving at Mika's house, she identified that there were many people there. She
+36   identified one Charles Sikubwabo by voice. She did not enter Mika's house because she was
+37   following from a distance. What happened? She heard from that distance where she was, the girls
+
+                              KAREN HOLM - ICTR - TRIAL CHAMBER III - page 30
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   now screaming. She also heard the girls asking for Mika's pardon. She also heard the girls actually
+ 2   stating that whatever Mika was doing to the girls, the girls least expected it. All of a sudden, she did
+ 3   not hear anything.
+ 4
+
+ 5   The next thing she saw were naked girls, the same two girls, they were now shoved out of Mika's
+ 6   house. There were now Interahamwes around Mika's house. Mika himself said something to the
+ 7   effect that the Interahamwes and the young persons who were there should come and have a clear
+ 8   view of how Tutsi girls' vaginas looked like.
+ 9
+
+10   AP also noted something which is very pertinent which I want to highlight. As the girls were being
+11   shoved out of Mika's house and they were stark naked, something had happened to them in terms of
+12   their physical demeanour. They were now not walking properly. In fact, they were staggering. Before
+13   she could conclude as to what had happened, she actually saw one of the girls being attacked and
+14   she ran away.
+15
+
+16   From the established facts, Your Honours, the only reasonable inference a reasonable Court can
+17   draw is that the girls were sexually assaulted. This will go within the parameters of the formulation of
+18   Akayesu.
+19
+
+20   I want to emphasise the fact that the witness at one stage referred to one of the victims as
+21   Immaculée. She actually gave a reasonable explanation why she mistook Gorreti for Immaculée.
+22   She explained that when people die or pass away, it's very easy to forget their names. To me, this is
+23   a very plausible explanation given the fact that these events happened ten years ago. AP herself is a
+24   survivor of very, very traumatic conditions and circumstances.
+25
+
+26   The other point I want to highlight is the fact indeed there was a young woman called Gorreti who
+27   lived in Gishyita. This was actually buttressed by the Defence witness DQ, who is actually AQ's own
+28   sister. She confirmed that, in fact, Languida and Gorreti were sisters. So when we referred to AP
+29   mistaking Immaculée for Gorreti, she is not like fabricating a victim. There indeed existed in Gishyita
+30   Gorreti, who was raped brutally by Mika Muhimana, and subsequently killed.
+31
+
+32   With your leave, Your Honours, I will not discuss in detail the Defence case because some of the
+33   witnesses have already been discussed by my colleague. I just want to highlight those Defence
+34   witnesses who stated that indeed there was no meeting which was held which actually oiled the
+35   wheels of the genocide. Some of those witnesses include, and are not limited to, DI, NTI, and DS. I
+36   want to indicate that under the circumstances we are talking about, violence had erupted.
+37
+
+                              KAREN HOLM - ICTR - TRIAL CHAMBER III - page 31
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   Mika Muhimana was the conseiller of Gishyita. Common sense will dictate that a meeting of some
+ 2   sort was supposed to be held. So for witnesses to come and insist that no meeting was held, at one
+ 3   stage, a Defence witness actually indicated that the other reason why a meeting was not held is that
+ 4   Charles Sikubwabo, the bourgmestre, and Mika Muhimana, the conseiller, were not in good books.
+ 5   But now we know as a matter of fact that they were participating together, as will be revealed during
+ 6   the course of the brief. So I'll not dwell on that.
+ 7
+
+ 8   I want now to move to another rape which was perpetrated in Gishyita. I want to refer Your Honours
+ 9   to paragraph 85 of the Prosecution brief. We are talking of the rape of AX. We have actually detailed
+10   and summarised the evidence so I'll not repeat the evidence per se. But what I want to highlight is in
+11   fact, firstly, as requested by Madam President, the venue of the rape.
+12
+
+13   Witness AX was very clear about the venue. It was an office which was adjacent to Mika Muhimana's
+14   place of residence. She actually indicated it was Seth Bimenyimana’s house. This venue, she
+15   identified it easily as Prosecution Exhibit P. 2E.
+16
+
+17   I also want to highlight one thing about AX. AX was also very consistent about the venue. I will refer
+18   the Honourable Court to Prosecution Exhibit P2 again. This time, I will refer specifically to K-numbers,
+19   K0286221. Your Honours will remember that the investigator made indications with AX, and AX, as
+20   early as the 18th of March 2004, actually indicated the same place to the investigator. So when AX
+21   came in Court, she gave the same consistency as to the venue.
+22
+
+23   I also want to highlight the identity of AX. AX was a Hutu woman who was targeted because her
+24   family were Tutsi. The husband was Tutsi, so the children were automatically regarded as Tutsi.
+25   That was their crime. Because of that, AX herself indicated that she considered Mika Muhimana a
+26   brother by virtue of being Hutu. In that regard, there is no way AX could come and falsely indicate
+27   Mika Muhimana. She credibly told the Court that she was raped twice at the secteur office, which she
+28   clearly identified. She also described in detail how she was raped and what she perceived as rape,
+29   and all this is included in the closing brief.
+30
+
+31   She added that she perceived herself that rape is when someone has sexual intercourse with you
+32   without your consent, and she said this is what happened to her. She is an elderly woman who knows
+33   what sexual intercourse is, and she told the Court that that is what Mika Muhimana did. She also
+34   outlined the circumstances. There was violence. She was being targeted with her family. The
+35   second rape actually happened when both the husband and the mother had actually been killed. Her
+36   own children were killed, and this was actually corroborated in a very material way by none other than
+37   a Defence witness, DU, a self-confessed genocidaire, came to tell the Court that he was responsible
+
+                               KAREN HOLM - ICTR - TRIAL CHAMBER III - page 32
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   for also participating in the killing of a family.
+ 2   (Pages 22 to 33 by Karen Holm)
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                               KAREN HOLM - ICTR - TRIAL CHAMBER III - page 33
+          MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1        1730H
+ 2   MS. MADENGA: (Continuing)
+ 3        If AX was so credible that the Defence witness corroborated what she was saying, Your Honour, we
+ 4        ask on what basis can we say a respectable Hutu would come and say, "My brother, who is also a
+ 5        Hutu, raped me twice in a secteur office”? AX would have no reason, absolutely no reason to lie
+ 6        against Mika.
+ 7
+
+ 8        Your Honour, with your leave, I now want to move to the events in Mubuga, but before I do so, I want
+ 9        to refer the Court to paragraphs 98 up to 104 of the Prosecution's closing brief, which deals with
+10        Mika Muhimana's individual criminal responsibility, and I also want to indicate that both -- the three
+11        witnesses, AQ, AP, AX, provided evidence that, in fact, Mika raped, and raped brutally. I am leaving
+12        the address of AQ's rape to when I describe those incidents which are not specifically pleaded in the
+13        indictment. In that regard, Mika participated in the meetings; Mika participated in the killings; Mika
+14        participated in the rapes of these women. In that regard, he is responsible for the rape, and his mere
+15        presence as an official gave a significantly legitimising effect on other perpetraters.
+16
+
+17        Now I move to the events which occurred in Mubuga parish. These are located and described in
+18        detail on paragraph 105 to paragraph 117 of the Prosecution's brief. Your Honours would note that
+19        the Prosecution is alleging that the Interahamwes and Mika raped three girls: Colette, Agnes
+20        Mukagatare and Alphonsine. I would like, first of all, to start with the role which Mika played. As for
+21        the others, the rapes are detailed on the cited paragraphs and I will not repeat them, but relating to
+22        the rape of Agnes, I want to refer the Honourable Court to both the evidence of AV and AF. This has
+23        been discussed in detail by my colleague here, Mr. Phillips, so what I now want to highlight is the
+24        identity of the witnesses.
+25
+
+26        AF, basically, placed Mika Muhimana in Mubuga on the 14th or 15th of April 1994, when we allege
+27        that Mika raped Agnes. AF also heard that women were raped, but it is the evidence of AV which I
+28        want to dwell on. Her demeanour and credibility has already been alluded to by my colleague. I'll not
+29        talk about demeanour, I'll not talk about her credibility, which is obvious, I will now talk about how
+30        Mika perpetrated the rape on Agnes. This witness credibly told the Honourable Court that she knew
+31        Agnes, she identified Agnes, she also knew Mika Muhimana. She was at the crime -- at the crime
+32        scene, that is, at Mubuga massacre -- Mubuga cemetery, I beg your pardon. What did AV see Mika
+33        doing? AV saw Mika, at a very close distance, shamelessly undressing, shamelessly giving his own
+34        clothes to an Interahamwe, another man who was waiting, and then proceeded to get hold of Agnes,
+35        to fall (sic) her down, and then rape her, and then the witness, who was within hearing distance,
+36        actually heard Agnes crying with pain.
+37
+
+                               JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 34
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1       Soon after the rape, Agnes saw Mika taking a bayonet; Mika was about to kill Agnes. At a point of
+ 2       desperation, Agnes pleaded and made an oral application to Mika. She was not asking that Mika
+ 3       should not kill her; she asked to be killed by a gun. I want to draw the attention of the Court to what
+ 4       Mika said, because it is not only what he was doing, but sometimes he was adding insult to injury.
+ 5       Mika loved to scorn -- that was Mika's response -- and further humiliated Agnes. Mika told -- in fact,
+ 6       he didn't tell her, Mika ordered Agnes to stand up and not to undress. He --
+ 7   JUDGE MUTHOGA:
+ 8       Not to undress or not to dress?
+ 9   MS. MADENGA:
+10       Thank you, Your Honour. He ordered her not to dress. She then -- Agnes was ordered to stand up in
+11       that state when she was stark naked. Mika then told the Interahamwe to continue with their work.
+12       The witness also heard Mika saying to the Interahamwes, "They should not kill her before they saw --
+13       see her guts." We asked the witness to explain, because we didn't want to speculate what she
+14       understood by this. She understood that before being raped by the Interahamwes, they were
+15       supposed to disembowel her. The witness confirmed that he then received a report from one Cum
+16       spelt C-U-M, to the effect that, indeed, Agnes and the other girls were raped --
+17   JUDGE MUTHOGA:
+18       Before raping, Madam Madenga, she was to be disembowelled not before being raped but before
+19       being killed.
+20   MS. MADENGA:
+21       Very well, Your Honour, it was before her death.
+22
+
+23       We had reached the stage where AV, our witness, then received a report to the effect that, indeed,
+24       Agnes and the other girls were not only raped by the Interahamwes but they were also cut to pieces. I
+25       will not go further on those details. I just wanted to emphasise the nature of the crime against
+26       humanity, the inhumane part of it; I will leave the death and the killing to my colleague, Mr. Kapaya.
+27
+
+28       I also want to look at the Defence case. My colleague has done justice in terms of analysing the
+29       Defence witnesses who were at Mubuga, so I am not going to repeat that. What I am going to
+30       highlight is the evidence of DC. DC is a Defence witness who actually placed Mika Muhimana at
+31       Mubuga on or about the 14th of April 1994. The relevant part of DC's evidence was that he also,
+32       despite being a Defence witness, heard that women were raped. So DC corroborated the
+33       Prosecution case in a very material way.
+34
+
+35       And I also want to highlight that DC was not impeached. The Defence did not apply that the
+36       Honourable Court would actually declare him hostile, so I take it in good faith that this is what
+37       happened. Mika Muhimana was at the site, the massacre site, and also we can infer from his
+
+                             JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 35
+         MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1       reputation that he raped.
+ 2   JUDGE MUTHOGA:
+ 3       Sorry, we can infer from what?
+ 4   MS. MADENGA:
+ 5       Your Honour?
+ 6   JUDGE MUTHOGA:
+ 7       We are making an inference from what?
+ 8   MS. MADENGA:
+ 9       We are making an inference from his consistent pattern of conduct. If AV said Mika raped, raped
+10       brutally, then we see a Defence witness coming to tell us that Mika was there at Mubuga and that
+11       women were raped --
+12   JUDGE MUTHOGA:
+13       Does the Defence witness in fact tell us Mika was there or does she tell us that she knew women
+14       were raped?
+15   MS. MADENGA:
+16       To my recollection, Your Honour, Witness DC told the Honourable Court that Mika was present
+17       among the looters on the 14th or 15th of April. We are alleging that the rapes took place on the 15th,
+18       so it's like, if Mika was there on the 14th, the other reason why Mika was not supposed to be there
+19       was that it was mourning period, he was supposed to be mourning his own son; but if Mika can be
+20       there for looting then we are inferring that he can also be there for raping. It was part of the broad
+21       policy of genocide.
+22   JUDGE MUTHOGA:
+23       If you find that reference where this is said, “Mika was there,” just let me know.
+24   MS. MADENGA:
+25       Very well, Your Worship, I will refer you to that part. Can I say ---
+26   JUDGE MUTHOGA:
+27       Go on now, but if you ever get that particular reference, just refer it to me.
+28   MS. MADENGA:
+29       Yes. I am actually referring to our Prosecution brief paragraph 127. It's Chapter 5; I am referring to
+30       Chapter 5, and I am referring -- if I can read, Your Honour, with your leave.
+31   JUDGE MUTHOGA:
+32       One, two, seven; I can read for you. It doesn't say that he testified that Mika was there.
+33   MS. MADENGA:
+34       In fact, Your Honour, what I am saying is that we are inferring from his testimony, because DC
+35       testified that while at the church, he had heard about girls who were killed in the cemetery, and that is
+36       according to his testimony of the 17th of August 2004, page 6. Then if we go on to read
+37       paragraph 127 of the closing brief, it says that the witness also heard that women were raped.
+
+                               JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 36
+         MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1   MADAM PRESIDENT:
+ 2       Madam, do you think that inference is enough to qualify the commission of the offence -- commission
+ 3       of rape?
+ 4   MS. MADENGA:
+ 5       Your Honour, taken in isolation, it will be insufficient, but then I am taking the cumulative effect of the
+ 6       evidence. I am taking a bit of what the Defence told us about Mika, whom we thought and also
+ 7       sympathised with him that he could not leave Gishyita because the son had died. Now we get
+ 8       information -- so it is like we are putting all the bits and pieces together, what the Prosecution
+ 9       witnesses are saying, especially AF and AV, then we are actually cumulatively looking at what
+10       Defence Witness DC is saying. So I am simply urging the Court that they could make that reasonable
+11       inference, but I am alive to the fact that the Court for reasons which I respect, might actually decide
+12       not to infer.
+13   MADAM PRESIDENT:
+14       Did Witness DC say that there were rapes committed?
+15   MS. MADENGA:
+16       To my recollection, that is what the witness said, that he heard that women were raped.
+17   JUDGE MUTHOGA:
+18       For my part, that is correct. What he didn't say is that "Mika was there", which is what you are asking
+19       us to infer.
+20   MS. MADENGA:
+21       Thank you, Your Honour. What I am saying is, as a matter of fact, that DC said when he saw people
+22       who were looting on the 14th of April 1994, he identified among the looters or people who were
+23       present with the looters, Mika Muhimana. So, in my humble view, we are looking at the period on or
+24       about the 14th or 15th. So I am saying, at least on the 14th --
+25   MADAM PRESIDENT:
+26       The looting was also on the 14th?
+27   MS. MADENGA:
+28       Yeah, he said "about the 14th", so I said it was on the 14th.
+29   JUDGE MUTHOGA:
+30       And you are saying if somebody can loot, he can rape; is that what you are saying?
+31   JUDGE SHORT:
+32       (Microphone not activated)
+33   JUDGE MUTHOGA:
+34       Then how does the looting lead to Mika being at the rape?
+35   MS. MADENGA:
+36       Your Honour, what I am saying is that the Defence presented to us in alibi that Mika Muhimana could
+37       not be at the sites, he could not rape in Mubuga, because he was undergoing a mourning period for
+
+                              JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 37
+         MUHIMANA                                                                   TUESDAY, 18 JANUARY 2005
+
+ 1       his son from the 8th to the 15th, but all a sudden, the same Defence presents to us a witness saying
+ 2       that Mika was there on the 14th. If Mika was there on the 14th, what would bar him from being there
+ 3       on the 15th?
+ 4   JUDGE MUTHOGA:
+ 5       I now follow your argument. "Being there" is being at Mubuga church. That's the place we now find
+ 6       Mika, as opposed to being on his veranda mourning his son?
+ 7   MS. MADENGA:
+ 8       Very well, Your Honour.
+ 9   JUDGE MUTHOGA:
+10       Continue.
+11   MS. MADENGA:
+12       With your leave, I will continue.
+13
+
+14       Your Honours, I am now looking at the events at Mugonero complex. Mugonero complex is in
+15       Gishyita commune, and these are dealt in detail in the Prosecution's closing brief, paragraphs 134 to
+16       139. We are talking about the abduction and rape of three girls: Josiana, Mariana and Martha. Your
+17       worship -- Your Honours, I would just like to highlight the events which we are alleging in paragraph 6,
+18       subparagraph (c) of the instant brief. Witness BI, who was supporting the Prosecution case, actually
+19       indicated that about the 14th -- the 13th or 14th, he identified Mika Muhimana came to Mugonero
+20       complex.
+21
+
+22       My colleague has already described how many of the refugees were at Mugonera and why. I just
+23       want to emphasise the anxiety, because we might ask why was BI so observant? Because you will
+24       notice from his testimony that he was very fond of details. He was a very educated man. They were
+25       there gathering and they did not know their fate. When the attackers initially approached, they
+26       actually staged what I would call a mock attack, where the gendarmes pretended they were protecting
+27       the refugees but then allowed Mika Muhimana and Charles Sikubwabo and an Interahamwe to go and
+28       take three women to a house at Mugonero. They saw these women aboard a communal vehicle. BA
+29       -- BI did not speculate as to what happened to the girls, but the next day, in the afternoon, he saw the
+30       three girls come back. He knew them before the incidents -- before the incident. They were Josiana,
+31       they were Mariana, Martha. He identified their identity because he was very familiar to them. When
+32       they came back, like anyone else, he was anxious because everyone wanted to know their fate. He
+33       got a report to the effect that Mika Muhimana, Charles Sikubwabo, Gisambo, had taken the three girls
+34       to Mika Muhimana's house in Gishyita and they had been repeatedly raped.
+35
+
+36       When I deal with the evidence of AQ, Your Honours, I will refer to the portion where AQ also indicated
+37       that during the course of the genocide, she would hear people screaming. So there is every
+
+                              JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 38
+     MUHIMANA                                                                   TUESDAY, 18 JANUARY 2005
+
+ 1   possibility that the venue for this rape was at Mika's house. And I also want to highlight, why would BI
+ 2   tell the Honourable Court that it was the three women who were abducted and who went and were
+ 3   raped, if they were not? Because you will find that the gist of the Defence case is that these women
+ 4   were not raped. If you refer to the evidence of TQZ -- in fact, let me repeat that, it was TQ7. TQ7 was
+ 5   adamant that Martha was away during the material time; she was attending a course because she
+ 6   was in the nursing fraternity. She also indicated that Mariana could not have been raped; Mariana
+ 7   was away in Kigali staying with her brother. He also indicated that Josiana could not have been
+ 8   raped, although she was at Mugonero. TQ7 did not come to hear that she was raped. But we know
+ 9   from common experience that when there is a disaster, the first thing one person thinks about is
+10   home. TQ7 was not there on or about the 14th to 16th of April 1994. He considered that he was not
+11   there at Mugonera. So on what basis can he come and tell with audacity, the Honourable Court, that
+12   the girls were not abducted? On what basis can he tell the Honourable Chamber that the girls were
+13   not raped? The girls themselves gave a report to BI.
+14
+
+15   One of their colleagues, a Tutsi, who was also waiting for the same fate with them, who could identify
+16   with their predicament; they were all desperate, there was no need to lie. The girls told the truth of
+17   what happened. What happened was that they were taken to Mika's home where they were
+18   repeatedly raped and they were brought back to Mugonero where they then faced their deaths.
+19
+
+20   All the other Defence witnesses, people like ARI, who claimed that he went with Martha and Mariana,
+21   also stated that they were away, but ARI, for all we know, was not at Mugonero at that time, so how
+22   would they know that the girls were not abducted and how would they know that the girls were not
+23   raped. I can go on and on. AH8, who was a Defence witness, actually stated that when violence
+24   erupted in Rwanda, even those people who were supposed to go back to school, did not. So, if those
+25   people could not go to school, how can the Defence witness say they were away attending a training
+26   course? Which training course are we talking about?
+27
+
+28   I can go on and on. I can talk about TQ8, a gendarme who also came to say, " No, no, Marie was in
+29   Kigali." Yet by implication, if one carefully analyses his evidence, he was not in Mugonero during the
+30   period of 18th to 19th of April. So on what basis can a gendarme come and tell us that the girls were
+31   neither raped nor abducted?
+32
+
+33   Your Honours, I will move on to the rape of Mukasine, which is discussed in detail on paragraphs 169
+34   to 174 of the Prosecution brief. The Prosecution witness who testified is AT. We have just got the
+35   pronunciation in the Ntakirutimana judgement, where AT testified as GG. The Trial Chamber
+36   considered that he was credible, and this was confirmed by the Court of Appeal. He was very good in
+37   details. He mentioned the rape was perpetrated on the 16th of April 1994. He also stated why he
+
+                         JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 39
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1       was there. He also identified Mika Muhimana, a conseiller he had known for a long time. So identity
+ 2       was not in issue.
+ 3   MADAM PRESIDENT:
+ 4       Madam Madenga, are you telling us to convict the Accused on the basis of the evidence which was
+ 5       recorded in another case?
+ 6   MS. MADENGA:
+ 7       No, Madam President. What I am simply urging the Court is that the witness we presented, because
+ 8       it is the Defence contention if you look at the Defence draft brief, that Witness GG in Ntakirutimana
+ 9       who was Witness AT in Muhimana is not a credible witness. So, what I am saying is that that
+10       credibility was tested and proved by the Trial Chamber in Ntakirutimana. It was further confirmed. So
+11       I am actually saying, before I even tell the Honourable Court the highlights of AT's evidence --
+12   MADAM PRESIDENT:
+13       You are telling us that his credibility in another case should be taken into consideration while
+14       assessing his evidence in this case?
+15   MS. MADENGA:
+16       Madam President, that per se cannot work for the Prosecution; I wish it could, but it is the Defence
+17       contention because they are basically saying AT is not credible. So what I am saying is that if the
+18       credibility was tested, we still have to test it, but we know where we are coming from; we know who
+19       we are dealing with when we talk of AT. Because you will notice from his testimony that he is one of
+20       the Prosecution witnesses who gave evidence in detail, even relating to the colour of the dress the
+21       victim was wearing, the colour of the clothes Mika Muhimana was wearing when he was doing his bad
+22       things.
+23   MADAM PRESIDENT:
+24       Go on.
+25   MS. MADENGA:
+26       Thank you, Your Honour. I will proceed.
+27
+
+28       I now just want us to focus on the rape of Mukasine as described by AT. AT related the rape of two
+29       other victims by Interahamwes, but I just want to highlight for the purposes of this closing argument,
+30       the rape of Mukasine by Mika Muhimana, especially the full description of the rape.
+31
+
+32       I just want to refer the Honourable Court to page 119 of the Prosecution’s brief, especially the footnote
+33       written 658, where the witness gave a full description, and I just want to read briefly how Mika --
+34   MADAM PRESIDENT:
+35       Which page?
+36   MS. MADENGA:
+37       I am talking about page 119 of the Prosecution brief. I will cite the paragraph. My colleague is just
+
+                             JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 40
+         MUHIMANA                                                                       TUESDAY, 18 JANUARY 2005
+
+ 1       assisting me. That one we quoted verbatim from the transcript of the 20th of April 2004. It's 172, I
+ 2       beg your pardon. It's paragraph 172, Your Honours.
+ 3   MADAM PRESIDENT:
+ 4       Yes.
+ 5   MS. MADENGA:
+ 6       And the footnote which says it's a description of how Mika Muhimana perpetrated the rape: "The
+ 7       Accused removed his trousers, removed his penis and introduced it in the vagina orifice of the
+ 8       woman, and while the Accused was doing this the young lady was crying, screaming, which means
+ 9       that she did not want to do what the Accused wanted her to do." This is just to highlight, in addition to
+10       the coercive circumstances, what was also happening in terms of the victim and the response, which
+11       was actually highlighted by Witness AT.
+12
+
+13       I want to move on to the Defence contentions, which are discussed in full on paragraphs 175 to 192 of
+14       the Prosecution's brief. It is very clear that the Defence actually contended, like what they did with the
+15       other witnesses, that Mukasine was at Butare University. I will not labour the Court with the same
+16       argument. We are talking of a violence within a violence: There was no one at Butare University.
+17       People were struggling to get to safety.
+18
+
+19       With your leave, Your Honours, I will now move to the rape of Mukasine, Murekatete, and BJ, which is
+20       fully discussed by the Prosecutor on paragraphs 193 to 200 of the brief. I just want to remind the
+21       Honourable Court about this Witness BJ. In doing so, I will make sure that I don't jeopardise her
+22       safety, so I will not give further details but to say that she was a very beautiful Hutu (sic) girl. At the
+23       material time, when she was exploited and raped by Mika Muhimana, she was only 15 years old. I
+24       want to refer specifically to BJ's demeanour in Court. Your Honours will recollect that she had a very
+25       forgiving spirit. She actually -- she actually looked at the Accused person, she smiled and said, "God
+26       should help us, because now Mika is a Muslim." It's like she did not have that bitterness.
+27
+
+28       Her evidence had a distinct ring of truth. She identified Mika Muhimana. She also saw these two
+29       girls. She also gave detail of how these two girls were raped. On her part, she actually describes
+30       how Mika raped her, for three minutes. She had no reason to falsely implicate Mika. She identified
+31       Mika positively in court, and I have already said she knew Mika before. The defence here, the
+32       contention was generally that Mika Muhimana was not in Mugonero, that this girl was not there: “Why
+33       would she be there? She was a Tutsi" That is basically the Defence contention in their draft brief.
+34       But this girl, in inferring from her evidence, she had a very sharp sense of equality; she did not talk in
+35       terms of Hutu or Tutsi. One might call it naiveté, but I would call it civilisation. She did not even know
+36       it was the Tutsi who were targeted. She just regarded herself as a Rwandan girl working for a
+37       Rwandan family. There was violence. She went to Mugonero. Then Mika, who was a bad law unto
+
+                              JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 41
+     MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1   himself, raped the girl.
+ 2
+
+ 3   I would move on, with your leave, Your Honours, to look at the rape of Johaneta, Theresa
+ 4   Mukabutera, and Eugenia, contained in paragraph 202 to 210. By virtue of the details given by
+ 5   Prosecution Witness BH, I would not like to add a lot but just to highlight that the same company who
+ 6   has identified Mika Muhimana was in the company of Alphonsine and Muyaimana (sic), the
+ 7   perpetraters were known to the witness, and also BH knew the victims. So if we talk in terms of
+ 8   identifying the victims as part of an element, BH did that to all satisfaction.
+ 9
+
+10   I also want to highlight how SF already said Mika would add insult to injury. BH told us that when the
+11   girls were approached by Mika, Mika started addressing them, calling them arrogant, and the victims
+12   were very distressed. These utterances, why am I referring to them? It also shows that the rapes
+13   were not perpetrated in isolation. Mika was advancing a broader policy of a crime against humanity
+14   towards Tutsi civilian women. And, also, besides the details given by BH, I would not want to
+15   comment in detail because I know my colleague is going to dwell on that and, basically, the Defence
+16   contention was the same in relation to the victims: They could not be there at Mugonero. Yet what
+17   we know as a matter of fact is that the same Defence witnesses were not there at the time of the rape,
+18   so they can't, actually, credibly, tell us of what happened in their absence.
+19
+
+20   With your leave, Your Honours, I am now moving to the rape of AU, which is discussed in paragraphs
+21   215 to 218 of the Prosecution brief. Your Honours will remember AU as someone who was extremely
+22   traumatised. The rationale is very easy to understand: She had testified her entire family were killed
+23   on this day, her parents, her children. She subsequently heard that even her husband who was
+24   outside the complex was killed. So when she was approached by Mika Muhimana, she actually was
+25   already traumatised and she described in detail how Mika raped her and that during the process, Mika
+26   was also, like, hitting her head against the wall. All these circumstances were very coercive, very
+27   traumatising. I know the Defence dwelt at length about the venue, the small room, but in essence she
+28   acquitted herself very well. She described the way she was raped, how she was raped. And we
+29   know why she was raped: She was raped because she was Tutsi.
+30
+
+31   With your leave, Your Honours, I am now moving to address the Court on the allegation contained in
+32   paragraph 635 of the instant indictment, which is on paragraph 342 of the Prosecution brief. The
+33   Honourable Court will recall that this charge relating to the rape of Elaina Drocelle (phonetic) was not
+34   actually proved by the state. It was subject to a Rule 92 bis application, since the witnesses in this
+35   case were either dead or could not be located. In that regard, I will not submit anything further. I will
+36   just wish to say that the Prosecution will actually withdraw that charge for lack of evidence.
+37
+
+                          JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 42
+     MUHIMANA                                                                   TUESDAY, 18 JANUARY 2005
+
+ 1   The individual criminal responsibility of the Accused person in relation to Mugonero has been well
+ 2   discussed in paragraphs 224 to 229, so I will only add that as conseiller, Mika Muhimana's presence
+ 3   authorised other attackers to rape; Mika Muhimana himself raped.
+ 4
+
+ 5   With your leave, Your Honours, I am moving now to the last part of the submission which deals with
+ 6   the Bisesero rapes. This is documented in the brief -- the Prosecution brief starting from
+ 7   paragraph 230. Your Honours, I will start with the rape of BG, which is described in full on paragraph
+ 8   230. We will recall from her testimony that BG herself said she cannot forget the 22nd of April 1994.
+ 9   She cannot forget the specific time, that it was 3:30 p.m., the darkest day in her life, when Mika
+10   Muhimana authorised a big Interahamwe by the name Mugonero to go and rape her. One would like
+11   to actually carefully scrutinise the witness statement and say, how did Mika Muhimana authorise
+12   Mugonero to go and rape BG?
+13
+
+14   BG actually stated that Mika Muhimana acted like he was the commander of an army. So the big
+15   Interahamwe was under his command, as it were. So when the big Interahamwe asked to go and
+16   smell the body of a Tutsi woman, we specifically asked the witness what she understood. She
+17   actually stated that she understood that Mugonero was asking from the chief, Mika Muhimana, to go
+18   and rape her. It is our humble submission that we have now come very far with Mika Muhimana, from
+19   Gishyita, from Mubuga, from Mugonero. So if an Interahamwe told Mika Muhimana that he wanted to
+20   smell the body of a Tutsi woman, it can be inferred that Mika Muhimana must have known what the
+21   Interahamwe meant, judging from his consistent pattern of conduct and his own sexual appetite, how
+22   he violated women, and how he raped.
+23
+
+24   The Defence called numerous witnesses. I just want to dwell on DAC, who gave testimony, and in the
+25   course of doing that, there were glaring contradictions in his own testimony. This witness would want
+26   the Court to believe that BG, from the attack at Mugonero, came to his place of residence, met this
+27   Hutu man, Mugonero -- I am sorry about the coincidence of names, but there is Mugonero complex
+28   where BG was attacked and then Mugonero, the big Interahamwe. So DAC, the Defence witness,
+29   gave an impression that the two fell in love, there was a marriage, so in actual fact BG consented to
+30   whatever happened between her and Mugonero.
+31
+
+32   I just want to refer the Honourable Court to the provisions of Rule 96. Although the Defence tried,
+33   like, to cross-examine BG inferring that she had actually consented, procedurally they did not follow
+34   the regulations, they did not even establish an air of reality that BG had consented. In fact, when one
+35   carefully analyses their Defence, it was based on the witness statement of the 14th of -- it was of
+36   1995, where the witness herself actually indicated that from Mugonero complex she did not go straight
+37   to Bisesero but passed through Ngoma or Gishyita. The Witness BG actually explained the
+
+                         JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 43
+     MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1   inconsistency in her statement. She stated that when she gave that statement, she was so
+ 2   traumatised that she cannot even recall the contents of that statement. She testified in the
+ 3   Ntakirutimana case. She gave the same consistent explanation.
+ 4
+
+ 5   Seeing this loophole, the Defence brought DAC. It was clear that DAC had been thoroughly briefed.
+ 6   He was trying to use that loophole as an explanation. But then, there were so many other glaring
+ 7   contradictions: DAC could not even remember how many children BG had, yet he was claiming that
+ 8   she was a very close friend; when Mugonero was attacked they were very concerned, they went to
+ 9   look for her, when she came home she found a Hutu boyfriend. But from all we know from her
+10   evidence, she had actually left her own children with another lady. If the Defence contention was
+11   reasonable and true, one would imagine that the first discussion would focus around the wellbeing of
+12   the children, but DAC as a matter of fact said, "We did not discuss those issues." It's very, very
+13   obvious, crystal clear, that DAC was not talking of an encounter with BG; BG never went to DAC's
+14   house.
+15
+
+16   Even another witness, DAB, who purportedly accompanied BG to Mugonero's house, gave evidence
+17   which was stranger than fiction. We have a Hutu man, Mugonero. According to the Defence
+18   contention, he has just married a Tutsi woman, the bridegroom is never at home; he is supposed to
+19   be herding a cow or cattle, so he leaves DAB to take care of the bride during the supposed
+20   honeymoon period. Even DAB and DAC were contradicting each other. Why did BG, who was well
+21   loved by Mugonero, decide to leave Mugonero's place? According to DAC, he had discovered that
+22   BG's parents or husband was not killed in Mugonero complex, so now BG was afraid that the
+23   husband would discover that now she is having an affair with a Hutu man. According to the other
+24   witness, the reason is that the Interahamwes were hunting Tutsi, so she was now unsafe. The
+25   contradictions are so glaring that the only reasonable explanation is that there was never this
+26   marriage between BG and Mugonero. It will actually buttress what BG herself said, that there were
+27   Interahamwes who were guarding them. So whoever claims to have been at Mugonero's place, was
+28   there not to look after a newly-wedded bride, but to make sure that she does not escape because she
+29   was imprisoned for sexual favours. The reason why she could not be allowed to go out, the reason
+30   why she truthfully testified that even Mugonero's own mother would feed her from the house; she was
+31   not allowed to escape. She only escaped when she actually realised that the Interahamwes were
+32   feasting on the lootings they had made, then she had an opportunity.
+33
+
+34   Your Honour, I also refer to the rape of Virginie Gasherebuka, which is in paragraph 257. The
+35   Prosecutor, also like what I said in relation to the other count, did not lead evidence on this count, and
+36   accordingly, the Prosecution will withdraw that charge and we are not going to make any submissions.
+37
+
+                         JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 44
+         MUHIMANA                                                                      TUESDAY, 18 JANUARY 2005
+
+ 1       We will now deal briefly with the rape of Pascasie Mukarema, which is contained in paragraph 259 to
+ 2       266 of the Prosecution brief. Madam President has already drawn my attention to specifically relate
+ 3       to the evidence of rape. This is a case where I actually want to highlight the elements, because we
+ 4       have a situation described credibly by Prosecution Witness AW from where he is hiding; he actually
+ 5       saw Mika Muhimana and the Interahamwes approaching Mukarema. I just want to emphasise the
+ 6       condition of Mukarema: She was pregnant at that time. She was in Bisesero. My colleague has
+ 7       already told us why they were all in Bisesero; it was like the last point of war. Pregnant as she was,
+ 8       when Mika Muhimana saw her, Mika personally took a machete. Mika caused Pascasie to lie down.
+ 9       He proceeded to cut her from the breast right through her genitals. Mika then removed the baby. It is
+10       AW's evidence that this baby cried for some time, then the Interahamwe proceeded to cut off
+11       Pascasie's hands, then he sharpened objects and pierced the objects in the arms of the victim --
+12   MADAM PRESIDENT:
+13       Madam Madenga, how would you describe this incident as rape?
+14   MS. MADENGA:
+15       Thank you, Your Honour, because that is where I am coming to now. And before I even submit it is
+16       rape, I just want to say I am (sic) the privilege of appearing before the Chambers which is like
+17       making law, because my perception of this Trial Chamber is that although we have authoritative
+18       jurisprudence from ICTR, although we have persuasive jurisprudence from ICTY, what the Court is
+19       doing is actually making law, groundbreaking legal laws which are going to take us from Akayesu, so
+20       that is where I am now going in trying to describe why we classify what happened to this woman as
+21       rape.
+22
+
+23       In fact, in doing so, I will also start with the formulation in Akayesu. Basically, the formulation in
+24       Akayesu emphasised that when we talk of rape we are emphasising its aggressive nature; we cannot
+25       quantify it in terms of bodily organs. So in its broadest concept, we are looking at someone's sexual
+26       integrity. There we have Mika Muhimana, he has a machete, he targeted the victim on the breast. I
+27       have told the Court that women were raped because they were women. By targeting the breasts,
+28       they are looking at the sexual organs of a woman, starting from the reproductive organs. So he cut
+29       from the breast --
+30   MADAM PRESIDENT:
+31       Looking at the sexual organs of a woman would amount to --
+32   MS. MADENGA:
+33       I am still explaining, Your Honour. Because that per se might not amount to rape, but then that's what
+34       I am trying to explain, all the actus rea and mens rea which constitute rape according to Akayesu. So
+35       what I am saying is that while Mika is wielding the machete, cutting the woman from the breast to the
+36       genitals, that machete obviously interfered with her sexual organs. Pascasie was cut from the breast
+37       to the genitals. So what happened with Mika Muhimana's machete is that it actually interfered with
+
+                              JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 45
+     MUHIMANA                                                                TUESDAY, 18 JANUARY 2005
+
+ 1   her vagina. Those are the genitals we are talking about.
+ 2   (Pages 34 to 46 by Judith Baverstock)
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                        JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 46
+          MUHIMANA                                                                       TUESDAY, 18 JANUARY 2005
+
+ 1        1820H
+ 2   MS. MADENGA: (Continuing)
+ 3        And according to the broad formulation in Akayesu, where someone's sexual integrity is being
+ 4        attacked, and I don't see a more relevant example than this, because the whole sexual anatomy of a
+ 5        woman should not be taken in isolation. When we say sexual integrity, what do we mean? We mean
+ 6        a whole being. So where a machete moves across her genitals, if that is not interference or an attack
+ 7        on a woman's sexual autonomy, then, Your Honours, I really don't know what it is.
+ 8   JUDGE MUTHOGA:
+ 9        The question the Court is grappling with is, is every such attack rape?
+10   MS. MADENGA:
+11        No, Your Honour. No, Your Honour, but I am saying in these circumstances because sometimes you
+12        can have an act which can be described as rape; sometimes you have an act which can be described
+13        as sexual assault or violence. Sometimes you have an act which can be described as an inhuman
+14        act, outrageous or sexual on personal dignity, but I am saying during the course of the genocide, what
+15        was happening, we don't have the best way to describe it, but it also -- looking at the mens rea and
+16        actus reas can also be described as rape.
+17
+
+18        Of course, I will be guided by the Court. It was just a submission I was making so that the Court
+19        would actually squarely look at the facts and guide me properly.
+20   JUDGE SHORT:
+21        Just give the definition in Akayesu and tell us how that definition fits the description here as to what
+22        happened. What is the exact description or definition of rape in Akayesu?
+23   MS. MADENGA:
+24        Your Honour, I will just refer to the definition which I have already given, that rape as formulated in
+25        Akayesu is a physical invasion. So the first thing which Akayesu is looking at is an invasion which is
+26        physical. Then it also goes on to say it is of a sexual nature. And then --
+27   JUDGE MUTHOGA:
+28        That is the critical part.
+29   MS. MADENGA:
+30        Yes. Yes, because that is when now -- I was looking at the sexuality of it, that is when I started to
+31        describe about the breasts; that is when I started to go according to his modus operandi because
+32        when you cut up to the genitals -- that is where I was actually going.
+33   JUDGE MUTHOGA:
+34        Is the cutter being sexual?
+35   MS. MADENGA:
+36        That is also where I will revert back to Akayesu because Akayesu went on to describe that the objects
+37        or the physical assault -- we are not talking of something which is intrinsically sexual, because the
+
+                                  SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 47
+         MUHIMANA                                                                       TUESDAY, 18 JANUARY 2005
+
+ 1       cutting itself is a physical invasion, but the sexual part of it -- I was now referring to targeting
+ 2       someone's genitals as sexual organs, that is where I was going to.
+ 3   JUDGE MUTHOGA:
+ 4       In other words, if I were to pick a machete and got hold of a young man and plucked out his genitals,
+ 5       would I have committed rape?
+ 6   MS. MADENGA:
+ 7       Your Honour, it depends on the facts because I don't want really to speculate on hypothetical case,
+ 8       but what I would say is, depending on where the Chamber is sitting now, because I have actually
+ 9       addressed the Chamber saying that from where I am sitting now, I see the Chamber as going into
+10       ground-breaking legal directions. It's like you can actually describe -- if Your Honour actually
+11       describes to me the incident you have just described, and then come with a legal pronouncement that
+12       it is rape, then it depends on your reasons, just like Akayesu. Before Akayesu, we were depending on
+13       national jurisdictions, and what do national jurisdictions say? Basically, when they talk of rape, they
+14       are not even talking about man being raped, it's not gender neutral; they are talking of women. They
+15       are talking of consent. They are talking of the penis being introduced into the vagina, however slight,
+16       but the path-breaking case of Akayesu took us from those national jurisdictions and gave us an
+17       international perspective, because when we deal with genocide, it is not something which we
+18       experienced in our national jurisdictions. That is why I am squarely in the hands of the Court to guide
+19       me because it's a ground-breaking case. What happened in Rwanda, I never saw in Zimbabwe. So
+20       that's why I say the Court is making new law because what happened is new in Africa. The
+21       magnitude of that genocide, the widespread and systematic rape of women indiscriminately, brutally,
+22       we don't have experience in that.
+23
+
+24       Thank you, Your Honours.
+25   MADAM PRESIDENT:
+26       Yes, please go on.
+27   MS. MADENGA:
+28       Thank you, Your Honours.
+29
+
+30       I will go to describe also briefly the Defence contentions. They just gave a general defence that Mika
+31       was not there in Bisesero. So after describing this rape, I will move quickly to the rape of
+32       Felicité Kankuyu which is described in full at paragraph 269 to 275 of the closing brief.
+33
+
+34       Felicité, when we want to talk in terms of identifying the victim, was described by AU. He knew her
+35       before, she was a school teacher in Nyarutovu. She was a married person with children. What
+36       happened? She was also in the place of last hope in Bisesero, but when Mika Muhimana came all
+37       hell broke loose. Mika Muhimana undressed, had sexual intercourse with Felicité and then the
+
+                                SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 48
+     MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1   Interahamwes who were in the company of Mika Muhimana then took pieces of wood, they thrust
+ 2   them into Felicité's vagina. As a result of this, they inflicted grievous bodily harm which led to
+ 3   Felicité's death. So this -- we have already seen the circumstances why they were there, these
+ 4   women in Bisesero, and now the witness has described how Mika perpetrated the rape.
+ 5
+
+ 6   The Defence also, as I have said, have depended on the general allegation that Mika was not there,
+ 7   yet AU knew Mika as a conseiller and also identified him positively. So when Witness AU says Mika
+ 8   was there, he knows what he is talking about. He is a very credible witness; his credibility will be
+ 9   talked at length by my colleague when he addresses the Honourable Court on murder.
+10
+
+11   Lastly, I want to talk about the additional evidence of rape not specifically pleaded in the indictment. I
+12   have talked at length about respecting jurisprudence. We have heard the pronouncements in
+13   Ntakirutimana Appeals Chambers. Your Honours will remember that we submitted our brief before
+14   the Ntakirutimana pronouncements. But when we wanted also to keep abreast with the law, we read
+15   thoroughly that judgment, and in view of what the Court said, we are no longer maintaining the view
+16   that all the charges which are not specifically pleaded in the indictment should be considered by the
+17   Honourable Court for purposes of convicting the accused person. What we are saying now is that
+18   those instances highlight the persistent pattern of conduct on Mika Muhimana. They only go a long
+19   way to enhance who we are talking of. That is why BJ added that she also got a report from Evelyn
+20   telling her that whilst in Bisesero, she was gang-raped by Interahamwes and Mika Muhimana. This is
+21   not pleaded, but it should actually buttress what other witnesses were saying. The same applies to
+22   what BI, when she talked about Mukasine being raped and also describing the rape because the
+23   witness actually said Accused tore Mukasine's clothes, proceeded to have sexual intercourse with
+24   her. The witness was well positioned to see what was happening. So, it is very clear, it is proven
+25   beyond reasonable doubt that Mika Muhimana actually raped Mukasine.
+26
+
+27   The same applies with BU. We are now in Bisesero. We just see Mika Muhimana's brutality when he
+28   rapes, because this witness actually told the Court that Mika Muhimana has acquired for himself a
+29   very extraordinary reputation. He was now very notorious. So when he met this woman Josephine,
+30   Josephine pleaded with Mika not to kill her. Mika referred to her as a first lady who was arrogant.
+31   That is buttressing what we were saying that Mika was perpetrating the rapes as part of a broader
+32   policy. Accused proceeded to have sexual intercourse with Josephine, and true to Mika Muhimana's
+33   reputation, he abandoned Josephine to the Interahamwes, and what did the Interahamwes do to her?
+34   They cut off her legs and her arms and they left her to die slowly, that is after the rape.
+35
+
+36   And lastly, we have another rape which was not pleaded, that is the rape of BB in Bisesero. Here the
+37   rape which was described by BB -- I beg your pardon, is the rape of Theresa Mukabutera. Theresa,
+
+                           SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 49
+         MUHIMANA                                                                    TUESDAY, 18 JANUARY 2005
+
+ 1       Your Honours will remember how she was raped and also what happened to her after the rape. In
+ 2       fact, after the rape, they actually placed the child -- because this woman had a child, they placed the
+ 3       child as though the child was having sexual intercourse with its mother. So this is typically
+ 4       Mika Muhimana. So it only goes to show what kind of brutality we are talking about.
+ 5
+
+ 6       I would lastly talk about AQ. I had actually emphasised that I would also address the additional rapes
+ 7       perpetrated on AQ when I talk of the rapes not pleaded in the indictment. The rapes perpetrated on
+ 8       AQ were not pleaded in the indictment. The witness herself explained why to the Court she only
+ 9       opened up a few weeks before trial, and that is when the Defence were notified about the additional
+10       rape allegations. Those allegations were omitted in all her statements. When this happened, she
+11       was only 15 years old. Tutsis were being killed. Her sister Esperance, who was living with her, had
+12       been raped consistently and persistently by Mika Muhimana. She was then abducted and was killed.
+13       So when this rape happened to her, she stated that she did not tell anyone. She did not even tell
+14       Mika's wife, who was her aunt. She only opened up after some counselling. This is very
+15       understandable given her age, given the mother (sic) of all violence which had erupted; she was very
+16       vulnerable. So it shows that she was very credible, but it also shows that Mika started raping at his
+17       own home, to Mubuga, to Mugonero, then to the last place of hope, Bisesero. And what all these
+18       rapes have shown is that he raped brutally and indiscriminately.
+19
+
+20       In a few seconds, Your Honours, I will sit down and leave it to the collective wisdom of the Bench. We
+21       have seen the pain. The Prosecution has proved beyond reasonable doubt who caused the pain; it is
+22       Mika Muhimana.
+23
+
+24       Thank you, Your Honours.
+25   MADAM PRESIDENT:
+26       Madam Madenga, before you sit down, I have a question for you.
+27   MS. MADENGA:
+28       Thank you, Madam President.
+29   MADAM PRESIDENT:
+30       There appears to be some confusion on the identification or in the names of some of the victims who
+31       had been raped by Mika.
+32   MS. MADENGA:
+33       Yes, Your Honour.
+34   MADAM PRESIDENT:
+35       In paragraph 6C(i) of the indictment, you referred to a lady named Murekatete.
+36   MS. MADENGA:
+37       Murekatete, yes, Madam President.
+
+                              SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 50
+         MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1   MADAM PRESIDENT:
+ 2       Whereas in paragraph 6C(ii) she is referred to as Eugenia, this is the evidence of some of the
+ 3       witnesses. We suggest that Eugenia Murekatete is the same person, the same witness as the person
+ 4       who had been raped by the Accused.
+ 5
+
+ 6       Again in paragraph 6C, it refers to a victim named Josiana, while in paragraph No. 6C she is referred
+ 7       to as Johaneta. According to the evidence of some of the witnesses, she is the same person; it is the
+ 8       name of the same person, Josiana or Johaneta.
+ 9
+
+10       Again there is a name in paragraph 6C(i) which refers to Mukasine Kajongi, and then in paragraph
+11       No. 6C(ii) there is reference only to Mukasine. How would you qualify this confusion in the names of
+12       the victims?
+13   MS. MADENGA:
+14       Thank you, Madam President. Maybe I start with the last name Mukasine. We have Mukasine who is
+15       specifically mentioned on 6C(i) and is given like a surname like Mukasine Kajongi.
+16   MADAM PRESIDENT:
+17       And then in 26C(ii) she is only referred to as Mukasine.
+18   MS. MADENGA:
+19       Your Honour, Mukasine as referred to on 6C(i) is referred to as Mukasine Kajongi, and the Court will
+20       remember Witness AT actually describing that she was the daughter of one Isaac Kajongi who was
+21       employed at Mugonero complex.
+22
+
+23       When we look at the other Mukasine, now I am referring to 6C(ii), Your Honours will recall our witness
+24       BJ stating that when she was at Mugonero complex she met two girls. She could identify one
+25       because one actually said -- one was a maid, they were working together, but the other one she could
+26       not identify but had the name Mukasine.
+27
+
+28       It is our humble submission that we are talking of two different persons. It is only the similarities of
+29       names relating to maybe how Rwandans give names, what is popular. But when we talk of the
+30       Mukasine in the first instance, we are talking of a totally different person. The reason why even their
+31       circumstances when it came to rape are totally different.
+32
+
+33       Then I would go to Josiana and Johaneta. The Defence contention at length was to the effect that
+34       Josiana at that stage changed her name because she had failed and she was now Johaneta. But
+35       what we went on to show through our witnesses is that we are talking of different instances. When we
+36       talk of the first Josiana we are talking of a child to Karera; that is how the witness put it. But when we
+37       talk in terms of Johaneta, we are talking of a different person. So when we led evidence from the
+
+                               SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 51
+         MUHIMANA                                                                     TUESDAY, 18 JANUARY 2005
+
+ 1       Prosecution witness, it was clear that we are talking of totally different victims who were raped in total
+ 2       -- although the circumstances were more or less the same, they were raped differently and they were
+ 3       even in different rooms; they were not one and the same persons. Josiana is Josiana who was living
+ 4       with Marianna and Martha, but it is not the same Johaneta who was raped together with Theresa and
+ 5       Eugenia.
+ 6   MADAM PRESIDENT:
+ 7       Thank you, Madam Madenga.
+ 8
+
+ 9       We stop for the day today here. And I have been informed that this courtroom will be available
+10       tomorrow so we will start the hearing tomorrow morning at 10:30 and resume with the arguments of
+11       Mr. Kapaya. Thank you.
+12       (Court adjourned at 1840H)
+13       (Pages 47 to 52 by Sithembiso Moyo)
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                               SITHEMBISO MOYO - ICTR - TRIAL CHAMBER III - page 52
+     MUHIMANA                                                                TUESDAY, 18 JANUARY 2005
+
+ 1
+
+ 2
+
+ 3                                         CERTIFICATE
+ 4
+
+ 5
+
+ 6   We, Sithembiso Moyo, Leslie Todd, Karen Holm and Judith Baverstock, Official Court Reporters for
+ 7   the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the
+ 8   above-entitled cause were taken at the time and place as stated; that it was taken in shorthand
+ 9   (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and
+10   correct transcription of said proceedings to the best of our ability and understanding.
+11
+
+12
+
+13   We further certify that we are not of counsel nor related to any of the parties to this cause and that we
+14   are in nowise interested in the result of said cause.
+15
+
+16
+
+17
+
+18   ______________________            Sithembiso Moyo
+19
+
+20
+
+21   ______________________            Leslie Todd
+22
+
+23
+
+24   ______________________             Karen Holm
+25
+
+26
+
+27   _______________________           Judith Baverstock
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+                                         ICTR - TRIAL CHAMBER III
+

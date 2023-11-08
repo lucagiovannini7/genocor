@@ -1,0 +1,1235 @@
+	THE INTERNATIONAL CRIMINAL TRIBUNAL FOR RWANDA
+
+CASE NO.: ICTR-95-1B-T	THE PROSECUTOR
+CHAMBER III	OF THE TRIBUNAL
+		v.
+	MIKA MUHIMANA
+
+
+28 APRIL 2004
+1420H 
+CONTINUED TRIAL
+
+
+
+Before the Judges:
+	Khalida Rachid Khan, Presiding
+	Lee G. Muthoga
+	Emile Francis Short
+
+
+For the Registry:
+	Mr. Constant K. Hometowu
+	Mr. Issa Mjui	
+For the Prosecution:
+	Mr. Charles Adeogun-Phillips
+	Mr. Wallace Kapaya
+	Ms. Renifa Madenga
+
+
+For the Accused Mika Muhimana:
+	Mr. Nyabirungu Mwene Songa
+	Mr. Richard Kazadi Kabimba
+
+
+Court Reporters:
+	Ms. Judith Baverstock 
+	Mr. Trevor Gerbes
+	Mr. Rex Lear
+	
+	
+
+
+I N D E X
+
+WITNESS
+For the Prosecution:
+WITNESS AF
+Examination-in-chief by Mr. Adeogun-Phillips.	19
+Cross-examination by Mr. Songa.	36
+
+
+EXHIBITS
+Prosecution Exhibit No. P. 22.	19
+
+
+P R O C E E D I N G S
+MADAM PRESIDENT:
+Good afternoon to all.  
+
+The Court is in session now.  May we have the appearances for the Prosecution? 
+MR. ADEOGUN-PHILLIPS:
+Good afternoon, Your Honours.  Mr. Kapaya, Mrs. Madenga and myself, Charles Adeogun-Phillips, appear for the Prosecution. 
+MADAM PRESIDENT:
+And the Defence? 
+MR. SONGA: 
+Good afternoon, Madam President; good afternoon, Your Honours.  The Defence team for Mika Muhimana is comprised of Counsel Kazadi Kabimba, Leopold Munderere, Mathias Sahinkuye, and my humble self, Professor Nyabirungu Mwene Songa.  Thank you, Madam President.
+MADAM PRESIDENT:
+Thank you, professor.  
+
+We have been informed that Witness W is not well today, so we will hear all arguments on motion 92 bis.  
+
+Mr. Prosecutor, you have the floor.
+MR. KAPAYA:
+Good afternoon, Your Honours; good afternoon, members of the Defence.  
+
+Your Honours, on the 6th of July 2002 the plenary passed Article 92 bis of the Rules of Procedure and Evidence which sets out the parameters or conditions under which written statements may be admitted in evidence in lieu of oral testimony.  Your Honours, before the enactment of Rule 92 bis, there was Rule 89(C) which was in operation.  Now, Rule 89(C) simply states that a Chamber may admit any relevant evidence which it deems to have probative value.  
+
+Your Honours, Rule 92 bis sets out as the major condition that before oral testimony -- a written statement is admitted in evidence in lieu of oral testimony, it should relate -- it should not relate to the acts and conduct of the Accused.  That is what 92 bis (A) provides.  It then goes on to set out, under 92 bis (B), the conditions under which certain statements may be admitted, and then it goes on to(C) where it says, "A written statement not in the form prescribed by paragraph (B) may nevertheless be admissible if made by a person who has subsequently died, or by a person who can no longer with reasonable diligence be traced, or by a person who is by reason of bodily or mental condition unable to testify orally, if the Trial Chamber:  (i) is so satisfied on a balance of probabilities; and (ii) finds from the circumstances in which the statement was made and recorded that there are satisfactory indicia of its reliability."
+
+Now, Your Honours, the Prosecution seeks to introduce into evidence the written statements of witnesses BA who, we set out in our motion, cannot be found, he cannot be located; and we set out also, the conditions under which we say that witness cannot be found.  In other words, in summary, Your Honours, the witness moved to Congo, in Zaire, to a location where our investigators were unable to locate him.  There is also Witness AS.  Now, Witness AS and AL fall into the same category, that is, these witnesses are dead; and we have attached death certificates to prove the fact that these witnesses cannot be found.
+
+Your Honours, one of the reasons why we seek the admission of the statements of these witnesses in lieu of their oral testimony is that they go -- they attest to the acts and conduct of the Accused.  Now, this is clearly a condition which, under 92 bis, these statements cannot be admitted because 92 bis says that in order for the statements to be admitted, they should not relate to the acts and conduct of the Accused.  We have shown in our motion that BA relates to the conduct and acts of the Accused in relation to paragraph 5(c) of the indictment.  We have also shown that AS's written statement relates to the factual allegations as contained in paragraph 6(c) (iv) of the amended indictment, and this of the Witness AL relates to the acts and conduct of the Accused in relation to paragraphs 5(a), (b) and 6(ii) of the indictment.  
+
+In our humble submission, Your Honours, it would appear outright that paragraphs -- Rule 92 bis and Rule 89(C) are at variance.  Whereas 89(C) talks of admission of all statements, the Chamber -- of all evidence the Chamber considers relevant, 92 bis sets out certain conditions under which certain statements can be admitted.  So it would appear to us, Your Honours, that the two provisions are clearly at variance with one another.  
+
+Now, these statements, as it will be seen, were recorded in -- way back in 1999.  This was before 92 bis came into operation.  Now -- came into operation on the 6th of July 2002.  It is our humble submission that the plenary had no intention of amending -- of amending the provisions of Rule 89(C).  It is our humble submission, Your Honours, that Rule 92 bis and 89(C) should be construed or read in such a manner that they are harmonious; there is a harmonious construction of these two articles.  Now, in that regard, it is our humble submission that in the Chamber's consideration as to whether to admit these statements, they should not read 92 bis along with the provisions of 92(A) and (B) and instead they should read 92 bis only in the light of Rule 92(C).  In that manner, you will have a harmonious construction or understanding of the provisions of 92 bis -- 92 bis, 92 bis (C) and 89(C) because 92 bis(C) it all sets out the conditions under which a statement may be -- may be admissible.  
+
+Now, our humble submission, Your Honour, is that if you read 89(C) along with 92 bis (A) and (B), you will find outright that these will not go along with 92 bis(C) or with 89(C).  
+
+Alternatively, Your Honours, it's our humble prayer that if the Chamber will find that 89 -- 92 bis(C) cannot be read alone, that is, cannot be read without due regard to 92 bis (A) and (B), then we submit that the admission of the three witness statements be considered only under 89(C) of the Rules of Procedure and Evidence.  
+
+Your Honours, we may go further and say that under Rule 6(C), it is provided that amendments shall come into operation as soon as they are enacted, but they shall not be -- they shall not operate to prejudice the rights of the Accused.  Now, read in that manner, it would appear that the Statute appears to allow that an amendment may come into operation which prejudices the rights of the Prosecution.  Now, we think that that's not what the plenary may -- could have intended because under Article 21 of the Statute, it is enacted that parties before this Tribunal, that is, the Prosecution and the Defence, shall be equal.  So, in the light of that, we don't see why an amendment should be allowed which -- should not be allowed if it prejudices the rights of the Accused but should be allowed where it prejudices the rights of the Prosecution.  In our humble submission, Your Honours, Article 6(C) should be read in such a way that it also prohibits amendments which prohibit the rights -- the -- which prohibits enactment -- which prohibits enactment which prejudices the rights of the Prosecution.  
+
+In the light of that, it's our humble submission that if you think that 92 bis -- if the operation of 92 bis will prejudice the rights of the Prosecution in that it will tend to disallow the admissibility of the statements of the three witnesses because they talk -- they go to the acts and conduct of the Accused, then it is our humble submission that our motion should be considered only in the light of the provisions of 89(C) which are -- which were in operation at the time the statements of these particular witnesses were recorded.  Now --
+JUDGE MUTHOGA:
+Counsel, before you go on, are you proposing that the date at which a statement was recorded is a material factor for consideration?
+MR. KAPAYA: 
+Yes, Your Honour, that is my submission.  Because, if you look at 92 -- 92 bis (B), it talks about -- it sets conditions under which a written statement should now qualify for admission.  It says it should be witnessed by a Presiding Officer appointed by the registrar --
+
+MADAM PRESIDENT:
+Mr. Kapaya, this situation is not relevant to your case.  Your witnesses are dead.  I understand two of them are dead and one is not traceable.  So the provisions of 92 bis would not be applicable to your case. 
+MR. KAPAYA: 
+That is why we say, Your Honour, that in considering our application, the Chamber should not take into account the provisions of 92 bis (A) and (B). 
+MADAM PRESIDENT:
+Do you think the provisions of (C) should be read in isolation?
+MR. KAPAYA: 
+That is my humble submission, Your Honour, because if it is not, then it will definitely conflict with the provision of 89(C), and the idea is not to make provisions which are in conflict with one another; the idea is to make provisions which are in harmony.  They --  I mean, they advance the processes of trial. 
+JUDGE MUTHOGA:
+You haven't answered my question.  Is the operative date, the date upon which the statement is sought to be introduced in evidence or is it a date when the statement was recorded?
+MR. KAPAYA:
+The operative date for what, sir?
+JUDGE MUTHOGA:
+For considering the operation of the rule. 
+MADAM PRESIDENT:
+Ninety-two bis.
+JUDGE MUTHOGA:
+Either rule; any rule. 
+MR. KAPAYA: 
+The operation of the rule, Your Honour, according to Rule 6(C) is on the date the rule was passed, which was 6 July 2002.
+JUDGE MUTHOGA:
+Yes, but would a statement -- would a statement which was recorded after the rule was amended be not admissible when that which was recorded before the rule was made admissible?  Can the regulation of the rule depend on when the statement was recorded?
+MR. KAPAYA:
+ No, it does not, Your Honour; it depends on when the rule came into operation. 
+JUDGE MUTHOGA:
+You told us -- you told us that these statements were recorded prior to the amendment of 92 -- the introduction of 92 bis.
+MR. KAPAYA: 
+Yes, sir.
+JUDGE MUTHOGA:
+And you started to suggest that because of that 92 bis ought not to apply to them because they predate it. 
+MR. KAPAYA:
+Yes, Your Honour, that's what I said. 
+JUDGE MUTHOGA:
+Are you proposing that as a proposition of law?
+MR. KAPAYA: 
+I am proposing that in the light of the fact that if you consider that statement in the light of the provisions of 92 bis it will -- 92 bis (A), it will tend automatically to disallow the admissibility of that statement.  And my contention is that I don't think that the plenary had that intention, that after 6th of July 2002 all statements which were recorded prior to that date do not qualify under the rule as enacted, then they should be disallowed.
+JUDGE MUTHOGA:
+But surely that's what it intended.  That's what the plenary intended.  The plenary intended to improve the admissibility of statements and regulate them by reason of their applicability to the facts that are on the indictment.  And, therefore, they brought that section, that particular requirement, so that statements, wherever they may be, which do not -- which tend to prove the acts of the Accused as charged in the indictment are excluded.  That is what the plenary must have intended.  It can't have intended the opposite, otherwise the introduction of 92 bis would have been unnecessary. 
+MR. KAPAYA: 
+That is why we say, Your Honour, that in our humble submission that that rule works an injustice to the Prosecution because under -- because it works an injustice to the Prosecution in the sense that we are now unable to put in evidence, the evidence which we require to prove our indictment, but for reasons which are beyond the Prosecutor's control because these witnesses have died or cannot be found.  How will justice be done to these people or to their relatives?  That is the point.
+JUDGE MUTHOGA:
+That may well be the result, but it can't negate the intention of the plenary.  It may well mean that the Prosecution will find itself handicapped in respect of statements already previously recorded, but still the intention of the plenary is that evidence should only be received if it doesn't touch specifically, because that is an important matter for the Accused person, for the protection of his rights, to cross-examination and so forth. 
+MR. KAPAYA: 
+Your Honour, that is why we filed this motion for your Honourable Court to consider whether you see the injustice that rule may work on the Prosecution in the particular facts of this particular case.  And we also -- we have also invited Your Honours to look at Rule 6(C) -- article, Rule 6(C) of the Rules of Procedure and Evidence which simply says that an amendment is bad which affects the Defence but appears to be good but which prejudices the Prosecution.  These are all rolled up in our motion, Your Honours, for your humble consideration.  
+
+Your Honour  --
+JUDGE SHORT:
+Mr. Kapaya, you say that the Prosecution and the Defence are equal, right, and they should be treated equally? 
+MR. KAPAYA:
+That's what Article 20 sub-article 1 of the Statute reads, Your Honours. 
+JUDGE SHORT:
+The Accused is on trial; you are not on trial. 
+MR. KAPAYA: 
+Yeah, but  --
+JUDGE SHORT:
+So when the rule talks about prejudice, the rule is envisaging the person who is on trial. 
+MR. KAPAYA: 
+Your Honour  --
+JUDGE SHORT:
+So how does that apply to you, the Prosecutor?  How does that rule apply?
+MR. KAPAYA: 
+The Prosecutor has an unenviably high burden to prove a case beyond reasonable doubt.  Now, in its endeavours to prove a case, there are certain rules which are set and there is also the presumption, Your Honour, of equality of arms of the parties, notwithstanding that we have a higher burden, notwithstanding that the Accused is presumed to be innocent; but there are rules, which I have said one of them is the notion or concept of equality of arms.  Now --
+JUDGE SHORT:
+What do you mean by equality of arms?
+MR. KAPAYA: 
+That both parties should be able to present their case.  I mean, they -- both parties should be afforded equal opportunity to, say, present their case before the trial.
+JUDGE MUTHOGA:
+But that's correct.  If the Accused were to try to introduce a statement -- evidence which was recorded that way you say, we would tell the Accused no, as we are telling you.  It is a matter of who happens to be on boil at the present moment, and at the present moment it is the Prosecution, because it is the Prosecution's duty, bounden duty, to prove its case, to present sufficient evidence to persuade us beyond reasonable doubt that the Accused is guilty.  I mean -- and that can't be moved on to the other side, even on the basis of equality of arms.  The burden doesn't shift on the basis of equality of arms; the burden remains with the Prosecution.  It is still the Prosecution's case, and it is the Prosecution who establish the guilt of the Accused using the rules as they are, as they happen to apply at the time the Prosecution is putting forth its case.  And inasmuch as I sympathise with the difficulty created by the fact that many of these statements may have been recorded prior to the change of the rules, the Prosecution will still have to swim with them. 
+MR. KAPAYA: 
+Yeah, that's why, Your Honours, we invited Your Honours to use your wisdom to see whether 92 bis and 89(C) are at variance in the light of our submission, Your Honours, and to consider whether the Prosecutor's burden is handicapped by the fact that he cannot now bring in most of the statements which were -- actually, almost all the statements which were recorded prior to July 2002 and which are quite numerous, Your Honour, and they attest to the acts and conduct of the Accused purpose. 
+JUDGE SHORT:
+Mr. Kapaya, your major obstacle is that 92 bis applies where the written statement does not relate to the acts and conduct of the Accused.
+MR. KAPAYA: 
+Yes, Your Honour.
+JUDGE SHORT:
+You have admitted that these statements relate to the acts and conduct of the Accused.
+MR. KAPAYA: 
+Yes, Your Honour.
+JUDGE SHORT:
+You cannot read 92 bis(C) without reference to (A) and (B).  (A) sets the initial threshold which you must satisfy.  Everything that follows, (B) and (C), relate to (A).  So, if the written statements you are asking to be admitted relate to the acts and conduct of the Accused, how do you extricate yourself from -- how do you come under 92 bis?
+MR. KAPAYA: 
+That is why, Your Honour, our motion is pegged on two provisions. 
+JUDGE SHORT:
+So, on 92 bis, do you concede that since the written statements relate to the acts and conduct of the Accused, your application cannot come under 92 bis?  And if we can deal with that, then we can move on to 89(C). 
+MR. KAPAYA: 
+Yes, Your Honour, I would concede to that.  That if it is not read in conjunction with 89(C), that is, if 92(C) -- if the Chamber only considers 92 -- 92 bis(C) along with -- to the exclusion of 92(A) and the rest of the provisions, then in that light, Your Honour, I concede.  But my application was that we had applied -- we had applied, Your Honours, that you read 92 bis(C) along with 89(C) only, for the reasons that we have tried to set out.
+JUDGE SHORT:
+Really, you should read (C) with (A) and (B) not with 89(C).  Why do you want to read 92(C) with another -- with 89(C) instead of 92(A) and (B)? 
+MR. KAPAYA: 
+Because, Your Honour, at the time the statements were recorded the operative section was 89(c).  Now, if 89 -- if 92 bis had not come into operation on the 6th of July these statements came to be considered -- failed to be considered under 89(C).  In all probability, they could have been admitted in evidence and the issue would only have been what weight attached to them, considering the fact the witnesses are dead and cannot be called to testify. 
+MADAM PRESIDENT:
+So you mean to say that if the provision of 92 bis (C) were in existence before July 2002?
+MR. KAPAYA:
+No, it does not conflict. 
+MADAM PRESIDENT:
+Given the existence before the amendment, before the addition of this 92?  
+MR. KAPAYA: 
+No, it was not, Your Honour; it was not in existence.
+MADAM PRESIDENT:
+So, (C) cannot be read in isolation, it has to be read along with provision (A).
+MR. KAPAYA: 
+That -- and that's the crux of the matter, Your Honours, that if you read it in conjunction with 89(C) it will automatically exclude the witness statements and that will work a prejudice to the Prosecution's case. 
+JUDGE MUTHOGA:
+And Mr. Kapaya, can we legitimately presume that the plenary was totally ignorant of the fact that statements could have been recorded prior to changing the rules?  Is it a presumption we can lawfully make?
+MR. KAPAYA: 
+No, Your Honours, we cannot make that presumption.  We just invited Your Honours to consider the way these provisions, 6(C), 89(C) and 92 bis to see whether they are in conflict or they are in harmony with one another.
+JUDGE MUTHOGA:
+If anything, we ought to presume that plenary was aware that statements have been recorded and exist and they should -- those statements are to be governed by 92 bis.
+
+MR. KAPAYA: 
+Yes, Your Honour.  
+
+Should I, Your Honours, now proceed?  
+JUDGE SHORT:
+Mr. Kapaya, have you considered the jurisprudence on the relationship between 89(C) and 92 bis, the jurisprudence not only of this Tribunal but of the ICTY?
+MR. KAPAYA: 
+Yes, we have.  We have cited several provisions which relate to the admissibility of written statements, Your Honours.  These are -- we have set them out in paragraphs 8 to 12 of our motion, the Aleksovski case, the Tadic, Blaskic, and the most recent case of Bagosora where -- which was decided very recently, Your Honours, and where the law and issues relating to written statements were discussed.
+JUDGE SHORT:
+And those cases, do they support your submission? 
+MR. KAPAYA:
+They support -- my submission is based on two provisions, Your Honours.  As far as 89(C) alone is concerned, they support it, but read together with 92 bis, they don't. 
+JUDGE MUTHOGA:
+You are right in your understanding of the case of the jurisprudence. 
+MR. KAPAYA: 
+Thank you, Your Honours.
+
+Should I now proceed to argue the case on the basis of 89 C?  
+
+Your Honours, there are two conditions to be met if the statements are to be admitted under the provisions 89(C), and those are whether the statements are relevant and whether the written statements have probative value.  Now, it's my submission, Your Honours, that these statements are relevant because they talk about -- they support, as I said early on, they support particular factual allegations in our amended indictment.  Now, whether or not they have probative value, this will depend on the manner in which they were recorded and on the condition -- the manner in which they were recorded, the conditions under which they were recorded, and the fact that when they were recorded, it was not foreseeable that the makers of these very particular statements would not be called to testify.  So it would appear that they were made under conditions where there was no anticipation by the witnesses (sic) that these witnesses would come to testify.  
+
+So, Your Honours, the two conditions of relevance and probative value, we humbly submit that these statements are admissible under 89(C).  Now, these statements were disclosed to the Defence over two years ago, some time in December 2000, so the Defence have had ample time to see what was contained in these statements and have had ample time to study them, and it cannot be said that the admission of these statements would be prejudicial to the rights of the Accused person.
+JUDGE MUTHOGA:
+Address the fact that the Defence were not told the witnesses would die in the course of time and the statements would have to come on their own. 
+JUDGE SHORT:
+But in addition to that, the fact that they would have no opportunity to cross-examine the witnesses.  In considering whether prejudice would result by admission of these statements, be mindful of the fact they would have no opportunity to cross-examine these witnesses.  That would seem to be the safeguard which has sought to be protected. 
+MR. KAPAYA:
+Yes, Your Honour, that would then go to the weight to be attached to the statements by the Trial Chamber and not admissibility as such. 
+JUDGE MUTHOGA:
+Mr. Kapaya, if you look at it -- if you look at your own case, the reason the plenary found it necessary to introduce 92 bis is exactly that:  Is that they are receiving or they think the evidence is being received in statements which go to kill (sic) the Accused when he has no opportunity to cross-examine those who made the statement; and so the plenary in their wisdom said statements will only be admitted if they are peripheral or if they are not a killing statements so that the Accused always has the right to challenge anything that would kill him, he can challenge it on cross-examination. It can't be right to say that 92 bis was introduced to be ignored. 
+MR. KAPAYA:
+Your Honours may also perhaps wish to consider that in national jurisdictions we have what we call dying declarations.  Now, these dying declaration, they are people who cannot be called to testify but they are taken into consideration when considering whether an Accused was guilty or not guilty.  Now, 92 bis does not appear to take into account the principles embodied in dying declarations.  
+JUDGE MUTHOGA:
+In fact, it comes to say dying declarations will only be received when they are not about -- they are not critical to the guilt or innocence of the Accused, which is a sensible addition -- improvement, in my view, of the rule as it was. 
+MR. KAPAYA: 
+Your Honours, I leave the matter entirely in your hands.  That's all I have to say on the motion. Thank you.
+MADAM PRESIDENT:
+Is there any part of the testimony that do not relate to the acts and conduct of the Accused?
+MR. KAPAYA: 
+Yes, there are parts which are severable.  I mean, you can sever parts which relate to the acts and conduct of the Accused and those parts which do not relate to the acts and conduct of the Accused.  I further submit, Your Honour, in the light of that  --
+MADAM PRESIDENT:
+You are prepared to address your motion to those parts which do not relate to the act and conduct of the  ---
+MR. KAPAYA: 
+Yes, Your Honour, only in the sense that if the Chamber finds that they cannot admit the parts -- those parts of statement which relate to the acts of -- acts and conduct of the Accused, then it should be -- it should sever those parts which relate -- which do not relate and them admit them as evidence.
+JUDGE MUTHOGA:
+That's a novel experiment.  The statement of a witness is one document, and you want now to break that document into what, into compartments and admit it as compartments of a statement which otherwise is not admissible? Surely that is treading on very dangerous ground? 
+MR. KAPAYA:
+I think we have had a ruling to that effect, Your Honours.
+MADAM PRESIDENT:
+Can you identify those parts which do not relate to the act and conduct of the Accused?
+MR. KAPAYA:
+Yes, I can do that, but not immediately, Your Honour, because -- I can do it in due course, but by reading the statements one can discern which does and which do not relate. 
+MADAM PRESIDENT:
+Is that all?  
+MR. KAPAYA:
+Yeah, that's all, Your Honours. 
+MADAM PRESIDENT:
+Thank you.  
+
+Professor, please go ahead with your reply. 
+MR. SONGA:
+Thank you, Madam President.  I wish to, first of all, hail the skilful nature of the Prosecutor's motion in which he is requesting the impossible.  It reminds me of the fact that a child who is well nourished and has had enough, after that asks his mother and parents to give him the moon.  In spite of the love the parents may have for the child, they will never give that child the moon.  
+
+Madam President, I would, first of all, like to state that we have already replied to this motion. We did that on the 5th of April 2004.  So, with your leave, I will be briefer than my learned colleague.  I will say a word about the scope of Rule 89(C) of the Rules of Evidence and Procedure.  Nobody challenges the fact that the provision according to which the Chamber may admit any evidence which is relevant and of probative value is a general rule.  To cite that rule is, of course, very rational and well founded in law.  However, as the Prosecutor pointed out himself, such a general provision runs counter to Rule 92 bis which states specifically under paragraph (A), which is the umbrella for that rule, and it says that, "The Trial Chamber may admit in whole or in part the evidence of a witness in the form of a written statement in lieu of oral testimony which goes to proof of a matter other than the acts and conduct of the Accused as charged in the indictment."  This provision, we consider as the very hub of the matter that is dealt with in Rule 92 bis; and we go further to state that that provision is special in nature.  Accordingly, the difficulties encountered by the Prosecutor -- accordingly the difficulties encountered by the Prosecutor, which he summarises as discrepancies, should not persist because there is a rule of law to solve the problem of incompatibility between two rules.  This rule of law, which I learnt in Latin, states this: specialia generalibus derogant; provisions that are special, override provisions of a general nature; and the law offers a solution to the problem of incompatibility.  
+
+Also, Madam President, I heard the Prosecutor say that Rule 92 bis should not be applicable because the statement we are dealing with was received before the rules were amended by the plenary session.  And in this regard, there is also a rule of law which is current in all the legal systems in the world and which is mentioned in Rule 6 of the Rules of Procedure and Evidence.  That rule states that rules of procedure should be immediately applicable, the consequence being that new proceedings such as in cases that are not yet over, will be subject to the new law.  Only trials that have been complete are exempted from that rule.  
+
+We have also heard the Prosecutor suggest that your august Chamber should sever the statement to admit some parts of it and reject others.  Your Chamber has clearly observed that this is an unusual request and the request (sic) is of the opinion that it is a new request in regard to which the Prosecutor will no longer have time to respond and even less propose a solution.  I recall, Madam President, that there is case law before this trial.  It's a decision of the 22nd January 2003 relating to the Prosecution motion to withdraw five witnesses from -- who are dead, from his list of witnesses and to admit into evidence the statements of four of the said statements -- witnesses.  It is in the case of the Prosecutor and Elie Ndayambaje et al, the number is ICTR 98-42-T.  In that decision, which is also related to a similar decision taken by the ICTY, and it states as follows:   "Any statement admitted pursuant to Rule 92 bis (A) must, first and foremost, meet the requirements of Rule 92 bis (A), which prescribes that evidence must prove a point other than the acts and conduct of the Accused as alleged in the indictment.  And the same Chamber concludes as follows: "Rule 92 bis of the Rules of Procedure and Evidence does not allow admission into evidence of statements relating to the criminal  -- presumed criminal conduct of the Accused as alleged in the indictment." 
+MADAM PRESIDENT:
+There are instances in this Chamber that where the Chamber held that the statements go into the acts and conduct of the Accused, yet they have admitted the statement on the basis of interest of justice.  We have this case -- in the case of Kamuhanda, if you want to see.  If you want to go to it, we can give you the copy.  So what would you say if these statements are admitted in the interests of justice if the Chamber considers that these circumstances of the case require that such statements be admitted in the interests of justice?
+MR. SONGA: 
+Thank you, Madam President.  I would request Your Honours to rely on the terms and spirit of Rule 92 bis (A) and ascertain whether that statement deals with a point other than the acts and conduct of the Accused as alleged in the indictment, which, in the instant case, cannot be proven beyond a reasonable doubt.  As you have noticed in my response to the Prosecution motion, I didn't go very far to know that the statements deal with the acts and the conduct of the Accused.  All I had to do was to look at transcripts of the pre-trial brief of the Prosecution to find myself faced with facts and acts that deal with the Accused's conduct.  So, such statements, in any case, cannot be admissible before this Chamber without violating Rule 92 bis (A) of the Rules of Procedure and Evidence.  Such is the response of the Defence, Madam President. 
+MADAM PRESIDENT:
+Professor, under 92 bis (A), there are certain factors which allow -- which allow admitting the written statement.  For example, if you go -- take (A)(i), roman (i) (A), it reads:  Factors in favour of admitting evidence in the form of written statements include but are not limited to circumstances in which the evidence in question is of a cumulative nature, in that other witnesses will give or have given oral testimony of similar facts."  Many witnesses have given evidence of similar facts.  Many witnesses in this case have given evidence of similar facts.  So what would you say about this provision? 
+MR. SONGA:
+Madam President, my response is that you cannot read it without taking into account paragraph (A), which I consider as the umbrella to Rule 92 bis.
+MADAM PRESIDENT:
+This paragraph -- this provision (i), roman (i), is a paragraph of para (A).
+MR. SONGA: 
+Yes, and the general rule, if the umbrella Rule (A) is not taken into account, all the other exceptions whether it is subparagraph (A) or (B), they cannot fit within that umbrella, they have to be viewed in the context of Rule 92 bis (A).
+JUDGE MUTHOGA:
+Go on, professor. 
+
+MADAM PRESIDENT:
+Okay, professor, please go on. 
+MR. SONGA:
+Thank you, Madam President.  That is why, having understood the meaning and the scope Rule 92 bis (A) and its special character with regard to the general provisions of Rule 89(C) of the rules, we have concluded that it is pointless to address the other arguments of the Prosecutor, which are irrelevant and pointless.  
+
+Furthermore, we submit that to admit the Prosecutor's motion and to grant his request with not be in line with a fair trial, inasmuch as the Defence and this Accused will not have the opportunity to cross-examine the persons making those statements.  
+
+I would further say, Madam President, that supposing that the Prosecutor claims that he would suffer prejudice in this regard, I would state that certainly what the witnesses who are still alive have not been able to prove cannot be proven by witnesses who are no longer available, who are dead.  Accordingly, therefore, Madam President, with all the due respect to your person and the Honourable Judges assisting you, I would request that you rule the Prosecution motion inadmissible and reject it and justice shall be done.  I thank you.
+JUDGE SHORT:
+Before you sit down, I just have one question for you.  The Prosecution has asked the Chamber that in the event that we decide that because the evidence -- the written statements go to the acts and conduct of the Accused, they would want the statement to be -- those portions of the statement which do not relate to the acts and conduct of the Accused to be admitted; in other words, for those portions to be severed, and those portions alone admitted.  You have said that that is unsustainable.  I would like you to consider 92 bis (A) where it states that a Trial Chamber may admit in whole or in part, and whether the express, "in part" would not justify the Prosecution's contention that part of the statement can be admitted, if that part does not go to the acts and conduct of the Accused. 
+JUDGE MUTHOGA:
+Professor, I understand, professor, your argument to be that that is an alteration of the application by Counsel -- by the Prosecutor, because there is not in fact before the Chamber an application to admit part of a statement, there is an application to admit the full statement.  Is your objection based on the fact that the application is now being made on the feet of the Prosecutor or is it being -- are you objecting on the basis that there is no principle to suffer?
+JUDGE SHORT:
+Professor, you answer -- you may answer Judge Muthoga's question, but for my benefit, answer my question in the event that I am prepared to consider severance of the statement. 
+
+MADAM PRESIDENT:
+Yes, professor, please go on. 
+MR. SONGA:
+Madam President, Your Honours, this is my answer to your questions.  The Prosecutor's motion should be denied -- that his approach be denied because it is new; it is not part of the motion we are discussing.  Secondly, supposing that this motion is admissible and admitted, we will have to resolve one problem and the problem is this:  We should be able to identify clearly the points and acts which do not constitute the conduct of the Accused in regard to which those statements can never -- to which those statements cannot go. And if the Chamber could give the Prosecutor the time to analyse the statements and sever the parts that do not have to do with the conduct of the Accused, and the other parts which confirm the relationship with his conduct.  And it's for all these reasons that I don't think the Chamber should be tempted to admit these statements in whole or in part.  
+
+That is all I have to say, Madam President. 
+MADAM PRESIDENT:
+Thank you.
+
+After deliberation, we are inclined to dismiss the motion, and the reasons will be given later on. 
+MR. KAPAYA:
+As it pleases, Your Honours. 
+JUDGE SHORT:
+Prosecutor, if you had in your application demonstrated to the Chamber the portions that do not relate to the acts and conduct of the Accused, and you had admitted -- you had requested the Chamber to consider admission of those portions, I speaking for myself, would have been prepared to consider it, without telling you whether I would have granted it. 
+MR. KAPAYA:
+Thank you, Your Honour, but we can undertake that exercise.
+JUDGE SHORT:
+No, you can't.  It's too late. I mean, it should have been part of your application.
+MADAM PRESIDENT:
+The order has been announced. 
+MR. KAPAYA:
+Thank you. 
+JUDGE SHORT:
+I telling you this for the future.
+MR. KAPAYA:
+ Thank you, Your Honour. 
+MADAM PRESIDENT:
+Yes, professor. 
+MR. SONGA:
+Madam President, Honourable Judges, I would like to thank you for your very wise decision.  Thank you. 
+MADAM PRESIDENT:
+Thank you, professor. 
+
+What is your position, Mr. Kapaya?  Is there a witness available?
+MR. KAPAYA: 
+The witness was indisposed, Your Honour, and he had asked to see the doctor. 
+MADAM PRESIDENT:
+What about the next witness?
+MR. KAPAYA: 
+The next witness?  Let me find out, Your Honour.
+MR. HOMETOWU:
+Madam President, we are informed that the next witness is available.  Thank you. 
+MADAM PRESIDENT:
+Professor, as we have learned that Witness W is not well.  Would you have any objection if you go ahead with another witness?
+JUDGE SHORT:
+You reserve your right to complete the cross-examination at a later date.  We are not waiving -- we are not  --
+MADAM PRESIDENT:
+You are not waiving your right of cross-examination, but you can cross-examine him, maybe tomorrow if he is well. 
+MR. SONGA:
+That was my understanding, Madam President. 
+MADAM PRESIDENT:
+So we can go ahead with another witness?
+MR. SONGA:
+Very correct.
+MADAM PRESIDENT:
+Mr. Prosecutor, who is your next witness?
+MR. KAPAYA: 
+Our next witness is AF. 
+
+MADAM PRESIDENT:
+Yes. 
+
+Mr. Issa, please call in the witness. 
+(Witness enters courtroom)
+MADAM PRESIDENT:
+Good afternoon, Mr. Witness. 
+THE WITNESS:
+Good afternoon, Madam President. 
+MADAM PRESIDENT:
+Mr. Witness, you being a protected witness, you will be referred to as Witness AF in the Court proceedings today. You also will avoid mentioning your name, name of your parents, place of residence or any other information which may lead to your identification.  You are to speak the truth, and for that you will be administered solemn declaration.  
+
+Mr. Issa, please, swear in the witness.  
+(Declaration made by Witness AF in Kinyarwanda) .
+MADAM PRESIDENT:
+Mr. Phillips, how many statements of this witness do we have?
+MR. ADEOGUN-PHILLIPS:
+Your Honours, Witness AF has one statement dated the 5th of June 1996.
+MADAM PRESIDENT:
+It's 5th of June or 2nd December '98.
+MR. ADEOGUN-PHILLIPS:
+I believe it is 5th of June, Your Honour, but I don't have my bundle here, I just have the extract of the statement.
+JUDGE SHORT:
+It is 2nd December '98. 
+MR. ADEOGUN-PHILLIPS:
+The English statement I have has no date on it, sir.  I am just about to find out.  I have written something in pen.  I am just going to get the bundle and just make sure.  I just extracted the English versions. 
+JUDGE MUTHOGA:
+This will be Prosecution witness number?
+MR. MJUI:
+ Eighteen. 
+
+MR. ADEOGUN-PHILLIPS:
+Your Honour, you are correct. 
+MADAM PRESIDENT:
+Second December '98. 
+MR. ADEOGUN-PHILLIPS:
+Your Honour, I believe --  Your Honour, there are two statements, actually. There is a statement which is the 2nd of December '98, and there's another statement which does not bear a date, and that's the one I refer to as the 1996 statement.
+
+So, if Your Honours look at page 330 of your bundle of statements, there is an undated statement there which is -- which has as its name, that is, the June 6th, 1996 statement, and then there is a very tiny statement which is called a supplementary statement, which is really a reconfirmation statement which is on the 2nd of December 1998.  So it is one main statement and a reconfirmation. 
+MADAM PRESIDENT:
+Which page? 
+MR. ADEOGUN-PHILLIPS:
+Three hundred and thirty of your bundle, Your Honour.  Three hundred and thirty of your bundle is the -- it doesn't have the usual cover that most of our statements usually have.  It just -- so that is the -- 338; sorry, 330 of the main statement itself.  What comes before that -- what comes after that, Your Honour, is the reconfirmation of the main statement.
+JUDGE MUTHOGA:
+It is called a supplementary statement. 
+MR. ADEOGUN-PHILLIPS:
+It is called supplementary statement, yes, Your Honour.
+MADAM PRESIDENT:
+It does not bear the signature of the witness. 
+MR. ADEOGUN-PHILLIPS:
+It does, Your Honour.  It does on page 336 and 337; it's signed.  So --
+MADAM PRESIDENT:
+(Microphone not activated)
+MR. ADEOGUN-PHILLIPS:
+The '96 one?  I think the '96, Your Honour, was translated from -- the original statement for the '96 one is the French one.  If I can be of further assistance, on page 319  -- the original statement for 8th of June 1996 is the French, that you would find on page 319 of your bundle.  That is signed.  And then the -- it's the translation of that French version that starts at page 330 of your bundle, and that's unsigned. 
+
+MADAM PRESIDENT:
+Okay.  Thank you. 
+MR. ADEOGUN-PHILLIPS:
+Your Honours, in addition to those two statements in your bundles, Witness AF testified in the Musema case under the pseudonym of the G for golf on 4 May 1999 -- May 4th, 1999.  Prior to that, Your Honours, he also testified in the Kayishema and Ruzindana case on the 3rd of March 1998 under the pseudonym PP, papa, papa; and again testified in the Eliezer Niyitegeka case on 26th August 2002 under the pseudonym DAF.  Delta, alpha, foxtrot. 
+MADAM PRESIDENT:
+So Mr. Phillips, he is a professional witness. 
+MR. ADEOGUN-PHILLIPS:
+He could be described as such, yes.
+WITNESS AF,
+first having been duly sworn,
+testified as follows:
+EXAMINATION-IN-CHIEF
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Good afternoon, Mr. Witness AF. 
+A.	Good afternoon, Prosecutor. 
+Q.	Witness, I have asked to have placed before you a sheet of -- a piece of paper with your signature on it.  Do you have such a document on your desk, please?
+A.	Yes, I have the document before me.
+Q.	You will recall that you and I went through this document on Monday.  And would I be correct in saying that your signature as appears on that document is indicative of the fact that the contents of that document have been read to you and that you confirm them as being accurate?
+A.	That is correct.
+MR. ADEOGUN-PHILLIPS:
+Your Honours, may I seek to enter this confidential document as the next Prosecution exhibit, being the sealed particulars, personal identification particulars of Witness AF?
+MADAM PRESIDENT: 
+This protected witness information sheet is entered and admitted as Exhibit P. 22, under seal.
+(Exhibit No. P. 22 admitted, under seal)
+MR. ADEOGUN-PHILLIPS:
+I am grateful, Your Honour. 
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, I am going to start off by asking you questions in relation to your testimony -- your statement to investigators from my office.  Sir, can I ask you, do you know a man by the name Mika Muhimana?
+THE WITNESS:
+Mister -- Madam President, before I answer, I would like to ask whether it is possible for me to have a clean sheet of paper.
+MR. ADEOGUN-PHILLIPS:
+Can --
+MADAM PRESIDENT:
+What for? 
+THE WITNESS:
+Sometimes when one answers questions one may use this piece of paper to give precise answers.
+MR. ADEOGUN-PHILLIPS:
+The witness is very fond of -- even when I talk to him, he is very fond of asking for a piece of paper and he likes to write things down so, you know, so that -- I don't think it is inappropriate.  He does it all the time.  It is just a way of reminding himself of certain dates. 
+JUDGE MUTHOGA:
+Professor, have you any objection with the Accused having with him something he can write on, scribble on?  Sorry, the witness not the Accused because the Accused's right cannot be taken away from him.
+MR. SONGA: 
+Thank you, Your Honour, Madam President.  I have an objection because, first, the testimony must be as spontaneous as possible; second, the registry is there for everyone in case there is need to procure paper.  That's why I object.
+JUDGE MUTHOGA:
+Sorry, the registry is what?  It will be the registry which will give him the paper?
+JUDGE SHORT:
+Can you repeat?
+MR. SONGA: 
+I said that if need be, at the precise moment when he will require paper, he may express the wish, but to make a general request for his entire testimony goes against the spontaneity of such testimony. 
+JUDGE SHORT:
+Professor, what if he had removed a paper from his pocket or he had -- what if he asked from the management, from the registry now for a paper?  Would you object to that?
+MADAM PRESIDENT:
+What would be the legal hitch? 
+MR. SONGA: 
+Quite so, quite so, indeed. 
+
+JUDGE MUTHOGA:
+Professor Songa, what exactly is the basis of your objection?  I didn't get it.
+MR. SONGA:
+I believe one of the Honourable Judges asked a question. 
+JUDGE MUTHOGA:
+I asked -- I said I didn't understand the basis of your objection.  I asked you to state your objection and its legal basis.
+MR. SONGA:
+Thank you, Your Honour.  I was saying that the witness must be spontaneous, and that the use of paper during his entire testimony might jeopardise that spontaneity.  It would not be well for him to prepare in advance the answers to any questions.
+JUDGE MUTHOGA:
+If he doesn't know the questions how can he prepare the answers? 
+MR. SONGA:
+I would add, Your Honour, that this is my argument, but if I do not convince you, you know that I have always trusted your judgement. 
+JUDGE MUTHOGA:
+Thank you for that.
+MADAM PRESIDENT:
+Then, professor, our judgement is that the Accused (sic) may have a piece of paper in front of him.  
+
+Mr. Issa, please give him a piece of paper. 
+JUDGE SHORT:
+A blank sheet of paper. 
+MADAM PRESIDENT:
+Yes, we have seen it is a blank sheet of paper. 
+JUDGE MUTHOGA:
+Unless it is written in hidden ink. 
+MADAM PRESIDENT:
+Mr. Witness, we may remind you that whatever you have written on the piece of paper, that will be the property of the Court. 
+THE WITNESS:
+I thank you, Madam President.  I have no objection to that. 
+MADAM PRESIDENT:
+Then you have to leave this paper in the Court.  You won't be allowed to take this paper along with you. 
+
+THE WITNESS:
+Madam President, Your Honours, there is no problem with that. 
+MADAM PRESIDENT:
+Thank you.  
+
+Yes, Mr. Phillips, please.  You have the examination-in-chief. 
+MR. ADEOGUN-PHILLIPS:
+Thank you. 
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, I had asked you before the break if you knew a man called Mika Muhimana.
+A.	Yes, I know him.
+Q.	And how do you know him?
+A.	I have known Mika Muhimana for a long time from when he was a conseiller of Gishyita secteur, in the former Gishyita commune of Kibuye préfecture.  I have known him since 1993, towards the end of the year, especially when we were together in Gishyita and he said that he would send young men, idle young men to undergo training with Interahamwe in Nyungwe forest, and he added that upon their return they should receive weapons to face the enemy with.  And the enemy during that time was perceived to be Tutsi.  
+
+I know him as someone who hated (sic) the party flag in Gishyita -- the CDR party.
+Q.	Can I ask you to repeat the last part of your answer?  I didn't catch your response in relation to the CDR party?  Can you just deal with that part of your testimony first for me and then I'll ask you other questions.  What did you say in relation to the CDR party? 
+A.	I have just said that regarding the CDR party, Mika was a member, and he was the first to hoist the flag of this party in Gishyita where he was a conseiller, and this party -- the objective of this party was first and foremost to exterminate Tutsi.
+Q.	Very well.  Now, I am going to ask you some specific questions about what you have just said.  First of all, can you tell us what the CDR party was, if you can?  What was CDR?  What did it stand for?
+A.	This party, the CDR, was set up during the multiparty era at the time when negotiations were going on here in Arusha between the Kigali government and the RPF-Inkotanyi.  The creation of the CDR was to throw a spanner in the works in regard to the negotiations, and party members of the CDR said publicly and during their meetings that Tutsi were to be exterminated.  This party was aiming at segregation.  That is the reason why, for a person who represented this party -- if a person represented this party, then he was indeed a very doubtful personality. 
+Q.	You also testified, Mr. Witness, that you saw Mr. Muhimana in Gishyita at the end of 1993.  Now, can I ask you what were you doing in Gishyita at the end of 1993, sir?
+A.	Towards the end of 1993, I was a student.  I used to go there because I had a family there.  I used to go there well before that time, in fact.  Mika knew me; he knew my family and my relatives. 
+Q.	The evidence you have given about the young men that Mika recruited in Nyungwe forest, can you tell us what you -- can you explain what you understood as having gone on at Nyungwe forest at the time and who these men were and why they were being recruited?
+A.	What I can say is that Mika said it, I could hear him say it.  He was saying -- he used to say that the Hutu youth was being sent to Nyungwe forest to undergo training and, in particular, the idle youth was chosen, the programme was the same everywhere and the choices were made everywhere in the same way; and the aim was to prepare for the extermination of the Tutsi.
+Q.	Mr. Witness, did you yourself participate in any of these training session in Nyungwe forest or did you just hear about them?
+A.	I couldn't participate.  Firstly, I was a Tutsi, so Mika would not allow me to go there.  Secondly, this is not hearsay, I heard it from the person who was authorised.
+Q.	Very well.  Mr. Witness, can you tell us --
+MADAM PRESIDENT:
+What did you say?  You heard it, what?  We didn't follow the last part of your answer.
+THE WITNESS:
+I said that I did not hear this said by just anyone, that the Interahamwe were going to undergo military training in Nyungwe forest, this is information that I heard from Mika himself when I was with him in Gishyita. 
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Can you tell us, Mr. Witness, approximately when it was?  Was it also at the end of 1993 that you heard this or was it at some other time?  When was it that you heard this from Mika, this comment?
+A.	I learnt of this at the end of 1993.  If I remember correctly, it was in the month of September, and it was during this period that there was talk of the setting up of the Interahamwe and their training.
+Q.	And where were you located, where were you and Mika located when you heard him talk about these things?  Where in Gishyita were you located?
+A.	When Mika was talking about the recruitment of young people to send them to Nyungwe forest for training, we were in the Gishyita trading centre in front of the house in which Mika lived.
+Q.	You have referred to the term "Interahamwe", Mr. Witness. What do you understand by Interahamwe?
+A.	The term, "Interahamwe" was used to describe a paramilitary militia which was affiliated to the MRND party, and this was mainly made up of young people.  These young people underwent military training and their aim was to defend the interests of the MRND party which were to kill the -- those who opposed the MRND party.  But if you place this in a Rwandan context, you will understand that these were people who were preparing for the Tutsi genocide.
+Q.	Moving on, Mr. Witness, now to 1994.  Can you tell the Court if you saw Mika Muhimana in 1994 and, if so, when and where?
+
+THE WITNESS:
+Madam President, Your Honours, in 1994 I saw Mika.  I saw him in Mubuga parish where I had sought refuge.  He came to this place on the 10th -- no, on the 14th of April 1994.  I also saw him there on the morning of 15th of April 1994 in the company of other assailants when they were attacking us in the church where we were.  These assailants were armed and they attacked us.  I also saw Mika in Bisesero when I escaped the killings that Mika was directing at the Mubuga parish.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, where was the Mubuga parish church situated?
+A.	Mubuga parish is situated in the former Gishyita commune in Mubuga secteur.  It is in this secteur that this parish is located.
+Q.	And what were you doing at the Mubuga parish church at this time when you allegedly saw Mr. Muhimana there?
+A.	In regard to what I was doing in Mubuga parish, you know that for Christians, normally one goes to church to pray, but I did not go there to pray on that occasion.  I went there to seek refuge because there was genocide that was being carried out and I felt that this church would be a refuge for me.  This is the place where I saw Mika.
+Q.	When did you arrive at the Mubuga parish church, Mr. Witness?
+A.	Regarding when I arrived, I arrived on the 10th of April 1994, very early in the morning.
+Q.	And do you know -- can you tell us what the situation was at the Mubuga parish church when you arrived there?
+A.	Yes.
+Q.	Madam President, Your Honours, when I arrived in the Mubuga parish on the morning of the 13th April 1994, I noted that the church was full of Tutsi refugees who had come from various places to seek refuge there because killings were being carried out against the Tutsi.  The church was full of refugees.  When I arrived I thought to myself that I had found -- I have enough peace.  But when I arrived, the refugees told me, "What are you doing here? We have learned that we are going to be attacked."  Since I did not have a choice, and since there was no safer place, I stayed in this church waiting for the assailants to arrive.  On the 13th of April, I stayed in this church.  
+
+On the 14th, I was still in the same church, and it was on -- during the day of the 14th that Mika himself; the former bourgmestre of Gishyita commune, Sikubwabo, who was often with Mika; the former conseiller of Mubuga secteur, Vincent Rutaganira, came together along with the person who was the gendarmerie commander of Kubiye -- of Kibuye; a trader from Ngiyuranga (phonetic) called Ryandikayo, all arrived in Mubuga church.  We were locked up in the church, but the door leading to the presbytery was next to this church -- or was to the side of the church.  There were a few Tutsi who had stored their property around the church.  There were vehicles, motor cycles.  There were also -- there was also foodstuff which was stored by CARITAS, and we asked the priest, whose name was Marcel, to give this food to the refugees because they had nothing to eat.  
+
+This group of persons whom I have just referred to arrived.  They went into the presbytery, they talked with the priest.  A few minutes later, we realised that the food which had been -- not been given to the refugees was being loaded onto a vehicle and that the remainder of the food was carried away on their heads by the youth of Ngiyuranga, the motorcycles and the vehicles were taken away; and Sikubwabo said that he was going to solve the problem of the refugees who were in the church.  
+
+Then we saw Mika, Sikubwabo, Vincent, who were carrying firearms.  We thought that they were coming to attack us.  When we heard him say this, we knew that our fate was sealed.  The priest called Gahinda was also taken away in one of the vehicles and was killed in Kibuye.  That was the 14th.  In the night of the 14th --
+(Pages 1 to 25 by Judith Baverstock)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1600H
+BY MR. ADEOGUN-PHILLIPS: (continued)
+Q.	Before you talk about the evening of the night of the 14th, let me ask you some follow-up questions in relation to what you just told the Court.  
+
+Mr. Witness, you testified that you heard Sikubwabo say that he would solve the problems of refugees in the church.  Now, to whom was he speaking when he said that?
+A.	When he spoke these words he was standing near the church with a group that accompanied him and was chatting with Father Marcel, who had cut off the water supply to the refugees and who had refused us food.  This group was chatting with the priest and pointing towards the refugees. Sikubwabo said, "I am soon going to solve the problem of the refugees who are in the church."
+Q.	And what did you understand those words to mean, if anything?
+A.	He meant nothing but the extermination of the people who were in the church and, in fact, that was what was done on the night of the 14th to the 15th and on the 15th. 
+Q.	You described the word or mentioned the word CARITAS.  Can you tell us what that is and what it stands for, CARITAS?
+A.	The term CARITAS is an abbreviation but it is an association affiliated to the Catholic Church which provides assistance to the poor.  That is why the food had been brought to the church to provide aid to the needy.
+Q.	The refugees that were in the church, can you tell us approximately how many there were, the refugees that gathered in the church on the 14th or before the 14th?  How many refugees were there, sir, if you know?
+A.	It is difficult to give you a figure, but for people who know the Mubuga church, it was full to bursting.  Nobody could move.  The church was totally full.
+Q.	You may have said this, Mr. Witness, but can you tell us what sort of church the Mubuga church was? By that I mean was it an Anglican church, Presbyterian, that sort of thing?
+A.	This is the Mubuga Catholic Church.
+Q.	And the aid and the food provided by these people called CARITAS, do you know if the refugees were ever given the food?
+A.	The refugees never received this food since the priest who was there, who was called Marcel -- I personally went to this priest to ask him to authorise or to allow the refugees to use the CARITAS food because the refugees had spent a lot of time in the church without eating anything.  The priest refused.  But I wasn't surprised, because the discussions that he had had with the assailants, whose names I mentioned earlier, were not aimed at saving the refugees but, rather, terminating them.
+Q.	When you saw these men, with the people you've described, Sikubwabo, Mika and others, when you saw them on the 14th, Witness, can you tell us whether or not they were located inside the church or whether they were located outside?  Can you help us there?
+A.	The people who were inside the church, that was us, the refugees.
+Q.	What about Sikubwabo and the others that had come and said this thing?  Where were they located?
+A.	For those who know Mubuga parish, when you come, approach by the road and you go towards the presbytery, at the last door that leads to the priest's room there is a door that faces the church, and this group was standing near the door that led to the priest's room, and we were in the church, and we could see them opposite.
+Q.	Now, what was the situation inside the Mubuga church on the 14th of April?  And by that I mean can you tell us whether or not the refugees were free to go in and out of that church?  What was the situation there?
+A.	On the 14th the situation was not a good one for the refugees because they could not get out of the church for one.  For another, there were gendarmes who were there people were so frightened.  There were also Interahamwe on all sides of the church and people were frightened, because they were afraid that if they went out the Interahamwe might kill them.  People were very frightened and only waited for death.
+Q.	Thank you.  Just a minute, Mr. Witness.
+MR. ADEOGUN-PHILLIPS:
+Your Honours, I've just received notification that Witness W is back.  I understand that he has received some medication, but the question is being asked of me as to whether or not he should be returned to the safe house or he be kept here.  I would be through with this witness in roughly half an hour.  I don't know how Your Honours want to proceed, whether or not you want to carry on with cross or bring W back.
+MADAM PRESIDENT:
+Mr. Phillips, finish your examination-in-chief of this witness and after a break you can go on with the remaining cross-examination of Witness W.
+MR. ADEOGUN-PHILLIPS:
+Of W.  I'm grateful, Your Honour.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Yes, Mr. Witness, you also said that something happened on the evening during the night of the 14th of April, before I interrupted you.  Can you tell us what happened then?
+A.	During the night of the 14th to the 15th of April 1994, people had hidden in the forms (sic) belonging to priests, mainly young girls and women, and those people were afraid of the refugees in the church.  Father Marcel asked those young girls and women to come out of those rooms.  He had told them, "I have already given the key to the assailants.  You have to come out.  If you don't come out the assailants will open the doors and kill you."  Father Marcel said this.  That is why I stated that Marcel was conniving with the assailants.  Those young girls and women were afraid but remained in that place.  As for us who were inside the church, in the night of the 14th to the 15th, we were attacked.  Those girls and women were raped, some of them were sacrificed in Uwagati (phonetic) and the bodies of some of them were thrown in a banana plantation near the church.  In the morning of the 15th, after the people in the presbytery had been killed, the assailants turned to us and attacked us who were inside the church.
+Q.	Now let me go back to the incident involving the girls who you say were raped.  Can you tell us, where did that event occur?
+A.	That event occurred in the inner courtyard of the presbytery, in the rooms in which those girls and women had stayed.  It was after they were tortured and raped that some of them were thrown in the church banana plantation and the others were taken to Uwagati where they were crucified.
+MADAM PRESIDENT:
+Can you give us the names of those girls, who were crucified?
+MR. ADEOGUN-PHILLIPS:
+I was actually going to, first of all, ascertain whether or not this Accused has anything to do with that.  If he didn't, then you may or may want to decide whether you want to take it any further.  I was going to ask him whether or not this Accused was implicated in that attack, because he hasn't said he was.
+MADAM PRESIDENT:
+Okay.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, were you able ascertain those who were responsible for attacking those ladies for in event?
+A.	As I have just stated, the attack was launched at night, but there were signs on which we can rely to identify the perpetrators of that attack.  I would say that Mika, Sikubwabo, Vincent, and Ryandikayo, whom I mentioned earlier, played a major role in that attack because they were the leaders of the Interahamwe in Mubuga.  Furthermore, it was those people who came to loot in the church on the 14th during the day.  Furthermore, Father Marcel had said, "I have already given the keys to the assailants so they shouldn't break the doors." And Marcel forewarned us the assailants  were going to come.  Another reason I think those people  were responsible for the attack is that on the 15th, when we were attacked in the church, that attack was led by those people whom I have just named, and they were the ones leading the Interahamwe in Mubuga.
+Q.	Do you see Mr. Muhimana, Ryandikayo  and others yourself while those rapes took place on those girls that evening or is it just something you remember seeing?
+A.	Given that the attack was launched at night, we did not see the assailants, but one of the victims of that attack, who died subsequently from the tortures she had been subjected to, told us that they were attacked.  Having said that, if we rely on the previous reasons I have given you, namely the looting that was carried out in the parish; on the basis of negotiations between them and the priest, the attack against us in the church and what Sikubwabo had said, saying that he was going to solve to refugee problem; if we rely on all those factors we can understand that they were the ones who led that attack.  There was also a young girl named Claudine who was a victim of that attack.  And she told us who had attacked them, otherwise, those inside the church were not in a position to know who was the assailants, but it was immediately in the morning the attack was launched against the people in the church.
+Q.	Apart from the lady you describe as Claudine, were you able to ascertain other victims of this attack on the 14th?
+A.	That was precisely where we were able to see what had happened because the others had been killed.
+Q.	Sorry, maybe you didn't understand my question.  I had asked, apart from Claudine, were you able to ascertain the identity of other victims, following that attack on those ladies, apart from Claudine?  And if not, just say so.
+A.	I do not know their names.
+Q.	Talking about Claudine, now, Mr. Witness, can you tell us what ethnic group Claudine belonged to, sir?
+A.	Claudine was Tutsi.
+Q.	Do you know how old she was in April 1994, sir?
+A.	I did not know her age but I can give you an estimate.  Given her status, I had the impression that she was aged about 20.  She was a young lady.
+Q.	Had you known Claudine before the attack of the 14th, sir?
+A.	I had known Claudine well before then, while she was a student.
+Q.	Mr. Witness, you have talked about an attack the following day on the 15th of April at Mubuga parish church.  But can I ask you this, why was it that you and other refugees remained at the Mubuga church following what had happened there on the 14th?  Why did you remain there until the 15th?
+A.	We continued to stay there.  I stated that the attack against the presbytery was launched in the night of the 14th to the 15th and very early in the morning of the 15th the assailants attacked us.  Another thing is that, in view of the prevailing situation, people were wondering where to seek refuge.  And they didn't have an answer to that question.
+Q.	We are now on the 15th of April 1994, Mr. Witness.  You've described to the Court that the church was attacked.  Can you tell us what time the attack at the Mubuga church commenced on the 15th?
+A.	The attack was launched in the morning at about 6 a.m. 
+Q.	Were you able to ascertain those who were responsible for the attack at Mubuga on the 15th of April 1994, sir?
+A.	The attack was launched by a large number of assailants, and I could identify the leaders of that attack.
+Q.	Can you tell us who you were able to identify as having led the attack at the Mubuga church on the 15th of April 1994, sir?
+A.	Among the leaders of that attack I could identify Mika, who had come to that place the day before, that is the 14th, before the attack on the church. There was also Sikubwabo, who was bourgmestre of Gishyita, and those two men were inseparable.  There was also Vincent, who was conseiller of Mubuga secteur there was another secteur conseiller known as Mugwa (phonetic) and a trader known as Ryandikayo (phonetic).  The other assailants were youngsters from the Younahonga centre, they included one person called Theophile and many other people whose names I do not know.  I could see them but I did not know them by name.
+Q.	Where, exactly, were you located, Mr. Witness, on the 15th of April 1994, just before the attack commenced?
+A.	I was inside the church.
+Q.	And can you tell us what the situation was within the church just before this attack commenced?  What was going on then when you saw these people arrive?
+A.	The refugees, who were inside the church, had not yet woken up.  Those who had woken up saw the assailants coming from all sides.  For those who know Mubuga church, there are three churches -- rather three doors, a central door and two side doors.  The assailants came shouting and whistling and those who are inside the church, who had not woken up, woke up, and suddenly they started smashing the doors of the church in order to go in and start cutting up people with machetes. The refugees who were inside the church had resolved to prevent the assailants from entering the church to kill them brutally, but we preferred that they should use gunshots or grenades so that we should not die in an atrocious manner.  When they started smashing in the doors of the church -- since they were iron doors it was not easy -- so they started throwing stones at the doors and the windows, and even so, they did not succeed.  And finding that they weren't succeeding in what they wanted to do, they started throwing tear gas into the church to suffocate the refugees and to force us to open up the doors.  We had to keep the doors shut and to die of suffocation.  So those were throwing the grenades.  They started shooting at the refugees and throwing grenades into the church.  It was Mika and the others who were shooting at us while the assailants threw grenades at us.  That was the situation preferring in the church at that time.
+Q.	Mr. Witness, why were the doors of the church locked on this day, sir?
+A.	We, indeed, locked the doors of the church and we knew, of course, that we were going to die.  The fate of the Tutsis had been sealed, and we thought that by locking the doors we would be able to protect ourselves, because we told ourselves the attackers were attackers with grenades and shooting at us and we preferred that kind of death instead of being cut up with machetes and hit with clubs and cut with spears.
+Q.	You've also mentioned the fact that the refugees tried to defend themselves.  How were they able to do this?
+A.	The fugitives were powerless.  All they did was take bricks, which were at the top of the walls, and they used those bricks to defend themselves with, such that the assailants could not open the door.  Whenever they tried to smash in the doors and to destroy the windows the fugitives used those bricks to defend themselves with.  They threw bricks at them to defend themselves.
+Q.	I keep having reference made to the word ""fugitives." I'm not sure where this is coming from but, 
+Mr. Witness, are you using the word "fugitive" or are you using the word "refugees"?  I just need direction.
+THE ENGLISH INTERPRETER:
+He's using the word "refugees."
+THE WITNESS:
+I made mention of Tutsis who had sought refuge inside the church.  They are not refugees because no one could get out so I was referring to Tutsis who sought refuge inside the church and who were targeted by the attackers.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Now, let's talk about the bricks you used to defend yourself.  Now, where did you get these bricks from, and how did the bricks come to be inside the church at the time?
+A.	I stated that the walls of the church were built in brick which were not cemented, so we used those bricks which were loose to defend ourselves with them.
+Q.	Now, you've also talked about the church having three doors, and I understand what you mean when you say there was a main door.  Are you able to describe to us whether or not -- where the other doors were -- in fact, describe all three doors for us.  Can you describe where the doors were located? The main door, where was that located, the right, the left, the centre or the rear?  Can you help me with that?
+A.	For those who know Mubuga parish, the central door is opposite what used to be the Saret boys school.  The other doors are on the side of the church, one of them is opposite the presbytery and in that location the peoples (unintelligible) is also located. The third door is opposite the primary school in that area.
+Q.	Thanks.  Now, at what stage, Mr. Witness, did you observe -- were you able to observe Sikubwabo and Mika during this attack?  Was it you observed them before the attack started or after the attack started?  Can you help me with that, please?
+A.	When the assailants came to the parish I could immediately identify them.  They were carrying weapons.  Mika was carrying a gun, as well as Sikubwabo, Vincent and Ryandikayo.  Amongst the youngsters who were with them, some of them were carrying grenades, others clubs, and others pieces of wood that they had cut up and sharpened.  So I saw them when the attack was launched.
+Q.	Were you able to ascertain how Mr. Muhimana and Sikubwabo had arrived at the church, and by that I mean their mode of transportation?
+A.	From what we saw, we realised that the assailants wanted to surprise us.  In any case, they did not come from Gishyita on foot.  I believe they left their vehicles in Mubuga centre because they did not come on board their vehicles to the church.  We saw them arrive suddenly at the church where we were.
+Q.	And when you saw Mr. Muhimana and Mr. Sikubwabo, can you estimate for the Chamber what the approximate distance between yourself and Mr. Muhimana was at this time?
+A.	Madam President, Your Honours, for those who know Mubuga church, Mika was standing on the side, that is where we have a door facing the Mubuga primary school and specifically near the statue of the Virgin Mary.  It was very close to the genocide memorial, so it was very close to the door opposite the primary school.
+Q.	And for those who are not terribly familiar with that location, Mr. Witness, can you then estimate for us approximately the distance between that location and where you were located?
+A.	It is difficult to give an estimate, in terms of metres.  I would simply say that it was in front of the church.
+Q.	Very well.  What about if you looked around this courtroom, can you give us an approximate distance, just by looking at the area of the courtroom?  You can say from this place to that place or you can give us a location.  Perhaps from where I am standing now, you could give us an approximate distance in that way.
+MADAM PRESIDENT:
+Perhaps from the witness box.
+MR. ADEOGUN-PHILLIPS:
+Even better.
+THE WITNESS:
+If I tried to make an estimate from where Mika was standing and where we were in the church I would say --
+MADAM PRESIDENT:
+Estimate the distance from the place where you are sitting at the moment.
+THE WITNESS:
+I wanted to make an estimate going from my right, from where the interpreter booths are, supposing that the church is located where the walls of the interpreter booth are, Mika and his group were like where the third computer in front of the gentleman there is.  I would like you to understand my estimate.  You shouldn't think that those persons were not moving.  These were assailants and consequently they moved from one place to another, depending on what they wanted to do.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	You can kindly point to the location again and say from this place to that place.  I wasn't looking.  I'm sorry.
+MADAM PRESIDENT:
+In fact, point toward Mr. Musongo sitting next to Mr. Constant.  So Mr. Constant, can you help us with the measurement, for the record.
+MR. HOMETOWU:
+Your Honour, I'll do the necessary calculation and notify you immediately thereafter.
+
+MR. ADEOGUN-PHILLIPS:
+Grateful.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, you've told us this was six in the morning or thereabouts.  Can you also tell us whether or not it was daylight or it was still dark at this time when the attackers arrived?
+A.	It was already daylight.
+Q.	And where inside the church -- where about in the church were you located when the assailants arrived on that morning?
+A.	Inside the church I was on the side facing the primary school.  I was very close to the door, without being too close to the door.  I was beside the benches that were close to the door.  There was panic inside the church.  The refugees were trying to see how the assailants were coming and they were alerted by the noise that was made by the assailants.
+Q.	How long did the attack go on for on that day, sir?  How long did it last? 
+A.	The attack began in the morning and continued until the afternoon.  I cannot say exactly at what time the attack ended, but it did end in the afternoon, towards the evening.
+Q.	So, did the attack end in the afternoon or in the evening?  Can I clarify that point?  Can you answer the question?  Again, when did the attack end, sir?
+A.	The attack ended in the afternoon, in the beginning of the evening.
+Q.	Thank you.  Now, did there come a time when you left that location at the end of this attack, and if so, when was that?
+A.	Madam President, Honourable Judges, I do not quite understand the question.  
+
+I do not quite understand.  Are you referring to -- are you talking about leaving the church or just moving from where I was standing?
+Q.	After the attacks had ended early evening on the 15th of April 1994, what did you do, sir?
+A.	Thank you.  After the attack ended, most of the refugees had been killed by bullets fired by Mika and Sikubwabo.  Towards nightfall a colleague told me, "Since these assailants were unable to break open the doors they are going to look for reinforcements to exterminate those who are alive, and since I am moving toward Burundi I would suggest that you follow me.  We will leave this place passing through the Nyungwe forest in order to get to Burundi."  That was how I left the church, in the night.  We left, therefore, at night and in the morning, we all met at Bisesero, where the refugees that were already there told us that, "There is no way you can go, and just remain with us and we'll have to suffer the same fate."  And that is how I found myself in Bisesero.
+Q.	And how long did you remain at Bisesero, sir?
+A.	I arrived at Bisesero in the morning of the 16th and I remained there up until the 30th of June when the French arrived in that region.
+Q.	Thanks very much.  Mr. Witness.  You have spoken at length this afternoon about Mika Muhimana.  Do you think you would be able to -- would you be in a position to recognise him, if asked to do so, today?
+A.	Thank you.  Madam President, Honourable Judges, wherever I will see Mika, I will recognise him because that is somebody I knew well before.  I know him very well.
+MR. ADEOGUN-PHILLIPS:
+Your Honours, in that regard can I then ask for your leave to have this witness look around this room and see if he can identify him?
+MADAM PRESIDENT:
+Yes.
+MR. ADEOGUN-PHILLIPS:
+I'm grateful, Your Honour.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Mr. Witness, can you stand up and look around this room and see if you will be able to identify 
+Mr. Muhimana, and if you do so, just tell me where he is and what he is wearing.  Thank you.
+A.	Madam President, Honourable Judges, I think the Accused, himself, has recognised that I recognise him.  Our eyes met and I saw him smile.  Mika is sitting on the side I'm pointing to.  He's sitting on the second row.  It's a gentleman wearing a Muslim skull cap.  Besides, the last time I saw him he wasn't a Muslim.  I don't know when he converted into Muslim.  He is wearing a white cap that Muslims usually wear.  And I see he has put on some weight because he wasn't this way before. 
+MADAM PRESIDENT:
+The witness has identified the Accused.
+MR. ADEOGUN-PHILLIPS:
+Thank you for that, Your Honour.
+BY MR. ADEOGUN-PHILLIPS:
+Q.	Thank you, Mr. Witness, for having come to testify in this trial.  I have no further questions for you.
+MR. ADEOGUN-PHILLIPS:
+Your Honours, I have no further questions for the witness.
+MADAM PRESIDENT:
+Before we take a short break, may I ask the witness  if he has a piece of paper?
+THE WITNESS:
+Yes, I took down some notes on this piece of paper.
+MADAM PRESIDENT:
+Mr. Witness, can we have that pest of paper?  You were told that anything you bring in would be the property of the Court.  Thank you.  He has written something on it.
+MR. ADEOGUN-PHILLIPS:
+I'm asking him to write his pseudonym on it so that we know.
+
+MADAM PRESIDENT:
+Write down the name of this witness on this piece of paper. 
+
+We take a short break for 15 minutes and after that short break we continue the cross-examination of Witness W.  
+
+Mr. Constant, can we have a measurement of the distance given by the witness?
+MR. HOMETOWU:
+Your Honours, at this point it's between the two points referred to by the witness, is approximately 10.4 metres.
+MADAM PRESIDENT:
+Thank you.  Recessed for 15 minutes.  
+	(Court recessed from 1640H to 1717H)
+MADAM PRESIDENT:
+Ladies and gentlemen, we learned that Witness W is still not well, so we continue the 
+cross-examination of Witness F.  
+
+	Mr. Songa, your cross-examination.  
+
+Mr. Witness, you need this paper, this blank paper which we have taken from you?
+THE WITNESS:
+If it is convenient for you, I would like to have it.
+MADAM PRESIDENT:
+Give it to the witness, no the sheet.
+JUDGE MUTHOGA:
+Mr, Songa I hope we can assist, hopefully finish this one before late. 
+
+Professor, you heard me?  I was asking you if we can expect that we will be able to finish with the witness before late, so that tomorrow we can do W and the other witnesses.
+MR. SONGA:
+I shall make an effort, Your Honour.
+JUDGE MUTHOGA:
+Okay.
+MR. SONGA:
+I thank you too.
+MADAM PRESIDENT:
+Positive effort.
+
+MR. SONGA:
+Absolutely, Madam President.  May I proceed?
+MADAM PRESIDENT:
+Yes, please.
+CROSS-EXAMINATION
+BY MR. SONGA:
+Q.	Good afternoon, Mr. Witness.
+A.	Good afternoon, Counsel.
+Q.	Mr. Witness, did you know Mika Muhimana in April 1994?
+A.	I knew him.
+Q.	Did you also know him before this month of April 1994?
+A.	I knew him.
+Q.	Under what circumstances did you make his acquaintance, Mr. Witness?
+A.	As I said, I knew Mika Muhimana because I had relatives in Gishyita, firstly.  Secondly, as I said, I also knew him as the conseiller of Gishyita secteur.  I knew him when he said that he would send the Hutu youth to go and learn how to handle firearms in Nyungwe forest with a view toward exterminating people.
+Q.	Thank you, Mr. Witness.  Where were you when he told you that he would be sending young people to go and undergo training in Nyungwe forest?
+A.	I think I have answered this question.  We were in Gishyita centre, that is the commercial centre opposite his home.
+Q.	Were the two of you alone or were there other people?
+A.	We were alone, but there were other people inside the house.
+Q.	Did you meet by chance or was this a programmed meeting?
+A.	This was not a programmed meeting.  We met by chance.  I told you that I have relatives in this area.  I was going there to visit these relatives.  I went to greet him and that was when he said that.  I was used to see him.  I knew him.
+Q.	Thank you, Mr. Witness.  Did you know that you (sic) were Tutsi?
+A.	I knew it.
+Q.	My question is, did he know that you were Tutsi?
+A.	He knew that I was Tutsi.  He knew my parents.
+Q.	When he told you that he was going to send young people to undergo training in Nyungwe forest did he tell you as if he were trusting you with a secret?
+A.	There was no secret.  This man had hoisted the CDR flag.  He had nothing to hide.  He hid nothing of what he thought of the country's problems from us.
+Q.	Mr. Witness, when you say that he hoisted the CDR flag in Gishyita, were you a witness to this act of Mika's?
+A.	I was not present when he hoisted this flag, and it is Mika who dared to hoist this flag.  The others had not dared to do so.  This shows that he was a partisan of CDR.
+Q.	How was the CDR in Gishyita organised?
+A.	The CDR and its organs are not something that I can tell you about.  I was not a member of the party.  I was a student.  As far as the organs of the party and its organisation are concerned, I knew nothing since I was not a citizen of the party.  You might, if you wish, ask Mika.  He can tell you, since he was a militant of this party.
+Q.	Did you know the leader of CDR in Gishyita?
+A.	It was said that Mika, who had hoisted the CDR flag, was its leader.  I did not seek to obtain more information about the party, but this was what was said and what was known to everyone was the fact that Mika was the head of this party.
+Q.	Did you witness any of the party's activities?
+A.	Madam President, Your Honours, I'm going to request that Defence counsel repeat the question.  I did not understand it.
+Q.	Willingly, Mr. Witness.  My question was whether you were an eyewitness to any of the activities of this party referred to as CDR?
+A.	I told you that during this period I was a student.  I am not in a position to tell you about any of the party's activities.  CDR members did not allow Tutsis to become militants of that party.
+Q.	When you state that they did not allow Tutsis to become militants, did you ask the question?
+A.	It was being said -- it was said that the CDR party was the party of Hutu extremists, and amongst its objectives was the persecution of Tutsis.  So a Tutsi had no place in it, considering that this party was seeking to persecute Tutsi.
+Q.	Mr. Witness, you were not an eyewitness to any of the activities of this party because you were aware, from every indication, a student, but how did you learn of their objectives, such as extermination of the Tutsi?
+A.	As an individual with a mind, I could hear the news.  There were broadcast speeches on the radio.  There were negotiations between the government and the RPF Inkotanyi in Arusha, and the CDR was amongst the parties which stated publicly that it would not support the peace accords.  Whereas the rest of us Rwandans were expecting the negotiations to lead to a resolution of problems in peace,  but the members of the CDR stated that they would not share power with the Tutsi.  This was said on the radio, and the newspapers published it.
+Q.	What I'm interested in, Mr. Witness, is the CDR activities in Gishyita.  Did you hear a militant of this party in Gishyita make such a statement?
+A.	I have told you that it was said that Mika had hoisted the CDR flag in Gishyita, and you cannot disassociate the objectives of CDR in Gishyita from those that were espoused elsewhere in the country.  What the CDR did in a commune, in one commune, it would do in others.  The CDR was unique in the country.  I mentioned Gishyita in relation to the act of hoisting the flag.  That was the first time, and the general objectives of this party run against the Peace Accords and espouse the persecution of Tutsi.
+Q.	Mr. Witness, you talked about the CDR flag.  Where, exactly, was this flag hoisted?
+A.	The CDR flag was hoisted in Gishyita, in the very centre of Gishyita.
+Q.	Were there other flags?
+A.	I remember the national flag which was there, because that was where the communal office was found.
+Q.	Was there an MRND flag?
+A.	I do not remember whether or not there were other flags.  I remember the national flag and the CDR flag, because nobody had dared to hoist this flag before.
+A.	Mr. Witness, before this Court you talked about Impuzamugambi.  What is that exactly?
+A.	Impuzamugambi were militants of the CDR who were generally young people who had learned how to handle firearms and who had been trained with a view to killing Tutsi or any other persons who did not fall in line with their objectives.  It was like the parties paramilitary wing.
+Q.	Who was the head of Impuzamugambi in Gishyita?
+A.	The leader of Impuzamugambi and the organisation of this party's, in this matter, I didn't pay much attention to that.  I heard Mkady (phonetic) was sending young people to Mika, who was sending people to Nyungwe forest to undergo training.  It is entirely possible that it was he who was the leader or he was an associate of this leader.  I did not pursue my research to determine how this party was organised.  I did not pursue research into the organisation of other parties represented in this commune or in other communes in Kibuye préfecture.
+Q.	Did you hear anything about the Interahamwe in Gishyita?
+A.	Interahamwe were also talked about in Gishyita because, as I said, when Mika said that he was sending young people to undergo training in Nyungwe forest those of you who know about the history of Rwanda know that the CDR and the MRND were practically identical because the CDR was founded as cover for the MRND because the MRND did not wish to reveal itself because the president of this party was the president of the republic.  So he made sure that the CDR would be created, but it was formed as a cover for the MRND.  And this party was founded to oppose 
+power-sharing between government and the RPF and to prevent Tutsi to be involved in the administration of the country.
+Q.	Can it be said that the Impuzamugambi and the Interahamwe were the same group or would you say that these were different groups?
+A.	Interahamwe came from the MRND and Impuzamugambi came from the CDR, but their activities were the same, because it was noticed that they all targeted killing of Tutsi in 1994.
+Q.	Did they have the same commander?
+A.	As I told you, the organisation of this party did not retain my attention.  What I realised was that they had the same objectives, which was to drive out the Tutsi or any other persons who did not espouse their objectives.
+Q.	Thank you, Mr. Witness.  Now, regarding the day of the 7th of April 1994; on the 7th of April, 1994, were you listening to Radio Rwanda?
+A.	Yes, I listened to Radio Rwanda, as usual.
+Q.	Is it correct to state that it is by this means that you learned of the death of President Habyarimana?
+A.	Yes, that is how I learned of the death of President Habyarimana.
+Q.	Is it also correct to state that you heard the announcement on the same radio coming from the supreme command, the supreme army command, asking the population to stay at home?
+A.	That is correct.
+Q.	Was this communiqué obeyed by the people?
+A.	Madam President, Your Honours, I am asking the Defence counsel to repeat this question.  I did not understand what he said.
+Q.	Mr. Witness, I shall repeat the question.  You have told this Court that a communiqué from Radio Rwanda that came from the supreme high command of the army, the supreme high command of the army, had asked the population to stay home.  My question was whether the population obeyed the order that was announced on the 7th of April?
+A.	I am going to talk about the place where I was.  Regarding the area where I was, first of all, this announcement frightened people and some people searched to find out what would follow.  
+(Page 26 to 39 by R Lear)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1745H
+BY MR. SONGA:
+Q.	Thank you.  Mr. Witness, did you also hear another communiqué which stated that, "Now that the Tutsi of the CND have attacked the Rwandan armed forces, we should come together to attack the enemy, because the enemy was amongst the population and the enemy was Tutsi, and that if the population did not defend itself by eliminating the enemy, the population itself would be killed."  Did you hear such an announcement?
+A.	I heard this announcement.
+Q.	What was the effect of such an announcement on the population in the area where you were?
+A.	The effect of that communiqué on the members of the population was that it triggered the killings.  That announcement sensitised people to kill.  That announcement, which stated that the enemy was the Tutsi, that if that enemy were not killed, it was going to kill members of the population, that is the Hutu.  They thought that the enemy should be eliminated -- that the Tutsi should be eliminated.
+Q.	Were there any visible consequences of that announcement on that day of the 7th April?
+A.	Yes, there were visible consequences because in Gishyita commune, the killings started.  People were killed.
+Q.	Witness, on 7th April, did you know the persons who were killed?
+A.	I can give you an example.  A man called Sebuzindu, Anatole -- at home a grenade was thrown, and who died therefrom.  He was a native of Gishyita.  We were informed of his death by one of our family members who came to tell us that the situation had deteriorated in Gishyita.
+Q.	You did not witness with your own eyes the murder of Charles (sic) Sebuzindu?
+A.	I was not an eyewitness to his murder because I was not in Gishyita.  I was at home, in our home.
+Q.	Witness, did you spend the entire day of 7th April at home?
+A.	Yes, I spent that day at home.
+Q.	Thank you.  You have made mention of Charles Sikubwabo, who purportedly invited the population to Gishyita communal office.  That was still on 7th April 1994; is that correct?  Did you make such a statement?
+A.	Yes, I made such a statement, but I explained that I had received that information from someone who attended that meeting.  I personally did not attend the said meeting.
+Q.	So you did not hear the invitation, either?
+A.	No, I could not have heard that invitation because I was not near the venue of that meeting.
+Q.	When the bourgmestre convened a meeting of the population, did he make any distinction between the Hutu and the Tutsi, such as to invite only the Hutus, or he invited the entire population of Gishyita?
+A.	As I have just stated to you, since I did not take part in that meeting, I did not see participants in that meeting in order to be in a position to say that so many Hutus or Tutsis took part in that meeting.  I did not take part in that meeting and I do not know if those who bore the message of the bourgmestre invited only Tutsis or Hutus to that meeting.  I had received that information from a Tutsi woman.
+Q.	Do you confirm, Witness, that that Tutsi woman participated in that meeting?
+A.	That woman confirmed that she participated in the said meeting. 
+Q.	When did she relay the information to you regarding the holding of that meeting?
+A.	She relayed the information to me when I met her in Bisesero, where I had gone to seek refuge after leaving Mubuga church.
+Q.	So it was not on the same day of the meeting, if we understand you correctly?
+A.	That is what I am trying to state to you.  On the day of the meeting, I was not in the area where the meeting was held.
+Q.	Witness, you stated that you are an eyewitness to massacres that you are going to talk to us about, and you were not an eyewitness when Sikubwabo killed a baby and an old Tutsi woman with his gun?
+A.	What I'm stating to you is that I did not participate in that meeting, so I could not have been an eyewitness to that.  I was told that a meeting was going to be held.  I did not take part in that meeting, so I cannot say to you that I witnessed the acts of the bourgmestre when he shot at the baby and the old woman, but someone who participated in that meeting told us about it.
+Q.	Thank you, Witness.  Did that person tell you when the meeting started?
+A.	We were not interested in obtaining details.  We were talking whenever there was a break.
+Q.	Thank you, Witness.  We are still talking about 7th of April.  You state that a member of your mother's family came to tell you that the Tutsis in Gishyita commune were being massacred, and he suggested that you should seek refuge in Mubuga church; is that correct?
+A.	That is what happened.
+Q.	When he made an announcement to you, what was the situation in the area where you were?
+A.	The situation was beginning to be tense because, according to information we were receiving from our neighbours, the people in our area, in our locality, were beginning to be affected.  They were beginning to adopt another attitude.
+Q.	And what happened on the 7th of April?
+A.	We spent that night in our house.
+Q.	Witness, I don't know whether I was absentminded when you made your statement regarding Charles Sebuzindu.  I would like to know more about it.  It is possible you have already answered the question I'm asking you now.  Who was he?
+A.	Charles Sebuzindu was an ordinary citizen of Gishyita commune.  I stated to you that his home was attacked with grenades, and he was killed during that attack. 
+Q.	Thank you, Witness.  How did you spend the day of 8th of April?
+A.	On the 8th of April, we were in a kind of impasse.  People were increasingly afraid.  We did not know what to do.  Since the situation prevailing was such that we could be afraid, following what was said from Mubuga, what we heard over international radio stations regarding crimes committed in Kigali, we were afraid and we continued to be afraid and stayed at home.
+Q.	Did you receive any news from Gishyita commune?
+A.	That is what I am trying to tell you.  The person who was a member of our family who came to tell us that the situation had deteriorated in Gishyita and who suggested that we should go and seek refuge in Mubuga church as the other Tutsis had done, all this was told to us.  We heard that Tutsis were beginning to be killed in Gishyita commune.
+Q.	And did you received any information regarding the 9th of April, still in Gishyita commune?
+A.	As I have stated to you, we received information, and that family member of ours who came to our home told us that killings had started in that commune on the 7th, and we are now talking of the 9th.  The killings started on the 7th.  They did not stop.  They instead intensified day by day.
+Q.	My question was whether you heard anything specific regarding killings committed on the 9th of April?
+A.	I did not receive any information in that regard.
+Q.	Thank you, Witness.  I would like you to talk about Sunday, 10 April 1994.  What were the highlights of that day of 10th of April?
+A.	The highlights of the 10th were that from the night of the 6th, the night on which President Habyarimana died, up until the 10th, in our home we were not attacked, but during the night of the 10th, there was an attack that targeted our house and that chased us from our home.
+Q.	What time was that?
+A.	That was during the night, and if my memory doesn't fail me, it was about 9 p.m. -- about five minutes past nine o'clock.
+Q.	Did you see the assailants?
+A.	It was dark because that was during the night.  The assailants came from the north of our home.  They threw lots of stones onto our house.  We came out of the house and we were on the run.  The assailants were shouting, but there is a neighbouring house that had been attacked before.  A young man, who is called Daniel, came and gave me the names of the assailants that he had seen attacking our house.
+Q.	On that Sunday, the 10th of April 1994, who were the occupants of your house?  Please do not give me the names of the said occupants, simply tell me who were those who were in your house?
+Q.	Madam President, Honourable Judges, Mr. Defence Counsel, that question is embarrassing to me because I cannot tell you who was in my house without giving you their names, and if I do, I think I would be revealing my identity.
+Q.	My suggestion, Mr. Witness, was that you say, for instance, "I was with my father, I was with my grandfather," et cetera.  It is in this sense that I meant that you could talk about those with whom you were in your house without mentioning their names.
+A.	With regard to that, I was in the house with my father, my sister.  There was also my aunt, one of my cousins and the house servant.
+Q.	Thank you.  If I understood you well, Mr. Witness, you were unable to identify the assailants because it was dark; that was during the night?
+A.	I have told you that it was dark when the assailants came.  I therefore could not see them with my own eyes, but, on the basis of the shouts, I was able to identify some of them by their voices because they were my neighbours, so they didn't come from afar.  And the next day my neighbour gave me the names of some of the assailants because their home had been attacked before ours.
+MADAM PRESIDENT:
+Mr. Witness, these were the same assailants whom you had identified by their voices? 
+THE WITNESS:
+Thank you, Madam President, Your Honours.  My neighbour, I mentioned him because before the assailants attacked our house, they had attacked their own house, that is my neighbour's house, and one other person who died in my neighbour's house -- or one of the persons who was living in my neighbour's house came and told me who were those neighbours (sic).  I, myself, I had identified some of the assailants who wad come because I had heard their voice and those assailants included neighbours.  They were not -- they were comprised of neighbours and were not people who had come from afar.
+MADAM PRESIDENT:
+Yes, Professor.
+BY MR. SONGA:
+Q.	Mr. Witness, in your statement, you talk of a certain Jean Rwanteri, who was a teacher in CERAI.  Is it true that he was seeking to eliminate your father and yourself?
+A.	That's correct.
+Q.	Is it also true that your father was also being sought after for professional reasons?
+A.	First of all, he was being searched or sought after because of his ethnic group, he was Tutsi.  And besides that, people tried to come over that pretext.  Besides people were also jealous because of his profession, but first of all people were after him because of his ethnic origin, but I must say that there was also some jealousy somewhere that was based on the fact that a Tutsi was holding an important position.  He was working with the Tutsis, and he was the line superior of Hutus, whereas he was a Tutsi.
+Q.	On that Sunday, the 10th of April 1994, did you have a clear idea of the number of assailants?
+A.	I do not know the number of assailants who invaded our home.
+Q.	After hearing their voices, can you have an idea?  Were there ten of them, about a hundred of them?
+A.	I really can't tell the number of assailants who came, but from the noises that they were making and the screams that they were making while they were throwing stones on our house, those shouts made it possible for me to identify some of them.
+Q.	From their acts of that night, was their objective to loot or to kill?
+A.	Their objective was to kill, and then loot after having killed the victims.  And besides, the assailants were shouting or singing or chanting this, because they said this time around, the idea wasn't only to loot and leave the owners, you know, alive.  "We are going to kill them, and then we will seize their property without any obstacle."
+Q.	And how did you survive that attack of 10 April 1994?
+A.	We were able to survive that attack, first of all, because we had been informed that there was an attack that was targeting our house and we had been advised to leave our house, so when stones were thrown on our house, we left the house immediately to flee.
+Q.	Did you have an idea of the place or position from where stones were being thrown on your house?
+A.	But that is what I told you at the beginning.  The attack came from the northern direction of our house and it's from there, so that those who were throwing stones on our house came from that direction, from the north of our house, after having chased the Tutsi who were living close to our house.  In any case, the stones were coming from the northern direction of our house.
+Q.	My question concerned the distance.  Were you able to estimate the distance that was separating you from the position from where the stones were being thrown on your house?
+A.	I cannot tell you what distance it was, given that the assailants attacked our house coming from other directions.  They did not stay on one position.  They were advancing and they were shooting stones at our house in order to force us to come out of the house, and we left the house before they reached it.
+Q.	Did you see your house being looted?
+A.	I have explained that we were attacked during the night.  We left the house.  It was dark.  First of all, we were about to be killed, and we couldn't return immediately to see how the assailants were going to loot our house.  I was amongst those who were targeted by attacks, so I could not stay to look on the house as it was being looted.
+Q.	Thank you, Mr. Witness.  And when you left the house, what was your destination?
+A.	When we left our house chased by the assailants, I cannot tell you if we had a specific destination.  We did not know where we were going.  We were surprised by the assailants and we had not made provision or planned to take a hiding place, so we had to go to the -- into the banana plantation and the areas that were around our house.
+Q.	And how much time did you spend there?
+A.	We spent the night there.
+Q.	In your declaration, Mr. Witness, you talked about your father and yourself.  What about your sisters, your aunt, your cousins?  Where did they spend the night of 10 April 1994?
+A.	We fled together.
+Q.	So you were all in the banana plantation?
+A.	We left our house together towards the same direction.
+Q.	And you reached your destination together?
+A.	We were together.  We were walking together.
+Q.	Thank you.  Now, we move on to Monday, 11th April.  How did you spend that day?
+A.	On that day the situation further deteriorated.  People were being properly chased in our locality.
+Q.	Were you the victim of aggression on that day, that Monday, the 11th of April?
+A.	On that day, an attack was launched against us, but they didn't find us.
+Q.	Please, can you be more specific?  An attack was launched against you; where, exactly?
+A.	On that day and at that time we had gone to different directions.  An attack was launched in the afternoon, and amongst the assailants there were gendarmes who had come from Kibuye.  The assailants were shouting, but specifically they said they were looking for my father and myself.
+Q.	Can you please address my question, Mr. Witness.  Where were you when the attack was launched?
+A.	I was in a bush where I was hiding.
+Q.	When you left the banana plantation, did you go directly into that bush?
+A.	There is a neighbour to whose house I went, and from the house of that neighbour, I went to the bush on the same day.
+Q.	When did you arrive at that neighbour's house?
+A.	I arrived on Monday, the 11th.
+Q.	At about what hour?
+A.	I cannot recall the hour, but it was in the morning.  And besides, I didn't stay there for long because he told me that people were being searched, and I, myself, I could see this, so I went into the bush to hide.
+Q.	Please, you are going to help us to further clarify the attack of 11th April.  Was it directed towards your neighbour's house or was it directed at the bush?
+A.	The attack of the 11th was launched while I was no longer in that neighbour's house.  As I said -- and besides, the assailants did not find me in the bush where I was hiding.  They were on the hill and they were shouting and they were saying that they needed to find me and my father.
+Q.	Please, a little more effort, Mr. Witness.  Can you tell me where you -- don't talk to me about where you weren't; try to tell me where you were?
+A.	I have explained to you that I was in a bush where I was hiding.  I do not think I can offer a different explanation.  That is where I was hiding.
+Q.	My question is as follows: what was the target of that attack of 11th April?
+A.	The attack of the 11th of April targeted Tutsis in general, and in particular the assailants were saying that they needed to find my father and myself.
+Q.	What was the place targeted by the attack?
+A.	The assailants were looking for people who had left their houses because, in the region where I was, Tutsis hadn't come together -- hadn't gathered at a single spot for the attackers to attack that area, so they were looking for the Tutsis all over.
+Q.	How many assailants were you able to see on that day of 11th of April?
+A.	I cannot tell you the number of assailants.  I can only say that there were many of them.
+Q.	Some hundreds?
+A.	Maybe.
+
+Madam President, Your Honours, I would like to say to the Defence counsel that it is difficult for me to determine the number of assailants.  I was hiding.  I was hearing the shouts of the assailants.  I was hearing them speak, but the circumstances could not enable me to determine their number.  They were very many, and it's from the shouts that they were making that I could tell that they were there, but I can't tell you how many of them were there.
+Q.	Thank you, Mr. Witness.  Since you couldn't count them, were you seeing them, at least?
+A.	The fact that I was hearing noises or the shouts made by the assailants from the bush in which I was hiding -- my idea at the time was to know if I was going to survive the attack.  Under such circumstances, I could not be concerned about their number.  All I can say is that there were many of them, and that is why it is called an attack.  It was an attack, an attack by people who had organised themselves to kill.
+Q.	I have already understood you, Mr. Witness, insofar as that issue is concerned.  Where did you spend the night of 11 to 12 April?
+A.	I spent it in a bush.
+Q.	At that time, did you have news of the other members of your family, those with whom you left your house on the night of 10th April?
+A.	I have told that you everyone went to different directions.  We were no longer together, and where I was in that bush, I couldn't tell what would have happened to the other members of my family.
+Q.	Could you tell us under what circumstances you parted ways, Mr. Witness?
+A.	As I have told you, the killings had begun, and those killings were targeting Tutsis.  We parted ways in our flight, and we did not want to stay together because we felt that if anybody passed by our direction, you know, or if the attackers took one direction, there are some people who would survive, so we needed to disperse so that all of us shouldn't be killed, and our idea was that we may be fortunate to have survivors if we went to different directions, and besides, when there are many of you, it can be very easy for you to be identified.
+Q.	Thank you, Mr. Witness.
+MR. SONGA:
+Madam President, I would like that a name be written down on a piece of paper and that the witness tell us if he knows the person whose name would be written on that piece of paper and that he tell us what was his relationship with that person in 1994.
+MADAM PRESIDENT:
+Mr. Issa, please take that piece of paper to the witness.  
+
+Can we have a look?  
+Show it to the Prosecutor. 
+BY MR. SONGA:
+Q.	Mr. Witness, if you recognise this person, I would be grateful if would you indicate on that piece of paper the nature of the relationship between you as well as this person's ethnic origin?
+MADAM PRESIDENT:
+Mr. Witness, do you know this person?
+THE WITNESS:
+Madam President, Your Honours, Mr. Defence counsel, the person whose name appears on this piece of paper is not known to me.  The person I know bears one of the two names that are indicated.
+MADAM PRESIDENT:
+We are just asking you if you know this person.
+THE WITNESS:
+I do not know this person.  However, one of these two names -- I know one of these two names.
+MADAM PRESIDENT:
+Professor, this is the name of one person? 
+MR. SONGA:
+That is the information we received, Your Honour, but in view of his answer, can he indicate the name that belongs to one of the people that he might know.
+BY MR. SONGA:
+Q.	Mr. Witness, can you tell us which of the names belongs to somebody who you know bearing the same name?
+MR. ADEOGUN-PHILLIPS:
+Your Honour, my learned friend is on a fishing expedition here.  If he doesn't know the name that he seeks to put to the witness, why ask the witness to second-guess the name of a person he knows?  He should put the name to the witness.
+JUDGE MUTHOGA:
+Correct.
+MADAM PRESIDENT:
+Mr. Witness, answer the question asked and don't go into the details.
+THE WITNESS:
+Madam President, Your Honours, I do not know this person.
+MADAM PRESIDENT:
+Professor, you have the answer.
+MR. SONGA:
+I heard the witness's answer.  It is sufficient for me.
+BY MR. SONGA:
+Q.	Mr. Witness, you state that this attack of 11th April was led by a certain Uziel, son of Rwanuma; is that correct?
+A.	I did not hear your question, Counsel.  Would you please repeat it? 
+Q.	Gladly. 
+MR SONGA:
+Does my learned colleague wish to take  the floor?
+MR. ADEOGUN-PHILLIPS:
+I'm grateful to my learned friend for his indulgence.  
+
+Your Honour, I have sat here very patiently for the last one-and-a-half-hours and listened to my learned friend cross-examine this witness for some one-and-a-half-hours now, and note that after one and a half hours of his cross-examination, he still has not touched upon the subject matter of this witness's testimony in chief, and I find that very depressing.  
+
+We have a situation with Witness W, who is suffering from typhoid and who may or may not be able to come back to this Court, and I have just been called back because his situation has deteriorated a bit, and here we have a witness who has been on the stand for one-and-a-half-hours and whose examination took less than an hour, and was centred upon two dates, 14 and 15th of April, at one location.  It covered four paragraphs in his witness statement and nothing more, and one and a half hours on, my learned friend still hasn't made any effort to even touch on that substance.  
+
+In other words, we refer to Rule 90(G) and if we say that he has all liberties to examine matters that touch on the credibility of the witness, then Your Honours do have powers under Rule 90(F) to actually seek to curtail his manner of interrogating this witness.  
+
+I'm grateful, Your Honour.
+JUDGE MUTHOGA:
+The professor has promised to try to finish by the time we finish the day, and we are hoping he will keep that promise so that Witness W can come tomorrow.
+MADAM PRESIDENT:
+Mr. Phillips, are you telling us that Witness W is waiting outside the Court? 
+MR. ADEOGUN-PHILLIPS:
+He was until I just came back in, Your Honour, for some reason.  I don't know whether the communication went wrong, but they were of the opinion that he was coming back into court after this witness, and despite his ill health, he was out there up until 10 minutes ago and he's only just gone back, so I'm very concerned about his ability to turn up tomorrow.
+MADAM PRESIDENT:
+But we were told that he won't be available today because he's not well.
+MR. ADEOGUN-PHILLIPS:
+Yes, Your Honour, I was informed that way as well, but for some reason he was still held in the holding room up until ten minutes ago.
+JUDGE MUTHOGA:
+Professor, you have heard what the Prosecutor is saying.  You know, of course, that we are concerned about the time and we are hoping that you will promise to keep that in mind.  We are all wondering whether you move on to anything else, but it's really up to you to conduct your 
+cross-examination taking into account the time constraints that exist, especially the schedule of the Court.
+MADAM PRESIDENT:
+And we also observe that Mr. Prosecutor was justified in his objection.  
+
+Yes, Professor, go on, please. 
+MR. SONGA:
+Madam President, I do not have much to say, except that in seeking to have us save time, he has caused us to lose some.
+MADAM PRESIDENT:
+Please proceed.
+MR. SONGA:
+Before I continue, I would like to add that if witnesses come and go, it is not the responsibility of the Defence.  May I proceed?
+MADAM PRESIDENT:
+Yes, please.
+BY MR. SONGA:
+Q.	Witness, I think --
+MADAM PRESIDENT:
+Professor, just a minute, please.
+
+Professor, please proceed.
+MR. SONGA:
+Thank you, Madam President. 
+BY MR. SONGA:
+Q.	I believe I remember that I was interrupted when I was seeking to obtain more information regarding a certain Uziel, son of Rwanuma.  Mr. Witness, I do not believe you answered the question as to who this man was.
+A.	He was one of the people of this region.
+Q.	Was he a member of a militia, or not?
+A.	He was an adult.
+Q.	My question was did he belong to a militia?
+A.	I do not know.  I knew him as an inhabitant of that region, but belonging to a militia or a political party was not known to me.
+Q.	Thank you, Mr. Witness.  I believe I heard you testify before this Court that you arrived at Mubuga parish on 10th April 1994 very early in the morning.  Did I understand you correctly?
+A.	No, you did not understand me.
+Q.	May we know the correct version of the facts?
+A.	The truth that I told you, and which you are perhaps pretending not to have heard, is that I arrived at Mubuga parish on the 13th in the morning.
+Q.	Thank you.  Mr. Witness, in your statement you refer to Father Marcel.  Who is Father Marcel?
+A.	Father Marcel was a priest who worked in Mubuga parish during the genocide.
+Q.	Did you know him before your arrival in Mubuga church?
+A.	I knew him.
+Q.	Under which circumstances did you make his acquaintance?
+A.	I knew him because he was a priest in my parish.  I was a member of this parish as a Christian.  He was a priest.  He was the vicar of this parish, but the curate  wasn't there.  He was the vicar, not the curate, but the curate wasn't there during the genocide.
+Q.	What part of the church were occupied by the refugees?
+A.	I do not know whether you understood me.  I stated that the Mubuga church was full of refugees, so there was no place or no part that was not occupied.  The entire parish was full of refugees.
+Q.	I have seen and read that the church was full of Tutsi of all ages.  Would the same be true of all the buildings of the Mubuga parish?
+A.	I stated the following.  You have to differentiate the church from the other buildings.  In the church, there were people, and in some rooms of the presbytery, there were also refugees.
+Q.	Thank you, Mr. Witness.  What was the security situation around the church?  Were the people who were inside the church easily go out?
+A.	It was impossible.  Those who were inside the church had locked themselves up in such a way that there were people who were there to prevent anyone going out.  If somebody wanted to go and relieve himself, he was not able to do so easily.  There was no safety outside the church.  That is the reason why people had locked themselves up inside.
+Q.	Were there assailants around the church?
+A.	I stated that there were not many people.  However, there was a small number of people who were watching the exit.  They were not many, and we had understood that they were watching the exit of the church to see whether some refugees would come out from inside the church.
+Q.	Was there any way of escaping their vigilance by going out, for example, through a window?
+A.	Go out to where?  We were inside the church because there was no safety outside the church.  Seeking to go out was considered as committing suicide.  People left the areas where they lived to take refuge inside the church, it was to run away from the killings, so people took refuge inside the church to run away or to escape the assailants.
+Q.	Thank you, Mr. Witness.  Did Father Marcel know you before the events?
+A.	I told you that I knew him.
+Q.	My question is different.  Did he know you?
+A.	He also knew me.
+Q.	Mr. Witness, you state that Father Marcel had charged you with the duty of asking the people who took refuge in the rooms of the parish to join the others in the church or else he would give the keys -- hand over the keys to the killers; is that correct?
+A.	That is not exactly it.  I'm going to explain.  I said that he asked them to go out and join the others in the church so that his doors would not be broken down.  He had already given the keys.  He told people that he had already given the keys so that the assailants would not break down his doors, so he attached a lot of value to these doors, more than the people who were inside these rooms.  That is proof that he knew of the killings that were going to be committed.  To say that he gave up the keys so that the doors would not be broken down without considering that the people who were inside this house would be killed is tangible proof that he was collaborating with the killers.
+Q.	Thank you, Mr. Witness.  You refer to a group of persons whom you saw in Mubuga parish on the 14th April 1994.  Amongst these persons, you include Sikubwabo, Mika Muhimana, and Ryandikayo, the commander of the Kibuye gendarmerie, and as well as gendarmes.  Is it correct to state that you saw them on this 14th April?
+A.	I saw them.
+Q.	What time of the day was it when you saw them?
+A.	It was in the afternoon.  I do not remember the exact time, but it was in the afternoon.
+Q.	You state that these persons took away property that was at the parish.  What property is this?
+A.	I explained this.  I said that there were Tutsis that had motorcycles and vehicles that they had entrusted to the priests.  This was the property that was taken away.
+Q.	Is it only the persons whom you referred to, or were there other people who accompanied them?
+A.	It is these people who talked with the priest, and at a given time, the young people came to carry away this property, and it is at this time that the food that was at the parish was taken away and some of the food was taken away in the vehicles.
+Q.	Who was this gendarmerie commander?
+A.	I do not know his name.  I did not know him, but the people who were with me in the church said that he was the commander of the Kibuye gendarmerie group.
+Q.	You state, Witness, both in your statement, your signed statement, and in your testimony before this Court, that these people came with a priest called Gahinda. 
+A.	After talking with the priest and after taking the property away, they also took away Father Gahinda.
+Q.	You state that he was killed afterwards; is that correct?
+A.	Yes, he was killed.
+Q.	Were you able to learn who killed him?
+A.	I do not know the circumstances of his death, but we know that he was taken to Kibuye and that he was murdered there.  I do not know whether those who took him to Kibuye were the same persons who killed him.  I do not know.  He was taken away by Mika's people and it is Mika's duty to explain whether it is they, themselves, who killed him or not.
+Q.	Thank you, Mr. Witness.  You state that on the 14th April 1994 the bourgmestre promised to kill all Tutsi fugitives who had taken refuge in the church; is that correct?
+A.	He said he was opposite the church, in front of the door, opposite the Banque Populaire.  He stated that he was going to seal the fate of all Tutsi who were there, which means that he was going to exterminate them.
+Q.	To whom was he speaking?
+A.	They were chanting amongst themselves, that is Mika, Ryandikayo and the priest in front of this door.  I think that they were counting on the number of Tutsi who were inside the church, but he stated this after a discussion that they had in front of the church.
+Q.	Mr. Witness, where were you when you heard the bourgmestre say what we have just quoted?
+A.	I was standing quite close to the door which was opposite where they were.  That is opposite the Banque Populaire, as well as the rooms of the presbytery.
+Q.	How far away were you from the bourgmestre?
+A.	The distance was short.  For those who know Mubuga parish, between that door and the pathway that leads to the rear courtyard of the presbytery, there is no great distance.
+MADAM PRESIDENT:
+Professor, now it is 7 p.m.  May we know the estimated time of the remaining cross-examination?
+MR. SONGA:
+The Prosecutor would like to confuse you, but this is the longest statement since we began.  I think we should take this into account, Madam President.  I am not doing anything to delay the end of the cross-examination, but, you, yourself, will notice that there is material for cross-examination.  I crave your indulgence and I think that we shall be able to cover for lost time on other occasions.  You are aware that there are three witnesses and an expert witness.  I hope that if you give me some time tomorrow morning, we are not going to throw the judicial calendar into disarray, but there are some very important questions I want to put to the witness and I crave your indulgence and ask your usual understanding.
+MADAM PRESIDENT:
+Can you give us the estimated time?
+MR. SONGA:
+I am not going to take advantage of your kindness.  If I could have an hour and a half tomorrow for Witness AF, it would help me to conclude my cross-examination.
+MADAM PRESIDENT:
+Then we will continue tomorrow afternoon, and we hope that you will finish sooner than one-and-a-half hours, Professor.  You have already consumed about two hours.
+MR. SONGA:
+I am eternally grateful to you, Madam President and Your Honours. 
+MADAM PRESIDENT:
+Mr. Witness, you are under oath.  Please do not communicate or discuss your evidence or the proceedings of this Court with anyone outside the Court.
+
+We adjourn and resume tomorrow afternoon at 2 p.m.
+(Court adjourned at 1903H)
+(Pages 40 to 53 by Trevor Gerbes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C E R T I F I C A T E
+
+
+We, Judith Baverstock, Rex Lear and Trevor Gerbes, Official Court Reporters for the International Criminal Tribunal for Rwanda, do hereby certify that the foregoing proceedings in the above-entitled cause were taken at the time and place as stated; that it was taken in shorthand (stenotype) and thereafter transcribed by computer; that the foregoing pages contain a true and correct transcription of said proceedings to the best of our ability and understanding.
+
+
+We further certify that we are not of counsel nor related to any of the parties to this cause and that we are in nowise interested in the result of said cause.
+
+
+
+______________________	Judith Baverstock
+
+
+______________________	Rex Lear
+
+
+______________________	Trevor Gerbes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	MUHIMANA	28 APRIL 2004 
+
+JUDITH BAVERSTOCK - ICTR - TRIAL CHAMBER III - page 25
+
+	MUHIMANA	28 APRIL 2004 
+
+REX LEAR - ICTR - TRIAL CHAMBER  III - page 39
+
+	MUHIMANA	28 APRIL 2004
+
+TREVOR GERBES - ICTR - TRIAL CHAMBER III - page 53
+
+	MUHIMANA		28 APRIL 2004
+
+ICTR - TRIAL CHAMBER III
+
