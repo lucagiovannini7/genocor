@@ -42,35 +42,35 @@ CriminalTribunal for Rwanda, make the following corrections:
 
 
 1. At page 29, lines 6 and 7, in lieu of:
-    “national”
-
+    "national"
+	
 
     read:
-    “international”.
+    "international".
 
 
 2. At page 35, line 5, in lieu of:
-    “loved”
+    "loved"
 
 
     read:
-    “laughed”.
+    "laughed".
 
 
 3. At page 45, line 7, in lieu of:
-    “war”
+    "war"
 
 
     read:
-    “walk”.
+    "walk".
 
 
 4. At page 49, line 19, in lieu of:
-    “BJ”
+    "BJ"
 
 
     read:
-    “BG”.
+    "BG".
 
 
 
@@ -1613,7 +1613,7 @@ CriminalTribunal for Rwanda, make the following corrections:
  2   MS. MADENGA: (Continuing)
  3        If AX was so credible that the Defence witness corroborated what she was saying, Your Honour, we
  4        ask on what basis can we say a respectable Hutu would come and say, "My brother, who is also a
- 5        Hutu, raped me twice in a secteur office”? AX would have no reason, absolutely no reason to lie
+ 5        Hutu, raped me twice in a secteur office"? AX would have no reason, absolutely no reason to lie
  6        against Mika.
  7
 
@@ -1719,7 +1719,7 @@ CriminalTribunal for Rwanda, make the following corrections:
 20       there for looting then we are inferring that he can also be there for raping. It was part of the broad
 21       policy of genocide.
 22   JUDGE MUTHOGA:
-23       If you find that reference where this is said, “Mika was there,” just let me know.
+23       If you find that reference where this is said, "Mika was there," just let me know.
 24   MS. MADENGA:
 25       Very well, Your Worship, I will refer you to that part. Can I say ---
 26   JUDGE MUTHOGA:
@@ -1945,7 +1945,7 @@ CriminalTribunal for Rwanda, make the following corrections:
 29       girls. She also gave detail of how these two girls were raped. On her part, she actually describes
 30       how Mika raped her, for three minutes. She had no reason to falsely implicate Mika. She identified
 31       Mika positively in court, and I have already said she knew Mika before. The defence here, the
-32       contention was generally that Mika Muhimana was not in Mugonero, that this girl was not there: “Why
+32       contention was generally that Mika Muhimana was not in Mugonero, that this girl was not there: "Why
 33       would she be there? She was a Tutsi" That is basically the Defence contention in their draft brief.
 34       But this girl, in inferring from her evidence, she had a very sharp sense of equality; she did not talk in
 35       terms of Hutu or Tutsi. One might call it naiveté, but I would call it civilisation. She did not even know

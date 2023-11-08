@@ -203,7 +203,7 @@ Court Reporters:
  8        And just for the record, is that there is a very slight difference between the English and French
  9        versions of this indictment, in the sense that in the English it is referred to explicitly, "the Mugonero
 10        Catholic Church" in relation to Roman (i), (ii), (iii) and (iv), whereas in the French version it follows
-11        also, but the last verse in these paragraphs are, “l'église” but of course, this has absolutely no
+11        also, but the last verse in these paragraphs are, "l'église" but of course, this has absolutely no
 12        substantive significance, but it is simply noted because what was read out was based on the French
 13        version and not exactly the same wording as in the present English indictment.
 14
@@ -647,7 +647,7 @@ Court Reporters:
 
 34        That's noted, Your Honour.
 35   MR. PRESIDENT:
-36        Yes. It may also be that “commune” could be written with one "N" and not two "N"s in a couple of
+36        Yes. It may also be that "commune" could be written with one "N" and not two "N"s in a couple of
 37        places in the indictment, for instance, on page 7, at the bottom there. Now, these are small points,
 
                                  KAREN HOLM-PORTER - ICTR - TRIAL CHAMBER I - page 12
@@ -830,4 +830,3 @@ Court Reporters:
 
 
                                           ICTR - TRIAL CHAMBER II
-
