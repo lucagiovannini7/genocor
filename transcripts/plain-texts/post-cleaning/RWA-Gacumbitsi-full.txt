@@ -1,10 +1,5 @@
 @title ICTR-2001-64-I
 @subtitle Sylvestre Gacumbitsi
-
-
-28 JULY 2003
- 0845H 
-TRIAL
 ^Before the Judges:
 Andresia Vaz, Presiding
 Jai Ram Reddy
@@ -14,12 +9,10 @@ Mr. Carlos Javier Ortega
 Mr. Krystal Thompson
 Ms. Constant K. Hometowu
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
 Ms. Melanie Werrett
-
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
@@ -30,18 +23,14 @@ Ms. Regina Limula
 Ms. Gifty C. Harding
 Ms. Patricia Greig
 Ms. Judith Baverstock 
-
-
-
-
-
-
-
+#
+28 JULY 2003
+0845H 
+TRIAL
 @MR.PRESIDENT:
 The session is open.  Registry, could you please read the opening statements.
 @MR.HOMETOWU:
 Thank you, Madam President.
-
 Trial Chamber III of the International Criminal Tribunal for Rwanda, composed of Judge Andresia Vaz, presiding, Judge Jai Ram Reddy and Judge Sergey Ergorov, is now sitting in open session today, Monday, 28 July 2003, for the hearing of the Defence motion for postponement of the date of commencement of the trial in the matter of the Prosecutor versus Sylvestre Gacumbitsi, Case Number ICTR-2001-64-I.  Thank you.
 @MADAM PRESIDENT:
 Thank you, I would now like to ask the parties to introduce themselves, and we will begin with the Office of the Prosecutor.  Thank you.
@@ -276,11 +265,11 @@ $(Declaration made by Witness Patrick Fergal Keane in English)
 I would like  to thank you, Witness.  You are not a protected witness as you have chosen to appear under your name.
 Mr. Prosecutor, can you tell us what the identity of your witness is, and put the usual questions to the witness so that he can answer your questions.
 @MR.KAREGYESA:
- Most obliged, Madam President, Your Honours.
-                   WITNESS  PATRICK FERGAL KEANE
-      First having been sworn, 
-            testified as follows:
-              EXAMINATION-IN-CHIEF BY MR. KAREGYESA:
+Most obliged, Madam President, Your Honours.
+$WITNESS  PATRICK FERGAL KEANE
+First having been sworn, 
+testified as follows:
+$EXAMINATION-IN-CHIEF BY MR. KAREGYESA:
 @Q.
 Witness, what are your full names?
 @A.
@@ -576,7 +565,7 @@ Very well.  Let's play the video footage.  I'm sorry, I thought -- I initially u
 @MR.KAREGYESA:
 Thank you, Madam President.  Could I ask the audio-video booth to play file No. 1.
 $(Video footage shown)
-  BY MR. KAREGYESA:
+$BY MR. KAREGYESA:
 @Q.
 Mr. Keane, do you have a video image on your screen?
 @A.
@@ -774,13 +763,7 @@ I would also like to say that we shall begin at 8:45.  There shall be a break at
 If there are no further comments, we shall adjourn, and we shall resume tomorrow morning.  Thank you.  
 $(Court adjourned at 1643H) 
 $(Page 45 by Judith Baverstock)
-
-
 #
-
-
-
-
 4 AUGUST 2003
 0847H
 CONTINUED TRIAL
@@ -805,12 +788,6 @@ Ms. Donna M. Lewis
 Mr. Haruna Farage
 Ms. Regina Limula
 Ms. Gifty C. Harding
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The Court is in session. 
 There is no change as to who is here this morning, Mr. Prosecutor? 
@@ -2801,13 +2778,7 @@ Thank you, Madam President.
 Very well.  The hearing stands adjourned until tomorrow morning at 8:45.
 $(Court adjourned at 1706H)
 $(Pages 74 to 75 by Trish Greig)
-
-
 #
-
-
-
-
 5 AUGUST 2003
 0847H 
 CONTINUED TRIAL
@@ -2830,9 +2801,6 @@ Mr.  Haruna Farage
 Ms. Regina Limula
 Ms. Gifty C. Harding 
 Ms. Trish Greig
-
-
-
 @MADAM PRESIDENT:
 This Court is in session.
 @THE ENGLISH INTERPRETER:
@@ -4275,7 +4243,6 @@ We are extending our apology to the gallery.
 Very well, Mr. Prosecutor, please proceed with your submission.
 $(At this point in the proceedings, a portion of the transcript {pages 61 to 63} was extracted and sealed under separate cover, as the session was heard in camera)
 $(Pages 55  to 63 by Regina Limula)
-
 #
 6 AUGUST 2003
 0847H
@@ -4299,13 +4266,6 @@ Ms. Regina Limula
 Ms. Gifty C. Harding
 Ms. Patricia Greig
 Ms. Judith Baverstock
-
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The session is open and in principle this morning we are going to proceed with the Defence in    cross-examination of the witness.  Before we begin I would like to ask the parties whether they have any motions or applications this morning.  If not, I shall ask Mr. Kouengoua to commence his 
 cross-examination of the witness at the stand.
@@ -5067,7 +5027,7 @@ Yes, I can.
 Please go ahead.  Just take your time, Witness.
 @A.
 I would use myself as an example, from the time of those events.  I suffer a great deal as a consequence of those events.  I have many side-effects.  My periods -- my monthly periods last three months normally -- three days normally, but with me, they last a whole month.
- (Pages 17 to 26 by Haruna Farage)  
+(Pages 17 to 26 by Haruna Farage)  
 1215H
 $BY MS. MOBBERLEY:
 @Q.
@@ -6325,40 +6285,24 @@ In view of the fact that everyone is tired, and we've gone well beyond our time 
 In any case, we were supposed to hold hearings the whole week.  It's true that Mr. Karegyesa has requested those two days to prepare himself.  I suppose this will not prevent him from preparing himself.  So, we shall adjourn now and resume tomorrow at 8:45, quarter to nine for re-examination.  I thank you all.
 $(Court adjourned at 1735H)
 $(Pages 63 to 64 by Haruna Farage)  
-
-
 #
-
-
-
-
 7 AUGUST 2003
 0845H 
 CONTINUED TRIAL
 ^Before the Judges:
 Andresia Vaz, Presiding
 Sergey Aleekseevich
-
-
 For the Registry:
 Mr. Constant Kwaku Hometowu
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
-
 For the Accused Sylvestre Gacumbitsi :
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
 Court Reporter:
 Mr. Haruna Farage
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The hearing is now under way.  
 Counsel Kouengoua, are you ready to continue your cross-examination?  
@@ -6523,7 +6467,7 @@ So, is there something in the pretrial statement made to the Prosecutor's Office
 Yes, Your Honour, there is.  And, in ordinary practice, Your Honour, the witness would have been the best party to do the clarification.  Now, in the absence of the witness, his statement should go onto the record, because the statements are recorded by different authorities, pursuing different inquiries.  The statement admitted on the record in Kinyarwanda relates to the witness' own criminal involvement; it does not relate to any other person.  The statement made to the Office of Prosecutor is in relation to the current indictment against the Accused.  So, what you have is a lopsided view, the thing that happened, if counsel had cross-examined the witness and put propositions to him, based on the  Kinyarwanda statement, but he didn't, understandably, because he didn't have it.  It was produced in court that day, and when I was introducing that statement with others, I said we would be happy if, you know -- to concede to an application to have the witness on record so that they are properly 
 cross-examined on these documents.  We acknowledged the late disclosure was for reasons beyond our control.
 @JUDGE REDDY:
- Yes, well, perhaps the presiding judge -- the status of all these statements, you know, the brief, your brief -- you will have filed all the statements of all the witnesses that you know as part of your brief?
+Yes, well, perhaps the presiding judge -- the status of all these statements, you know, the brief, your brief -- you will have filed all the statements of all the witnesses that you know as part of your brief?
 @MR.KAREGYESA:
 We have, Your Honours, but Your Honours aren't allowed to take into consideration  --
 @MADAM PRESIDENT:
@@ -6560,11 +6504,7 @@ Trial Chamber concerning these exhibits.  As I said earlier on, we will not be s
 We thank you all.
 $(Court adjourned at 1205H)
 $(Pages 27 to 39 by Regina Limula)
-
-
 #
-
-
 22 AUGUST 2003
 0900H
 CONTINUED TRIAL
@@ -6584,12 +6524,6 @@ Ms. Anne Ngatio Mbattang
 Court Reporters:
 Ms. Judith Kapatamoyo
 Ms. Verna Butler
-
-
-
-
-
-
 @MADAM PRESIDENT:
 This Court is in session.  Good morning, ladies and gentlemen.  
 The Trial Chamber had heard the parties at some length yesterday with respect to Prosecution exhibits.  I would like to mention that we received a free translation of Exhibit DO1, as the exhibit was in Kinyarwanda.  The Trial Chamber, considering that -- during cross-examination of Prosecution Witness TBK, the Prosecutor disclosed to the Defence a document in Kinyarwanda containing the confession of Witness TBK, before Rwandan authorities.  Considering that it wasn't until after the testimony of Witness TBK, that the Defence asked that his confession be admitted as an exhibit, the Prosecutor accepted that the document be admitted on the condition that the witness statement given to the investigators in May 2003 would also be admitted as a Defence exhibit, and considering that the Defence objected to this second document being admitted; order as follows:  Witness TBK is called back to testify to identify the confession made before Rwandan authorities, which was admitted as Exhibit DO1; dismisses the Prosecution's motion that the witness statement of --  the witness statement made by Witness TBK be admitted as a Defence exhibit.  We therefore order that 
@@ -6729,13 +6663,7 @@ Expert witness Alison Des Forges.
 So we going to adjourn the proceedings now.  The proceedings will resume on Monday, next Monday at 8:45, as usual.  We thank you. 
 $(Court adjourned at 0956H)
 $(Pages to 9 to 11 by Verna Butler)
-
-
 #
-
-
-
-
 25 AUGUST 2003
 0848H
 CONTINUED TRIAL
@@ -6757,9 +6685,6 @@ Mr. Haruna Farage
 Ms. Regina Limula
 Ms. Verna Butler
 Ms. Karen L. Holm
-
-
-
 @MADAM PRESIDENT:
 The proceedings are called to order.  
 Registry, can you mention the matter on the cause list today?  
@@ -6799,10 +6724,7 @@ Thank you, Counsel.
 The Trial Chamber will order a closed session.  We apologise to the public.  The purpose of the closed session is to protect or to conceal the identity of the witness. 
 $(At this point in the proceedings, a portion of the transcript [pages 3 to 73] was extracted and sealed under a separate cover as the session was heard in camera)
 $(Pages 1 to 2 by Haruna Farage)
-
-
 #
-
 26 AUGUST  2003
 0845H 
 CONTINUED TRIAL
@@ -6810,16 +6732,12 @@ CONTINUED TRIAL
 Andrésia Vaz, Presiding
 Jai Ram Reddy
 Sergey A. Egorov
-
-
 For the Registry:
 Mr. Constant K. Hometowu
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
-
 For the Accused Sylvestre Gacumbitsi :
 Mr. Kouengoua
 Ms. Anne Ngatio Mbathang
@@ -6829,11 +6747,6 @@ Ms. Verna Butler
 Ms. Trish Greig
 Ms. Karen L. Holm
 Mr. Haruna Farage
-
-
-
-
-
 @MADAM PRESIDENT:
 This Chamber is now in session.  Good morning everyone, good morning, Witness.  We wish to remind you that you are still under oath, and Counsel Kouengoua for the Defence, will pursue 
 cross-examination.
@@ -7535,7 +7448,7 @@ Yes.
 @Q.
 As I have children that I'll be going to see soon and who are at school, can you tell me what is the recipe that allows you to distinguish between a gunshot and a thunder bolt on the telephone?
 @A.
- (Previous translation continued)... in the proximity of the person holding the telephone is considerably shorter and sharper than the noise of thunder.
+(Previous translation continued)... in the proximity of the person holding the telephone is considerably shorter and sharper than the noise of thunder.
 @Q.
 Doctor, we are on the telephone.  Dr. Des Forges, we are on the telephone.  I say we are on the telephone.  Is that a perception -- is it distinguishable by non-initiates as we are?
 @A.
@@ -7705,7 +7618,7 @@ Dated the 10th of October, you say?
 @Q.
 Yes, 10 October.  It was presented before the commission on 10 October 1994.  Perhaps it's better that you have the document.  It is in English and my English is not such as I would want to speak.  It is not good enough for the Court.
 @MADAM PRESIDENT:
- (Not interpreted)
+(Not interpreted)
 @THE WITNESS:
 Maître, I had not previously seen this particular document but it's extremely interesting.  It appears to me to be based upon what is generally called the "Gersony report", a document which is said officially not to exist, and this is the fullest transcription on paper that I have seen of what I believe to be the contents of that report.  I have seen that report only in note form, that is, in the notes of an oral presentation, but this appears to conform to my recollection of those notes.
 $BY MR. KOUENGOUA:
@@ -7834,7 +7747,7 @@ Yes, Madam, I am going to ask the question.  Madam, the Trial Chamber has provis
 There were killings of civilians committed by certain soldiers of the RPF, I assume you are speaking of the period April 1994 to July 1994, but later in 1994 as well, that appears to be war crimes and crimes against humanity.
 @Q.
 Can I, in response to your answer, say that your point of view has evolve on
- this subject?
+this subject?
 @A.
 It is often said that my position and that of Human Right Watch has changed on this issue, but I can assure you that our first letter to the Rwandan Patriotic Front concerning allegations of such crimes is dated May the 11th 1994, and that I wrote a report published in 1994, detailing the evidence from my investigation at the two sites I have discussed this afternoon in Gitarama where such crimes were committed by soldiers of the RPF.  In that connection, I believe my position has been clear from the beginning, there is, of course, no equivalence in crime between genocide and war crimes and crimes against humanity, but there is equivalence in the rights of victims to justice regardless of the crime committed.
 @Q.
@@ -7928,15 +7841,10 @@ Madam, as you had not given a decision, I said at about 10:00 a.m., and I would 
 Very good.  Thank you.  The hearing stands adjourned until tomorrow morning.
 $(Court adjourned at 1700H)
 $(Pages 74 to 77 by Regina Limula)
-      
-      
-      
+
+
 
 #
-
-
-
-
 27 AUGUST 2003
 0855H
 CONTINUED TRIAL
@@ -7956,9 +7864,6 @@ Ms. Anne Ngatio Mbattang
 Court Reporters:
 Ms. Verna Butler
 Ms. Karen L. Holm
-
-
-
 @MADAM PRESIDENT:
 This Court is in session.  Good morning, ladies and gentlemen.  Good morning, Ms. Des Forges.
 Counsel Kouengoua will continue with his cross-examination.
@@ -8528,11 +8433,7 @@ Very well.  Thank you.  We shall now adjourn and the Prosecution, Counsel for th
 We thank you, therefore, and we will meet tomorrow at 10 a.m. for the pre-Defence status conference.  Thank you all.  The hearing stands adjourned.  
 $(Court adjourned at 1055H)
 $(Pages 17 to 26 by Karen L. Holm)
-
-
 #
-
-
 28 AUGUST 2003
 1230H
 CONTINUED TRIAL
@@ -8556,7 +8457,7 @@ Ms. Regina Limula
 $(Court resumed at 1228H)
 @MADAM PRESIDENT:
 The hearing resumes.
- 
+
 We were in closed session, but we will go into open session for our decision to be read.
 The Defence requested an adjournment until December 2003, to begin presenting the case for the Defence.  It is because of problems for preparations, the few missions undertaken, difficulties in locating witnesses, and the lack of time in general terms.  It stated inter-alia that witnesses who have been contacted wanted to speak with counsel before agreeing to testify, and the witnesses were hard to locate.
 The Chamber notes that a calendar was already -- had been established after a meeting held in the presence of all interested parties on the 10th of July 2003, Judge Møse, presiding.  The calendar has been communicated to the parties, and no comments had been made as to the dates proposed.
@@ -8575,13 +8476,7 @@ Thank you, Madam President.
 The hearing stands adjourned.
 $(Court adjourned at 1235H)
 $(Pages 20 to 21 by Regina Limula)
-
-
 #
-
-
-
-
 6 OCTOBER 2003
 0845H
 CONTINUED TRIAL
@@ -8607,13 +8502,6 @@ Mr. Rex Lear
 Mr. Petrus Chijarira
 Ms. Gifty C. Harding
 Ms. Regina Limula
-
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The hearing will now begin.  Would the registry please read the roll.
 @MR.HOMETOWU:
@@ -8810,7 +8698,7 @@ We shall, therefore, go into closed session for part of the questioning or the e
 $(At this point in the proceedings, a portion of the transcript [pages 47 to 48] was extracted and sealed under separate cover as the session was heard in camera)
 $(Pages 45 to 46 by Rex Lear)
 @MADAM PRESIDENT:
-      Counsel, we are now in open session.  You may proceed.
+Counsel, we are now in open session.  You may proceed.
 $BY MS. MBATTANG:
 @Q.
 Witness ZEZ, you told us a few moments ago that you knew Mr. Gacumbitsi since 1964.  Now, the man that you have known for such a long time, is he present in the courtroom?
@@ -9338,12 +9226,7 @@ The session is adjourned.
 $(Witness excused)
 $(Court adjourned at 1712H)
 $(Pages 68  to 69 by Regina Limula)
-
-
 #
-
-
-
 7 OCTOBER 2003
 0850H
 CONTINUED TRIAL
@@ -9365,10 +9248,6 @@ Court Reporters:
 Ms. Judith Baverstock
 Ms. Diane Hermann
 Mr. Rex Lear
-
-
-
-
 @MADAM PRESIDENT:
 The hearing resumes.  Ladies and gentlemen, good morning.
 Counsel Kouengoua, without wishing to interfere in your Defence strategy, I should like to draw your attention to the fact that witnesses as to the morality of the Accused should not take up too much of the Trial Chamber's time.  I think you had better devote your efforts to the events or acts of which your client is accused.
@@ -9803,7 +9682,7 @@ More specifically, Witness, you were interviewed on the 28th of July this year, 
 @A.
 Yes, it was on that date that I was interviewed. 
 $(Pages 6 to 16 by Judith Baverstock)
-  
+
 1015H
 $BY MR. KAREGYESA:
 @Q.
@@ -10054,7 +9933,7 @@ Is it the first mistake we've noted since I have begun my testimony?
 I have no further questions for this witness, Your Honour. 
 @MADAM PRESIDENT:
 We thank counsel for the Prosecution. 
- Do you wish to re-examine the witness? 
+Do you wish to re-examine the witness? 
 @MR.KOUENGOUA:
 Yes, Madam President.  Thank you, madam.
 $RE-EXAMINATION BY MR. KOUENGOUA:
@@ -10485,17 +10364,11 @@ Well, Counsel, my English isn't perfect either, but on this medical certificate 
 @MR.KOUENGOUA:
 Madam President, I was especially concerned with the present hearing.  I think it was last time they took him, we were informed at 8 p.m. or 9 p.m., so I think the two days are today the 7th, tomorrow the 8th, then certainly on the 9th.
 @MADAM PRESIDENT:
- Well, Counsel, we will check.  Well, in any case, if the witness can testify tomorrow he shall do so.  Well, of course, that's what we would like.  It would be marvelous if he could testify tomorrow, that's really what we want.
+Well, Counsel, we will check.  Well, in any case, if the witness can testify tomorrow he shall do so.  Well, of course, that's what we would like.  It would be marvelous if he could testify tomorrow, that's really what we want.
 Very well, we adjourn until tomorrow at 8:45 a.m.
 $(Court adjourned at 1230H)
 $(Pages 40 to 41 by R. Lear)
-
-
 #
-
-
-
-
 8 OCTOBER 2003
 0845H
 CONTINUED TRIAL
@@ -10503,7 +10376,6 @@ CONTINUED TRIAL
 Andrésia Vaz, Presiding
 Jai Ram Reddy
 Sergey A. Egorov
-
 For the Registry:
 Mr. Constant K. Hometowu
 Mr. Carlos Javier Ortega
@@ -10519,9 +10391,6 @@ Court Reporters:
 Mr. Rex Lear
 Mr. Petrus Chijarira
 Ms. Gifty Harding
-
-
-
 @MADAM PRESIDENT:
 Court is in session. 
 $(Not interpreted)
@@ -10542,7 +10411,7 @@ Thank you, Madam President, Your Honours.  During yesterday's hearing, the heari
 The three Defence witnesses that we are discussing here had been informed of the investigator's intention to call this person to come and testify in the Gacumbitsi trial.  And when they met with this person, the investigator took photographs according to the administrative procedure that is usually followed.  Nevertheless and subsequently, the three witnesses told the UNHCR that they were going to accept voluntary repatriation organised by the UNHCR at the request of the Tanzanian government by voluntarily signing the forms for voluntary repatriation. 
 It is important to highlight that on the 2nd of September 2003, the Tanzanian government decided to repatriate the remaining Rwandan refugees to their country of origin, with the exception of those persons who had already obtained the refugee status under UNHCR protective status. 
 So in cooperation with Tanzanian authorities, the UNHCR was able to finalise the practical modalities of the repatriation of these persons and their repatriation was implemented. 
-@UNHCR in Tanzania also informed that they did indeed receive the correspondence dated 9 September from the ICTR sent by the registrar of a result of the communication on that same day from the Defence team of the final list of Defence witnesses.  At our section's request the UNHCR in Tanzania was willing to give us the name of the préfecture and communes from which these three persons came and so we immediately forwarded this information to the Defence team, and it was now their responsibility to locate the witnesses and to confirm that these witnesses were willing to come and testify for the Defence in Arusha, and this before our section could undertake any measures to bring these persons to Arusha to testify for the Defence.  So, in view of the fact that three witnesses were not immediately available this section did everything possible in order to move forward the travel dates of three other witnesses who were scheduled to come and testify in two weeks' time, so that these witnesses could be available for next week's session.  
+UNHCR in Tanzania also informed that they did indeed receive the correspondence dated 9 September from the ICTR sent by the registrar of a result of the communication on that same day from the Defence team of the final list of Defence witnesses.  At our section's request the UNHCR in Tanzania was willing to give us the name of the préfecture and communes from which these three persons came and so we immediately forwarded this information to the Defence team, and it was now their responsibility to locate the witnesses and to confirm that these witnesses were willing to come and testify for the Defence in Arusha, and this before our section could undertake any measures to bring these persons to Arusha to testify for the Defence.  So, in view of the fact that three witnesses were not immediately available this section did everything possible in order to move forward the travel dates of three other witnesses who were scheduled to come and testify in two weeks' time, so that these witnesses could be available for next week's session.  
 Therefore, may the Trial Chamber please take note of the fact that eight witnesses shall be available next week and the rest of the factual witnesses, which are six factual witnesses, they will come in the appropriate time and can be heard during the third week. 
 I wish to thank you, Madam President.
 @MADAM PRESIDENT:
@@ -11455,24 +11324,16 @@ Very well.  Thank you.
 We will now adjourn until tomorrow or the day after, according to how things go.  Thank you.
 $(Court adjourned at 1240H)
 $(Pages 34 to 40 by Gifty C. Harding)
-
-
 #
-
-
-
-
 13 OCTOBER 2003
- 0845H 
+0845H 
 CONTINUED TRIAL
 ^Before the Judges:
 Andrésia Vaz, Presiding
 Sergey A. Egorov
-
 For the Registry:
 Mr. Constant K. Hometowu
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
@@ -11486,12 +11347,6 @@ Ms. Donna M. Lewis
 Ms. Karen Holm-Porter 
 Ms. Sithembiso Moyo 
 Mr. Mark Porter
-
-
-
-
-
-
 @MADAM PRESIDENT:
 This court is in session. Pursuant to Rule 15bis, in view of the fact that Judge Reddy had to leave Tanzania for family reasons.  
 Good morning ladies and gentlemen, I would now like to ask the registry to read the cause list.
@@ -11898,7 +11753,7 @@ You identified him, as an Inkotanyi because he was Tutsi, didn't you?
 They themselves had given themselves a name, Inkotanyi, those people attacking Rwanda.  They themselves called themselves, Inkotanyi  Zamarere (phonetic).
 @Q.
 Witness, I am talking to you about the people you saw conduct an attack.  You identified the
- non-soldier as an Inkotanyi because he was Tutsi, didn't you?
+non-soldier as an Inkotanyi because he was Tutsi, didn't you?
 @MR.KOUENGOUA:
 Madam President.
 @MADAM PRESIDENT:
@@ -12391,7 +12246,7 @@ You said that he didn't live far from where?
 @A.
 The Akagera. 
 @MR.KOUENGOUA:
-@Akagera is item No. 3 on our list. 
+Akagera is item No. 3 on our list. 
 $BY MR. KOUENGOUA:
 @Q.
 And when you found this person, did you settle in his house?
@@ -12841,7 +12696,7 @@ Registry, could you please escort the witness from the box?
 $(Witness excused)
 @MADAM PRESIDENT:
 Counsel Kouengoua, how many witnesses do you have for this afternoon?
- MR. KOUENGOUA:
+@MR. KOUENGOUA:
 Madam President, we did propose a while back that we could -- because tomorrow is a holiday -- perhaps we could hear one witness this afternoon, to try to catch up with lost time.  I don't know how things are going to happen, will we finish this evening?  And if we don't finish this evening, what will happen tomorrow because it is a holiday?  But for this evening -- this afternoon, we have planned only one witness.
 @MADAM PRESIDENT:
 Thank you.  
@@ -12911,7 +12766,7 @@ You said it was the head of state, the news was sad, but it did not prevent you 
 @A.
 I was working in a firm known as XXXX, and I worked from morning, at dawn right to the evening.  So it was necessary for me to go to work because if I hadn't done so, the xxxx I was in charge of would have been damaged, so I had to go to work on that day.
 @MR.KOUENGOUA:
-@ISAR is No. 75 on the list, please. 
+ISAR is No. 75 on the list, please. 
 $BY MR. KOUENGOUA:
 @Q.
 Were there any disturbances in your area on the night of the 6th, 7th of April? 
@@ -13552,13 +13407,7 @@ Your Honours, the Prosecutor has shown the capacity to go through four Defence w
 Fine, we note that all of the parties are in agreement for everything to be gone through before the end of the week as far as we, the Bench, are concerned.  We also feel that we should try to finish with the witnesses that are present in Arusha.  That is fine.  Thank you, very much.  We thank you.  And we will now adjourn until Wednesday 8:45 a.m.  Thank you. 
 $(Court adjourned at 1753H)
 $(Pages 75 to 76 by Donna M. Lewis)
-
-
 #
-
-
-
-
 15 OCTOBER 2003
 0846H
 CONTINUED TRIAL
@@ -13572,7 +13421,6 @@ For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
 Mr. Khalid Ramadan
-
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
@@ -13584,12 +13432,6 @@ Mr. Mark Porter
 Ms. Judith Kapatamoyo 
 Ms. Verna Butler 
 Mr. Haruna Farage 
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The Trial Chamber is in session.  Registrar would you please read the cause list.
 @MR.HOMETOWU:
@@ -13777,7 +13619,7 @@ Witness ZHZ, you have stated that on the news of the death of the president you 
 @A.
 As we went on exchanging our ideas, we were wondering about our safety, our well-being and the situation that prevailed in the country.  As I have stated, in our area there were many Tutsi, and there was a problem.  
 I would say the killing started in our locality, and we were surprised by those massacres.  Neighbours sent us messages to say, "Have you been informed as to what happened?"  The head of state was killed and you know about it, and in the meantime we see people coming with their belongings.  And when you ask a friend, coming towards you, a question, he would answer, "My house has been set afire"; mostly people from Rukira.  Others would say, "My property has been looted; I don't know where my son has run to."  And we asked them, "Well, how did you come here?"  They answered, "Because we are coming through our secteur, Nyarubuye secteur, because we note that here things are still calm in Nyarubuye parish.  And when these problems of public safety will have been settled, we will go home.  And if the situation gets any worse, since you are close to the border, we will cross into Tanzania.  And we hope that no one will chase us there, hunt us down there." 
- And we stayed with the refugees until the number of refugees at Nyarubuye parish grew.  About the 9th or the 10th, until the 14th, the number had grown considerably, so a problem arose.  
+And we stayed with the refugees until the number of refugees at Nyarubuye parish grew.  About the 9th or the 10th, until the 14th, the number had grown considerably, so a problem arose.  
 The inhabitants of -- we the inhabitants of Nyarubuye, we had been warned by the Rukira authorities, and we saw leaflets according to which we were being warned, that we, the inhabitants of Nyarubuye, were giving shelter to people who had killed the head of state.  And the tracts the leaflets, said, "You will see, we will deal with you."  
 So on the 14th, the morning of the 14th -- and you know that we were not carrying on with our normal work.  You know, that when one has lost a relative, when someone has died, a member of your family, you stop whatever you are doing until the person has been buried.  So in the meantime, on the 14th, in the morning of the 14th we received a message according to which these people who were warning us would -- were coming for us to explain to them why we had sheltered refugees at Nyarubuye parish; therefore, we took the decision to defend ourselves because in our locality, the populace was united.  So, in the morning we got together, and again, we exchanged ideas, the Hutu and the Tutsi.
 @MADAM PRESIDENT:
@@ -13824,7 +13666,7 @@ You mentioned Ruberandinde.
 Could the interpreter kindly spell that name for us?
 @THE ENGLISH INTERPRETER:
 Ruberandinde is spelt as R-U-B-E-R-A-N-D-I-N-D-E.
- 
+
 @MS.  MBATTANG:
 He also made mention of Rwangriahe.
 @THE ENGLISH INTERPRETER:
@@ -14000,7 +13842,7 @@ Some time later, all my friends and former neighbours -- I heard that all my for
 Witness ZHZ, you love your country; you still love your country.  Are you ready to return to Rwanda?
 @A.
 I will not ask you to help me to go home directly today, this very day.  It is true that I have friends in Rwanda.  I have information from Rwanda.  I have lost a number of my relatives.  I have lost my property.  But I still pray to almighty God that public safety should be re-established in Rwanda so that I might return. 
- 
+
 What makes me afraid, makes me fearful, is that friends who did no wrong and who were hunted down because they belonged to opposition parties, but who were arrested, who disappeared when they went back home, when they returned to the country.  I don't think I would be exempt, that I could avoid that if I went home.  Nothing would prevent me from suffering the same fate as they had but, in truth, I ask God that security, public safety, be re-established in Rwanda so that I might go home.
 @MS. MBATTANG:
 Thank you.  Madam President, I have finished the examination-in-chief of this witness. 
@@ -14457,7 +14299,7 @@ Absolutely.  I never set foot again in Nyarubuye.
 @Q.
 Witness, I'm going to read the last paragraph of your statement and ask you a question.  And I quote:  "The soldiers continued to pick up people in Nyarubuye secteur, around the parish, and took them there to be killed.  Before killing them, the Hutus were forced to prostrate and eat a piece of flesh from the corpse.  That was how the number of people killed in Nyarubuye parish increased as RPF soldiers hunted down Hutus.  When I saw that, I decided to flee to Tanzania and arrived on 30th April 1994."  Full stop and closed quote. 
 @A.
- (Answer not interpreted).
+(Answer not interpreted).
 @Q.
 Witness, wait for the question.  Is it true, Witness, you fled and arrived in Tanzania on the 30th of April 1994? 
 @A.
@@ -14475,7 +14317,7 @@ If it pleases Your Honours, I have two questions for closed session and I'll be 
 @MADAM PRESIDENT:
 We shall move into closed session for these two brief questions.  
 $(At this point in the proceedings, a portion of the transcript [pages 45 to 47] was extracted and sealed under separate cover, as the session was heard in camera)
- 	(Pages 39 to 44 by Mark Porter)
+	(Pages 39 to 44 by Mark Porter)
 1310H
 @MR.KAREGYESA:
 Your Honours? 
@@ -14964,25 +14806,17 @@ That is what I intend to do, Madam President. I thank you, Madam President.
 Very well.  We have now reached the end of our day, it is 5:25 p.m., and we shall adjourn until tomorrow 8:45 for the cross-examination of the witness that is present here.  And after that, we will hear Witness YCW.  I thank you all.  This hearing is now adjourned.  
 $(Court adjourned at 1725H)
 $(Pages 76 to 79 by Donna M. Lewis)
-
-
 #
-
-
-
-
 16 OCTOBER 2003
 0845H
 CONTINUED TRIAL
 ^Before the Judges:
 Andrésia Vaz, Presiding
 Sergey A. Egorov
-
 For the Registry:
 Mr. Constant K. Hometowu
 Ms. Krystal K. Thompson
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
@@ -14998,9 +14832,6 @@ Ms. Judith Kapatamoyo
 Ms. Verna Butler
 Mr. Haruna Farage 
 Ms. Donna M. Lewis
-
-
-
 @MADAM PRESIDENT:
 The hearing will resume.  Ladies and gentlemen, good morning.  
 Counsel for the Prosecution, you are proceeding with the cross-examination of the witness this morning, I believe.  Very well, Prosecution has the floor. 
@@ -15281,7 +15112,7 @@ Witness, you have come to the end of your examination.  We thank you for coming 
 @THE WITNESS:
 Thank you, Madam President. 
 $(Witness excused)
- MADAM PRESIDENT:
+@MADAM PRESIDENT:
 Counsel Kouengoua, do you have any other witness?  You mentioned Witness UPT this morning. 
 @MR.KOUENGOUA:
 Madam President, Your Honour, good morning.  Madam President, before answering the question put to us by the august Chamber, I have a motion to file, Madam President.
@@ -15896,7 +15727,7 @@ Now, do you recall the date on which you met him for the first time, Witness?
 @A.
 As regards our first meeting, I cannot be specific as to the date.  However, I can say that it was last year, in 2002.  That's when I met him.  That was when I met the first investigator. 
 @Q.
- (Previous translation continues)...
+(Previous translation continues)...
 @A.
 Mr. Prosecutor, pray forgive me, I cannot recall the date but as regards 2002 -- but as regards the meeting I had with the other investigator, I think I can remember the exact date of our meeting. 
 @Q.
@@ -16613,13 +16444,7 @@ We thank you all.  We shall adjourn and resume, in principle, on Monday, and we 
 The session is adjourned.
 $(Court adjourned at 1650H)
 $(Pages 63 to 64 by Donna M. Lewis)
-
-
 #
-
-
-
-
 20 OCTOBER 2003
 1206H
 CONTINUED TRIAL
@@ -16637,7 +16462,6 @@ Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
 Court Reporter:
 Ms. Diane Hermann
-
 @MADAM PRESIDENT:
 This Court is in session.  Good day, everyone.  We are sorry for having to begin with such a delay, but we were taken up by a Status Conference, and unfortunately we could not begin earlier.
 Counsel Kouengoua.
@@ -16744,16 +16568,9 @@ Thank you, Counsel.  Hence, if all parties are of the opinion that we should use
 Very well, then.  Everyone, all parties, are in agreement.  We shall resume tomorrow morning at 8:45 with the witnesses that are on the spot.  Thank you, and the hearing is now adjourned. 
 $(Court adjourned at 1240H)
 $(Pages 1 to 8 by Diane Hermann)
-
-
-
 #
-
-
-
-
- 21 OCTOBER 2003
- 0845H 
+21 OCTOBER 2003
+0845H 
 CONTINUED TRIAL
 ^Before the Judges:
 Andrésia Vaz, Presiding
@@ -16761,7 +16578,6 @@ Sergey A. Egorov
 For the Registry:
 Ms. Krystal Thompson
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
@@ -16778,9 +16594,6 @@ Mr. Petrus Chijarira
 Ms. Gifty C. Harding 
 Ms. Diane Hermann
 Ms. Trish Greig 
-
-
-
 @MADAM PRESIDENT:
 The Trial Chamber is now in session.  Ladies and gentlemen, good morning. 
 Counsel Kouengoua, will you tell us how many witnesses you have in Arusha?
@@ -17649,14 +17462,8 @@ Very well, at this stage of the proceedings we shall now adjourn the trial witho
 We thank everyone, and this session is adjourned, unless there are any other questions.  
 $(Court adjourned at 1735H)
 $(Pages 83 to 84 by Judith Baverstock) 
-
-
 #
-
-
-
-
-  17 NOVEMBER 2003
+17 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
 ^Before the Judges:
@@ -17666,11 +17473,9 @@ Sergey A. Egorov
 For the Registry:
 Ms. Krystal K. Thompson
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Ms. Melanie Werrett
 Mr. Richard Karegyesa
-
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
@@ -17678,13 +17483,6 @@ Court Reporters:
 Ms. Karen Holm-Porter
 Ms. Gifty C. Harding
 Ms. Sithembiso Moyo
-
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The Court is now in session.  Good afternoon, ladies and gentlemen.  
 Would the Registrar be kind enough to read the cause list? 
@@ -17904,13 +17702,7 @@ No, Madam President, I will explain in closed session why I am requesting that t
 Well then, Counsel, we are going into close session, and we crave the indulgence of the gallery, but all this is to afford the witness protection.
 $(At this point in the proceedings, a portion of the transcript [pages 18 to 37] was extracted and kept under seal as the session was heard in camera)
 $(Pages 14 to 17 by Gifty C. Harding)
-
-
 #
-
-
-
-
 18 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -17923,18 +17715,11 @@ Ms. Krystal K. Thompson
 Mr. Ramadhani Juma
 For the Prosecution:
 Mr. Richard Karegyesa
-
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
 Court Reporter:
 Mr. Mark Porter
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The proceedings are called to order.  
 Good afternoon, ladies and gentlemen.  We are going to deliver our decision. 
@@ -18290,13 +18075,7 @@ I don't think there is any reason to get upset, Counsel.  We asked for the infor
 -- there is no need to throw the responsibility on anyone else's shoulders.  We just got the information, we just gave it to you.  That's it. 
 $(Court adjourned at 1550H)
 $(Pages 7 to 17 by Mark Porter)
-
-
 #
-
-
-
-
 19 NOVEMBER 2003
 1443H
 CONTINUED TRIAL
@@ -18307,19 +18086,14 @@ Sergey A. Egorov
 For the Registry:
 Ms. Krystal K. Thompson
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Mr. Richard Karegyesa
-
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
 Court Reporters:
 Ms. Gifty C. Harding
 Ms. Sithembiso Moyo	
-
-
-
 @MADAM PRESIDENT:
 This Court is now in session.  Good afternoon ladies and gentlemen.  
 Counsel Kouengoua, we were to hear Mr. Ndengejeho.  Is he here?  Have you met him? 
@@ -18371,7 +18145,7 @@ You are about to testify before this Tribunal.  We have just taken a decision in
 Thank you.  My name is Ndengejeho, Pascal Byron.  I am a Rwandan by birth, presently living in Namibia, which is where I work.  And I was contacted by the Tribunal to come and testify as an expert witness.
 $(Declaration made by Pascal Byron Ndengejeho in French)
 @MADAM PRESIDENT:
-      Thank you, Mr. Ndengejeho, you may sit down.
+Thank you, Mr. Ndengejeho, you may sit down.
 @THE WITNESS:
 Thank you. 
 @MADAM PRESIDENT:
@@ -18458,16 +18232,9 @@ Yes.  I shall be very brief.  I shall be very brief, Madam President.  In fact, 
 We have taken due note, and the session is adjourned until tomorrow. 
 $(Court adjourned at 1636H)
 $(Pages 3 to 8 by Sithembiso Moyo
-
-
-
 #
-
-
-
-
 20 NOVEMBER 2003
- 1430H 
+1430H 
 CONTINUED TRIAL
 ^Before the Judges:
 Andrésia Vaz, Presiding
@@ -18483,13 +18250,6 @@ Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
 Court Reporter:
 Ms. Karen Holm-Porter
-
-
-
-
-
-
-
 @MADAM PRESIDENT:	
 The proceedings are called to order.  Good afternoon, ladies and gentlemen. 
 Mr. Ndengejeho, good afternoon.  We would like to remind you that you are still on your solemn declaration because you made a solemn declaration yesterday.  We gave you the documents you wanted, and today we would like to know whether you are ready to answer the questions that the parties and the Bench would put to you. 
@@ -18595,7 +18355,7 @@ Today, Madam President, the Defence finds itself in an unbalanced situation.  Th
 Expert witness Alison Des Forges testified on the 26th and the 28th of August 2003 before your Chamber.  Who is the Defence's expert witness, Madam President?  He is not there, and this is a clear handicap, and I believe this is clear to the Chamber as well.  And that is why I would request, pursuant to the legal provisions I've just stated, that is, the Articles of the Statute and Rules 73(A) and 73 ter of the Rules, to allow the Defence to call an expert witness for equality of arms.  In so doing, Madam President, I believe it would be fair justice.  
 This is the motion I wanted to file before you now.  I thank you for your attention. 
 @MADAM PRESIDENT:
- (No interpretation)
+(No interpretation)
 @MR.KAREGYESA:
 $(Microphone not activated)
 @JUDGE REDDY:
@@ -18642,7 +18402,7 @@ No, that is not possible, Madam President.  If the 25th is a public holiday, we 
 Wait a minute.  Wait a minute.  Let me look at the calendar.
 We don't have a calendar here.
 @MR.KOUENGOUA:
- Monday is the 24th.
+Monday is the 24th.
 @MADAM PRESIDENT:
 Well, that's what I'm telling you.  Tuesday is the 25th, which is the lunar feast.  So either the 25th or the 26th, depending on the phase of the moon, the observation of the moon.  So we were told initially that the 27th would be the public holiday, but Ramadan started earlier this year, so the end of Ramadan could be the 25th or the 26th, so we have to finish on the 24th.
 @MR.KOUENGOUA:
@@ -18692,13 +18452,7 @@ It gives you more time to prepare, Mr. Kouengoua, 2:30 instead of 9:15 or nine o
 We will now adjourn until tomorrow at 2:30 p.m.
 $(Court adjourned at 1545H)
 $(Pages 1 to 14 by Karen Holm-Porter)
-
-
 #
-
-
-
-
 21 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -18712,7 +18466,6 @@ Mr. Ramadhani Juma
 For the Prosecution:
 Mr. Richard Karegyesa
 Ms. Andra Mobberley
-
 For the Accused Sylvestre Gacumbitsi :
 Mr. Kouengoua
 Ms. Anne Ngatio Mbattang
@@ -18721,9 +18474,6 @@ Mr. Mark Porter
 Ms. Gifty C. Harding
 Ms. Sithembiso Moyo
 Ms. Karen Holm-Porter
-
-
-
 @MADAM PRESIDENT:
 The Court is in session.  Good afternoon, ladies and gentlemen. 
 Counsel Kouengoua, do you have a witness for this afternoon? 
@@ -19650,15 +19400,9 @@ I'm told that on Monday there will be a hearing here throughout the day; consequ
 The proceedings are adjourned. 
 $(Court adjourned at 1820H)
 $(Pages 38 to 40 by Karen Holm-Porter)
-
-
 #
-
-
-
-
 24 NOVEMBER 2003
- 1430H 
+1430H 
 CONTINUED TRIAL
 ^Before the Judges:
 Andrésia Vaz, Presiding
@@ -19678,13 +19422,6 @@ Ms. Karen Holm-Porter
 Mr. Mark Porter
 Ms. Gifty C. Harding
 Ms. Sithembiso Moyo
-
-
-
-
-
-
-
 @MADAM PRESIDENT:
 The proceedings are called to order.  Good afternoon, ladies and gentlemen.  We will continue with the testimony of the Accused.  We were still dealing with the examination-in-chief of the Accused as a witness. 
 Mr. Kouengoua, please proceed. 
@@ -20212,7 +19949,7 @@ So is it your evidence, Witness --
 @A.
 I know many people by the name of Kazoba.
 @Q.
- -- there was no Kazoba gainfully employed as a policeman at Rusumo commune?  Is that your evidence?  During the period April 1994? 
+-- there was no Kazoba gainfully employed as a policeman at Rusumo commune?  Is that your evidence?  During the period April 1994? 
 @A.
 Are you referring to a surname or a nickname?  Because sometimes policemen have people refer to them by their nickname. 
 @Q.
@@ -20722,7 +20459,7 @@ Yes, I was going to get to that point.  I have not mentioned that.
 @Q.
 In the diary where any entry is, it is this --
 @A.
- (No interpretation)
+(No interpretation)
 @Q.
 Very well, let's move on, Witness.
 @MR.KAREGYESA:
@@ -20855,16 +20592,10 @@ And if it is a public holiday, as you know, on Wednesday, we are beginning anoth
 Very well.  We are adjourning now and we will resume tomorrow at 2:30, hoping that it wouldn't be a public holiday.  
 $(Court adjourned at 1806H) 
 $(Pages 36 to 43 by Sithembiso Moyo)
-
-
 #
-
-
-
-
 1 MARCH 2003
 0905H 
-@CLOSING ARGUMENTS
+CLOSING ARGUMENTS
 ^Before the Judges:
 Andrésia Vaz, Presiding
 Jai Ram Reddy
@@ -20872,7 +20603,6 @@ Sergey A. Egorov
 For the Registry:
 Ms. Krystal K. Thompson
 Mr. Ramadhani Juma
-
 For the Prosecution:
 Ms. Melanie Werrett
 Mr. Richard Karegyesa
@@ -20930,7 +20660,7 @@ Yes, Mr. Kouengoua.
 @MR.KOUENGOUA:
 Madam President, the scheduling order of last week which is being referred to, and which was disclosed to us, provides that on the 1st of March, at nine o'clock, we will begin in the Laïty Kama Courtroom and in the afternoon we will go to Courtroom III and we will continue thus.  
 Madam President, the country from which I come or the legal system from which I come, the Prosecutor at the time of their submissions may say that they would listen to the Bench, in other words, after having submitted or filed their submissions, they would say, well, they have nothing else to say.  If the Prosecutor refuses to make oral submissions, they cannot apply same to the Defence.  In any case, the Prosecutor fulfilled their task on 26th -- 20th June.  Gacumbitsi is in prison.  The Prosecutor may decide not to say anything.  I, the Defence, I have things to say.  I have matters to bring before you, and the Prosecutor cannot impose on me their view of things.  I am here to defend; he is here to prosecute.  He says he will take one hour, and I am saying that I will take from nine to
- 5 p.m. tomorrow.  That is our position, and nobody can impose their position on the other party, especially as it is true that our interests are antagonistic.  And I do not think that at any point in time we were asked by your Trial Chamber to say how much time we will take or when we will make our submissions.  In any case, the Prosecutor should know that the case law before your Trial Chamber up to the Gacumbitsi case is such that after Prosecutor's closing arguments, the Defence is given time.  I do not want to make reference to any specific case, but in some cases -- in fact, that interruption was 48 hours; that is, after the Prosecutor's closing arguments, the Defence counsel started making their submissions only the following day, and in other cases, sometimes interruptions last about two days.  
+5 p.m. tomorrow.  That is our position, and nobody can impose their position on the other party, especially as it is true that our interests are antagonistic.  And I do not think that at any point in time we were asked by your Trial Chamber to say how much time we will take or when we will make our submissions.  In any case, the Prosecutor should know that the case law before your Trial Chamber up to the Gacumbitsi case is such that after Prosecutor's closing arguments, the Defence is given time.  I do not want to make reference to any specific case, but in some cases -- in fact, that interruption was 48 hours; that is, after the Prosecutor's closing arguments, the Defence counsel started making their submissions only the following day, and in other cases, sometimes interruptions last about two days.  
 We, in our specific case, respectfully, we are saying that we are ready to make our oral submissions tomorrow, the 2nd of March 2004, between 9 a.m. and 5 p.m. That is our position and that position is in conformity with the law.  We are not trying to depart in any manner whatsoever from your scheduling order.
 @MADAM PRESIDENT:
 Thank you, Counsel Kouengoua.  
@@ -21298,7 +21028,7 @@ Now, when that witness was asked why he or she was scared on the 13th, he said h
 And lastly, he said -- to conclude his statement with regard to the second day, Madam President, he said, "I am not going to lie.  Gacumbitsi did not know how to operate a firearm."  These are people who misled the Prosecution.  These are the slanderers who came before this Court, who came before this Court to do this man - unfortunately, for them it is not Gacumbitsi who was being prosecuted.  It is the bourgmestre of Rusumbizi -- Rusumo, because, in any case, what is highlighted is the position he occupied.  
 Madam President, Your Honours, I heard before this very Court this person say that on the 10th April they went to Kibungo military camp in order to receive weapons.  On the whole they received 105 crates of weapons.  I do not want to bring you back to the preliminary investigation where reference was made to crates, but in the Court the crates became boxes.  And then we asked, "How did you know that they were weapons?"  And the witness said, "I imagine what the other said."  And the other said, "I never told him anything about that."  The witness is going to change his statement, and the Prosecutor did say this morning, it is no longer the person whose name I am not going to mention, but since the Prosecutor said it this morning, it is Gaconda, Leonidas.  But Gaconda, Leonidas, is not a conseiller de secteur, and, therefore, could not attend the said meeting.  He was nothing.  And being unable to attend the said meeting, he could not know what was said in that meeting.  This is how an attempt was made to make up charges to be brought against Silvestre Gacumbitsi, and all the witnesses named by this person said that they were not aware of the distribution of weapons in their area.  
 Madam President, Your Honours, the other witness whom you all know and who, for reasons of safety, I do not intend to mention either his name or his pseudonym, but I would like the Trial Chamber to understand that during cross-examination that woman strongly testified before this Trial Court that she was disappointed.   She was disappointed to have been ... ... ... 
-           ... ... ... .  She was disappointed -- 
+... ... ... .  She was disappointed -- 
 @MR.KAREGYESA:
 Can that be expunged from the record?  Because Counsel earlier had made similar reference. 
 Your Honours, may I also advise -- you see that we are in an open session and these proceedings are being telecast live.  And if we aren't careful in expunging it from the transcripts, it can be done internally, but the proceedings here are on the air waves, and it compromises the security of our protected witnesses. 
@@ -21431,7 +21161,7 @@ Then you have five minutes.  You may wish to move and come in front here, of the
 @THE ACCUSED GACUMBITSI:
 As I did in the course of my testimony, I would like to address the Court in Kinyarwanda. 
 @MADAM PRESIDENT:
- (No interpretation) 
+(No interpretation) 
 @THE KINYARWANDA INTERPRETER:
 No problem. 
 @THE ACCUSED GACUMBITSI:
@@ -21463,14 +21193,8 @@ Very well.  Now, the proceedings in the matter of Prosecutor versus Sylvestre Ga
 The proceedings stand adjourned sine die.  The date of the delivery of the judgement will be disclosed to you subsequently. 
 $(Court adjourned at 1800H)
 $(Pages 58 to 63 by Karen Holm-Porter)
-
-
 #
-
-
-
-
- 17 JUNE 2004
+17 JUNE 2004
 1112H 
 @JUDGEMENT
 ^Before the Judges:
@@ -21491,10 +21215,6 @@ Ms. Anne Ngatio Mbattang
 Court Reporters:
 Ms. Diane Hermann
 Ms. Sherri Knox
-
-
-
-
 P R O C E E D I N G S
 @MADAM PRESIDENT:
 The proceedings are called to order.  Good morning, ladies and gentlemen.
@@ -21586,19 +21306,12 @@ That is the judgement delivered by this Trial Chamber in Arusha on 17th June 200
 We thank you all.  The proceedings stand adjourned. 
 $(Court adjourned at 1215H)
 $(Pages 10 to 12 by Diane Hermann)
-
-
 #
-
-
-
-
-@TUESDAY, 8 MARCH 2005
+TUESDAY, 8 MARCH 2005
 1635H
-@STATUS CONFERENCE
+STATUS CONFERENCE
 ^Before the Judge:
 Inés Monica Weinberg de Roca, Presiding
-
 For the Registry:
 Ms. Aminatta N'gum (DCDMS)
 Mr. Carlos Javier Ortega
@@ -21608,14 +21321,9 @@ Ms. Amanda Reichman
 Mr. Francois-Xavier Nsanzuwera	
 For the Accused Sylvestre Gacumbitsi:
 Mr. Kouengoua
-
 Court Reporters:
 Mr. Haruna Farage
 
-
-
-
-     
 P R O C E E D I N G S
 @MADAM PRESIDENT:
 Good afternoon.  The representative of the registry, could you read the case, please?  
@@ -21752,11 +21460,7 @@ Thank you, very much, Mr. Gacumbitsi.
 So then this Status Conference is adjourned.  Thank you all.  
 $(Court adjourn at 1710H)
 $(Pages 1 to 7 by Haruna Farage)
-
-
 #
-
-
 8 FEBRUARY 2006
 1400H 
 APPEAL
@@ -21766,7 +21470,6 @@ Judge Mehmet Güney
 Judge Liu Daqun
 Judge Theodor Meron
 Judge Wolfgang Schomburg
-
 For the Registry:
 Ms. Felicité T. Ahouandogbo
 Mr. Issa Touré 
@@ -21783,8 +21486,7 @@ Ms. Sherri Knox
 Ms. Judith Baverstock
 Mr. Rex Lear
 Ms. Kirstin McLean
-
-@ERRATA
+$ERRATA
 I, Rex Lear, Official Court Reporter for ICTR, hereby make the following corrections to the transcript of the 8th of February 2006, in the matter of the Prosecutor versus Sylvestre Gacumbitsi, Case No. ICTR-1-64-A.
 On the title page Osea should be Onsea	
 On page 31 line 14 Osea should be Onsea.
@@ -21822,7 +21524,7 @@ On page 42, Lines 18 THU should be TAQ
 On page 42, Lines 22 THU should be TAQ
 On page 42, Lines 27 THU should be TAQ
 On page 42, Lines 13, 14, 18, 22 and 27 TAQ should be THU
-@ERRATA
+$ERRATA
 I, Kirstin McLean, Official Court Reporter for ICTR, hereby make the following corrections to the transcript of the 8th of February 2006, in the matter of the Prosecutor versus Sylvestre Gacumbitsi, Case No. ICTR-1-64-A.
 1.	At page 46, line 15, "THU" should be "TAQ"
 2.	At page 46, line 33, "THU" should be "TAQ"
@@ -22325,12 +22027,9 @@ Yes, certainly.  Thank you, Your Honour.
 Thank you.  
 $(Court adjourned at 1800H)
 $(Pages 46 to 51 by Kirstin McLean)
-
-
 #
-
 9 FEBRUARY 2006
- 0903H 
+0903H 
 APPEAL
 ^Before the Judges:
 Judge Mohamed Shahabuddeen, Presiding
@@ -22338,7 +22037,6 @@ Judge Mehmet Güney
 Judge Liu Daqun
 Judge Theodor Meron
 Judge Wolfgang Schomburg
-
 For the Registry:
 Ms. Felicité T. Ahouandogbo
 Mr. Issa Toure
@@ -22355,8 +22053,7 @@ Mr. Rex Lear
 Ms. Kirstin McLean
 Ms. Sherri Knox
 Ms. Gifty C. Harding
-
-@ERRATA
+$ERRATA
 I, Kirstin McLean, Official Court Reporter for ICTR, hereby make the following corrections to the transcript of the 9th of February 2006, in the matter of the Prosecutor versus Sylvestre Gacumbitsi, Case No. ICTR-1-64-A.
 1.	At page 32, line 37, "THU" should be "TAQ"
 2.	At page 33, line 13, "THU" should be "TAQ"
@@ -22380,9 +22077,9 @@ Case. No. ICTR-01-64-A:
 7. Page 40, line 18, "adds" should be "erred".
 8. Page 41, line 16, "unreasonable" should be "only reasonable".
 9. Page 42, line 10, "area" should be "error".
-   Sherri Knox
-   Court Reporter
-   21 February 2006
+Sherri Knox
+Court Reporter
+21 February 2006
 P R O C E E D I N G S
 @MR.PRESIDENT:
 We're still on the appeals in the case of Gacumbitsi against the Prosecutor.  I take it that appearances are as they were yesterday.
@@ -22741,7 +22438,7 @@ Your Honour, I will go to the second error, which is an error of fact.  Your Hon
 If I can ask the booth for Powerpoint?  
 @MR.PRESIDENT: 
 What do you have in mind?
-  
+
 @MR.MUGWANYA: 
 I just wanted to show the facts very quickly, but if that's not possible I can just summarise them, the facts.  
 @MR.PRESIDENT: 
@@ -23191,7 +22888,7 @@ And, Mr. President, I ask that the Chamber now go into closed session, while I m
 Yes, Mr. Registrar. 
 $(At this point in the proceedings, a portion of the transcript [page 80] was extracted and sealed under separate cover, as the session was heard in camera)
 $(Pages 71 to 79 by R. Lear) 
- 
+
 @JUDGE SCHOMBURG:
 My question is just this, is it correct what Defence counsel submitted, that Prosecution knew already four years before filing the indictment in the case before us and the witness was heard one year beforehand and the first question would be, why wasn't the name of Mr. Murefu included in paragraph 12 of the indictment and, second, do you know whether or not Defence contacted this witness?  So this could be seen as an expression of being informed in a timely fashion, but this is, of course, for the Chamber to decide.
 @MR.WESTON:
@@ -23287,10 +22984,7 @@ No, Mr. President.
 That is the end of these proceedings; curia advisari vult.  We will announce our decision in due course.  On behalf of my colleagues and myself, I wish to thank both parties, as well as their able and distinguished counsel, for all the assistance they have given to the Bench.  We warmly appreciate that.  We would like, also, to thank the officials of the Court, including, very specially, the interpreters.  The Appeals Chamber of this Tribunal now stands adjourned. 
 $(Court adjourned at 1730H)
 $(Pages 82 to 89 by Kirstin McLean)
-
-
 #
-
 7 JULY 2006
 1100H
 JUDGEMENT
@@ -23354,7 +23048,7 @@ The Appellant's second legal challenge to his conviction for genocide pertains t
 However, the Appeals Chamber unanimously upholds the Appellant's conviction for "committing" genocide.  This is for two different reasons reached by differently constituted majorities.  First, the Appeals Chamber, Judges Liu and Meron dissenting, holds that any defect in the Indictment's pleading of the killing of Mr. Murefu was cured by the Prosecution's submission of a Chart of Witness, annexed  to its Pre-Trial Brief, in which the summary of the proposed testimony of Witness TAQ detailed the material facts concerning the killing of Mr. Murefu and specified that the witness's testimony was in relation to the genocide charge.  Thus, the Prosecution provided "timely, clear, and consistent information" sufficient to put the Appellant on notice of the charges against him.  Under established jurisprudence, this is sufficient to cure a defective Indictment.  
 Second, the Appeals Chamber, Judge Güney dissenting, also holds that even if the Appeals Chamber were to set aside the killing of Mr. Murefu, the remaining factual findings of the Trial Chamber would be sufficient to support a conviction for "committing" genocide.  The crime of genocide does not consist merely of killing, and an accused can participate directly and physical in genocide without personally killing another individual.  The Trial Chamber found that the Appellant was present at the scene of the Nyarubuye massacres and personally supervised them, including separating the Tutsi refugees from the Hutu so that they could be killed easily.  Taken together, these actions, which were clearly pleaded in the Indictment, amounted to "committing" genocide through direct participation. 
 Next, the Appellant raises a number of challenges to the findings of fact underlying his conviction for genocide.  Many of these amount to mere claims that the Prosecution's witnesses were not credible, that there were minor discrepancies in their testimony, or that their testimony contradicted evidence introduced by the defence, without showing that the Trial Chamber was unreasonable in crediting them.  Others are based on a misunderstanding of the Trial Chamber's holdings or reasoning.  The Appeals Chamber's reasons for rejecting each of these factual challenges are detailed in the Judgment and need not be discussed here. 
- For the foregoing reasons the Appeals Chamber dismisses this ground of appeal in its entirety. 
+For the foregoing reasons the Appeals Chamber dismisses this ground of appeal in its entirety. 
 @MR.PRESIDENT:
 Thank you, Judge Güney.  I shall now ask my distinguished colleague Judge Liu to count with the Appellant's third ground of appeal. 
 @JUDGE LIU:  
@@ -23379,16 +23073,15 @@ The Prosecution next argues that the Appellant should have been convicted for ai
 By majority, the Appeals Chamber (Judge Güney and Judge Meron dissenting), holds that the aiding and abetting theory was pleaded in the Indictment, that the Trial Chamber erred by failing to consider it, and that it should have convicted the Appellant of aiding and abetting murder.  
 The preamble to Count 4 of the indictment lists aiding and abetting among the ways that the Appellant committed murder.  This is in the course of quoting the provisions of Article 6(1) of the Statute, which is the Prosecution's longstanding practice.  The Appeals Chamber finds this language sufficient when taken in combination with subsequent paragraphs of the Indictment that detail the necessary material facts to support an aiding and abetting allegation; it notes that the Indictment must be taken as a whole.  Paragraph 36 states:  
 On a date uncertain during April - June 1994, 		
-      Sylvester Gacumbitsi personally ordered the  			
-      tenants in one of his homes to vacate the premises.  	
-      After announcing that his home was not CND, a 
-      reference to the cantonment of RPF soldiers in 		
-      Kigali, Sylvester Gacumbitsi ordered the killing of 	
-      his former tenants.  
+Sylvester Gacumbitsi personally ordered the  			
+tenants in one of his homes to vacate the premises.  	
+After announcing that his home was not CND, a 
+reference to the cantonment of RPF soldiers in 		
+Kigali, Sylvester Gacumbitsi ordered the killing of 	
+his former tenants.  
 Although the second sentence of this paragraph alleges that the Appellant directly ordered the killing, the first sentence alleges a distinct and lesser step - expelling the tenants from their home - that, taken into the context of other allegations in the Indictment detailing the ongoing genocidal campaign, amounts to aiding and abetting murder.  Moreover, although the Trial Chamber did not enter a conviction for aiding and abetting murder, it did enter findings of fact sufficient to support such a conviction.  It detailed the expulsion of the tenants, the statements of the Appellant, the context of the genocidal campaign, and the Appellant's involvement therein, and the killing of the tenants, and concluded that "the Accused expelled his tenants, Tutsi women, knowing that by doing so he was exposing them to the risk of being targeted by Hutu attackers on grounds of their ethnic origin."  On the basis of these findings of fact, the Appeals Chamber, by majority, will enter a new conviction for aiding and abetting murder.  This sub-ground of appeal is upheld.  
 Responsibility for rapes committed in Rusumo Commune the third ground of appeal.  Although the appellant was convicted of eight rapes under Count 5 of the Indictment, the Trial Chamber acquitted him of certain other rapes.  Under its third ground of appeal, the Prosecution argues that the Trial Chamber erred in law by requiring it to establish that the Appellant's instigation was a condition sine qua non of the commission of the rapes.  
 $(Pages 1 to 9 by Eleanor Bastian)
-
 1145H
 @JUDGE LIU: (continuing)
 The Appeals Chamber agrees with the Prosecution that there is no such requirement, but finds that the Trial Chamber did not hold otherwise.  It simply said there had to be a "causal connection", general language that is consistent with the correct requirement that instigation must have substantially contributed to the crime.  In this case, the Trial Chamber found no evidence of a link between the Appellant's words and the rape in question; that is, no link of any kind whether a substantial contribution or a sine qua non.  There was no error of law.
@@ -23465,8 +23158,3 @@ I now request the registrar to deliver copies of the judgement to parties in thi
 This hearing of the appeals Chamber of the International Criminal Tribunal for Rwanda stands adjourned.
 $(Court adjourned at 1215H)
 $(Pages 10 to 17 by Verna Butler)
-
-
-#
-
-@ICTR - APPEALS CHAMBER
