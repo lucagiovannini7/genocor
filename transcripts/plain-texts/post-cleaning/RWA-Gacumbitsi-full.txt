@@ -24,6 +24,8 @@ Ms. Gifty C. Harding
 Ms. Patricia Greig
 Ms. Judith Baverstock 
 #
+##
+
 28 JULY 2003
 0845H 
 TRIAL
@@ -269,6 +271,7 @@ Most obliged, Madam President, Your Honours.
 $WITNESS PATRICK FERGAL KEANE
 First having been sworn, 
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, what are your full names?
@@ -764,6 +767,7 @@ If there are no further comments, we shall adjourn, and we shall resume tomorrow
 $(Court adjourned at 1643H) 
 $(Page 45 by Judith Baverstock)
 #
+##
 4 AUGUST 2003
 0847H
 CONTINUED TRIAL
@@ -1782,6 +1786,7 @@ Registry, could you please hand this information sheet to the witness?
 $WITNESS TAK,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, you now have been given the personal information sheet; is that correct?
@@ -2779,6 +2784,7 @@ Very well. The hearing stands adjourned until tomorrow morning at 8:45.
 $(Court adjourned at 1706H)
 $(Pages 74 to 75 by Trish Greig)
 #
+##
 5 AUGUST 2003
 0847H 
 CONTINUED TRIAL
@@ -4244,6 +4250,7 @@ Very well, Mr. Prosecutor, please proceed with your submission.
 $(At this point in the proceedings, a portion of the transcript {pages 61 to 63} was extracted and sealed under separate cover, as the session was heard in camera)
 $(Pages 55 to 63 by Regina Limula)
 #
+##
 6 AUGUST 2003
 0847H
 CONTINUED TRIAL
@@ -5148,6 +5155,7 @@ Counsel, I would like to remind you that I have given you the floor to begin you
 @MR. KOUENGOUA:
 Thank you, Madam President.
 $WITNESS TAP: 
+##
 $CROSS-EXAMINATION BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Witness TAP, good afternoon.
@@ -6287,6 +6295,7 @@ In any case, we were supposed to hold hearings the whole week. It's true that Mr
 $(Court adjourned at 1735H)
 $(Pages 63 to 64 by Haruna Farage) 
 #
+##
 7 AUGUST 2003
 0845H 
 CONTINUED TRIAL
@@ -6315,6 +6324,7 @@ You are still under oath, and Counsel Kouengoua will continue the cross-examinat
 @MR. KOUENGOUA:
 Good morning, Madam President, Your Lordships, the Counsel for the Prosecution, the court stenographers and the interpreters.
 $WITNESS TAW: 
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
@@ -6507,6 +6517,7 @@ We thank you all.
 $(Court adjourned at 1205H)
 $(Pages 27 to 39 by Regina Limula)
 #
+##
 22 AUGUST 2003
 0900H
 CONTINUED TRIAL
@@ -6666,6 +6677,7 @@ So we going to adjourn the proceedings now. The proceedings will resume on Monda
 $(Court adjourned at 0956H)
 $(Pages to 9 to 11 by Verna Butler)
 #
+##
 25 AUGUST 2003
 0848H
 CONTINUED TRIAL
@@ -6727,6 +6739,7 @@ The Trial Chamber will order a closed session. We apologise to the public. The p
 $(At this point in the proceedings, a portion of the transcript [pages 3 to 73] was extracted and sealed under a separate cover as the session was heard in camera)
 $(Pages 1 to 2 by Haruna Farage)
 #
+##
 26 AUGUST 2003
 0845H 
 CONTINUED TRIAL
@@ -6864,6 +6877,7 @@ Prosecutor?
 $ALISON DES FORGES,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Could you please give the Chamber your full names?
@@ -6880,6 +6894,7 @@ We thank you, Prosecutor.
 Mr. Kouengoua, are you the one who will cross-examine this witness?
 @MR. KOUENGOUA:
 I thank you, Your Honour, Madam President. I thank you, Your Honours.
+##
 $CROSS-EXAMINATION BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Good morning, Dr. Alison Des Forges.
@@ -7844,6 +7859,7 @@ Very good. Thank you. The hearing stands adjourned until tomorrow morning.
 $(Court adjourned at 1700H)
 $(Pages 74 to 77 by Regina Limula)
 #
+##
 27 AUGUST 2003
 0855H
 CONTINUED TRIAL
@@ -7890,6 +7906,7 @@ The Trial Chamber never told you that you would be the only person to speak befo
 @MR. KOUENGOUA:
 Thank you, Madam President.
 $AlISON DES FORGES
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
@@ -8433,6 +8450,7 @@ We thank you, therefore, and we will meet tomorrow at 10 a.m. for the pre-Defenc
 $(Court adjourned at 1055H)
 $(Pages 17 to 26 by Karen L. Holm)
 #
+##
 28 AUGUST 2003
 1230H
 CONTINUED TRIAL
@@ -8475,6 +8493,7 @@ The hearing stands adjourned.
 $(Court adjourned at 1235H)
 $(Pages 20 to 21 by Regina Limula)
 #
+##
 6 OCTOBER 2003
 0845H
 CONTINUED TRIAL
@@ -8942,6 +8961,7 @@ Thank you, Witness.
 Madam Mobberley, you have the floor for the cross-examination of the witness. 
 @MS. MOBBERLEY:
 Thank you, Madam President. 
+##
 $CROSS-EXAMINATION BY MS. MOBBERLEY:
 @MS. MOBBERLEY:
 Good afternoon, Witness.
@@ -9157,6 +9177,8 @@ I have nothing further for the witness.
 Counsel Mbattang, do you have any additional questions for this witness? Do you wish to lead a re-examination?
 @MS. MBATTANG:
 $(Microphone switched off)
+##
+##
 $RE-EXAMINATION BY MS. MBATTANG:
 @MS. MBATTANG:
 Witness ZEZ, can you tell the Trial Chamber at what time, or approximately at what time you heard of the death of Alphonse Kanyagote?
@@ -9225,6 +9247,7 @@ $(Witness excused)
 $(Court adjourned at 1712H)
 $(Pages 68 to 69 by Regina Limula)
 #
+##
 7 OCTOBER 2003
 0850H
 CONTINUED TRIAL
@@ -9547,6 +9570,7 @@ Madam President, Your Honours, I have completed my examination-in-chief of this 
 @MADAM PRESIDENT:
 Thank you, Counsel. 
 Mr. Prosecutor, you may now proceed with your cross-examination.
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, you have just told this Chamber that prior to the killings at Nyarubuye parish people were separated before being killed. Were you there when the separation was taking place?
@@ -9933,6 +9957,7 @@ We thank counsel for the Prosecution.
 Do you wish to re-examine the witness? 
 @MR. KOUENGOUA:
 Yes, Madam President. Thank you, madam.
+##
 $RE-EXAMINATION BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Witness UHT, were you of the same ethnic group as your spouse? 
@@ -10366,6 +10391,7 @@ Very well, we adjourn until tomorrow at 8:45 a.m.
 $(Court adjourned at 1230H)
 $(Pages 40 to 41 by R. Lear)
 #
+##
 8 OCTOBER 2003
 0845H
 CONTINUED TRIAL
@@ -10439,6 +10465,7 @@ Thank you, Madam President.
 $WITNESS ZIZ,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Protected Witness --
@@ -10871,6 +10898,7 @@ The hearing will now resume.
 Madam Mobberley, Counsel Mobberley, you now have the floor for cross-examination.
 @MS. MOBBERLEY:
 Thank you, Madam President. 
+##
 $CROSS-EXAMINATION BY MS. MOBBERLEY:
 @MS. MOBBERLEY:
 Mood morning, Witness.
@@ -11322,6 +11350,7 @@ We will now adjourn until tomorrow or the day after, according to how things go.
 $(Court adjourned at 1240H)
 $(Pages 34 to 40 by Gifty C. Harding)
 #
+##
 13 OCTOBER 2003
 0845H 
 CONTINUED TRIAL
@@ -11712,6 +11741,7 @@ Madam President, Your Honours, I have no further questions for this Witness.
 @MADAM PRESIDENT:
 Thank you, Counsel. Counsel for the Prosecution you have the floor. You may proceed to 
 cross-examination
+##
 $CROSS-EXAMINATION BY MS. MOBBERLEY:
 @MS. MOBBERLEY:
 Witness, in April 1994, your identity card identified you as a Hutu, didn't it?
@@ -12087,6 +12117,7 @@ Is there a problem with the booth -- or we heard the Rwandan? Can you try again?
 Madam President, I believe that the problem has been resolved.
 @MADAM PRESIDENT:
 You may proceed, Counsel.
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, can you please move closer to the microphone? Witness, is it true that you fled Rwanda for Tanzania on the 13th of April 1994?
@@ -12450,6 +12481,7 @@ Counsel for the Prosecution, you may proceed with cross-examination of the witne
 Thank you, Madam President.
 @MADAM PRESIDENT:
 It's Madam Counsel. Forgive me.
+##
 $CROSS-EXAMINATION BY MS. MOBBERLEY:
 @MS. MOBBERLEY:
 Good afternoon, Witness.
@@ -12882,6 +12914,7 @@ Madam President, Your Honour, I have no further questions for this witness. I th
 @MADAM PRESIDENT:
 We thank you, Counsel. 
 Mr. Prosecutor, you may now proceed with the cross-examination of the witness.
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, good afternoon?
@@ -13405,6 +13438,7 @@ Fine, we note that all of the parties are in agreement for everything to be gone
 $(Court adjourned at 1753H)
 $(Pages 75 to 76 by Donna M. Lewis)
 #
+##
 15 OCTOBER 2003
 0846H
 CONTINUED TRIAL
@@ -13851,6 +13885,7 @@ Very well, then. We will now briefly adjourn, as is our custom, which will also 
 $(Court recessed from 1055H to 1120H)
 @MADAM PRESIDENT:
 Very well. Let us now resume. Counsel for the Prosecution, pray proceed with cross-examination.
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, can you please move forward? Witness, what level of education did you attain before joining your professional occupation?
@@ -14802,6 +14837,7 @@ Very well. We have now reached the end of our day, it is 5:25 p.m., and we shall
 $(Court adjourned at 1725H)
 $(Pages 76 to 79 by Donna M. Lewis)
 #
+##
 16 OCTOBER 2003
 0845H
 CONTINUED TRIAL
@@ -14833,6 +14869,7 @@ Counsel for the Prosecution, you are proceeding with the cross-examination of th
 @MR. KAREGYESA:
 Thank you, Madam President.
 $WITNESS YEW: 
+##
 $CROSS-EXAMINATION BY MR. KAREGESA:
 @MR. KAREGYESA:
 Witness, are you fluent in the French language?
@@ -16381,6 +16418,7 @@ Madam President, I have no further questions to put to this witness.
 @MADAM PRESIDENT:
 Thank you, Counsel Mbattang. 
 Counsel for the Prosecution, please, you may now start cross-examining the witness.
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MS. MBATTANG:
 Witness, it's correct, isn't it, that between the 7th and 17th of April 1994, you did not see Accused Gacumbitsi?
@@ -16441,6 +16479,7 @@ The session is adjourned.
 $(Court adjourned at 1650H)
 $(Pages 63 to 64 by Donna M. Lewis)
 #
+##
 20 OCTOBER 2003
 1206H
 CONTINUED TRIAL
@@ -16565,6 +16604,7 @@ Very well, then. Everyone, all parties, are in agreement. We shall resume tomorr
 $(Court adjourned at 1240H)
 $(Pages 1 to 8 by Diane Hermann)
 #
+##
 21 OCTOBER 2003
 0845H 
 CONTINUED TRIAL
@@ -16803,6 +16843,7 @@ You may now proceed, Counsel.
 $WITNESS NG2,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Good day, Witness NG2.
@@ -17081,6 +17122,7 @@ Yes, I came here from Rwanda.
 Madam President, Your Lordship, I have finished the examination-in-chief. Thank you for your attention.
 @MADAM PRESIDENT:
 Thank you, Counsel Kouengoua. Madam Prosecutor, or is it Mr. Prosecutor? Counsel for the Prosecution, do you wish to undertake cross-examination of the witness?
+##
 $CROSS-EXAMINATION BY MS. MOBBERLEY:
 @MS. MOBBERLEY:
 Witness, on the 8th of April as Rukira commune was burning, you were able to wander freely, weren't you, all the way to Rusumo commune?
@@ -17459,6 +17501,7 @@ We thank everyone, and this session is adjourned, unless there are any other que
 $(Court adjourned at 1735H)
 $(Pages 83 to 84 by Judith Baverstock) 
 #
+##
 17 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -17699,6 +17742,7 @@ Well then, Counsel, we are going into close session, and we crave the indulgence
 $(At this point in the proceedings, a portion of the transcript [pages 18 to 37] was extracted and kept under seal as the session was heard in camera)
 $(Pages 14 to 17 by Gifty C. Harding)
 #
+##
 18 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -17957,6 +18001,7 @@ The witness indeed said that she returned to Rwanda in 2003.
 The problem came from the microphone. Thank you. 
 @MADAM PRESIDENT:
 Counsel for the Prosecution, you may proceed to cross-examine the witness. 
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, between the 7th of April and the 14th of April 1994, when you fled, it would be true, isn't it, that you did not go to Rwanteru? 
@@ -17996,6 +18041,7 @@ Counsel Mbattang, would you like to re-examine the witness?
 Just one question, Madam President.
 @MADAM PRESIDENT:
 Go ahead, Counsel. 
+##
 $RE-EXAMINATION BY MS. MBATTANG:
 @MS. MBATTANG:
 Witness XW15, how did you come to know about the fact that there were refugees in Rwanteru? 
@@ -18072,6 +18118,7 @@ I don't think there is any reason to get upset, Counsel. We asked for the inform
 $(Court adjourned at 1550H)
 $(Pages 7 to 17 by Mark Porter)
 #
+##
 19 NOVEMBER 2003
 1443H
 CONTINUED TRIAL
@@ -18156,6 +18203,7 @@ Thank you, Madam President, Your Lordships.
 $PASCAL BYRON NDENGEJEHO,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Professor Pascal Ndengejeho, good afternoon.
@@ -18229,6 +18277,7 @@ We have taken due note, and the session is adjourned until tomorrow.
 $(Court adjourned at 1636H)
 $(Pages 3 to 8 by Sithembiso Moyo
 #
+##
 20 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -18449,6 +18498,7 @@ We will now adjourn until tomorrow at 2:30 p.m.
 $(Court adjourned at 1545H)
 $(Pages 1 to 14 by Karen Holm-Porter)
 #
+##
 21 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -18529,6 +18579,7 @@ Thank you, Madam President, Your Honours.
 $SYLVESTRE GACUMBITSI,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
 Mr. Sylvestre Gacumbitsi, good afternoon. 
@@ -19397,6 +19448,7 @@ The proceedings are adjourned.
 $(Court adjourned at 1820H)
 $(Pages 38 to 40 by Karen Holm-Porter)
 #
+##
 24 NOVEMBER 2003
 1430H 
 CONTINUED TRIAL
@@ -19434,6 +19486,7 @@ Try to finish as soon as possible. If you can take less than 50 minutes, we will
 @MR. KOUENGOUA:
 Thank you, Madam President. 
 @SYLVESTRE GACUMBITSI:
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. KOUENGOUA:
 @MR. KOUENGOUA:
@@ -19832,6 +19885,7 @@ Before you go, are you likely to finish today?
 Yes, thank you. 
 @MADAM PRESIDENT:
 Counsel for the Prosecution, wait. Sorry. Anyhow, Counsel Mbattang is there, so pray proceed with cross-examination. I think Counsel Kouengoua is not here but Counsel Mbattang is present. 
+##
 $CROSS-EXAMINATION BY MR. KAREGYESA:
 @MR. KAREGYESA:
 Witness, it's correct you were a teacher for approximately 20 years between 1963 and 1983, isn't it? 
@@ -20589,6 +20643,7 @@ Very well. We are adjourning now and we will resume tomorrow at 2:30, hoping tha
 $(Court adjourned at 1806H) 
 $(Pages 36 to 43 by Sithembiso Moyo)
 #
+##
 1 MARCH 2003
 0905H 
 CLOSING ARGUMENTS
@@ -21190,9 +21245,11 @@ The proceedings stand adjourned sine die. The date of the delivery of the judgem
 $(Court adjourned at 1800H)
 $(Pages 58 to 63 by Karen Holm-Porter)
 #
+##
 17 JUNE 2004
 1112H 
 #
+##
 $JUDGEMENT
 ^Before the Judges:
 Andrésia Vaz, Presiding
@@ -21304,6 +21361,7 @@ We thank you all. The proceedings stand adjourned.
 $(Court adjourned at 1215H)
 $(Pages 10 to 12 by Diane Hermann)
 #
+##
 TUESDAY, 8 MARCH 2005
 1635H
 STATUS CONFERENCE
@@ -21457,6 +21515,7 @@ So then this Status Conference is adjourned. Thank you all.
 $(Court adjourn at 1710H)
 $(Pages 1 to 7 by Haruna Farage)
 #
+##
 8 FEBRUARY 2006
 1400H 
 APPEAL
@@ -22024,6 +22083,7 @@ Thank you.
 $(Court adjourned at 1800H)
 $(Pages 46 to 51 by Kirstin McLean)
 #
+##
 9 FEBRUARY 2006
 0903H 
 APPEAL
@@ -22979,6 +23039,7 @@ That is the end of these proceedings; curia advisari vult. We will announce our 
 $(Court adjourned at 1730H)
 $(Pages 82 to 89 by Kirstin McLean)
 #
+##
 7 JULY 2006
 1100H
 JUDGEMENT
