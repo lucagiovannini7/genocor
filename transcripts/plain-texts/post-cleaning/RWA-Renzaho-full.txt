@@ -919,7 +919,7 @@ It's something which Your Honours may want to comment on. We -- I think we all r
 I would also remind my learned friend of -- I think Your Honour made a suggestion during the status conference in December that if there were some passages which needed translation, as it were, then they could perhaps be done by way of an in-court translation. And that's certainly, I think, a proposal which has been done successfully in the past. 
 So I think those are the matters so far as we are concerned. We have witnesses here. Yes, we have had to change the order, as is often the case, but we aren't bringing witnesses forward from three or four weeks hence. All these witnesses are witnesses who were due to testify this week. So in terms of any prejudice, we've tried to bring the matter to the attention to (sic) the Defence as soon as we were able. 
 Unless Your Honour has any questions, those are my submissions. 
-@MR. PRESIDENT; 
+@MR. PRESIDENT: 
 Thank you. 
 Defence, any additional comments? 
 @MR. CANTIER:
@@ -4644,7 +4644,7 @@ Thank you very much. Re-examination?
 Mr. Mussa and Judge Arrey are very kindly reminding me that you also used the 30th of November transcripts. So don't you want that portion exhibited? Now you have only identified the pages in the 26th January -- I meant January, not November. So you referred to the portions from the 26th of January, but you also proceeded with the second day of the witness testimony in Mr. Zig's case. And you may wish to also enter those portions. 
 @MR. NEKUIE: 
 Mr. President, I thought I had already entered all the transcripts of the witness's testimony on the 26th and the 30 of January 2006. All of the transcripts, as Exhibit D. 1. I used excerpts thereof. But in order for me to avoid any mistakes, I decided to tender all the transcripts of the witness's testimony in the Zigiranyirazo case. 
-@THE PRESIDENT:
+@MR. PRESIDENT:
 But perhaps you did that in French and not in English. That is the problem. Because in English we discussed only the 26th, but now we know full well that you proposed to tender the two versions of the transcripts. That is noted. We are referring to the entire transcript. Is that correct? 
 @MR. NEKUIE: 
 Well, Mr. President, what I can propose is that subsequently I will avail the Court with precise information regarding the portions which I used and which I will hand to the registry in the French and the English versions. 
@@ -13653,7 +13653,7 @@ $(Exhibit No. D. 26A and D. 26B admitted, under seal)
 Mr. Witness, you will be referred to as Witness AWN in these proceedings -- 
 @MR. MOSES:
 No, Your Honour, he's under a different pseudonym. 
-@THE PRESIDENT:
+@MR. PRESIDENT:
 You will not be referred to as Witness AWN in these proceedings, Mr. Witness, you will be referred to as Witness UI in these proceedings. You have to tell the truth and the registry will now take your solemn declaration. 
 $(Declaration made by Witness UI in Kinyarwanda)
 @MR. PRESIDENT:
