@@ -27,8 +27,6 @@ for line in lines:
         new_lines.append(line)
 
 
-
-
 # Write the modified content to a new file
 with open('output_lawyers.txt', 'w') as file:
     file.writelines(new_lines)
