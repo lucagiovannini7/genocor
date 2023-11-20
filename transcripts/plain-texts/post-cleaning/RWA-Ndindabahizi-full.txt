@@ -3,7 +3,7 @@
 #
 1 SEPTEMBER 2003
 1410H
-@TRIAL
+TRIAL
 ^Before the Judges:
 Erik Møse, Presiding
 Khalida Rachid Khan
@@ -7461,7 +7461,7 @@ Yes, that would be well appreciated, Your Honour.
 @MR. PRESIDENT:
 All right. We'll then take the 15-minutes break and then we start with the next witness whose pseudonym is, please? 
 @MR. KAPAYA:
-@CGL. 
+CGL. 
 @MR. PRESIDENT: 
 Thank you very much. 
 Court is adjourned.
@@ -9834,7 +9834,7 @@ Thank you, Mr. Witness.
 That is all, Your Honours.
 @MR. PRESIDENT:
 So, Mr. Witness, was your eyesight normal in 1994; is that what you are saying?
-@MR. WITNESS:
+@WITNESS CGL:
 Yes -- no, I didn't have any problem with my eyesight.
 @MR. PRESIDENT:
 You saw Karegeya being killed; did you?
@@ -14770,7 +14770,7 @@ Can you be more precise?
 No, I have no specific date.
 @MR. PRESIDENT:
 First or second half of April?
-@MR. WITNESS:
+@WITNESS DL:
 It was in the middle of the month of April.
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -24160,7 +24160,7 @@ Perhaps we'll get to it later, because I have some more questions for you. I hav
 Mr. President, I'm not sure if I should continue in my examination-in-chief at this time.
 @MR. PRESIDENT:
 That's a very good point. Now, your reference to Alison Des Forges, Mr. Witness, that is page 230 of Leave None To Tell The Story book, that's the source, the quote you are emphasising in your report is page 230 of the book now entered as D. 49, isn't that so?
-@MR. WITNESS:
+@WITNESS LUGAN:
 Yes, Mr. President. Page 230, and on that page Alison Des Forges speaks of the beginning of that meeting of 8 of April, which started early in the morning. In her report she says the same thing, by the way. She confirms that in her report, but -- which is also confirmed by my own information. She is completely right. The whole question is to know whether it was 8 or 9 in the morning, but --
 @MR. PRESIDENT:
 So, in other words, you are commenting on page 14 of her report, page 230 of her book, and you are saying that these two quotes are the same, that is the situation we are confronted with, yeah?
