@@ -11060,7 +11060,7 @@ Is it CGP?
 No, no. We gave the pseudonym to him, thinking he was the person we wanted to talk to. So that is why he is called CGP, but CGP actually belongs to 23rd September. The person we thought was CGP, yes, Your Honour, so to answer your question, the person we thought was CGP, yes.
 @MR. PRESIDENT:
 Turning now to the substance of these documents.
-@MR. ADEOUN-PHILLIPS:
+@MR. ADEOGUN-PHILLIPS:
 Your Honour, yes.
 @MR. PRESIDENT:
 Now, does the substance come from the same person or from two different persons?
@@ -19442,7 +19442,7 @@ Who was manning this roadblock?
 There was a young man called Sumayire Minani and another one called Nbonyubwe.
 @MR. BESNIER:
 Can witness or the Kinyarwanda interpreters, are you able to spell this name for the Court?
-@THE INTERPRETER:
+@THE KINYARWANDA INTERPRETER:
 Minani, M-I-N-A-N-I. Sumayire is S-U-M-A-Y-I-R-E. Nbonyubwe N-B-O-N-Y-U-B-W-E.
 @MR. BESNIER:
 Thank you.
@@ -20603,7 +20603,7 @@ Can you tell me the names of two or three people that you are aware of as having
 Indeed, I gave those names to the prosecutor's office. It's not just two people. I remember talking of certain André Rurakaza; a certain Sarambuye; Rusingiza; and a young man called Claudien. I testified regarding the death of those persons so that the authorities could identify them, but I played no role in their deaths, nor did the people who were with me.
 @MR. ADEOGUN-PHILLIPS:
 Could we have those names spelled into the record, please?
-@THE INTERPRETER:
+@THE KINYARWANDA INTERPRETER:
 Let's begin with Sarambuye, S-A-R-A-M-B-U-Y-E. André Rurakaza, R-U-R-A-K-A-Z-A. Rusingiza, spelled R-U-S-I-N-G-I-Z-A, and Claudien, C-L-A-U-D-I-E-N.
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -20836,7 +20836,7 @@ Good afternoon, Counsel.
 Would you be able the tell us the commune in which you are detained, Witness?
 @WITNESS DR:
 No problem. I can tell you the name of my commune. That is the commune in which I was born. 
-@THE INTERPRETER:
+@THE KINYARWANDA INTERPRETER:
 Interpreter's mistake.
 @WITNESS DR:
 I was born in the Gitesi commune.
@@ -22428,7 +22428,7 @@ $Pages 1 to 5 by Petrus Chijarira)
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Thank you for that. Finally, sir, is it your testimony that you were detained for some four years before your release?
-@THE INTERPRETER:
+@THE KINYARWANDA INTERPRETER:
 Counsel, could you repeat that question?
 @WITNESS DR:
 Well, it's difficult to say that it's really four years because ****************- that is approximately four years. Yes, you're right.
@@ -22454,7 +22454,7 @@ Thank you very much. Prosecution Exhibit 44 under seal.
 $Exhibit No. P. 44 admitted, under seal)
 @MR. PRESIDENT:
 No re-examination? Thank you.
-@THE INTERPRETER:
+@THE KINYARWANDA INTERPRETER:
 Microphone, please.
 @MR. PRESIDENT:
 This person who may wrongly have accused Mr. Ndindabahizi of something, do you have an explanation why he did so, the person who boasted about what he had done?
@@ -24584,7 +24584,7 @@ Mr. Prosecutor, this is where the Internet fails, once again, because documentat
 What I'm telling you now is that on the transcripts on the testimony of a witness, Professor Chrétien, in the Nahimana case -- these are proceedings dated the 5th of July 2002 -- he was asked about you and these are his comments, your fellow professor.
 @MR. KAPAYA:
 Now, let me provide the others with the material I'm talking about and the professor for his comments. 
-@THE INTERPRETER:
+@THE FRENCH INTERPRETER:
 If the interpreters could be availed a copy, please.
 @MR. KAPAYA:
 Your Honours, then professor, and members of the Defence, this is a set of documents, they are transcripts and downloads from the Internet which support the basis upon which I'm asking the professor these questions.
@@ -24817,7 +24817,7 @@ Second and third paragraphs.
 @WITNESS LUGAN:
 Counsel, the translation in English is very good, but it seems to hack up my thinking. In French, yes, yes, the meaning is there, but the nuance is absent. What do I say? 
 In French I say the following: "In Rwanda the -- 
-@THE INTERPRETER:
+@THE FRENCH INTERPRETER:
 Could the interpreters be given the paragraph, this is for the English for the interpreter, please. Could he repeat the beginning of the paragraph, please, in French?
 @MR. PRESIDENT:
 Now, settle down. Exactly on where we are now, we disagree exactly on where we are now. Now, you have, haven't you, Mr. Kapaya, referred to page 11, second, third paragraph in the English version. Isn't that so, does it start with "From this moment on", or "In Rwanda"?
@@ -24829,7 +24829,7 @@ I understand that. But if you could kindly repeat the first word of the paragrap
 "In Rwanda".
 @MR. PRESIDENT:
 So "In Rwanda" And for the booth, then, have you found it? That is page 11 of the French version (no interpretation), isn't it, at the bottom there, (no interpretation) is found?
-@THE INTERPRETER:
+@THE FRENCH INTERPRETER:
 Yes, Mr. President.
 @MR. PRESIDENT:
 So now we all have it. 
@@ -25018,15 +25018,15 @@ Ms. Shannon Eboe-Osuji
 Ms. Roxane Lane
 @MR. PRESIDENT: 
 Good afternoon. The Court is in session. Good afternoon, Mr. Ndindabahizi.
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Good afternoon, Mr. President.
 @MR. PRESIDENT:
 How do you think you could kindly give us your date of birth, please?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Yes. I was born in 1950.
 @MR. PRESIDENT: 
 Do you recall the month and the day if possible?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 No, Mr. President. It was in 1950. This is what I found in my documents. There was no mention of any month or day.
 @MR. PRESIDENT: 
 That's quite all right. Now you have to tell the truth and the registry will take your solemn declaration
@@ -25172,7 +25172,7 @@ And, do you know by whom, who murdered them?
 Well, sister, Nyiranteziryayo, Adella, talked to me about it when we met in June 1994, and she was the one that was the first who told me that Uwera's children, two of them, had been killed by one fellow whose father she knew, but you would appreciate that when we were here recently in this courtroom, one of the witnesses told us that it was he himself that murdered them. So that the witness that stood here did corroborate that he killed them. I heard him say so. So my sister did mention that to me too.
 @JUDGE KHAN:
 All the children were murdered?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 I was told that two children were murdered. No, no, Your Honour, I said that there were ten children from my sister, but the two were Uwera's children, that is Uwera's -- my sister's sister. So the children of my sister's younger sister. Now, when I was asked how many children they were, I said ten and I was then told that one wanted to know whether among the ten some of them married any Tutsis, and that is the time I talked about Uwera. Uwera had two children who were murdered. Uwera had two children. So it was her grandchildren. 
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -25347,11 +25347,11 @@ Did you work in another branch office for Trafipro?
 No. I didn't work in any branch office. I worked in the general director's office. I was head of the finance division. I wasn't in the stores. The stores were the managers' vendors. I was not a vendor; I was head of the finance department in Kigali.
 @MR. PRESIDENT: 
 But you mentioned that you had been or had an internship; was it so?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Yes. Yes, indeed, Mr. President. 
 @MR. PRESIDENT:
 Where was that please? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 That was in 1975 at the accounting department of Trafipro in Kabgayi. After that - - after my degree, I went directly to that division. And I became head of that division at the end 1976. 
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -25360,19 +25360,19 @@ Did you ever do any auditing in any other branch offices of Trafipro in Rwanda?
 I was not an auditor. I was head of the finance section, but I was not an auditor. There was another division; there was the sales division and made the audits in the branch offices. So the organisation chart is very clear. There is a parallel directive to my division and that was the sales or divisional services. That division did audit in the stores. They had auditors and they moved about from branch to branch to conduct their audit. My finance division did not have those responsibilities. We were not charged with auditing the stores. Therefore, I didn't have that authority to go into the stores nor did my employees. We were not auditors. Anything that came from the stores went to the auditors of the auditing papers and there was a sales division that took care of that. My employees and I did not have the right to audit the stores. I don't know if that is clear to you, Counsel.
 @JUDGE KHAN:
 Mr. Witness, you mean to say you never remained a salesman?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Yes, that is correct.
 @MR. PRESIDENT: 
 Did you ever visit any Trafipro local department in the Kibuye area?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 No. I did not go into the branches. The head of sales and the auditors in the sales department had that mission. They were in charge of auditing the stores and branches. I did not have the responsibility for auditing stores and the branch offices. I did not therefore go into them.
 @MR. PRESIDENT: 
 That leaves us the auditing issue: Did you ever visit that area and in particular the Trafipro department in that geographical area? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 There was only one Trafipro store in Kibuye. In fact, in general, there was one per préfecture, they weren't many. So my responsibility was not to go into the stores to the branches. So I did not visit them. There were auditors in the sales division who did that work. My work was at the office in the finance department. We waited for reports given to us by those who were responsible for gathering the data, from those who were responsible for conducting the audit, that is to say, the sales division.
 @JUDGE BOSSA:
 What were your duties as head of finance department?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 I had to supervise the accounting. I have the chief accountant working for me as well as his deputy. At one point, I even had an advisor, a Swiss advisor, and I had the chief of office who bought supplies the office, he was in charge of procurement for the office. I also had a secretary but our duties - - our main duty was to supervise the accounting operation and their accountants. 
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -25404,7 +25404,7 @@ What were your duties at Kigali electro gas?
 It was basically the same responsibilities as at Trafipro. Some things were different. I was head of the administrative and financial departments at electro gas. 
 @JUDGE KHAN:
 Mr. Witness, when were you transferred to electro gas? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 At the end of 1981, right after I left Trafipro. 
 @JUDGE KHAN: 
 Thank you.
@@ -25421,11 +25421,11 @@ Counsel, no, I didn't. I did not work for Bralrwa. I knew about Bralirwa, but I 
 Mr. President, you will remember that a Prosecution witness stated that Mr. Ndindabahizi worked at Bralirwa. We asked that company to give us a document and they gave us a certificate according to which -- which shows that Mr. Ndindabahizi never worked for that company Bralirwa, and I would like to hand it to the Registry.
 @MR. PRESIDENT: 
 Just to be on the safe side, Mr. Witness, is Bralirwa a private or semi-public or a public company? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Bralirwa is a private company. It is a -- it brews beer and makes lemonade.
 @MR. PRESIDENT:
 And the owners of that company, is that - - I understand that it may well be associated under another name according to the -- 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Yes, I did not work in that company. I don't have much information regarding its shareholders and its capital and the make-up of that. I am sorry, Mr. President, for not having that information.
 @MR. PRESIDENT: 
 So this is the attestation from Bralirwa then taken on the 14th of September 2003, D. 59. 
@@ -26336,7 +26336,7 @@ Very well, the second question that comes up is that you found your child and yo
 @EMMANUEL NDINDABAHIZI:
 You've asked me that question since yesterday. And counsel for the Prosecution also asked Lugan, the expert Lugan that question, "Why didn't Ndindabahizi flee? He had just gotten a car, he was protected by a gendarme, he should have taken advantage of that occasion to flee." What I tell you to that is that if you knew what was going on in Kigali where we were, if you knew what was going on, on the road that I was travelling on -- do I know what is going on everywhere throughout in Kigali, because to get out you have to get out of Kigali. The RPF was present; they had surrounded the city. There were killers running about the city killing people. There were roadblocks erected by those killers and by Presidential Guard soldiers. I was running a risk of running into those people. Once again, it was total insecurity. 
 And then a friend, a member of our party, who gave me his car -- he was with his wife and his children. He stayed at the Hotel des Diplomate. So, was I to leave with his car and abandon him there with his children? That would be too egocentric. He gave me a vehicle. Did he do it so that I could flee? How much petrol was still in the tank? With that much petrol how far could I go and with a gendarme, a gendarme assigned to me by Rafiki? If I decide to flee, will that gendarme agree to accompany me as I flee? Would he agree to do that? I don't know.
-@THE INTERPRETER:
+@THE FRENCH INTERPRETER:
 There's some static in the microphone and apparently it's the paper in front of the microphone. The French interpretation is asking that -- no, no it's just because the paper, as you are touching it, is making noise. It's not that there is something written on it. That's not what we are saying. It's just that the noise comes through the microphone.
 @EMMANUEL NDINDABAHIZI:
 He's saying that I'm handling the papers.
@@ -26992,15 +26992,15 @@ $Pages 21 to 29 by Roxane Lane)
 1630H
 @MR. BESNIER: 
 Yes, Mr. President. 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 The first document I am referring to is document 3, document 3, which says we had on this day of 3oth of November 1996, from 1620H to 1900H, 1900H, we still had Mr. Ndindabahizi, former minister of the interim government. This is a document that contains erasures hand-made erasures, Mr. President said that the names of the investigators, I just gave are different from these ones. I am saying that this document of the 30th of November 1996, doesn't show the names of the investigators. I do not even see my signature. I see that the document was corrected by hand; these are mistakes or the anomalies that I have pointed out. And, this document that I am referring to, I know this document even if some of the contents that are to be corrected because I did not see it and I did not sign it. It was Mr. Gilbert - - Mr. Haruna that were with me so that their names should be mentioned here together with my signature had I seen the document beforehand. As far as the others are concerned, for the other document since there are other documents are in English and French, the other document is the minutes of a meeting of the former minister of finance, Emmanuel Ndindabahizi from the 8th to the 11th of July, 1st, 2nd and 3rd August 1997 by Shadely and Drack (phonetics) and I do not know these people but I know that there were people who came to see me in Nairobi but, and who were members of the team that was working in Nairobi and who were telling me that they wanted some information concerning funding of finances, how we managed our funds in 1994. And it was that team that was working with Cherebe, and it was Juveal, who was in charge of the Nairobi team. He was the one working within that Rwandan, and he was the one that brought in the other teams that were specialised in one or the other respect. That is it, Mr. President.
 @MR. PRESIDENT: 
 And now we have identified the two documents and these are the two we are referring to now. Isn't that so? There are no other documents from interviews that you are referring to, these are the two? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Mr. President, is that question for me?
 @MR. PRESIDENT: 
 We want to make sure that we are on the same wavelength now because you started talking about interviews and documentation. And now after this useful exchange I am asking you whether you are actually referring to these two documents and those are the ones and no one else. These are the results of the interviews with the investigators; is that so? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 The problem, Mr. President, is that I did say that I was with those people from 1996 to 1998 and that they only opted for several dates to introduce as evidence against Ndindabahizi here. Perhaps they were all the interviews that should come in on cross-examination, and I don't know why they chose only these documents here. They were the ones that took notes. Perhaps I would have also tendered manuscripts that I prepared because I was taking notes. I did not know that they were recording me; they did not even afford me the opportunity of checking what I said. Those people never gave me the opportunity and they made use of the fact that I assisted them to accuse me by using documents I had prepared myself.
 @MR. PRESIDENT: 
 So, Defence Counsel, just to avoid lack of clarity now, these are the two the Chamber knows about; isn't that so? We don't have anything else so far.
@@ -27012,7 +27012,7 @@ I did not need to have an explanation of what Mr. Ndindabahizi is saying. He was
 That is correct, Mr. President.
 @MR. PRESIDENT: 
 And who made these changes on that document KO184935, the document where there are no investigators' signatures? Is that then investigators' notes, or do you know that Mr. Ndindabahizi where these corrections come from, the handwritten ones?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Mr. President, I believe that it is the Prosecutor that tendered this document. He should answer that question. It is the Prosecutor that tendered this document. He should be allowed to respond to that question if the response is not correct. I should beg leave to intervene, but I believe it is the Tribunal's investigators that prepared this document. This is not my handwriting, Mr. President.
 @MR. PRESIDENT: 
 That was the point. So that was not your handwriting. Thank you very much. This clarifies the matter.
@@ -27047,11 +27047,11 @@ This is all the for the examination-in-chief, Mr. President.
 @MR. PRESIDENT: 
 Thank you very much. 
 Mr. Ndindabahizi, so the period with the investigators went from September 1996 until - - until when you stopped cooperating, or when they stopped cooperating? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 The first contacts were in September 1996 and it ended in 1998, 1998 it was not all the time that we talked, sometimes they would call me over the telephone, but it was during that period that it was between 1996 and 1998 when it all ended.
 @MR. PRESIDENT: 
 And apart from the trip outside Rwanda, in 1994 from the 11th to the 17th of May, did you travel outside Rwanda apart from those six days? 
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Outside the country, Mr. President, it was only from the 11th to the 17th of May 1994, Mr. President. As for the rest of the year, I remained; that is up to the month of July 1994, I remained in the country, sir.
 @MR. PRESIDENT:
 Registry.
@@ -27146,7 +27146,7 @@ Sir, you are not very terrible to either me or this courtroom, if you don't take
 That is what I told you since yesterday.
 @MR. PRESIDENT: 
 Mr. Ndindabahizi, Mr. Ndindabahizi, everything is easy and fine so far. We have realised what you said yesterday and Mr. Phillips is simply starting his overview by making sure that you are on the same document and the same line. So there is agreement on the first line. What is the next question?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 Mr. President, is there a copy of this in French? I have an English version. Can I have a copy in French of the same document? 
 $BY MR. ADEOGUN-PHILLIPS: 
 @MR. ADEOGUN-PHILLIPS:
@@ -28241,7 +28241,7 @@ Mr. Ndindabahizi. I just wanted to draw your attention.
 @MR. PRESIDENT: 
 Registry, do you have this document for the witness? 
 Now, Mr. Ndindabahizi has the Registry now shown you a document making the link between pseudonym DL and the name of the first? Have you received that now so that you remember who that person was? It's difficult to remember for all of us. Have you identified him?
-@MR. EMMANUEL NDINDABAHIZI:
+@EMMANUEL NDINDABAHIZI:
 DL, yes, sir. 
 $BY MR. ADEOGUN-PHILLIPS: 
 @MR. ADEOGUN-PHILLIPS:
