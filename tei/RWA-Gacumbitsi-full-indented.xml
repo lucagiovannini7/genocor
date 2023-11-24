@@ -184,9 +184,6 @@
           <person xml:id="ms-onsea">
             <persName>MS. ONSEA</persName>
           </person>
-          <person xml:id="mr-toure">
-            <persName>MR. TOURE</persName>
-          </person>
           <person xml:id="witness-yew">
             <persName>WITNESS YEW</persName>
           </person>
@@ -237,14 +234,7 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="print" when="2023">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
-        <desc/>
+      <event type="print" when="2001">
       </event>
     </listEvent>
     <listRelation>
@@ -39337,7 +39327,7 @@
             <speaker>MR. PRESIDENT:</speaker>
             <p>Thank you. I would like to open this hearing, by asking the Registrar to call the case, please? </p>
           </sp>
-          <sp who="#mr-toure">
+          <sp who="#mr-touré">
             <speaker>MR. TOURE:</speaker>
             <p>Thank you, Mr. President. The International Criminal Tribunal for Rwanda in its Appeal Chamber composed of Judge Mohamed Shahauddeen, presiding, Judge Mehmet Güney, Judge Liu Daqun and Judge Wolfgang Schomburg and Judge Theodor Meron, is now sitting in open session today, Friday, 7th of July 2006 for the delivery of judgment in the matter of Sylvestre Gacumbitsi v. The Prosecutor, Case No. ICTR-01-64-A. I thank you, Mr. President. </p>
           </sp>

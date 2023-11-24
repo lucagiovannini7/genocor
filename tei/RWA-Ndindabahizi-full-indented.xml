@@ -115,9 +115,6 @@
           <person xml:id="mr-adeogun-phillps">
             <persName>MR. ADEOGUN-PHILLPS</persName>
           </person>
-          <person xml:id="judge-kahn">
-            <persName>JUDGE KAHN</persName>
-          </person>
           <person xml:id="witness-du">
             <persName>WITNESS DU</persName>
           </person>
@@ -174,14 +171,7 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="print" when="2023">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
-        <desc/>
+      <event type="print" when="2001">
       </event>
     </listEvent>
     <listRelation>
@@ -191,11 +181,7 @@
   <text>
     <body>
       <div type="act">
-        <head>1 SEPTEMBER 20031410H</head>
-        <sp who="#trial">
-          <speaker>TRIAL</speaker>
-          <p></p>
-        </sp>
+        <head>1 SEPTEMBER 20031410H TRIAL</head>
         <castList>
           <head>Before the Judges:</head>
           <castItem>Erik Møse, Presiding</castItem>
@@ -970,7 +956,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Yes, I did.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Which page did you mention?</p>
         </sp>
@@ -1247,7 +1233,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>This is an ambiguity which I wanted to clarify as of this moment, because this name is going to come about several times during the course of the trial. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Could you clarify again what the designation of these two Karara was?</p>
         </sp>
@@ -3557,7 +3543,7 @@
           <speaker>WITNESS CTK:</speaker>
           <p>He was a very big person, with a big head and long ears with a flat nose.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Is he present in the Court today? Do you see him in the Court today?</p>
         </sp>
@@ -3565,7 +3551,7 @@
           <speaker>WITNESS CTK:</speaker>
           <p>Yes, he is in the courtroom.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Could you tell us where he is sitting?</p>
         </sp>
@@ -5734,7 +5720,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Thank you very much. The identification is noted for the record.There is a question.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you said you fled the Gitwa hill to the neighbourhood. Could you please name the neighbourhood; what was the area called?</p>
         </sp>
@@ -5742,7 +5728,7 @@
           <speaker>WITNESS CGN:</speaker>
           <p>Could you please reformulate your question? I didn't quite understand it.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>In your statement you said that you fled the Gitwa hill to the neighbourhood. What is the name of that area where you fled from the Gitwa hill?</p>
         </sp>
@@ -6367,7 +6353,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>There is a question.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a question to the witness: at Gitwa hill, where you were hiding, there was a forest, and I believe a road below where the vehicles were passing; which road was this?</p>
         </sp>
@@ -6375,7 +6361,7 @@
           <speaker>WITNESS CGN:</speaker>
           <p>It was an untarred road which led to the Gisovu tea factory in the Gisovu commune, going through the FM antenna at Karongi commune, leading all the way to the Gisovu commune.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>So would I be right if I called it Kibuye-Karongi road?</p>
         </sp>
@@ -7351,7 +7337,7 @@
           <speaker>WITNESS CJY:</speaker>
           <p>It was an old model Toyota, the colour was between white and yellow. In fact, the colour is similar to the colour of the table in front of me here.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What did you say -- this was the colour of the car, yellow?</p>
         </sp>
@@ -7754,7 +7740,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Registry, you are in Part 3, sketches.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I need some guidance here from the Prosecutor. </p>
         </sp>
@@ -7762,7 +7748,7 @@
           <speaker>MR. KAPAYA:</speaker>
           <p>Yes, My Lord.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>There is a sketch on page 65 which looks very similar to the one, page 65 of index of Prosecution witnesses and pseudonyms, after the statement of that witness, but it is numbered differently.</p>
         </sp>
@@ -7770,7 +7756,7 @@
           <speaker>MR. KAPAYA:</speaker>
           <p>Page 65 of which bundle, Your Honour?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Is it one and the same? It is after his statement.</p>
         </sp>
@@ -10730,7 +10716,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Thank you, Mr. Besnier.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you said that Mr. Ndindabahizi was a teacher in an institution where you were a student. Did he ever teach you?</p>
         </sp>
@@ -11919,7 +11905,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Prosecution, please.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a question before your re-examination. Mr. Witness, I wanted to take you back to the roadblock which you passed a second time. I just want some assistance. At what point did you realise that the person who had come out of the vehicle and was addressing the gathering was the Accused? Was it when you saw him get out of the car, was it when his name was mentioned by Hassan as they greeted, or when he was introduced? </p>
         </sp>
@@ -11931,7 +11917,7 @@
           <speaker>WITNESS CGE:</speaker>
           <p>When Ndindabahizi arrived at that roadblock, he stopped, and I have testified to that previously. He opened the door which is on the right side, and he talked with Hassan Byiyingoma, Byiyingoma. Byiyingoma assembled the people who were in that place, as well as those who were in the bar. So you wanted to know when I recognised Ndindabahizi, at the time when he was speaking with Hassan or when he was leaving his vehicle?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>When did you first realise that, yes, this is him? </p>
         </sp>
@@ -11939,7 +11925,7 @@
           <speaker>WITNESS CGE:</speaker>
           <p>When he came out of the vehicle I recognised him, and when he was speaking with Hassan I also recognised him. And when the people there gathered around, I looked at his face closely because I hadn't seen him for a long time, and when you take a long time in seeing someone, you try and look closely to see whether you can identify him.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Yes, thank you. RE-EXAMINATION</p>
         </sp>
@@ -12030,7 +12016,7 @@
           <p>I saw him during the first years of President Habyarimana's reign; subsequently, I didn't see him again. Later on, I was to learn that he became minister. I only saw him again at the time when he was presented as being minister. I didn't even know what portfolio he held. Normally in the 1970s, '75, '76, it was then that I saw him under President Habyarimana's regime; otherwise, his ascension into these various jobs I wasn't aware, because I was a mere peasant and, you know, he was someone who was intelligent, had gone to school, and he went up in grades.</p>
         </sp>
         <stage>Pages 45 to 50 by Petrus Chijarira)1830H</stage>
-        <sp who="#judge møse">
+        <sp who="#judge-møse">
           <speaker>JUDGE MØSE:</speaker>
           <p>So are you telling us that the period during which you saw the Accused at Trafipro was in the 1970s? </p>
         </sp>
@@ -12038,7 +12024,7 @@
           <speaker>WITNESS CGE:</speaker>
           <p>Just when President Habyarimana took power, because in 1970 he had not yet gone -- become president. But it was just at the beginning of President Habyarimana's regime that I saw him at Trafipro. Subsequently, I didn't see him because he went up in the ranks and that really wasn't of any concern to me because it wasn't of any interest to me. I'm saying the truth, Your Honours, kindly believe because one cannot be killed because of speaking the truth.</p>
         </sp>
-        <sp who="#judge møse">
+        <sp who="#judge-møse">
           <speaker>JUDGE MØSE:</speaker>
           <p>When we are asking questions in this courtroom, and that goes for all of us -- all of us, it's not because we are necessarily saying that someone is not saying the truth or not, and that is only to clarify, to find out what happened. Thank you very much, Mr. Witness. Your testimony has now come to an end. We wish to thank you for having come to Arusha to give evidence before this Tribunal, and wish you a very safe journey home. Thank you very much, indeed.</p>
         </sp>
@@ -13152,7 +13138,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Now, what is the question by Defence counsel?</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, how many times did you see Ndindabahizi before 1985 and after 1984? This is the question. </p>
         </sp>
@@ -13160,7 +13146,7 @@
           <speaker>WITNESS CGV:</speaker>
           <p>I used to go to Trafipro to buy some items, so I cannot count the number of times I saw him. My parents would send me to go and buy provisions. So I was not interested in knowing the number of times that I saw the Accused.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -13633,7 +13619,7 @@
           <p>Then the next exhibit, D13 of the 4th of June. Here we have D13A, English, signature of the Witness, and D13B, translation, both under seal again. So these are the exhibits. Thank you. </p>
         </sp>
         <stage>Exhibit Nos. D13A and D13B admitted, under seal)</stage>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>We would -- Mr. Witness, we would seek a little clarification. In your statement you said that Mr. Ndindabahizi was known to you well before the war, being a manager of a Trafipro store where you went to make purchases. In reply to your question, put by the learned Defence counsel, you said when you used to visit the store in connection with the purchases, "The Accused was in his office." How could you see him, whether he would come out of his office to see you, or whether you would go and meet him in his office? </p>
         </sp>
@@ -13641,7 +13627,7 @@
           <speaker>WITNESS CGV:</speaker>
           <p>I didn't have to go and see him. I didn't have any reason for so doing. I went to that location in order to purchase several items. His office was next door; sometimes he was in there. But since his office was close to the place where the sales were done, I could see him. As for his -- as for the clothing, I would buy material or fabrics from which I had children's clothes made; sometimes I would wait throughout the day while waiting for their clothes to be made. You know, when you stay in a -- you stay for a day in a place, in a particular place, you can't fail to see the people who work there. Those are the conditions under which I got to know that man. There was a tailor who was there, and when I would -- I would spend some time with the tailor. You wouldn't be unable not to know the people who work in at that place. I would spend -- spend some time there, and I was quite close to them.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -13680,11 +13666,7 @@
         </sp>
         <sp who="#mr-kapaya">
           <speaker>MR. KAPAYA:</speaker>
-          <p></p>
-        </sp>
-        <sp who="#cgl">
-          <speaker>CGL.</speaker>
-          <p></p>
+          <p>CGL.</p>
         </sp>
         <sp who="#mr-president">
           <speaker>MR. PRESIDENT:</speaker>
@@ -14700,7 +14682,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Thank you very much. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Could we see this paper once again? </p>
         </sp>
@@ -15577,7 +15559,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Ah-ha, I see. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Madam Witness, could you tell us, why did you go to the health centre where you saw Mr. Ndindabahizi? What made you to go to the health centre? </p>
         </sp>
@@ -15585,7 +15567,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>I accompanied somebody who was going to consult -- who was going for medical care.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Was that person Hutu or Tutsi? </p>
         </sp>
@@ -15593,7 +15575,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>That person was a Tutsi.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You were not afraid of going to the health centre, both you Tutsi, in such a dangerous situation? </p>
         </sp>
@@ -15601,7 +15583,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>But, Your Honour, this was in 1993; this was not in 1994.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay, thank you. </p>
         </sp>
@@ -16257,7 +16239,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>Yes, the kitchen had a roof. It was covered -- it had a window and a door, a window which was protected with some kind of burglar proof.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, could you be able to give the size of the kitchen?</p>
         </sp>
@@ -16265,7 +16247,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>The kitchen was about five by two metres.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You confined yourself in the kitchen only, you did not reside in the house; is that right?</p>
         </sp>
@@ -16929,7 +16911,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>I believe he was speaking on behalf of the Defence. In any event, he had other means of achieving that objective. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did he say that he was from the Defence side? </p>
         </sp>
@@ -16937,7 +16919,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>Yes, he was part of the Defence because he told me that he should explain to me so I know whether it is the truth or not. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>And he also said that you would be rewarded if you do not testify in the court, in the Tribunal? </p>
         </sp>
@@ -16945,7 +16927,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>Can you please repeat the question? I did not understand.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did he say that you would be rewarded from the Defence side, you would be given a reward by the Defence if you refuse to testify before the Tribunal? </p>
         </sp>
@@ -17005,7 +16987,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Thank you. That's noted. Defence. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -17015,7 +16997,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>Yes, I know the place. Gitaka centre is situated in Gasharu region. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Is it near where this roadblock was? </p>
         </sp>
@@ -17023,7 +17005,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>It's at that very place. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -17528,7 +17510,7 @@
           <speaker>WITNESS CGL:</speaker>
           <p>You mean when these investigations were being conducted, I could not mention Karera. In fact, I was wondering about the number of people that I saw at the roadblock. They only asked me about those who were manning the roadblock. That is why I did not mention Karara. He was busy with his trade in drinks.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Counsel for the Defence, which Karara are we talking about here?</p>
         </sp>
@@ -17540,7 +17522,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>That, you can't mean, Counsel. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Well, that one is mentioned in his statement.</p>
         </sp>
@@ -19718,7 +19700,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>No, no. You've asked the question that we would have posed to the witness. Just to draw Your Honours' attention to a matter raised by the Defence in relation to the annotation on the English version of this list. The issue raised by the Defence which forms, to my mind, the basis of his challenge of the authenticity of this document is as follows: if you look at the list of participants in the English version, which is in tab 3, at the end of tab 3, you would see that against the names of Joseph Bugingo, listed on No. 11, and Augustin Karara, which is listed on No. 26, there is a notation on there that that -- or those persons, apart from being in Kibuye préfecture, are also in Kibuye prison, and the argument runs thus, that, well, if this document was prepared in 1994, those guys were not in prison then, why is it indicated thereon that they are in Kibuye prison? Well, that's true and it's a legitimate point to make. What I would then do is to draw Your Honours' attention to the original document in Kinyarwanda which is under tab 1, and then if you cross-reference and look at the list, the original list, all these are translations, English-French. If you look at the original list under tab 1, at the end of it, and you look against No. 11 and No. 26, Karara, Augustin and Bugingo, there is no indication on there that they're in Kibuye prison. The reason is obvious: the English translation must have been translated at a later stage beyond -- well beyond 1994. Whoever did it probably knew that those two people were in custody and made the notation. The operative document is the one in Kinyarwanda. I don't speak Kinyarwanda but it's pretty obvious from the level on 26 that there's no notation on there of Kibuye prison; therefore, it defeats the argument. The operative document is in Kinyarwanda, not in English, and I just wanted to bring that to Your Honours' attention.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What is "prison" in Kinyarwanda?</p>
         </sp>
@@ -19957,7 +19939,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>No. The statement of the 2nd of June 2001 belong -- contains the right name, that is the name and statement of the person who rightfully has that name. The problem is with the 4th of April 2001 statement, and the explanation is this: It was with a view to procuring the 2nd of June 2001 statement that the investigators went out into the field through an intermediary. Unfortunately, they were meant to meet him in April; he didn't turn up. Somebody else turned up instead. They took a statement thinking it was the 2nd of June man they were talking to. It turned out not to be, Your Honour, and we only realised that this year, four years after the fact.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Prosecutor, the name mentioned at file No. 14, CGP and CGP2, they are one and the same person?</p>
         </sp>
@@ -20061,7 +20043,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>The nickname is under paragraph 1, under I think where the first name is -- if you look at the French bundle in your -- if you look at the nickname in the French, it doesn't exist in the English translation, but in the French, the nickname is the same with that on paragraph 1 of the 23rd September statement.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Prosecutor, you are referring to the nickname of CGP?</p>
         </sp>
@@ -20069,7 +20051,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Yes.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>On page 152 of the English version?</p>
         </sp>
@@ -20077,7 +20059,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>No, the French version, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>No, on the English version. Nickname -- okay.</p>
         </sp>
@@ -20085,7 +20067,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>If you look at page 155, Your Honour, if you look at pager 155, if you look under the nickname --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Yes.</p>
         </sp>
@@ -20093,7 +20075,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>If you look at the 23rd September statement, they are referring to one and the same person, but that was the first indication that we knew that we were talking about the same person, but there was a mix-up somewhere.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay. This nickname on page 155, French version, is correct?</p>
         </sp>
@@ -20101,7 +20083,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>It is correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>The nickname is correct?</p>
         </sp>
@@ -20109,7 +20091,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>The nickname was correct, but the real name was not.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>But the first name and the last name are not?</p>
         </sp>
@@ -20117,7 +20099,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Are not. And the French version is the operative version because that is the real statement. The English was just the translation from the French.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay.</p>
         </sp>
@@ -20125,7 +20107,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>So that was where the confusion started. The name --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Even the nickname on the first --</p>
         </sp>
@@ -20133,7 +20115,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>-- is wrong, it is spelt wrongly. It is spelt slightly wrongly. There is an M there, but --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay. The last name and the first name in the French version are also not correct?</p>
         </sp>
@@ -20141,7 +20123,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>The last name and the first name are not correct on the French version.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Only on the French version?</p>
         </sp>
@@ -20149,7 +20131,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Yes, it is not correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay.</p>
         </sp>
@@ -20157,7 +20139,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>That is the first observation. Now, the second observation is paragraph 7 on the 4th of April statement, be it French or English, is incorrect -- it's incorrect. Those details belong to the real person and not the person on the 23rd September 2003. And again you can cross-check that, because if you look at the 2nd June statement, 2nd June 2001 statement, you will see that the place of birth coincides with that person. So what had happened there was that they had -- the investigators had some prior information before they met -- the investigators had some prior information to identify witnesses. That information consisted of name, place of birth. In anticipation of meeting the person that is indicated on the 4th of April 2001 statement, they, before the interview, filled in some of those columns. It is a pro-forma form on their computer. So in anticipation of the meeting, they filled in the name, the place of birth and all the things you see in paragraph 7. However, that person did not turn up, and someone else turned up instead. Also, someone they wanted to see, but not the person they were expecting at that time. Forgetting that they had entered column 1 and column 7, they just continued with the interview and entered column 2, 3, 4, 5, et cetera, and that is really where the confusion arose. They forgot to delete the name they had entered there before. That is why we have this problem.So paragraph 1, paragraph 7, are not correct on that statement, and also paragraph 13 is not correct. This man is not a member of that organisation in paragraph 13, but the real man is.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a question, Mr. Prosecutor.</p>
         </sp>
@@ -20165,7 +20147,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Yes, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>The details in paragraph 7 appearing on the 23rd of September 2003 statement --</p>
         </sp>
@@ -20173,7 +20155,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Your Honour, yes.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Are you saying that they should be replaced with the details which appear on the 4th of April?</p>
         </sp>
@@ -20181,7 +20163,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>No. The details -- rather it is the other way round, Your Honour. It is the details that appear on the 4th of April paragraph 7 that should be replaced with that of paragraph 7 of the later statement of 23rd September 2003.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And this statement of 2nd June, I don't seem to have a copy.</p>
         </sp>
@@ -20189,7 +20171,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Well, we have very limited copies of that one, because we didn't think it would be relevant.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>By whom was it made, was it by the --</p>
         </sp>
@@ -20197,7 +20179,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>The real man, the person with the same name on the 4th of April. That is the person -- the person --</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Is it CGP?</p>
         </sp>
@@ -20309,7 +20291,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>In other words, between the time we had prepared this statement, this list, and disclosed it to my learned friend, and the time we had prepared the pre-trial brief in anticipation of this trial, we had realised that those two statements belonged to two separate people, and had therefore chosen to rely only on one of them which was the 4th of April 2001. We made that very clear, that we were relying only on one of them. I had no idea that he had been misled prior to then, that the same person had two statements, and now I understand why he keeps saying that CGP had two statements. Now I understand, I didn't understand that before.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Prosecutor, which of the two statements is correct; 4th of April 2001 is correct, is that what you are saying?</p>
         </sp>
@@ -20333,7 +20315,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Yes.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a question on the statement made on the 23rd of September. It is in French, so I don't understand what it is all about. It was made by -- am I correct in saying that it was made by the witness in the corridor?</p>
         </sp>
@@ -21586,7 +21568,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Mr. Witness, you have just testified to this Court that you are of the Tutsi ethnic group.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Prosecutor, I would like to ask him a question.</p>
         </sp>
@@ -21594,7 +21576,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Yes, Judge.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Are you a convict?</p>
         </sp>
@@ -22336,7 +22318,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>I have two or three other small questions. I do not want to go back --</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I am seeking a clarification. Was the name written on the paper the name of the half-caste or of the driver? </p>
         </sp>
@@ -22344,7 +22326,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Are you speaking about the name that I have here before me? </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Yes. </p>
         </sp>
@@ -22352,7 +22334,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>I didn't understand your question, Your Honour. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Does that name relate to the late half-caste who was killed at the roadblock, or the driver of the vehicle? </p>
         </sp>
@@ -22385,7 +22367,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>No re-examination, Your Honour. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You mentioned that you were taken to the roadblock at around 11 o'clock in the morning; is that correct? </p>
         </sp>
@@ -22393,7 +22375,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>I cannot tell you that that is the absolute truth. It was not during the evening, but neither was it very early in the morning. I gave a period of time which was approximate. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>In the morning; okay. How long after that did the Accused arrived? </p>
         </sp>
@@ -22401,7 +22383,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Just a little after my arrival at that place. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. And how long after that was the half-caste killed? Because you said he was killed in the morning as well. </p>
         </sp>
@@ -23668,7 +23650,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>No other questions, Mr. President. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a few questions for you, Mr. Witness. What was the relationship -- was there any relationship between the Accused and Karegeya, the father of the son with whom you were hiding?</p>
         </sp>
@@ -23676,7 +23658,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Yes, there was a relationship, a relative. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>How were they related?</p>
         </sp>
@@ -23684,7 +23666,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>They were cousins, madam.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And to what ethnic group did he belong, Karegeya?</p>
         </sp>
@@ -23692,7 +23674,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Karegeya was Tutsi, madam.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>But he was a cousin of the Accused?</p>
         </sp>
@@ -23700,7 +23682,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Yes, madam. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have another question. You stated that you had two hiding places, in the ceiling and in the garden, and that you left one, the first one in June after Accused's visit and the second in July, is that what you said?</p>
         </sp>
@@ -23708,7 +23690,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Yes, madam, on the 4th of July.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. And when did Accused come to your place of hiding? </p>
         </sp>
@@ -23716,7 +23698,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>I didn't understand that question clearly.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Did he come at the beginning, middle or end of June, to your place? </p>
         </sp>
@@ -23724,7 +23706,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>He came at the beginning of June. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And, so that brings me to my next question. If he stopped the killings as you allege, why did you remain in hiding until the beginning of July? </p>
         </sp>
@@ -23732,7 +23714,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>After his departure, I left my first hiding place and I went to the house, and nobody came into the house to look for anybody after that. He had already made the statement and after his departure, we couldn't have been absolutely sure that we were safe. We could not therefore go out, but what is certain is that after his departure, nobody went around seeking people out in houses any more. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And initially, you stated that you hid in the ceiling, then you left and went out in the garden. Now, you are adding that you returned to the house in the ceiling again, or generally in the house.</p>
         </sp>
@@ -23740,11 +23722,11 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Well, let me explain. I didn't go hiding in the ceiling; I was in the house. I could move around the house but I did not go out of the house. I went out of the house and remained in the compound. I remained in the compound. I never went outside the compound, and after that, I no longer hid in the ceiling as was the case before. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, would it be correct to believe that you survived because of your close relation with the Accused? </p>
         </sp>
@@ -23752,7 +23734,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>That is not the reason why I survived.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You were hiding in ... ... ... ..., idn't you?</p>
         </sp>
@@ -23760,7 +23742,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>That is correct. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>So it means that you were protected by the Accused ... ... ... ?</p>
         </sp>
@@ -23768,7 +23750,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>That is correct, madam. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Were there other relatives of Tutsi origin of the Accused who were also protected by him? </p>
         </sp>
@@ -23776,7 +23758,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Yes, madam, some of them, for example, Karegeya's child. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Karegeya was also related to him; why was he not protected? </p>
         </sp>
@@ -23784,7 +23766,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Karegeya had gone to seek refuge in other families, but his child came to the same house as I was hiding.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Who told you about the killing of Karegeya? How did you come to know about the killing of Karegeya? </p>
         </sp>
@@ -23792,7 +23774,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>I heard it through my mother. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Had she herself seen the killing? </p>
         </sp>
@@ -23800,7 +23782,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>From her house, you can see the Gitaka centre and the killers took us to the centre of Gitaka. My mother never went too far away from her house, but from her house, you could very well see what was happening at the Gitaka centre where Karegeya was killed.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You were, I think, .... ... ... ... .</p>
         </sp>
@@ -23816,7 +23798,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Now this has happened three times. Isn't it possible to avoid this? Now, Mr. Witness, please do not mention where you were hiding in terms of the Accused because that could reveal your identity.Now, could video system -- all the references to the house in which the witness hid will be deleted, same with the Court video system. Next question, please? </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>From the house where you were hiding, you could not see the killing of Karegeya? </p>
         </sp>
@@ -23824,7 +23806,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>Are you referring to me personally? No. Personally, I was not an eyewitness of the killing of Karegeya</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>From the same house your mother could see or witness the killing. How come that you could not witness the killing? </p>
         </sp>
@@ -23832,7 +23814,7 @@
           <speaker>WITNESS CGC:</speaker>
           <p>My mother could go out. You see, I was hiding, I couldn't have seen anything. I didn't want to show myself. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay. Thank you. </p>
         </sp>
@@ -26110,7 +26092,7 @@
           <speaker>MR. MARÇAIS:</speaker>
           <p>I'm sorry, Mr. President. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>We seek a short clarification from you, Madam Witness. ... had sheltered you; is that right? Is this the same ... who was accused of killing, and later on arrested by the Accused?</p>
         </sp>
@@ -26118,7 +26100,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>It is the same person who was detained. But later on he got to know that they were false accusations against ... and he had been released.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You said that your husband was a Hutu; is that right?</p>
         </sp>
@@ -26126,7 +26108,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>That is correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Is he in any way related to the Accused?</p>
         </sp>
@@ -26134,7 +26116,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>No, no blood relation.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Are you related to the Accused? If so, could you please write it down for us, your relationship with him.</p>
         </sp>
@@ -26142,7 +26124,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>They were related, but it's a distant relation.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Who was related? You and the Accused?</p>
         </sp>
@@ -26150,7 +26132,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>Yes. It is said that my <stage>(By order of the Court, this name has been extracted and filed under seal).</stage></p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You mean to say that <stage>(By order of the Court, this name has been extracted and filed under seal)</stage> ?</p>
         </sp>
@@ -26158,7 +26140,7 @@
           <speaker>WITNESS DI:</speaker>
           <p>That is correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay, thank you. </p>
         </sp>
@@ -27320,7 +27302,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>I believe that if Gatete had stayed there, Ndindabahizi would have arrested him. He asked about the whereabouts of Gatete; nobody knew where he had gone. He was somebody who was not used to that neighbourhood, but I believe that if Gatete had stayed Ndindabahizi would have arrested him. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, why Mr. Ndindabahizi wanted to arrest Gatete when he was not involved in the killing of his relative, Karegeya?</p>
         </sp>
@@ -27328,15 +27310,15 @@
           <speaker>WITNESS DL:</speaker>
           <p>You know a minister has authority over the entire territory; no one can prevent him from doing what he wants to do. He was somebody who was defending the entire population. He is like a father to the entire population.</p>
         </sp>
-        <sp who="#judge kahn">
-          <speaker>JUDGE KAHN:</speaker>
+        <sp who="#judge-khan">
+          <speaker>JUDGE KHAN:</speaker>
           <p>Did he want to arrest the entire killers, all the killers?</p>
         </sp>
         <sp who="#witness-dl">
           <speaker>WITNESS DL:</speaker>
           <p>If he was able to find them, he would have arrested them --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -28688,7 +28670,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>No, Mr. President. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, I have a few questions for you. You have stated that at the end of May there were no more massacres. Is that correct? </p>
         </sp>
@@ -28696,7 +28678,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that is correct.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And this is the time you state the Accused came to his native cellule? </p>
         </sp>
@@ -28704,7 +28686,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>It was at the beginning of June.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. You have also stated that a minister had a lot of authority over the entire population and he was like a father to them. </p>
         </sp>
@@ -28712,7 +28694,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that is correct. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And that there were more Tutsis than Hutus in your native area, in the cellule. </p>
         </sp>
@@ -28720,7 +28702,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And you said when he came he was furious because his relatives had been killed.</p>
         </sp>
@@ -28728,7 +28710,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Any reaction with regard to other Tutsis who were the majority in the cellule who had been killed before he came?</p>
         </sp>
@@ -28736,7 +28718,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, he said the following: "Who ordered you to kill these people? Who gave you the orders?"</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I also want to ask you a few questions about the roadblock erected to get money. You stated initially that the roadblock was erected to get money by two people, by the two people you mentioned, and then later on you said it was to check banditry. </p>
         </sp>
@@ -28744,7 +28726,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>It was the bandits, the thieves who erected the barriers, the roadblocks. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Was it to check property taken from the Tutsi or Hutu who were being robbed of their property during the war? </p>
         </sp>
@@ -28752,7 +28734,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No, they wanted money. When they saw somebody who had money who was passing by, and because nobody could protect that person, he was asked to give all his money. They were strong, they were carrying weapons, clubs, spears, and when you see the club, you have to give your money, because you might die in the process if you don't. So you will understand that a Tutsi couldn't go through this roadblock; they were hiding. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Yes. And that is exactly my next question. Why were they afraid to go on these roadblocks, to go through them, if they were to check for money? </p>
         </sp>
@@ -28760,7 +28742,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>People were passing by and when they got to the roadblock they would take their money, but they were not able to take money from a lot of people because when they realised that that was the purpose of the roadblock, people were going through the bush. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You also stated that at one point in time you were a member of the cellule committee before the war. Is that correct? </p>
         </sp>
@@ -28768,7 +28750,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that is correct.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And at the time --</p>
         </sp>
@@ -28776,7 +28758,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, because I was a trader, I was no longer a member of that committee because I did not have time for these administrative matters. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. And you lost a number of people, including eight nephews; is that what you said? </p>
         </sp>
@@ -28784,7 +28766,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that is correct. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Did you report this matter to any authority or even to the Accused when he came to your cellule in May or beginning of June? </p>
         </sp>
@@ -28792,7 +28774,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>That is known; there was a trial in the courts of first instance. My brother-in-law survived and he hid in his father-in-law's house, sometimes he would hide in my house. He survived. He remarried and currently has three children. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>How many houses did you have in this cellule? You had a business house in the centre? </p>
         </sp>
@@ -28800,7 +28782,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, I had my house where I lived, which is not far from the centre, and I also had the shop, and they, too, are separated by a distance of five minutes walk. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And was there a pit by the roadblock at the centre where bodies were thrown? </p>
         </sp>
@@ -28808,7 +28790,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No. There was no pit. There was rather a latrine which was behind my house. There was a pit latrine close to the road, and apart from this latrine there was no other pit.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Were any bodies thrown in this latrine? </p>
         </sp>
@@ -28816,7 +28798,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And did you sell alcohol in your restaurant? </p>
         </sp>
@@ -28824,7 +28806,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>It was a shop, and I used to sell food as well. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. Thank you.</p>
         </sp>
@@ -28837,7 +28819,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>So, Mr. Witness, we were just about rounding up your testimony, but there are a few questions left from the Judges. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you were the member of the committee of your cellule at the relevant time, is that correct, in April 1994?</p>
         </sp>
@@ -28845,7 +28827,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No, I was no longer a member of the cellule committee.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>But did you remain as a member of the committee of your cellule?</p>
         </sp>
@@ -28853,7 +28835,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No. Before the war, elections took place, and I wasn't elected because I did not have the time to deal with administrative issues, given my trade, my business.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You said that residents of the neighbouring secteur had erected a roadblock in your cellule, is that correct, that Minani?</p>
         </sp>
@@ -28861,7 +28843,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>I spoke of a roadblock which was at a place which I could see; that's the one I mentioned. I couldn't move around to see what was happening elsewhere.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>But this roadblock was at your cellule? </p>
         </sp>
@@ -28869,7 +28851,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that's correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did you take any step to restrain those strangers from erecting the roadblock in your cellule of which you remained as a member of the committee?</p>
         </sp>
@@ -28877,7 +28859,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>No, I told you that I was no longer a member of the cellule committee. When the war broke out I was no longer a member of the committee for the cellule.Those people were coming from other secteurs, but they were stronger than we were. We didn't have any means of defending ourselves; I'm referring to people who lived in the cellule. The people who came from elsewhere were stronger than us.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay. You said that Karegeya was taken away by a man called Bapfakurera in your presence? </p>
         </sp>
@@ -28885,7 +28867,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, I saw him. Before I didn't know Bapfakurera's name, but later on I informed myself and I realised that the people -- the person who was taking away Karegeya was called Bapfakurera.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Karegeya was your well-wisher, he was your boss, he had given you the land free of cost. Did you take any step to save him from that man? </p>
         </sp>
@@ -28893,7 +28875,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>I had no powers. All I could do was to hide his child; she managed to survive. But the others were stronger than myself; I could do nothing, given the powers they had.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>So, you mean to say that you were weaker, that's why you did not stop the assailants, or the killers? </p>
         </sp>
@@ -28901,7 +28883,7 @@
           <speaker>WITNESS DL:</speaker>
           <p>Yes, that's what I mean. They were stronger than I. How can you stop more than a hundred -- twenty attackers who are armed with clubs and spears? How can you stop them?</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -29921,7 +29903,7 @@
           <speaker>WITNESS DV:</speaker>
           <p>It was Ntirihirika who killed Josephine. Ntirihirika is spelt N-T-I-R-I-H-I-R-I-K-A.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, could you please repeat her husband's name? </p>
         </sp>
@@ -29929,7 +29911,7 @@
           <speaker>WITNESS DV:</speaker>
           <p>Josephine's husband was called Cyprien Karegeya.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -31995,7 +31977,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>I never saw that man again subsequently, but I was asked questions about him when the prison director wanted to take me to show me a job which I was to do because I had pleaded guilty.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you have not seen this man from 1991/'92 till date? </p>
         </sp>
@@ -32003,7 +31985,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>I was shown that man during that period of time. I was told that he was one of the persons of authority and that he was working in the prime minister's office, but I never saw him again after that.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>So it means that you have seen him only once in 1991, '92. Is that correct? </p>
         </sp>
@@ -32011,7 +31993,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>I saw him only once, but questions were put to me about him at the prosecutor's office. At least twice I was asked questions about him and I remembered him.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Whether in 1991, '92, his name was disclosed to you? </p>
         </sp>
@@ -32019,7 +32001,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>Yes, I was told that his name was Emmanuel Ndindabahizi, who was working in the office of the prime minister.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -32082,7 +32064,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>For example, for those of us who came from far, he would not have let us go given the fact that we had to help him do his dirty job. He would have given us some money. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Every important man that visited the spot would give you some money? </p>
         </sp>
@@ -32090,7 +32072,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>That is correct. For example, the day Gishyita commune bourgmestre gave us 20,000 Rwandan francs in Kibuye and a conseiller of the secteur, in his company, gave us 15 Rwandan francs as a way of congratulating us for coming from afar to help him. During that period, the préfet who helped us to go from Rutsiro to Kibuye, used to give us beer to drink. He used to send us the beer. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, you stated that he would have given you some money given that you had done an important job for him. Who are you referring to?</p>
         </sp>
@@ -32143,7 +32125,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Did Ndindabahizi come in a vehicle? Not on the day of the attack, but the day before at Gitwa?</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness --</p>
         </sp>
@@ -33327,7 +33309,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Mr. President, the Defence has no problem with the documents that have just been entered as exhibit by the Prosecutor. The witness's answers fully satisfy me, particularly regarding the existence of additional documents, and I have no further cross-examination. Thank you, Mr. President. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, I have a few questions for you. The first one is -- relates to the Gitwa hill incident in Kibuye. You stated that you arrived there after vehicles were already parked. Did I quote you correctly? </p>
         </sp>
@@ -33335,7 +33317,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>That is correct.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Whose -- sorry. Whose vehicles were they, who were they carrying, what were they carrying and from which direction did they come from? </p>
         </sp>
@@ -33343,7 +33325,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>They are vehicles that came from Kibuye with soldiers about. There are others which came from Kabuye commune. There were also vehicles that we found there, and the one I was able to identify is the one belonging to the bourgmestre and his conseiller. Those were the vehicles that I found there. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You also stated that you had to carry a weapon to show that you were working. Who is the person or who were the people for whom you were working? </p>
         </sp>
@@ -33351,7 +33333,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>As you have heard and as you know, during the difficult times, we were told to chase out the enemy and to work for people who were not targeted by this chasing, that is people belonging to my group.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Is that all? Okay. Who -- how long did you --</p>
         </sp>
@@ -33359,7 +33341,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>If you have another question to ask me, you can do so.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Whom did you see at the roadblock at Gaseke?</p>
         </sp>
@@ -33367,7 +33349,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>Not a lot of time at that roadblock because after killing the white man, we went back to Kibuye. We were aware that we could not arrive at our destination, it was too late.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>What do you mean by a lot of time? Was it an hour, a day, a few minutes, or --</p>
         </sp>
@@ -33375,7 +33357,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>We spent about three hours.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. I want to go back to the Gitwa hill in Kibuye incident or incidents. You stated that the attacks would not begin until all the attackers were in place. And what I am interested in is to find out from how many directions was this hill attacked and did all the attackers came from in your group?</p>
         </sp>
@@ -33383,7 +33365,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>The hill is fairly large, but since it is not my locality, and since I came running after the enemy who is being chased, I came from the Kibuye direction, I came from Kibuye going to the direction of Gitwa, and on our way back we went around the hill. We went around the hill and we got close to Gisenyi in the direction of Kibuye.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Were you the only attackers - - I mean the people of your group? </p>
         </sp>
@@ -33391,7 +33373,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>A lot of people participated in the attack, we will not be able to determine the various localities from which the people came from, they came from Kibuye, Gitesi and so on. There were a lot of people. But after the attack those who came from the same locality would go back along the same route.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And, finally, Mr. Witness, you stated the victims at Gitwa were far from, but you also stated that you killed two people at that hill. Did you I get you correctly?</p>
         </sp>
@@ -33399,7 +33381,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>That is correct.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>How then did you approach the victims whom you killed? </p>
         </sp>
@@ -33407,11 +33389,11 @@
           <speaker>WITNESS DC:</speaker>
           <p>You mean regarding the people that I killed or those who killed like me?They shot at the victims and then we got close to them.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, could you tell us what made you change all night to be a -- person to speak the truth and nothing but the truth? </p>
         </sp>
@@ -33419,7 +33401,7 @@
           <speaker>WITNESS DC:</speaker>
           <p>I didn't change anything in what I did. I have said everything I did. I have answered the questions that were put to me, because deep within myself I was convinced that I had acted the bad way and that I should tell that to my friends and to all other people.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>We just want to know what made you to make the confession. What are the reasons for your confession before the Rwandan court? And why did you choose to speak the truth, and nothing but the truth before this Chamber, before this Tribunal? </p>
         </sp>
@@ -34205,7 +34187,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I'm stating that because that is where I was born. Each time he came, we would be aware of his arrival. The members of his family would go to greet him and he would pass close by my home. Therefore, I couldn't be unaware. People would rush to go and greet him, and he would pass by my home. That is the only proof or evidence that I can give.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, how many times did he come when you used to see him? </p>
         </sp>
@@ -34215,7 +34197,7 @@
         </sp>
         
         <stage>Before the war he came to our home to give a cow as a gift to his uncle, and then again he gave another cow as a gift to his older brother. I know this because I participated in these events, these festivities. But for the rest of the time, he would be in Kigali.</stage>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -35166,7 +35148,7 @@
           <p>No, I have not gone before the courts as yet. </p>
         </sp>
         <stage>Pages 1 to 16 by Diane Hermann)0950H</stage>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, was your confession read to you, the one which is before us?</p>
         </sp>
@@ -35174,7 +35156,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>No, it wasn't read to me.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And how much time did you spend at Gitaka roadblock.</p>
         </sp>
@@ -35182,7 +35164,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I was not at the Gitaka roadblock. That roadblock was erected in the Gitesi secteur, whereas, I was in Buyea secteur.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And where was Karegeya killed?</p>
         </sp>
@@ -35190,7 +35172,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>Karegeya was killed in Gitaka behind the buildings.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Which buildings?</p>
         </sp>
@@ -35198,7 +35180,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>It was behind the row of buildings which was somewhat below.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Was one of those buildings Gitanen Karara, the trader's house?</p>
         </sp>
@@ -35206,7 +35188,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>No. The first building belonged to Myera and the second to Sebarame.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have not understood you very well. Where was the Gitaka roadblock, according to you?</p>
         </sp>
@@ -35214,7 +35196,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>When I arrived in Gitaka in 1994 I saw the roadblock. It was erected between Karara's house and that belonging to Ndabukiye.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>But that is not where Karegeya was killed?</p>
         </sp>
@@ -35222,7 +35204,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>We had already passed the roadblock and it was behind the buildings, a little bit further away from the roadblock that Karegeya was killed.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>So you never spent any time at this roadblock, then?</p>
         </sp>
@@ -35230,7 +35212,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>No.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You mentioned in your evidence yesterday that after the arrival of the accused in Gitaka, a few days later people began to flee, and you say this was at the end of May or beginning of June. Is that what you said?</p>
         </sp>
@@ -35238,7 +35220,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I said that I saw Ndindabahizi at the end of June and people began to flee at the beginning of July, the first week of July. I think that's what I explained yesterday, and that's how the events occurred.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>The war was over, wasn't it? So why were people --</p>
         </sp>
@@ -35246,7 +35228,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>Yes. People were leaving the country. Ordinary citizens were no longer being killed. There was rather a war between the soldiers. The disturbances amongst the population had come to an end and there was only the soldiers that were in confrontation during this time.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Then you also stated -- and correct me if I'm wrong -- that the Accused could not have killed Karegeya because there was no prior meeting.</p>
         </sp>
@@ -35254,7 +35236,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>Yes.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>My question then is, were there prior meetings in respect of the victims whom you killed or others who were killed?</p>
         </sp>
@@ -35262,11 +35244,11 @@
           <speaker>WITNESS DM:</speaker>
           <p>No, there were no meetings.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you, that's all. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, were you provided with a copy of the confession statement made before the Rwandan Court?</p>
         </sp>
@@ -35274,7 +35256,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I made a confession. I kept a copy and I gave the original to the Prosecutor.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Do you have the original with you?</p>
         </sp>
@@ -35282,7 +35264,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I have a copy but the other was sent to the Prosecutor's Office. I'm keeping a copy with me in the prison.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did you see the name of Karegeya was mentioned in that confession statement? Did you see the name of Karegeya in the copy provided to you by the Rwandan court?</p>
         </sp>
@@ -35290,7 +35272,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I had told them to write down his name and I believe his name is there.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did you read that name? Did you know that name was there?</p>
         </sp>
@@ -35298,7 +35280,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I don't know how to read. I'm sure his name is there, because I asked that the name be mentioned, so I don't know how it couldn't be written down. I cannot read what was written by hand. When I'm given a document I keep it.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You are unable to read even your own language?</p>
         </sp>
@@ -35306,7 +35288,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>When it's a typed document I can read it and that's the case if it's in capital letters, but if it's written by hand I am unable to read.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Your confession was recorded in handwriting?</p>
         </sp>
@@ -35314,7 +35296,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>Someone was taking down notes for me. I was asking someone to take notes for me, and the confession was taken down by hand.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>The copy provided to you, is it a handwritten or a typed copy?</p>
         </sp>
@@ -35322,7 +35304,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>I kept a copy but the other one was sent to the Prosecutor. Nobody gave me a copy. In other words, no one sent us a typewritten copy of what we had said. I kept the handwritten version.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>That handwritten version was provided by the Court, by the Rwandan Court?</p>
         </sp>
@@ -35330,7 +35312,7 @@
           <speaker>WITNESS DM:</speaker>
           <p>No, no, it's prisoners, it's my fellow-prisoners who wrote for me, and then a copy of that document was sent to the Prosecutor's Office.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -36428,7 +36410,7 @@
           <speaker>WITNESS DO:</speaker>
           <p>No, I didn't see her.</p>
         </sp>
-        <sp who="#the president">
+        <sp who="#mr-president">
           <speaker>THE PRESIDENT:</speaker>
           <p>Do you know whether she was there, even if you didn't see her? That can also be answered with a yes or no.</p>
         </sp>
@@ -37167,7 +37149,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Thank you, Mr. President. Thank you, Witness. No further questions. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, what did Karara tell you about the killing of Karegeya? </p>
         </sp>
@@ -37175,7 +37157,7 @@
           <speaker>WITNESS DO:</speaker>
           <p>As I explained earlier on, soon upon my arrival at Gitaka they was drinking beer in Gitan's beer bar. When I got there he was sad and told me that "They've killed my friend. It's over". The question I asked him was to know who the killers were. He answered that it was not necessary to answer that question, that he was killed by people who came from Buye. That is what I know about the death of Karegeya. He was killed by people who came from Buye. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Is it your testimony that no Tutsi were killed at the roadblock at Gitaka?</p>
         </sp>
@@ -37183,7 +37165,7 @@
           <speaker>WITNESS DO:</speaker>
           <p>No Tutsi was killed there. The people that were killed there came from other hills, and they were going by and they went by and were killed elsewhere. For example, the woman I talked about did go through there. She was going to Ruhara's, Pascal Ruhara's, and upon her return she also went through there, that location. We did not arrest anybody at that roadblock. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>How long were you at this roadblock?</p>
         </sp>
@@ -37191,7 +37173,7 @@
           <speaker>WITNESS DO:</speaker>
           <p>I was not there for a long time at that roadblock. I wouldn't say that I was all the time at that roadblock. People were brought and went through in our presence. So far as I was concerned, I went through when I was on the way for an attack, and I came back only for a drink. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And you said attackers came from Rubanga, Rutsiro and Ruragwe, and you were told that you had done nothing and that is how the killing started. Who told -- who were telling you that nothing had been done in order for you to start the killings? </p>
         </sp>
@@ -37199,11 +37181,11 @@
           <speaker>WITNESS DO:</speaker>
           <p>Among the people who came there were people who were usually called Abakiga. We were scared of those people; they had intimidated us. Some people had taken refuge at Kirambo, and those people, the Abakiga, came to kill them and threaten -- and to retaliate against us if we did not take part in the massacres. I can't tell you the names of these Abakiga. They went through and went to Bisesero and elsewhere. So far as we were concerned, we stayed in our given location. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you went to kill Mukantabana, a schoolteacher; is that correct? </p>
         </sp>
@@ -37211,7 +37193,7 @@
           <speaker>WITNESS DO:</speaker>
           <p>That is correct.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You said after giving the two blows you went away. You left her and you went away to kill other persons. Why didn't you finish her finally? </p>
         </sp>
@@ -37220,7 +37202,7 @@
           <p>I did so because that man who was also called or known as Nyankiko wanted to confront the person that had taken Mukantabana, and when I saw that I came to help, and the woman was finished off by other people who were around.</p>
         </sp>
         <stage>Pages 44 to 51 by Trish Greig)1230H</stage>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -38228,7 +38210,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Sir, Mr. President, Your Honours, no additional questioning of the witness, sir.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, good afternoon. I have a few questions. You testified that -- correct me if I'm wrong, but this is what I understood you to say -- that there was no need for the Accused to come and distribute machetes because by the time the Tutsi had been killed and there was no need for these machetes. In any case, all those present had their own machetes. My question is, if there was no need for these machetes, why were you armed with clubs, machetes, a gun, and a grenade?</p>
         </sp>
@@ -38236,7 +38218,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>I must say that if it were necessary to distribute machetes, they would have been distributed before, that is when there were still attacks on Tutsi groups. I'm saying that that period, the distribution of machetes could have been justified, but in June there was no Tutsi resistance, as such, and even those Tutsis alive were hiding so that we didn't need machetes anymore, because we had enough machetes. Had we needed machetes, we would have used the machetes we had.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have a question. In what capacity you were at this roadblock? Why were you called up and why did you accept to come to the roadblock?</p>
         </sp>
@@ -38244,7 +38226,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>We were ordered to remain at the roadblock to ensure that those people who were running away, either on foot to settle elsewhere, were denied access to Kibuye city. So we had established a transit camp where people were identified and counted and lorries were designated to take these people across Kibuye city, one. And two -- the second reason for the roadblock was to monitor the vehicles who came through to see if there were anybody, there were any people on those vehicles that could jeopardise security in Kibuye city. It's another reason why we were ordered to stay at the roadblock, because a refusal would be tantamount to seeking punishment.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>My question is you - you, the people who were ordered, who were you and why were you ordered, in preference to other people. Like you, for instance, there must have been very many people in the village who could have done the same type of work.</p>
         </sp>
@@ -38252,7 +38234,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Well, when the roadblock was set up the conseillé instructed those in charge to look for people with integrity that were not going to take any property from the refugees. So there was the person in charge who was to select certain people. It was up to him to choose this and not that, because he knew how this and that behaved, so that the person selected was due to -- bound to participate in the manning of the roadblock.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>My final question was if you were a member of the Interahamwe.</p>
         </sp>
@@ -38260,11 +38242,11 @@
           <speaker>WITNESS DR:</speaker>
           <p>No, not at all. I was one of the people among the population. In our area we didn't have many Interahamwe. There were people who said that they belonged to the MRND party, but Interahamwe, they were the youth wing of the MRND party. As far as I'm concerned, I was not even a member of the MRND. As a matter of fact, I was not a member of any political party for that matter. I couldn't, therefore, have been called an Interahamwe.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay, thank you.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, for how long you manned the roadblock?</p>
         </sp>
@@ -38272,7 +38254,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>I wasn't there every day because we relayed one another, but I got to the roadblock and I worked there for a period of three weeks.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You said that sometimes you left the roadblock to carry food, didn't you?</p>
         </sp>
@@ -38280,7 +38262,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>When it was my time to work I worked and then I will go back home for food, just as anybody else will go back home to eat.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>How many times you left the roadblock and what was your duration of absence at the roadblock?</p>
         </sp>
@@ -38288,7 +38270,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Sometimes I'll be there for more than usual. It depends on the time food is ready at home. When meals are ready I went back home quickly and I went back to the roadblock quickly, so if I tried to tell you how many minutes or hours I spent at home, because it depended on whether the food was ready or not.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Can you put your time in hours or days or in minutes?</p>
         </sp>
@@ -38296,7 +38278,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Sometimes I spent 40 minutes at home, one hour sometimes, and at other times I may even spend more than an hour. It all depends whether the meal in question was readily available or not.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -40647,7 +40629,7 @@
           <speaker>MR. KAPAYA:</speaker>
           <p>The parts I have noted, Your Honour, and I wanted him just to read those parts. He can read it aloud so it is interpreted and goes on the record.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I just wanted to find out whose signature it is that he recognized on that document.</p>
         </sp>
@@ -41079,7 +41061,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Thank you, Mr. President. I have no further questions. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Good afternoon, Mr. Witness.</p>
         </sp>
@@ -41087,7 +41069,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Good afternoon.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You talked about seeing the Accused in 1994, in the month of June, that he passed through his own area and came to your house, and he had arrested another ***********************. What was the nature of the allegations that the Accused made against that person, and when your investigations were made and *******, what were your findings about who the culprit was, about the allegations made by the Accused? Is the question clear? </p>
         </sp>
@@ -41095,7 +41077,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Yes, Your Honour, I understand. ***********, I didn't find any guilt with respect to the allegations as they were communicated to me from Ndindabahizi. Only I did that after a meeting and after a discussion -- after a discussion, and after an exchange of ideas with Ndindabahizi who had brought him, because he left him in jail ********But during the discussions -- I then had discussions with Ndindabahizi, so we were able to talk about the situation with regard to this person. ************88On the other hand, I tried to conduct an investigation into what this person had told me, and that investigation that I conducted, I was not able to complete it because it was very difficult, it was very complicated. So I let it go until the situation became more calm, so such an investigation could take place.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -41104,7 +41086,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>The Accused -- the Accused had suspended his activities *****, and there was a murder of a person and he was supposed to protect that person, and he must have had a friendship with Ndindabahizi or been a member of his family, but he didn't sufficiently protect a person who was murdered. And we found that those few facts were not sufficient for that person to be arrested, to say that he didn't protect somebody who was murdered, when he himself was not implicated in the murder. Just to say that he didn't protect somebody, given the situation in the country, I said, "Frankly that is not sufficient to put somebody behind bars."</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -41113,7 +41095,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>It was a cousin of Ndindabahizi, cousin -- at any rate relatives of his cousins, cousins who were massacred, or their entire families.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>My next question relates to the meetings of 29th and 30th April. You testified that one of them was a communal meeting and another one was a central meeting and they related to security in your area. Now, you testified that in those meetings the Accused was not spoken about because there was no need, there was nothing anybody could do -- correct me if I am misquoting you. So my question is this. This was -- the Accused was a minister in the government of the day, ********, he was a native and people were dying -- you say they started dying in April, continued through May -- didn't you see a need *********to at least approach him to bring him on top of issues in your area?</p>
         </sp>
@@ -41121,7 +41103,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Thank you, Your Honour. I did not contact him. First, we must consider the relationships between civil servants, especially given my position and his position, and given his position, it was difficult for me to be able to contact him for anything, unless I could individually contact him since he was a minister to help me, to try to help me calm the situation. But on a functional level, it was very difficult. Communications could not permit such a thing. You spoke about the meeting of the 29th; indeed it took place. It was with the members of the conseiller and members of the security council in the préfecture to see what we could do about the killings, see what measures we could take to try to reduce or completely stop these massacres. If he was in Kibuye at that time, if we had the opportunity to receive him in Gitesi, we would have invited him, as a minister, to our meeting for his support, but he was not at that meeting. The meeting took place. If he had been there, he would have participated as a minister native to that commune. We would have invited him and I don't think he would have refused the invitation, and we would have launched him through contributions. The next day there was a cooperation meeting in the secteur. If we had contacted him a bit before, if he had visited us before, indeed, I would have asked for his contribution to talk to the population of the area of which he was a native, but I didn't even think of that.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -41130,7 +41112,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>No, the way they were escorted with the presidential guard made it difficult to individually contact a person. I didn't have any particular meetings with him. He came; we had the meeting together and his escorts of the presidential guard took him away. He had very tight security around him.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And did he in his address to this meeting talk about the security situation in his native area, generally in the préfecture and in his native area --</p>
         </sp>
@@ -41138,7 +41120,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>No. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>-- considering that he commended that particular area for the killings that took place?</p>
         </sp>
@@ -41146,7 +41128,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Yes. During the meeting of the 3rd, during his speech he did not mention the security situation in his native area, not even in his cellule, or secteur, or commune in general; there was no mention of that. As you have noticed, he generally spoke of the party and its position within the government that was there. He -- the president thanked the people in Kibuye. That is why when I explained myself, I said that the president in his address was not really discouraging what was going on. He really was trying to further what was going on. That is why in my commentary, when he said that, "You've worked well", he really meant that he was thanking the crimes that were going on. I didn't see in the president's speech anything that was discouraging what was going on. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -41154,7 +41136,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Thank you, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, in 1990, before your appointment as bourgmestre, did you have any political affiliation with the president at that period in time?</p>
         </sp>
@@ -41162,7 +41144,7 @@
           <speaker>WITNESS DR:</speaker>
           <p>Yes, Your Honour. At that time there was only one political party, and in fact, all Rwandans had to, without choice, adhere to that party, and so I was a member of it.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -41880,7 +41862,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>First of all, the funds came from the general accountant -- the general cashier, the funds that were in circulation, and a bundle of bank notes that were not in circulation to supply the main cashier, if she needed some. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Did you meet Mr. Ndindabahizi on the 13th of April?</p>
         </sp>
@@ -41888,7 +41870,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>No, only except on the 13th in the morning. After that, we did not see him for the rest of the day, because we went to Kigali. We came back with the funds to deposit the funds in the bank. We didn't go back to Murambi on that day.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>But in the morning time.</p>
         </sp>
@@ -42123,7 +42105,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Yes, actually, he asked me to update him about the situation as far as the treasury was concerned, because he needed that to be able to establish contracts because the government had decided to give advance payment to suppliers because the bank wasn't functioning anymore. So the government decided to give advances to suppliers so that Ndindabahizi needed an update on the situation, the financial situation. So every day I had to update him so far as the accounting situation was concerned. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you said that he was not your boss. Mr. Ndindabahizi was not your boss.</p>
         </sp>
@@ -42131,7 +42113,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>So, I do agree with that, but he had asked me, as minister responsible for my department, because I couldn't find the governor all the time. It was, rather, the minister of finance who was more directly concerned. I saw the governor, I told him what the situation was, but I reported that to the minister because the minister needed that information to establish contracts and to evaluate the level of funds. He also was to pay the civil servants; that is, the civil servants: the teachers, health personnel, legal personnel, and sometimes the gendarmes and soldiers.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You are saying that you gave information under the directions of the governor of the --</p>
         </sp>
@@ -42139,11 +42121,11 @@
           <speaker>WITNESS DP:</speaker>
           <p>Well, the governor also had asked me to give him such information.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Who was you're -- I need a clarification. Who was your immediate boss? Was it the governor or the director of finance, or both? </p>
         </sp>
@@ -42151,7 +42133,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>No, it was the governor. But he was in touch with Ndindabahizi because he was the one that needed the information, so that I should give it to him directly.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Are you referring to the governor of the bank of Rwanda? </p>
         </sp>
@@ -42332,7 +42314,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>We really appreciate that, of course, of course. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you mean to say that Mr. Ndindabahizi left Gitarama on 15th of May? </p>
         </sp>
@@ -42340,7 +42322,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>No, approximately on those dates. I don't -- I can't say it was precisely the 15th because if I was to try to confirm that, wouldn't be telling the truth, because I don't actually know exactly.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>But you left Gitarama on the 13th of May?</p>
         </sp>
@@ -42348,7 +42330,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>What I do know, it was in mid-May.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>When did you leave Gitarama?</p>
         </sp>
@@ -42356,7 +42338,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>To go where?</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You left Gitarama on 13th of May, didn't you say?</p>
         </sp>
@@ -42364,7 +42346,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Me? No, I don't recall saying that. Myself?</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>On 13th of May? </p>
         </sp>
@@ -42536,7 +42518,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Materially that would seem impossible to me, especially given the distance between Kibuye and Gitarama, and given his work and his workload in Gitarama. I don't know if he could be in the two places at the same time, but it seems very improbable to me that he could be.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, what is the distance between Kibuye and Gitarama? </p>
         </sp>
@@ -42544,7 +42526,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>I don't remember exactly. It's pretty far, and the roads were not good. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -42552,7 +42534,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>But I don't know the exact distance, especially since I've never been to Kibuye.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Can you give us an approximate distance? </p>
         </sp>
@@ -42846,7 +42828,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Mr. President, I have no further questions. I would, however, request that this document be tendered as the next Defence exhibit. Thank you. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, the Accused is at your left or at your right? Mr. Ndindabahizi is sitting at your left? </p>
         </sp>
@@ -43516,7 +43498,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>I have no re-examination, Mr. President.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I have one question. Where was the governor during the period April to May, and May to June?</p>
         </sp>
@@ -43524,7 +43506,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>He was also in Gitarama. He would also come to see me from time to time, but I saw him less often. He would come to see me, he would return to Murambi. I saw him not so frequently because we had a direct supervisor who -- the controller general who supervised the work.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>So both the governor and the controller general were present there and available? </p>
         </sp>
@@ -43532,7 +43514,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Yes, but the governor and the controller met often. The controller general would give information from him to us.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I understand a minister of finance to be a political head in that ministry. </p>
         </sp>
@@ -43540,7 +43522,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Yes. Not only political, though.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>But you have stated that the Accused would -- did you say would approve, or look at which suppliers --</p>
         </sp>
@@ -43548,7 +43530,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>There were contracts. The interim government had decided to give advances to the suppliers because they could no longer get credit to buy supplies. So the government asked the banks to give it advances.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>So what was the role of the Accused in that as a political head of the ministry of finance? </p>
         </sp>
@@ -43556,7 +43538,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>As a political authority, I don't know. I know what I did with him, but on a political level, I don't know what his responsibilities in that manner would have been.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And what did you do with him? If you could repeat that for me, please.</p>
         </sp>
@@ -43564,7 +43546,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>What we did together? Well, I would only meet him to give him the information he requested, but we would not discuss politics. Politics was not something I dealt with.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Did he give you instructions on what to do about suppliers and things like that? </p>
         </sp>
@@ -43572,11 +43554,11 @@
           <speaker>WITNESS DP:</speaker>
           <p>No. He only wanted information on the deposits in the coffers. And he needed that information on -- such information to be able to distribute the vouchers and decide on which suppliers to use.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you have given detailed description of his activities in Gitarama, Gisenyi and Ngoma. Admittedly, Mr. Ndindabahizi was not you boss, or you were not his subordinate or his secretary. You were only helping him with financial information under the direction of the governor of the national bank. Could you tell us --</p>
         </sp>
@@ -43584,7 +43566,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>Yes, upon instructions of the governor.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Could you tell us, how did you get to know his personal day-to-day activities in those cities, such as visiting -- receiving the visitors, suppliers looking for him, and his other personal activities? </p>
         </sp>
@@ -43592,7 +43574,7 @@
           <speaker>WITNESS DP:</speaker>
           <p>I would see the suppliers who would go to see him when I went to Murambi. Regarding his other activities, I said that I would go to give him information but not really to see what he was doing outside of the times I would see him. I supplied him with the information and he would continue to work with his team. I didn't know in detail what all of his activities were.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -45738,7 +45720,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>No, Mr. President, no additional questions. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Mr. Witness, good afternoon. </p>
         </sp>
@@ -45746,7 +45728,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>Good afternoon. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I would like to refer you to this exhibit, which you already have before you. I don't remember the number. Is it 25? And a book written by Gérard Prunier on the Rwanda Crisis, History of the Genocide. Are you conversant with it?</p>
         </sp>
@@ -45754,7 +45736,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>Yes, we talked about it earlier on with the President.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay. Now, I would like to quote from both the exhibit and this book. This book, its page 170, and what I'm quoting is produced under the sub-heading, "Negotiations Feed the Rise of Extremism". Now, on this page the writer has this to say: "In the short term, the extremists' main preoccupation was how to stop the growing dynamics of peace, both in the country and at Arusha. The MRND" -- D in brackets -- "kept protesting against the lack of consultation in signing the negotiations, while the CDR, in a more aggressive style, was demonstrating in the streets and fighting it out with MDR and PSD militants". Now, coming to this exhibit, which is interviews with the Accused, on page 8, the last paragraph on that page, it is stated there as an answer that the PSD was in opposition. It was an opposition party. "At certain moments, there were problems within our party and other parties. Certain members were being accused of being too RPF, while others were being accused of rapprochement with the MRND, two parties recruited for the PSD and the MRND. Previously, we had a party which was very united with MRND, which wanted to accede to power through the ballot box. Our party was affected by the problem of division". Now, you have come here, to use your own words, "to explain what the PSD was", and you have said that there were no factions in this party. I would like to have your comment on what the Accused says about this and what this writer has to say about these extremist factions in the PSD. That is my fist question. </p>
         </sp>
@@ -45762,7 +45744,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>Your Honour, Your Honour, the originality of the PSD in this context -- which is not the usual type of political context, that was before. Here, we are dealing with splintered groups and disintegration. The PSD is the only party that had no splinter groups. I'm not saying that there were no quarrels. There were no splinter groups, whereas all the other parties experienced splinter groups. Now, the MDR, for example, when the militants fought with machetes, when Agathe was taken away, when Faustin was thrown out of the party, in the liberal parties they were at each other's throats. Nothing like that happened in the PSD. They didn't, probably, agree 100 per cent, but they had the wisdom -- because their political origins were different -- they had the wisdom to maintain the unity of the party. Of course, we're not talking about a soviet-type party, with a directive from the politburo. What I am trying to say is that, whereas all the parties were breaking up, the PSD kept itself in unity. This is a moot point. We can discuss it. Was it far-reaching, in-depth unity or artificial unity? All I've seen is that there was no splintering PSD. Now, let us count. Tragically, PSD killed; they were to think, as some people have thought -- some people have said so. The number of people dead -- wanted to show that the PSD was not seen as a party along the lines of Hutu Power. There was no disintegration of the PSD. We can talk about it for one or two hours, more than that, to say that this man or that man thought this way or that way. The thing is, the party stayed united. Have I covered your question, Your Honour? </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. That will suffice. I have another question. You have studied the history of Rwanda, as you have told us, and you have been shown the map which was tendered by the expert Des Forges. I think this is the map. I don't remember the number of the exhibit. It showed political parties of bourgmestres in 1994, whatever interpretation is to be put on that. Following multi-partyism in 1992 and the enactment of the coalition government accommodating more parties, would you say that the bourgmestres, the appointment of bourgmestres, reflected the support of the party in a particular place to which they were appointed? </p>
         </sp>
@@ -45770,7 +45752,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>The question is very important, and I answered it yesterday -- not totally, because what you are saying goes beyond what we were saying yesterday. As a matter of fact, the bourgmestres were appointed. Some of them would be appointed by local assemblies, but they were very few and not very important. And those bourgmestres were indeed going to join the political party. Some of them would not change; that's why MRND would remain MRND. Everybody was MRND before the multiparty system came. Some will remain MRND; others would go to the PL, MDR or PSD. What one does not allow one to say is that the inhabitants of the commune were members of this or that party. There is the leader, the one in charge of the commune, but that chooses to join this or that party, but the population is not concerned. Now, this map would have been useful if it were an election for the election of the bourgmestres, and the bourgmestres will stand on the basis of political lists, PSD, MRND -- PSD. And if inhabitants voted for PSD here, PL there, one could say that the majority of the inhabitants of such-and-such a commune belonged to this party. And this is not the case as far as this matter is concerned. Have I covered your question, Your Honour?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Yes, thank you. Finally, you did say that -- well, you've given us an analysis of why the Accused joined the government, the interim government. You have analysed his actions before joining. I don't know whether you did bother to analyse his actions after he joined. That is one leg of the question. The other one is that we had a witness here who was a PSD member, who was a protected witness, and he told us that the members of the PSD had three choices, only one wasn't a choice, really, because unfortunately some of them were killed, but they had a choice to run or to join. And he was one of those who ran away, actually. What is your comment on that one? Those are my last two questions. Thank you. </p>
         </sp>
@@ -45778,7 +45760,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>In a situation of conflict -- I don't know whether you have experienced one -- there are options, of course. And very often there is the choice of survival, which is the least of the problems that will take you away from danger. But usually, when you take that option you are opting for more danger, for a more dangerous option. It's just like the hunters who go to catch birds. They use strings, and if the bird puts a foot in that trap and the trap will hold it; but the bird would not put its foot in the trap, although it came to the point. And that was the same case as Ndindabahizi. Ndindabahizi was there at the pond; he had to make an option. I don't know Ndindabahizi. I met him here. I didn't even know how he looked. He was in the same situation. I don't think he was my student in Butare. I don't know, probably he knows. I don't know anything about that, so I cannot give you any answer other than the one I have just given you. It is the instinct of survival. If you morally have a knife on your throat, your first reflex is to push it away. If you push it away, and you fall in a hole, what you are looking at is not the hole; you are looking at the dagger of a knife on your throat. This is not a matter of option. You don't look back to see whether there is a hole; you have the knife on your throat. Is that acceptable, madam?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>But I wanted to know whether you also analysed the reasons why -- his actions after he stayed on. You analysed the decision to stay, but did you analyse his actions after he decided to stay on, so that you can also give us an opinion on that? </p>
         </sp>
@@ -45786,7 +45768,7 @@
           <speaker>WITNESS LUGAN:</speaker>
           <p>Your Honour, I'll be very clear. I have no scientific evidence which would enable me to give you a rigorous answer. I have some guidelines on the period that would follow the formation of the government, but other than that, I am in a complete fog. That question is probably better put to Mr. Ndindabahizi, because putting it to me, I am incapable of answering that question, Your Honour. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Thank you. That's all. </p>
         </sp>
@@ -46115,7 +46097,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, sister, Nyiranteziryayo, Adella, talked to me about it when we met in June 1994, and she was the one that was the first who told me that Uwera's children, two of them, had been killed by one fellow whose father she knew, but you would appreciate that when we were here recently in this courtroom, one of the witnesses told us that it was he himself that murdered them. So that the witness that stood here did corroborate that he killed them. I heard him say so. So my sister did mention that to me too.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>All the children were murdered?</p>
         </sp>
@@ -46481,7 +46463,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I was not an auditor. I was head of the finance section, but I was not an auditor. There was another division; there was the sales division and made the audits in the branch offices. So the organisation chart is very clear. There is a parallel directive to my division and that was the sales or divisional services. That division did audit in the stores. They had auditors and they moved about from branch to branch to conduct their audit. My finance division did not have those responsibilities. We were not charged with auditing the stores. Therefore, I didn't have that authority to go into the stores nor did my employees. We were not auditors. Anything that came from the stores went to the auditors of the auditing papers and there was a sales division that took care of that. My employees and I did not have the right to audit the stores. I don't know if that is clear to you, Counsel.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, you mean to say you never remained a salesman?</p>
         </sp>
@@ -46505,7 +46487,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>There was only one Trafipro store in Kibuye. In fact, in general, there was one per préfecture, they weren't many. So my responsibility was not to go into the stores to the branches. So I did not visit them. There were auditors in the sales division who did that work. My work was at the office in the finance department. We waited for reports given to us by those who were responsible for gathering the data, from those who were responsible for conducting the audit, that is to say, the sales division.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>What were your duties as head of finance department?</p>
         </sp>
@@ -46564,7 +46546,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>It was basically the same responsibilities as at Trafipro. Some things were different. I was head of the administrative and financial departments at electro gas. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Witness, when were you transferred to electro gas? </p>
         </sp>
@@ -46572,7 +46554,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>At the end of 1981, right after I left Trafipro. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -46792,7 +46774,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Indeed, Mr. President, we found another decree of the 15th of November 1992 published in the official gazette of Rwanda that states that Ndindabahizi has been appointed Director of Cabinet in the Ministry of Finance.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Ndindabahizi, what was your position in the Ministry of Finance? What was it?</p>
         </sp>
@@ -46822,7 +46804,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, sir. The Director of Cabinet is responsible for coordinating the activities of the ministry. He is the one that coordinates the activities of the advisors, because in the ministry we had advisors and the Directeur de Cabinet also dealt with the coordination of activities of those advisors. Now, there's also the director general of the ministry that supervises some five directorates and the Directeur de Cabinet and the director-general together supervised all these services. The Director of Cabinet replaces the minister when the latter is absent. The Director of Cabinet carries out any other assignments given to him by the minister. So that that is, in a nutshell, the attribution of the Director of Cabinet. I hope I have given you all the details, but this is the general picture. With the Director of Cabinet, he coordinates all the activities of the ministry and when the minister is absent he is in charge of the management of the day-to-day operations of the ministry.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Generally you were the immediate boss in the ministry?</p>
         </sp>
@@ -46830,7 +46812,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>No, I am above -- I came after the minister, directly, and the director-general was under me.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You were director and the director-general was under you. Is that what you mean to say?</p>
         </sp>
@@ -46895,7 +46877,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, that is another matter. There were several parties that had just been created and, of course, one had the option to join one or the other. I opted to join one party, and I chose the PSD. I joined the PSD because I was not interested in the other parties. The party in which I was interested was PSD. I read its constitution, its mission statement, its ideology, and I thought that that was the party that suited me. I knew the other parties, MRND, MDR, etc. I chose the PSD after having perused their basic documents, their objectives and, of course, an account of what I knew about the other parties that were there or that had been there since the 60's up to '67. I did make a choice. The MRND was not of interest to me. The MDR neither. But after having given thought and, indeed, talked with people, including the chairman of the party, I made an option.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>So you joined the PSD of your own accord, of your own initiative?</p>
         </sp>
@@ -46903,7 +46885,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, nobody forced me.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What do you mean by recruited, recruited in this party? You said you were recruited in this party. What does this mean?</p>
         </sp>
@@ -47125,7 +47107,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, what I said -- I said that the PSD party made no discriminations at all. We even proposed the deletion of ethnic ethnicity on ID cards. How can I refuse to give caps or hats to the Tutsi? This is not possible. I never did so, sir.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Do you have any member of ethnic groups -- of the Tutsi group in your party, PSD party?</p>
         </sp>
@@ -47133,7 +47115,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>There were. There were many Tutsis within the PSD party. Even in the politburo, there were Tutsis. There were many of them. I knew them. Even in the préfectures on the regional level, there were Tutsi representatives.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Could you please name them?</p>
         </sp>
@@ -47189,7 +47171,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Ever since the politburo was created. The party was created in 1991, in July. When I arrived at the party in '92 they were already there.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Were there any Tutsis in the national congress?</p>
         </sp>
@@ -47221,7 +47203,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I would say ten maximum. Surely not more than ten.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I'm seeking a clarification on the structure of the party. I am really confused about the politburo. And it's fair to say that, according to the constitution of the party, there was a politburo which was constituted by the chair, two vice chairpersons and the secretary. Then there was the governing structure at the préfecture level with a regional executive. Then the national congress. What I don't understand is how it shall be -- or how some of them fed into the politburo. That's on the one hand.</p>
         </sp>
@@ -47411,7 +47393,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Were there marriages between Hutus and Tutsis on that hill?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I'd like a clarification before you proceed, Counsel. I'm interested in the witnesses who lived -- the witnesses who came here that you mentioned. What were their pseudonyms, who lived with your parents on that hill in the '60s? I remember CGH, but I don't remember the others.</p>
         </sp>
@@ -47419,7 +47401,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I mentioned several witnesses through their pseudonyms, the pseudonyms they had here, because I know that they were protected witnesses. This is why I used their pseudonyms. I talked about CJ --</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p></p>
         </sp>
@@ -47428,7 +47410,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I shall give them to you now, Your Honour. CGX; I talked about the son CGE; I talked about CGH; and I talked about CGF, who is the brother-in-law of CGH. But CGF came to Gasharu a long time afterwards. I don't know him. I don't know him. But he came to settle down in Gasharu quite recently, and I was told that he was the brother-in-law of CGH. The wife is the sister of CGH. The wife of CGF is the sister of CGH. And they are all in Gasharu. But CGF only came recently, while CGX, for example, was there ever since the '60s. His son was born there in the '70s, so that they lived there. It is their area. They were one of the first natives of that hill. So that I am just trying to show you that on that hill there were very few people, and the people who were there were mainly Tutsi, and then gradually Hutu came to ask for land from the Tutsi. I hope I've satisfactorily covered your question, Your Honour. </p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Yes, thank you. </p>
         </sp>
@@ -47497,7 +47479,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, in the morning, there was a communiqué urging people to remain at home, but at around 8:00 or 9:00 -- I can't remember; this was about ten years ago. And it was the watchman that told us that there were soldiers that were going around houses, killing people. So I went out of the house and I left. I left; I went hiding at a neighbour's house not too far away. I went to a neighbour's house. My wife also went out of the house to hide in another neighbour's -- the nearest neighbour, because houses were adjacent. That is where my wife went with two children. And three other children spent the night elsewhere. I went away, 500, 600 metres away, at a neighbour's house to hide. That was my first reaction because I thought that, with the news I had just heard, those people might very well come to my house. And I knew what would happen. With the problems I had experienced, I knew that I was in danger.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Where did you hide in your neighbour's house? Mr. Ndindabahizi, you said that you hid in your neighbour's house. What was the ethnic group of your neighbour -- ethnic identity? He was a Hutu or he was a Tutsi?</p>
         </sp>
@@ -47505,7 +47487,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I know that he was a Hutu. He was Hutu.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Why did you hide in his house? You were a Hutu, too.</p>
         </sp>
@@ -47513,7 +47495,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, I was Hutu, Your Honour, but I went to hide because I knew that I was holding a position in society of a burdensome responsibility, and I said to myself that people could come to my house, they could kill me, because people told me that they were going around the first houses in the area. They were going into houses and they were killing everybody. And I was frightened because of my position, because of the position I had within the party and within the ministry. That was why I had to go. I knew that perhaps with that small neighbour of mine, because he was not very well known -- it was a house that -- perhaps the interpreters can help me -- was surrounded by some type of bush. I said to myself that probably those killers would not come to that particular house. But it was just for that time. It was not once and for all that I was going to hide in there. It was just for the time being.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you.</p>
         </sp>
@@ -47562,7 +47544,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, I think that it was self-evident the reason why I was scared. I said that I was director of the cabinet of the ministry of finance, and people told me that people were being killed all around my house. You think I should stay in my house? No, I didn't do so. I said to myself, "I could be killed, especially as I belong to a political party that was always said to have been pro-RPF". It was said that PSD was pro-RPF. Do you want me to stay at the house to be killed? No, sir. I was scared about what could have happened, because I heard gunshots in the area. I heard gunshots. I wasn't told, "Look, people have been killed and I should run away". No, I heard the gunshots, and I ran away. And on my flight, I saw soldiers. I saw soldiers go into houses, breaking down doors, killing people. I was scared. I was right to be frightened and to run away. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Ndindabahizi, did you see people being killed near your house? </p>
         </sp>
@@ -47570,7 +47552,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, Your Honour, I have told you that those people went into houses and killed, and when they killed they came out. Now, to tell you I saw a body, a dead body, or somebody wounded, all I saw may not be true, but I saw them going in, coming out, and people they killed were left in the houses. Doors were broken, windows were broken, but people were left in the houses. That was the situation.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Now, how did you succeed to go to your neighbour's house? </p>
         </sp>
@@ -47636,7 +47618,7 @@
           <p>Well, you see, there were soldiers in the morning. In the afternoon, the RPF came to that hill, so that there was a confrontation brewing. The RPF, just as the other soldiers went into houses and killed, they killed just like other soldiers. So that seeing that the area, the vicinity, was becoming more and more dangerous, and I had to run away. I had to decide. I decided therefore to leave. I decided to call my wife on the telephone and tell her that I was leaving, and I told her where I was going. I informed her, because people that were living around the RPF barracks and the CND area were running. They were coming towards us. We were near the valley, and I told my wife, "Look here at Amon Gahizi's". And there was a telephone at that soldier's house. I told her, "Look, I am leaving. You also should try to run away because the RPF is outside too -- is out there too". So I left. I immediately left in of the midst, haze, of bullets from all over the place. We didn't know where bullets came from. I was asked whether I should stay within the house. I said no. I was scared; I had to leave, because Gahizi's wife was telling me they were killing important personalities. "If they come here, they will kill you". Sometimes they would tell me to hide in the latrine outside the house. I had to go. I left. I left, and I went to another hill. </p>
         </sp>
         <stage>Pages 24 to 32 by S. Eboe-Osuji)1630H</stage>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>And you were not scared of the enemies outside the house?</p>
         </sp>
@@ -47957,7 +47939,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I think I was accompanying them. They weren't accompanying me, but, yes, I was with them. I was with those two persons, and they are both members of the politburo of the PSD. I was only chairman of the party in Kibuye; I was not a member of the politburo. When we arrived, those two members of the politburo would play the game. When they were asked who would represent our party -- first, they were surprised. I was next to them. I was following everything. See, we have -- you have ministries. Who is going to represent us? Who is going to hold those portfolios? That was the question that they asked. The answer was the following: "Well, those people are dead or they've disappeared. Those people who would represent our party are either dead or just disappeared. What are we going to do" they said "with your ministries?" Have I <stage>(interpretation unintelligible)</stage> satisfactorily covered the question, or should I go on to tell you what happened next? I think, madam, Your Honour --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What do you mean by "they"? Who is "they"?</p>
         </sp>
@@ -47981,7 +47963,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Perhaps I can give you the names that I remember? Now, for MRND, there was Gunamatse Matera <stage>(phonetic),</stage> Karamera Eduardo <stage>(phonetic).</stage> I also saw Zidovera Joseph <stage>(phonetic).</stage> For the MDR, I saw Murego Domat. I also saw Karamera, Frodouald Karamera. And for the PR, I saw Mugenzi Justin. I also saw <stage>(interpretation unintelligible)</stage> and for the PDC, I do remember having seen Rumerigisa Caspar. So, there was also another person for PDC, but I do not remember his name. But there were two of them from the PDC, so that if one reckons -- it was the PSD that was missing. So that when we arrived, I was with Ndungutse François and Rafiki, but we -- that day the meeting had ended, we did not take part in the meeting. What we did is what I just said, that was when I was asked a question -- and, of course, what we had to tell each other -- the people we met there that it was the end of the meeting.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Ndindabahizi, what was decided in the meeting?</p>
         </sp>
@@ -47989,7 +47971,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>The purpose of the meeting -- when we got there, what we were asked to do was to appoint or to supply names of persons so that we were to occupy --</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You didn't follow my question. When you reached there, what was decided in the meeting? Do you know what was decided? Do you know what was decided in the meeting? </p>
         </sp>
@@ -47997,7 +47979,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>It was the setting up of a government, an interim government. That was what was decided upon at that meeting, because we were told -- you see the president of the republic is dead. There is no longer any government, we are at war. We should therefore look for how this country's to be run. In other words, in a nut shell, it was a question of setting up an interim government. If there was anything else done there, I wouldn't know. But that was the purpose as it was told us.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>An interim government was set up in that meeting? </p>
         </sp>
@@ -48021,7 +48003,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, sir, they were Hutu. Rafiki is Hutu; François is Hutu, and Ndindabahizi a Hutu. They were all Hutu, sir.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>There was this decision -- you found this decision made that there was going to be found an interim government, and that the PSD was to take three posts. When was the decision made as to who was going to represent the PSD in that government? Was it there and then, or some time later? </p>
         </sp>
@@ -48029,7 +48011,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>The members of the politburo, that's <stage>(interpretation unintelligible)</stage> decided there and then. They were asked to appoint the representatives of the PSD and there, on the spot, they decided to allow the former directors of cabinet of those ministries to place the ministers that had either died or ran away. That was the decision made there and then when we were there. They immediately supplied names that were immediately added on the list. Now, the problem was that we had three ministries; the minister of agriculture and lifestyle; the minister of finance; and the minister of public works and energy so that we had to have three directors of cabinet that should have succeeded the former ministers. The problem was that there was a director of cabinet that had been killed, so that we only had two directors of cabinet and three ministries. We had to find somebody else. Now, in the decision made by the two members of the politburo --</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I want to interject. And when these two members of PSD there and then, were you consulted or was it just handed down? And, what was your response? </p>
         </sp>
@@ -48037,7 +48019,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>They did not consult me. They decided quite simply that the directors of cabinet should continue so that they did not talk to anybody. They said the directors of cabinet, since we could not get the problem <stage>(interpretation unintelligible)</stage> where the members are at a time of war, we should show our responsibilities. They did not consult me. They said the directors of cabinet will continue to assume those posts. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Who made the decision?</p>
         </sp>
@@ -48045,7 +48027,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>The two members of the politburo, Mr. Rafiki and Ndungetse. They signed the politburo agreement between the political parties that had just set up the government. There was a decision adopted that was called -- sorry, that was a political agreement, an additional political <stage>(interpretation unintelligible).</stage> There was an existing protocol and in that political agreement, they added representatives of the PSD. They were Ndungutse and Rafiki who signed along with the other parties to set up that government. They immediately signed, but they formulated reservations, both of them, and the political agreement, they formulated reservations. They said, "We will accept to sign with conditions, otherwise we commit to party, but when the politburo of the party or the committee is set up, it will be the people in that committee that will decide whether these people should stay or be replaced so that the decision we made was provision. They require that that be mentioned in the political agreement they signed as the basis of the setting up of that interim government.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Who was the director of cabinet who had already been killed at that point in time?</p>
         </sp>
@@ -48239,7 +48221,7 @@
           <speaker>MR. BESNIER:</speaker>
           <p>Very well.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>I need some clarification from the Accused person. About this second meeting -- was it the meeting at ESM -- was it a meeting of the crisis committee with members of the parties? What was it all about? Who were meeting, who?</p>
         </sp>
@@ -48247,7 +48229,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>The participants in that meeting included the members of the political party committees, those who met on the 8th in the morning, or during the day during the 8th, and also the crisis committee. Those were the only participants in that meeting.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And who were the members of the crisis committee?</p>
         </sp>
@@ -48255,7 +48237,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>It is difficult to answer your question. It was soldiers. I didn't know them all. I knew two of them who were leading the others. Those were Colonel Bagosora and General Ndindiliyimana and they represented the others, but the others were also there but I don't know their names.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>That is all, thank you.</p>
         </sp>
@@ -48268,7 +48250,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>On the 9th of April in the morning I woke up, but I had a problem. In fact, since the 6th of April I had been separated from my family and, as I told you yesterday, I believe my wife and two children had fled towards Kicukiro. I had three other children who had spent the night with another family, of friends of ours. On that morning of the 6th I thought that I should try to do something to get my wife back with me, as well as the two children who were with her. I borrowed a car from François Ndmbutse <stage>(phonetic).</stage> He had a small car. I knew how to drive. I also had a gendarme accompany me, so I could go and get my family in Kicukiro. We were asked to stay at the hotel for security reasons, because the names of the future ministers had already been made public. We were told to stay at the hotel for security reasons, but I ignored those orders because I was very worried. I was worried about the fate of my family. I absolutely, whatever the cost was, had to find them, and I knew I was risking a great deal. I went to try to find them in Kicukiro. My wife, in fact, before the telephones were cut off on the 8th, on the 7th, therefore, of April, she called me to tell me where exactly she was in Kicukiro. So I left to look for my wife in Kicukiro, and I went to the place she told me where she was. She was at a convent. I didn't know that convent, but I asked around and people told me where the convent was. I saw the manager of the convent, who told me my wife had left that night. But she said she didn't go very far.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What do you mean convent, by a school or what is this? You just mentioned convent. What was this?</p>
         </sp>
@@ -52110,7 +52092,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, Mr. President. Good afternoon, sir.MR. PRESIDENT:So the Judges may have a few questions to you at the end.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Good afternoon, Mr. Ndindabahizi.</p>
         </sp>
@@ -52118,7 +52100,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Good afternoon, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>My first question to you relates to a cabinet meeting. Your testimony was that there was a meeting every day except for those who were outside the country. My question is: How often did you attend these meetings? I mean, except for the period you were outside the country.</p>
         </sp>
@@ -52126,7 +52108,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, I attended meetings. I had been attending meetings since the very beginning, that is from the time of the swearing in, that was on the 9th of April 1994; and the 10th, that is the next day; the 11th there must have been a meeting; and on the 12th, we left to go to Gitarama. And upon arrival at Gitarama, cabinet meetings continued almost every day. I do remember that we had a meeting even on the 14th; the 15th; the 16th, there was a very important meeting that we had; and on the 17th, as well, there was a meeting. After the end of the month of April, indeed, there were meetings frequently, 26th, 27th, 28th, 29th, 30th. The 30th, we went to Gikongoro, and started May with a meeting at Kibuye; so that there were frequent meetings; and I did take part in almost all of them -- all of those meetings, because I did not leave Gitarama throughout the month of April. I left Gitarama at around the 11th of May to go to Nairobi. I came back at around the 20th. In other words, Your Honour, there were meetings almost every day, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay, and you would go to Gitaka once a year, as you stated. And did you leave your car at the Gitaka centre, every time you went there and walked up to your home?</p>
         </sp>
@@ -52134,7 +52116,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>That is correct, because the road ends at the Gitaka centre, and to get to my house there was no road, as such. I, therefore, had to proceed on foot. I went a little uphill for about 15 minutes. It's not very far, the hill, and my house was on the top of the hill, so that when one is at the top of the hill, one sees the people who are at the Gitaka commercial centre very easily. There is no obstacle for one's sight, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And you went to Gitaka in 1994, June, around 26th or thereabouts, according to your testimony, and you saw your sister, who told you about the children who were hiding in her place. Then you went to Gitaka centre, you were told about Gasharu <stage>(phonetic)</stage> and how he killed ten people. Did you enquire about your cousin Karegeya at any point during this visit?</p>
         </sp>
@@ -52142,7 +52124,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, it was not a question of carrying out enquiries. People simply informed me of what did take place on that hill. Because when I arrived there, I found people at the Gitaka commercial centre, we talked. And then I went up to the house to see my sister, who told me about the children she was hiding. And when I went back down hill, I still found people in Gitaka and they told me about Gasharu, he was pointed out to me, and I was also told about Karara. I was given information on what took place, including information regarding my cousin Karegeya yes, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And I believe he had already died by this date, had he?</p>
         </sp>
@@ -52150,7 +52132,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, Your Honour. At the time, I was told that he had already died.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Okay, what were your responsibilities of executive secretary -- correct me if I'm wrong -- executive secretary in Kibuye of the PSD party? Was that your designation, or was it some other designation? And if it was, this or some other designation, what were your duties as such?</p>
         </sp>
@@ -52158,7 +52140,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, my duties were that I represented the party at the regional supreme body, so that I was in charge of parties <stage>(sic),</stage> as far as the Kibuye préfecture was concerned.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>What did this entail, being in charge of the party in Kibuye?</p>
         </sp>
@@ -52166,7 +52148,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>In terms of activities, I was to ensure that the party functioned properly in the préfecture. In other words, I should be in the know as to what was happening in the various communes. The chairmen at communal level should be in touch with me, or I should be in touch with them, and sometimes convene meetings of those communal leaders, if necessary. And my duties were tantamount to coordinating the activities of the party in the region. At times, there were some communes that had no bourgmestre, as was the case for the Gishyita commune, and at another time, the Kivumu commune. When posts were vacant, that is the posts of the bourgmestre, it was my responsibility to organise elections for their replacement by a PSD candidate. Sometimes we failed. In Gishyita, that was the case. We were not able to have somebody in Kivumu. But these were some of the duties I was responsible for; in other words, try to win over people to our party, that they join us as members.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>And why did you go with Rafiki? Was it because he had closed his house and you had nowhere else to go, or was it because he asked you to accompany him to the meeting at the Ministry of Defence?</p>
         </sp>
@@ -52174,7 +52156,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes. When Colonel Bagosora came, he talked to Rafiki. I was outside the compound. Now, Rafiki came inside the house and told me, in brief, what the Colonel had just told him. So that he said, "The Colonel just told me that there is a meeting of political parties at the Ministry of Defence and that there was no PSD representative there," so he wanted to invite me to represent the PSD at the Ministry of Defence meeting. He also stated, in his house "There was a person who was executive secretary of the party but for the préfecture of Kibuye called Ndindabahizi," and asked whether Ndindabahizi could go along with him. Now he told me that, "I asked whether you can come with me, and the Colonel didn't have any objections, and the Colonel said, "Well, there is no problem." "So you should please come with me," he said. So I went along with him. In my testimony I did say that immediately he closed his house down and we took the lady, who was expecting a child, we took the lady along and I had to leave his house because he had closed down the house. I think I said so in my testimony. The gist of the matter is that he asked me to go along with him, Your Honour.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Then on the -- your interviews, which are contained in Exhibit P. 25, I wanted to refer to your statement, which appears on page K0217400. I don't know what the French equivalent is of the page. Page K0217400.</p>
         </sp>
@@ -52182,7 +52164,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Could I also have, the French version, please indicate the page. Does it have the French version?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Well, the statement is the second-but-last paragraph in the English version. Maybe I can read you the paragraph and then we'd like to have your comments on it. It goes as follows:</p>
         </sp>
@@ -52198,7 +52180,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>Now you have to go towards the end of that document in order to find it.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>It is the paragraph which begins, "The massacres took place because. . ."</p>
         </sp>
@@ -52206,7 +52188,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I do not see any mention of massacres taking place. At the bottom of the page are the handwritten notes. Are you referring to those handwritten notes?</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>No, I'm referring to the paragraph that reads like this, "The massacres took place because of the attacks by the RPF."</p>
         </sp>
@@ -52238,7 +52220,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I am with you here.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>You say here that, "The massacres took place because of the attacks by the RPF and their refusal to negotiate with the new government with a view to stopping the war," I believe", and you go on to say, "I believe that if there had been dialogue, the government would have mobilised sufficient security personnel to effectively stop the massacres." So my question is: Are you saying that the government did not mobilise sufficiently to stop the massacres because the RPF refused to negotiate?</p>
         </sp>
@@ -52246,7 +52228,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Here there is the answer, but I do not see the question that was put to me here. The question is not repeated here, but at one given time, I do remember that we were talking about the massacres, and I explained that there was a delegation of the government that had been to talk to the RPF to negotiate the cessation of hostilities, and that the RPF -- according to the explanations that were given to us by the emissary who went, the RPF were saying they were not in a position to put an end to the war for as long as the government did not resign. This is what was told us. So that we told them, "Look," they said, "we want to negotiate with the military but not with the government. If you, the soldiers, want to talk to us, come and talk to us and don't say you are here to represent the government." This is what I tried to explain. And so far as the possibility of stopping the massacres is concerned, I did say that the government soldiers were concentrating on war against the RPF, that they were mainly concerned about war with the RPF, so that it was not possible to have any soldiers coming into the hills, because most of the work was in the battlefield. This is what I did say: Most of the soldiers were in the battlefield. I was trying to say that if the RPF had wanted to work with us and the two sides were able to come to an agreement to desist from war, to desist from fighting, those soldiers, that is the RPF soldiers and the government soldiers, could have come together for the purpose of approaching the population, so that the disturbances would cease and calm would be restored. I believe it was 1976 and that was what I wanted to say, it was an opinion of mine that I was offering.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>We are now roughly back to Karegeya. By the time you went to Gitaka in June he had been killed with his two wives plus some of his children, and you almost arrested Gishayke <stage>(phonetic),</stage> you arrested Karara. I'm just wondering: Did you make any investigations regarding this matter? Because this was your relative, in addition to being a native of your native cellule.</p>
         </sp>
@@ -52254,7 +52236,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I did not arrest Gishayke, because he disappeared before he was arrested. I was able to arrest Karara and took him to the commune. I had entrusted that investigation to the bourgmestre, who was in charge of the commune, I had asked him to try and monitor the situation and ask Karara what happened. So that was what I did. So far as Gishyake was concerned -- as far as Gishyake was concerned, I was given information about what had happened. There was no more work to be done. People were killed, those people were killed, and those that were in charge were to offer the necessary explanations for the commune. I was not in Gitaka, Your Honour, to carry out any investigations. I did not even know what was happening there. I just passed by to see my sister, and when I saw what was happening, to allay her fears, I tried to arrest Karara, so that he would go and justify whatever he may have done. Because I thought I should ask the bourgmestre to monitor those developments, and I thought that my duty consisted in only that and that alone, because there was also a question of retribution. There were authorities in that prefecture, the préfet, the bourgmestre, there were advisors. So it was not the responsibility of the minister to carry out investigation. I did what I did in order to ensure that people are enlightened to the fact that they can't just kill and go scot free.</p>
         </sp>
-        <sp who="#judge bossa">
+        <sp who="#judge-bossa">
           <speaker>JUDGE BOSSA:</speaker>
           <p>Well, this was in a response to your admission yesterday that a minister had a lot of power and could do anything, and so I was wondering whether you couldn't have used those powers to go a little bit further than you did, and that's all. Thank you.</p>
         </sp>
@@ -52262,7 +52244,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Well, I believe that I was not the one that said that the minister had all the power. It must have been a witness that must have made that statement here, not me, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Ndindabahizi, I have two short questions for you. My first question, from the evidence we got so far we observed that the Hutus during the war could be categorised into three; ones who were against the government policy and managed to flee the country; then there was those who stood against the government and were killed; and the third category was those Hutus who supported the internal government policy and chose to join the government. Would I not be justified to presume that you belong to the latter category, the third category?</p>
         </sp>
@@ -52271,7 +52253,7 @@
           <p>Your Honour, let me say, once again, that I did explain the manner in which I joined that government. I did not join the government because I made an option. There was no option. There was no option, that was what I said, so far as I was concerned -- I don't know about the others that are concerned -- but as far as I was concerned, it was not an option. It was not on the basis of an option that I joined the government. I did explain how I left my house on the 7th in the morning. I said how I went hiding at a neighbour's, even in the latrine behind the house. I have said how my wife spent the night on the road with a child on her back. I said how I was able to hide at Raffaki's and how Colonel Bagosora got there. I said how Rafiki asked me to go along with him and how we arrived at the Ministry of Defence. I have said that when we arrived, everything was over, the government had been set up and that we were faced with a fait accompli. We were asked to join the government. We had no choice. It was a war situation. The city had been surrounded. I didn't have any option. I didn't have anywhere to go. This is what I explained. So that the ministers that were abroad with the president, they were abroad; it was their luck, so to speak; and the others that were able to flee to join the RPF, it is probably because they were able to go towards the RPF. I was probably unlucky enough to have fallen upon the government. So it was not a matter of choice, so far as I'm concerned. I cannot belong to the category, the latter category you referred to, having opted to join the interim government.</p>
         </sp>
         <stage>Pages 1 to 6 by R. Lear)1445H</stage>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Your visit to the ministry of defence with Rifiki was not pre-planned?</p>
         </sp>
@@ -52279,7 +52261,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>I did not understand, Your Honour. What plan are you referring to? </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You went to the ministry of defence with Rifiki?</p>
         </sp>
@@ -52287,7 +52269,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Yes, I did.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>That was not a pre-planned program?</p>
         </sp>
@@ -52295,7 +52277,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Even if it had been pre-planned, I had no idea about it. I went with Rifiki. He told me there was a meeting. He did not tell me that he was aware that that meeting had been planned. He said, "Come with me." We went and we found there was a meeting going on. We didn't know who planned the meeting, or if it was planned. We just got there and people were there.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>No, I'm asking about your visit to the ministry of defence with Rifiki. Your visit was not pre-planned? Your going with Rifiki was not pre-planned; that's what you want to say?</p>
         </sp>
@@ -52303,7 +52285,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>It was not pre-planned. The decision to accompany Rifiki came only after Bagosora came. Bagosora spoke to Rifiki and Rifiki told me, thereafter, that he was informed by Bagosora that there was a meeting taking place at MINIDEF, at the ministry of defence, and that he had to go. Bagosora had just invited him, and Rifiki said that I had to accompany him because I had spoken about that with Bagosora. I had no idea Rifiki knew.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>My second question is: In your examination-in-chief, you posed RPF to the assailants who started attacking the Hutus and the presidential guards, after that <stage>(inaudible),</stage> but according to the investigations -- some of these investigations carried on. It was the Tutsis who were victimised, and the Hutus who had started killing and massacring the Tutsis. How would you justify your statement in light of the investigating reports which goes against your own testimony? </p>
         </sp>
@@ -52311,7 +52293,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Did I say that the RPF were assailants? Did I say that? I don't remember if I had mentioned that yesterday, if I said that.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>You said, "Soon after the death of the president, we have to start attacking the Hutus." </p>
         </sp>
@@ -52319,7 +52301,7 @@
           <speaker>EMMANUEL NDINDABAHIZI:</speaker>
           <p>Your Honour, I don't believe that was what I said. I only said that in the beginning. The first soldiers who were attacking the population was the presidential guards. I left my house because of those attacks by presidential guard soldiers. They were attacking the neighbourhood, and the RPF battalion which was based at the parliament, they started to attack the population, as well, just like the presidential guards were in the morning. They started in the afternoon and at 2 o'clock, therefore, in the afternoon, I had to leave my first place of hiding because the RPF left its base. So the RPF was not the first to attack. It was the presidential guard soldiers who began attacking and the RPF soldiers reacted to those attacks, and that was in the afternoon. That is what I remember saying, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Thank you. </p>
         </sp>
@@ -52639,7 +52621,7 @@
           <speaker>MR. KAPAYA:</speaker>
           <p>Yes. Just a few remarks, Your Honour. In addition to the problem of notice with which Mr. Phillips has talked about, I think this Tribunal has discretion to say that substantive is done. So we urge the Tribunal to not to allow issues of procedural justice to override substantive justice. So for that reason, we request that the failure to respond in time not be considered as a serious matter not to consider our submissions. Now, the other issue relates to, as Mr. Besnier has said, to character. He says that the witness statement talks about the character of the accused. But before that is done, we think that's why we pray that the witness be called for cross-examination. We should be able to ask that witness the background, the basis, for which he left Rwanda. Why did he leave Rwanda? We understand what he was doing between January '94 to August '95, when he suddenly fled. Why? The Chamber should be in a position to know the circumstances that led him to leave Rwanda before he can speak about the character of other people. And again, as regards the contacts with other people, the witness alleges in that statement that he was blackmailed, that he was manhandled, and that kind of thing. So he implicates other people who were not before this Tribunal. He implicates several investigators of the Tribunal as to what transpired. So it's important, Your Honours, that if you think that you may wish to act on this statement, then the witness should be subpoenaed to come and testify here, at least for purposes of cross-examination. It is submitted that he cannot make -- he has refused to come. Why should he refuse to come? I think the Chamber has powers, under Rule 54, to summon, to subpoena a witness to come and testify. And I believe his security can be guaranteed. There is no problem about that. And, again, it is not the function of the Prosecution, but the Defence may have considered exploring the provisions of Rule 71. But they wish, for instance, to file a -- to ask for a deposition. And we could have prepared our questions, or somebody could have represented us in the place where this witness is staying, then we could put our questions there. Mr. Besnier could have put his questions there, and then we get a fair deal. So for those reasons, Your Honour, we request that the motion be dismissed, and if it is not dismissed, then we request that the witness be available for cross-examination by the Prosecution. Thank you, Your Honours. </p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>What is the normal -- Mr. Prosecutor, what is the normal procedure for the service of the motion? </p>
         </sp>
@@ -52774,7 +52756,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>Your Honour, yes, obviously.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Phillips, is the case of the Defence that the Accused had a Tutsi wife?</p>
         </sp>
@@ -52782,7 +52764,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>I don't recall that specifically, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>He didn't say that he had a Tutsi wife? </p>
         </sp>
@@ -52790,7 +52772,7 @@
           <speaker>MR. ADEOGUN-PHILLIPS:</speaker>
           <p>I don't recall. I don't think so. She was from Gitarama. I don't think there were that many Tutsis from Gitarama. I recall her being from Gitarama, Your Honour.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Okay. </p>
         </sp>
@@ -53081,7 +53063,7 @@
           <speaker>MR. KAPAYA:</speaker>
           <p>It is in these paragraphs, and we offer no evidence. As for the rest, Your Honour, we submit that we have proved our case beyond any sane doubt against the accused person.I have no further submission.</p>
         </sp>
-        <sp who="#judge khan">
+        <sp who="#judge-khan">
           <speaker>JUDGE KHAN:</speaker>
           <p>Mr. Kapaya, did you say para 9, para 9 <stage>(2)</stage> ?</p>
         </sp>
