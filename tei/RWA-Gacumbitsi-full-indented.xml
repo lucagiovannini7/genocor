@@ -4,8 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">ICTR-2001-64-I:</title>
-        <title type="sub">Sylvestre Gacumbitsi:</title>
+        <title type="main">ICTR-2001-64-I</title>
+        <title type="sub">v. Sylvestre Gacumbitsi</title>
+        <author>
+          <persName>International Criminal Tribunal for Rwanda</persName>
+          <idno type="wikidata">Q478358</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -19,8 +23,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>ENTER SOURCE NAME HERE</name>
-          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <name>Court records</name>
+          <idno type="URL">https://ucr.irmct.org/scasedocs/case/ICTR-01-64#transcripts</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
@@ -88,7 +92,7 @@
             <persName>WITNESS TAW</persName>
           </person>
           <person xml:id="judge-liu">
-            <persName>JUDGE LIU:</persName>
+            <persName>JUDGE LIU</persName>
           </person>
           <person xml:id="witness-tap">
             <persName>WITNESS TAP</persName>
@@ -217,7 +221,7 @@
             <persName>WITNESS UMT</persName>
           </person>
           <person xml:id="mr-kouengoua">
-            <persName>MR. KOUENGOUA:</persName>
+            <persName>MR. KOUENGOUA</persName>
           </person>
           <person xml:id="judge-meron">
             <persName>JUDGE MERON</persName>

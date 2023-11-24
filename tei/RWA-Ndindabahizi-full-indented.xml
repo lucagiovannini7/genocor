@@ -4,8 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">ICTR 2001-71-T</title>
-        <title type="sub">Emmanuel Ndindabahizi</title>
+        <title type="main">ICTR 2001-71</title>
+        <title type="sub">v. Emmanuel Ndindabahizi</title>
+        <author>
+          <persName>International Criminal Tribunal for Rwanda</persName>
+          <idno type="wikidata">Q478358</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -19,8 +23,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>ENTER SOURCE NAME HERE</name>
-          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <name>Court records</name>
+          <idno type="URL">https://ucr.irmct.org/scasedocs/case/ICTR-01-71T#transcripts</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
