@@ -142,9 +142,6 @@
           <person xml:id="judge-khan">
             <persName>JUDGE KHAN</persName>
           </person>
-          <person xml:id="mr-witness">
-            <persName>MR. WITNESS</persName>
-          </person>
           <person xml:id="the-english-interpreter">
             <persName>THE ENGLISH INTERPRETER</persName>
           </person>
@@ -18160,7 +18157,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>So, Mr. Witness, was your eyesight normal in 1994; is that what you are saying?</p>
         </sp>
-        <sp who="#mr-witness">
+        <sp who="#witness-cgl">
           <speaker>MR. WITNESS:</speaker>
           <p>Yes -- no, I didn't have any problem with my eyesight.</p>
         </sp>
@@ -27102,7 +27099,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>First or second half of April?</p>
         </sp>
-        <sp who="#mr-witness">
+        <sp who="#witness-dl">
           <speaker>MR. WITNESS:</speaker>
           <p>It was in the middle of the month of April.</p>
         </sp>
@@ -44410,7 +44407,7 @@
           <speaker>MR. PRESIDENT:</speaker>
           <p>That's a very good point. Now, your reference to Alison Des Forges, Mr. Witness, that is page 230 of Leave None To Tell The Story book, that's the source, the quote you are emphasising in your report is page 230 of the book now entered as D. 49, isn't that so?</p>
         </sp>
-        <sp who="#mr-witness">
+        <sp who="#witness-lugan">
           <speaker>MR. WITNESS:</speaker>
           <p>Yes, Mr. President. Page 230, and on that page Alison Des Forges speaks of the beginning of that meeting of 8 of April, which started early in the morning. In her report she says the same thing, by the way. She confirms that in her report, but -- which is also confirmed by my own information. She is completely right. The whole question is to know whether it was 8 or 9 in the morning, but --</p>
         </sp>
