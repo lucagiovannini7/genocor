@@ -34,127 +34,127 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="mr-president">
+          <person xml:id="mr-president" role="presiding judge" sex="M">
             <persName>MR. PRESIDENT</persName>
           </person>
-          <person xml:id="witness-cge">
+          <person xml:id="witness-cge" role="witness" sex="M">
             <persName>WITNESS CGE</persName>
           </person>
-          <person xml:id="witness-dv">
+          <person xml:id="witness-dv" role="witness" sex="M">
             <persName>WITNESS DV</persName>
           </person>
-          <person xml:id="mr-adeogun-phillips">
+          <person xml:id="mr-adeogun-phillips" role="lawyer prosecution" sex="M">
             <persName>MR. ADEOGUN-PHILLIPS</persName>
           </person>
-          <person xml:id="the-kinyarwanda-interpreter">
+          <person xml:id="the-kinyarwanda-interpreter" role="interpreter" sex="UNKNOWN">
             <persName>THE KINYARWANDA INTERPRETER</persName>
           </person>
-          <person xml:id="witness-lugan">
+          <person xml:id="witness-lugan" role="witness" sex="M">
             <persName>WITNESS LUGAN</persName>
           </person>
-          <person xml:id="judge-bossa">
+          <person xml:id="judge-bossa" role="judge" sex="F">
             <persName>JUDGE BOSSA</persName>
           </person>
-          <person xml:id="mr-marçais">
+          <person xml:id="mr-marçais" role="lawyer defense" sex="M">
             <persName>MR. MARÇAIS</persName>
           </person>
-          <person xml:id="mr-besnier">
+          <person xml:id="mr-besnier" role="lawyer defense" sex="M">
             <persName>MR. BESNIER</persName>
           </person>
-          <person xml:id="judge-møse">
+          <person xml:id="judge-møse" role="presiding judge" sex="M">
             <persName>JUDGE MØSE</persName>
           </person>
-          <person xml:id="mr-tafah">
+          <person xml:id="mr-tafah" role="lawyer prosecution" sex="M">
             <persName>MR. TAFAH</persName>
           </person>
-          <person xml:id="witness-cgv">
+          <person xml:id="witness-cgv" role="witness" sex="M">
             <persName>WITNESS CGV</persName>
           </person>
-          <person xml:id="witness-des-forges">
+          <person xml:id="witness-des-forges" role="witness" sex="F">
             <persName>WITNESS DES FORGES:</persName>
           </person>
-          <person xml:id="cgl">
+          <person xml:id="cgl" role="witness" sex="F">
             <persName>CGL</persName>
           </person>
-          <person xml:id="witness-cjy">
+          <person xml:id="witness-cjy" role="witness" sex="M">
             <persName>WITNESS CJY</persName>
           </person>
-          <person xml:id="witness-baghel">
+          <person xml:id="witness-baghel" role="witness" sex="M">
             <persName>WITNESS BAGHEL</persName>
           </person>
-          <person xml:id="witness-cgn">
+          <person xml:id="witness-cgn" role="witness" sex="M">
             <persName>WITNESS CGN</persName>
           </person>
-          <person xml:id="mr-diallo">
+          <person xml:id="mr-diallo" role="registrar" sex="M">
             <persName>MR. DIALLO</persName>
           </person>
-          <person xml:id="witness-cgl">
+          <person xml:id="witness-cgl" role="witness" sex="F">
             <persName>WITNESS CGL</persName>
           </person>
-          <person xml:id="witness-dq">
+          <person xml:id="witness-dq" role="witness" sex="M">
             <persName>WITNESS DQ</persName>
           </person>
-          <person xml:id="witness-dc">
+          <person xml:id="witness-dc" role="witness" sex="M">
             <persName>WITNESS DC</persName>
           </person>
-          <person xml:id="witness-ctk">
+          <person xml:id="witness-ctk" role="witness" sex="F">
             <persName>WITNESS CTK</persName>
           </person>
-          <person xml:id="witness-dp">
+          <person xml:id="witness-dp" role="witness" sex="M">
             <persName>WITNESS DP</persName>
           </person>
-          <person xml:id="witness-di">
+          <person xml:id="witness-di" role="witness" sex="F">
             <persName>WITNESS DI</persName>
           </person>
-          <person xml:id="witness-dh">
+          <person xml:id="witness-dh" role="witness" sex="M">
             <persName>WITNESS DH</persName>
           </person>
-          <person xml:id="mr-mussa">
+          <person xml:id="mr-mussa" role="registrar" sex="M">
             <persName>MR. MUSSA</persName>
           </person>
-          <person xml:id="mr-adeogun-phillps">
+          <person xml:id="mr-adeogun-phillps" role="lawyer prosecution" sex="M">
             <persName>MR. ADEOGUN-PHILLPS</persName>
           </person>
-          <person xml:id="witness-du">
+          <person xml:id="witness-du" role="witness" sex="F">
             <persName>WITNESS DU</persName>
           </person>
-          <person xml:id="witness-cgf">
+          <person xml:id="witness-cgf" role="witness" sex="M">
             <persName>WITNESS CGF</persName>
           </person>
-          <person xml:id="witness-do">
+          <person xml:id="witness-do" role="witness" sex="M">
             <persName>WITNESS DO</persName>
           </person>
-          <person xml:id="the-french-interpreter">
+          <person xml:id="the-french-interpreter" role="interpreter" sex="UNKNOWN">
             <persName>THE FRENCH INTERPRETER</persName>
           </person>
-          <person xml:id="witness-dm">
+          <person xml:id="witness-dm" role="witness" sex="M">
             <persName>WITNESS DM</persName>
           </person>
-          <person xml:id="witness-gkh">
+          <person xml:id="witness-gkh" role="witness" sex="M">
             <persName>WITNESS GKH</persName>
           </person>
-          <person xml:id="witness-dl">
+          <person xml:id="witness-dl" role="witness" sex="M">
             <persName>WITNESS DL</persName>
           </person>
-          <person xml:id="mr-kapaya">
+          <person xml:id="mr-kapaya" role="lawyer prosecution" sex="M">
             <persName>MR. KAPAYA</persName>
           </person>
-          <person xml:id="judge-khan">
+          <person xml:id="judge-khan" role="judge" sex="F">
             <persName>JUDGE KHAN</persName>
           </person>
-          <person xml:id="the-english-interpreter">
+          <person xml:id="the-english-interpreter" role="interpreter" sex="UNKNOWN">
             <persName>THE ENGLISH INTERPRETER</persName>
           </person>
-          <person xml:id="witness-cgc">
+          <person xml:id="witness-cgc" role="witness" sex="M">
             <persName>WITNESS CGC</persName>
           </person>
-          <person xml:id="emmanuel-ndindabahizi">
+          <person xml:id="emmanuel-ndindabahizi" role="accused" sex="M">
             <persName>EMMANUEL NDINDABAHIZI</persName>
           </person>
-          <person xml:id="the-english-interpreters">
+          <personGrp xml:id="the-english-interpreters" role="interpreter" sex="UNKNOWN">
             <persName>THE ENGLISH INTERPRETERS</persName>
-          </person>
-          <person xml:id="witness-dr">
+          </personGrp>
+          <person xml:id="witness-dr" role="witness" sex="M">
             <persName>WITNESS DR</persName>
           </person>
         </listPerson>
