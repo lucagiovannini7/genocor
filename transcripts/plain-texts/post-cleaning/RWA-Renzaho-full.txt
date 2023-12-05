@@ -1171,6 +1171,7 @@ Let's start.
 $RAJESH NEUPANE, 
 first having been duly sworn,
 testified as follows: 
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -2663,6 +2664,7 @@ I will start with volume 1, Mr. President.
 Very well. 
 @MR. NEKUIE:
 Most obliged, Mr. President. 
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -3597,6 +3599,7 @@ I'm fine.
 Thank you very much. 
 Prosecution.
 $WITNESS AFB
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -3965,6 +3968,7 @@ Thank you.
 Defence.
 @MR. NEKUIE:
 Thank you, Mr. President. 
+##
 $CROSS-EXAMINATION
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -4656,6 +4660,7 @@ I thank you, Mr. President.
 Thank you. Re-examination. 
 MS. MELLUISH: 
 Thank you, Your Honour.
+##
 $RE-EXAMINATION
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -4854,6 +4859,7 @@ I'm grateful.
 @MR. PRESIDENT:
 Thank you. 
 $WITNESS ALG,
+##
 $EXAMINATION-IN-CHIEF (continued) 
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -6653,6 +6659,7 @@ Good morning.
 Your examination-in-chief continues. 
 Prosecution. 
 $WITNESS BUO,
+##
 $EXAMINATION-IN-CHIEF (continued) 
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -7654,6 +7661,7 @@ The Interahamwe and myself, we were trying to look -- to identify or localise or
 Thank you. 
 @MR. NEKUIE: 
 Thank you, Mr. President. 
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -7886,6 +7894,7 @@ Defence, please proceed.
 @MR. NEKUIE:
 Obliged, Mr. President. 
 $WITNESS BUO,
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -8734,6 +8743,7 @@ Counsel for the Prosecution, before you start, I would like to request the Chamb
 @MR. PRESIDENT:
 Thank you very much for that. And we will, of course, come back to the tendering of documents. As soon as we have sent this witness out of the courtroom, then we will deal with the administrative matters. But, now, we will hear the last part of the testimony. 
 Prosecution? 
+##
 $RE-EXAMINATION
 $BY MS. MELLUISH:
 @MR. NEKUIE: 
@@ -9282,9 +9292,10 @@ I don't --
 Well, those of us who have read the transcripts know the answer to my question. But why don't we postpone this, then, to the return of Maître Cantier, who was actually involved in that exercise, and then we will start immediately with the witness.
 Please remember the pause, madam. It's very important to have a pause between question and answer, and answer and question, because there is a need for translation and transcription. 
 Prosecution. 
-CORINNE DUFKA,
+$CORINNE DUFKA,
 having duly been sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -9817,6 +9828,7 @@ Yes, thank you.
 Defence? 
 @MR. NEKUIE: 
 Most obliged, Mr. President. 
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MS. MELLUISH: 
@@ -10018,6 +10030,7 @@ Thank you.
 Any re-examination? 
 MS. MELLUISH: 
 One question, Your Honour, if I may. 
+##
 $RE-EXAMINATIOIN
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -10105,6 +10118,7 @@ Thank you. Please proceed.
 $WITNESS ACS,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -11168,6 +11182,7 @@ Good morning.
 @MR. PRESIDENT: 
 Your examination continues in open session. 
 $WITNESS ATQ
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -11200,6 +11215,7 @@ Welcome.
 Defence. 
 @MR. NEKUIE: 
 I am obliged, Mr. President. Good morning, Witness. Good morning, Counsel.
+##
 $CROSS-EXAMINATION
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -11432,6 +11448,7 @@ Prosecution?
 $WITNESS HAD,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -11931,6 +11948,7 @@ I'm trying to explain to you that even though I was in that room, I could see th
 I leave the rest for cross-examination, Defence, thank you. 
 @MR. NEKUIE:
 Most obliged, Mr. President.
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -12178,6 +12196,7 @@ $(Exhibit No. D. 25A and D. 25B admitted, under seal)
 Re-examination? 
 @MR. NEKUIE: 
 Thank you, Mr. President. 
+##
 $RE-EXAMINATION 
 $BY MS. MELLUISH:
 @MR. NEKUIE: 
@@ -12338,6 +12357,7 @@ All right. Please proceed.
 $WITNESS MW,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -12984,6 +13004,7 @@ Please proceed.
 $WITNESS AWN,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -13429,6 +13450,7 @@ Thank you.
 Defence? 
 @MR. NEKUIE:
 I'm obliged, Mr. President. 
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -13686,6 +13708,7 @@ I certainly hope so.
 $WITNESS UI,
 first having been sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -14367,6 +14390,7 @@ Madam Witness, we are in open session and you will now be cross-examined by the 
 Very well, Mr. President. 
 @MR. NEKUIE: 
 I am obliged, Mr. President. 
+##
 $CROSS-EXAMINATION
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -14467,6 +14491,7 @@ Very good.
 Any re-examination? 
 MS. MELLUISH:
 Just a couple of questions, Your Honour.
+##
 $RE-EXAMINATION
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -14646,9 +14671,10 @@ $(Exhibit No. P. 92 admitted)
 Prosecution. 
 @MR. TREDICI: 
 Good morning.
-FAUSTIN KAGAME,
+$FAUSTIN KAGAME,
 first having duly been sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. TREDICI:
 @MR. TREDICI: 
@@ -15171,6 +15197,7 @@ It's now time for cross-examination.
 We will deal with all the requests for admissions after cross-examination. 
 @MR. NEKUIE:
 I am obliged, Mr. President. 
+##
 $CROSS-EXAMINATION
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -15990,6 +16017,7 @@ Prosecution.
 $ALISON DES FORGES
 first having been duly sworn,
 testified as follows: 
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -16169,7 +16197,8 @@ Good morning, Dr. Des Forges.
 Good morning, Your Honour. 
 @MR. PRESIDENT:
 Prosecution:
-ALISON DES FORGES,
+$ALISON DES FORGES,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -17149,6 +17178,7 @@ I cannot say for sure about each person in question, but certainly most of them 
 @MR. PRESIDENT:
 Thank you. 
 Defence? 
+##
 $CROSS-EXAMINATION 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -17722,6 +17752,7 @@ Defence.
 @MR. CANTIER:
 Good morning, Mr. President, good morning, Your Honours. 
 $ALISON DES FORGES, 
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -18755,6 +18786,7 @@ Thank you. We will come back to three additional documents concerning Prosecutio
 Now, the question is, is there any re-examination? 
 @MR. MOSES:
 Four brief matters, Your Honour.
+##
 $RE-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -18972,6 +19004,7 @@ Defence?
 @MR. NEKUIE: 
 I'm obliged, Mr. President. 
 $WITNESS ACK (continued)
+##
 $CROSS-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -19247,6 +19280,7 @@ Any re-examination?
 I thank you. 
 @THE ENGLISH INTERPRETER:
 Says the witness.
+##
 $RE-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -19811,6 +19845,7 @@ Thank you, Mr. President.
 $WITNESS ABC,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -19871,6 +19906,7 @@ Thank you, Mr. President. Just one remark, a preliminary remark: We intend to ha
 It's true that there is no video recording in this courtroom. As to audio, I do not know the exact intricacies of the system, but as long as you have a procedure to propose, we can come back to it once the situation arises. Thank you for informing us in advance of the fact that this will happen during this examination. 
 And now the first question.
 $JEAN BAPTISTE BUTERA
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -20366,6 +20402,7 @@ The timetable needs to be reflected on for administrative reasons, the bench nee
 Cross-examination. 
 MS. MELLUISH: 
 Your Honours, I have distributed around the courtroom a number of documents, which I may or may not use during the course of the cross-examination. So that is what you find before you. 
+##
 $CROSS-EXAMINATION
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -21066,6 +21103,7 @@ Thank you very much.
 MS. MELLUISH: 
 Thank you. 
 JEAN BAPTISTE BUTERA,
+##
 $CROSS-EXAMINATION (continued)
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -21446,6 +21484,7 @@ Thank you.
 Any re-examination? 
 @MR. CANTIER: 
 Mr. President, on the last question that was asked by the Prosecutor.
+##
 $RE-EXAMINATION 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -21643,6 +21682,7 @@ Thank you, Mr. President.
 $WITNESS BDC,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -22711,6 +22751,7 @@ Those were the documents you used.
 Re-examination. 
 @MR. NEKUIE: 
 Thank you, Mr. President. 
+##
 $RE-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -22992,6 +23033,7 @@ Good morning, Mr. President, good morning, Your Honours.
 @MR. PRESIDENT:
 Your examination-in-chief continues. 
 $WITNESS RCB2,
+##
 $EXAMINATION-IN-CHIEF(continued)
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -23165,6 +23207,7 @@ Thank you very much.
 Prosecution. 
 @MR. MOSES:
 Thank you, Your Honour. 
+##
 $CROSS-EXAMINATION 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -23574,6 +23617,7 @@ Thank you.
 Is there any cross-examination of this witness? 
 @MR. MOSES: 
 I will be brief, Your Honour. 
+##
 $CROSS-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -23846,6 +23890,7 @@ Thank you, Mr. President.
 $WITNESS AIA,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -23964,6 +24009,7 @@ Sorry about that. The technicians told us they tried to fix it.
 We are grateful for that attempt. Thank you. 
 Defence? 
 $WITNESS RGI,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -24239,6 +24285,7 @@ Yes. I'm in Your Honour's hands, whether you want a 10-minute break now for me t
 Just start as you indicated, and the moment you need a break, you just tell us and we will grant it. 
 @MR. MOSES:
 Thank you, Your Honours. 
+##
 $CROSS-EXAMINATION 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -24710,6 +24757,7 @@ Defence?
 $WITNESS WOW,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -25190,6 +25238,7 @@ I was acquitted in 2002 in December, December 2002 -- that is when the judgement
 @MR. PRESIDENT:
 Thank you. 
 Prosecution? 
+##
 $CROSS-EXAMINATION 
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -25922,6 +25971,7 @@ Defence?
 $WITNESS MAJ,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -26418,6 +26468,7 @@ Your Honour, just before I start, perhaps I should let this Court know what's ha
 We will see how it develops. I understand there is only one day which The Hague is prepared for. But what we could do, if suddenly a question arises, is maybe to postpone parts of your cross-examination to the afternoon, if the need arises. 
 MS. MELLUISH: 
 Thank you. 
+##
 $CROSS-EXAMINATION
 $BY MS. MELLUISH:
 @MS. MELLUISH: 
@@ -26770,6 +26821,7 @@ Indeed.
 Any re-examination, Defence? 
 @MR. CANTIER: 
 Yes, Mr. President, one question. 
+##
 $RE-EXAMINATION 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -27064,6 +27116,7 @@ $(Pages 1 to 4 by Roxane Meena)
 Witness MAI, we are now in open session to start your cross-examination. 
 @MR. MOSES: 
 Thank you. 
+##
 $CROSS-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -28102,6 +28155,7 @@ Good morning, Witness.
 @WITNESS PAT:
 Good morning, Counsel.
 $WITNESS PAT,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -28190,6 +28244,7 @@ Prosecution?
 @MR. MOSES: 
 Your Honour, I am wondering if I can just distribute a couple of documents which I may use in the course of cross-examination. 
 While that's being done, perhaps I can commence. 
+##
 $CROSS-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -28612,6 +28667,7 @@ $(Exhibit No. P. 113A, P. 113B, and P. 113C admitted)
 Any re-examination? 
 @MR. NEKUIE: 
 Yes, Mr. President, a very brief examination. 
+##
 $RE-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -29068,6 +29124,7 @@ Mr. President, Your Honour -- Your Honours, this marks the end of the examinatio
 @MR. PRESIDENT: 
 Thank you. 
 Prosecution? 
+##
 $CROSS-EXAMINATION 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -29483,6 +29540,7 @@ Thank you, I have no further questions of this witness.
 Re-examination? 
 @MR. NEKUIE: 
 Yes, just a few matters of clarification. 
+##
 $RE-EXAMINATION 
 $BY MR. NEKUIE:
 @MR. NEKUIE: 
@@ -29778,6 +29836,7 @@ I'm much obliged, Mr. President.
 ,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -31204,6 +31263,7 @@ Let us begin.
 @MR. CANTIER: 
 Thank you, Mr. President.
 ,
+##
 $EXAMINATION-IN-CHIEF (continued) 
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -32343,6 +32403,7 @@ Maître Cantier, you have the floor.
 @MR. CANTIER:
 Thank you, Mr. President. 
 ,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -33693,6 +33754,7 @@ That was very helpful. Thank you very much indeed. We were a bit busy yesterday 
 Maître Cantier, yesterday you wanted to tender the passport of Mr. Bagasora. There was an objection. We have deliberated and we will overrule the objection and allow the document. Your observations will go to weight. 
 What is your first question this morning, Maître Cantier? 
 ,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -33923,6 +33985,7 @@ Also, if I can indicate at this stage that the Prosecution, at some effort at th
 I have also handed out a handwritten document which just sets out for the parties and Your Honours numbers of Prosecution exhibits that I may refer to, whether I go into them in any depth or not will depend on answers given. But that's just to give everyone an idea where we're heading. I've given that list also to the registry so that they can hopefully also have some advance warning. Those are in respect of exhibits that have already been tendered. 
 So, that's just an initial comment to Your Honours. 
 If I can commence by speaking to the Accused and to say: 
+##
 $CROSS-EXAMINATION 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -35206,6 +35269,7 @@ Good morning, Mr. Renzaho.
 @THARCISSE RENZAHO:
 Good morning, Mr. President. 
 ,
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -35664,6 +35728,7 @@ Mr. Moses?
 @MR. MOSES: 
 Thank you, Your Honours.
 ,
+##
 $CROSS-EXAMINATION (continued) 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -36880,9 +36945,10 @@ I fully agree with the Trial Chamber; it's a small error, a technical -- a techn
 Maybe you have a few introductory questions in parallel with the photocopying of the CV so that you could start, Maître Cantier? 
 @MR. CANTIER:
 Yes, Mr. President, that's exactly, indeed, how I intended to proceed. 
-BERNARD LUGAN,
+$BERNARD LUGAN,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF ON VOIR DIRE
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -37004,6 +37070,7 @@ Did you hear that, Mr. Matemanga? Please make sure that the booths have the CV.
 You have the report? 
 @THE ENGLISH INTERPRETER:
 It's on its way, I believe -- oh, the report, we have it in French. Has an English translation been finished? We seem to have quite a bit of stuff. Thank you. 
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -37167,7 +37234,8 @@ And, Maître Cantier, as you know, the Bench has worked on the Rwandan issues fo
 Please proceed. 
 @MR. CANTIER: 
 Thank you, Mr. President, for your recommendations. It is, indeed, the main purpose for the coming of Professor Lugan as an expert witness, which is to enlighten the Trial Chamber on the specific role of the Accused in the matter. And after putting one last question to the witness, I shall go straight to that matter. It being understood that the role ascribed to him and his effective role are to be taken into account given the context that was prevailing in the town of Kigali throughout the events. 
-BERNARD LUGAN,
+$BERNARD LUGAN,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. CANTIER:
 @MR. CANTIER: 
@@ -37836,6 +37904,7 @@ I am sorry. It is D. 110, A and B -- if there's a French and English version.
 $(Exhibit No. D. 110A and D. 110B admitted)
 @MR. PRESIDENT:
 Thank you very much. 
+##
 $CROSS-EXAMINATION 
 $BY MR. MOSES:
 @MR. MOSES: 
@@ -38728,6 +38797,7 @@ And we thank the interpreters for having acted as witness protection officers. T
 Prosecution? 
 @MR. MOSES:
 Thank you, Your Honours.
+##
 $CROSS-EXAMINATION
 $BY MR. MOSES:
 @MR. MOSES: 

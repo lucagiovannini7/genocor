@@ -178,6 +178,8 @@ Thank you, Your Honour.
 $WITNESS UPENDRA SINGH BAGHEL
 first having been duly sworn,
 testified as follows:
+##
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -216,7 +218,8 @@ Yes, it is so.
 Your Honour, I produce Mr. Baghel's CV as Prosecution Exhibit P1.
 @MR. PRESIDENT:
 Prosecution Exhibit is admitted as P1.
-$Exhibit No. P1 admitted)
+##
+$EXhibit No. P1 admitted)
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Now, Mr. Baghel, were you assigned to carry out any investigations in this case?
@@ -259,7 +262,8 @@ And when it comes to the photographs, you know who took all these photographs?
 The photographs and the photograph which is in part four, from photograph No. 1 to 6, I took them, and photograph No. 7 to 16, I collected from the evidence in it which was there in exhibits in the previous case.
 @MR. PRESIDENT.
 Any problems in admitting this document? It seems not to be the case. It is submitted as P2, then.
-$Exhibit No. P2 admitted)
+##
+$EXhibit No. P2 admitted)
 @MR. KAPAYA:
 Thank you, Your Honour.
 $BY MR. KAPAYA:
@@ -412,6 +416,7 @@ Thank you.
 Defence.
 @MR. BESNIER:
 Thank you. Mr. President, I only have a few questions for this witness.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -759,7 +764,8 @@ Very well. This -- and this would allow us to be able to proceed smoothly with t
 Any re-examination? 
 @MR. KAPAYA:
 Yes, just one simple question, Your Honour. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Mr. Baghel, could you tell whether the Accused's -- the family home of the Accused person was accessible by road -- by car from Gitaka centre in 1994?
@@ -1158,6 +1164,7 @@ I am sorry, Mr. President, I didn't hear the beginning of what you said.
 So you will now be asked questions by Defence, Mr. Witness, in cross-examination.
 @MR. BESNIER:
 Thank you, Mr. President. 
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -1567,7 +1574,8 @@ I also wish to thank you, Mr. President.
 P5, Your Honour.
 @MR. PRESIDENT:
 Yes, P5, under seal.
-$Exhibit No. P5 admitted)
+##
+$EXhibit No. P5 admitted)
 @MR. PRESIDENT:
 Please proceed, Prosecution.
 @MR. KAPAYA:
@@ -1612,6 +1620,7 @@ Thank you, Your Honour.
 $WITNESS CTK
 first having been duly sworn
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -1934,6 +1943,7 @@ Thank you, Your Honour.
 Cross-examination.
 @MR. BESNIER:
 Mr. Marçais will conduct the cross-examination.
+##
 $CROSS-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
@@ -2435,7 +2445,8 @@ Thank you.
 Mr. President, I'm done. 
 @MR. KAPAYA:
 One question, Your Honour. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 @MR. KAPAYA:
 @MR. MARÇAIS:
 Madam Witness --
@@ -2671,10 +2682,12 @@ Good afternoon.
 P6, I believe, Your Honour.
 @MR. PRESIDENT:
 P6, under seal.
-$Exhibit No. P6 admitted, under seal)
+##
+$EXhibit No. P6 admitted, under seal)
 $WITNESS CGN,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION IN CHIEF
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -3091,6 +3104,7 @@ Thank you.
 Defence, please.
 @MR. BESNIER:
 Thank you, Mr. President.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -3505,7 +3519,8 @@ There is a name on the piece of paper, do you want that exhibited?
 Yes. I'm sorry, Mr. President. Indeed, I would like to -- I would like it to be noted that the Witness has recognised the name that was presented to him by the Defence, and that this name be entered on the records of the Court.
 @MR. PRESIDENT:
 And this becomes Defence Exhibit Number 6, under seal. 
-$Exhibit No. D6 admitted, under seal)
+##
+$EXhibit No. D6 admitted, under seal)
 @MR. MUSSA:
 That will be Defence Exhibit Number 6, My Lord.
 @MR. PRESIDENT:
@@ -3574,7 +3589,8 @@ The fact that your signature is at the bottom, does that imply that the informat
 Yes, this document was read to me and I realised that the information on it was correct. I realised that the information on the document is correct. 
 @MR. PRESIDENT:
 So that will be P7 under seal, now? 
-$Exhibit No. P7 admitted, under seal)
+##
+$EXhibit No. P7 admitted, under seal)
 @MR. KAPAYA:
 Yes, Your Honour.
 @MR. PRESIDENT:
@@ -3595,6 +3611,7 @@ Thank you.
 $WITNESS CJY
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -4278,6 +4295,7 @@ Thank you.
 Defence please.
 @MR. BESNIER:
 Thank you, Mr. President.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -4688,6 +4706,7 @@ Maître Besnier, please.
 @MR. BESNIER:
 Thank you, Mr. President.
 $WITNESS CGY
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -4853,7 +4872,8 @@ We have no problems with that because we did that with a previous Defence exhibi
 Yes, Mr. President. Yes, very well. I must say, Mr. President -- in that case, I would like the entire transcripts to be entered as an exhibit.
 @MR. PRESIDENT:
 That's accepted.
-$Exhibit No. D7 admitted)
+##
+$EXhibit No. D7 admitted)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER:
@@ -4962,7 +4982,8 @@ Thank you.
 Any re-examination? 
 @MR. KAPAYA:
 Your Honour, yes; just two questions, Your Honours.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Mr. Witness, you testified to me that the attack occurred on the 26th of April and before. Now, what makes you recall that particular date?
@@ -5126,12 +5147,14 @@ Does that imply that the information contained in that document is correct?
 Yes, it is correct.
 @MR. PRESIDENT:
 Thank you. That will then be P8 under seal. All right, Prosecution please. 
-$Exhibit No. P8 admitted, under seal)
+##
+$EXhibit No. P8 admitted, under seal)
 @MR. ADEOGUN-PHILLIPS:
 Good afternoon, again, to Your Honours.
 $WITNESS CGF
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -5294,6 +5317,7 @@ Good afternoon, Your Honours.
 $WITNESS CGM
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -5321,7 +5345,8 @@ P12 under seal.
 I'm grateful. 
 @MR. PRESIDENT:
 Thank you very much.
-$Exhibit No. P12 admitted, under seal)
+##
+$EXhibit No. P12 admitted, under seal)
 @MR. PRESIDENT:
 Now, Mr. Witness, you will ask questions -- you will be asked questions by the Prosecution now. Please listen carefully and answer them as concisely as possible. If the answer may reveal your identity, please be careful so that we can avoid that. 
 Please proceed, Mr. Phillips.
@@ -5365,7 +5390,8 @@ Be careful, Mr. Witness, not to mention names that can reveal your identity. In 
 It wasn't in the transcript.
 @MR. PRESIDENT:
 -- translated, so that's all right.
-$Exhibit No. P13 admitted)
+##
+$EXhibit No. P13 admitted)
 BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, what were you doing at that educational institution in Prosecution Exhibit P13? What were you doing there at the time? 
@@ -5455,7 +5481,8 @@ Thank you, Mr. Witness, for that.
 P14 admitted under seal.
 @MR. ADEOGUN-PHILLIPS:
 Grateful, Your Honour.
-$Exhibit No. P14 admitted, under seal)
+##
+$EXhibit No. P14 admitted, under seal)
 BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, did you remain at your father-in-law's residence throughout the month of -- the months of April, May, and June 1994, or did you leave that location at some stage? 
@@ -5483,7 +5510,8 @@ Your Honour, with your leave, I request that this be entered as Prosecution Exhi
 Admitted. 
 @MR. ADEOGUN-PHILLIPS:
 Thank you.
-$Exhibit No. P15 admitted, under seal)
+##
+$EXhibit No. P15 admitted, under seal)
 BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, I now want to ask you specific questions as to what -- the events you've just narrated to the Court. Do you understand that? 
@@ -5781,7 +5809,8 @@ Your Honour, can I enter this document, sketch 4, as an extract from Prosecution
 I think we admit it under seal since the reference is to the bridge there and --
 @MR. ADEOGUN-PHILLIPS:
 Oh, yes, Your Honour, yes, of course. I am grateful for that observation.
-$Exhibit No. P16 admitted, under seal)
+##
+$EXhibit No. P16 admitted, under seal)
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Finally, Mr. Witness, can you describe to me the man you say you saw at the - sorry, at the bridge at the end of May l994? Do you -- can you -- just tell me what he looks like, just by describing him to me first? And by that I mean, very simply, is he fat, thin, tall, short? Can you help us with that sort of description?
@@ -5891,6 +5920,7 @@ Yes. Thank you very much, Mr. Witness.
 Defence please.
 @MR. BESNIER:
 Thank you, Mr. President.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -6467,7 +6497,8 @@ I am 43 years old, but at a given point in time my age was reduced for education
 Very well, Mr. President, I have finished with my cross-examination of this witness. I have two documents which I wish to tender as exhibits. The first one is the witness's statement, the written statement, which is dated 27th February 2001, in particular, with reference to his identification of Emmanuel Ndindabahizi.
 @MR. PRESIDENT:
 That's D number 10? D10A for the English, which is signed; D10B for the French. Yes, admitted under seal.
-$Exhibit Nos. D10A and D10B admitted, under seal)
+##
+$EXhibit Nos. D10A and D10B admitted, under seal)
 @MR. BESNIER:
 Thank you, Mr. President. My second document which I wish to tender as an exhibit is the witness statement in which the name ************************ appears. I think we need to go back to that matter, question other witnesses on that aspect, and therefore I wish to tender it as a Defence exhibit, 
 Your Honours.
@@ -6483,7 +6514,8 @@ Thank you, Mr. President.
 Prosecution, if you could have a look at it. I assume that's also available in two languages, even if there is only English available now. 
 So for the time being, we will then accept this as D11, the English version being signed by the witness; and if ever there should be a French version, we will add it as 
 D11B. Thank very much thank you. 
-$Exhibit No. D11 admitted)
+##
+$EXhibit No. D11 admitted)
 @MR. PRESIDENT:
 Prosecution, please.
 @JUDGE BOSSA:
@@ -6499,7 +6531,8 @@ When did you first realise that, yes, this is him?
 When he came out of the vehicle I recognised him, and when he was speaking with Hassan I also recognised him. And when the people there gathered around, I looked at his face closely because I hadn't seen him for a long time, and when you take a long time in seeing someone, you try and look closely to see whether you can identify him.
 @JUDGE BOSSA:
 Yes, thank you. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, would I be correct in saying that when Ndindabahizi's vehicle arrived at that roadblock, it was only Hassan that was standing manning that roadblock, the others were not there? Isn't that true?
@@ -6716,7 +6749,8 @@ Does that imply that the witness information contained in that document is corre
 Yes, that is so.
 @MR. PRESIDENT:
 Thank you very much. That will be P17, under seal.
-$Exhibit No. P17 admitted, under seal)
+##
+$EXhibit No. P17 admitted, under seal)
 @MR. KAPAYA:
 Thank you.
 @MR. PRESIDENT:
@@ -6726,6 +6760,7 @@ Thank you. Good afternoon, Your Honours.
 $WITNESS CGV
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -7005,6 +7040,7 @@ Thank you.
 Defence, please.
 @MR. BESNIER:
 Thank you, Mr. President.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 Q. Good afternoon, Mr. Witness. I am going to ask you a few questions. I am the lawyer for
@@ -7407,7 +7443,8 @@ Thank you.
 Any redirect? 
 @MR. KAPAYA:
 Yes, one question; one or two questions.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Mr. Witness, from the time Mr. Ndindabahizi embarked from the white Toyota car to the time you observed him throw a grenade to the attackers, how long did you say that was?
@@ -7433,10 +7470,12 @@ All right. So the first Defence exhibit will be the statement of the 26th of Apr
 Twelve.
 @MR. PRESIDENT:
 Twelve. So, D12A for the French, which is signed by the witness, and D12B for the English. And then the next exhibit -- is under seal, of course. 
-$Exhibit Nos. D12A and D12B admitted, under seal) 
+##
+$EXhibit Nos. D12A and D12B admitted, under seal) 
 @MR. PRESIDENT:
 Then the next exhibit, D13 of the 4th of June. Here we have D13A, English, signature of the Witness, and D13B, translation, both under seal again. So these are the exhibits. Thank you. 
-$Exhibit Nos. D13A and D13B admitted, under seal)
+##
+$EXhibit Nos. D13A and D13B admitted, under seal)
 @JUDGE KHAN:
 We would -- Mr. Witness, we would seek a little clarification. In your statement you said that Mr. Ndindabahizi was known to you well before the war, being a manager of a Trafipro store where you went to make purchases. In reply to your question, put by the learned Defence counsel, you said when you used to visit the store in connection with the purchases, "The Accused was in his office." How could you see him, whether he would come out of his office to see you, or whether you would go and meet him in his office? 
 @WITNESS CGV:
@@ -7489,7 +7528,8 @@ Does that imply that the personal information on that sheet is correct?
 That is correct.
 @MR. PRESIDENT:
 Thank you. P18, under seal. 
-$Exhibit No. P18 admitted, under seal)
+##
+$EXhibit No. P18 admitted, under seal)
 @MR. PRESIDENT:
 Prosecution, please.
 @MR. TAFAH:
@@ -7498,6 +7538,7 @@ Your Honours, might we have that document admitted as exhibit of Prosecution? Ob
 $WITNESS CGL,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. TAFAH:
 @MR. TAFAH:
@@ -7907,6 +7948,7 @@ Thank you. Defence, please.
 Mr. President, Your Honours, it's Mr. Marçais who will conduct the cross-examination, but I would like to draw the Court's attention to the fact that we are moving away from the indictment. Nowhere is Mr. Ndindabahizi accused of having made a speech or having gone to the Mabanza commune. I don't know where the Prosecution is going with this testimony, but I thought it was necessary to draw the Court's attention to this, that this testimony does not correspond to any paragraph of the indictment. Thank you. 
 @MR. PRESIDENT:
 Thank you for that remark. I'm sure the Prosecution will come back to that in due course, and so will you in your closing arguments. Thank you very much.
+##
 $CROSS-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
@@ -8414,7 +8456,8 @@ I have concluded, Mr. President.
 Thank you. Thank you very much. Any re-examination? 
 @MR. TAFAH:
 Just one question, Your Honours.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. TAFAH:
 @MR. TAFAH:
 Madam Witness, would I be correct to say that you went to that place where Ndindabahizi was at the market because your facial look does not look like a Tutsi. Is that correct?
@@ -8623,7 +8666,8 @@ Does this imply that the information contained in this document, which deals wit
 Yes, it's correct. 
 @MR. PRESIDENT:
 So his name is P19, under seal. 
-$Exhibit No. P19 admitted, under seal)
+##
+$EXhibit No. P19 admitted, under seal)
 @MR. PRESIDENT:
 Please proceed, Mr. Kapaya. 
 @MR. KAPAYA:
@@ -8631,6 +8675,7 @@ Good afternoon, Your Honours.
 $WITNESS CGB
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -8734,7 +8779,8 @@ Thank you, Mr. Witness. Now we have it very clearly, that was of great assistanc
 Your Honour, the Prosecutor tenders that document as Prosecution Exhibit P20. 
 @MR. PRESIDENT:
 P20, under seal.
-$Exhibit No. P20 admitted, under seal)
+##
+$EXhibit No. P20 admitted, under seal)
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Mr. Witness, were there other people hiding with you in the house of that person? 
@@ -9234,6 +9280,7 @@ Thank you.
 @MR. BESNIER:
 Thank you, Mr. President. Mr. President, the Defence finds it intolerable that, once again, it's been suggested that Defence teams have exerted pressure on a witness to withdraw his testimony. This is obviously something which is not in favour of the Defence. For three weeks now it has been, more or less directly suggested that members of the Defence team have themselves intervened or have sent somebody. One time it' **************************; another time it's a short man, and this is in order to exert pressure on witnesses. 
 So, the Prosecutor has just said that it should be noted that it is not the Prosecutor which has sent anyone to the witness, and I wish you to grant me the same, that we have not sent anyone to exert any kind of pressure on the witnesses. We work with ethics and during this trial we have shown that ****************************** was the brother of one of the Prosecution witnesses, and we also believe that some Prosecution witnesses know one another, and we do assert that if there have been any leakages around the identities of the Prosecution witnesses, it is not on the Defence that this should be blamed. And I think I would like on that note to thank you for your attention.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -9712,10 +9759,12 @@ I don't know anything about that. All I can tell you is that I was asked to make
 @MR. BESNIER:
 Very well. Thank you, Mr. President, Your Honours. I have no further questions.
 @MR. PRESIDENT:
-Re-examination? 
+##
+$RE-Examination? 
 @MR. KAPAYA:
 Yes, Your Honour, two or three questions. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
 Mr. Witness, you testified that you hid in the house of a friend for three weeks before you saw -- before you saw Mr. Ndindabahizi; is that correct?
@@ -9782,7 +9831,8 @@ All right, let's take one thing after the other then. First, we note now that th
 Yes.
 @MR. PRESIDENT:
 D15, and then A for English with signature, and B for French, if I understood it correctly. So, now that is done. Now, you are coming back to the document of No. 17 here, Mr. Kapaya.
-$Exhibit No. D15A and D15B admitted, under seal)
+##
+$EXhibit No. D15A and D15B admitted, under seal)
 @MR. KAPAYA:
 Yes, Your Honour.
 @MR. PRESIDENT:
@@ -10089,6 +10139,7 @@ Your Honour.
 @WITNESS DES FORGES
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -10165,7 +10216,8 @@ Madam Witness, what were the factors in your opinion that led from the shrinking
 The internal coalition of parties, that is the PSD, the MDR and the PL had, as we established earlier, entered into the first discussions with the RPF that led eventually to government negotiations with the RPF. But there were some within that group of parties who were not completely at ease with the alliance, with the RPF for several different reasons. And then in February of 1993, before the peace Accords were signed, the RPF violated the ceasefire by launching a major military offensive from the north down towards the city of Kigali. They were eventually persuaded to stop their events and to withdraw, and there was a new ceasefire, but in the interim, this had shattered the faith of a number of people in those three parties, the PSD, the MDR and the PL, had shattered their faith in the good intentions, in the good faith to the RPF. So there were some who began to say, "How is it possible that these people are continuing to negotiate and at the same time launched a major offensive. Doesn't that indicate perhaps their intentions are not what they would appear to be? So that was one consideration.
 The second was, the accords themselves gave a remarkably large share of power in the military to the RPF. The RPF obtained 40 percent of the rank and five in the army and 50 percent of the command posts. And this was seen as many -- as further proof of, should we say, an excessive appetite on the part of the RPF and an indication of danger. 
 Then the final event which really was conclusive for many, was the assassination of the president of Burundi. The country to the south of Rwanda, a country which is demographically quite similar although its political history has been very different, but it is a country where Tutsi had held a dominant role until 1993 when Hutu won a free and fair election. A Hutu candidate won a free and fair election for president, that was Melchior Ndandaye. He was assassinated by Tutsi soldiers at the end of October 1993. This then led to an enormous barrage of propaganda within Rwanda, distorting the details of Ndandaye's death and depicting the Tutsi as a group united to either continue or 
-re-establish domination over the Hutu, and in this propaganda, the RPF of Rwanda was associated with the Tutsi of Burundi. 
+##
+$RE-Establish domination over the Hutu, and in this propaganda, the RPF of Rwanda was associated with the Tutsi of Burundi. 
 So they were treated as a single unit. This caused further concerns and doubts among Rwandans, including many who had previously been willing to support a form of alliance with the RPF. So it was a series of events like that that contributed to this realignment in the political scene. The realignment was symbolised by the division of two political parties, that is, the MDR and the PL which divided into each one, into two wings. One wing known as the MDR and the other known as the MDR power. And in the case of the PL, PL and PL power. The term was taken from the idea of Hutu power, meaning an ethnic -- an ethnic union of great solidarity which would in fact minimise or subsume a previous party divisions among the Hutu. So it was that Hutu party -- Hutu power ideology which found expression in the division of some of these political parties.
 @MR. ADEOGUN-PHILLIPS:
 Was the PSD involved in this division? 
@@ -10668,16 +10720,20 @@ The first one would be the expert report itself, in English and French. And I ne
 P21.
 @MR. ADEOGUN-PHILLIPS:
 P21, A and B in English and French, Your Honour. 
-$Exhibit No. P21A and P21B admitted)
+##
+$EXhibit No. P21A and P21B admitted)
 @MR. ADEOGUN-PHILLIPS: 
 The second document I seek to enter this afternoon would be the curriculum vitae of Madam Des Forges, in English and French also as P22, A and B.
-$Exhibit No. P22A and P22B admitted)
+##
+$EXhibit No. P22A and P22B admitted)
 @MR. ADEOGUN-PHILLIPS:
 The third document would be a colourful map which will be Prosecution Exhibit P23. 
-$Exhibit No. P23 admitted)
+##
+$EXhibit No. P23 admitted)
 @MR. ADEOGUN-PHILLIPS: 
 The fourth document would be the list of the members of the interim government, which would be P24. 
-$Exhibit No. P24 was admitted)
+##
+$EXhibit No. P24 was admitted)
 The fifth and sixth documents would be the disputed documents, which would be the 3rd May meeting and the entire bundle and the interviews which we seek to enter as P25 and P26 respectively.
 @MR. PRESIDENT:
 We will come back to those just later today. 
@@ -10701,6 +10757,7 @@ As for my cross-examination of Dr. Alison Des Forges, I wish to say that her tes
 When I was contacted for this case, I received an indictment which was dated 7th July 2001 in which my client was accused for conspiracy to commit genocide, and the individual responsibility of the Accused was taken into consideration under Article 6(3); in other words, command responsibility. In the two indictments, paragraphs 20 to 23 concern exclusively the meeting of 3rd May in Kibuye. And this is very different from the current situation, Your Honours. 
 In the indictment in its last amended version, there is nothing said about the Accused as a member of the government. The meeting of the 3rd May disappears from the indictment; it is no longer included in the indictment which was amended pursuant to your decision of 3rd June 2003. 
 As for the activities of Emmanuel Ndindabahizi as minister, we find traces of that at page 1 of the indictment; in other words, the general presentation of the Accused person, but in no paragraph whatsoever of the indictment do we find anything whatsoever concerning the activities of Emmanuel Ndindabahizi within the government or, of course, his participation or attendance of the meeting of the 3rd of May. Consequently, the Defence believes that Miss Alison Des Forges's report can be considered as a piece of information, but the Defence would consider it superfluous in this case, given the allegations against Emmanuel Ndindabahizi. That is why, Mr. President, Your Honours, that I have only one question for Dr. Alison Des Forges, and the question is as follows.
+##
 $CROSS-EXAMINATION
 $BY MR. BESNIER: 
 @MR. BESNIER:
@@ -11189,7 +11246,8 @@ Just a moment.
 No, I'm sorry, Mr. President. I was referring only to the interviews of Mr. Ndindabahizi. Regarding the transcripts of 3rd May, we will deal with that later.
 @MR. PRESIDENT:
 Yes, exactly. So we are talking about the interviews in the blue folder. They are accepted as P25 for the time being.
-$Exhibit No. P25 admitted)
+##
+$EXhibit No. P25 admitted)
 @MR. PRESIDENT:
 And then you said that you would come back to us and make submission after having listened to transcripts regarding the other document. 
 @MR. BESNIER:
@@ -11227,10 +11285,12 @@ Does that imply that the information in that document containing your particular
 Yes.
 @MR. PRESIDENT:
 P26, I think. P25 was the interview, so this will then be P26 on receival. Please, proceed. 
-$Exhibit No. P26 admitted)
+##
+$EXhibit No. P26 admitted)
 $WITNESS CGC,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -11296,7 +11356,8 @@ I'd ask for that to be entered as Prosecution Exhibit No. 27.
 So admitted. 
 @MR. ADEOGUN-PHILLIPS:
 Twenty-seven. 
-$Exhibit No. P27 admitted) 
+##
+$EXhibit No. P27 admitted) 
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, do you recall how many times you saw Mr. Ndindabahizi visit his sister? Do you know how many times; numbers?
@@ -11480,7 +11541,8 @@ I think I might as well do it now, actually. If I can just enter that statement 
 Yeah, so admitted in English and French, under seal.
 @MR. ADEOGUN-PHILLIPS:
 Under seal, yes.
-$Exhibit No. P28A and P28B admitted, under seal)
+##
+$EXhibit No. P28A and P28B admitted, under seal)
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 Mr. Witness, we've taken note of those names. Can you tell me what ethnic group these people belonged to? 
@@ -11678,7 +11740,8 @@ Your Honour, I'll have that introduced as Prosecution Exhibit P29 under seal.
 Admitted.
 @MR. ADEOGUN-PHILLIPS:
 Thank you. 
-$Exhibit No. P29 admitted, under seal)
+##
+$EXhibit No. P29 admitted, under seal)
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
 How was the person you identified on Prosecution Exhibit 29 able to rescue you at the roadblock? How did that happen?
@@ -12304,7 +12367,8 @@ Yes, but I was under the impression that it was only partially admitted for cert
 Also, Mr. President, I wish to tender as an exhibit the name which I showed to the witness a moment ago which would reveal the identity of the half-caste's driver, because we shall come back to that, I'm certain. Thank you.
 @MR. PRESIDENT:
 Yes. D16, says the registry. D16, under seal.
-$Exhibit No. D16 admitted, under seal)
+##
+$EXhibit No. D16 admitted, under seal)
 @MR. PRESIDENT:
 That is good. So have a nice journey home, Mr. Witness. Thank you very much. 
 It is now 7:20. May I propose that we have the pre-Defence conference tomorrow, maybe after 5 o'clock, then we can continue with the Military trial in the afternoon. For how long do you think this pre-Defence conference will last, Mr. Besnier? Are we talking about more than half an hour? 
@@ -12382,7 +12446,8 @@ I am now requesting that this document, which is available to the Tribunal in En
 @MR. PRESIDENT:
 Thank you for placing this on record, Mr. Besnier. So the Chamber has noted your remarks in relation to the interview, and you will, of course, in addition, be free to address this when we come to the merits and the closing arguments. So that's noted.
 We will then enter this as P26. Is that so, registry? Thirty? P30, that's where we are now. All right, P30.
-$Exhibit No. P30 admitted)
+##
+$EXhibit No. P30 admitted)
 @MR. PRESIDENT:
 And then we had the issue of the transcripts. Do you have the document made available to all of us here? 
 Mr. Phillips, any comments on that, please?
@@ -12410,7 +12475,8 @@ So then it's also admitted as an exhibit, namely, D17. Now, is this both transcr
 For the time being, I only have the document, the hard copy, in English. 
 @MR. PRESIDENT:
 Right. So, then, the right sequence would be, then, P -- did you say 17, registry? D17. Now, D17A will be the sound version, if it's ever found; D17B will be the transcript in French; and D17C will be the transcript in English. So that would clear the matter.
-$Exhibit Nos. D17, D17A, D17B and D17C admitted)
+##
+$EXhibit Nos. D17, D17A, D17B and D17C admitted)
 @MR. PRESIDENT:
 Is there anything else to be said at this stage? 
 @MR. ADEOGUN-PHILLIPS:
@@ -12589,6 +12655,7 @@ Thank you, Mr. Witness.
 Mr. President, Your Honours, I have no further questions.
 @MR. PRESIDENT:
 Prosecution, please. Can you start in open for a while, Mr. Phillips?
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -12924,7 +12991,8 @@ Thank you very much.
 Any redirect?
 @MR. BESNIER:
 Yes, questions, Mr. President.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
 Witness, you came from your country to Arusha. Were you alone or were you with other countrymen or women on your journey to this place?
@@ -13135,7 +13203,8 @@ Now does that imply that the information contained in that document is correct?
 Yes, the information is correct. 
 @MR. PRESIDENT:
 Defence D20, under seal. 
-$Exhibit No. D. 20 admitted, under seal)
+##
+$EXhibit No. D. 20 admitted, under seal)
 @MR. PRESIDENT:
 Defence, please. 
 @MR. BESNIER:
@@ -13241,7 +13310,8 @@ Now, if you are about to mention two persons, please use numbers. If you are abo
 Mr. Registrar, can you show the document to the Bench and to the Prosecution? Could this be admitted as Defence exhibit, Mr. President, Your Honours?
 @MR. PRESIDENT:
 D21 so admitted, under seal.
-$Exhibit No. D. 21 admitted, under seal)
+##
+$EXhibit No. D. 21 admitted, under seal)
 $BY MR. BESNIER:
 @MR. BESNIER:
 Mr. Witness, you have written two names on this piece of paper. The first name that you wrote, does that belong to the sister of the owner of the house that we were referring to as hiding place No.2? 
@@ -13451,7 +13521,8 @@ Since July l994 up until 3rd March 2001, I still lived in that house. I only lef
 Thank you, Mr. President. I can see on this paper the description of the witness's hiding place in house No. 2. And we would like to enter this document as Defence exhibit.
 @MR. PRESIDENT:
 No. 22, under seal.
-$Exhibit No. D. 22 admitted, under seal)
+##
+$EXhibit No. D. 22 admitted, under seal)
 @MR. BESNIER:
 I have still not seen the description of the relationship between -- between the owner of the house and the father.
 @THE ENGLISH INTERPRETER:
@@ -13460,7 +13531,8 @@ The document is ready in the Kinyarwanda booth.
 Mr. President, it's very clear. I can see that on this paper. There's a relationship between these two people and I would like to enter this document as Defence exhibit.
 @MR. PRESIDENT:
 No. 23 admitted, under seal.
-$Exhibit No. D. 23 admitted, under seal)
+##
+$EXhibit No. D. 23 admitted, under seal)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER: 
@@ -13504,6 +13576,7 @@ Yes, absolutely. What I have said is the truth, Ndindabahizi played no role what
 No further questions, Mr. President.
 @MR. PRESIDENT:
 Thank you very much. Prosecution please?
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -13697,7 +13770,8 @@ Does that imply that the information contained in that document is correct?
 Yes, sir.
 @MR. PRESIDENT:
 Defence Exhibit 24, under seal. 
-$Exhibit No. D. 24 admitted, under seal) 
+##
+$EXhibit No. D. 24 admitted, under seal) 
 @MR. PRESIDENT:
 Defence, please.
 We have to swear in the witness first. Madam Witness, you have to tell the truth.
@@ -13934,6 +14008,7 @@ That was not possible.
 Thank you, Mr. President.
 @MR. PRESIDENT:
 Thank you, very much. Counsel, please.
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -14196,7 +14271,8 @@ Exactly.
 And then on the other sheet would be the name of the witness's husband.
 @MR. PRESIDENT:
 Yes, and that would be No. 32, and both under seal.
-$Exhibit Nos. P. 31 and P. 32 admitted, under seal) 
+##
+$EXhibit Nos. P. 31 and P. 32 admitted, under seal) 
 @MR. ADEOGUN-PHILLIPS:
 I am grateful, Your Honour.
 @MR. PRESIDENT:
@@ -14205,7 +14281,8 @@ So, court register video system, if you will delete that last reference when it 
 Any re-examination? 
 @MR. MARÇAIS:
 Just one question, Mr. President. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
 Madam Witness, your conviction of the conduct of Mr. Ndindabahizi during the genocide, Prosecutor is trying to link that to the fact that the (By order of the Court, this name has been extracted and filed under seal) of Ndindabahizi gave you shelter. Will this conviction not, rather, flow from the totality of the information that you were able to gather on the conduct of Mr. Ndindabahizi, on information that you got, research that you conducted, which enabled you to assert that we're all victims of this genocide? We're in a better position to know the perpetrators, and I can assure that you Mr. Ndindabahizi is not one of them. Is this conviction this, and not a way of saying thank you, as it is being inferred?
@@ -14390,6 +14467,7 @@ Defence, please.
 $WITNESS DL,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -14410,7 +14488,8 @@ Does that imply that the information contained in that document is correct?
 Yes, sir, the information is correct. 
 @MR. PRESIDENT:
 That is exhibit 25, under seal.
-$Exhibit No. D. 25 admitted, under seal)
+##
+$EXhibit No. D. 25 admitted, under seal)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER:
@@ -14436,7 +14515,8 @@ Thank you. Could you say the name of the cellule, the secteur of the commune, an
 Mr. President, could we have this as an exhibit, that is, the piece of paper the witness has indicated his address, sir?
 @MR. PRESIDENT:
 That would then be entered as Defence Exhibit 26, under seal.
-$Exhibit No. D. 26 admitted, under seal)
+##
+$EXhibit No. D. 26 admitted, under seal)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER:
@@ -15017,6 +15097,7 @@ Mr. President, Your Honours, I have concluded with my examination-in-chief of th
 @MR. PRESIDENT:
 Thank you very much. 
 Prosecution, please.
+##
 $CROSS-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -15613,7 +15694,8 @@ Yeah, that is what I want the booth to kindly read out again. Could you do that,
 Sorry, the year 1998, the 31st day of the month of August. 
 @MR. PRESIDENT:
 So I just wanted to have that confirmed. Thank you very much indeed. P. 33.
-$Exhibit No. P. 33 admitted, under seal)
+##
+$EXhibit No. P. 33 admitted, under seal)
 $Pages 17 to 32 by Petrus Chijarira)
 1100H
 @MR. KAPAYA:
@@ -15622,7 +15704,8 @@ We also now produce the statement by this witness as a Prosecution exhibit for t
 Yes. That will be P. 34, then, under seal. And that is the statement of 6th August 2003, the French being the original, I assume, Mr. Besnier, so that will be 34A and this English version 34B then, both under seal. 
 @MR. KAPAYA:
 Yes, thank you.
-$Exhibit Nos. P. 34A and P. 34B admitted, under seal)
+##
+$EXhibit Nos. P. 34A and P. 34B admitted, under seal)
 @MR. PRESIDENT:
 Thank you.
 Any re-examination from the Defence? 
@@ -15828,7 +15911,8 @@ Does this imply that the information in that document was read out to you and th
 Yes. The information contained in this document is correct.
 @MR. PRESIDENT:
 D. 27, under seal.
-$Exhibit No. D. 27 admitted, under seal)
+##
+$EXhibit No. D. 27 admitted, under seal)
 @MR. PRESIDENT:
 Thank you very much.
 Now, Madam Witness, you will be asked questions by the Defence.
@@ -15999,6 +16083,7 @@ Microphone is off.
 @MR. PRESIDENT:
 Thank you very much.
 Prosecution? 
+##
 $CROSS-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -16084,7 +16169,8 @@ Yes, sir.
 That's all, Your Honour.
 @MR. PRESIDENT:
 Thank you.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
 Witness, of what ethnic group was your granddaughter that you were hiding?
@@ -16140,7 +16226,8 @@ Yes, sir.
 @MR. PRESIDENT:
 Thank you very much.
 Defence Exhibit 28 under seal, then.
-$Exhibit No. D 28 admitted, under seal)
+##
+$EXhibit No. D 28 admitted, under seal)
 @MR. PRESIDENT:
 Mr. Witness, you have to tell the truth and the Registry will then administer the taking of the solemn declaration. 
 @MR. MUSSA:
@@ -16156,6 +16243,7 @@ Mr. President, in order to avoid a closed session, I shall ask the witness to wr
 $WITNESS DV,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -16517,10 +16605,12 @@ Yes, the information is correct, sir.
 @MR. PRESIDENT:
 Exhibit 32 under seal. Thank you. Now you are in open session, Mr. Witness, so take care when you are answering the questions. Do not reveal your activity. 
 Defence please. 
-$Exhibit No. D. 32 admitted, under seal)
+##
+$EXhibit No. D. 32 admitted, under seal)
 $WITNESS DB,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
@@ -16754,7 +16844,8 @@ Yes, please, go ahead. So this is a letter dated the 28th of September 1995.
 Signature, and end of translation, sir.
 @MR. MARÇAIS:
 I believe the interpreter has only read seven names -- I see seven names. At any rate the document is tendered to be included in the material for this trial.
-$Exhibit No. P. 33 admitted, under seal) 
+##
+$EXhibit No. P. 33 admitted, under seal) 
 @MR. PRESIDENT:
 That will be Defence Exhibit No. 33 under seal, and the seventh name was not read because it was illegible.
 @MR. MARÇAIS:
@@ -16817,6 +16908,7 @@ Approximately how long is the cross-examination?
 About ten minutes, Your Honour.
 @MR. PRESIDENT:
 Please go ahead . 
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -16920,7 +17012,8 @@ Your explanation is that the difference in the handwriting and the typeface is b
 That is correct.
 @MR. ADEOGUN-PHILLIPS:
 Very well, no further questions.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
 Very quickly on this one. Now, regarding the trip from Kibuye to Rubengera during which you took back Mr. Nors back home and the wife of Mr. Leonart, you have 26th of May for two reasons; the first reason was that it was Dr Leonart, as I think you just said --
@@ -17005,7 +17098,8 @@ You are making that request, aren't you?
 Yes, sir.
 @MR. PRESIDENT: 
 So, it is so admitted. 
-$Exhibit No. D. 34 admitted)
+##
+$EXhibit No. D. 34 admitted)
 @MR. PRESIDENT:
 Now, Defence -- that was Defence Exhibit 34. Defence, that brings us to witness eight on your list. So thank you to both parties for having completed four witnesses during each of these days, which makes four. But then you drew our attention yesterday to a possible need to prepare the next five witnesses. Now, where are you now, please?
 @MR. BESNIER:
@@ -17085,7 +17179,8 @@ So does this imply, then, that the document contains correct information about y
 That is correct, sir.
 @MR. PRESIDENT:
 Thank you very much. That will be 35, under seal; Defence Exhibit 35, under seal.
-$Exhibit No. D. 35 admitted, under seal)
+##
+$EXhibit No. D. 35 admitted, under seal)
 @MR. PRESIDENT:
 Please proceed. 
 @MR. BESNIER:
@@ -17093,6 +17188,7 @@ Thank you, Mr. President.
 $WITNESS DC,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -17647,7 +17743,7 @@ Number 36.
 Most grateful, Mr. President. That is all, as far as I'm concerned, at this time.
 @MR. PRESIDENT:
 Thank you. Prosecution, please. 
-JUDGE KHAN:
+@JUDGE KHAN:
 Excuse me, before Prosecution start cross-examination, I have a legal query to ask: whether keeping in view his character, he being a convict and a criminal, his statement before this Tribunal is worth credit? This is for you.
 @MR. BESNIER:
 Madam The Judge, can I make three points? 
@@ -17655,6 +17751,7 @@ One is this person came to testify in all sincerity.
 Two. Nothing in the RP on the statutes of the Tribunal makes a distinction between detainees and others so -- a detained witnesses and non-detained witness. 
 Three. I believe, of course, it is up to the Tribunal to determine. As far as I'm concerned, this man recognised his crimes, he pleaded guilty, and that would mitigate in favour of his credibility. 
 Finally, the Prosecutor himself introduced in his evidence a detained witness himself.
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -18066,7 +18163,8 @@ Now, this indictment contains a set of facts upon which your guilty plea was acc
 Yes.
 @MR. ADEOGUN-PHILLIPS:
 I have no further questions, Your Honour. Yes, enter this document as Prosecution Exhibit 35 with the help of the Registry, A and B, 35, A for the Kinyarwandan which is operational and B for the French, and perhaps C for the English. And whatever other documents my learned friend wants to enter can come after that, all four hundred pages he can have. I am grateful for your attention. 
-$Exhibit No. P. 35A, P. 35B and P. 35C admitted)
+##
+$EXhibit No. P. 35A, P. 35B and P. 35C admitted)
 @MR. PRESIDENT:
 Thank you. Well, the Court will receive these documents as exhibits, but we note the possibility that there may be incompleteness. Whether that is the case we will find out later after having received all the evidence in place.
 @MR. ADEOGUN-PHILLIPS: 
@@ -18296,12 +18394,14 @@ Does that imply that the information contained in that document is correct?
 Let me see. I see that the information is correct. 
 @MR. PRESIDENT:
 Thank you. Thirty-seven. Defence Exhibit 37, under seal.
-$Exhibit No. D. 37 admitted, under seal)
+##
+$EXhibit No. D. 37 admitted, under seal)
 @MR. PRESIDENT:
 Defence.
 $WITNESS DM
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
@@ -18662,6 +18762,7 @@ Please.
 @MR. ADEOGUN-PHILLIPS:
 Good morning, Your Honours. 
 $WITNESS DM
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -18994,9 +19095,11 @@ Yes.
 I'm grateful. 
 @MR. PRESIDENT:
 Under seal. Admitted.
-$Exhibit No. P. 36A, P. 36B, and P. 36C admitted, under seal)
+##
+$EXhibit No. P. 36A, P. 36B, and P. 36C admitted, under seal)
 @MR. PRESIDENT:
-Re-examination, please. 
+##
+$RE-Examination, please. 
 @MR. BESNIER:
 Mr. President, at this juncture I should like to make an observation. This document was only disclosed to us after the beginning of this hearing. I believe that it is regrettable. We are not here in a theatre where we have coup d'état and surprises. We are here to be serious. 
 The parties should disclose the material they have, and the Prosecutor should be told that when he has important material, he should disclose the material to his learned friends on the Defence. This is the observation I wanted to make, Mr. President. 
@@ -19042,7 +19145,8 @@ Mr. President, I have no difficulty with the ruling. I understand the grounds an
 You will make an application to have it admitted, and then we will deal with it in concreto, case-by-case basis based on the situation.
 @MR. BESNIER:
 Very well. Thank you, Mr. President. 
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
 Mr. Witness, am I correct in saying that yesterday you testified to the effect that you were guilty for three murders which you yourself committed? 
@@ -19351,7 +19455,8 @@ Does that imply that the information contained in that document is correct?
 Yes, the information is correct.
 @MR. PRESIDENT:
 That leads us to Defence Exhibit 38, under seal.
-$Exhibit D. 38 admitted under seal).
+##
+$EXhibit D. 38 admitted under seal).
 @MR. PRESIDENT:
 So you have to tell the truth, Mr. Witness, and the registry will administer the taking of your solemn declaration. 
 $Declaration made by Witness DO in Kinyarwanda)
@@ -19362,6 +19467,7 @@ Thank you, Mr. President.
 $WITNESS DO,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -19637,6 +19743,7 @@ She is indispensable.
 Indispensable; indispensable; okay.
 @MR. PRESIDENT:
 Mr. Witness, you will now be cross-examined by the Prosecution. 
+##
 $CROSS-EXAMINATION
 @MR. ADEOGUN-PHILLIPS:
 @MR. BESNIER:
@@ -20051,7 +20158,8 @@ The one that has 61, yes, on it.
 Yes. That is P. 37A and B, and C later on.
 @MR. ADEOGUN-PHILLIPS:
 Yes.
-$Exhibit P. 37A, P. 37B and P. 37C admitted, under seal)
+##
+$EXhibit P. 37A, P. 37B and P. 37C admitted, under seal)
 @MR. PRESIDENT:
 What is the next one?
 @MR. ADEOGUN-PHILLIPS:
@@ -20062,7 +20170,8 @@ Yes. Did you use that one?
 Yes, I did.
 @MR. PRESIDENT:
 Okay. So that will be P. 38.
-$Exhibit P. 38A, P. 38B and P. 38C admitted, under seal)
+##
+$EXhibit P. 38A, P. 38B and P. 38C admitted, under seal)
 @MR. ADEOGUN-PHILLIPS:
 And then the one -- the bulky one, which is the one for this witness, will be P. 39. In that order.
 @MR. PRESIDENT:
@@ -20073,12 +20182,15 @@ I am grateful.
 I think we will place all three of them under seal. 
 @MR. ADEOGUN-PHILLIPS:
 Okay.
-$Exhibit P. 39A, P. 39B and P. 39C admitted, under seal)
+##
+$EXhibit P. 39A, P. 39B and P. 39C admitted, under seal)
 @MR. PRESIDENT:
-Re-examination? 
+##
+$RE-Examination? 
 @MR. BESNIER:
 Just one or two questions, Mr. President.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
 Witness, do you recall that the Prosecutor asked you a question on the killing of the child of Rwabyuma?
@@ -20270,6 +20382,7 @@ $Declaration made by Witness DR in Kinyarwanda)
 $WITNESS DR,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. MARÇAIS:
 @MR. MARÇAIS:
@@ -20435,6 +20548,7 @@ You will recall that we didn't quite finish your testimony on Friday so now it c
 @WITNESS DR:
 Very well. 
 $WITNESS DR
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR MARÇAIS:
 @MR. MARÇAIS:
@@ -20519,6 +20633,7 @@ Yes, sir. I would have been informed. Nothing could have prevented me from knowi
 This is all for the examination-in-chief, Mr. President.
 @MR. PRESIDENT:
 Thank you very much. Prosecution.
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -20826,6 +20941,7 @@ Thank you, Mr. President.
 $WITNESS DN,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -21225,7 +21341,8 @@ Yes.
 Very well, Mr. President, I should like to pray that the original copy of this document be a Defence exhibit in French whilst we wait for the English translation, Mr. President.
 @MR. PRESIDENT:
 That is Defence Exhibit 41, is it? Exhibit 41A for the Kinyarwandan, 41B for the French, and the English will be C one day. And because the witness's name is mentioned, we will place it under seal, all these three versions of that exhibit.
-$Exhibit Nos. D. 41A, D. 41B and D. 41C admitted, under seal)
+##
+$EXhibit Nos. D. 41A, D. 41B and D. 41C admitted, under seal)
 @MR. BESNIER:
 Most obliged. I believe that the original is still with the witness, Mr. President. Perhaps it should be taken back and handed over to registry. 
 Registry, I still need your assistance.
@@ -21398,7 +21515,8 @@ This last document, was there a name you wanted to tender, Mr. Besnier? Was ther
 Yes, Mr. President. I should like to tender this document as an exhibit. It has the name of a person covered by Witness DN in his testimony, Mr. President.
 @MR. PRESIDENT:
 Yes. Defence Exhibit 42 under seal.
-$Exhibit No. D. 42 admitted, under seal)
+##
+$EXhibit No. D. 42 admitted, under seal)
 @MR. PRESIDENT:
 The Chamber has (microphone not activated), so I'm afraid that you have to start your cross-examination tomorrow, Mr. Phillips.
 Could we, before we leave each other now, have a look at the week and the remaining witnesses so that we make sure that even if we stop a bit earlier this week, that we will still have full control over the schedule.
@@ -21468,6 +21586,7 @@ Mr. President, I am sorry; I believed he said it in English that's why I didn't 
 @MR. PRESIDENT:
 That's very good. Now, you will now be cross-examined by the prosecution, Mr. Witness. Please proceed.
 $WITNESS DN
+##
 $CROSS-EXAMINATION 
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -22197,21 +22316,25 @@ Yes.
 The second one is the minutes in Kinyarwanda, which were read on the record.
 @MR. PRESIDENT: 
 Yes, and then we need the entire document, both the letter and the minutes, and that will be P. 42, again under seal.
-$Exhibit No. P. 42 admitted, under seal)
+##
+$EXhibit No. P. 42 admitted, under seal)
 @MR. KAPAYA:
 Yes, Your Honour.
 And finally, the piece of paper that contains a name, which was shown to the witness. 
 @MR. PRESIDENT:
 P. 43, under seal.
-$Exhibit No. P. 43 admitted, under seal)
+##
+$EXhibit No. P. 43 admitted, under seal)
 @MR. KAPAYA:
 Thank you. 
 @MR. PRESIDENT: 
 Thank you very much. 
-Re-examination. 
+##
+$RE-Examination. 
 @MR. BESNIER:
 Just a few questions, Mr. President.
-RE-EXAMINATION
+##
+$RE-EXAMINATION
 $BY MR. BESNIER:
 @MR. BESNIER:
 Witness, in May 1994 were there any military confrontations between the Rwandan armed forces and the RPF forces --
@@ -22451,7 +22574,8 @@ I thank you very much for being so kind to answer my questions.
 I have no other questions for this witness other than to enter the document before him as the next Prosecution exhibit.
 @MR. PRESIDENT:
 Thank you very much. Prosecution Exhibit 44 under seal. 
-$Exhibit No. P. 44 admitted, under seal)
+##
+$EXhibit No. P. 44 admitted, under seal)
 @MR. PRESIDENT:
 No re-examination? Thank you.
 @THE KINYARWANDA INTERPRETER:
@@ -22520,7 +22644,8 @@ Does that imply that the information contained in that document is correct?
 That is quite correct.
 @MR. PRESIDENT:
 Defence Exhibit 46 and received. 
-$Exhibit No. D. 46 admitted)
+##
+$EXhibit No. D. 46 admitted)
 @MR. PRESIDENT:
 You will now be asked questions by the Defence, first.
 @MR. BESNIER:
@@ -22578,11 +22703,13 @@ Does that imply that the information is correct?
 Yes, that is my signature. Yes, the information is correct.
 @MR. PRESIDENT:
 This is then Defence Exhibit 47 under seal. Thank you. 
-$Exhibit No. D. 47 admitted, under seal)
+##
+$EXhibit No. D. 47 admitted, under seal)
 Defence, please.
 $WITNESS DP,
 first having been duly sworn,
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 @MR. BESNIER:
 Thank you, Mr. President. 
@@ -23217,10 +23344,12 @@ Mr. Witness, the Accused is at your left or at your right? Mr. Ndindabahizi is s
 No, my left, my left. I mixed the two up. I'm sorry. No, at my left, and the other is on my right.
 @MR. PRESIDENT:
 So this is, then, Defence Exhibit 48.
-$Exhibit No. D. 48 admitted, under seal)
+##
+$EXhibit No. D. 48 admitted, under seal)
 @MR. PRESIDENT:
 Thank you very much.
 Prosecution, please. 
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -23689,6 +23818,7 @@ Defence, please.
 @MR. BESNIER:
 Thank you, Mr. President. 
 @WITNESS LUGAN
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -24129,7 +24259,8 @@ No. No. Pardon me. I looked at the index, and I am always cautious with indexes 
 Yes, Mr. President, we've already raised this issue during examination of Ms. Des Forges. I have her book, Leave None to Tell the Story and the expert, Lugar, has cited this work as a source when he speaks about the meeting of 8th April. He also says that the name of Emmanual Ndindabahizi is not in this book. We have supported that assertion, and we would like that this book, Leave None to Tell the Story, written by Alison Des Forges, be tendered as a defence exhibit.
 @MR. PRESIDENT:
 That will be D. 49.
-$Exhibit No. D. 49 admitted)
+##
+$EXhibit No. D. 49 admitted)
 @MR. BESNIER:
 Most obliged, Mr. President.
 $BY MR. BESNIER:
@@ -24146,7 +24277,8 @@ Let me read the entire sentence. "Next a government must be set up, a new govern
 Thank you, Witness. We also have a copy of this document and we should like to ask this document, as well, be tendered as the next Defence Exhibit, Mr. President.
 @MR. PRESIDENT:
 That's excerpts of the book, page 88?
-$Exhibit No. D. 50 admitted)
+##
+$EXhibit No. D. 50 admitted)
 @MR. BESNIER:
 Yes, Mr. President. That is correct.
 $BY MR. BESNIER:
@@ -24203,7 +24335,8 @@ Just a practical matter. Now we are 12 minutes late because I understand the Acc
 Now, you were in the middle of examination-in-chief. Please proceed. 
 @MR. BESNIER:
 Thank you, Mr. President. 
-BERNARD LUGAN,
+$BERNARD LUGAN,
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -24387,7 +24520,8 @@ So we can then enter that as the first exhibit?
 Yes, we have no objections to make.
 @MR. PRESIDENT:
 Thank you very much indeed. So the CV is D. 50 and this document is D. 51.
-$Exhibit Nos. D. 50 and D. 51 admitted)
+##
+$EXhibit Nos. D. 50 and D. 51 admitted)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER:
@@ -24489,7 +24623,8 @@ The last document is the expert report itself that the Tribunal already knows ab
 So you want, first, the preliminary report dated February 1996 from the commission concerning genocide and massacres to be entered as D. 52 first; that is the first document. And then after that one, you would wish the expert report itself to become D. 53, the French version being D. 53(A) and the English D. 53(B).
 @MR. BESNIER:
 That is it, Mr. President, indeed. Thank you very much.
-$Exhibit Nos. D. 52 and D. 53(A) and (B) admitted)
+##
+$EXhibit Nos. D. 52 and D. 53(A) and (B) admitted)
 @MR. PRESIDENT: 
 Mr. Witness, did you -- did you refer to Mr. Prunier also? Did you, in connection with this meeting, refer to a document by Mr. Prunier? You remember that I tried to find out your sources for the events on the 8th of April, and we have now gone through Alison Des Forges, page 230 of her book, page 14 of her expert report; that was one thing. Then we went through P. 25, and we took note of what was in there. Then, thirdly, we have looked at Filip Reyntjens' book, in particular page 88. Now, did you also did you also refer to Mr. Prunier in that context yesterday, as far as the chronology on the 8th is concerned?
 @WITNESS LUGAN:
@@ -24497,6 +24632,7 @@ In his book, Mr. Prunier does not speak of the day of the 8th of April.
 @MR. PRESIDENT: 
 That is fine. Thank you very much. 
 Cross-examination?
+##
 $CROSS-EXAMINATION
 $BY MR. KAPAYA:
 @MR. KAPAYA:
@@ -24924,7 +25060,8 @@ Okay. That's 47(A) for Kayishema.
 $B) for the Nahimana transcripts. 
 @MR. PRESIDENT:
 Now, you see, (A) Kayishema, English, (B) Kayishema, French, (C) Media, English, (D) Un universitaire français défend la colonisation, (E) le négationnisme, (F) affaire Lugan, (G) biblio monde, and (H) demasque. All right.
-$Exhibit No. P. 47(A), (B), (C), (D), (E), (F), (G) and (H) admitted)
+##
+$EXhibit No. P. 47(A), (B), (C), (D), (E), (F), (G) and (H) admitted)
 MR. KAPAYA:
 Yes, sir. Thank you. 
 @MR. BESNIER:
@@ -25036,9 +25173,10 @@ Thank you.
 Defence, please.
 @MR. BESNIER: 
 Than you, Mr. President.
-EMMANUEL NDINDABAHIZI,
+$EMMANUEL NDINDABAHIZI,
 first having been duly sworn, 
 testified as follows:
+##
 $EXAMINATION-IN-CHIEF
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -25195,7 +25333,8 @@ I see the one you are referring to, Mr. Ndindabahizi.
 Could we tender this as an exhibit, Mr. President?
 @MR. PRESIDENT: 
 D. 54, under seal.
-$Exhibit No. D. 54 admitted)
+##
+$EXhibit No. D. 54 admitted)
 @MR. BESNIER:
 Most obliged, Mr. President.
 $BY MR. BESNIER:
@@ -25311,7 +25450,8 @@ Yes, Mr. President.
 And you secured one in 1976; isn't it? So we have one from '74 and one from '76 and they would 56 and 57 exhibits for the Defence, yes.
 @MR. BESNIER:
 Thank you, Mr. President. 
-$Exhibit Nos. D. 55, D. 56 and D. 57 admitted)
+##
+$EXhibit Nos. D. 55, D. 56 and D. 57 admitted)
 $BY MR. BESNIER:
 @MR. BESNIER:
 Mr. Ndindabahizi, let's move on. I would like to know if during your studies, your secondary and university studies, if you regularly returned to your family in Gasharu?
@@ -25388,7 +25528,8 @@ And this is the document which the Defence has obtained recently in Kigali?
 Yes, Mr. President.
 @MR. PRESIDENT: 
 D. 58.
-$Exhibit No. D. 58 admitted)
+##
+$EXhibit No. D. 58 admitted)
 $BY MR. BESNIER:
 @MR. BESNIER:
 Why did you leave Trafipro, Mr. Ndindabahizi?
@@ -25429,7 +25570,8 @@ And the owners of that company, is that - - I understand that it may well be ass
 Yes, I did not work in that company. I don't have much information regarding its shareholders and its capital and the make-up of that. I am sorry, Mr. President, for not having that information.
 @MR. PRESIDENT: 
 So this is the attestation from Bralirwa then taken on the 14th of September 2003, D. 59. 
-$Exhibit No. D. 59 admitted)
+##
+$EXhibit No. D. 59 admitted)
 @MR. BESNIER:
 Thank you, Mr. President. 
 $BY MR. BESNIER:
@@ -25451,7 +25593,8 @@ Very well.
 Once again, Mr. President, the Defence has found a document of appointment for Mr. Ndindabahizi as an employee of the ministry of planning. It is a decree which was in the official gazette of the Rwandan Republic. This is a degree - - a decree rather dated 1st of December and on the second page you see that Mr. Ndindabahizi was transferred from electro gas to the ministry of planning as the divisional head.
 @MR. PRESIDENT: 
 D. 60.
-$Exhibit No. D. 60 admitted)
+##
+$EXhibit No. D. 60 admitted)
 $BY MR. BESNIER:
 @MR. BESNIER:
 In which city was the ministry of planning located?
@@ -25529,7 +25672,8 @@ Mr. Ndindabahizi, what was your position in the Ministry of Finance? What was it
 I was Director of Cabinet. That is the director of the office of the minister. I call it the Directeur de Cabinet in French.
 @MR. PRESIDENT:
 D. 61.
-$Exhibit No. D. 61 admitted)
+##
+$EXhibit No. D. 61 admitted)
 @MR. PRESIDENT:
 And if Defence counsel would give us some more information concerning the exact function of the Directeur de Cabinet, then that would be helpful.
 @MR. BESNIER:
@@ -26247,6 +26391,7 @@ Good afternoon, Mr. President.
 Your testimony continues.
 @MR. BESNIER:
 Thank you, Mr. President.
+##
 $EXAMINATION-IN-CHIEF (continued)
 $BY MR. BESNIER:
 @MR. BESNIER:
@@ -26859,19 +27004,23 @@ Mr. President, this question is part of defence (interpretation unintelligible) 
 Mr. President, these are the bills. The bills are hotel bills. One from Hilton Nairobi from the 11th to the 17th of May. We have the original copy here, which we would like to tender as an exhibit, Mr. President. And these are copies.
 @MR. PRESIDENT:
 D. 62.
-$Exhibit No. D. 62 admitted)
+##
+$EXhibit No. D. 62 admitted)
 @MR. BESNIER:
 Most obliged, Mr. President. We also have a copy of the passport of Mr. Emmanuel Ndindabahizi that shows his exit from Rwanda on the 11th of May 1994 and his return on the 18th of May 1994.
 @MR. PRESIDENT:
 D.63.
-$Exhibit No. D. 63 admitted)
+##
+$EXhibit No. D. 63 admitted)
 @MR. BESNIER:
 We also have two documents that show that Mr. Ndindabahizi, on the 17th of May, changed money in Nairobi, 17th of May 1994.
 @MR. PRESIDENT:
 D.64(A) for the one with 6,590 Canadian dollars, and D. 64(B) for the one 36,843.00.
 I'm just selecting a figure at random to identify the documents. I didn't select any important figure.
-$Exhibit No. D. 64(A) admitted)
-$Exhibit No. D. 64(B) admitted)
+##
+$EXhibit No. D. 64(A) admitted)
+##
+$EXhibit No. D. 64(B) admitted)
 @MR. BESNIER:
 Thank you, Mr. President. That is all. 
 $BY MR. BESNIER:
@@ -26940,7 +27089,8 @@ Should we first now maybe gather the documents written by the witness; namely th
 Yes, Mr. President.
 @MR. PRESIDENT:
 So then that's admitted, the handwritten declaration, we just saw the name of the investigator or the Rwandan. 
-$Exhibit No. D. 65 admitted)
+##
+$EXhibit No. D. 65 admitted)
 @MR. BESNIER:
 Under 92 bis (B), Mr. President, there's also an affidavit from a notary. This is just a form. I don't know if this affidavit should be filed separately or at the same time as the written statement. I think for good form, it should be filed separately.
 @MR. PRESIDENT:
@@ -27087,6 +27237,7 @@ As the Court pleases, Your Honour.
 @MR. PRESIDENT:
 Yes, please.
 Thank you, Defence.
+##
 $CROSS-EXAMINATION
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -27316,6 +27467,7 @@ Good afternoon, Mr. President.
 Your cross-examination continues. 
 @MR. ADEOGUN-PHILLIPS:
 Good afternoon, Mr. Ndindabahizi. Good afternoon to Your Honours and to the Defence. 
+##
 $CROSS-EXAMINATION (continued)
 $BY MR. ADEOGUN-PHILLIPS:
 @MR. ADEOGUN-PHILLIPS:
@@ -28337,7 +28489,8 @@ P. 48 for the sketch called family tree but which is not a family tree.
 No, it is not. 
 MR. PRESIDENT: 
 So P. 48 A and B for the English and French.
-$Exhibit Nos P. 48A and P. 48B admitted)
+##
+$EXhibit Nos P. 48A and P. 48B admitted)
 MR. ADEOGUN-PHILLIPS:
 And the bundle of documents contained in the pre-agreement as the next bunch of documents, sir which we are relying on.
 @MR. PRESIDENT:
@@ -28348,7 +28501,8 @@ No, that was just the reference. We will refer to that in the closing arguments,
 P. 49 for the pre-agreement from the Kambanda case.
 @MR. ADEOGUN-PHILLIPS:
 Yes.
-$Exhibit No. P. 49 admitted)
+##
+$EXhibit No. P. 49 admitted)
 @MR. ADEOGUN-PHILLIPS:
 Yes, I think that is all about it. I am grateful.
 @MR. PRESIDENT:
