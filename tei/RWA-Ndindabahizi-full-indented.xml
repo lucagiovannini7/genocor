@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">ICTR 2001-71-T</title>
-        <title type="sub">Emmanuel Ndindabahizi</title>
+        <title type="sub">v. Emmanuel Ndindabahizi</title>
         <author>
           <persName>International Criminal Tribunal for Rwanda</persName>
           <idno type="wikidata">Q478358</idno>
@@ -63,6 +63,9 @@
           </person>
           <person xml:id="judge-møse" role="presiding judge" sex="MALE">
             <persName>JUDGE MØSE</persName>
+          </person>
+		  <person xml:id="judge-kahn" role="judge" sex="MALE">
+            <persName>JUDGE KAHN</persName>
           </person>
           <person xml:id="mr-tafah" role="lawyer prosecution" sex="MALE">
             <persName>MR. TAFAH</persName>
@@ -6547,7 +6550,7 @@
             <speaker>WITNESS CGN:</speaker>
             <p>What do you mean that I was unable to recognise him? Can you repeat your question?</p>
           </sp>
-          <sp who="#the-english interpreters">
+          <sp who="#the-english-interpreters">
             <speaker>THE ENGLISH INTERPRETERS:</speaker>
             <p>Sorry, we missed the beginning of Counsel's question, if he can go over the question.</p>
           </sp>
@@ -36748,7 +36751,7 @@
             <speaker>WITNESS DO:</speaker>
             <p>No, I didn't see her.</p>
           </sp>
-          <sp who="#the-president">
+          <sp who="#mr-president">
             <speaker>THE PRESIDENT:</speaker>
             <p>Do you know whether she was there, even if you didn't see her? That can also be answered with a yes or no.</p>
           </sp>
